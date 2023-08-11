@@ -42,7 +42,7 @@
         <p>Created from scratch by James Cummings, but looking at previous tei_minimal and tei_bare exemplars by SPQR and
           LR.</p>
       </sourceDesc>
-    </fileDesc><encodingDesc><appInfo><application ident="RomaJS" version="1.0.0" when="2023-08-11T09:14:24.451Z"><desc>File edited with <ref target="https://github.com/TEIC/romajs">RomaJS</ref></desc></application></appInfo><appInfo><application ident="RomaJS" version="1.0.0" when="2023-08-11T09:25:40.358Z"><desc>File edited with <ref target="https://github.com/TEIC/romajs">RomaJS</ref></desc></application></appInfo></encodingDesc>
+    </fileDesc><encodingDesc><appInfo><application ident="RomaJS" version="1.0.0" when="2023-08-11T09:14:24.451Z"><desc>File edited with <ref target="https://github.com/TEIC/romajs">RomaJS</ref></desc></application></appInfo><appInfo><application ident="RomaJS" version="1.0.0" when="2023-08-11T09:25:40.358Z"><desc>File edited with <ref target="https://github.com/TEIC/romajs">RomaJS</ref></desc></application></appInfo><appInfo><application ident="RomaJS" version="1.0.0" when="2023-08-11T09:39:14.401Z"><desc>File edited with <ref target="https://github.com/TEIC/romajs">RomaJS</ref></desc></application></appInfo><appInfo><application ident="RomaJS" version="1.0.0" when="2023-08-11T09:45:42.077Z"><desc>File edited with <ref target="https://github.com/TEIC/romajs">RomaJS</ref></desc></application></appInfo></encodingDesc>
   </teiHeader>
   <text>
     <body>
@@ -69,7 +69,7 @@
         <moduleRef key="header" include="teiHeader fileDesc titleStmt publicationStmt sourceDesc"/>
         
         <!-- required core elements (p and title for use in titleStmt) -->
-        <moduleRef key="core" include="p title date note biblStruct bibl ref abbr list item foreign q quote graphic"/>
+        <moduleRef key="core" include="p title date note biblStruct bibl ref abbr list item foreign q quote graphic head pb"/>
         
         <!-- required textstructure elements (TEI, text, and body) -->
         <moduleRef key="textstructure" include="TEI text body div"/>
