@@ -5,7 +5,7 @@
          xmlns="http://relaxng.org/ns/structure/1.0"
          datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes"
          ns="http://www.tei-c.org/ns/1.0"><!--
-Schema generated from ODD source 2023-08-11T09:15:47Z. .
+Schema generated from ODD source 2023-08-11T09:26:24Z. .
 TEI Edition: Version 4.6.0. Last updated on
         4th April 2023, revision f18deffba
 TEI Edition Location: https://www.tei-c.org/Vault/P5/Version 4.6.0/
@@ -588,6 +588,47 @@ Sample values include: 1] all; 2] most; 3] range</a:documentation>
                <a:documentation>(medial) this is a medial part of a fragmented element</a:documentation>
                <value>F</value>
                <a:documentation>(final) this is the final part of a fragmented element</a:documentation>
+            </choice>
+         </attribute>
+      </optional>
+   </define>
+   <define name="tei_att.divLike.attributes">
+      <ref name="tei_att.fragmentable.attributes"/>
+      <ref name="tei_att.divLike.attribute.org"/>
+      <ref name="tei_att.divLike.attribute.sample"/>
+   </define>
+   <define name="tei_att.divLike.attribute.org">
+      <optional>
+         <attribute xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"
+                    name="org"
+                    a:defaultValue="uniform">
+            <a:documentation>(organization) specifies how the content of the division is organized.</a:documentation>
+            <choice>
+               <value>composite</value>
+               <a:documentation>no claim is made about the sequence in which the immediate contents of this division are to be processed, or their inter-relationships.</a:documentation>
+               <value>uniform</value>
+               <a:documentation>the immediate contents of this element are regarded as forming a logical unit, to be processed in sequence.</a:documentation>
+            </choice>
+         </attribute>
+      </optional>
+   </define>
+   <define name="tei_att.divLike.attribute.sample">
+      <optional>
+         <attribute xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"
+                    name="sample"
+                    a:defaultValue="complete">
+            <a:documentation>indicates whether this division is a sample of the original source and if so, from which part.</a:documentation>
+            <choice>
+               <value>initial</value>
+               <a:documentation>division lacks material present at end in source.</a:documentation>
+               <value>medial</value>
+               <a:documentation>division lacks material at start and end.</a:documentation>
+               <value>final</value>
+               <a:documentation>division lacks material at start.</a:documentation>
+               <value>unknown</value>
+               <a:documentation>position of sampled material within original unknown.</a:documentation>
+               <value>complete</value>
+               <a:documentation>division is not a sample.</a:documentation>
             </choice>
          </attribute>
       </optional>
@@ -2205,7 +2246,9 @@ Suggested values include: 1] internal; 2] external; 3] conjecture</a:documentati
       </choice>
    </define>
    <define name="tei_model.divLike">
-      <notAllowed/>
+      <choice>
+         <ref name="tei_div"/>
+      </choice>
    </define>
    <define name="tei_model.divGenLike">
       <notAllowed/>
@@ -3041,6 +3084,97 @@ Sample values include: 1] main; 2] sub (subordinate); 3] alt (alternate); 4] sho
          <empty/>
       </element>
    </define>
+   <define name="tei_div">
+      <element name="div">
+         <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">(text division) contains a subdivision of the front, body, or back of a text. [4.1. Divisions of the Body]</a:documentation>
+         <group>
+            <zeroOrMore>
+               <choice>
+                  <ref name="tei_model.divTop"/>
+        
+                  <ref name="tei_model.global"/>
+               </choice>
+            </zeroOrMore>
+            <optional>
+               <group>
+                  <choice>
+                     <oneOrMore>
+                        <group>
+                           <choice>
+                              <ref name="tei_model.divLike"/>
+                              <ref name="tei_model.divGenLike"/>
+                           </choice>
+                           <zeroOrMore>
+                              <ref name="tei_model.global"/>
+                           </zeroOrMore>
+                        </group>
+                     </oneOrMore>
+                     <group>
+                        <oneOrMore>
+                           <group>
+                              <choice>
+                
+                                 <ref name="tei_model.common"/>
+                              </choice>
+                              <zeroOrMore>
+                                 <ref name="tei_model.global"/>
+                              </zeroOrMore>
+                           </group>
+                        </oneOrMore>
+                        <zeroOrMore>
+                           <group>
+                              <choice>
+                                 <ref name="tei_model.divLike"/>
+                                 <ref name="tei_model.divGenLike"/>
+                              </choice>
+                              <zeroOrMore>
+                                 <ref name="tei_model.global"/>
+                              </zeroOrMore>
+                           </group>
+                        </zeroOrMore>
+                     </group>
+                  </choice>
+                  <zeroOrMore>
+                     <group>
+                        <ref name="tei_model.divBottom"/>
+                        <zeroOrMore>
+                           <ref name="tei_model.global"/>
+                        </zeroOrMore>
+                     </group>
+                  </zeroOrMore>
+               </group>
+            </optional>
+         </group>
+         <pattern xmlns="http://purl.oclc.org/dsdl/schematron"
+                  id="tei_beeing_human-div-abstractModel-structure-div-in-l-or-lg-constraint-report-8">
+            <rule context="tei:div">
+               <sch:report xmlns:rng="http://relaxng.org/ns/structure/1.0"
+                           xmlns:sch="http://purl.oclc.org/dsdl/schematron"
+                           xmlns="http://www.tei-c.org/ns/1.0"
+                           test="(ancestor::tei:l or ancestor::tei:lg) and not(ancestor::tei:floatingText)">
+        Abstract model violation: Lines may not contain higher-level structural elements such as div, unless div is a descendant of floatingText.
+      </sch:report>
+            </rule>
+         </pattern>
+         <pattern xmlns="http://purl.oclc.org/dsdl/schematron"
+                  id="tei_beeing_human-div-abstractModel-structure-div-in-ab-or-p-constraint-report-9">
+            <rule context="tei:div">
+               <sch:report xmlns:rng="http://relaxng.org/ns/structure/1.0"
+                           xmlns:sch="http://purl.oclc.org/dsdl/schematron"
+                           xmlns="http://www.tei-c.org/ns/1.0"
+                           test="(ancestor::tei:p or ancestor::tei:ab) and not(ancestor::tei:floatingText)">
+        Abstract model violation: p and ab may not contain higher-level structural elements such as div, unless div is a descendant of floatingText.
+      </sch:report>
+            </rule>
+         </pattern>
+         <ref name="tei_att.global.attributes"/>
+         <ref name="tei_att.divLike.attributes"/>
+         <ref name="tei_att.typed.attributes"/>
+         <ref name="tei_att.declaring.attributes"/>
+         <ref name="tei_att.written.attributes"/>
+         <empty/>
+      </element>
+   </define>
    <define name="tei_att.global.facs.attributes">
       <ref name="tei_att.global.facs.attribute.facs"/>
    </define>
@@ -3468,7 +3602,7 @@ Sample values include: 1] main; 2] sub (subordinate); 3] alt (alternate); 4] sho
          <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">(s-unit) contains a sentence-like division of a text. Used to identify phrasal references to bees, sound, voice, emotion, music with an @ana attribute. [17.1. Linguistic Segment Categories 8.4.1. Segmentation]</a:documentation>
          <ref name="tei_macro.phraseSeq"/>
          <pattern xmlns="http://purl.oclc.org/dsdl/schematron"
-                  id="tei_beeing_human-s-noNestedS-constraint-report-8">
+                  id="tei_beeing_human-s-noNestedS-constraint-report-10">
             <rule context="tei:s">
                <report xmlns:rng="http://relaxng.org/ns/structure/1.0" test="tei:s">You may not nest one s element within
       another: use seg instead</report>
