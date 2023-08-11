@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>TEI Beeing Human</title>
+        <author>Tiago Sousa Garcia</author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>TEI Consortium</publisher>
+        <availability status="free">
+          <licence target="http://creativecommons.org/licenses/by-sa/3.0/"> Distributed under a Creative Commons
+            Attribution-ShareAlike 3.0 Unported License </licence>
+          <licence target="http://www.opensource.org/licenses/BSD-2-Clause">
+            <p>Copyright 2013 TEI Consortium.</p>
+            <p>All rights reserved.</p>
+            <p>Redistribution and use in source and binary forms, with or without modification, are permitted provided that
+              the following conditions are met:</p>
+            <list>
+              <item>Redistributions of source code must retain the above copyright notice, this list of conditions and the
+                following disclaimer.</item>
+              <item>Redistributions in binary form must reproduce the above copyright notice, this list of conditions and
+                the following disclaimer in the documentation and/or other materials provided with the
+                distribution.</item>
+            </list>
+            <p>This software is provided by the copyright holders and contributors "as is" and any express or implied
+              warranties, including, but not limited to, the implied warranties of merchantability and fitness for a
+              particular purpose are disclaimed. In no event shall the copyright holder or contributors be liable for any
+              direct, indirect, incidental, special, exemplary, or consequential damages (including, but not limited to,
+              procurement of substitute goods or services; loss of use, data, or profits; or business interruption) however
+              caused and on any theory of liability, whether in contract, strict liability, or tort (including negligence
+              or otherwise) arising in any way out of the use of this software, even if advised of the possibility of such
+              damage.</p>
+          </licence>
+          <p>TEI material can be licensed differently depending on the use you intend to make of it. Hence it is made
+            available under both the CC+BY and BSD-2 licences. The CC+BY licence is generally appropriate for usages which
+            treat TEI content as data or documentation. The BSD-2 licence is generally appropriate for usage of TEI content
+            in a software environment. For further information or clarification, please contact the <ref target="mailto:info@tei-c.org">TEI Consortium</ref>. </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Created from scratch by James Cummings, but looking at previous tei_minimal and tei_bare exemplars by SPQR and
+          LR.</p>
+      </sourceDesc>
+    </fileDesc><encodingDesc><appInfo><application ident="RomaJS" version="1.0.0" when="2023-08-11T09:14:24.451Z"><desc>File edited with <ref target="https://github.com/TEIC/romajs">RomaJS</ref></desc></application></appInfo></encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <head>A Minimal TEI Customization</head>
+      
+      <p>This TEI ODD defines a TEI customization that is as minimal as possible and the schema generated from it will validate
+        a document that is minimally valid against the TEI scheme. It includes only the ten required elements:
+        <list rend="numbered">
+          <item><gi>teiHeader</gi> from the header module to store required metadata</item>
+          <item><gi>fileDesc</gi> from the header module to record information about this file</item>
+          <item><gi>titleStmt</gi> from the header module to record information about the title</item>
+          <item><gi>publicationStmt</gi> from the header module to detail how it is published</item>
+          <item><gi>sourceDesc</gi> from the header module to record where it is from</item>
+          <item><gi>p</gi> from the core module for use in the header and the body</item>
+          <item><gi>title</gi> from the core module for use in the titleStmt</item>
+          <item><gi>TEI</gi> from the textstructure module because what is a TEI file without that?</item>
+          <item><gi>text</gi> from the textstructure module to hold some text</item>
+          <item><gi>body</gi> from the textstructure module as a place to put that text</item>
+        </list>
+      </p>
+      <schemaSpec ident="tei_beeing_human" start="TEI" prefix="tei_" targetLang="en" docLang="en">
+        
+        <!-- required minimal header elements -->
+        <moduleRef key="header" include="teiHeader fileDesc titleStmt publicationStmt sourceDesc"/>
+        
+        <!-- required core elements (p and title for use in titleStmt) -->
+        <moduleRef key="core" include="p title date note biblStruct bibl ref abbr list item foreign q quote graphic"/>
+        
+        <!-- required textstructure elements (TEI, text, and body) -->
+        <moduleRef key="textstructure" include="TEI text body"/>
+        
+        <!-- required module tei instantiates lots of classes used for further expansion of this odd -->
+        <moduleRef key="tei"/>
+        
+        
+      <moduleRef key="transcr" include="fw"/><moduleRef key="namesdates" include="persName placeName orgName"/><moduleRef key="analysis" include="w s"/><moduleRef key="figures" include="figure figDesc"/><elementSpec ident="date" mode="change"><desc versionDate="2023-08-11" xml:lang="en">contains a date in any format. It must include a @when attribute with the date in the standard format yyyy-mm-dd. If there isn't enough information, record at least the year, leaving the remaining month and day out.</desc><attList><attDef ident="when" mode="change" usage="req"><desc versionDate="2023-08-11" xml:lang="en">supplies the value of the date or time in a standard form,
+        e.g. yyyy-mm-dd.
+    When only the year is known, use 
+        e.g. yyyy
+    not including month and year.</desc></attDef></attList></elementSpec><elementSpec ident="fw" mode="change"><attList><attDef ident="type" mode="change" usage="req"><valList type="closed" mode="change"/></attDef></attList></elementSpec><elementSpec ident="note" mode="change"><desc versionDate="2023-08-11" xml:lang="en">contains a note or annotation, either included in the original, or added by the editor. The types of notes are distinguished by a @type attribute, with further subtyping with the @subtype attribute. If it is a side-note, this should be noted with a @place attribute of "margin". Also used to mark up words and passages that have been transcribed with low certainty or might require double-checking.</desc><attList><attDef ident="type" mode="change" usage="req"><valList type="closed" mode="change"><valItem mode="add" ident="authorial"><desc versionDate="2023-08-11" xml:lang="en">Notes originating from the copy text, probably authorial.</desc></valItem><valItem mode="add" ident="editorial"><desc versionDate="2023-08-11" xml:lang="en">Notes added by the editor, glosses, bibliographic, etc.</desc></valItem></valList></attDef><attDef ident="subtype" mode="change" usage="req"><valList type="closed" mode="change"><valItem mode="add" ident="summary"><desc versionDate="2023-08-11" xml:lang="en">Contains a summary of a related paragraph or textual passage.</desc></valItem><valItem mode="add" ident="bibliographic"><desc versionDate="2023-08-11" xml:lang="en">Contains bibliographic information on a related paragraph or textual passage.</desc></valItem><valItem mode="add" ident="gloss"><desc versionDate="2023-08-11" xml:lang="en">Contains a gloss on a related paragraph or textual passage.</desc></valItem><valItem mode="add" ident="other"><desc versionDate="2023-08-11" xml:lang="en">Other types of note, not yet defined.</desc></valItem><valItem mode="add" ident="certainty"><desc versionDate="2023-08-11" xml:lang="en">Marks the passage as being an uncertain transcription. Use @cert to add more detail.</desc></valItem></valList></attDef><attDef ident="cert" mode="change"><valList type="closed" mode="change"><valItem mode="add" ident="low"/><valItem mode="add" ident="medium"/><valItem mode="add" ident="high"/><valItem mode="add" ident="check"><desc versionDate="2023-08-11" xml:lang="en">Marks this passage as requiring double-checking. If a positive conclusion can be achieved, the note may be removed.</desc></valItem></valList></attDef></attList></elementSpec><elementSpec ident="w" mode="change"><desc versionDate="2023-08-11" xml:lang="en">represents a grammatical (not necessarily orthographic) word -- used to mark words of special meaning and interest.</desc><attList><attDef ident="ana" mode="change" usage="rec"><desc versionDate="2023-08-11" xml:lang="en">indicates one or more elements containing interpretations of the
+element on which the <att>ana</att> attribute appears. Identifies this word as a reference to bees, sound, voice, emotion, or music. To identify references use @ana with the corresponding value.</desc><valList type="semi" mode="change"><valItem mode="add" ident="bee"><desc versionDate="2023-08-11" xml:lang="en">Identifies this word as a reference to bees, the animal.</desc></valItem><valItem mode="add" ident="sound"><desc versionDate="2023-08-11" xml:lang="en">Identifies this word as a reference to sound.</desc></valItem><valItem mode="add" ident="voice"><desc versionDate="2023-08-11" xml:lang="en">Identifies this word as a reference to voice.</desc></valItem><valItem mode="add" ident="emotion"><desc versionDate="2023-08-11" xml:lang="en">Identifies this word as a reference to emotion.</desc></valItem><valItem mode="add" ident="music"><desc versionDate="2023-08-11" xml:lang="en">Identifies this word as a reference to music.</desc></valItem></valList></attDef></attList></elementSpec><elementSpec ident="s" mode="change"><desc versionDate="2023-08-11" xml:lang="en">contains a sentence-like division of a text. Used to identify phrasal references to bees, sound, voice, emotion, music with an @ana attribute.</desc><attList><attDef ident="ana" mode="change" usage="rec"><valList type="semi" mode="change"><valItem mode="add" ident="bees"/><valItem mode="add" ident="voice"/><valItem mode="add" ident="sound"/><valItem mode="add" ident="music"/><valItem mode="add" ident="emotion"/></valList></attDef></attList></elementSpec><elementSpec ident="foreign" mode="change"><attList><attDef ident="xml:lang" mode="change" usage="rec"/></attList></elementSpec><classRef key="att.placement"/></schemaSpec>
+    </body>
+  </text>
+</TEI>
