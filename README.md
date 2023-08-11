@@ -1,4 +1,4 @@
-# Bee-ing Human Web Portal
+# Bee-ing Human TEI data
 
 Subrepo for the development of the TEI encoding necessary for Bee-ing Human. For more on the project itself, see [the main repo](https://github.com/NewcastleRSE/beeing-human).
 
