@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model
+  href="schema/tei_beeing_human.rng"
+  schematypens="http://relaxng.org/ns/structure/1.0"
+  type="application/xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Schema test</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>No info</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>no infor</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="chapter">
+                <head type="chapter">Of the swarming of Bees, and the hiving of them.</head>
+                <head type="chapter-number" n="5">CHAP. 5</head>
+
+                <p><note type="authorial" subtype="summary">1. The parts of a swarme.</note> {T}He
+                    stocks having bred and filled their hives do send forth swarms. A swarme doth
+                    consist of al such partes as the stocke doth, namely of a queene-bee, hony-bees
+                    as wel old as yong, and drone bees. </p>
+                <p><note type="authorial" subtype="summary">2. When you may see the queene-bee.</note>
+                    If any man desire to see the queene, he hath now opportunity, when she goeth
+                    forth with her swarme: *v.n./*27 and dead ones he may find many before the
+                    stooles when the stocks have cast their last swarmes, *v.n./*29. and also when
+                    many meete in one swarme, *v.c./*1.*n/*7.</p>
+                <p><note type="authorial" subtype="summary">2 The swarme no younger then the stocke.</note>
+                    Men thinke that the swarme consisteth only of yong Bees, and that the old Bees
+                    only tary behinde: but indeed (though it may seeme strange) the swarme is no
+                    younger, then the stocke: for there are in both of both sortes. The yong Bees
+                    remaine in the stock with the old for their defence and for the greatest
+                    labours, *v./* *V.c./*I.*n/ *55./&amp; the old ones go with the yonge in the
+                    swarme for their aid and guidance in their worke. </p>
+                <p>The drones they take with them for propa-</p>
+                <fw type="catch">gati-</fw>
+
+                <pb />
+
+                <fw type="header">the swarming of Bees</fw>
+
+                <p>\*v.c.*/4/ gation of their kinde. *v/* \4 *Many drones in a swarme a good
+                    signe./*/ And therefore those swarmes that have many drones wil surely prosper:
+                    and if they be rathe wil swarme againe, unlesse they bee over-hived: whereas
+                    those that have fewe or none, will increase little or nothing all the sommer
+                    after. </p>
+                <p>\5 *A kinde spring for swarmes./* A warme, calme, and showring spring causeth
+                    many &amp; rathe swarmes: whereas dry, windy, and cold-stormy wether doth then
+                    worke contrary effects. For it both hindereth the breeding, because the old Bees
+                    at such times wil go little abroad, and when they do, they find smal state in
+                    the flowers; and also destroyeth the breed, because the tender fry adventuring
+                    into the ungentle aire, are so beaten &amp; chilled upon a sodaine, that few are
+                    able to recover the hive. </p>
+                <p>\His l.5.c.22./ \Nat hist li.II.c.17.6/ *Augent melta siccitates, sobolem imbres.
+                    Humide vere melior fœtus, sicco mel copiosius./*</p>
+                <p>\6 *Swarming wether/*/ Likewise in warme and calme weather the swarmes delighte
+                    to arise, but specially in a gloome after a showre; in extreme hot and dry
+                    wether not so: *v/* \*V.n./*19./ in so much that stals being ful and ready to
+                    swarme with the first, are somtime so kept backe with cold dry windes in
+                    *Gemini,/* and with extreme heat &amp; drought in *Cancer,/* that they have not
+                    swarmed at al that yeere.</p>
+                <p>\7 *The swarming howres/*/The swarmes use to come forth betweene the howres of
+                    nine and three, but chieflie betweene eleven and one. They choose rather the
+                    forenoone if the wether please them: other [cw: wise]</p>
+
+            </div>
+        </body>
+    </text>
+</TEI>
