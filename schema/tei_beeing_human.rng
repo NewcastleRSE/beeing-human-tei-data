@@ -5,7 +5,7 @@
          xmlns="http://relaxng.org/ns/structure/1.0"
          datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes"
          ns="http://www.tei-c.org/ns/1.0"><!--
-Schema generated from ODD source 2023-08-22T10:17:09Z. .
+Schema generated from ODD source 2023-08-23T08:14:34Z. .
 TEI Edition: Version 4.6.0. Last updated on
         4th April 2023, revision f18deffba
 TEI Edition Location: https://www.tei-c.org/Vault/P5/Version 4.6.0/
@@ -1638,28 +1638,40 @@ The element indicated by @spanTo (<sch:value-of select="@spanTo"/>) must follow 
    </define>
    <define name="tei_model.ptrLike">
       <choice>
+         <ref name="tei_ptr"/>
          <ref name="tei_ref"/>
       </choice>
    </define>
    <define name="tei_model.ptrLike_alternation">
       <choice>
+         <ref name="tei_ptr"/>
          <ref name="tei_ref"/>
       </choice>
    </define>
    <define name="tei_model.ptrLike_sequence">
+      <ref name="tei_ptr"/>
       <ref name="tei_ref"/>
    </define>
    <define name="tei_model.ptrLike_sequenceOptional">
+      <optional>
+         <ref name="tei_ptr"/>
+      </optional>
       <optional>
          <ref name="tei_ref"/>
       </optional>
    </define>
    <define name="tei_model.ptrLike_sequenceOptionalRepeatable">
       <zeroOrMore>
+         <ref name="tei_ptr"/>
+      </zeroOrMore>
+      <zeroOrMore>
          <ref name="tei_ref"/>
       </zeroOrMore>
    </define>
    <define name="tei_model.ptrLike_sequenceRepeatable">
+      <oneOrMore>
+         <ref name="tei_ptr"/>
+      </oneOrMore>
       <oneOrMore>
          <ref name="tei_ref"/>
       </oneOrMore>
@@ -1704,6 +1716,7 @@ The element indicated by @spanTo (<sch:value-of select="@spanTo"/>) must follow 
       <choice>
          <ref name="tei_pb"/>
          <ref name="tei_lb"/>
+         <ref name="tei_cb"/>
          <ref name="tei_fw"/>
       </choice>
    </define>
@@ -1711,12 +1724,14 @@ The element indicated by @spanTo (<sch:value-of select="@spanTo"/>) must follow 
       <choice>
          <ref name="tei_pb"/>
          <ref name="tei_lb"/>
+         <ref name="tei_cb"/>
          <ref name="tei_fw"/>
       </choice>
    </define>
    <define name="tei_model.milestoneLike_sequence">
       <ref name="tei_pb"/>
       <ref name="tei_lb"/>
+      <ref name="tei_cb"/>
       <ref name="tei_fw"/>
    </define>
    <define name="tei_model.milestoneLike_sequenceOptional">
@@ -1725,6 +1740,9 @@ The element indicated by @spanTo (<sch:value-of select="@spanTo"/>) must follow 
       </optional>
       <optional>
          <ref name="tei_lb"/>
+      </optional>
+      <optional>
+         <ref name="tei_cb"/>
       </optional>
       <optional>
          <ref name="tei_fw"/>
@@ -1738,6 +1756,9 @@ The element indicated by @spanTo (<sch:value-of select="@spanTo"/>) must follow 
          <ref name="tei_lb"/>
       </zeroOrMore>
       <zeroOrMore>
+         <ref name="tei_cb"/>
+      </zeroOrMore>
+      <zeroOrMore>
          <ref name="tei_fw"/>
       </zeroOrMore>
    </define>
@@ -1747,6 +1768,9 @@ The element indicated by @spanTo (<sch:value-of select="@spanTo"/>) must follow 
       </oneOrMore>
       <oneOrMore>
          <ref name="tei_lb"/>
+      </oneOrMore>
+      <oneOrMore>
+         <ref name="tei_cb"/>
       </oneOrMore>
       <oneOrMore>
          <ref name="tei_fw"/>
@@ -2808,12 +2832,32 @@ Sample values include: 1] suspension (suspension); 2] contraction (contraction);
          <empty/>
       </element>
    </define>
+   <define name="tei_ptr">
+      <element name="ptr">
+         <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">(pointer) defines a pointer to another location. [3.7. Simple Links and Cross-References 16.1. Links]</a:documentation>
+         <empty/>
+         <pattern xmlns="http://purl.oclc.org/dsdl/schematron"
+                  id="tei_beeing_human-ptr-ptrAtts-constraint-report-7">
+            <rule context="tei:ptr">
+               <report xmlns:rng="http://relaxng.org/ns/structure/1.0" test="@target and @cRef">Only one of the
+attributes @target and @cRef may be supplied on <name/>.</report>
+            </rule>
+         </pattern>
+         <ref name="tei_att.cReferencing.attributes"/>
+         <ref name="tei_att.declaring.attributes"/>
+         <ref name="tei_att.global.attributes"/>
+         <ref name="tei_att.internetMedia.attributes"/>
+         <ref name="tei_att.pointing.attributes"/>
+         <ref name="tei_att.typed.attributes"/>
+         <empty/>
+      </element>
+   </define>
    <define name="tei_ref">
       <element name="ref">
          <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">(reference) defines a reference to another location, possibly modified by additional text or comment. [3.7. Simple Links and Cross-References 16.1. Links]</a:documentation>
          <ref name="tei_macro.paraContent"/>
          <pattern xmlns="http://purl.oclc.org/dsdl/schematron"
-                  id="tei_beeing_human-ref-refAtts-constraint-report-7">
+                  id="tei_beeing_human-ref-refAtts-constraint-report-8">
             <rule context="tei:ref">
                <report xmlns:rng="http://relaxng.org/ns/structure/1.0" test="@target and @cRef">Only one of the
 	attributes @target' and @cRef' may be supplied on <name/>
@@ -3060,6 +3104,40 @@ Elements 7.2.5. Speech Contents]</a:documentation>
          <ref name="tei_att.edition.attributes"/>
          <ref name="tei_att.spanning.attributes"/>
          <ref name="tei_att.breaking.attributes"/>
+         <empty/>
+      </element>
+   </define>
+   <define name="tei_cb">
+      <element name="cb">
+         <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">(column beginning) marks the beginning of a new column of a text on a multi-column page. The element should be placed at the start of the column, and it should contain an <code xmlns="http://www.w3.org/1999/xhtml">@n</code> indicating whether it is a left- (1) or right-hand(2) sided column [3.11.3. Milestone
+Elements]</a:documentation>
+         <empty/>
+         <ref name="tei_att.global.attribute.xmlid"/>
+         <ref name="tei_att.global.attribute.xmllang"/>
+         <ref name="tei_att.global.attribute.xmlbase"/>
+         <ref name="tei_att.global.attribute.xmlspace"/>
+         <ref name="tei_att.global.rendition.attribute.rend"/>
+         <ref name="tei_att.global.rendition.attribute.style"/>
+         <ref name="tei_att.global.rendition.attribute.rendition"/>
+         <ref name="tei_att.global.analytic.attribute.ana"/>
+         <ref name="tei_att.global.facs.attribute.facs"/>
+         <ref name="tei_att.global.change.attribute.change"/>
+         <ref name="tei_att.global.responsibility.attribute.cert"/>
+         <ref name="tei_att.global.responsibility.attribute.resp"/>
+         <ref name="tei_att.global.source.attribute.source"/>
+         <ref name="tei_att.typed.attributes"/>
+         <ref name="tei_att.edition.attributes"/>
+         <ref name="tei_att.spanning.attributes"/>
+         <ref name="tei_att.breaking.attributes"/>
+         <attribute name="n">
+            <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">(number) gives a number (or other label) for an element, which is not necessarily unique within the document.</a:documentation>
+            <choice>
+               <value>1</value>
+               <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Left-hand side column</a:documentation>
+               <value>2</value>
+               <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Right-hand side column</a:documentation>
+            </choice>
+         </attribute>
          <empty/>
       </element>
    </define>
@@ -3415,7 +3493,7 @@ Sample values include: 1] main; 2] sub (subordinate); 3] alt (alternate); 4] sho
             </choice>
          </zeroOrMore>
          <pattern xmlns="http://purl.oclc.org/dsdl/schematron"
-                  id="tei_beeing_human-l-abstractModel-structure-l-in-l-constraint-report-8">
+                  id="tei_beeing_human-l-abstractModel-structure-l-in-l-constraint-report-9">
             <rule context="tei:l">
                <sch:report xmlns:rng="http://relaxng.org/ns/structure/1.0"
                            xmlns:sch="http://purl.oclc.org/dsdl/schematron"
@@ -3477,7 +3555,7 @@ Sample values include: 1] main; 2] sub (subordinate); 3] alt (alternate); 4] sho
             </rule>
          </pattern>
          <pattern xmlns="http://purl.oclc.org/dsdl/schematron"
-                  id="tei_beeing_human-lg-abstractModel-structure-lg-in-l-constraint-report-9">
+                  id="tei_beeing_human-lg-abstractModel-structure-lg-in-l-constraint-report-10">
             <rule context="tei:lg">
                <sch:report xmlns:rng="http://relaxng.org/ns/structure/1.0"
                            xmlns:sch="http://purl.oclc.org/dsdl/schematron"
@@ -3930,7 +4008,7 @@ Sample values include: 1] main; 2] sub (subordinate); 3] alt (alternate); 4] sho
             </optional>
          </group>
          <pattern xmlns="http://purl.oclc.org/dsdl/schematron"
-                  id="tei_beeing_human-div-abstractModel-structure-div-in-l-or-lg-constraint-report-10">
+                  id="tei_beeing_human-div-abstractModel-structure-div-in-l-or-lg-constraint-report-11">
             <rule context="tei:div">
                <sch:report xmlns:rng="http://relaxng.org/ns/structure/1.0"
                            xmlns:sch="http://purl.oclc.org/dsdl/schematron"
@@ -3941,7 +4019,7 @@ Sample values include: 1] main; 2] sub (subordinate); 3] alt (alternate); 4] sho
             </rule>
          </pattern>
          <pattern xmlns="http://purl.oclc.org/dsdl/schematron"
-                  id="tei_beeing_human-div-abstractModel-structure-div-in-ab-or-p-constraint-report-11">
+                  id="tei_beeing_human-div-abstractModel-structure-div-in-ab-or-p-constraint-report-12">
             <rule context="tei:div">
                <sch:report xmlns:rng="http://relaxng.org/ns/structure/1.0"
                            xmlns:sch="http://purl.oclc.org/dsdl/schematron"
@@ -4598,7 +4676,7 @@ Suggested values include: 1] main (main); 2] sub (subordinate); 3] alt (alternat
          <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">(s-unit) contains a sentence-like division of a text. Used to identify phrasal references to bees, sound, voice, emotion, music with an @ana attribute. [17.1. Linguistic Segment Categories 8.4.1. Segmentation]</a:documentation>
          <ref name="tei_macro.phraseSeq"/>
          <pattern xmlns="http://purl.oclc.org/dsdl/schematron"
-                  id="tei_beeing_human-s-noNestedS-constraint-report-12">
+                  id="tei_beeing_human-s-noNestedS-constraint-report-13">
             <rule context="tei:s">
                <report xmlns:rng="http://relaxng.org/ns/structure/1.0" test="tei:s">You may not nest one s element within
       another: use seg instead</report>
