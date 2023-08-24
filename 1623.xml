@@ -67,6 +67,7 @@
     <text>
         <front>
             <!-- FRONTISPIECE NEEDS TO BE ENCODED -->
+            <pb n="¶2r" />
             <titlePage>
                 <docTitle>
                     <titlePart type="main">THE <lb />
@@ -101,8 +102,8 @@
                         when="1623">1 6 2 3</date>
                 </docImprint>
             </titlePage>
-            <pb />
-            <pb />
+            <pb n="¶2v" />
+            <pb n="¶3r" />
             <div type="preface">
                 <!-- PRINTERS ORNAMENT missing -->
                 <head>THE PREFACE TO THE <hi rend="titleCase smallCapitals">Reader</hi>.</head>
@@ -133,7 +134,8 @@
                     necessity. But, to omit comparison, the worke and fruit of the little Bee is so
                     great and wonderfull, so comely for order and <fw type="catch"> beauty,</fw>
                 
-                <pb />
+                <pb
+                        n="¶3v" />
                 <fw
                         type="header">The Preface to the Reader.</fw> beauty, so excellent for Art
                     and wisdome, and so full of pleasure and profit; that the contemplation thereof
@@ -183,8 +185,9 @@
                     for ornament and authoritie inserted. But the later Writers, imitating the
                     ancient where they thought good, chusing some of their directions and refusing
                     o- <fw type="catch">thers,</fw>
-                <pb />
-                <fw type="header">The Preface to the
+                <pb n="¶4r" />
+                <fw type="header">The Preface to
+                        the
                         Reader.</fw> thers doe, for the most part, unluckily light upon the worse:
                     so that being compared, they are no way matchable unto them; whom by the
                     advantage of time they might haue surpassed. Among which <persName>Georgius
@@ -222,7 +225,8 @@
                         Rex</foreign>. As many as followed him, searching no farther then he did,
                     were content to say as he said. So that I am in- <fw type="catch"> forced</fw>
 
-                <pb />
+                <pb
+                        n="¶4v" />
                 <fw
                         type="header">The Preface to the Reader.</fw> forced (unlesse I wil choose
                     rather to offend in <foreign xml:lang="la">rebus</foreign> then in <foreign
@@ -270,7 +274,7 @@
                         V.</term> without <hi rend="italic">C</hi>; then doth it note some Note of
                     the same Chapter. <fw
                         type="catch"> I am</fw>
-                    <pb />
+                    <pb n="A1r" />
                     <fw type="header">
                         The Preface to the Reader.
                     </fw> I
@@ -295,7 +299,7 @@
                 <signed>CHAR: BVTLER.</signed>
             </div>
             <fw type="catch"> Ad</fw>
-            <pb />
+            <pb n="A1v" />
             <div type="dedication">
                 <fw type="ornament"></fw>
                 <div type="poem" xml:lang="la">
@@ -337,7 +341,7 @@
                         <l>How seriously their <hi rend="italic">Bus'nesse</hi> they intend; </l>
                         <l>How stoutly they their <hi rend="italic">Common-good</hi> defend;</l>
                         <fw type="catch"> How</fw>
-                        <pb />
+                        <pb n="A2r" />
                         <l>How timely their <hi rend="italic">Provisions</hi> are provided; </l>
                         <l>How orderly their <hi rend="italic">Labors</hi> are divided; </l>
                         <l>What <hi rend="italic">Vertues</hi> patterns, and what grounds of <hi
@@ -388,7 +392,7 @@
                         <l>And is contended that, to helpe us thrive, </l>
                         <l>We should partake the profit of his <hi rend="italic">Hive.</hi></l>
                         <fw type="catch"> For</fw>
-                        <pb />
+                        <pb n="A2v" />
                         <l>For which (<hi rend="italic">my share</hi>) I thanke him: and for those </l>
                         <l>The <hi rend="italic">Muses-Birds</hi>; whose nature here he showes. </l>
                         <l>And mauger such as will his <hi rend="italic">Paines</hi> contemne, </l>
@@ -410,7 +414,7 @@
                 </div>
                 <fw type="ornament" />
             </div>
-            <pb />
+            <pb n="A3r" />
             <div type="contents">
                 <fw type="ornament" />
                 <head type="sectionTitle" rend="titleCase"> The Chapters, or the Contents of <hi
@@ -528,7 +532,8 @@
                                     type="catch">
                                     <hi rend="italic">when</hi>
                                 </fw>
-                                <pb />
+                                <pb
+                                    n="A3v" />
                                 <cb
                                     n="2" />
                                 <hi rend="italic">when the Bee is gon.</hi>
@@ -691,7 +696,7 @@
                             <fw type="catch">
                                 <hi rend="italic">15 The</hi>
                             </fw>
-                            <pb />
+                            <pb n="[A4]r" />
                             <cb n="1" />
                             <item>15 <hi rend="italic">The Hives alwaies well hackled.</hi><ptr
                                     target="#" /></item>
@@ -820,7 +825,7 @@
                             <fw type="catch">
                                 <hi rend="italic">9 The</hi>
                             </fw>
-                            <pb />
+                            <pb n="[A4]v" />
                             <cb n="1" />
                             <item>9 <hi rend="italic">The breeding of Dorres by Drones.</hi><ptr
                                     target="#" /></item>
@@ -962,7 +967,7 @@
                             <fw type="catch">
                                 <hi rend="italic">39 Some</hi>
                             </fw>
-                            <pb />
+                            <pb n="A4r" />
                             <cb n="1" />
                             <item>39 <hi rend="italic">Some swarmes provide them houses aforehand.</hi><ptr
                                     target="#" /></item>
@@ -1113,7 +1118,7 @@
                             <item>25 <hi rend="italic">And reason.</hi><ptr target="#" /></item>
                             <item>26 <hi rend="italic">And by authority.</hi><ptr target="#" /></item>
                             <fw type="catch"> 17 <hi rend="italic">How</hi></fw>
-                            <pb />
+                            <pb n="A4v" />
                             <cb n="1" />
                             <item>27 <hi rend="italic">How the pure Nectar is gathered.</hi><ptr
                                     target="#" /></item>
@@ -1262,7 +1267,7 @@
                             <item>49 <hi rend="italic">Bees kill poore swarmes that wander in the
                                 spring.</hi><ptr target="#" /></item>
                             <fw type="catch"> 50 <hi rend="italic">To</hi></fw>
-                            <pb />
+                            <pb n="[A5]r" />
                             <cb n="1" />
                             <item>50 <hi rend="italic">To prevent the death of poore swarmes.</hi><ptr
                                     target="#" /></item>
@@ -1432,7 +1437,7 @@
                                         in two
                                         shoots.</hi><ptr target="#" /></item>
                                 <fw type="catch"> 4 <hi rend="italic">The</hi></fw>
-                                <pb />
+                                <pb n="[A5]v" />
                                 <cb n="1" />
                                 <item>4 <hi rend="italic">The first shoot is for fine Honie.</hi><ptr
                                         target="#" /></item>
@@ -1566,7 +1571,7 @@
             <fw type="catch"> THE</fw>
         </front>
         <body>
-            <pb />
+            <pb n="B1r" />
             <fw type="ornament" />
             <head type="title">THE FEMININE MONARCHIE, <lb />OR <lb />The Historie of BEES.</head>
             <div type="chapter" n="1">
@@ -1601,7 +1606,7 @@
                     Honie and Waxe: a taste whereof I will give you in the last chapter. </p>
                 <fw type="catch">
                     Secondly,</fw>
-                <pb />
+                <pb n="B1v" />
                 <fw type="header">
                     <hi>Of the Nature and properties of Bees,</hi>
                 </fw>
@@ -1679,7 +1684,7 @@
                         <fw type="catch">
                             <hi>Circumstant</hi>
                         </fw>
-                        <pb />
+                        <pb n="B2r" />
                         <fw type="header">
                             <hi>and of their Queene.</hi>
                         </fw>
@@ -1743,7 +1748,7 @@
                     one of them downe betweene them, pulling and haling her as if they were leading
                     her to execution: which I by chance perceiving, got hold of her by the wings,
                     and with much adoe <fw type="catch"> tooke</fw>
-                    <pb />
+                    <pb n="B2v" />
                     <fw type="header">
                         <hi>Of the Nature and properties of Bees,</hi>
                     </fw>
@@ -1783,7 +1788,7 @@
                     by one third part, that is, almost an inch long: she is also bigger than a
                     hony-Bee, but not so bigge as a Drone, although somewhat longer: hir head
                     proportionable, but <fw type="catch"> that</fw>
-                    <pb />
+                    <pb n="B3r" />
                     <fw type="header">
                         <hi>and of their Queene.</hi>
                     </fw> that is more round
@@ -1847,7 +1852,7 @@
                     manner of a plume; whereof some turne downeward like an Ostrich-feather, others
                     stand upright like a Hearn-top. And of both sorts some are greater <fw
                         type="catch"> and</fw>
-                <pb />
+                <pb n="B3v" />
                 <fw type="header">
                         <hi>Of the Nature and properties of Bees,</hi>
                     </fw> and
@@ -1923,8 +1928,9 @@
                     tame: but that is because they are lesse used to the company of men. Moreover,
                     there is some difference in the bignesse of Bees: For they that are loaded seeme
                     greater and longer then those <fw type="catch"> that</fw>
-                    <pb />
-                    <fw type="header">
+                    <pb n="B4r" />
+                    <fw
+                        type="header">
                         <hi>and of their Queene.</hi>
                     </fw> that are leere: also
                     the Nymphs, <ref target="#ch1bibln7">v:</ref> <note type="authorial"
@@ -1972,7 +1978,7 @@
                     set these instruments on worke, Nature hath furnished her with 4. wings, which
                     swifter then the East-winde, carry her into all the foure coasts of the world,
                     and thence <fw type="catch"> with</fw>
-                    <pb />
+                    <pb n="B4v" />
                     <fw type="header">
                         <hi>Of the Nature and properties of Bees,</hi>
                     </fw> with
@@ -2024,7 +2030,8 @@
                     place, and within two or three at the most, they will be quite dead. I have
                     looked on, while thus they quickly cut off a whole stall, and among them the
                     rest, making then no difference, they spared not <fw type="catch"> the</fw>
-                    <pb />
+                    <pb
+                        n="C1r" />
                     <fw
                         type="header">
                         <hi>and of their Queene.</hi>
@@ -2076,315 +2083,366 @@
                     there they may do most harme, for that part swelleth most and longest: and yet I
                     never heard that any ever stung the verie eye, as if they were forbidden to
                     touch that tender part. But the bare <fw type="catch">hand</fw>
-                    <pb />
+                    <pb n="C1r" />
                     <fw
                         type="header">
                         <hi>Of the Nature and properties of Bees,</hi>
                     </fw> hand
                     that is not very hairie, they will seldome or never sting, unlesse they be much
                     offended.</p>
-                <p><note type="authorial" subtype="summary">29. <hi>When any is stung, the company must be gone.</hi></note> When you
-                    are stung, or any in the company, yea though a Bee have striken but your
+                <note type="authorial" subtype="summary">29. <hi>When any is stung, the company must
+                    be gone.</hi></note>
+                <p>When you are stung, or any in the company, yea though a Bee have striken but your
                     clothes, specially in hot weather, you were best be packing as fast as you can:
                     for the other Bees smelling the rancke savour of the poyson cast out with the
                     sting, will come about you as thicke as haile: so that fitly and lively did he
-                    expresse the multitude and fiercenesse of his enemies, that said <hi>They came
-                    about me like Bees.</hi> Then is there no way to appease them but flight, the
+                    expresse the multitude and fiercenesse of his enemies, that said <q>They came
+                    about me like Bees.</q> Then is there no way to appease them but flight, the
                     more you resist, the fiercer they are. They are like unto incorrigible shrewes:
                     there is no dealing with them but by patience: though when they sting they are
-                    sure to have the worst. <note>30. <hi>The
+                    sure to have the worst. <note type="authorial" subtype="summary">30. <hi>The
                             Bees have the worst when they sting.</hi></note> For the wound
                     endangereth nether life nor limb: two nights sleep will take away the swelling,
                     and two minutes the paine (unlesse it be in verie rheumaticke or humorous
                     bodies: of which sort I have knowne some so swollen and disfigured with that
                     little stroke, that you could scarce knowe them by their favour in five or sixe
-                    daies after.) <note>31. <hi>They lose
+                    daies after.) <note type="authorial" subtype="summary">31. <hi>They lose
                             their sting and entrals, and consequently their lives.</hi></note> But
                     on the other side, whereas the Waspe, Hornet, and Dorre, doe sting often without
                     any hurt to themselves; the Bee never stingeth but once and then shee leaveth
-                    hir speere and entrals, more or lesse behinde her, <note>
-                    Virg.Georg.Hist.an.l.9.c.40.</note> <hi>Animamque
-                        in vulnere ponit.(Intereunt quæ percusserint, quoniam sine intestini
+                    hir speere and entrals, more or lesse behinde her, <note type="authorial"
+                        subtype="bibliographic">
+                        <bibl>Virg.Georg.Hist.an.l.9.c.40.</bibl>
+                    </note>
+                <quote>
+                        <foreign xml:lang="la">Animamque
+                            in vulnere ponit.(Intereunt quæ percusserint, quoniam sine intestini
                     eruptione
-                        aculeus eximi non potest.)</hi> For within foure and twentie houres after,
-                    or, if much of hir entrals come forth with the sting, within halfe that time,
-                    she dieth: <note> 32. <hi>The speere of it selfe pierceth deeper when the Bee is
-                    gone.</hi></note> But the speere reteining life when the Bee is gone, if it be
-                    not presently pulled out, will worke it selfe into the flesh up to the hard end,
-                    and so cause the paine and swelling to bee both greater and longer. </p>
-                <p><note>33. <hi>How to prevent the paine and swelling.</hi></note> Therefore when
-                    you are stung, instantly wipe off the Bee, sting and all, and wash the place
-                    with your spittle: so shall you prevent both paine and swelling, which otherwise
-                    nothing but time can cure: for the poison is so subtill, that it quickly
-                    pierceth the flesh, <note> 34. <hi>Nothing but time can cure their stinging.</hi></note>
+                            aculeus eximi non potest.)</foreign>
+                    </quote> For
+                    within foure and twentie houres after, or, if much of hir entrals come forth
+                    with the sting, within halfe that time, she dieth: <note type="authorial"
+                        subtype="bibliographic"> 32. <hi>The speere of it selfe
+                            pierceth deeper when the Bee is
+                            gone.</hi></note> But the speere reteining life when the Bee is gone, if
+                    it be not presently pulled out, will worke it selfe into the flesh up to the
+                    hard end, and so cause the paine and swelling to bee both greater and longer. <note
+                        type="authorial" subtype="summary">33. <hi>How to prevent the paine and
+                    swelling.</hi></note> Therefore when you are stung, instantly wipe off the Bee,
+                    sting and all, and wash the place with your spittle: so shall you prevent both
+                    paine and swelling, which otherwise nothing but time can cure: for the poison is
+                    so subtill, that it quickly pierceth the flesh, <note type="authorial"
+                        subtype="summary"> 34. <hi>Nothing but time can cure their stinging.</hi></note>
                     and the wound so little, that no Antidote can follow after: and yet I have heard
                     commended for a remedie the juyce of Houseleeke, of Rue, of Mallowes, of Ivie,
-                    of a Marigold </p>
-                <p>
-                    <fw type="catch"> leafe</fw>
-                </p>
-                <p>
-                    <pb />
-                </p>
-                <p>
+                    of a Marigold <fw type="catch"> leafe</fw>
+                    <pb n="C2r" />
                     <fw type="header">
                         <hi>and of their Queene.</hi>
-                    </fw>
-                </p>
-                <p>leafe, of Holyhock and Vinegar, of Salt and Vineger, and divers other things. </p>
-                <p><hi>Id malvæ peculiare est, ut imposita ictibus vesparum &amp; apum dolores
-                        levet.</hi> Fern.Meth.l.6.cap.4. <hi>Stercus vaceinum vesparum ictus sanat,
-                    &amp; indito aceto
-                        tumores digerit.</hi> Fern.Meth.l.5.cap.27. Rue drunken with Wine, <hi>or
-                    rather
+                    </fw> leafe, of Holyhock
+                    and Vinegar, of Salt and Vineger, and divers other things. <quote>
+                        <foreign xml:lang="la">Id malvæ peculiare est, ut imposita ictibus vesparum
+                    &amp; apum dolores
+                            levet.</foreign>
+                    </quote> <bibl>Fern.Meth.l.6.cap.4.</bibl> <quote>
+                        <foreign xml:lang="la">Stercus vaceinum vesparum ictus sanat,
+                            &amp; indito aceto
+                            tumores digerit.</foreign>
+                    </quote> <bibl>
+                    Fern.Meth.l.5.cap.27</bibl>. Rue drunken with Wine, <hi>or
+                        rather
                         with Hydromel,</hi> or the leaves stamped with Honie and Salt, and laid to
-                    the wound, is good against stinging of Bees, Waspes, Hornets, and Scorpions; <hi>
-                    Dodoens,l.</hi>2.<hi>c.</hi>83.</p>
-                <p><hi>Verum hoc mihi præ cæteris probatur remedium. Ut primum se quis ictum
-                    senserit,
-                        aculeum adhuc epidermidi inhærentem cum ipsa ape instanter abstergat (nam si
-                    paulisper sinatur, dum veram cutem penetraverit; vehementior inde, diuturnior,
-                    &amp;
-                        sanatu difficilior evadet tum dolor tum tumor) dein, quam mox reddi potest,
-                    propriâ
-                        vulnus urinâ malvæ folia sœpiuscule prolvant, dum subsequens hoc comparetur
-                    emplastrum. R. Cardui Benedicti virentis contriti</hi> M.I.<hi>Ovi albumen quasi
-                    in
-                        oleum coagitatum: misce, fiat emplastrum, quod lini retrimentis impositum,
-                    vulneri
-                        linteo alligetur: ubi arverit, recens repone: sed vulnus nequaquam fricetur.</hi></p>
-                <p><note>35. <hi>What things the Bee-master must avoid.</hi></note> But if thou wilt
-                    have the favour of thy Bees that they sting thee not, thou must avoid such
-                    things as offend them: thou must not be (1) unchaste or (2) uncleanely: for
-                    impuritie and sluttishnesse (themselves being most chaste and neat,) they
-                    utterly abhorre: thou must not come among them (3) smelling of sweat, or having
-                    a stinking breath, caused either through eating of Leekes, Onions, Garleeke, and
-                    the like; or by any other meanes: the noisomnesse whereof is corrected with a
-                    cup of Beere: and therefore it is not good to come among them before you have
-                    drunke: thou must not be given to (4) surfeiting and drunkennesse: thou must not
-                    come (5) puffing and blowing unto them, neither hastily stirre among them, nor+
-                    violently defend thy selfe when they seeme to threaten thee; but softly moving
-                    thy hand before thy face, gently put them by: and lastly, <note>+Which not onely
-                    increaseth their anger, (specially in hot weather, <hi>v.n.</hi>38.) but
-                    inciteth others to take their parts: and if by striving and striking you chance
-                    to kill one, the Bees presently perceiving it by the strong smell of the humour
-                    (for she smelleth then as if she had stung, <hi>v.n.</hi>29.) will be so eager
-                    upon revenge, that by no meanes can they be pacified, untill they have the
-                    field.</note></p>
+                    the wound, is good against stinging of Bees, Waspes, Hornets, and Scorpions; <bibl>
+                    Dodoens,l.2.c.83.</bibl></p>
                 <p>
+                    <foreign xml:lang="la">Verum hoc mihi præ cæteris probatur remedium. Ut primum
+                        se quis ictum senserit, aculeum adhuc epidermidi inhærentem cum ipsa ape
+                        instanter abstergat (nam si paulisper sinatur, dum veram cutem penetraverit;
+                        vehementior inde, diuturnior, &amp; sanatu difficilior evadet tum dolor tum
+                        tumor) dein, quam mox reddi potest, propriâ vulnus urinâ malvæ folia
+                        sœpiuscule prolvant, dum subsequens hoc comparetur emplastrum. R. Cardui
+                        Benedicti virentis contriti <hi rend="opposite">M.I.</hi> Ovi albumen quasi
+                        in oleum coagitatum: misce, fiat emplastrum, quod lini retrimentis
+                        impositum, vulneri linteo alligetur: ubi arverit, recens repone: sed vulnus
+                        nequaquam fricetur.</foreign>
+                </p>
+                <p><note type="authorial" subtype="summary">35. <hi>What things the Bee-master must
+                    avoid.</hi></note> But if thou wilt have the favour of thy Bees that they sting
+                    thee not, thou must avoid such things as offend them: thou must not be (1)
+                    unchaste or (2) uncleanely: for impuritie and sluttishnesse (themselves being
+                    most chaste and neat,) they utterly abhorre: thou must not come among them (3)
+                    smelling of sweat, or having a stinking breath, caused either through eating of
+                    Leekes, Onions, Garleeke, and the like; or by any other meanes: the noisomnesse
+                    whereof is corrected with a cup of Beere: and therefore it is not good to come
+                    among them before you have drunke: thou must not be given to (4) surfeiting and
+                    drunkennesse: thou must not come (5) puffing and blowing unto them, neither
+                    hastily stirre among them, nor<ref target="#ch1glon1">*</ref> violently defend
+                    thy selfe when they seeme to threaten thee; but softly moving thy hand before
+                    thy face, gently put them by: and lastly, <note type="authorial" subtype="gloss"
+                        xml:id="ch1glon1">*Which not onely increaseth their anger, (specially in hot
+                    weather, <hi>v.n.</hi>38.) but inciteth others to take their parts: and if by
+                    striving and striking you chance to kill one, the Bees presently perceiving it
+                    by the strong smell of the humour (for she smelleth then as if she had stung, <hi>
+                    v.n.</hi>29.) will be so eager upon revenge, that by no meanes can they be
+                    pacified, untill they have the field.</note>
                     <fw type="catch">thou</fw>
-                </p>
-                <p>
-                    <pb />
-                </p>
-                <p>
+                    <pb
+                        n="C2v" />
                     <fw type="header">
                         <hi>Of the Nature and properties of Bees,</hi>
                     </fw>
-                </p>
-                <p><note>36. <hi>The six properties of a Bee-master.</hi></note>thou must be (6) no
-                    Stranger unto them. In a word, thou must be chaste, cleanly, sweet, sober,
-                    quiet, and familiar: so will they love thee, and know thee from all other. </p>
-                <p><note>37. <hi>Safer to walke, then stand among Bees.</hi></note> At any time,
-                    when nothing hath angred them, one may boldly walke along by them: but if he
-                    stand still before them within the space of a pearch in the heat of the day, it
-                    is marvell but one or other spying him from the Hive, will have a cast at him. </p>
-                <p><note>38. <hi>The fittest time to stirre about Bees.</hi></note> If you have any
-                    thing to doe about your hives, the fittest time is in the morning, when the Bees
-                    are new gone abroad; and in the evening before they be come in: for then the
-                    weather being coole, and the company few at home, they are not so apt to be
-                    quarrelling, unlesse they be much provoked. Likewise at other times of the day,
-                    when the weather is cold, wet, or windie, they are patient enough. </p>
-                <p><note>39. <hi>In the heat of the day they are most angry.</hi></note> But about
-                    noone in hot weather, and specially when they have tasted of the Hony-dewes,
-                    they are soone angrie, and very eager. </p>
-                <p><note>40. <hi>How to bee armed when the Bees are angrie</hi></note> But
-                    whensoever you have occasion to trouble their presence, or to come among them
-                    being troubled, it is better to stand upon your guard, then to trust to their
-                    gentlenesse. For the safeguard of your face (which they have most mind unto)
-                    provide a purs-hood made of course boultering, to be drawn and knit about your
-                    collar: which, for more safetie, is to bee lined against the eminent parts with
-                    Woollen-cloth. First, cut a peece about an inch and a halfe broad, and halfe a
-                    yard long, to reach round by the temples and fore-head from one eare to the
-                    other: which being sowed in his place, joyne unto it two short peeces of the
-                    same bredth under the eyes, for the balls of the cheekes: and then for another
-                    peece about the bredth of a shilling against the top of the nose. In stead of
-                    this, you may use a Cypres Band or a Boulter, having a Handkerchiefe betweene
-                    your fore-head and it, to beare it out from the skinne, and your hat on your
-                    head to hold it fast. And if they be so earnest that you feare stinging your
-                    hands, put on a paire of woollen cuffes or gloves. When you have on this Helmet
-                    and Gantlets, as a man armed at all points, you may boldly deale with them,
-                    being out of </p>
-                <p>
-                    <fw type="catch"> the</fw>
-                </p>
-                <p>
-                    <pb />
-                </p>
-                <p>
-                    <fw type="header">
+                <note
+                        type="authorial" subtype="summary">36. <hi>The six properties of a
+                    Bee-master.</hi></note>thou must be (6) no Stranger unto them. In a word, thou
+                    must be chaste, cleanly, sweet, sober, quiet, and familiar: so will they love
+                    thee, and know thee from all other. </p>
+                <p><note type="authorial" subtype="summary">37. <hi>Safer to walke, then stand among
+                    Bees.</hi></note> At any time, when nothing hath angred them, one may boldly
+                    walke along by them: but if he stand still before them within the space of a
+                    pearch in the heat of the day, it is marvell but one or other spying him from
+                    the Hive, will have a cast at him. </p>
+                <p><note type="authorial" subtype="summary">38. <hi>The fittest time to stirre about
+                    Bees.</hi></note> If you have any thing to doe about your hives, the fittest
+                    time is in the morning, when the Bees are new gone abroad; and in the evening
+                    before they be come in: for then the weather being coole, and the company few at
+                    home, they are not so apt to be quarrelling, unlesse they be much provoked.
+                    Likewise at other times of the day, when the weather is cold, wet, or windie,
+                    they are patient enough. </p>
+                <p><note type="authorial" subtype="summary">39. <hi>In the heat of the day they are
+                    most angry.</hi></note> But about noone in hot weather, and specially when they
+                    have tasted of the Hony-dewes, they are soone angrie, and very eager. </p>
+                <p><note type="authorial" subtype="summary">40. <hi>How to bee armed when the Bees
+                    are
+                            angrie</hi></note> But whensoever you have occasion to trouble their
+                    presence, or to come among them being troubled, it is better to stand upon your
+                    guard, then to trust to their gentlenesse. For the safeguard of your face (which
+                    they have most mind unto) provide a purs-hood made of course boultering, to be
+                    drawn and knit about your collar: which, for more safetie, is to bee lined
+                    against the eminent parts with Woollen-cloth. First, cut a peece about an inch
+                    and a halfe broad, and halfe a yard long, to reach round by the temples and
+                    fore-head from one eare to the other: which being sowed in his place, joyne unto
+                    it two short peeces of the same bredth under the eyes, for the balls of the
+                    cheekes: and then for another peece about the bredth of a shilling against the
+                    top of the nose. In stead of this, you may use a Cypres Band or a Boulter,
+                    having a Handkerchiefe betweene your fore-head and it, to beare it out from the
+                    skinne, and your hat on your head to hold it fast. And if they be so earnest
+                    that you feare stinging your hands, put on a paire of woollen cuffes or gloves.
+                    When you have on this Helmet and Gantlets, as a man armed at all points, you may
+                    boldly deale with them, being out of <fw type="catch"> the</fw>
+                <pb n="C3r" />
+                <fw
+                        type="header">
                         <hi>and of their Queene.</hi>
-                    </fw>
-                </p>
-                <p>the danger of their poysoned speares. At other times when they are not angried, a
-                    little peece halfe a quarter broad to cover the eyes and parts about them, may
-                    serve: for then, though it be in the heat of the day, unlesse they may strike
-                    about
-                    the eyes, they care not to strike at all.</p>
-                <p><note>41. <hi>Bees dangerous to Cattell.</hi></note> Unto Cattel which have not
-                    the reason by flight or otherwise to save themselves they are more dangerous. A
-                    Horse in the heat of the day looking over a hedge, on the other side whereof was
-                    a stall of Bees, while hee stood nodding with his head, as his manner is,
-                    because of the Flies, the Bees fell upon him and killed him. Likewise, I heard
-                    of a Teeme that stretching against a hedge, overthrew a stalle on the other
-                    side, and so two of the Horses were stung to death. I doubt not but through
-                    negligence many such mischances have happened else-where. For this thing hath
-                    beene long since observed by that great Philosopher. <hi>Necant</hi> (saith he) <hi>vel
-                    maxima animalia ictu sui aculei: jam
-                        equus occisus ab apibus est.</hi> <note>Arist.hist.an.l.9.c.40.</note></p>
-                <p><note>42. <hi>The Bees senses.</hi></note> And such are the sorts of Bees, with
-                    their integrall parts. Among which, though there do not appear those outward <hi>
-                    Organa</hi> of senting which other <hi>Animals</hi> have, nor is seene in the
-                    head that inward principall+ part, which is the fountaine and seat of all
-                    Senses, Phantasie, and Memorie; yet have they the Senses themselves, both
-                    outward and inward: which their subtill and active spirits doe excite and
-                    quicken, for the works of their curious Art and singular Vertues. <hi>Quamvis
-                        non sint membra quæ, velut carina, sensus
-                        invehant; esse tamen his auditum, olfactum, gustatum, eximia præterea naturæ
-                    dona,
-                        solertiam, animum, artem quis facile crediderit. Creat Deus minima corpore
-                    acuta
-                        sensii animantia: ut majori attentione stupeamus agilitatem muscæ volantis,
-                    quam
-                        magnitudinem jumenti gradientis.</hi></p>
+                    </fw> the danger of their
+                    poysoned speares. At other times when they are not angried, a little peece halfe
+                    a quarter broad to cover the eyes and parts about them, may serve: for then,
+                    though it be in the heat of the day, unlesse they may strike about the eyes,
+                    they care not to strike at all. </p>
+                <p><note type="authorial" subtype="summary">41. <hi>Bees dangerous to Cattell.</hi></note>
+                    Unto Cattel which have not the reason by flight or otherwise to save themselves
+                    they are more dangerous. A Horse in the heat of the day looking over a hedge, on
+                    the other side whereof was a stall of Bees, while hee stood nodding with his
+                    head, as his manner is, because of the Flies, the Bees fell upon him and killed
+                    him. Likewise, I heard of a Teeme that stretching against a hedge, overthrew a
+                    stalle on the other side, and so two of the Horses were stung to death. I doubt
+                    not but through negligence many such mischances have happened else-where. For
+                    this thing hath beene long since observed by that great Philosopher. <quote>
+                        <foreign xml:lang="la">Necant <hi rend="opposite">(saith he)</hi> vel maxima
+                    animalia ictu sui aculei: jam equus occisus ab apibus est.</foreign>
+                    </quote> <note
+                        type="authorial" subtype="bibliographic">
+                        <bibl>Arist.hist.an.l.9.c.40.</bibl>
+                    </note></p>
+                <p><note type="authorial" subtype="summary">42. <hi>The Bees senses.</hi></note> And
+                    such are the sorts of Bees, with their integrall parts. Among which, though
+                    there do not appear those outward <term>
+                        Organa</term> of senting which other <term>Animals</term> have, nor is seene
+                    in the head that inward principall<ref target="#">*</ref> part, which is the
+                    fountaine and seat of all Senses, Phantasie, and Memorie; yet have they the
+                    Senses themselves, both outward and inward: which their subtill and active
+                    spirits doe excite and quicken, for the works of their curious Art and singular
+                    Vertues. <note type="authorial" subtype="bibliographic" xml:id="ch1bibln15">* <bibl>Cerebrum
+                    commune sentiendi principium. <hi rend="opposite">Fer.Ph.l.5.c.14.</hi></bibl></note><quote>
+                        <foreign xml:lang="la">Quamvis non sint membra quæ, velut carina, sensus
+                    invehant; esse tamen his auditum, olfactum, gustatum, eximia præterea naturæ
+                    dona, solertiam, animum, artem quis facile crediderit. <note type="authorial"
+                                subtype="bibliographic">
+                                <bibl>Nat.hist.l.11.c.4</bibl>
+                            </note>
+                    Creat Deus minima corpore acuta sensii animantia: ut majori attentione stupeamus
+                    agilitatem muscæ volantis, quam magnitudinem jumenti gradientis.<note
+                                type="authorial" subtype="bibliographic">
+                                <bibl>Augustin.de Genesi ad literam.lib.3.</bibl>
+                            </note></foreign>
+                    </quote></p>
                 <p>
-                    <note>43 <hi>Their sight dim.</hi></note> Of all the five Senses their sight
-                    seemeth to be weakest: &amp; weaker when they come home loaded, then when they
-                    are leere: and being loaded weaker on foot, then when they are flying. If, when
-                    they come home loaded, they light beside the doore, they will goe up and downe
-                    seeking for it, as if they were in the darke: and unlesse by chance they hit
-                    upon <fw type="catch"> it,</fw></p>
-                <p>
-                    <pb />
-                </p>
-                <p>
-                    <fw type="header">
+                    <note type="authorial" subtype="summary">43 <hi>Their sight dim.</hi></note> Of
+                    all the five Senses their sight seemeth to be weakest: &amp; weaker when they
+                    come home loaded, then when they are leere: and being loaded weaker on foot,
+                    then when they are flying. If, when they come home loaded, they light beside the
+                    doore, they will goe up and downe seeking for it, as if they were in the darke:
+                    and unlesse by chance they hit upon <fw type="catch"> it,</fw>
+                    <pb n="C3v" />
+                    <fw
+                        type="header">
                         <hi>Of the Nature and properties of Bees,</hi>
-                    </fw>
-                </p>
-                <p>it, they must flye againe before they can finde it. As many as fall beside the
-                    stoole
-                    when it waxeth darke, ten to one they lye abroad all night: yea, if at such time
-                    being troubled by any thing they come forth from the stoole, though then they be
-                    fresh and lustie, they will leape up and downe, runne and flie to and fro, till
-                    they
-                    be wearie; but by no meanes can they finde the way in againe. And therefore it
-                    is
-                    that when they flie abroad, they take such paines at the doore in rubbing and
-                    wiping
-                    their glazen eies, that they may the better discerne their way forth and backe. </p>
-                <p><note>44. <hi>Their smelling very quicke.</hi></note> But their smelling is
-                    excellent, whereby when they flie aloft in the aire, they will quickly perceive
-                    any thing under them that they like, as Honie, Rozin, or Tarre, though it be
-                    covered: As soone as the Honie-dew is fallen, they presently winde it, though
-                    the Oakes that receive it <hi>v.</hi> <note><hi>V.c.</hi>6<hi>.n.</hi>41.</note>
-                    be a farre off: which the Poet, speaking of the excellencie of some creatures in
-                    this sense before others, doth thus expresse, </p>
-                <p><note>Lucret.l.4.</note> ——<hi>Ideoqe per auras </p>
-                <p>Mellis apes, quamvis longè, ducuntur odore.</hi></p>
-                <p>And by this sense they finde out any strange Bee, which is not otherwise to be
+                    </fw> it,
+                    they must flye againe before they can finde it. As many as fall beside the
+                    stoole when it waxeth darke, ten to one they lye abroad all night: yea, if at
+                    such time being troubled by any thing they come forth from the stoole, though
+                    then they be fresh and lustie, they will leape up and downe, runne and flie to
+                    and fro, till they be wearie; but by no meanes can they finde the way in againe.
+                    And therefore it is that when they flie abroad, they take such paines at the
+                    doore in rubbing and wiping their glazen eies, that they may the better discerne
+                    their way forth and backe. </p>
+                <p><note type="authorial" subtype="summary">44. <hi>Their smelling very quicke.</hi></note>
+                    But their smelling is excellent, whereby when they flie aloft in the aire, they
+                    will quickly perceive any thing under them that they like, as Honie, Rozin, or
+                    Tarre, though it be covered: As soone as the Honie-dew is fallen, they presently
+                    winde it, though the Oakes that receive it <ref target="#ch1bibln16">v.</ref> <note
+                        type="authorial" subtype="bibliographic" xml:id="ch1bibln16">
+                        <bibl><hi>V.c.</hi>6<hi>.n.</hi>41.</bibl>
+                    </note> be a
+                    farre off: which the Poet, speaking of the excellencie of some creatures in this
+                    sense before others, doth thus expresse, <note type="authorial"
+                        subtype="bibliographic">
+                        <bibl>Lucret.l.4.</bibl>
+                    </note>
+                <quote>
+                        <lg>
+                            <l>——Ideoqe per auras</l>
+                            <l>Mellis apes, quamvis longè, ducuntur odore.</l>
+                        </lg>
+                    </quote>
+                    And by this sense they finde out any strange Bee, which is not otherwise to be
                     knowne from their owne company, and that in the darke Hive: where, when they are
                     disposed, they will by the same meanes cull out the Drones, yea and pull out the
-                    Cephens <hi>
-                        v.</hi> <note><hi>V.c.</hi>4.<hi>n.</hi>30.</note> that are shut up in the
-                    cells, not medling with an of their own Sex. </p>
-                <p><note>45. <hi>Hearing and feeling.</hi></note> Their hearing and feeling are
-                    verie quicke. If you touch their Hive but lightly, or the stoole, or the ground
-                    neere it; they presentlie perceiving it, make a generall noise: <note>
-                    Hist.an.l.9.cap.40.</note> although <hi>Aristotle</hi> doubt whether they heare,
-                    or not. <hi>Quanquam incertum
-                        est an audiant.</hi> But if they did not heare, to what purpose is that
-                    musicke made in the Hives, before the swarming? <hi>v.c.</hi>5.<hi>n</hi>28. and
-                    in the battaile, <hi>
-                        vid.c.</hi>7.<hi>n.</hi>34. or his tinging of swarmes to make them come
-                    downe, <hi>
-                        v:</hi> <hi rend="drop-capital">manicule</hi> in <hi>c.</hi>5.<hi>n.</hi>37.</p>
-                <p><note>46. <hi>Tasting.</hi></note> And of their fift sense I make no question,
-                    sithens they are used to things of so different tastes: although there may seeme
-                    the lesse use of it, because their smelling is so perfect.</p>
-                <p>
-                    <fw type="catch"> And</fw>
-                </p>
-                <p>
-                    <pb />
-                </p>
-                <p>
-                    <fw type="header">
+                    Cephens <ref target="#ch1bibln17">
+                        v.</ref> <note type="authorial" subtype="bibliographic" xml:id="ch1bibln17">
+                        <bibl><hi>V.c.</hi>4.<hi>n.</hi>30.</bibl>
+                    </note> that
+                    are shut up in the cells, not medling with an of their own Sex. </p>
+                <p><note type="authorial" subtype="summary">45. <hi>Hearing and feeling.</hi></note>
+                    Their hearing and feeling are verie quicke. If you touch their Hive but lightly,
+                    or the stoole, or the ground neere it; they presentlie perceiving it, make a
+                    generall noise: <note type="authorial" subtype="bibliographic">
+                        <bibl>Hist.an.l.9.cap.40.</bibl>
+                    </note> although <persName>
+                    Aristotle</persName> doubt whether they heare, or not. <quote>
+                        <foreign xml:lang="la">Quanquam incertum
+                            est an audiant.</foreign>
+                    </quote> But if they did
+                    not heare, to what purpose is that musicke made in the Hives, before the
+                    swarming? <bibl><hi>v.c.</hi>5.<hi>n</hi>28</bibl>. and in the battaile, <bibl>
+                    vid.c.</bibl>7.<hi>n.</hi>34. or his tinging of swarmes to make them come downe, <ref
+                        target="#"><hi>
+                            v:</hi> ☛ in <hi>c.</hi>5.<hi>n.</hi>37.</ref></p>
+                <p><note type="authorial" subtype="bibliographic">46. <hi>Tasting.</hi></note> And
+                    of their fift sense I make no question, sithens they are used to things of so
+                    different tastes: although there may seeme the lesse use of it, because their
+                    smelling is so perfect. <fw type="catch"> And</fw>
+                    <pb n="C4r" />
+                    <fw
+                        type="header">
                         <hi>and of their Queene.</hi>
                     </fw>
-                </p>
-                <p><note>47. <hi>Their vertues.</hi></note> And such are their outward senses. The
-                    inward qualities of thier minds are farre more excellent. The curious art and
-                    workmanship to be admired rather than imitated of men, See <hi>cap.</hi>6.</p>
+                <note type="authorial"
+                        subtype="summary">47. <hi>Their vertues.</hi></note> And such are their
+                    outward senses. The inward qualities of thier minds are farre more excellent.
+                    The curious art and workmanship to be admired rather than imitated of men, See <ref
+                        target="#"><hi>cap.</hi>6</ref>.</p>
                 <p>Their singular vertues are no lesse admirable.</p>
-                <p><note>48. <hi>Fortitude.</hi></note> In valour and magnanimitie they surpasse all
-                    creatures: there is nothing so huge and mightie that they feare to set upon, and
-                    when they have once begunne, they are invincible: for nothing can make them
-                    yeeld but death: so great hearts doe they carrie in so little bodies <hi>v.</hi> <note><hi>
-                    V.c.</hi>7.<hi>n.</hi>37.</note> In private wrongs and injuries done to their
-                    persons (for which cause men will soonest quarrell) they are very patient: but
-                    in defence of their Prince and Common-wealth they doe most readily enter the
-                    field, <hi>----Et corpora bello </p>
-                <p>Objectant, pulchramque, petunt per vulnera mortem. v.</hi> <note>Virg.</note><note><hi>
-                    V.n.</hi>5.</note>
+                <p><note type="authorial" subtype="summary">48. <hi>Fortitude.</hi></note> In valour
+                    and magnanimitie they surpasse all creatures: there is nothing so huge and
+                    mightie that they feare to set upon, and when they have once begunne, they are
+                    invincible: for nothing can make them yeeld but death: so great hearts doe they
+                    carrie in so little bodies <ref target="#ch1bibln18">v.</ref> <note
+                        type="authorial" subtype="bibliographic" xml:id="ch1bibln18">
+                        <bibl><hi>
+                                V.c.</hi>7.<hi>n.</hi>37.</bibl>
+                    </note> In
+                    private wrongs and injuries done to their persons (for which cause men will
+                    soonest quarrell) they are very patient: but in defence of their Prince and
+                    Common-wealth they doe most readily enter the field, <quote>
+                        <lg>
+                            <l>----Et corpora bello </l>
+                            <l>Objectant, pulchramque, petunt per vulnera mortem. v.</l>
+                            <note type="authorial" subtype="bibliographic">
+                                <bibl>Virg.
+                                    V.n.5.</bibl>
+                            </note>
+                        </lg>
+                    </quote>
                 </p>
-                <p><note>49. <hi>Prudence and knowledge.</hi></note> Whereby appeareth their
-                    singular fortitude, no lesse than their prudence doth in the government of their
-                    Common-weale <hi>
-                        v</hi>. <note><hi>V.c.</hi>1.<hi>n.</hi>4.5.6&amp;7.</note> beside which,
-                    their wisedome and knowledge in other matters is verie much, as of their
-                    enemies, of their fellowes and friends, of the Drones, when they have too many,
-                    and when they neede them not at all, also of the times and seasons of the yeare.
-                    Their wit and dexteritie, as well in gathering as in working their sweetes, is
-                    inimitable <hi>v.</hi> <note>
-                        <hi>v.c.6.</hi>
-                    </note> Moreover, as skilful Astronomers,
-                    they have fore-knowledge of the weather. <hi>Prædivinant enim ventos imbresque,
-                    &amp;
-                        tunc se
-                        pleræque continent tectis.</hi> Item, <hi>Præsagiunt apes, &amp; hyemem
-                        &amp;
-                        imbres, v.</hi> <note>
-                        Nat.hist.l.11.c.10.</note> <note>Hist.an.l.9.c.40.</note> <note><hi>V.c.</hi>
-                    7.<hi>
-                            n.</hi> 61.</note> And in stormy and windie weather, it is a wonder to
-                    see what cunning those that are abroad doe use to shift the wind when they come
-                    home loaden: how they flie alow by the ground, among the bushes, in the lanes,
-                    and the lee-sides of the hedges. <hi>Juxta terram volant in adverso flatu
-                    vepribus hebetato.</hi> <note>
-                        Nat.hist.li.11.c.10.</note> But above all, one excellent skill they have,
-                    which the most excellent femals, though much they desire it, must yeeld
-                    themselves to want: for they know certainly when they breed a male, and when a
-                    female: which thing appeareth by this, that they lay their Cephen-feeds in a
-                    wide combe by themselves, <hi>
-                        v.</hi> <note><hi>V.c.</hi>6.<hi>n.</hi>10.<hi>&amp;c.</hi>4.<hi>n.</hi>19.</note>
-                    and the Nymph-seedes in the rest, which are of a smaller size. <hi>v.</hi> <note><hi>
-                    V.c.</hi> 6.<hi>n.</hi>19.</note> So </p>
-                <p>
-                    <fw type="catch"> that</fw>
-                </p>
-                <p>
-                    <pb />
-                </p>
-                <p>
+                <p><note type="authorial" subtype="summary">49. <hi>Prudence and knowledge.</hi></note>
+                    Whereby appeareth their singular fortitude, no lesse than their prudence doth in
+                    the government of their Common-weale <ref target="#ch1bibln19">
+                        v</ref>. <note type="authorial" subtype="bibliographic" xml:id="ch1bibln19">
+                        <bibl><hi>V.c.</hi>1.<hi>n.</hi>4.5.6&amp;7.</bibl>
+                    </note>
+                    beside which, their wisedome and knowledge in other matters is verie much, as of
+                    their enemies, of their fellowes and friends, of the Drones, when they have too
+                    many, and when they neede them not at all, also of the times and seasons of the
+                    yeare. Their wit and dexteritie, as well in gathering as in working their
+                    sweetes, is inimitable <ref target="ch1bibln20">v.</ref> <note type="authorial"
+                        subtype="bibliographic" xml:id="ch1bibln20">
+                        <bibl>
+                            <hi>v.c.6.</hi>
+                        </bibl>
+                    </note>
+                    Moreover, as skilful Astronomers, they have fore-knowledge of the weather. <quote>
+                        <foreign xml:lang="la">Prædivinant enim ventos imbresque, &amp; tunc se
+                    pleræque continent tectis. <hi rend="opposite">Item</hi>, Præsagiunt apes, &amp;
+                    hyemem &amp; imbres, v.</foreign>
+                    </quote> <note
+                        type="authorial" subtype="bibliographic">
+                        <bibl>Nat.hist.l.11.c.10.</bibl>
+                    </note> <note
+                        type="authorial" subtype="bibliographic">
+                        <bibl>Hist.an.l.9.c.40.</bibl>
+                    </note> <note
+                        type="authorial" subtype="bibliographic">
+                        <bibl><hi>V.c.</hi> 7.<hi>
+                                n.</hi> 61.</bibl>
+                    </note> And in stormy and
+                    windie weather, it is a wonder to see what cunning those that are abroad doe use
+                    to shift the wind when they come home loaden: how they flie alow by the ground,
+                    among the bushes, in the lanes, and the lee-sides of the hedges. <quote>
+                        <foreign xml:lang="la">Juxta
+                            terram volant in adverso flatu
+                            vepribus hebetato.</foreign>
+                    </quote> <note
+                        type="authorial" subtype="bibliographic">
+                        <bibl>
+                            Nat.hist.li.11.c.10.</bibl>
+                    </note> But above all,
+                    one excellent skill they have, which the most excellent femals, though much they
+                    desire it, must yeeld themselves to want: for they know certainly when they
+                    breed a male, and when a female: which thing appeareth by this, that they lay
+                    their Cephen-feeds in a wide combe by themselves, <ref target="ch1bibln21">
+                        v.</ref> <note type="authorial" subtype="bibliographic" xml:id="ch1bibln21">
+                        <bibl><hi>V.c.</hi>6.<hi>n.</hi>10.<hi>&amp;c.</hi>4.<hi>n.</hi>19.</bibl>
+                    </note>
+                    and the Nymph-seedes in the rest, which are of a smaller size. <ref
+                        target="ch1bibln22">v.</ref> <note type="authorial" subtype="bibliographic"
+                        xml:id="ch1bibln22">
+                        <bibl><hi>
+                                V.c.</hi> 6.<hi>n.</hi>19.</bibl>
+                    </note> So <fw
+                        type="catch"> that</fw>
+                    <pb n="C4v" />
                     <fw type="header">
                         <hi>Of the Nature and properties of Bees,</hi>
                     </fw>
-                </p>
-                <p><note>Ambr.Hex.l.5.c.21</note>that what wanteth in the sight of their eies, is
-                    fully supplied in the sight of their minde. <hi>Cùm sit infirma robore apis,
-                    valida est
-                        vigore sapientiæ &amp; amore virtutis.</hi>
+                <note
+                        type="authorial" subtype="bibliographic">
+                        <bibl>Ambr.Hex.l.5.c.21</bibl>
+                    </note>that what wanteth
+                    in the sight of their eies, is fully supplied in the sight of their minde. <quote>
+                        <foreign xml:lang="la">Cùm sit infirma robore apis,
+                            valida est
+                            vigore sapientiæ &amp; amore virtutis.</foreign>
+                    </quote>
                 </p>
                 <p>And yet I have read of a greater knowledge then all this: How there were Bees so
                     wise
@@ -2393,48 +2451,44 @@
                     among them in likenesse of a Wafer-cake; but also to build him an artificiall
                     Chappell. If I should relate the Storie, all men, I know, would not beleeve it:
                     notwithstanding, because every man may make some use of it, you shall have it. </p>
-                <p><note>50. <hi>A strange tale concerning the knowledge and devotion of Bees.</hi></note>
-                    A certain simple woman having some stals of Bees which yeelded not unto hir
-                    desired profit, but did consume and die of the murraine; made her mone to
-                    another Woman more simple then hir selfe: who have her counsell to get a
-                    consecrated Host, and put it among them. According to whose advice she went to
-                    the Priest to receive the Host: which when she had done, she kept it in her
-                    mouth, and being come home againe she tooke it out, and put it into one of hir
-                    Hives. Whereupon the murraine ceased, and the Honie abounded. The Woman
-                    therefore lifting up the Hive at the due time to take out the Honie, saw there
-                    (most strange to be seene) a Chappell built by the Bees, with an altar in it,
-                    the wals adorned by marvellous skill of Architecture, with windowes conveniently
-                    set in their places: also a doore and a steeple with bells. And the Host being
-                    laid upon the altar, the Bees making a sweet noise, flew round about it. </p>
+                <p><note type="authorial" subtype="summary">50. <hi>A strange tale concerning the
+                    knowledge and devotion of Bees.</hi></note> A certain simple woman having some
+                    stals of Bees which yeelded not unto hir desired profit, but did consume and die
+                    of the murraine; made her mone to another Woman more simple then hir selfe: who
+                    have her counsell to get a consecrated Host, and put it among them. According to
+                    whose advice she went to the Priest to receive the Host: which when she had
+                    done, she kept it in her mouth, and being come home againe she tooke it out, and
+                    put it into one of hir Hives. Whereupon the murraine ceased, and the Honie
+                    abounded. The Woman therefore lifting up the Hive at the due time to take out
+                    the Honie, saw there (most strange to be seene) a Chappell built by the Bees,
+                    with an altar in it, the wals adorned by marvellous skill of Architecture, with
+                    windowes conveniently set in their places: also a doore and a steeple with
+                    bells. And the Host being laid upon the altar, the Bees making a sweet noise,
+                    flew round about it. </p>
                 <p>But whether this doe more argue the supernaturall knowledge and skill of the
                     Bees, or the miraculous power of the Host, or the spirituall craftinesse of him,
                     whose comming is by the working of Satan with all power and signes and lying
-                    wonders, some scrupulous +Skeptick <note>+A Gellius, l.11.c.5.</note> may make a
-                    question: and presuming to examin every particular circumstance over narrowly,
-                    will make objections against the truth of the Storie: which, by their leaves, in
-                    the behalfe of my Author, I must not spare to answer. First, it may be they will
-                    object that the Host being held so long in the Womans mouth, could not choose in
-                    that space but melt and marre. </p>
-                <p>
-                    <fw type="catch"> Indeed,</fw>
-                </p>
-                <p>
-                    <pb />
-                </p>
-                <p>
+                    wonders, some scrupulous <ref target="#ch1glon2">*</ref>Skeptick <note
+                        type="authorial" subtype="gloss" xml:id="ch1glon2">*A Gellius, l.11.c.5.</note>
+                    may make a question: and presuming to examin every particular circumstance over
+                    narrowly, will make objections against the truth of the Storie: which, by their
+                    leaves, in the behalfe of my Author, I must not spare to answer. First, it may
+                    be they will object that the Host being held so long in the Womans mouth, could
+                    not choose in that space but melt and marre. <fw type="catch"> Indeed,</fw>
+                    <pb
+                        n="D1r" />
                     <fw type="header">
                         <hi>and of their Queene.</hi>
-                    </fw>
-                </p>
-                <p>Indeed, if it did remaine, as it was, a Wafer-cake, this were likely enough: but
-                    being turned into flesh, the case is altered. If they shall say that because it
-                    was now Honie-harvest, at which time good stals, such as this was, are full of
-                    Wax and Honie, that therefore there could not be roome enough for a Chappell
-                    with a steeple and bells in it; I answer, that this is as weake and simple as
-                    the former. For seeing it is knowne that a Blacke-smith of <hi>London</hi> did
-                    make a Locke and a Key so little that a flye could draw it; why should not the
-                    little Smith of <hi>
-                        Nottingham</hi>, which doth the worke that no man can, frame a little
+                    </fw> Indeed, if it did
+                    remaine, as it was, a Wafer-cake, this were likely enough: but being turned into
+                    flesh, the case is altered. If they shall say that because it was now
+                    Honie-harvest, at which time good stals, such as this was, are full of Wax and
+                    Honie, that therefore there could not be roome enough for a Chappell with a
+                    steeple and bells in it; I answer, that this is as weake and simple as the
+                    former. For seeing it is knowne that a Blacke-smith of <placeName>London</placeName>
+                    did make a Locke and a Key so little that a flye could draw it; why should not
+                    the little Smith of <placeName>
+                        Nottingham</placeName>, which doth the worke that no man can, frame a little
                     Chappell in a litle roome? But then perhaps they will reply, if wee grant you
                     this, yet how could the Bees flie about the altar in that little Chappell,
                     seeing they are scarce able flie in so narrow a close roome as the emptie hive?
@@ -2447,36 +2501,25 @@
                     rung to Mattins; they must consider the Parishoners dwelt not farre off. And so
                     I thinke these captious Criticks will hold themselves satisfied. </p>
                 <p>Unto this Storie my Author immediately addeth an other, like unto it, and as
-                    likely:
-                    how certaine Theeves having stollen the Silver Box wherein the Wafer-Gods use to
-                    lye, and finding one of them there, being loth, belike, that hee should lye
-                    abroad
-                    all night, did not cast him away, but laid him under a Hive: whom the Bees
-                    acknowledging, advanced to an high roome in the Hive, and there in stead of his
-                    silver boxe, made him another of the whitest Waxe: and when they had so done, in
-                    worship of him, at set houres they sung most sweetly beyond all measure about
-                    it:
-                    yea the owner tooke them at it at midnight, with a light and all. Wherewith the
-                    Bishop being made acquainted, came thither with many others: and lifting up the
-                    Hive
-                    he saw there </p>
-                <p>
-                    <fw type="catch"> neere</fw>
-                </p>
-                <p>
-                    <pb />
-                </p>
-                <p>
+                    likely: how certaine Theeves having stollen the Silver Box wherein the
+                    Wafer-Gods use to lye, and finding one of them there, being loth, belike, that
+                    hee should lye abroad all night, did not cast him away, but laid him under a
+                    Hive: whom the Bees acknowledging, advanced to an high roome in the Hive, and
+                    there in stead of his silver boxe, made him another of the whitest Waxe: and
+                    when they had so done, in worship of him, at set houres they sung most sweetly
+                    beyond all measure about it: yea the owner tooke them at it at midnight, with a
+                    light and all. Wherewith the Bishop being made acquainted, came thither with
+                    many others: and lifting up the Hive he saw there <fw type="catch"> neere</fw>
+                    <pb
+                        n="D1v" />
                     <fw type="header">
                         <hi>Of the Nature and properties of Bees,</hi>
                     </fw>
-                </p>
-                <p>neere the top a most fine box, wherein the Host was laid, and the Quires of Bees
+                    neere the top a most fine box, wherein the Host was laid, and the Quires of Bees
                     singing about it, and keeping watch in the night, as Monkes do in their
-                    Cloisters.
-                    The Bishop therefore taking the Host carried it with the greatest honour into
-                    the
-                    Church: whither many resorting, were cured of innumerable diseases. </p>
+                    Cloisters. The Bishop therefore taking the Host carried it with the greatest
+                    honour into the Church: whither many resorting, were cured of innumerable
+                    diseases. </p>
                 <p>I doubt not, but some incredulous people wil quarrell this Storie as well as the
                     former: making question, since the combs in the top of the Hive, are not past
                     halfe
@@ -2502,290 +2545,337 @@
                     for
                     their satisfaction, set downe in my Authors owne words. </p>
                 <p>
-                    <hi>Cum mulier quædam simplicis ingenii nonnulla apum aluearia possideret, neque
-                        illæ redderent expectitum fructum, sed lue quadam tabescentes morerentur; de
-                        consilio alterius fœminæ simplicioris, accessit ad sacerdotem perceptura
-                        Eucharistiam: quam sumptam tamen ore continuit, domumque reversa extractam
-                        collocavit in uno ex alvearijs. Lues cessavit, mella affluebant. Itaque suo
-                        tempore mulier, apertis, ut mel educeret, alvearijs, vidit (miranda res)
-                        exædificatum ab apibus sacellum, constructum altare, parietes miro
-                        Architecturæ
-                        artifico suis fenestris appositè suis locis ornatos, ostium, turrim, cum
-                        suis
-                        tintinabulis: Eucharistiam vero in altari repositam circumvolabant suavi
-                        susurro
-                        per strepentes apes.</hi>
-                    <note>Nam miranda canunt, sed non credenda Poetæ.</note>
+                    <quote>
+                        <foreign xml:lang="la">Cum mulier quædam simplicis ingenii nonnulla apum
+                            aluearia possideret, neque
+                            illæ redderent expectitum fructum, sed lue quadam tabescentes
+                            morerentur; de
+                            consilio alterius fœminæ simplicioris, accessit ad sacerdotem perceptura
+                            Eucharistiam: quam sumptam tamen ore continuit, domumque reversa
+                            extractam
+                            collocavit in uno ex alvearijs. Lues cessavit, mella affluebant. Itaque
+                            suo
+                            tempore mulier, apertis, ut mel educeret, alvearijs, vidit (miranda res)
+                            exædificatum ab apibus sacellum, constructum altare, parietes miro
+                            Architecturæ
+                            artifico suis fenestris appositè suis locis ornatos, ostium, turrim, cum
+                            suis
+                            tintinabulis: Eucharistiam vero in altari repositam circumvolabant suavi
+                            susurro
+                            per strepentes apes.</foreign>
+                    </quote>
+                    <note type="authorial" subtype="gloss">
+                        <foreign xml:lang="la">Nam miranda canunt, sed non credenda Poetæ.</foreign>
+                    </note>
                 </p>
-                <p>
-                    <fw type="catch"> The</fw>
-                </p>
-                <p>
-                    <pb />
-                </p>
-                <p>
-                    <fw type="header">
-                        <hi>and of their Queene.</hi>
-                    </fw>
-                </p>
-                <p>The other he reporteth thus. <hi>Quidam fures, ut argenteum vasculum in quo
-                    condita
-                        erat Eucharistia auferrent, &amp; illam secum rapuerunt: sacratissimum vero
-                    C.corpus
-                        sub
-                        alveari projecerunt. Post aliquot dies Dominus alvearis videt apes certis
-                    horis
-                        sæpius, dimissis operis ad cibos convehendos, totes esse in quodam mellifluo
-                    concentu edendo. Cumque, fortè de media nocte exsurrexisset, conspicatur supra
-                    alveare illustrissimam lucem, suavissemeque, præter omnem modum modulantes apes.
-                    Rei
-                        novitate inusitatâ, &amp; prorsus admirandâ perculsus, Deique monitu intimo
-                    agitatus
-                        rem
-                        defert ad Episcopum. Is plurimis secum assumptis eo se conferens, aperto
-                    alveari
-                        videt Vasculum elegantissimum effectum è candidissima cera prope alvearis
-                    fatigium,
-                        in quo reposita erat Eucharistia, circa illud choros apum circumsonantes,
-                    &amp;
-                        excubias
-                        agentes. Acceptum igitur Episcopus sacramentum maximo cum honore in templum
-                    reportavit: quo multi accedentes ab innumeris sunt morbis curati.</hi> Tho:
-                    Bozius de signis Ecclesiæ. Lib.14.c.3.</p>
+                <fw type="catch"> The</fw>
+                <pb n="D2r" />
+                <fw type="header">
+                    <hi>and of their Queene.</hi>
+                </fw>
+                <p>The other he reporteth thus. <quote>
+                        <foreign xml:id="la">Quidam fures, ut argenteum vasculum in quo
+                            condita erat Eucharistia auferrent, &amp; illam secum rapuerunt:
+                    sacratissimum
+                            vero C.corpus sub alveari projecerunt. Post aliquot dies Dominus
+                            alvearis videt
+                            apes certis horis sæpius, dimissis operis ad cibos convehendos, totes
+                    esse in
+                            quodam mellifluo concentu edendo. Cumque, fortè de media nocte
+                    exsurrexisset,
+                            conspicatur supra alveare illustrissimam lucem, suavissemeque, præter
+                    omnem
+                            modum modulantes apes. Rei novitate inusitatâ, &amp; prorsus admirandâ
+                    perculsus, Deique monitu intimo agitatus rem defert ad Episcopum. Is plurimis
+                    secum assumptis eo se conferens, aperto alveari videt Vasculum elegantissimum
+                    effectum è candidissima cera prope alvearis fatigium, in quo reposita erat
+                    Eucharistia, circa illud choros apum circumsonantes, &amp; excubias agentes.
+                    Acceptum igitur Episcopus sacramentum maximo cum honore in templum reportavit:
+                    quo multi accedentes ab innumeris sunt morbis curati.</foreign>
+                    </quote> <bibl>Tho:
+                    Bozius de signis Ecclesiæ. Lib.14.c.3.</bibl></p>
                 <p>In which Storie wee may note, besides the wonderfull knowledge and devotion of
                     the Bees, an incredible power and vertue also. For this God which they kept and
                     compassed, is said to have the gift of healing, which others, though of as good
                     a making, we know doe want. The conclusion, which my Author necessarily
-                    inferreth hereupon, is better then all the rest. <hi>Ex his necesse est dicamus
-                    in Eucharistia
-                        verum C. corpus esse.</hi> But if thou wilt grant me that hereby is proved
-                    the incredible knowledge and skill of the Bees, for my part I will urge thee no
-                    farther.</p>
-                <p><note>51. <hi>Temperance.</hi></note> In the pleasures of their life, the Bees
-                    are so moderate, that perfect temperance seemeth to rest onely in them. </p>
-                <p><note>52. <hi>Justice.</hi></note> Also, in their owne Common-wealth, they are
-                    most just, not the least wrong or injurie is offered among them. But indeed I
-                    cannot much commend their Justice towards strangers: for all that they can catch
-                    is their owne: unlesse they may bee excused in this respect, that the Bees of
-                    divers hives are at deadly feud, or rather as Kingdomes, that are at defiance
-                    one with another. <hi>v.c.</hi> 7.<hi>n.</hi>25.</p>
-                <p><note>53. <hi>Chastitie.</hi></note> Their Chastitie is to be admired. <hi>Integritas
-                    corporis virginalis omnibus communis.</hi> <note>Amb.Hex.l.5.c.21.</note></p>
-                <p>
-                    <fw type="catch">
-                        <hi>Et</hi>
-                    </fw>
-                </p>
-                <p>
-                    <pb />
-                </p>
-                <p>
-                    <fw type="header">
-                        <hi>Of the Nature and properties of Bees,</hi>
-                    </fw>
-                </p>
-                <p><hi>Et certe apes semina non coeundo concipiunt.</hi> Item, <hi>Omnipotens
-                        creator
-                        apibus prolem sine concubitu dedit.</hi></p>
-                <p>
-                    <hi>Illum adeo placuisse apibus mirabere morem,</hi>
-                </p>
-                <p><hi>Quod non concubitu indulgent, &amp;c.</hi> <note>August.de Trinit.l.3. Idem de
-                    bono
-                        conjugali. Georg.</note> They ingender not as other living creatures: only
-                    they suffer their Drones <hi>v.</hi> <note><hi>V.c.</hi>4.<hi>n.</hi>3.<hi>
-                    &amp;c.</hi></note> among them for a season, by whose Masculine virtue they
-                    strangely conceive and breed for the preservation of their sweet kinde. Which
-                    strange kind of breeding the Philosopher saith to be apparent unto sense and
-                    reason. <note>Generat.an.l.3.c.10.</note> <hi>Cum
-                        in genere piscium talis quædam sit generatio nonnullorum, ut sine coitu
+                    inferreth hereupon, is better then all the rest. <quote>
+                        <foreign xml:lang="la">Ex his necesse est dicamus
+                            in Eucharistia
+                            verum C. corpus esse.</foreign>
+                    </quote> But if thou
+                    wilt grant me that hereby is proved the incredible knowledge and skill of the
+                    Bees, for my part I will urge thee no farther.</p>
+                <p><note type="authorial" subtype="summary">51. <hi>Temperance.</hi></note> In the
+                    pleasures of their life, the Bees are so moderate, that perfect temperance
+                    seemeth to rest onely in them. </p>
+                <p><note type="authorial" subtype="summary">52. <hi>Justice.</hi></note> Also, in
+                    their owne Common-wealth, they are most just, not the least wrong or injurie is
+                    offered among them. But indeed I cannot much commend their Justice towards
+                    strangers: for all that they can catch is their owne: unlesse they may bee
+                    excused in this respect, that the Bees of divers hives are at deadly feud, or
+                    rather as Kingdomes, that are at defiance one with another. <ref target="#"><hi>
+                    v.c.</hi> 7.<hi>n.</hi>25.</ref></p>
+                <p><note type="authorial" subtype="summary">53. <hi>Chastitie.</hi></note> Their
+                    Chastitie is to be admired. <quote>
+                        <foreign xml:lang="la">Integritas corporis virginalis omnibus communis. <note
+                                type="authorial" subtype="bibliographic">
+                                <bibl>Amb.Hex.l.5.c.21.</bibl>
+                            </note>
+                    <fw
+                                type="catch">
+                                <hi>Et</hi>
+                            </fw>
+                    <pb n="D2v" />
+                    <fw
+                                type="header">
+                                <hi>Of the Nature and properties of Bees,</hi>
+                            </fw>
+                    Et certe apes semina non coeundo concipiunt. <hi rend="opposite">Item</hi>,
+                    Omnipotens creator apibus prolem sine concubitu dedit. <lb /> Illum adeo
+                    placuisse apibus mirabere morem,</foreign>
+                    </quote></p>
+                <p><quote>
+                        <foreign xml:lang="la">Quod non concubitu indulgent, &amp;c.</foreign>
+                    </quote> <note
+                        type="authorial" subtype="bibliographic">
+                        <bibl>August.de Trinit.l.3. Idem de
+                            bono
+                            conjugali. Georg.</bibl>
+                    </note> They ingender not as
+                    other living creatures: only they suffer their Drones <ref target="ch1bibln23">
+                    v.</ref> <note type="authorial" subtype="bibliographic" xml:id="ch1bibln23">
+                        <ref target="#"><hi>V.c.</hi> 4.<hi>n.</hi>3.<hi>
+                                &amp;c.</hi></ref>
+                    </note> among them for a
+                    season, by whose Masculine virtue they strangely conceive and breed for the
+                    preservation of their sweet kinde. Which strange kind of breeding the
+                    Philosopher saith to be apparent unto sense and reason. <note type="authorial"
+                        subtype="bibliographic">
+                        <bibl>Generat.an.l.3.c.10.</bibl>
+                    </note> <quote>
+                        <foreign xml:lang="la">Cum
+                            in genere piscium talis quædam sit generatio nonnullorum, ut sine coitu
                     generent;
-                        hoc idem in apibus etiam evenire videtur, quoad sensus ratioque apparens
-                    admoneat.</hi></p>
-                <p><note>54. <hi>Cleanlinesse</hi></note> For cleanlinesse and neatnesse, they may
-                    be a Mirror to the finest Dames. <note>Hist.an.l.9.cap.40.</note> <note>
-                    Nat.hist.li.11.c.10</note> <hi>Mundissimum omnium hoc animal est.</hi> For
-                    neither will they suffer any flutterie within, if they may goe abroad, <hi>Amoliuntur
-                    omnia
-                        è medio, nullæque inter opera spurcitiæ jacent</hi>; neither can they endure
-                    any unsavourinesse without nigh unto them. <hi>Odere fœdos odores: Nulla harum
-                    assidet
-                        in loco inquinato, aut eo qui malè oleat.</hi> <note>Hist an.l.9.c.40</note> <note>
-                    Var.l.3.c.15.</note> And for their persons (which are lovely browne) though they
-                    be not long about it, yet are they curious in trimming and smoothing them from
-                    top to toe, like unto sober Matrones, which love as well to goe neate as plaine:
-                    pied and garish colours belong to the Waspe, which is good for nothing but to
-                    spend and waste. </p>
-                <p><note>55. <hi>The age of Bees.</hi></note> Anent the age of Bees there are divers
-                    opinions: some thinke that they may live foure or five yeares, yea some six or
-                    seven: <note>Georg.4.Hist.l.5.c.22.</note> <hi>Neque enim plus septima ducitur
-                    æstas.</hi>
+                            hoc idem in apibus etiam evenire videtur, quoad sensus ratioque apparens
+                    admoneat.</foreign>
+                    </quote></p>
+                <p><note type="authorial" subtype="summary">54. <hi>Cleanlinesse</hi></note> For
+                    cleanlinesse and neatnesse, they may be a Mirror to the finest Dames. <note
+                        type="authorial" subtype="bibliographic">
+                        <bibl>Hist.an.l.9.cap.40.</bibl>
+                    </note> <note
+                        type="authorial" subtype="bibliographic">
+                        <quote>Nat.hist.li.11.c.10</quote>
+                    </note> <quote>
+                        <foreign xml:lang="la">Mundissimum omnium hoc animal est.</foreign>
+                    </quote>
+                    For neither will they suffer any flutterie within, if they may goe abroad, <quote>
+                        <foreign xml:lang="la">Amoliuntur
+                            omnia
+                            è medio, nullæque inter opera spurcitiæ jacent</foreign>
+                    </quote>;
+                    neither can they endure any unsavourinesse without nigh unto them. <quote>
+                        <foreign xml:lang="la">Odere fœdos odores: Nulla harum
+                            assidet
+                            in loco inquinato, aut eo qui malè oleat.</foreign>
+                    </quote> <note
+                        type="authorial" subtype="bibliographic">
+                        <bibl>Hist an.l.9.c.40</bibl>
+                    </note> <note
+                        type="authorial" subtype="bibliographic">
+                        <bibl>
+                            Var.l.3.c.15.</bibl>
+                    </note> And for their persons
+                    (which are lovely browne) though they be not long about it, yet are they curious
+                    in trimming and smoothing them from top to toe, like unto sober Matrones, which
+                    love as well to goe neate as plaine: pied and garish colours belong to the
+                    Waspe, which is good for nothing but to spend and waste. </p>
+                <p><note type="authorial" subtype="summary">55. <hi>The age of Bees.</hi></note>
+                    Anent the age of Bees there are divers opinions: some thinke that they may live
+                    foure or five yeares, yea some six or seven: <note type="authorial"
+                        subtype="bibliographic">
+                        <bibl>Georg.4.Hist.l.5.c.22.</bibl>
+                    </note> <quote>
+                        <foreign xml:lang="la">Neque enim plus septima ducitur
+                            æstas.</foreign>
+                    </quote>
                 </p>
-                <p><hi>Aristotle</hi> speaketh of a longer time <hi>Vita apium anni sex, nonnullæ
-                    etiam
-                        7; possunt complere: quod si examen 9. aut decem annos duràverit prosperè
-                    actum esse
-                        existimatur.</hi> Which opinions are grounded upon this, that they see a
-                    stall sometimes continue so long, before the Bees die altogether. But this
-                    continuance is onely by succession: and so might they live in <hi>secula</hi>,
-                    if the rottennesse of their combes, the hardnesse of their Honie, &amp; the
-                    abundance of noisone stopping <hi>
-                        v:</hi> <note><hi>V.c.</hi>6.<hi>n.</hi>20.</note>would suffer them to abide
-                    the Hives, <hi>Nam genus immortale manet.</hi> <note>Georg.4.</note>
-                </p>
-                <p>
+                <p><persName>Aristotle</persName> speaketh of a longer time <quote>
+                        <foreign xml:lang="la">Vita apium anni sex, nonnullæ
+                            etiam
+                            7; possunt complere: quod si examen 9. aut decem annos duràverit
+                            prosperè
+                            actum esse
+                            existimatur.</foreign>
+                    </quote> Which opinions are
+                    grounded upon this, that they see a stall sometimes continue so long, before the
+                    Bees die altogether. But this continuance is onely by succession: and so might
+                    they live in <term>secula</term>, if the rottennesse of their combes, the
+                    hardnesse of their Honie, &amp; the abundance of noisone stopping <ref
+                        target="#ch1bibln24">
+                        v:</ref> <note type="authorial" subtype="bibliographic" xml:id="ch1bibln24">
+                        <ref target="#"><hi>V.c.</hi>6.<hi>n.</hi>20.</ref>
+                    </note>would
+                    suffer them to abide the Hives, <quote>
+                        <foreign xml:lang="la">Nam genus immortale manet.</foreign>
+                    </quote> <note
+                        type="authorial" subtype="bibliographic">
+                        <bibl>Georg.4.</bibl>
+                    </note>
                     <fw type="catch"> But</fw>
-                </p>
-                <p>
-                    <pb />
-                </p>
-                <p>
+                    <pb
+                        n="D3r" />
                     <fw type="header">
                         <hi>and of their Queene.</hi>
-                    </fw>
-                </p>
-                <p>But the truth is, a Bee is but +a yeares Bird, with some advantage.</p>
-                <p>+Which is a long life in comparison of the Silk-wormes, which live but foure
+                    </fw> But the truth is, a
+                    Bee is but <ref target="ch1glon3">*</ref>a yeares Bird, with some advantage.</p>
+                <note type="authorial" subtype="gloss" xml:id="ch1glon3" place="inline">*Which is a
+                    long life in comparison of the Silk-wormes, which live but foure
                     moneths;
-                    or of the Waspes, which live but five: or of the Drones, which but six.</p>
+                    or of the Waspes, which live but five: or of the Drones, which but six.</note>
                 <p>
-                    <note>56. <hi>The difference betweene the young Bees and old.</hi></note>
+                    <note type="authorial" subtype="summary">56. <hi>The difference betweene the
+                        young Bees and old.</hi></note>
                 </p>
-                <p>For the Bees of the former yeare, which until <hi>Gemini</hi> in the next yeare
-                    doe looke so youthfully, that you cannot discerne them from their full growne
-                    Nymphes, which that spring they have bred; doe from thenceforth change with
-                    manifest difference: for the young Bees continue great, full, smooth, browne,
-                    well-winged; the old waxe little, withered, rough, whitish, ragged-winged: and
-                    withall so feeble, that when they come loaded home, if any thing stand in their
-                    way, yea many times, though there be nothing, they fall downe, and being loaded
-                    cannot rise againe: and then either a little cold or wet in the day, or the
-                    nights dew killeth them: you may daily finde, specially in <hi>Cancer</hi> and <hi>
-                    Leo</hi>, some dead, some halfe-dead before the Hives, and some alive and
+                <p>For the Bees of the former yeare, which until <term>Gemini</term> in the next
+                    yeare doe looke so youthfully, that you cannot discerne them from their full
+                    growne Nymphes, which that spring they have bred; doe from thenceforth change
+                    with manifest difference: for the young Bees continue great, full, smooth,
+                    browne, well-winged; the old waxe little, withered, rough, whitish,
+                    ragged-winged: and withall so feeble, that when they come loaded home, if any
+                    thing stand in their way, yea many times, though there be nothing, they fall
+                    downe, and being loaded cannot rise againe: and then either a little cold or wet
+                    in the day, or the nights dew killeth them: you may daily finde, specially in <term>
+                    Cancer</term> and <term>
+                        Leo</term>, some dead, some halfe-dead before the Hives, and some alive and
                     lustie, which yet can never rise againe. Some of them will holde out so long,
-                    till their wings are more than halfe worne: but by <hi>Libra</hi> you shal
+                    till their wings are more than halfe worne: but by <term>Libra</term> you shal
                     scarce see one of them leaft. </p>
-                <p><note>57. <hi>The office of the young Bees.</hi></note> The young Bees, as best
-                    able, beare the greatest burdens: for they not only worke abroad, but also watch
-                    and ward at home both early and late: when need is, they hazzard their lives in
-                    defence of the rest, they beat away the Drones, and fight with other Bees and
-                    Waspes, and assault with their speeres whatsoever else offendeth them, they
-                    carrie their dead forth to be buried, and performe all other offices. <note>58. <hi>And
+                <p><note type="authorial" subtype="bibliographic">57. <hi>The office of the young
+                    Bees.</hi></note> The young Bees, as best able, beare the greatest burdens: for
+                    they not only worke abroad, but also watch and ward at home both early and late:
+                    when need is, they hazzard their lives in defence of the rest, they beat away
+                    the Drones, and fight with other Bees and Waspes, and assault with their speeres
+                    whatsoever else offendeth them, they carrie their dead forth to be buried, and
+                    performe all other offices. <note type="authorial" subtype="bibliographic">58. <hi>And
                     of the old.</hi></note> But the labour of the old ones is onely in gathering,
                     which they wil never give over, while their wings can beare them: and then when
                     they cease to worke, they will cease also to eat: such enemies are they to
                     idlenesse. And therefore generally they die in their delightfull labour, either
-                    in the field or comming home: <hi>Atque
-                        animas sub fasce dedere.</hi> <note>Virg.</note> Sometimes as well in Summer
-                    as Winter <hi>v.</hi><note><hi>V.c.</hi>3.<hi>n.</hi>59.<hi>&amp;</hi>62.</note>
+                    in the field or comming home: <quote>
+                        <foreign xml:lang="la">Atque
+                            animas sub fasce dedere.</foreign>
+                    </quote> <note
+                        type="authorial" subtype="bibliographic">
+                        <bibl>Virg.</bibl>
+                    </note> Sometimes as well in Summer as
+                    Winter <ref target="ch1bibln25">v.</ref><note type="authorial"
+                        subtype="bibliographic" xml:id="ch1bibln25">
+                        <ref><hi>V.c.</hi>3.<hi>n.</hi>59.<hi>&amp;</hi>62.</ref>
+                    </note>
                     the Bees take pleasure to play abroad before the Hive, specially those that are
-                    in good plight, flying in and out, and about, so thicke, <note>59. <hi>Bees wont
-                    efsoones to
-                            play.</hi></note></p>
-                <p>
+                    in good plight, flying in and out, and about, so thicke, <note type="authorial"
+                        subtype="summary">59. <hi>Bees wont
+                            efsoones to
+                            play.</hi></note>
                     <fw type="catch"> and</fw>
-                </p>
-                <p>
-                    <pb />
-                </p>
-                <p>
-                    <fw type="header">
+                    <pb n="D3v" />
+                    <fw
+                        type="header">
                         <hi>Of the Nature and properties of Bees,</hi>
-                    </fw>
+                    </fw> and
+                    so earnestly, as if they were swarming or fighting: when indeed it is onely to
+                    solace themselves: and this chiefly in warme weather, after they have beene long
+                    kept in. <quote>
+                        <foreign xml:lang="la">Exercitationem interdum solennem habent: spatiatæque
+                    in aperto
+                            &amp; in
+                            altum datæ, gyris volatu editis; tum domum redeunt.</foreign>
+                    </quote> <note
+                        type="authorial" subtype="bibliographic">
+                        <bibl>Nat.hist.li.11.c.20</bibl>
+                    </note></p>
+                <p><note type="authorial" subtype="summary">60. <hi>They are soone killed with cold.</hi></note>
+                    The Bee is by nature very tender, soone chilled and killed with cold, which the
+                    Dorre the Waspe, yea the Moth, the Gnat, and other little flies can endure, and
+                    most of all then, when by reason of long restraint their bellies are over full.
+                    The first that faileth in them, when the cold beginneth to prevaile, is their
+                    wings: so that they cannot rise to their Hives to helpe themselves by the heat
+                    of their fellowes. <note type="authorial" subtype="summary">61. <hi>How to
+                            revive them.</hi></note> How to recover them, yea when they are quite
+                    dead, See <ref
+                        target="#">Cap.7.n.63.</ref>
                 </p>
-                <p>and so earnestly, as if they were swarming or fighting: when indeed it is onely
-                    to solace themselves: and this chiefly in warme weather, after they have beene
-                    long kept in. <hi>Exercitationem interdum solennem habent: spatiatæque in aperto
-                    &amp; in
-                        altum datæ, gyris volatu editis; tum domum redeunt.</hi> <note>
-                    Nat.hist.li.11.c.20</note></p>
-                <p><note>60. <hi>They are soone killed with cold.</hi></note> The Bee is by nature
-                    very tender, soone chilled and killed with cold, which the Dorre the Waspe, yea
-                    the Moth, the Gnat, and other little flies can endure, and most of all then,
-                    when by reason of long restraint their bellies are over full. The first that
-                    faileth in them, when the cold beginneth to prevaile, is their wings: so that
-                    they cannot rise to their Hives to helpe themselves by the heat of their
-                    fellowes. </p>
-                <p><note>61. <hi>How to revive them.</hi></note> How to recover them, yea when they
-                    are quite dead, See <hi>Cap.7.n.63.</hi>
-                </p>
-                <p><note>62. <hi>The Bees excellencies.</hi></note> The Bee therefore excelling in
-                    many qualities, it is fitly said in the Proverbe, </p>
-                <p>
-                    <hi>As
-                    <
-                </p>
-                <p>Profitable</p>
-                <p>Laborious</p>
-                <p>Loiall</p>
-                <p>Swift</p>
-                <p>Nimble</p>
-                <p>Quicke of sent</p>
-                <p>Bold</p>
-                <p>Cunning</p>
-                <p>Chaste</p>
-                <p>Neat </p>
-                <p>Browne </p>
-                <p>Chillie </p>
-                <p>
-                    <   as a Bee.
-                    </hi>
-                </p>
-                <p>
-                    <note>63.<hi>Bees achiefe exemplar of the divine power and wisedome.</hi></note>
-                    <note>Du Bartas.Fift day.</note>
-                </p>
-                <p>These wonderfull parts and properties of this little creature, what are they but
-                    so
-                    many evident proofes of the infinite power and wisedome of the Creator? </p>
-                <p><hi>For, if old times admire</hi> Calirates</p>
-                <p><hi>For Ivorie Emmets; and</hi> Mermecides</p>
-                <p>
-                    <hi>For framing of a rigged ship so small,</hi>
+                <p><note type="authorial" subtype="summary">62. <hi>The Bees excellencies.</hi></note>
+                    The Bee therefore excelling in many qualities, it is fitly said in the Proverbe, <lb />
+                    <hi
+                        rend="italic"> As <list>
+                            <item>Profitable</item>
+                            <item>Laborious</item>
+                            <item>Loiall</item>
+                            <item>Swift</item>
+                            <item>Nimble</item>
+                            <item>Quicke of sent</item>
+                            <item>Bold</item>
+                            <item>Cunning</item>
+                            <item>Chaste</item>
+                            <item>Neat </item>
+                            <item>Browne </item>
+                            <item>Chillie </item>
+                        </list> as a Bee. </hi>
                 </p>
                 <p>
-                    <hi>That with hir wings a Bee can hide it all;</hi>
-                </p>
-                <p>
-                    <hi>Admire we then th' All-Wise Omnipotence,</hi>
-                </p>
-                <p>
-                    <hi>Which doth within so narrow space dispence</hi>
-                </p>
-                <p>
+                    <note type="authorial" subtype="summary">63.<hi>Bees achiefe exemplar of the
+                    divine power and wisedome.</hi></note>
+                    <note type="authorial"
+                        subtype="bibliographic">
+                        <bibl>Du Bartas.Fift day.</bibl>
+                    </note> These wonderfull
+                    parts and properties of this little creature, what are they but so many evident
+                    proofes of the infinite power and wisedome of the Creator? </p>
+                <lg rend="italic">
+                    <l>For, if old times admire <hi rend="opposite">Calirates</hi></l>
+                    <l>For Ivorie Emmets; and <hi rend="opposite">Mermecides</hi></l>
+                    <l>
+                        For framing of a rigged ship so small,
+                    </l>
+                    <l>
+                        That with hir wings a Bee can hide it all;
+                    </l>
+                    <l>
+                        Admire we then th' All-Wise Omnipotence,
+                    </l>
+                    <l>
+                        Which doth within so narrow space dispence
+                    </l>
                     <fw type="catch">
-                        <hi>So</hi>
+                        So
                     </fw>
-                </p>
-                <p>
-                    <pb />
-                </p>
-                <p>
+                    <pb n="D4r" />
                     <fw type="header">
-                        <hi>and of their Queene.</hi>
+                        and of their Queene.
                     </fw>
-                </p>
-                <p>
-                    <hi>So stiffe a sting, so stout and valiant hart,</hi>
-                </p>
-                <p>
-                    <hi>So loud a voyce, so prudent Wit and Art.</hi>
-                </p>
-                <p>
-                    <hi>Their well rul'd State my soule so much admires,</hi>
-                </p>
-                <p>
-                    <hi>That, durst I loose the raines of my desires,</hi>
-                </p>
-                <p>
-                    <hi>I gladly could digresse from my designe,</hi>
-                </p>
-                <p>
-                    <hi>To sing a while their sacred discipline.</hi>
-                </p>
+                    <l>
+                        So stiffe a sting, so stout and valiant hart,
+                    </l>
+                    <l>
+                        So loud a voyce, so prudent Wit and Art.
+                    </l>
+                    <l>
+                        Their well rul'd State my soule so much admires,
+                    </l>
+                    <l>
+                        That, durst I loose the raines of my desires,
+                    </l>
+                    <l>
+                        I gladly could digresse from my designe,
+                    </l>
+                    <l>
+                        To sing a while their sacred discipline.
+                    </l>
+                </lg>
             </div>
-            <p>
-                <fw type="ornament" />
-            </p>
+            <fw type="ornament" />
             <div type="chapter" n="2">
                 <head>CHAP. II</head>
                 <p>
@@ -6188,7 +6278,8 @@
                     feet: and of that length and widenesse, that each of them may easily containe a
                     Bee. Which are so artificiallie wrought and joined together, that <hi>S. Ambrose</hi>
                     in the consideration thereof saith. <note>Hexamer.l.5.c.21.</note> <hi>Quæ castra
-                    quadrata tantum </p>
+                    quadrata tantum
+                </p>
                 <p>
                     <fw type="catch"> possunt</fw>
                 </p>
@@ -7166,7 +7257,8 @@
                     first appeareth: and in a while she beginneth to feed upon dead and weake Bees:
                     which she quickly cutting of in the middle with hir Fangs, first carrieth away
                     the neather-part; and anon fetcheth the other, when she hath bitten off the
-                    wings (for easier carriage) not farre from the place where she took it up. </p>
+                    wings (for easier carriage) not farre from the place where she took it up.
+                </p>
                 <p><note>13. <hi>When she stealeth Honie.</hi></note> Within a moneth after hir
                     comming abroad, shee waxeth bold, and adventureth into the Hives for honie: but,
                     by reason of the strangenesse of hir voice and habit, shee is descried before
@@ -8066,7 +8158,8 @@
                     yeere, the Hive be cloyed with too much: <hi>
                         v.</hi> <note><hi>
                             V.c.</hi>10.<hi>p.</hi>1.<hi>n.</hi>3,<hi>in VII.&amp;VIII.</hi></note>
-                    for too much as well to Bees as men, doth ofttimes more harme than good. </p>
+                    for too much as well to Bees as men, doth ofttimes more harme than good.
+                </p>
                 <p>+Yet they that have but a small Bee-fold, and are content to be often troubled
                     (specially at the second feeding-time) may try those that lacke a pound or two
                     of
@@ -8981,7 +9074,8 @@
                         condition of the soile where it is gathered. <hi>v.</hi> <note><hi>
                         V.c.6.n.31.</hi> The Champian-honie is accounted almost twice as good as the
                         Heath-honie, although they bee ordered both alike. For when the vulgar
-                        champian is sold </p>
+                        champian is sold
+                    </p>
                     <p>
                         <fw type="catch"> for</fw>
                     </p>
