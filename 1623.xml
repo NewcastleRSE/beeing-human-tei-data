@@ -2877,48 +2877,47 @@
             </div>
             <fw type="ornament" />
             <div type="chapter" n="2">
-                <head>CHAP. II</head>
-                <p>
-                    <head><hi>Of the Bee-Garden, and Seats</hi> for the Hives.</head>
+                <head type="chapter-number">CHAP. II</head>
+                <head type="chapter-title" rend="italic">Of the Bee-Garden, and Seats<lb /> <hi
+                        rend="opposite">for the Hives</hi>.</head>
+                <p><note type="authorial" subtype="summary">1. <hi>Of five things requisite in a
+                    Bee-garden, the first is that it be
+                            night
+                            at hand.</hi></note><hi rend="drop-capital">F</hi>Or your Bee-garden,
+                    first choose some plot nigh your home, that the Bees may be in sight and
+                    hearing; because of swarming, fighting, or other suddaine hap, wherein they may
+                    neede your present helpe. While the stalls are few, your Garden of Hearbs and
+                    Flowers will serve. <quote>
+                        <foreign xml:lang="la">Hortis
+                            coronamentisque,
+                            maxime alvearia &amp; apes conveniunt, res præcipui quæstus compendijque
+                    cum
+                            favit.</foreign>
+                    </quote> <note type="authorial"
+                        subtype="bibliographic">
+                        <bibl>Nat.hist.li.21.c.12.</bibl>
+                    </note> But when they
+                    are growne to a sufficient number, they require a square greene plot fitted for
+                    the purpose. <ref target="#"><hi>v.n.</hi>8</ref>.</p>
+                <p><note type="authorial" subtype="summary">2. <hi>That it be safely fenced from
+                    cattell and winds.</hi></note> 2. See it bee safe, and surely fenced, not onely
+                    from all Cattell, (which if they breake in, may quickly spoile both the Bees and
+                    themselves) and specially from Swine (which by rubbing against the Hives, and
+                    tearing the hackles in a wantonnesse, are most apt to overthrow the stalls;) but
+                    also from the violence of the winds: that when the Bees come laden and wearie
+                    home, they may settle quietly.<ref target="#"><hi>v.n.</hi>5.</ref>
                 </p>
-                <p>
-                    <note>1. <hi>Of five things requisite in a Bee-garden, the first is that it be
-                        night
-                            at hand.</hi></note>
-                </p>
-                <p><hi rend="drop-capital">F</hi>Or your Bee-garden, first choose some plot nigh
-                    your home, that the Bees may be in sight and hearing; because of swarming,
-                    fighting, or other suddaine hap, wherein they may neede your present helpe.
-                    While the stalls are few, your Garden of Hearbs and Flowers will serve. <hi>Hortis
-                    coronamentisque,
-                        maxime alvearia &amp; apes conveniunt, res præcipui quæstus compendijque cum
-                    favit.</hi> <note>
-                        Nat.hist.li.21.c.12.</note> But when they are growne to a sufficient number,
-                    they require a square greene plot fitted for the purpose. <hi>v.n.</hi>8.</p>
-                <p><note>2. <hi>That it be safely fenced from cattell and winds.</hi></note> 2. See
-                    it bee safe, and surely fenced, not onely from all Cattell, (which if they
-                    breake in, may quickly spoile both the Bees and themselves) and specially from
-                    Swine (which by rubbing against the Hives, and tearing the hackles in a
-                    wantonnesse, are most apt to overthrow the stalls;) but also from the violence
-                    of the winds: that when the Bees come laden and wearie home, they may settle
-                    quietly.<hi>v.n.</hi>5. </p>
-                <p><note>3. <hi>The North and East fences should be high.</hi></note> The North
-                    fence of your Garden should bee close and high, that the cold wind of that
-                    coast, (which blowing against the Bees comming home wearie, would throw downe </p>
-                <p>
-                    <fw type="catch"> and</fw>
-                </p>
-                <p>
-                    <pb />
-                </p>
-                <p>
-                    <fw type="header">
+                <p><note type="authorial" subtype="summary">3. <hi>The North and East fences should
+                    be high.</hi></note> The North fence of your Garden should bee close and high,
+                    that the cold wind of that coast, (which blowing against the Bees comming home
+                    wearie, would throw downe <fw type="catch"> and</fw>
+                    <pb n="D4v" />
+                    <fw
+                        type="header">
                         <hi>Of the Bee-Garden,</hi>
-                    </fw>
-                </p>
-                <p>and kill many) may bee altogether kept from them. And therefore, if it may be,
-                    set
-                    your Bees on the South side of your house. </p>
+                    </fw> and kill many) may bee
+                    altogether kept from them. And therefore, if it may be, set your Bees on the
+                    South side of your house. </p>
                 <p>The East-fence also would bee good and high to keepe from the Bees as well the
                     sunne,
                     as the winde. For the sunne rising doth oftimes till them forth, when the ayre
@@ -2926,121 +2925,135 @@
                     colder then they can endure; and the East-wind being cold &amp; sharp is very
                     unkinde
                     for Bees, specially in the Spring. </p>
-                <p><note>4. <hi>The South and West fence must be also good but not so high as to
+                <p><note type="authorial" subtype="summary">4. <hi>The South and West fence must be
+                    also good but not so high as to
                             hide
                             the Sunne from the Hives.</hi></note>But in no wise let the place be
                     shadowed from the South-sunne: for that doth not onely dry the Hives and relieve
                     the Bees in the Winter and Spring, but also causeth them to swarme in Summer, if
-                    it be not extreme hot and drie <hi>v.</hi> <note><hi>v.c.</hi>5.<hi>n.</hi>19.</note></p>
+                    it be not extreme hot and drie <ref target="ch2bibln1">v.</ref> <note
+                        type="authorial" subtype="bibliographic" xml:id="ch2bibln1">
+                        <ref target="#"><hi>v.c.</hi>5.<hi>n.</hi>19.</ref>
+                    </note></p>
                 <p>Nor yet from the Sunne-setting: because in calme and pleasant weather the Bees
                     will be in field after the Sunne is downe, even as long as they can there see:
                     and if when they returne, they finde it darke at home, many of them, their sight
-                    being but dim, <hi>v</hi>. <note>V.c.1.n.43</note> fall short or wide: which
-                    flying and running to and fro till they be wearie, at length yeeld to the cold
-                    dew. </p>
+                    being but dim, <ref target="ch2bibln2">v</ref>. <note type="authorial"
+                        subtype="bibliographic" xml:id="ch2bibln2">
+                        <ref target="#">V.c.1.n.43</ref>
+                    </note> fall short or
+                    wide: which flying and running to and fro till they be wearie, at length yeeld
+                    to the cold dew. </p>
                 <p>Otherwise let the fences be as good against the South and West-winds also, as may
                     be:
                     for although they be not so cold and bitter as the other; yet are they no lesse
                     violent, and more frequent: so that they also doe do much harme, specially in
                     the
                     Spring. </p>
-                <p><note>5. <hi>In rough winds Bees need a skreene.</hi></note> And therefore if at
-                    that time of the yeare, in rough and boistrous winds, you finde that the
-                    Garden-fences doe not sufficiently guard and defend them; then it is good to set
-                    up wixed or lined hurdles, or some other skreene betweene them and the weather.
-                    For though they can shift abroad in the strongest winds, as a ship that has
-                    sea-roome; yet are they easily overthrowne at the Hive, as a shippe is soone
-                    wrecked at the Haven. </p>
+                <p><note type="authorial" subtype="summary">5. <hi>In rough winds Bees need a
+                    skreene.</hi></note> And therefore if at that time of the yeare, in rough and
+                    boistrous winds, you finde that the Garden-fences doe not sufficiently guard and
+                    defend them; then it is good to set up wixed or lined hurdles, or some other
+                    skreene betweene them and the weather. For though they can shift abroad in the
+                    strongest winds, as a ship that has sea-roome; yet are they easily overthrowne
+                    at the Hive, as a shippe is soone wrecked at the Haven. </p>
                 <p>A house or wall is fittest for the North fence: and a Quicke-set-hedge for any of
                     the
                     other three: it may serve also for the first, specially if it be thicke. </p>
-                <p><note>6. <hi>That it be sweet</hi></note> 3. That the place be sweet, not annoyed
-                    with any stinking savour. I have knowne a stall in the Spring being sufficiently
-                    provided of Honie, and having bred young, to forsake all, because of Poultry
-                    that roosted in a tree over them. </p>
-                <p>
-                    <fw type="catch">
+                <p><note type="authorial" subtype="summary">6. <hi>That it be sweet</hi></note> 3.
+                    That the place be sweet, not annoyed with any stinking savour. I have knowne a
+                    stall in the Spring being sufficiently provided of Honie, and having bred young,
+                    to forsake all, because of Poultry that roosted in a tree over them. <fw
+                        type="catch">
                         <hi>Odêre</hi>
                     </fw>
-                </p>
-                <p>
-                    <pb />
-                </p>
-                <p>
+                    <pb n="E1r" />
                     <fw type="header">
                         <hi>and Seats for the Hives.</hi>
                     </fw>
-                </p>
+                    <note
+                        type="authorial" subtype="bibliographic">
+                        <bibl>Nat.hist.li.11.c.18.</bibl>
+                    </note>
+                    <note
+                        type="authorial" subtype="bibliographic">
+                        <bibl>Nat.hist.li.21.c.12.</bibl>
+                    </note>
+                <quote>
+                        <foreign xml:lang="la">Odêre fœdos odores, proculque, fugiunt</foreign>
+                    </quote>:
+                    And yet the smell of urine doth not offend them: nay, they wil bee very busie
+                    where it is shed. It is thought they use it for Physike. <quote>
+                        <foreign xml:lang="la">Remedium contra alvi concitationem est urina
+                            hominum vel boum.</foreign>
+                    </quote></p>
                 <p>
-                    <note>Nat.hist.li.11.c.18.</note>
-                    <note>Nat.hist.li.21.c.12.</note>
-                </p>
-                <p><hi>Odêre fœdos odores, proculque, fugiunt</hi>: And yet the smell of urine doth
-                    not offend them: nay, they wil bee very busie where it is shed. It is thought
-                    they use it for Physike. <hi>Remedium contra alvi concitationem est urina
-                        hominum vel boum.</hi></p>
-                <p>
-                    <note>7. <hi>Neither very cold in Winter, nor over hot in Summer.</hi></note>
-                </p>
-                <p>4 That it be neither verie cold in Winter, nor over hot in Summer. <note>
-                    Hist.l.9.c.40.</note> <hi>Locus æstate non fervidus, hyeme tepidus, v:</hi> <note>
-                        <hi>V.</hi>
-                        <hi rend="drop-capital">manicule</hi>
-                        <hi>in c.3.n.36</hi>
-                    </note> A bare flower is naught in
-                    both seasons: because in Winter it is over cold, and by that meanes quickly
-                    chilleth the Bees that light upon it; and in Summer it causeth them to lie forth
-                    through excessive heat, <hi>v.</hi> <note>v.c.5.n.19.</note> A grassie ground
-                    therefore is best at all times: but let it be kept notte in Summer, and not wet
-                    in Winter: <note> 8. <hi>A grassie ground is best, kept notte and drie.</hi></note>
-                    for long grasse and weeds about the Hive, doe but harbour the Bees enimies, <hi>
-                    v.</hi> <note><hi>
-                            v.c.</hi>7.<hi>n.</hi>3.</note> and hinder both their passage in and
-                    out, and their rising againe when they fall short: and water if it stand, as it
-                    will be offensive to your selfe, so is it dangerous to your Bees for chilling
-                    and drowning them. And as the parts about the hives are to be kept notte &amp;
-                    bare; so are other places also, where the swarmes doe use to play and pitch,
-                    whether within or without the Garden, to bee freed likewise from long grasse and
-                    weedes, much more from Beanes, Pease, Hempe, and such high things: for the young
-                    weake Nymphs falling in those shadie places, except the weather be warme and
-                    drie, are in danger to be chilled before they can rise againe. For which cause
-                    the swarmes doe usually refuse to stay and settle about such places: and then if
-                    windie or cloudie weather suffer them not to goe further, they must either goe
-                    home, or light upon some other Hives: where, without your present skill and
-                    diligence, they are like to be all lost.</p>
-                <p><note>9. <hi>Beset with trees and bushes.</hi></note> 5 That it be conveninently
+                    <note type="authorial" subtype="bibliographic">7. <hi>Neither very cold in
+                    Winter, nor over hot in Summer.</hi></note> 4 That it be neither verie cold in
+                    Winter, nor over hot in Summer. <note type="authorial" subtype="bibliographic">
+                        <bibl>
+                            Hist.l.9.c.40.</bibl>
+                    </note> <quote>
+                        <foreign xml:lang="la">Locus æstate non fervidus, hyeme tepidus, <ref
+                                target="#ch2bibln3">v:</ref></foreign>
+                    </quote> <note
+                        type="authorial" subtype="bibliographic" xml:id="ch2bibln3">
+                        <ref target="#"><hi>V.</hi> ☛ in c.3.n.36</ref>
+                    </note> A
+                    bare flower is naught in both seasons: because in Winter it is over cold, and by
+                    that meanes quickly chilleth the Bees that light upon it; and in Summer it
+                    causeth them to lie forth through excessive heat, <ref target="#ch2bibln4">v.</ref> <note
+                        type="authorial" subtype="bibliographic" xml:id="ch2bibln4">
+                        <ref target="#">v.c.5.n.19.</ref>
+                    </note> A grassie
+                    ground therefore is best at all times: but let it be kept notte in Summer, and
+                    not wet in Winter: <note type="authorial" subtype="bibliographic"> 8. <hi>A
+                    grassie ground is best, kept
+                            notte and drie.</hi></note> for long grasse and weeds about the Hive,
+                    doe but harbour the Bees enimies, <ref target="#ch2bibln5">
+                        v.</ref> <note type="authorial" subtype="bibliographic" xml:id="ch2bibln5">
+                        <ref target="#"><hi>
+                                v.c.</hi>7.<hi>n.</hi>3.</ref>
+                    </note> and hinder
+                    both their passage in and out, and their rising againe when they fall short: and
+                    water if it stand, as it will be offensive to your selfe, so is it dangerous to
+                    your Bees for chilling and drowning them. And as the parts about the hives are
+                    to be kept notte &amp; bare; so are other places also, where the swarmes doe use
+                    to play and pitch, whether within or without the Garden, to bee freed likewise
+                    from long grasse and weedes, much more from Beanes, Pease, Hempe, and such high
+                    things: for the young weake Nymphs falling in those shadie places, except the
+                    weather be warme and drie, are in danger to be chilled before they can rise
+                    againe. For which cause the swarmes doe usually refuse to stay and settle about
+                    such places: and then if windie or cloudie weather suffer them not to goe
+                    further, they must either goe home, or light upon some other Hives: where,
+                    without your present skill and diligence, they are like to be all lost.</p>
+                <p><note type="authorial" subtype="summary">9. <hi>Beset with trees and bushes.</hi></note> 5 That it be conveninently
                     beset with trees and bushes fit to receive the swarmes, as Plum-trees,
                     Cherry-trees, Apple-trees, Filberds, Hazels, Thornes, &amp;c. Which they will
                     the more delight to light upon, if, convenient boughes hanging out alone from
                     the bodies, the twigs below standing in their way be pruned, and the weeds and
                     grasse underneath be cut away close to the ground. Although, if they be willing
                     to stay, they will not refuse a dead hedge, a Lavender Border, or the like, or
-                    sometime the bare ground. For want of trees, </p>
-                <p>
+                    sometime the bare ground. For want of trees,
                     <fw type="catch"> some</fw>
-                </p>
-                <p>
-                    <pb />
-                </p>
-                <p>
+                    <pb n="E1v"/>
                     <fw type="header">
                         <hi>Of the Bee-Garden,</hi>
                     </fw>
-                </p>
-                <p>some have stucke up greene boughes, and the Bees have lighted upon them. </p>
-                <p><note>10. <hi>Two sorts of seats.</hi></note> The place being thus fitted, the
+                some have stucke up greene boughes, and the Bees have lighted upon them. </p>
+                <p><note type="authorial" subtype="summary">10. <hi>Two sorts of seats.</hi></note> The place being thus fitted, the
                     seates are to be provided: which, whether they be stooles or benches, must be
                     set a little shelving, that the raine may neither runne into the hive, nor stay
                     at the dore. </p>
-                <p><note>11. <hi>The benches not so good as single stooles.</hi></note> To set many
+                <p><note type="authorial" subtype="summary">11. <hi>The benches not so good as single stooles.</hi></note> To set many
                     stals upon a bench (as many use to do) is not good: for that in Summer it may
                     cause the Bees to fight, as having easie accesse on foot to each other, and
                     standing so neere that they shall sometime mistake the next Hive for their owne:
                     and in Winter the bench wil bee alwaies wet, which looseth the cloome, rotteth
-                    the bottome of the Hive, and offendeth the Bees: and the Mouse <hi>v.</hi> <note><hi>
-                    V.c.</hi>7.<hi>n.</hi> 2.</note> at all times hath free passage from one to an
+                    the bottome of the Hive, and offendeth the Bees: and the Mouse <ref target="#ch2bibln6">v.</ref> <note type="authorial" subtype="bibliographic" xml:id="ch2bibln6"><ref><hi>
+                    V.c.</hi>7.<hi>n.</hi> 2.</ref></note> at all times hath free passage from one to an
                     other, without feare.</p>
-                <p><note>12. <hi>Swarmes may be set on benches.</hi></note> The single stooles
+                <p><note type="authorial" subtype="summary">12. <hi>Swarmes may be set on benches.</hi></note> The single stooles
                     therefore are best. And yet it is not amisse to set most of your swarmes upon
                     benches, about the old stalls: from whence remove them to the stooles, when the
                     stalls are taken: and then set up the benches till an other yeare. Yet I
@@ -3048,10 +3061,10 @@
                     ground: but it is better to reare then with foure legges, though little and
                     short. If they be twelve or thirteene inches, three or foure inches may bee
                     forced into the ground for their surer standing. </p>
-                <p><note>13. <hi>Woodden stooles better than they of stone.</hi></note> The best
+                <p><note type="authorial" subtype="summary">13. <hi>Woodden stooles better than they of stone.</hi></note> The best
                     stooles are of wood: those of stone are too hot in hot weather, and (which is
                     worse) too cold in cold. </p>
-                <p><note>14. <hi>The size of stooles.</hi></note> For their size, they should not be
+                <p><note type="authorial" subtype="summary">14. <hi>The size of stooles.</hi></note> For their size, they should not be
                     above halfe an inch or an inch without the Hive: save onely before, where there
                     needeth the space of three or foure inches, that the Bees may have roome enough
                     to light upon: specially then, when the sight of a rainy cloud sendeth them
@@ -3059,28 +3072,22 @@
                     shelving that it may the better avoid the raine. And therfore if the Hive be
                     fifteene inches over, the stoole shoulde not be above sixteene or seventeen
                     inches one way, and nineteene or twentie at the most the other way. </p>
-                <p><note>15. <hi>Which way the stooles should be set.</hi></note> These stooles
+                <p><note type="authorial" subtype="summary">15. <hi>Which way the stooles should be set.</hi></note> These stooles
                     would be set toward the South, or rather a point or two into the West: that the
-                    Hive may somewhat </p>
-                <p>
+                    Hive may somewhat
                     <fw type="catch"> breake</fw>
-                </p>
-                <p>
-                    <pb />
-                </p>
-                <p>
+                    <pb n="E2r"/>
                     <fw type="header">
                         <hi>and Seats for the Hives.</hi>
                     </fw>
-                </p>
-                <p>breake the East-winde from the doore, <hi>v.</hi> <note><hi>V.not.</hi>3.</note>
+                breake the East-winde from the doore, <ref target="#ch2bibln7">v.</ref> <note type="authorial" subtype="bibliographic" xml:id="ch2bibln7"><ref target="#"><hi>V.not.</hi>3.</ref></note>
                     and that the doore may be lightened by the Sunne-setting when they returne late
-                    and loaded from field, <hi>v.</hi> <note><hi>V.not.</hi>4.</note> and therefore
+                    and loaded from field, <ref target="#ch2bibln8">v.</ref> <note type="authorial" subtype="bibliographic" xml:id="ch2bibln8"><ref target="#"><hi>V.not.</hi>4.</ref></note> and therefore
                     it is to be wished that the Garden-fences did stand accordingly.</p>
-                <p><note>16. <hi>How neere to each other.</hi></note> They should stand in straight
+                <p><note type="authorial" subtype="summary">16. <hi>How neere to each other.</hi></note> They should stand in straight
                     rankes or rewes from East to West, five foot one from another (measuring from
                     doore to doore) and from North to South, six foot one before an other.</p>
-                <p><note>17. <hi>How neere to the fences.</hi></note> Likewise let them stand as
+                <p><note type="authorial" subtype="summary">17. <hi>How neere to the fences.</hi></note> Likewise let them stand as
                     farre from three of the fences, as they doe one from an other. And for a plot of
                     fiftie foot square, will receive seven rankes of nine stooles a peece, with the
                     space of eight foot before them: which if it were bigger, were so much the
@@ -3091,26 +3098,18 @@
                     that the Bees, when they come home in haste, specially when a swarme goeth backe
                     againe, may be sure to flie into their own Hive. For if they stand neere
                     together, at such time many will take the next Hive for their owne, and then
-                    they fall together by the eares; <hi>v.</hi> <note><hi>
-                            V.c.</hi>5.<hi>n.</hi>79.</note>and the Nymphs, when they go first
+                    they fall together by the eares; <ref target="#ch2bibln9">v.</ref> <note type="authorial" subtype="bibliographic" xml:id="ch2bibln9"><ref target="#"><hi>
+                            V.c.</hi>5.<hi>n.</hi>79.</ref></note>and the Nymphs, when they go first
                     abroad, wil by that occasion the sooner mistake: which if they doe, they dye. </p>
                 <p>The manner of placing the stooles in your Garden, with the distance of the
                     rankes, I
                     have here expressed.</p>
-                <p>
                     <fw type="catch"> IV.</fw>
-                </p>
-                <p>
-                    <pb />
-                </p>
-                <p>
+                    <pb n="E2v"/>
                     <fw type="header">
                         <hi>Of the Bee-Garden,</hi>
                     </fw>
-                </p>
-                <p>
                     <hi rend="drop-capital">diagram</hi>
-                </p>
                 <p><note>18. <hi>Annus climactericus.</hi></note> This Climactericall number of nine
                     times seven, is a competent or rather complete store for any one Garden, though
                     large and alone: which being well ordered, will yeeld the Bee-master the better
@@ -6278,8 +6277,7 @@
                     feet: and of that length and widenesse, that each of them may easily containe a
                     Bee. Which are so artificiallie wrought and joined together, that <hi>S. Ambrose</hi>
                     in the consideration thereof saith. <note>Hexamer.l.5.c.21.</note> <hi>Quæ castra
-                    quadrata tantum
-                </p>
+                    quadrata tantum </p>
                 <p>
                     <fw type="catch"> possunt</fw>
                 </p>
@@ -7257,8 +7255,7 @@
                     first appeareth: and in a while she beginneth to feed upon dead and weake Bees:
                     which she quickly cutting of in the middle with hir Fangs, first carrieth away
                     the neather-part; and anon fetcheth the other, when she hath bitten off the
-                    wings (for easier carriage) not farre from the place where she took it up.
-                </p>
+                    wings (for easier carriage) not farre from the place where she took it up. </p>
                 <p><note>13. <hi>When she stealeth Honie.</hi></note> Within a moneth after hir
                     comming abroad, shee waxeth bold, and adventureth into the Hives for honie: but,
                     by reason of the strangenesse of hir voice and habit, shee is descried before
@@ -8158,8 +8155,7 @@
                     yeere, the Hive be cloyed with too much: <hi>
                         v.</hi> <note><hi>
                             V.c.</hi>10.<hi>p.</hi>1.<hi>n.</hi>3,<hi>in VII.&amp;VIII.</hi></note>
-                    for too much as well to Bees as men, doth ofttimes more harme than good.
-                </p>
+                    for too much as well to Bees as men, doth ofttimes more harme than good. </p>
                 <p>+Yet they that have but a small Bee-fold, and are content to be often troubled
                     (specially at the second feeding-time) may try those that lacke a pound or two
                     of
@@ -9074,8 +9070,7 @@
                         condition of the soile where it is gathered. <hi>v.</hi> <note><hi>
                         V.c.6.n.31.</hi> The Champian-honie is accounted almost twice as good as the
                         Heath-honie, although they bee ordered both alike. For when the vulgar
-                        champian is sold
-                    </p>
+                        champian is sold </p>
                     <p>
                         <fw type="catch"> for</fw>
                     </p>
