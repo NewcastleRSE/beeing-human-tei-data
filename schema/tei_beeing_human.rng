@@ -5,7 +5,7 @@
          xmlns="http://relaxng.org/ns/structure/1.0"
          datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes"
          ns="http://www.tei-c.org/ns/1.0"><!--
-Schema generated from ODD source 2023-08-23T08:14:34Z. .
+Schema generated from ODD source 2023-08-30T10:04:04Z. .
 TEI Edition: Version 4.6.0. Last updated on
         4th April 2023, revision f18deffba
 TEI Edition Location: https://www.tei-c.org/Vault/P5/Version 4.6.0/
@@ -1321,6 +1321,7 @@ The element indicated by @spanTo (<sch:value-of select="@spanTo"/>) must follow 
    <define name="tei_model.emphLike">
       <choice>
          <ref name="tei_foreign"/>
+         <ref name="tei_emph"/>
          <ref name="tei_gloss"/>
          <ref name="tei_term"/>
          <ref name="tei_title"/>
@@ -1329,6 +1330,7 @@ The element indicated by @spanTo (<sch:value-of select="@spanTo"/>) must follow 
    <define name="tei_model.emphLike_alternation">
       <choice>
          <ref name="tei_foreign"/>
+         <ref name="tei_emph"/>
          <ref name="tei_gloss"/>
          <ref name="tei_term"/>
          <ref name="tei_title"/>
@@ -1336,6 +1338,7 @@ The element indicated by @spanTo (<sch:value-of select="@spanTo"/>) must follow 
    </define>
    <define name="tei_model.emphLike_sequence">
       <ref name="tei_foreign"/>
+      <ref name="tei_emph"/>
       <ref name="tei_gloss"/>
       <ref name="tei_term"/>
       <ref name="tei_title"/>
@@ -1343,6 +1346,9 @@ The element indicated by @spanTo (<sch:value-of select="@spanTo"/>) must follow 
    <define name="tei_model.emphLike_sequenceOptional">
       <optional>
          <ref name="tei_foreign"/>
+      </optional>
+      <optional>
+         <ref name="tei_emph"/>
       </optional>
       <optional>
          <ref name="tei_gloss"/>
@@ -1359,6 +1365,9 @@ The element indicated by @spanTo (<sch:value-of select="@spanTo"/>) must follow 
          <ref name="tei_foreign"/>
       </zeroOrMore>
       <zeroOrMore>
+         <ref name="tei_emph"/>
+      </zeroOrMore>
+      <zeroOrMore>
          <ref name="tei_gloss"/>
       </zeroOrMore>
       <zeroOrMore>
@@ -1371,6 +1380,9 @@ The element indicated by @spanTo (<sch:value-of select="@spanTo"/>) must follow 
    <define name="tei_model.emphLike_sequenceRepeatable">
       <oneOrMore>
          <ref name="tei_foreign"/>
+      </oneOrMore>
+      <oneOrMore>
+         <ref name="tei_emph"/>
       </oneOrMore>
       <oneOrMore>
          <ref name="tei_gloss"/>
@@ -2621,6 +2633,14 @@ The element indicated by @spanTo (<sch:value-of select="@spanTo"/>) must follow 
                </choice>
             </attribute>
          </optional>
+         <empty/>
+      </element>
+   </define>
+   <define name="tei_emph">
+      <element name="emph">
+         <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">(emphasized) marks words or phrases which are stressed or emphasized for linguistic or rhetorical effect. [3.3.2.2. Emphatic Words and Phrases 3.3.2. Emphasis, Foreign Words, and Unusual Language]</a:documentation>
+         <ref name="tei_macro.paraContent"/>
+         <ref name="tei_att.global.attributes"/>
          <empty/>
       </element>
    </define>
