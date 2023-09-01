@@ -10075,29 +10075,39 @@
                         </ref> (8.)</note>
                     <p><note type="authorial" subtype="summary">32. <hi>How to know good Wax.</hi></note>
                         The properties of tokens of good Wax are (1) most yellow, sweet, fat, (2)
-                        fast or close, (3) light, (4) pure, and void of all other matter. <quote><note
-                            type="authorial" subtype="bibliographic">
-                            <bibl>Silv.de med.simpl.delectu.lib.1</bibl>
-                        </note> <foreign
-                            xml:lang="la">Cera
-                            sit
-                            flavissima, odorata, pinguis, coacta, levis, pura, &amp; alienâ omni
-                        materia carens.</foreign></quote></p>
-                        <!-- connect these spans with the main text -->
-                    <note type="authorial" subtype="gloss" place="inline">(1) That is most light yellow, fardest from red, and neerest to white: for as
-                        in gold the deepest, so in Wax and Hony (<ref target="#"><hi>v.n.</hi>13</ref>) the palest yellow
-                        is best: yea the pure Virgin-wax at the first is white. <ref target="#"><hi>v.c.6.n.14.</hi></ref>
-                        (2) not hollow as the froth is. (3.) For Wax, like Oile, is best at the top,
-                        as Hony in the bottom (<ref target="#"><hi>
-                            v.n.</hi>15</ref>) except the hollow froth, which is to be skimmed away. <ref target="#"><hi>
-                        v.n.30.</hi></ref> (4) and therefore the bottom, unto which the drosse doth
-                        ascend, is not good. </note>
+                        fast or close, (3) light, (4) pure, and void of all other matter. <quote>
+                            <note
+                                type="authorial" subtype="bibliographic">
+                                <bibl>Silv.de med.simpl.delectu.lib.1</bibl>
+                            </note>
+                            <foreign
+                                xml:lang="la">Cera
+                                sit
+                                flavissima, odorata, pinguis, coacta, levis, pura, &amp; alienâ omni
+                        materia carens.</foreign>
+                        </quote></p>
+                    <!-- connect these spans with the main text -->
+                    <note type="authorial" subtype="gloss" place="inline">(1) That is most light
+                        yellow, fardest from red, and neerest to white: for as in gold the deepest,
+                        so in Wax and Hony (<ref target="#"><hi>v.n.</hi>13</ref>) the palest yellow
+                        is best: yea the pure Virgin-wax at the first is white. <ref target="#">
+                            <hi>v.c.6.n.14.</hi>
+                        </ref> (2) not hollow as the
+                        froth is. (3.) For Wax, like Oile, is best at the top, as Hony in the bottom
+                        (<ref target="#"><hi>
+                                v.n.</hi>15</ref>) except the hollow froth, which is to be skimmed
+                        away. <ref target="#">
+                            <hi>
+                                v.n.30.</hi>
+                        </ref> (4) and therefore the
+                        bottom, unto which the drosse doth ascend, is not good. </note>
                 </div>
                 <div type="section" n="3">
-                    <head><hi>The third part of this Chapter sheweth the singular vertues of</hi>
-                        (1) Honie, (2) Methe, <hi>and</hi> (3) Wax <hi>for the use and comfort of
-                        man.</hi></head>
-                    <p><note>1 <hi>The properties and vertues of Hony.</hi></note> <hi
+                    <head type="section-title">The third part of this Chapter sheweth the singular
+                        vertues of <hi rend="opposite">(1) Honie</hi>, <hi rend="opposite">(2) Methe</hi>,
+                        and <hi rend="opposite">(3) Wax</hi> for the use and comfort of man.</head>
+                    <p><note type="authorial" subtype="summary">1 <hi>The properties and vertues of
+                        Hony.</hi></note> <hi
                             rend="drop-capital">H</hi><hi>
                             Onie</hi> is (1) hot and dry in the second degree: it is of (2) subtill
                         parts, and therfore doth pierce as Oile and (3) easily passe into the parts
@@ -10109,28 +10119,29 @@
                         therfore sharpneth the stomackes of them which, by reason thereof, have
                         little appetite, (11) it purgeth those things which hurt the cleerenesse of
                         the eyes, (12) it nourisheth verie much, (13) it breedeth good bloud, (14)
-                        it stirreth up and preserveth naturall heat, and prolongeth old age (<hi>reade
-                        the note</hi>) (15) it keepeth all things uncorrupt, which are put into it,
-                        and therefore (16) Physicians doe temper therewith such medicines as they
-                        meane to keepe </p>
-                    <p>
-                        <fw type="catch"> long:</fw>
-                    </p>
-                    <p>
-                        <pb />
-                    </p>
-                    <p>
+                        it stirreth up and preserveth naturall heat, and prolongeth old age (<ref
+                            target="#">
+                            <hi>reade
+                                the note</hi>
+                        </ref>) (15) it keepeth all
+                        things uncorrupt, which are put into it, and therefore (16) Physicians doe
+                        temper therewith such medicines as they meane to keepe <fw type="catch">
+                        long:</fw>
+                        <pb n="X4r" />
                         <fw type="header">
                             <hi>Of the fruit and profit of Bees.</hi>
                         </fw>
-                    </p>
-                    <p>long: (17) yea the bodies of the dead, being embalmed with Hony have beene
-                        thereby preserved from putrefaction. <note>2. <hi>Against both outward and
-                        inward griefes.</hi></note> (18) It is a soveraigne medicament both for
-                        outward and inward maladies; (<hi>reade
-                            the note.</hi>) (19) It helpeth the griefes of the jawes, (20) the
-                        kernels growing within the mouth, (21) and the squinancie or inflammation of
-                        the muscle of the inner gargil, for which purpose it is gargarized, <note>
+                        long: (17) yea the bodies of the dead, being embalmed with Hony have beene
+                        thereby preserved from putrefaction. <note type="authorial"
+                            subtype="summary">2. <hi>Against both outward and
+                                inward griefes.</hi></note> (18) It is a soveraigne medicament both
+                        for outward and inward maladies; (<ref target="#">
+                            <hi>reade
+                                the note.</hi>
+                        </ref>) (19) It helpeth the
+                        griefes of the jawes, (20) the kernels growing within the mouth, (21) and
+                        the squinancie or inflammation of the muscle of the inner gargil, for which
+                        purpose it is gargarized, <note type="authorial" subtype="summary">
                             <hi>Synanche. Angina</hi>
                         </note> and the mouth
                         washed therewith: (22) it is drunke against the biting of a Serpent (23) or
@@ -10142,54 +10153,54 @@
                         stomacke to be overcome, they first ease it by vomit: and then, to settle
                         his braine, and to stay the noisome fume from ascending to his head, they
                         give him Honie upon bread. In respect of which great vertues (28) the right
-                        composition of those great Antidotes <hi>Treacle,</hi> and <hi>Mithridate</hi>
-                        (although they consist, the one of more than fiftie, the other of more than
-                        sixtie Ingredients) requireth thrice so much Honie as of all the rest. All
-                        which premisses considered, no marvell though the wise King said, My sonne
-                        eat Hony, for it is good: <hi>
-                            Prov.</hi> 24.13. that the holy Land is so often and so much commended
-                        for flowing therewith: <hi>Exod.</hi>3,8.13,5,33,3. <hi>Lev.</hi>20, 24. <hi>
-                        Num.</hi>13,27. <hi>
-                            Deut.</hi>8,8.and that the Eternall <hi>Immanuel</hi> did use it for his
-                        food. <hi>
-                            Isa.</hi>7.15.<hi>Luk</hi>24.43. Yea Honie, if it be pure and fine, <hi>
-                        v</hi> <note>
-                            <hi>V.p.2.n.4.&amp;6.</hi>
-                        </note> is so good in
-                        it selfe, that it must needs be good, even for them whose queisie stomackes
-                        are against it. But indeed the vulgar hony may well be disliked, as being
-                        sluttishly handled, &amp; much corrupted with stopping, and Bees both young
-                        &amp; old,<hi>v.</hi> <note>
-                            <hi>V.p.2.n.10.</hi>
-                        </note> &amp; some with
-                        other mixtures also. </p>
-                    <p>(1) Galen de simpl.med.facult.lib.7.(2) tenvium partium. Simeon. Seth. (3)
-                        facile
-                        distribuitur. Matthias de Lobel. (4) detergendi vim. Galen &amp; Seth. (5)
-                        Lobel.
-                        (6)
-                        Wikerus &amp; Freitagius. (7) Seth &amp; Freitag: &amp; Plantius in
-                        Fernelium de
-                        syrupis. (8)
-                        Seth. (9.) Seth. &amp; Pictorius: (10) (11) Lobel. (12)(13) Freitagius. (14)
-                        calorem
-                        nativum suscitat &amp; tuctur, &amp; longam prorogat senectam.
-                        Plant.loco-supra
-                        citato. </p>
-                    <p>
-                        <fw type="catch"> Exempla</fw>
-                    </p>
-                    <p>
-                        <pb />
-                    </p>
-                    <p>
-                        <fw type="header">
+                        composition of those great Antidotes <term>Treacle,</term> and <term>
+                        Mithridate</term> (although they consist, the one of more than fiftie, the
+                        other of more than sixtie Ingredients) requireth thrice so much Honie as of
+                        all the rest. All which premisses considered, no marvell though the wise
+                        King said, My sonne eat Hony, for it is good: <bibl><hi>
+                                Prov.</hi> 24.13.</bibl> that the holy Land is so often and so much
+                        commended for flowing therewith: <bibl><hi>Exod.</hi>3,8.13,5,33,3.</bibl> <bibl><hi>
+                        Lev.</hi>20, 24.</bibl> <bibl><hi>
+                                Num.</hi>13,27.</bibl> <bibl><hi>
+                                Deut.</hi>8,8.</bibl>and that the Eternall <persName>Immanuel</persName>
+                        did use it for his food. <bibl><hi>
+                                Isa.</hi>7.15.</bibl><bibl><hi>Luk</hi>24.43.</bibl> Yea Honie, if
+                        it be pure and fine, <ref target="#ch10p3bibln1">
+                            <hi>
+                                v</hi>
+                        </ref> <note type="authorial"
+                            subtype="bibliographic" xml:id="ch10p3bibln1">
+                            <ref target="#">
+                                <hi>V.p.2.n.4.&amp;6.</hi>
+                            </ref>
+                        </note>
+                        is so good in it selfe, that it must needs be good, even for them whose
+                        queisie stomackes are against it. But indeed the vulgar hony may well be
+                        disliked, as being sluttishly handled, &amp; much corrupted with stopping,
+                        and Bees both young &amp; old,<ref target="#ch10p3bibln2">v.</ref> <note
+                            type="authorial" subtype="bibliographic" xml:id="ch10p3bibln2">
+                            <ref target="#">
+                                <hi>V.p.2.n.10.</hi>
+                            </ref>
+                        </note>
+                        &amp; some with other mixtures also. </p>
+                    <!-- connect these spans with the main text -->
+                    <note type="authorial" subtype="gloss">(1) Galen de simpl.med.facult.lib.7.(2)
+                        tenvium partium. Simeon. Seth. (3) facile distribuitur. Matthias de Lobel.
+                        (4) detergendi vim. Galen &amp; Seth. (5) Lobel. (6) Wikerus &amp;
+                        Freitagius. (7) Seth &amp; Freitag: &amp; Plantius in Fernelium de syrupis.
+                        (8) Seth. (9.) Seth. &amp; Pictorius: (10) (11) Lobel. (12)(13) Freitagius.
+                        (14) calorem nativum suscitat &amp; tuctur, &amp; longam prorogat senectam.
+                        Plant.loco-supra citato. <fw type="catch"> Exempla</fw>
+                        <pb n="X4v" />
+                        <fw
+                            type="header">
                             <hi>Of the fruit and profit of Bees.</hi>
                         </fw>
-                    </p>
-                    <p>Exampla citat <hi>Franciscus Valeriola</hi> Medicus locorum com.lib.3.cap.13. <hi>Antiochus
-                        Medicus, &amp; Telephus Grammaticus annosi senes Attico melle ex pane
-                            alicâve
+                        Exampla citat <persName>Franciscus Valeriola</persName> <bibl>Medicus locorum
+                        com.lib.3.cap.13.</bibl> <foreign xml:lang="la">Antiochus
+                            Medicus, &amp; Telephus Grammaticus annosi senes Attico melle ex pane
+                        alicâve
                             excepto
                             plurimum utebantur. Quos Galenus l.5 de Sanit.tuendà ceu exempla vitæ
                         senum,
@@ -10197,9 +10208,11 @@
                             esset optimâ victus ratione illæsa senecta, proponit. Melle itaque
                         senibus
                             plurimum
-                            utendum consulo, si modo suæ ipsorum valetudinis rationem habere velint.</hi>
-                        Et.l.3,c.19. <hi>Melli vim proferendæ vitæ, senectaque longævæ agendæ,
-                        authores
+                            utendum consulo, si modo suæ ipsorum valetudinis rationem habere velint.</foreign>
+                        <bibl>
+                        Et.l.3,c.19.</bibl> <foreign xml:lang="la">Melli vim proferendæ vitæ,
+                        senectaque longævæ agendæ,
+                            authores
                             affirmant: Democritus Philosophus, qui melle oblecta. tui assiduè, in
                         annum
                             centesimum nonumque; fati diem distilit, interrogatus, ut scribit
@@ -10223,15 +10236,17 @@
                             medeatur. Quæ cum tanta possit, vel Dioscoridis &amp; Galeni testimonio
                         haud
                             immerito
-                            producendæ ætati vitæque prorogandæ idoneum esse medicamentum asserimus.</hi>
-                        (15) Seth &amp; Plin. hist.l.7.c.3.(16.) Pictorius (17.) Claudius Cæsar
-                        scribit hippocentaurum in Thessalia natum eo dem die interijsse. Et nos
-                        principatu illius allatum illi ex Ægypto in melle vidimus.
-                        Pl.hist.l.7.c.3(18) <hi>Mel calidum
+                            producendæ ætati vitæque prorogandæ idoneum esse medicamentum asserimus.</foreign>
+                        (15) Seth &amp; <persName>Plin.</persName> <bibl>hist.l.7.c.3.</bibl>(16.) <persName>
+                        Pictorius</persName> (17.) <persName>Claudius Cæsar</persName> scribit
+                        hippocentaurum in Thessalia natum eo dem die interijsse. Et nos principatu
+                        illius allatum illi ex Ægypto in melle vidimus. <bibl>Pl.hist.l.7.c.3</bibl>
+                        (18) <foreign xml:lang="la">Mel calidum
                             siccumque ordine secundo aperit putredini obsistit, siccat, deterget,
                         expurgatque
-                            meatus &amp; ulcera.</hi> Fern.Method.lib.6,c.12. Item, <hi>Mel &amp;
-                        saccharum
+                            meatus &amp; ulcera.</foreign> <bibl>Fern.Method.lib.6,c.12.</bibl> Item, <foreign
+                            xml:lang="la">Mel &amp;
+                            saccharum
                             potionibus
                             admista vires naturales in morbis sopitas &amp; languentes exuscitant
                         &amp;
@@ -10241,16 +10256,17 @@
                             extenuando, viscosa extergendo, &amp; obstructa expediendo purgationes
                         quam
                             facillimas
-                            præstant.</hi> Plantius in Fern. de Syrupis. Item, <hi>Mel abstergendi
-                        vin
+                            præstant.</foreign> <bibl>Plantius in Fern. de Syrupis.</bibl> Item, <foreign
+                            xml:lang="la">Mel abstergendi
+                            vin
                             habet,
                             ora vasorum aperit, humores evocat, qua ratione in sordida ulcera
                         sinusque
                             commodè
                             infunditur, decoctum atque impositum abscendentem carnem glutinat,
                         medetur
-                            lichenibus, impetigini coctum cum liquido alumine &amp; illitum.</hi>
-                        Item <hi>aurium
+                            lichenibus, impetigini coctum cum liquido alumine &amp; illitum.</foreign>
+                        Item <foreign xml:lang="la">aurium
                             sonitui &amp; dolori cum fossili sale trito tepidum instillatur: lendes
                         &amp; fœda
                             capitis
@@ -10264,90 +10280,98 @@
                             morsus linctum aut potum proficit: crudum tamen alvum inflat, tussim
                         lacessit:
                             &amp; ea
-                            de re despumato utendum.</hi> Dioscorid. lib.2,
-                        cap.101.(19)(20)(21)(22)(23)(24)(25) Pictorius.Mellis natura talis est, ut
-                        putrescere corpora non sinat; Faucibus, tonsillis, anginæ, omnibusque oris
-                        desiderijs utilissimum, arescentique in febribus
-                        linguæ.Pl.hist.l.22.c.24.(26)Lobel.(27)Pict.(28)Fernel.Method.l.7. </p>
-                    <p><note>3. <hi>For whom Hony is the best.</hi></note> Hony is most fit for (1)
-                        old men, <hi>
-                            v.</hi> <note><hi>V.</hi>(14)<hi>in note</hi>1.</note> for women &amp;
-                        children, for such as are rheumaticke and flegmaticke, and generally for all
-                        that are of a cold temperature.(2) To young men, and those that are of a hot
-                        constitution it is not so good, because it is easily turned into choller:
-                        &amp; yet <hi>Lobel</hi> saith wee know that Honie taken fasting doth much
-                        good unto some </p>
-                    <p>
-                        <fw type="catch"> natures,</fw>
-                    </p>
-                    <p>
-                        <pb />
-                    </p>
-                    <p>
+                            de re despumato utendum.</foreign> <bibl>Dioscorid. lib.2,
+                            cap.101.</bibl>(19)(20)(21)(22)(23)(24)(25) <persName>Pictorius</persName>.Mellis
+                        natura talis est, ut putrescere corpora non sinat; Faucibus, tonsillis,
+                        anginæ, omnibusque oris desiderijs utilissimum, arescentique in febribus
+                        linguæ.<bibl>Pl.hist.l.22.c.24.</bibl>
+                        (26)Lobel.(27)Pict.(28)Fernel.Method.l.7. </note>
+                    <p><note type="authorial" subtype="summary">3. <hi>For whom Hony is the best.</hi></note>
+                        Hony is most fit for (1) old men, <ref target="#ch10p3bibln3">
+                            v.</ref> <note type="authorial" subtype="bibliographic"
+                            xml:id="ch10p3bibln3">
+                            <ref target="#"><hi>V.</hi>(14)<hi>in note</hi>1.</ref>
+                        </note>
+                        for women &amp; children, for such as are rheumaticke and flegmaticke, and
+                        generally for all that are of a cold temperature.(2) To young men, and those
+                        that are of a hot constitution it is not so good, because it is easily
+                        turned into choller: &amp; yet <persName>Lobel</persName> saith wee know
+                        that Honie taken fasting doth much good unto some <fw type="catch"> natures,</fw>
+                        <pb
+                            n="Y1r" />
                         <fw type="header">
                             <hi>Of the fruit and profit of Bees.</hi>
                         </fw>
-                    </p>
-                    <p>natures, which have hot livers: and in this point he preferreth our English
-                        Honie. <note> 4. <hi>English Hony.</hi></note> <hi>Minus</hi> (saith he) <hi>speciosum
-                        ac delicatum Anglum: sed, quibusdam præsertim saltibus &amp; paseuis, ubi
-                        lana commendatior, v. <note>
-                                <hi>V.p.2.n.11.</hi>
-                            </note> lectum,
-                        biliosa excrementa inferius extergendo pellit, &amp; aciei oculorum prodesse
-                        putatur.</hi> So that he seemeth to say, that our honie is hurtfull to none;
-                        because it purgeth that evill humour, which other Hony, in some bodies, is
-                        thought to breed. But the Proverb saith, <hi>Too much of one thing is good
-                        for nothing:</hi> and the Wis-man in his Proverbs, <hi>It is not good to eat
-                        much Honie.</hi> Prov.25.27.and in the 16, 6. <hi>Hast
-                            thou found Honie? eat so much as is sufficient for thee:</hi>&amp;c. <note>
-                        5. <hi>Too
+                        natures, which have hot livers: and in this point he preferreth our English
+                        Honie. <note type="authorial" subtype="summary"> 4. <hi>English Hony.</hi></note> <quote>
+                            <foreign xml:lang="la">Minus (saith he) speciosum ac delicatum Anglum:
+                        sed, quibusdam præsertim saltibus &amp; paseuis, ubi lana commendatior, <ref
+                                    target="#ch10p3bibln4">v.</ref> <note type="authorial"
+                                    subtype="bibliographic" xml:id="ch10p3bibln4">
+                                    <ref target="#">
+                                        <hi>V.p.2.n.11.</hi>
+                                    </ref>
+                                </note>
+                        lectum, biliosa excrementa inferius extergendo pellit, &amp; aciei oculorum
+                        prodesse putatur.</foreign>
+                        </quote> So that he
+                        seemeth to say, that our honie is hurtfull to none; because it purgeth that
+                        evill humour, which other Hony, in some bodies, is thought to breed. But the
+                        Proverb saith, <quote>Too much of one thing is good
+                            for nothing:</quote> and the Wis-man in his Proverbs, <quote>It is not
+                        good to
+                            eat
+                            much Honie.</quote> <bibl>Prov.25.27.</bibl>and in the 16, 6. <quote>Hast
+                        thou found Honie? eat so much as is sufficient for thee:</quote>&amp;c. <note
+                            type="authorial" subtype="summary"> 5. <hi>Too
                                 much Hony unholsome.</hi></note> For all Hony often and immoderately
                         taken (3) causeth obstruction, (4) contrarie to his naturall qualitie, and
                         so in time (5) breedeth the scab. </p>
-                    <p>(1)(2)Galen.l.4.simpl.med.dist.3.c.5.<hi>Item</hi>
-                        Seth.Pictorius,&amp;Freitag.(3)Wikerus &amp; Freitagius (4)<hi>vide</hi>
-                        (8)&amp;supra.(5)Lobel. </p>
-                    <p><note>6. <hi>The different operations of raw &amp; boiled Hony.</hi></note>
-                        Raw Hony doth (1) more loose the belly, (2) causeth the cough, and (3)
-                        filleth the entrailes with winde, specially if it be of the courser sort.
-                        Being boiled it is (4) more nourishing, (5) lighter of digestion, and (6)
-                        lesse laxative, also (7) lesse sharpe and abstersory: for which cause they
-                        use it (8) to knit together hollow and crooked ulcers, and likewise (9) to
-                        close other disjoined flesh. It is also good against the (10) pleurisie,
-                        against the (11) phthisis, and all other diseases of the lungs. </p>
-                    <p>(1)(2)(3) Freitag Pictor. &amp; Wikerus, (4) Freitag, &amp; Wiker (5) Wikerus
-                        (6)
-                        Pictorius
-                        (7) Gal.&amp; Seth.&amp; Fernelius Methodi.lib.6.c.12.Crudum cocto &amp;
-                        despumato
-                        detergentius
-                        quidem multo est &amp; mordacius: sed eo minus agglutinat.(8) ad sinuum
-                        glutinationes,
-                        Seth sinuosorum ulcerum, Galen.(9)(10)(11) Pictorius.</p>
-                    <p><note>7. <hi>Two waies to clarifie Hony.</hi></note> Honie is clarified by
-                        boiling: and that either by it selfe, or else with a fourth part of water,
-                        or other liquor. But alwaies in boiling skim it, that it may be pure. </p>
-                    <p>By it selfe you must boile it untill it will yeeld no more + skum, (which
-                        will be
-                        about halfe an houre) and that with a very soft fire, or in a + double
-                        vessell;
-                        lest, by over-heating, it get a bitter taste, and lest it suddainly run over
-                        and
-                        flame. </p>
-                    <p>
-                        <fw type="sig">The</fw>
-                    </p>
-                    <p>
-                        <pb />
-                    </p>
-                    <p>
-                        <fw type="header">
-                            <hi>Of the fruit and profit of Bees.</hi>
-                        </fw>
-                    </p>
-                    <p> </p>
-                    <p>+The right skum, which is drosse, is short and brittle: which when it is
+                    <note type="authorial" subtype="gloss" place="inline">(1)(2)<bibl>
+                        Galen.l.4.simpl.med.dist.3.c.5.</bibl><hi>Item</hi>
+                        <bibl>
+                        Seth.Pictorius,&amp;Freitag.</bibl>(3)<bibl>Wikerus &amp; Freitagius </bibl>
+                        (4)<ref target="#">vide
+                            (8)&amp;supra.</ref>(5)<bibl>Lobel.</bibl>
+                    </note>
+                    <p><note type="authorial" subtype="summary">6. <hi>The different operations of
+                        raw &amp; boiled Hony.</hi></note> Raw Hony doth (1) more loose the belly,
+                        (2) causeth the cough, and (3) filleth the entrailes with winde, specially
+                        if it be of the courser sort. Being boiled it is (4) more nourishing, (5)
+                        lighter of digestion, and (6) lesse laxative, also (7) lesse sharpe and
+                        abstersory: for which cause they use it (8) to knit together hollow and
+                        crooked ulcers, and likewise (9) to close other disjoined flesh. It is also
+                        good against the (10) pleurisie, against the (11) phthisis, and all other
+                        diseases of the lungs. </p>
+                    <note type="authorial" subtype="gloss" place="inline">(1)(2)(3) <bibl>Freitag
+                        Pictor. &amp; Wikerus,</bibl> (4) <bibl>Freitag, &amp; Wiker</bibl> (5) <bibl>
+                        Wikerus</bibl> (6) <bibl>Pictorius</bibl> (7) <bibl>Gal.&amp; Seth.&amp;
+                        Fernelius Methodi.lib.6.c.12.</bibl>
+                    <quote>
+                            <foreign xml:lang="la">Crudum cocto &amp;
+                                despumato
+                                detergentius
+                                quidem multo est &amp; mordacius: sed eo minus agglutinat.</foreign>
+                        </quote>(8)
+                        ad sinuum glutinationes, Seth sinuosorum ulcerum, Galen.(9)(10)(11) <bibl>
+                        Pictorius.</bibl>
+                    </note>
+                    <p><note type="authorial" subtype="summary">7. <hi>Two waies to clarifie Hony.</hi></note>
+                        Honie is clarified by boiling: and that either by it selfe, or else with a
+                        fourth part of water, or other liquor. But alwaies in boiling skim it, that
+                        it may be pure. </p>
+                    <p>By it selfe you must boile it untill it will yeeld no more <ref
+                            target="#ch10p3glon1">*</ref> skum, (which will be about halfe an houre)
+                        and that with a very soft fire, or in a <ref target="# ch10p3glon2">†</ref>
+                        double vessell; lest, by over-heating, it get a bitter taste, and lest it
+                        suddainly run over and flame.</p>
+                    <fw type="sig">The</fw>
+                    <pb n="Y1r" />
+                    <fw type="header">
+                        <hi>Of the fruit and profit of Bees.</hi>
+                    </fw>
+                    <note type="authorial" subtype="gloss" place="inline" xml:id="ch10p3glon1">*The
+                        right skum, which is drosse, is short and brittle: which when it is
                         cleane taken
                         away, the force of the fire will cause the very Hony to rise up like a skum:
                         but
@@ -10355,17 +10379,23 @@
                         all the
                         rest be, when it is cold, as being over-boiled: therefore be sure to take it
                         off in
-                        time. </p>
-                    <p>+i. a vessell set in a vessell of boiling water, called, <hi>Balneum Maria</hi>
-                        which is best. </p>
-                    <p><note>V.Fernel.l.4.c.15.</note> With water it is to be boiled an houre at the
-                        least, even untill the water be evaporated: <hi>v.</hi> which thing is
-                        knowne by the bubbles that rise from the bottom: then, to make it more pure,
-                        put into every pound of Hony the+ <note>+<hi>Lesse white may serve, if the
-                        Honie be good.</hi></note> white of one Egge, and afterward skim it againe
-                        in the boiling. The fire may be more fervent at the first; but toward the
-                        end it must be slacke: for it is then apt to be set on fire, as the meere
-                        Hony, and to become bitter with violent heat. </p>
+                        time. </note>
+                    <note type="authorial" subtype="gloss" place="inline" xml:id="ch10p3glon2">†i. a
+                        vessell set in a vessell of boiling water, called, <hi>Balneum Maria</hi>
+                        which is best. </note>
+                    <p><note type="authorial" subtype="bibliographic" xml:id="ch10p3bibln5">
+                            <bibl>V.Fernel.l.4.c.15.</bibl>
+                        </note> With
+                        water it is to be boiled an houre at the least, even untill the water be
+                        evaporated: <ref target="#ch10p3bibln5">v.</ref> which thing is knowne by
+                        the bubbles that rise from the bottom: then, to make it more pure, put into
+                        every pound of Hony the<ref target="#ch10p3glon3">*</ref> <note
+                            type="authorial" subtype="gloss" xml:id="ch10p3glon3">+<hi>Lesse white
+                        may serve, if the
+                                Honie be good.</hi></note> white of one Egge, and afterward skim it
+                        againe in the boiling. The fire may be more fervent at the first; but toward
+                        the end it must be slacke: for it is then apt to be set on fire, as the
+                        meere Hony, and to become bitter with violent heat. </p>
                     <p>The course Honie being boiled and clarified hath a pleasant taste, and is
                         comparable
                         for most uses to the purest bottom-honie being raw. </p>
@@ -10380,101 +10410,94 @@
                         it is cold: but over-much boiling consumeth the spiritous parts of the
                         Honie, and
                         turneth the sweet taste into bitter. </p>
-                    <p><note>8. <hi>The quintessence of Honie.</hi></note> And such is Honie in his
-                        owne kind, both raw and boiled. It is also altered by distillation into a
-                        water, which <hi>Raimundus
-                            Lullius</hi> that excellent Chymist calleth the Quintessence of Honie.
-                        This Quintessence dissolveth Gold, and maketh it potable: likewise any sort
-                        of pretious stone that is put therein. It is of such vertue, that, if any be
-                        dying, and drinke two or three drammes therof, presently he will revive. If
-                        you wash any wound there-with, or otherfore; it will heale quickly. It is
-                        also good against the Cough, Catarre, and paines of the Melt, and against
-                        many other diseases. Being given for the space of six and fortie daies
-                        together to one that hath the Palsie, it helpeth him. Which thing</p>
-                    <p>
-                        <fw type="catch">
+                    <p><note type="authorial" subtype="summary">8. <hi>The quintessence of Honie.</hi></note>
+                        And such is Honie in his owne kind, both raw and boiled. It is also altered
+                        by distillation into a water, which <persName>Raimundus
+                            Lullius</persName> that excellent Chymist calleth the Quintessence of
+                        Honie. This Quintessence dissolveth Gold, and maketh it potable: likewise
+                        any sort of pretious stone that is put therein. It is of such vertue, that,
+                        if any be dying, and drinke two or three drammes therof, presently he will
+                        revive. If you wash any wound there-with, or otherfore; it will heale
+                        quickly. It is also good against the Cough, Catarre, and paines of the Melt,
+                        and against many other diseases. Being given for the space of six and fortie
+                        daies together to one that hath the Palsie, it helpeth him. Which thing <fw
+                            type="catch">
                             <hi>John</hi>
                         </fw>
-                    </p>
-                    <p>
-                        <pb />
-                    </p>
-                    <p>
-                        <fw type="header">
+                        <pb n="Y2r" />
+                        <fw
+                            type="header">
                             <hi>Of the fruit and profit of Bees.</hi>
                         </fw>
-                    </p>
-                    <p><hi>John Hester</hi> a Practical Chymist, in his key of Philosophie,
-                        professeth himselfe to have proved. It helpeth also the falling sicknesse,
-                        and preserveth the body from putrefaction. Of so marvellous efficacie is
-                        this water. </p>
-                    <p><note>10. <hi>The making of it.</hi></note> The making of is is after this
-                        manner. Take two pound of perfect pure Honie, and put it into a great
-                        Glasse, that foure parts of five may remaine emptie: +Lute it well with a
-                        Head and Receiver, and give it + fire untill there appeare certaine white
-                        Fumes: which, by laying wet clothes on the Receiver and Head, and changing
-                        them when they are warme, will turne into a water of a red colour like
-                        blood. When it is all distilled, keepe the Receiver close shut, and let it
-                        stand till it be cleere, and of the colour of a Rubie. Then distill it in <hi>Balneo
-                        Mariæ</hi> seven times; and so it will lose this reddish colour, and become
-                        yellow as Gold, having a great smell and exceeding pleasant. </p>
-                    <p>+The Lute may be made of Clay, Flocks, and Salt-water, tempered together; or
+                    <persName>John
+                        Hester</persName> a Practical Chymist, in his key of Philosophie, professeth
+                        himselfe to have proved. It helpeth also the falling sicknesse, and
+                        preserveth the body from putrefaction. Of so marvellous efficacie is this
+                        water. </p>
+                    <p><note type="authorial" subtype="summary">10. <hi>The making of it.</hi></note>
+                        The making of is is after this manner. Take two pound of perfect pure Honie,
+                        and put it into a great Glasse, that foure parts of five may remaine emptie: <ref
+                            target="#ch10p3glon4">*</ref>Lute it well with a Head and Receiver, and
+                        give it <ref target="#ch10p3glon5">†</ref> fire untill there appeare
+                        certaine white Fumes: which, by laying wet clothes on the Receiver and Head,
+                        and changing them when they are warme, will turne into a water of a red
+                        colour like blood. When it is all distilled, keepe the Receiver close shut,
+                        and let it stand till it be cleere, and of the colour of a Rubie. Then
+                        distill it in <term>Balneo
+                            Mariæ</term> seven times; and so it will lose this reddish colour, and
+                        become yellow as Gold, having a great smell and exceeding pleasant. </p>
+                    <note type="authorial" subtype="gloss" place="inline" xml:id="ch10p3glon4">+The
+                        Lute may be made of Clay, Flocks, and Salt-water, tempered together; or
                         of Meale
-                        and whites of Egges.</p>
-                    <p>+The Lute being first dried in the Sunne or by the fire.</p>
-                    <p><note>11. <hi>The vertue of Honie in Confections.</hi></note> Now as Honie is
-                        good by it selfe, either altered or in his owne kinde; so is it also being
-                        mixt with many other Simples: which here to declare would seeme but tedious
-                        and impertinent. Notwithstanding it shall not be amisse, in two or three
-                        instances, to give you a taste of such Confections; and first of those that
-                        are inwardly, then of those that are outwardly received. </p>
+                        and whites of Egges.</note>
+                    <note type="authorial" subtype="gloss" place="inline" xml:id="ch10p3glon5">†The
+                        Lute being first dried in the Sunne or by the fire.</note>
+                    <p><note type="authorial" subtype="summary">11. <hi>The vertue of Honie in
+                        Confections.</hi></note> Now as Honie is good by it selfe, either altered or
+                        in his owne kinde; so is it also being mixt with many other Simples: which
+                        here to declare would seeme but tedious and impertinent. Notwithstanding it
+                        shall not be amisse, in two or three instances, to give you a taste of such
+                        Confections; and first of those that are inwardly, then of those that are
+                        outwardly received. </p>
                     <p>Of the first sort are Marmalade, and Marchpane, preserved Fruits, as Plums,
                         and
                         Cherries, &amp;c. Conserves of Roses, Violets, &amp;c. with Syrups of the
                         like
                         matter. </p>
-                    <p><note>12. <hi>Marmalade made of Honie.</hi></note> Marmalade is thus made.
-                        First boile your Quinces in their skins til they be soft: then, having pared
-                        and strained them, mix there-with the like quantitie of clarified Honie: and
-                        boile this together till it be so thicke, that in stirring (for you must
-                        continually stirre it for feare of burning) you may see the bottom; or,
-                        being cooled on a Trencher, it be thicke enoug to slice: then take it up and
-                        box it speedily. You may also adde a quantitie of Almonds, and Nut-kernels:
-                        also Cinamom, Ginger, Cloves and Mace, of each a like quan-</p>
-                    <p>
-                        <fw type="catch"> titie,</fw>
-                    </p>
-                    <p>
-                        <pb />
-                    </p>
-                    <p>
+                    <p><note type="authorial" subtype="summary">12. <hi>Marmalade made of Honie.</hi></note>
+                        Marmalade is thus made. First boile your Quinces in their skins til they be
+                        soft: then, having pared and strained them, mix there-with the like
+                        quantitie of clarified Honie: and boile this together till it be so thicke,
+                        that in stirring (for you must continually stirre it for feare of burning)
+                        you may see the bottom; or, being cooled on a Trencher, it be thicke enoug
+                        to slice: then take it up and box it speedily. You may also adde a quantitie
+                        of Almonds, and Nut-kernels: also Cinamom, Ginger, Cloves and Mace, of each
+                        a like quan- <fw type="catch"> titie,</fw>
+                        <pb n="Y2v" />
                         <fw type="header">
                             <hi>Of the fruit and profit of Bees.</hi>
                         </fw>
-                    </p>
-                    <p>titie, pounded small and put into the Honie with the Quinces, and in boiling
-                        to be
-                        stirred together. This is very good to comfort and strengthen the stomack.
-                        For want
-                        of Quinces you may take Wardens, Peares, or Apples, and specially the
-                        Peare-maine,
-                        Giliflower, Pipin, and Roiall.</p>
-                    <p><note>13. <hi>Marchpane.</hi></note> Marchpane may be made after this manner.
-                        Boile and clarifie by it selfe, so much Honie as you think meet: when it is
-                        cold, take to every pound of Honie the white of an Egge, and beat them
-                        together in a Bason, till they be incorporat together and wax white, and
-                        when you have boiled it againe two or three walmes upon a fire of coles,
-                        continually stirring it, then put to it such quantitie of+ blanched Almonds
-                        or Nut-kernels stamped, as shall make it of a just consistence: and after a
+                        titie, pounded small and put into the Honie with the Quinces, and in boiling
+                        to be stirred together. This is very good to comfort and strengthen the
+                        stomack. For want of Quinces you may take Wardens, Peares, or Apples, and
+                        specially the Peare-maine, Giliflower, Pipin, and Roiall.</p>
+                    <p><note type="authorial" subtype="summary">13. <hi>Marchpane.</hi></note>
+                        Marchpane may be made after this manner. Boile and clarifie by it selfe, so
+                        much Honie as you think meet: when it is cold, take to every pound of Honie
+                        the white of an Egge, and beat them together in a Bason, till they be
+                        incorporat together and wax white, and when you have boiled it againe two or
+                        three walmes upon a fire of coles, continually stirring it, then put to it
+                        such quantitie of<ref target="#ch10p3glon6">*</ref> blanched Almonds or
+                        Nut-kernels stamped, as shall make it of a just consistence: and after a
                         warme or two more, when it is well mixt, powre it out upon a Table, and make
                         up your Marchpane. Afterward you may ice it with Rose-water and Sugar. This
                         is good for the Consumption.</p>
-                    <p>+Steepe them a night in cold water, and the peeles will come off.</p>
+                    <note type="authorial" subtype="gloss" place="inline" xml:id="ch10p3glon6">*Steepe
+                        them a night in cold water, and the peeles will come off.
+                    </note>
                     <p>
-                        <note>14. <hi>Preserves.</hi></note>
-                    </p>
-                    <p>
-                        <hi>Preserve Fruits after this manner.</hi>
+                        <note type="authorial" subtype="summary">14. <hi>Preserves.</hi></note>
+                        <emph>Preserve Fruits after this manner.</emph>
                     </p>
                     <p>The Damascens, or other Fruit, being gathered fresh from the tree, faire, and
                         in
@@ -10501,140 +10524,173 @@
                         them, to put them in as soone as the liquor is first skimmed: and then to
                         let them
                         boile till they be as tender as Quodlings. </p>
-                    <p>
-                        <fw type="catch"> Conserves</fw>
-                    </p>
-                    <p>
-                        <pb />
-                    </p>
-                    <p> </p>
-                    <p>
-                        <fw type="header">
-                            <hi>Of the fruit and profit of Bees.</hi>
-                        </fw>
-                    </p>
-                    <p><note>15. <hi>Conserves.</hi></note> Conserves of Roses is thus to be made.
-                        Take of the juice of fresh Red Roses one ounce, of fine Honie+ <note>
+                    <fw type="catch"> Conserves</fw>
+                    <pb n="Y3r" />
+                    <fw type="header">
+                        <hi>Of the fruit and profit of Bees.</hi>
+                    </fw>
+                    <p><note type="authorial" subtype="summary">15. <hi>Conserves.</hi></note>
+                        Conserves of Roses is thus to be made. Take of the juice of fresh Red Roses
+                        one ounce, of fine Honie<ref target="#ch10p3glon7">*</ref> <note
+                            type="authorial" subtype="summary">
                             <hi>Melrosatum</hi>
-                            <hi>Cum uncij aque tribus mediocriter despumetur. v.n.7.</hi>
                         </note>
-                        clarified tenne ounces, boile this together: when it beginneth to boile,
-                        adde of the leaves of fresh Red Roses clipt with Scissors in little pieces
-                        foure ounces, boile them to the consumption of the juice, and presently put
-                        up the Conserves into some earthen vessell: Keepe it long therein: for in
-                        time it waxeth better and better. <hi>Sylv.l.3
-                            de med.simp.mist.</hi>
+                            <note type="authorial"
+                            subtype="gloss" xml:id="ch10p3glon7">
+                            <foreign xml:lang="la">Cum uncij
+                                aque tribus mediocriter despumetur.</foreign>
+                            <ref target="#"> v.n.7.</ref>
+                        </note> clarified
+                        tenne ounces, boile this together: when it beginneth to boile, adde of the
+                        leaves of fresh Red Roses clipt with Scissors in little pieces foure ounces,
+                        boile them to the consumption of the juice, and presently put up the
+                        Conserves into some earthen vessell: Keepe it long therein: for in time it
+                        waxeth better and better. <bibl>Sylv.l.3
+                            de med.simp.mist.</bibl>
                     </p>
                     <p>
-                        <note>Melviolatun.</note>
-                    </p>
-                    <p><note>16. <hi>Syrups. Syrup of Roses.</hi></note> After the same manner is
-                        made Conserves of Violets. Syrup of Roses make thus. Steep fresh Roses in
-                        hot water over the Embers, (the vessel being covered) untill the Roses wax
-                        pale: then straine out the Roses, and put fresh in their places, until they
-                        are also pale: this doe ten times, or untill the water be red. And this
-                        being purged with Whites of Egges, (to every pinte of liquor one) boile it
-                        gently with like quantitie of fine Honie, untill it be of convenient
-                        thicknesse. If you prepare it for present uses, the lesse boiling will
-                        serve: if you meane to keepe it, it requireth more, for which purpose the
-                        sunning of it is good: This purgeth a little, specially being new. <hi>
-                        Sylv.Med.S.Mist.l.3.</hi>
+                        <note type="authorial" subtype="summary">Melviolatun.</note>
+                    <note
+                            type="authorial" subtype="summary">16. <hi>Syrups. Syrup of Roses.</hi></note>
+                        After the same manner is made Conserves of Violets. Syrup of Roses make
+                        thus. Steep fresh Roses in hot water over the Embers, (the vessel being
+                        covered) untill the Roses wax pale: then straine out the Roses, and put
+                        fresh in their places, until they are also pale: this doe ten times, or
+                        untill the water be red. And this being purged with Whites of Egges, (to
+                        every pinte of liquor one) boile it gently with like quantitie of fine
+                        Honie, untill it be of convenient thicknesse. If you prepare it for present
+                        uses, the lesse boiling will serve: if you meane to keepe it, it requireth
+                        more, for which purpose the sunning of it is good: This purgeth a little,
+                        specially being new. <bibl>
+                            Sylv.Med.S.Mist.l.3.</bibl>
                     </p>
                     <p>Or thus. Steep one pound of Red Rose leaves in foure pound of water foure and
                         twentie houres. When the water is strained, put unto it two pound of fine
                         Honie, and boile it to the thicknesse of a Syrup, taking of the skumme as it
                         riseth. It tempereth the hot affections of the braine, it quencheth thirst,
-                        it strengthneth the stomacke, it procureth sleep, and stayeth thin rheumes <hi>
-                        Fern.Meth.lib.7.</hi>
+                        it strengthneth the stomacke, it procureth sleep, and stayeth thin rheumes <bibl>
+                        Fern.Meth.lib.7.</bibl>
                     </p>
-                    <p><hi>Syrup of Violets.</hi> The Syrup of Violets is made, after the same
-                        manner, of fragrant Violets, and steeped untill the liquor be blew. Being
-                        well boiled it may be kept a yeare without vinewing or corruption. It
-                        tempereth and purgeth hot and sharp humours; and therefore is good in a
-                        Pleurisie: it expelleth Melancholie and the effects thereof, as head-ach,
-                        waking, dreaming, and heavinesse of heart: it is fit to be used before, and
-                        after purging. <hi>Plantius in Fernel. meth.l.7</hi></p>
+                    <p><note type="authorial" subtype="summary">
+                            <hi>Syrup of Violets.</hi>
+                        </note> The Syrup of
+                        Violets is made, after the same manner, of fragrant Violets, and steeped
+                        untill the liquor be blew. Being well boiled it may be kept a yeare without
+                        vinewing or corruption. It tempereth and purgeth hot and sharp humours; and
+                        therefore is good in a Pleurisie: it expelleth Melancholie and the effects
+                        thereof, as head-ach, waking, dreaming, and heavinesse of heart: it is fit
+                        to be used before, and after purging. <bibl>Plantius in Fernel. meth.l.7</bibl></p>
                     <p>If any man like better to make these Confections with Sugar, let them take
-                        the like
-                        quantity of Honie, for Sugar </p>
-                    <p>
-                        <fw type="catch"> also</fw>
-                    </p>
-                    <p>
-                        <pb />
-                    </p>
-                    <p>
-                        <fw type="header">
+                        the like quantity of Honie, for Sugar <fw type="catch"> also</fw>
+                        <pb n="Y3v" />
+                        <fw
+                            type="header">
                             <hi>Of the fruit and profit of Bees.</hi>
                         </fw>
+                        also hath with his sweetnesse a power to <ref target="#ch10p3glon8">*</ref>
+                        preserve, as being a <ref target="#ch10p3glon9">†</ref> kinde of Honie. </p>
+                    <note type="authorial" subtype="gloss" place="inline" xml:id="ch10p3glon8">*Condiuntur
+                        fructus aut melle, aut Saccharo. <bibl>Fernel.Meth.l.4.c.17 &amp;
+                        Sylv.simpl.med.mist.l.3.</bibl>
+                    </note>
+                    <note type="authorial" subtype="gloss" place="inline" xml:id="ch10p3glon9">† <quote>
+                            <foreign xml:lang="la">Saccharum quod ex India &amp; fælici Arabia
+                        convehitur, concrescit in
+                                calamis: estque mellis species, nostrate certè minus dulce, sed
+                        similes ei
+                                vires obtinens, quod ad abstergendum, desiccandum, &amp; digerendum
+                        pertinet.</foreign>
+                            <bibl>Galen.de
+                                simpl.med.facult.lib.7.</bibl>
+                        </quote> Item, <quote>
+                            <foreign xml:lang="la"><hi>Est &amp; quoddam mellis concreti
+                                    genus quod
+                                    Saccharum nominant: quodque in India &amp; fœlici Arabia in
+                        arundi nibus
+                                    reperitur.</hi> Saccharum est mel in arundinibus collectum.</foreign>
+                            <bibl><hi>Plin.l.</hi> 42.<hi>c.</hi>8.</bibl>
+                        </quote> <quote>
+                            <foreign xml:lang="la">Saccharum mellis species cum sit, siccat quoque
+                        &amp;
+                                abstergit.</foreign>
+                            <bibl><hi>
+                                    Fern.Meth.l.6.c.</hi> 12.</bibl>
+                        </quote></note>
+                    <p><note type="authorial" subtype="summary">17. <hi>Honie to be preferred before
+                        Sugar.</hi></note> But in respect of the marvellous efficacie, which fine <ref
+                            target="#ch10p3bibln6">v.</ref> <note type="authorial"
+                            subtype="bibliographic" xml:id="ch10p3bibln6">
+                            <ref target="#"><hi>V.p.</hi>2<hi>
+                                    n.</hi>4</ref>
+                        </note> <note
+                            type="authorial" subtype="bibliographic">
+                            <ref target="#"><hi>
+                                    V.n.</hi>1.&amp;2.</ref>
+                        </note> that
+                        grosse and earthy stuffe is no whit comparable to this Celestiall <term>
+                        Nectar.</term> Although some queint &amp; Ladilike palats (whom nothing but
+                        that which is farre saught and deare bought can please) unhappily neglect
+                        it. In preserving Fruits it hath more power through the viscositie thereof.
+                        Also Conserves and Syrups being made with Honie<ref target="#ch10p3glon10">*</ref>
+                        continue longer, and doe more kindly worke their effects. So that wee may
+                        conclude with <quote>
+                            <bibl><hi>Ecclesiasticus, cap.</hi> 11.3.</bibl>
+                            <hi>The
+                                Bee is little among such as flye: but hir Fruit is the chiefe of
+                        sweet
+                                things.</hi>
+                        </quote>
                     </p>
-                    <p>also hath with his sweetnesse a power to + preserve, as being a + kinde of
-                        Honie. </p>
-                    <p>+Condiuntur fructus aut melle, aut Saccharo. <hi>Fernel.Meth.l.4.c.17 &amp;
-                        Sylv.simpl.med.mist.l.3.</hi></p>
-                    <p>+ Saccharum quod ex India &amp; fælici Arabia convehitur, concrescit in
-                        calamis: estque mellis species, nostrate certè minus dulce, sed similes ei
-                        vires obtinens, quod ad abstergendum, desiccandum, &amp; digerendum
-                        pertinet. <hi>Galen.de
-                            simpl.med.facult.lib.7.</hi> Item, <hi>Est &amp; quoddam mellis concreti
-                        genus quod
-                            Saccharum nominant: quodque in India &amp; fœlici Arabia in arundi nibus
-                        reperitur.</hi> Saccharum est mel in arundinibus collectum. <hi>Plin.l.</hi>
-                        42.<hi>c.</hi>8. Saccharum mellis species cum sit, siccat quoque &amp;
-                        abstergit. <hi>
-                            Fern.Meth.l.6.c.</hi> 12.</p>
-                    <p><note>17. <hi>Honie to be preferred before Sugar.</hi></note> But in respect
-                        of the marvellous efficacie, which fine <hi>v.</hi> <note><hi>V.p.</hi>2<hi>
-                        n.</hi>4</note> <note><hi>
-                                V.n.</hi>1.&amp;2.</note> that grosse and earthy stuffe is no whit
-                        comparable to this Celestiall <hi>Nectar.</hi> Although some queint &amp;
-                        Ladilike palats (whom nothing but that which is farre saught and deare
-                        bought can please) unhappily neglect it. In preserving Fruits it hath more
-                        power through the viscositie thereof. Also Conserves and Syrups being made
-                        with Honie+ continue longer, and doe more kindly worke their effects. So
-                        that wee may conclude with <hi>Ecclesiasticus, cap.</hi> 11.3. <hi>The
-                            Bee is little among such as flye: but hir Fruit is the chiefe of sweet
-                        things.</hi>
-                    </p>
-                    <p>+Ex melle confectus syrupus diutius asservatur; is quoque magis incidit, ac
-                        detergit. Ex Saccharo suavior, sed non aeque efficax. <hi>Fern.Meth.l.</hi>
-                        4.c.12.</p>
-                    <p><note>18. <hi>Honie good in outward medicines.</hi></note> Honie is used in
-                        outward medicines for divers purposes: +not onely to conteine the other
+                    <note type="authorial" subtype="gloss" place="inline" xml:id="ch10p3glon10">*<quote>
+                            <foreign xml:lang="la">Ex melle confectus syrupus diutius asservatur; is
+                        quoque magis incidit, ac
+                                detergit. Ex Saccharo suavior, sed non aeque efficax.</foreign>
+                            <bibl><hi>Fern.Meth.l.</hi> 4.c.12.</bibl>
+                        </quote></note>
+                    <p><note type="authorial" subtype="summary">18. <hi>Honie good in outward
+                        medicines.</hi></note> Honie is used in outward medicines for divers
+                        purposes: <ref target="#ch10p3glon11">*</ref>not onely to conteine the other
                         ingredients in forme of a Plaister; but also to open, to cleanse, to dry, to
-                        digest, and to resist putrefaction. </p>
-                    <p><note>19. <hi>A salve for an old sore.</hi></note> And therefore it hath the
-                        predominance in that excellent Salve called +<hi>Unguentum Ægyptiacum:</hi>
-                        which serveth to cleanse and mundifie old sores, and to take away both dead
-                        and proud flesh. The receipt whereof is this. Of Verdegrece five ounces, of
-                        strong Vineger seven ounces, and of Honie foureteene. boile first the Honie
-                        and Vineger, and stirre them together: after a little while put in the
-                        Verdegrece, being pounded to powder: and then, stirring all </p>
-                    <p>
-                        <fw type="catch"> together</fw>
-                    </p>
-                    <p>
-                        <pb />
-                    </p>
-                    <p>
-                        <fw type="header">
+                        digest, and to resist putrefaction. <note type="authorial" subtype="summary">
+                        19. <hi>A salve for an old sore.</hi></note> And therefore it hath the
+                        predominance in that excellent Salve called <ref target="#ch10p3glon12">†</ref><term>Unguentum
+                        Ægyptiacum:</term> which serveth to cleanse and mundifie old sores, and to
+                        take away both dead and proud flesh. The receipt whereof is this. Of
+                        Verdegrece five ounces, of strong Vineger seven ounces, and of Honie
+                        foureteene. boile first the Honie and Vineger, and stirre them together:
+                        after a little while put in the Verdegrece, being pounded to powder: and
+                        then, stirring all <fw type="catch"> together</fw>
+                        <pb n="Y4r" />
+                        <fw
+                            type="header">
                             <hi>Of the fruit and profit of Bees.</hi>
                         </fw>
-                    </p>
-                    <p>together, let them boile until the Ointment have his just thicknesse and
-                        Purple
-                        colour. </p>
-                    <p>+Mel panaciæ &amp; alijs quibusdam emplastris miscetur, ut corpus præbeat
-                        emplasticum, &amp; præterea siccet, tergeat, digerat, à putredine vindicet. <hi>
-                        Sylv.</hi> <hi>de
-                            med.simpl.mist.l.3.</hi> Mel calidum siccum que ordine secundo aperit,
+                        together, let them boile until the Ointment have his just thicknesse and
+                        Purple colour. </p>
+                    <note type="authorial" subtype="gloss" place="inline" xml:id="ch10p3glon11">*<quote>
+                            <foreign xml:lang="la">Mel panaciæ &amp; alijs quibusdam emplastris
+                        miscetur, ut corpus præbeat
+                                emplasticum, &amp; præterea siccet, tergeat, digerat, à putredine
+                        vindicet. </foreign>
+                            <bibl>
+                                <hi>
+                                    Sylv.</hi>
+                                <hi>de
+                                    med.simpl.mist.l.3.</hi>
+                            </bibl>
+                        </quote><quote>
+                            <foreign xml:lang="la">Mel calidum siccum que ordine secundo aperit,
                         putredini, obsistit, siccat, deterget, expurgatque meatus &amp; ulcera; nec
-                        ut sal, corporum substantiam coarctat. <hi>Fern.Meth.l.6.c.12.</hi></p>
-                    <p>+<hi>Sylv.de.med.simp.mist.l.3.sect.10.&amp;Fern.Meth.l.7.</hi></p>
+                        ut sal, corporum substantiam coarctat.</foreign>
+                            <bibl>
+                                <hi>Fern.Meth.l.6.c.12.</hi>
+                            </bibl>
+                        </quote></note>
+                    <note type="authorial" subtype="gloss" place="inline" xml:id="ch10p3glon12">†<bibl>
+                            <hi>Sylv.de.med.simp.mist.l.3.sect.10.&amp;Fern.Meth.l.7.</hi>
+                        </bibl></note>
                     <p>
-                        <note>20. <hi>Another.</hi></note>
-                    </p>
-                    <p>
+                        <note type="authorial" subtype="summary">20. <hi>Another.</hi></note>
                         <hi>Another of like vertue, but not so much corrosive.</hi>
                     </p>
                     <p>Boile a quart of good Ale in a Skillet to halfe a pinte: skimming off the
@@ -10644,83 +10700,93 @@
                         it boile to the halfe, or till it be so clammy that being taken up upon a
                         stickes
                         end it will not drop, but string downe like clarified Honie. </p>
-                    <p><note>21. <hi>The properties and vertues of</hi> Mede <hi>and</hi> Methæglen</note>
-                        What are the vertues and properties of <hi>Meth</hi> or <hi>Hydromel</hi>
+                    <lb />
+                    <p><note type="authorial" subtype="summary">21. <hi>The properties and vertues
+                                of</hi> Mede <hi>and</hi> Methæglen</note> <hi rend="drop-capital">W</hi>hat
+                        are the vertues and properties of <term>Meth</term> or <term>Hydromel</term>
                         may partly be knowne by that which hath beene said of Honie. For seeing
                         Honie is the chiefe matter whereof it is made; it must needs, together with
                         the substance of Honie, participate the naturall qualities thereof. The
                         which, by the purifying in boyling, together with the accesse of sundry
-                        holsome ingredients, <hi>v.</hi> <note>
-                            <hi>V.p.2.n.21.22&amp;24.</hi>
-                        </note> are rather
-                        confirmed and increased, than any way extenuated or diminished. Therefore
-                        saith Lobel, <hi>Mulsum,
-                            ubi aquæ plurimum mellis non multum, diuturnâ intestinâque mellis
+                        holsome ingredients, <ref target="#ch10p3bibln7">v.</ref> <note
+                            type="authorial" subtype="bibliographic" xml:id="ch10p3bibln7">
+                            <ref target="#">
+                                <hi>V.p.2.n.21.22&amp;24.</hi>
+                            </ref>
+                        </note>
+                        are rather confirmed and increased, than any way extenuated or diminished.
+                        Therefore saith <persName>Lobel</persName>, <quote>
+                            <foreign xml:lang="la">Mulsum,
+                                ubi aquæ plurimum mellis non multum, diuturnâ intestinâque mellis
                         ebullitione in
-                            vinum longè utilissimum abit.</hi> And Pictorius, <hi>Hydromel longâ
-                        vetustate
-                            transit in vinum stomacho convenientissimum.</hi> Meth, when it is old,
-                        is a Wine most agreeable to the stomack: it recovereth (1) the appetite
-                        being lost, it (2) openeth the passage of the Spirit or breath, it (3)
-                        softneth the belly, it (4) is good for them that have the cough. (5) If a
-                        man take it, not as his ordinarie drinke, but, as Physick, now and then; he
-                        shall receive much benefit by it against Quartan Agues, against Cacexies,
-                        and against the diseases of the braine, as the <hi>
-                            Epilepsie,</hi> or the falling Evill: for which Wine is pernicious: it
-                        (6) cureth the Yellow Jaundice: it (7) is also good against Henne-bane with
-                        Milke, and against the</p>
-                    <p>
-                        <fw type="catch"> Winter-</fw>
-                    </p>
-                    <p>
-                        <pb />
-                    </p>
-                    <p>
-                        <fw type="header">
+                                vinum longè utilissimum abit.</foreign>
+                        </quote>
+                        And <persName>Pictorius</persName>, <quote>
+                            <foreign xml:lang="la">Hydromel longâ
+                                vetustate
+                                transit in vinum stomacho convenientissimum.</foreign>
+                        </quote>
+                        Meth, when it is old, is a Wine most agreeable to the stomack: it recovereth
+                        (1) the appetite being lost, it (2) openeth the passage of the Spirit or
+                        breath, it (3) softneth the belly, it (4) is good for them that have the
+                        cough. (5) If a man take it, not as his ordinarie drinke, but, as Physick,
+                        now and then; he shall receive much benefit by it against Quartan Agues,
+                        against Cacexies, and against the diseases of the braine, as the <term>
+                        Epilepsie,</term> or the falling Evill: for which Wine is pernicious: it (6)
+                        cureth the Yellow Jaundice: it (7) is also good against Henne-bane with
+                        Milke, and against the <fw type="catch"> Winter-</fw>
+                        <pb n="Y4v" />
+                        <fw
+                            type="header">
                             <hi>Of the fruit and profit of Bees.</hi>
                         </fw>
+                        Winter-cherrie, it (8) nourisheth the bodie. (9) So that many have attained
+                        to long old age, onely by the use thereof. And therefore no marvaile that <persName>Pollio
+                        Romulus</persName> who was an hundred yeares old, imputed the greatest cause
+                        of his long continued health to this Soveraigne drinke. (10) For being asked
+                        of <persName>
+                            Augustus</persName> the Emperour, by what meanes especially he had so
+                        long preserved that vigor both of minde and body, his answer was <quote>
+                            <foreign xml:lang="la">Intus mulso,
+                                foris oleo.</foreign>
+                        </quote>
                     </p>
-                    <p>Winter-cherrie, it (8) nourisheth the bodie. (9) So that many have attained
-                        to long old age, onely by the use thereof. And therefore no marvaile that <hi>Pollio
-                        Romulus</hi> who was an hundred yeares old, imputed the greatest cause of
-                        his long continued health to this Soveraigne drinke. (10) For being asked of <hi>
-                        Augustus</hi> the Emperour, by what meanes especially he had so long
-                        preserved that vigor both of minde and body, his answer was <hi>Intus mulso,
-                        foris oleo.</hi>
-                    </p>
-                    <p>(1.2.3:4) <hi>Pictorius, &amp; Plin. hist.l.</hi>22.c.24(5)<hi>Lobel</hi>
-                        (6.7.8.9.10.)<hi>
-                            Plin.hist.l</hi>.22.<hi>c.</hi>24. </p>
-                    <p><note>22. <hi>Meth much used of the ancient</hi> Britaines.</note> The same
-                        thing is more manifested by the generall example of the ancient <hi>
-                        Britaines:</hi> who, above all other Nations, have ever beene addicted to <hi>
-                        Meth</hi> and <hi>
-                            Methæglen.</hi> For under Heaven there is no fairer people of
-                        complexion, nor of more sound and healthfull bodies. Of whose <hi>Methæglen
-                        Lobel</hi> writeth thus; <hi>Cambricus.
-                            ille potus Methægla, non patrio, uti putant illi, sed+ Græco nomine
-                        dictus, est
-                            altera liquida &amp; limpida Septentrionis theriaca.</hi>
-                    </p>
-                    <p>
-                        <note>23. <hi>Whence</hi> Meth <hi>and</hi> Methæglen <hi>have their name.</hi>
-                        </note>
-                    </p>
-                    <p>+<hi>Hydromel</hi> borealibus, quibus vineta desunt, pro vino est. Ideoque
-                        Cambris à <fw
-                            type="sig">Greek</fw> <hi>Meth</hi> dicitur. Pro qua voce Germani (quibus
-                        Teutonico idiomate solenne est <hi>D</hi> pro <hi>Th</hi> usurpare, ut in <hi>De,
-                        Dis, Dat, Dunder;</hi> pro <hi>The, This, That, Thunder</hi>) adeoque Angli
-                        etiam, aliique populi boreales à Germanis oriundi, corrupte dicunt <hi>Mede.</hi>
-                        Medonis plurimum bibunt Poloni &amp; Lituani, quod Melle abundent, inquit
-                        Andreas Matthiolus. <hi>
-                            Methæglen</hi> vero, quod <hi>Hydromel</hi> est præstantius, à <fw
-                            type="sig">
-                            Greek</fw> sive contractè <fw type="sig">Greek</fw>, id est, vinum
-                        splendidum denominatur: quòd (modò vetus sit &amp; rite confectum) non minus
-                        colore succino, quam sapore &amp; virtute præ vinis vinaceis splendeat. De
-                        hoc Mercator in <hi>Transylvania.
-                            Ex melle incolæ
+                    <note type="authorial" subtype="gloss" place="inline">(1.2.3:4) <bibl><hi>Pictorius,
+                        &amp; Plin. hist.l.</hi>22.c.24(5)<hi>Lobel</hi></bibl> (6.7.8.9.10.) <bibl><hi>
+                        Plin.hist.l</hi>.22.<hi>c.</hi>24. </bibl>
+                    </note>
+                    <p><note type="authorial" subtype="summary">22. <hi>Meth much used of the
+                                ancient</hi> Britaines.</note> The same thing is more manifested by
+                        the generall example of the ancient <term>
+                            Britaines:</term> who, above all other Nations, have ever beene addicted
+                        to <term>
+                            Meth</term> and <term>
+                            Methæglen.</term> For under Heaven there is no fairer people of
+                        complexion, nor of more sound and healthfull bodies. Of whose <persName>Methæglen
+                        Lobel</persName> writeth thus; <quote>
+                            <foreign xml:lang="la">Cambricus. ille potus Methægla, non patrio, uti
+                        putant illi, sed<ref target="#ch10p3glon13">*</ref> Græco nomine dictus, est
+                        altera liquida &amp; limpida Septentrionis theriaca.</foreign>
+                        </quote><note
+                            type="authorial" subtype="summary"> 23. <hi>Whence</hi> Meth <hi>and</hi>
+                        Methæglen <hi>have their name.</hi>
+                        </note></p>
+                    <note type="authorial" subtype="gloss" place="inline" xml:id="ch10p3glon13">*<hi>
+                        Hydromel</hi> borealibus, quibus vineta desunt, pro vino est. Ideoque
+                        Cambris à <note type="editorial" subtype="certainty" cert="check">Greek</note> <hi>
+                        Meth</hi> dicitur. Pro qua voce Germani (quibus Teutonico idiomate solenne
+                        est <hi>D</hi> pro <hi>Th</hi> usurpare, ut in <hi>De,
+                            Dis, Dat, Dunder;</hi> pro <hi>The, This, That, Thunder</hi>) adeoque
+                        Angli etiam, aliique populi boreales à Germanis oriundi, corrupte dicunt <hi>
+                        Mede.</hi> Medonis plurimum bibunt Poloni &amp; Lituani, quod Melle
+                        abundent, inquit Andreas Matthiolus. <hi>
+                            Methæglen</hi> vero, quod <hi>Hydromel</hi> est præstantius, à <note
+                            type="editorial" subtype="certainty" cert="check">
+                            Greek</note> sive contractè <note type="editorial" subtype="certainty"
+                            cert="check">Greek</note>, id est, vinum splendidum denominatur: quòd
+                        (modò vetus sit &amp; rite confectum) non minus colore succino, quam sapore
+                        &amp; virtute præ vinis vinaceis splendeat. De hoc Mercator in <hi>Transylvania.
+                        Ex melle incolæ
                             delicatum potum conficiunt: qui etiam rerum peritis, vinum Creticum ceu
                         Malvaticum
                             opinantibus, facile imponat.</hi> Et Ulysses Aldrovander de mulso. <hi>Fit
@@ -10740,132 +10806,142 @@
                         præstantibus virus illustris: foris vero amœnissimis ac fœcundissimis hortis
                         &amp; agris variisque pomorum ac fructuum generibus luxurians. Claret hodie
                         hæc civitas ob Medonem (potionem ex melle) qui nullâ paratur quam in hac
-                        civitate excellentior. </p>
-                    <p>And as good and old <hi>Methæglen</hi> excelleth all Wines, as </p>
-                    <p>
-                        <fw type="catch"> well</fw>
-                    </p>
-                    <p>
-                        <pb />
-                    </p>
-                    <p>
+                        civitate excellentior. </note>
+                    <p>And as good and old <persName>Methæglen</persName> excelleth all Wines, as <fw
+                            type="catch"> well</fw>
+                        <pb n="Z1r" />
                         <fw type="header">
                             <hi>Of the fruit and profit of Bees.</hi>
                         </fw>
-                    </p>
-                    <p>well for pleasantnesse in taste, as for health; so being burnt it is better
-                        than any
-                        burnt Wine, for comforting and setling of a weake and sicke stomach, and for
-                        recreating the naturall heat.</p>
+                        well for pleasantnesse in taste, as for health; so being burnt it is better
+                        than any burnt Wine, for comforting and setling of a weake and sicke
+                        stomach, and for recreating the naturall heat.</p>
                     <p>The manner of burning it (if you know not) may be this. First set on the fire
-                        a + deepe Skillet or Kettle, almost full of water: when it boileth, put in a
-                        Pewter pot full of <hi>Methæglen:</hi> before that beginneth to boile,
-                        skimme it and put in two or three bruised Cloves, and a branch of
-                        Rose-marie: then beat the yolke of an Egge in a dish, put into it a
-                        spoonefull of the <hi>Meth</hi> cold, and stirre them together to keep the
-                        yolke from curdling: then put to that a spoonfull of the hot <hi>
-                            Meth:</hi> and after that an other, and an other, alwaies beating them
+                        a <ref target="#ch10p3glon14">*</ref> deepe Skillet or Kettle, almost full
+                        of water: when it boileth, put in a Pewter pot full of <term>Methæglen:</term>
+                        before that beginneth to boile, skimme it and put in two or three bruised
+                        Cloves, and a branch of Rose-marie: then beat the yolke of an Egge in a
+                        dish, put into it a spoonefull of the <term>Meth</term> cold, and stirre
+                        them together to keep the yolke from curdling: then put to that a spoonfull
+                        of the hot <term>
+                            Meth:</term> and after that an other, and an other, alwaies beating them
                         together: and then, some and some, put all into the pot, still stirring it
                         about. Then as soone as it boileth, take up the pot, and, saving your hands
                         harmlesse, powre it into another warme pot of like capacitie, firing it as
-                        it runneth: and so brue it till it will burne no more. A <hi>Methæglen</hi>-posset
+                        it runneth: and so brue it till it will burne no more. A <term>Methæglen</term>-posset
                         is of the like vertue. </p>
-                    <p>+The deeper the pot standeth, the sooner it boileth. You may, for a need, set
+                    <note type="authorial" subtype="gloss" place="inline" xml:id="ch10p3glon14">*The
+                        deeper the pot standeth, the sooner it boileth. You may, for a need, set
                         the pot
                         on the Harth in the midst of hot Embers: but take heed the flame melt not
                         the
-                        Pewter. </p>
-                    <p><note>24. <hi>The properties and vertues of naturall Wax.</hi></note> Wax
-                        hath no certaine elementar qualitie, but is a meane betweene (1) hot and
-                        cold, and betweene dry and moist. It (2) mollifieth the sinews, it (3)
-                        ripeneth and resolveth Ulcers. (4) The quantitie of a Pease in Wax, being
-                        swallowed down of Nurces, doth dissolve the Milke curded in the paps, and
-                        (5) ten round peeces of Wax, of the bignesse of so many graines of Millet or
-                        Hempseed, will not suffer the Milke to curdle in the stomach. </p>
+                        Pewter. </note>
+                    <lb />
+                    <p><note type="authorial" subtype="summary">24. <hi>The properties and vertues
+                                of naturall Wax.</hi></note> <hi rend="drop-capital">W</hi>Ax hath no
+                        certaine elementar qualitie, but is a meane betweene (1) hot and cold, and
+                        betweene dry and moist. It (2) mollifieth the sinews, it (3) ripeneth and
+                        resolveth Ulcers. (4) The quantitie of a Pease in Wax, being swallowed down
+                        of Nurces, doth dissolve the Milke curded in the paps, and (5) ten round
+                        peeces of Wax, of the bignesse of so many graines of Millet or Hempseed,
+                        will not suffer the Milke to curdle in the stomach. </p>
                     <p>Moreover, it maketh the most excellent; light fit for the uses of the most
                         excellent; for cleernesse, sweetnesse, neatnesse, to be preferred before all
-                        other: Which <hi>
-                            Scaliger</hi> in his <hi>Ænigmatica,</hi> giving it the precedence, doth
-                        intimate.</p>
-                    <p>
-                        <hi>Aut Apis, aut Hircus, vel pinguia viscera Pini
-                    </p>
-                    <p>Ostendêre diem, post simul ante diem.</hi></p>
-                    <p>
-                        <fw type="catch"> (1) <hi>Galen</hi></fw>
-                    </p>
-                    <p>
-                        <pb />
-                    </p>
-                    <p>
-                        <fw type="header">
-                            <hi>Of the fruit and profit of Bees.</hi>
-                        </fw>
-                    </p>
-                    <p>(I) <hi>Galen de simp.med.facul.l.7.</hi> (2,3,4,5.) <hi>Georgius Pictorius.</hi>
-                        Cera flava magis emollit, relaxat, dolorem solvit: eóque ill â utimur ad
-                        abscessus calefaciendos, emolliendos, concoquendos, &amp; maturandos. <hi>Johannes
+                        other: Which <persName>
+                            Scaliger</persName> in his <title>Ænigmatica,</title> giving it the
+                        precedence, doth intimate.</p>
+                    <quote>
+                        <lg xml:lang="la">
+                            <l>Aut Apis, aut Hircus, vel pinguia viscera Pini</l>
+                            <l>Ostendêre diem, post simul ante diem.</l>
+                        </lg>
+                    </quote>
+                    <fw type="catch"> (1) <hi>Galen</hi></fw>
+                    <pb n="Z1v" />
+                    <fw type="header">
+                        <hi>Of the fruit and profit of Bees.</hi>
+                    </fw>
+                    <note type="authorial" subtype="gloss" place="inline">(I) <bibl>Galen de
+                        simp.med.facul.l.7.</bibl> (2,3,4,5.) <bibl>Georgius Pictorius.</bibl>
+                        <quote>
+                            <foreign xml:lang="la">Cera flava magis emollit, relaxat, dolorem
+                                solvit: eóque ill â utimur ad
+                                abscessus calefaciendos, emolliendos, concoquendos, &amp;
+                                maturandos.</foreign>
+                        </quote> <persName>Johannes
                         Guintherius
-                            Andernacus.</hi> Omnis cera mollit, calefacit, explet corpora: recens
-                        melior. Datur in sorbitione dysentericis, favique ipsi in pulte alicæ prius
-                        tostae: adversatur lactis naturæ; ac millij magnitudine decem grana ceræ
-                        hausta, non patiuntur coagulari lac in stomacho. Si inguen tumeat, albam
-                        ceram in pube fixisse remedio est. Nec hujus ulus, quos mixta aliis præstat,
-                        enumerare medicina potest. <hi>
-                            Pli.nat.hist.li.</hi>22.<hi>cap.</hi>24. </p>
-                    <p><note>25. <hi>Artificiall Wax.</hi></note> This naturall yellow Wax is by
-                        Art, for certaine purposes, made white, red, and greene. </p>
-                    <p><note>26. <hi>To make white Wax</hi></note> Wax is whited after this manner.
-                        Take the whitest and purest Wax: which, being cut into small peeces, put
-                        into an earthen vessell, and poure Sea-water or Brine into it, as much as
-                        may suffice to boile it. And cast in also a little Niter: all this set over
-                        a soft fire. When it hath boiled up twice or thrice, lift the vessell from
-                        the fire, and, the wax being presently cooled with cold water, take it out:
-                        and when you have scraped off the drosse, if any such hang on, and put it
-                        into other Salt water, seeth it againe. And having boiled up twice or
-                        thrice, as before, lift it from the fire againe. And then take the bottom of
-                        an other earthen pot, or a little round board with a handle in the middle
-                        like a Churn-staffe, but without holes: and having first wetted the bottom
-                        of it in cold water, dip it into the hot vessell, and assoone as this wet
-                        bottom toucheth the wax, pull it out againe, and you shall have sticking to
-                        the bottom a thin cake: which when you have taken off, wet the bottom
-                        againe, and dip it as before: and thus do till you have taken up all the wax
-                        in cakes. These cakes hang in the open aire upon a line drawne through them,
-                        so that they may not touch one an other, besprinkling them with water in the
-                        Sun-shine untill they be white. If any man would have wax whiter, let him
-                        boile it oftner, and do all other things in like manner as before. </p>
-                    <p><hi>Hanc dealbandæ cera rationem docuit Dioscorides,</hi> l.2.c.105.</p>
-                    <p><note>27. <hi>To make red Wax.</hi></note> To make Wax red, Take one pound of
-                        Wax, in Summer three ounces of cleere Turpentine, in Winter foure.</p>
-                    <p>
-                        <fw type="catch"> These</fw>
-                    </p>
-                    <p>
-                        <pb />
-                    </p>
-                    <p>
-                        <fw type="header">
+                            Andernacus.</persName> <quote>
+                            <foreign xml:lang="la">Omnis cera mollit, calefacit, explet corpora:
+                        recens
+                                melior. Datur in sorbitione dysentericis, favique ipsi in pulte
+                                alicæ prius
+                                tostae: adversatur lactis naturæ; ac millij magnitudine decem grana
+                        ceræ
+                                hausta, non patiuntur coagulari lac in stomacho. Si inguen tumeat,
+                        albam
+                                ceram in pube fixisse remedio est. Nec hujus ulus, quos mixta aliis
+                        præstat,
+                                enumerare medicina potest.</foreign>
+                            <bibl><hi>
+                                    Pli.nat.hist.li.</hi>22.<hi>cap.</hi>24. </bibl>
+                        </quote></note>
+                    <p><note type="authorial" subtype="summary">25. <hi>Artificiall Wax.</hi></note>
+                        This naturall yellow Wax is by Art, for certaine purposes, made white, red,
+                        and greene. </p>
+                    <p><note type="authorial" subtype="summary">26. <hi>To make white Wax</hi></note>
+                        Wax is whited after this manner. Take the whitest and purest Wax: which,
+                        being cut into small peeces, put into an earthen vessell, and poure
+                        Sea-water or Brine into it, as much as may suffice to boile it. And cast in
+                        also a little Niter: all this set over a soft fire. When it hath boiled up
+                        twice or thrice, lift the vessell from the fire, and, the wax being
+                        presently cooled with cold water, take it out: and when you have scraped off
+                        the drosse, if any such hang on, and put it into other Salt water, seeth it
+                        againe. And having boiled up twice or thrice, as before, lift it from the
+                        fire againe. And then take the bottom of an other earthen pot, or a little
+                        round board with a handle in the middle like a Churn-staffe, but without
+                        holes: and having first wetted the bottom of it in cold water, dip it into
+                        the hot vessell, and assoone as this wet bottom toucheth the wax, pull it
+                        out againe, and you shall have sticking to the bottom a thin cake: which
+                        when you have taken off, wet the bottom againe, and dip it as before: and
+                        thus do till you have taken up all the wax in cakes. These cakes hang in the
+                        open aire upon a line drawne through them, so that they may not touch one an
+                        other, besprinkling them with water in the Sun-shine untill they be white.
+                        If any man would have wax whiter, let him boile it oftner, and do all other
+                        things in like manner as before. </p>
+                    <quote>
+                        <foreign xml:lang="la">Hanc dealbandæ cera rationem docuit Dioscorides,</foreign>
+                        <bibl>l.2.c.105.</bibl>
+                    </quote>
+                    <p><note type="authorial" subtype="summary">27. <hi>To make red Wax.</hi></note>
+                        To make Wax red, Take one pound of Wax, in Summer three ounces of cleere
+                        Turpentine, in Winter foure. <fw type="catch"> These</fw>
+                        <pb n="Z2r" />
+                        <fw
+                            type="header">
                             <hi>Of the fruit and profit of Bees.</hi>
                         </fw>
+                        These dissolve over a soft fire, and by and by take it off to coole a
+                        little. Afterward mix therewith the red Root of <term>Anchusa</term> or <ref
+                            target="#ch10p3glon15">*</ref><term>Vermilion</term>, well ground on a
+                        Marble or Glasse, and sweet Oile, of each one ounce: stirre all these and
+                        mix them well together. For want of <term>Vermilion</term>, <note
+                            type="authorial" subtype="gloss" xml:id="ch10p3glon15">
+                            *Cinabrium</note> they take three times so much red Lead, but that is
+                        not so good. <note type="authorial" subtype="summary">Minimum.</note><lb />
                     </p>
-                    <p>These dissolve over a soft fire, and by and by take it off to coole a little.
-                        Afterward mix therewith the red Root of <hi>Anchusa</hi> or +<hi>Vermilion</hi>,
-                        well ground on a Marble or Glasse, and sweet Oile, of each one ounce: stirre
-                        all these and mix them well together. For want of <hi>Vermilion</hi>, <note>
-                        +Cinabrium</note> they take three times so much red Lead, but that is not so
-                        good. <note>Minimum.</note>
+                    <p><note type="authorial" subtype="summary">28. <hi>To make greene Wax.</hi></note>
+                        To make greene Wax, take in stead of <term>
+                            Vermilion,</term> the like quantitie of <term>Vert-degreece.</term>
                     </p>
-                    <p><note>28. <hi>To make greene Wax.</hi></note> To make greene Wax, take in
-                        stead of <hi>
-                            Vermilion,</hi> the like quantitie of <hi>Vert-degreece.</hi>
-                    </p>
-                    <p><note>29. <hi>Oile of wax.</hi></note> And such is Wax in his kinde, both
-                        Naturall and Artificiall. Naturall Wax is altered by distillation into an
-                        Oile of marvelous vertue. <hi>Raymond Lulli</hi> greatly commendeth it,
-                        proving it to be rather a Cœlestiall or Divine medicine than humane; because
-                        in wounds it worketh miraculously: which therefore is not so well allowed of
-                        the common Chirurgians. <note> 30. <hi>The vertues of it.</hi></note> For it
-                        healeth a wound, be the same never so wide and big, being afore
+                    <lb />
+                    <p><note type="authorial" subtype="summary">29. <hi>Oile of wax.</hi></note> And
+                        such is Wax in his kinde, both Naturall and Artificiall. Naturall Wax is
+                        altered by distillation into an Oile of marvelous vertue. <persName>Raymond
+                        Lulli</persName> greatly commendeth it, proving it to be rather a Cœlestiall
+                        or Divine medicine than humane; because in wounds it worketh miraculously:
+                        which therefore is not so well allowed of the common Chirurgians. <note
+                            type="authorial" subtype="summary"> 30. <hi>The vertues of it.</hi></note>
+                        For it healeth a wound, be the same never so wide and big, being afore
                         wide-stitched up, in the space of eleven daies or 12. at the most. But those
                         that are small, this Oile healeth in three or foure daies, by annointing
                         onely the wound therewith, and laying on a cloth wet in the same. It stayeth
@@ -10878,91 +10954,95 @@
                         stopped, it helpeth stitches and paines in the loines, it helpeth the cold
                         Gout, or
                         Sciatica, and all other griefes comming of cold. </p>
-                    <p><note>31. <hi> The making of Oile of Wax.</hi></note> The making or drawing
-                        of this Oile is on this wise. Take of pure new yellow Wax so much as will
-                        halfe fill your Retort or Body of Glasse: melt it on the fire, and then
-                        powre it into sweete Wine, wherein let it soake: wash it often, and wring it
-                        between your hands: then melt it againe and powre it into fresh Wine,
-                        wherein soake it, wash it, and wring it as before, and this doe seven times,
-                        every time putting it into fresh Wine. When thus you have purified the Wax, </p>
-                    <p>
-                        <fw type="catch"> to</fw>
-                    </p>
-                    <p>
-                        <pb />
-                    </p>
-                    <p>
+                    <p><note type="authorial" subtype="summary">31. <hi> The making of Oile of Wax.</hi></note>
+                        The making or drawing of this Oile is on this wise. Take of pure new yellow
+                        Wax so much as will halfe fill your Retort or Body of Glasse: melt it on the
+                        fire, and then powre it into sweete Wine, wherein let it soake: wash it
+                        often, and wring it between your hands: then melt it againe and powre it
+                        into fresh Wine, wherein soake it, wash it, and wring it as before, and this
+                        doe seven times, every time putting it into fresh Wine. When thus you have
+                        purified the Wax, <fw type="catch"> to</fw>
+                        <pb n="Z2v" />
                         <fw type="header">
                             <hi>Of the fruit and profit of Bees.</hi>
                         </fw>
-                    </p>
-                    <p>to every pound therof adding foure ounces of the powder of red Bricke finely
-                        bruised; put it all together into your Retort of Glasse well luted: <hi>v.</hi> <note>
-                            <hi>V.n.10</hi>
-                        </note> then set the Retort into
-                        an Earthen pot, filling it round about and beneath with fine sifted Ashes or
-                        Sand; and set the pot with the Bodie in it on a Furnace, and so distill it
-                        with a soft fire. And there will come forth a faire yellow Oile, the which
-                        will congeale in the receiver like Pap when it is cold. If you should
-                        rectifie this oile or disill it often, untill it will congeale no more; then
-                        shall you make it over hot to take inwardly, and so quicke in the mouth,
-                        that you cannot drinke it downe. In the comming forth of this Oile, shall
-                        appeare in the Receiver, the foure Elements, the Fire, the Aire, the Water,
-                        and the Earth, right marvellous to see. </p>
-                    <p><note>32. <hi>The vertue of Wax in compound medicines.</hi></note> So
-                        vertuous is Wax by it selfe, both in his owne kinde, and altered by
-                        distillation. It is moreover of great use mixed with others, and is the
-                        ground and foundation of <hi>Cere-clothes</hi> and <hi>Salves:</hi> whereof
-                        to set downe two or three examples shall not be amisse. </p>
-                    <p><note>33. <hi>A Cere-cloth.</hi></note> A <hi>Cere-cloth</hi> or <hi>Ceratum,</hi>
-                        so called of <hi>Cera,</hi> doth consist chiefly of Wax and Oile mixed in
-                        such proportion, as may make the ointment of just consistence: and therefore
-                        (1) being made in Summer, or compounded with Turpentine, Lard, Gum, Marrow,
-                        or any liquid thing, a greater quantity of Wax is required: and being made
-                        in Winter, or compounded with Rozin, Pitch, Metals, dried Hearbs, Powders,
-                        or any dry thing, a lesse quantity of Wax than Oile is convenient. </p>
+                        to every pound therof adding foure ounces of the powder of red Bricke finely
+                        bruised; put it all together into your Retort of Glasse well luted: <ref
+                            target="#ch10p3bibln8">v.</ref> <note type="authorial"
+                            subtype="bibliographic" xml:id="ch10p3bibln8">
+                            <ref target="#">
+                                <hi>V.n.10</hi>
+                            </ref>
+                        </note>
+                        then set the Retort into an Earthen pot, filling it round about and beneath
+                        with fine sifted Ashes or Sand; and set the pot with the Bodie in it on a
+                        Furnace, and so distill it with a soft fire. And there will come forth a
+                        faire yellow Oile, the which will congeale in the receiver like Pap when it
+                        is cold. If you should rectifie this oile or disill it often, untill it will
+                        congeale no more; then shall you make it over hot to take inwardly, and so
+                        quicke in the mouth, that you cannot drinke it downe. In the comming forth
+                        of this Oile, shall appeare in the Receiver, the foure Elements, the Fire,
+                        the Aire, the Water, and the Earth, right marvellous to see. </p>
+                    <p><note type="authorial" subtype="summary">32. <hi>The vertue of Wax in
+                                compound medicines.</hi></note> So vertuous is Wax by it selfe, both
+                        in his owne kinde, and altered by distillation. It is moreover of great use
+                        mixed with others, and is the ground and foundation of <term>Cere-clothes</term>
+                        and <term>Salves:</term> whereof to set downe two or three examples shall
+                        not be amisse. </p>
+                    <p><note type="authorial" subtype="summary">33. <hi>A Cere-cloth.</hi></note> A <term>
+                        Cere-cloth</term> or <term>Ceratum,</term> so called of <term>Cera,</term>
+                        doth consist chiefly of Wax and Oile mixed in such proportion, as may make
+                        the ointment of just consistence: and therefore (1) being made in Summer, or
+                        compounded with Turpentine, Lard, Gum, Marrow, or any liquid thing, a
+                        greater quantity of Wax is required: and being made in Winter, or compounded
+                        with Rozin, Pitch, Metals, dried Hearbs, Powders, or any dry thing, a lesse
+                        quantity of Wax than Oile is convenient. </p>
                     <p>The Ingredients being prepared, first melt the Wax, and whatsoever else of
                         like nature, as Pitch, Suet, &amp;c. in the Oile over a gentle fire, or in a
-                        double vessell, <hi>
-                            v.</hi> <note>
-                            <hi>V.n.7.</hi>
-                        </note> for feare of burning:
-                        when they are melted together, put in the Powders and other like
-                        Ingredients, if there be any: and assone as you have stirred them well
-                        together, (before the liquor be very hot) set it a cooling and make your <hi>
-                        Cere-cloth.</hi>
+                        double vessell, <ref target="#ch10p3bibln9">
+                            v.</ref> <note type="authorial" subtype="bibliographic"
+                            xml:id="ch10p3bibln9">
+                            <ref target="#">
+                                <hi>V.n.7.</hi>
+                            </ref>
+                        </note>
+                        for feare of burning: when they are melted together, put in the Powders and
+                        other like Ingredients, if there be any: and assone as you have stirred them
+                        well together, (before the liquor be very hot) set it a cooling and make
+                        your <term>
+                            Cere-cloth.</term>
                     </p>
-                    <p>
-                        <pb />
+                    <pb n="Z3r" />
+                    <fw type="header">
+                        <hi>Of the fruit and profit of Bees.</hi>
+                    </fw>
+                    <p><note type="authorial" subtype="summary">34. <hi>A Cere-cloth to refresh the
+                        Sinews and Muscles.</hi></note> A <term>
+                            Cere-cloth</term> to refresh the wearied Sinewes and tired Muscles is
+                        thus to be made. Take (2) Oile and Wax <emph>ana</emph> two ounces,
+                        Turpentine two drams, &amp; Hony halfe an ounce. </p>
+                    <p><note type="authorial" subtype="summary">35. <hi>A Cere-cloth to comfort the
+                        stomacke.</hi></note> To comfort the stomacke and helpe concoction, make a <term>
+                        Cerat</term> thus. Take (3) Oile of Masticke, of Mint, of Wormwood, of
+                        Nutmeg, and <ref target="#ch10p3glon16">*</ref>Speeke, or any of these, and
+                        a convenient quantitie of Wax. <note type="authorial" subtype="gloss"
+                            xml:id="ch10p3glon16">+Nardinum</note>
                     </p>
-                    <p>
-                        <fw type="header">
-                            <hi>Of the fruit and profit of Bees.</hi>
-                        </fw>
-                    </p>
-                    <p><note>34. <hi>A Cere-cloth to refresh the Sinews and Muscles.</hi></note> A <hi>
-                        Cere-cloth</hi> to refresh the wearied Sinewes and tired Muscles is thus to
-                        be made. Take (2) Oile and Wax <hi>ana</hi> two ounces, Turpentine two
-                        drams, &amp; Hony halfe an ounce. </p>
-                    <p><note>35. <hi>A Cere-cloth to comfort the stomacke.</hi></note> To comfort
-                        the stomacke and helpe concoction, make a <hi>Cerat</hi> thus. Take (3) Oile
-                        of Masticke, of Mint, of Wormwood, of Nutmeg, and +Speeke, or any of these,
-                        and a convenient quantitie of Wax. <note>+Nardinum</note>
-                    </p>
-                    <p><note>36. <hi>A Cere-cloth for the Wormes.</hi></note> For the wormes in the
-                        belly of a childe or other, Take Wax and Rozin <hi>Ana</hi> one ounce,
-                        Treacle one spoonfull, Aloes two drams. Melt &amp; mingle the Wax &amp;
-                        Rozin together in a Pewter-dish, upon a Chasing-dish and Coales: being
-                        melted, skimme it cleane: then taking it off, put in the Treacle, and stirre
-                        it upon, and stirre it in, so that it may not be clod. And if, by this time,
-                        it be too cold to come from the dish: warme it a little upon the
-                        Chafing-dish againe: then having wet the Table with Butter, poure it
-                        thereon, and worke it together with your knife: and so make it up in a
-                        Roule. To make the Dish cleane, warme it, and wipe it with a woollen cloth. </p>
-                    <p>This <hi>Cerat</hi> is to be applied to the Brest, and to the Navell. For the
-                        Navell, spread it upon a round peece of Leather three inches over, with a
-                        hoale in the middle; that, the Navell comming through, the plaister may lie
-                        both closer and faster: and for the Brest, spread it upon a square peece
+                    <p><note type="authorial" subtype="summary">36. <hi>A Cere-cloth for the Wormes.</hi></note>
+                        For the wormes in the belly of a childe or other, Take Wax and Rozin <emph>
+                        Ana</emph> one ounce, Treacle one spoonfull, Aloes two drams. Melt &amp;
+                        mingle the Wax &amp; Rozin together in a Pewter-dish, upon a Chasing-dish
+                        and Coales: being melted, skimme it cleane: then taking it off, put in the
+                        Treacle, and stirre it upon, and stirre it in, so that it may not be clod.
+                        And if, by this time, it be too cold to come from the dish: warme it a
+                        little upon the Chafing-dish againe: then having wet the Table with Butter,
+                        poure it thereon, and worke it together with your knife: and so make it up
+                        in a Roule. To make the Dish cleane, warme it, and wipe it with a woollen
+                        cloth. </p>
+                    <p>This <term>Cerat</term> is to be applied to the Brest, and to the Navell. For
+                        the Navell, spread it upon a round peece of Leather three inches over, with
+                        a hoale in the middle; that, the Navell comming through, the plaister may
+                        lie both closer and faster: and for the Brest, spread it upon a square peece
                         three inches broad, and twice so long: and lay it athurt the Brest,
                         betweene, or close under the Paps.</p>
                     <p>This doe twice together, and let the Plasters remaine each time upon the
@@ -10972,55 +11052,48 @@
                         that are much troubled with the wormes, will be within foure and twentie
                         houres;
                         although in some they will sticke a whole weeke together. </p>
-                    <p>(1) Fern.Meth.lib.4,c.19.&amp;20. (2) Fern. Meth.l.4.c.19. (3)
-                        Fern.Meth.l.5.c.22.</p>
-                    <p><note>37. <hi>A Salve for a greene wound.</hi></note> For example of a Salve,
-                        take <hi>Emplastrum
-                            de janua.</hi> marvellous effectuall in curing greene wounds and new
-                        ulcers.</p>
-                    <p>
-                        <fw type="catch"> It</fw>
-                    </p>
-                    <p>
-                        <pb />
-                    </p>
-                    <p>
+                    <note type="authorial" subtype="gloss" place="inline">(1) <bibl>
+                        Fern.Meth.lib.4,c.19.&amp;20.</bibl> (2) <bibl>Fern. Meth.l.4.c.19.</bibl>
+                        (3) <bibl>Fern.Meth.l.5.c.22.</bibl></note>
+                    <p><note type="authorial" subtype="summary">37. <hi>A Salve for a greene wound.</hi></note>
+                        For example of a Salve, take <term>Emplastrum
+                            de janua.</term> marvellous effectuall in curing greene wounds and new
+                        ulcers. <fw type="catch"> It</fw>
+                        <pb n="Z3v" />
                         <fw type="header">
                             <hi>Of the fruit and profit of Bees.</hi>
                         </fw>
-                    </p>
-                    <p>It asswageth inflammation, it cleanseth, it closeth, and filleth with flesh,
-                        and maketh whole. It is thus made: + Takethe juice of Parsley, Plantan, and
-                        Betonie, <hi>
-                            ana</hi> one pound: Wax, Pitch, Rozin, and Turpentine, <hi>ana</hi>
+                        It asswageth inflammation, it cleanseth, it closeth, and filleth with flesh,
+                        and maketh whole. It is thus made: <ref target="#ch10p3glon17">*</ref>
+                        Takethe juice of Parsley, Plantan, and Betonie, <emph>
+                            ana</emph> one pound: Wax, Pitch, Rozin, and Turpentine, <emph>ana</emph>
                         halfe a pound: boile the Wax, Pitch, and Rozin in the Juices, softly
                         stirring all together, untill the quantitie of the Juices be wasted: and
                         then taking them off the fire, put in the Turpentine and mix it with the
                         rest. </p>
                     <p>
-                        <hi>Another of like effect.</hi>
+                        <emph>Another of like effect.</emph>
                     </p>
-                    <p><note>38. <hi>Another.</hi></note> Take Deere or Mutton-Suet, Wax, Rozin, <hi>
-                        ana</hi> two ounces: Turpentine one ounce: boile these together, and skim
-                        them: then take this liquor from the fire, and, when it is somewhat cooled,
-                        put in two handfulls of the Tops of unset Hysop, and stirre it about, and
-                        setting it over the fire againe, boile it softly about a quarter of an
-                        houre, till it be greene: and then straine it, and let it coole. This is
-                        chiefly to bee made in <hi>May,</hi> because then the Hysop is in his prime.</p>
-                    <p>+Sylvius de medicam.simpl.mist.lib.3.&amp; Fern.Meth.lib.7.</p>
+                    <p><note type="authorial" subtype="summary">38. <hi>Another.</hi></note> Take
+                        Deere or Mutton-Suet, Wax, Rozin, <emph>
+                            ana</emph> two ounces: Turpentine one ounce: boile these together, and
+                        skim them: then take this liquor from the fire, and, when it is somewhat
+                        cooled, put in two handfulls of the Tops of unset Hysop, and stirre it
+                        about, and setting it over the fire againe, boile it softly about a quarter
+                        of an houre, till it be greene: and then straine it, and let it coole. This
+                        is chiefly to bee made in <term>May,</term> because then the Hysop is in his
+                        prime.</p>
+                    <note type="authorial" subtype="gloss" place="inline" xml:id="ch10p3glon17">*<bibl>Sylvius
+                        de medicam.simpl.mist.lib.3.</bibl>&amp; <bibl>Fern.Meth.lib.7.</bibl></note>
                 </div>
             </div>
-            <p>
-                <head>PSAL. III.v.2.</head>
-            </p>
-            <p>
-                <head><hi>Magne opera</hi> JEHOVÆ, <hi>exquisita ab omnibus qui delectantur in
-                        illis.</hi></head>
-            </p>
-            <p>
-            <head>
-                <hi>FINIS.</hi>
-            </head>
         </body>
+        <back>
+            <trailer>
+                <quote type="trailer-quote"><bibl>PSAL. III.v.2.</bibl><lb /> Magne opera <emph>
+                    JEHOVÆ</emph>, exquisita ab omnibus qui delectantur in illis.</quote>
+                <hi rend="finis">FINIS.</hi>
+            </trailer>
+        </back>
     </text>
 </TEI>
