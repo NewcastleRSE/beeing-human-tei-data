@@ -63,6 +63,11 @@
                 </biblStruct>
             </sourceDesc>
         </fileDesc>
+        <revisionDesc>
+            <listChange>
+                <change who="TSG" when="2023-09-01">Initial encoding</change>
+            </listChange>
+        </revisionDesc>
     </teiHeader>
     <text>
         <front>
