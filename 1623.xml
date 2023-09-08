@@ -65,6 +65,7 @@
         </fileDesc>
         <revisionDesc>
             <listChange>
+                <change who="TSG" when="2023-09-08">Corrected miscategorised side-notes - were bibliographic, should be summary</change>
                 <change who="TSG" when="2023-09-01">Initial encoding</change>
             </listChange>
         </revisionDesc>
