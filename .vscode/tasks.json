@@ -1,0 +1,21 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "xslt",
+			"label": "xslt: add automatic ids test",
+			"saxonJar": "${config:XSLT.tasks.saxonJar}",
+			"xsltFile": "${command:xslt-xpath.pickXsltFile}",
+			"xmlSource": "${command:xslt-xpath.pickXmlSourceFile}",
+			"resultPath": "${workspaceFolder}/xsl-out/result1.xml",
+			"messageEscaping": "adaptive",
+			"group": {
+				"kind": "build",
+				"isDefault": true
+			},
+			"problemMatcher": [
+				"$saxon-xslt"
+			]
+		}
+	]
+}
