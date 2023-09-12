@@ -11,30 +11,30 @@
 
     <xsl:template match="p">
         <xsl:copy>
-            <xsl:apply-templates select="@*"/>
+            <xsl:apply-templates select="@*" />
             <xsl:attribute name="xml:id">
-                <xsl:value-of select="concat('p', count(preceding::p) + 1)"/>
+                <xsl:value-of select="concat('p', count(preceding::p) + 1)" />
             </xsl:attribute>
-            <xsl:apply-templates select="node()"/>
+            <xsl:apply-templates select="node()" />
         </xsl:copy>
     </xsl:template>
 
     <xsl:template match="body//note[@type='authorial' and @subtype='summary']">
         <xsl:copy>
-            <xsl:apply-templates select="@*"/>
-            
+            <xsl:apply-templates select="@*" />
+
             <xsl:variable name="count">
-                <xsl:number level="any" count="div[@type='chapter']//note[@type='authorial' and @subtype='summary']" from="div[@type='chapter']"/>
+                <xsl:number level="any"
+                    count="div[@type='chapter']//note[@type='authorial' and @subtype='summary']"
+                    from="div[@type='chapter']" />
             </xsl:variable>
-            
+
             <xsl:attribute name="xml:id">
-                <xsl:value-of select="concat('ch', ancestor::div[@type='chapter']/@n, 'sumn', $count)"/>
+                <xsl:value-of
+                    select="concat('ch', ancestor::div[@type='chapter']/@n, 'sumn', $count)" />
             </xsl:attribute>
-            
-            <xsl:attribute name="count">
-                <xsl:value-of select="$count"/>
-            </xsl:attribute>
-            <xsl:apply-templates select="node()"/>
+
+            <xsl:apply-templates select="node()" />
         </xsl:copy>
     </xsl:template>
 </xsl:stylesheet>
