@@ -233,11 +233,11 @@
                     in such places, to translate it <hi rend="italic">
                         Queene</hi>, sith the males heere beare no sway at all, this being an <hi rend="italic">Amazonian
                         or feminine
-                        kingdome.</hi> <ref target="#" rend="italic">v.</ref> <note type="authorial" subtype="bibliographic" xml:id="frontbibln6">
+                        kingdome.</hi> <ref target="#ch4sumn11" rend="italic">v.</ref> <note type="authorial" subtype="bibliographic" xml:id="frontbibln6">
                         <bibl rend="italic">V.c.4.n.11.</bibl>
                     </note></p>
                 <p xml:id="frontpar6">In distinguishing the times of the yeere, I use the Astronomicall months, as most
-                    natural and fitting to my purpose <ref target="#">v.</ref> <note type="authorial" subtype="bibliographic" xml:id="frontbibln7">
+                    natural and fitting to my purpose <ref target="#ch3sumn36">v.</ref> <note type="authorial" subtype="bibliographic" xml:id="frontbibln7">
                         <bibl rend="italic">V.c.3.n.
                             36.</bibl>
                     </note> Where note that by the name of
@@ -247,10 +247,10 @@
                     After</hi>, or otherwise the sense doth plainely shew that it is spoken of the
                     whole Moneth. </p>
                 <p xml:id="frontpar7">When you have once, for your satisfaction, perused this Booke, you need not
-                    afterward seeke farre for anything therein, whereof you doubt: the <ref target="#" rend="italic">Index</ref> of the Chapters or Contents of the
+                    afterward seeke farre for anything therein, whereof you doubt: the <ref target="#contents" rend="italic">Index</ref> of the Chapters or Contents of the
                     Booke; and of the Marginall notes, or Contents of the Chapters will readily
                     direct you. For example, if you would know the Spleeting of Hives, or the manner
-                    of Hiving Bees; looking into the <ref target="#" rend="italic">Index</ref> of
+                    of Hiving Bees; looking into the <ref target="#contents" rend="italic">Index</ref> of
                     the Chapters, you shall perceive the one to appertaine to the Third, and the
                     other to the Fifth; and running over the Contents of either Chapter, you shall
                     find the first to be the Tenth note, and the other the 53. Then turning to these
@@ -393,7 +393,7 @@
                 <fw type="ornament"/>
             </div>
             <pb n="A3r"/>
-            <div type="contents">
+            <div type="contents" xml:id="contents">
                 <fw type="ornament"/>
                 <head type="sectionTitle" rend="titleCase"> The Chapters, or the Contents of <hi rend="italic">this</hi> <hi rend="smallCapitals">BOOKE</hi>.</head>
                 <p xml:id="frontpar9"><hi rend="drop-capital">M</hi>Y Booke of Bees I divide into ten Chapters.</p>
@@ -1378,7 +1378,7 @@
                 <note type="authorial" subtype="summary" xml:id="ch1sumn6"> 6. <hi>Bees alwaies loyall to their
                     Soveraigne.</hi></note> And all this under the government of one Monarch, of
                     whom above all things they have a principall care and respect, loving,
-                    reverencing, and obeying her <ref target="#">v:</ref> in all things. <note type="authorial" subtype="bibliographic" xml:id="ch1bibln7"><hi>V. Præfat.</hi>
+                    reverencing, and obeying her <ref target="#ch1bibln7">v:</ref> in all things. <note type="authorial" subtype="bibliographic" xml:id="ch1bibln7"><hi>V. Præfat.</hi>
                     Virg. Georg. <hi>V.c.7.n.27.&amp;</hi>42.</note>
                 </p>
                 <quote>
@@ -1420,12 +1420,12 @@
                             migratur.</foreign></quote> <note type="authorial" subtype="bibliographic" xml:id="ch1bibln8">
                         Hist.an.l.9.cap.40.</note> If by hir voyce she bid them goe, they swarme; if
                     being abroad she dislike the weather, or lighting-place, they quickly returne
-                    home againe: while she cheereth them to battaile they fight, <ref target="#">v:</ref>, <note type="authorial" subtype="bibliographic" xml:id="ch1bibln9"><hi>
-                            Vid.c.7.n.</hi> 35.</note> while she is well, they are cheerefull about
+                    home againe: while she cheereth them to battaile they fight, <ref target="#ch1bibln9">v:</ref>, <note type="authorial" subtype="bibliographic" xml:id="ch1bibln9"><ref target="ch7sumn35"><hi>
+                            Vid.c.7.n.</hi></ref> 35.</note> while she is well, they are cheerefull about
                     their worke; if she droope and dye, they will never after enjoy their home, but
-                    either languish there till they bee dead too, or yeelding the Robbers, <ref target="#">v:</ref> <note type="authorial" subtype="bibliographic" xml:id="ch1bibln10"><hi>
-                            V.c.7.n.</hi>27.</note> fly away with them <ref target="#">v:</ref> <note type="authorial" subtype="bibliographic" xml:id="ch1bibln11"><hi>V.c.7.n.</hi>
-                    42.</note> <quote>
+                    either languish there till they bee dead too, or yeelding the Robbers, <ref target="#ch1bibln10">v:</ref> <note type="authorial" subtype="bibliographic" xml:id="ch1bibln10"><ref target="#ch7sumn27"><hi>
+                            V.c.7.n.</hi>27.</ref></note> fly away with them <ref target="#ch1bibln11">v:</ref> <note type="authorial" subtype="bibliographic" xml:id="ch1bibln11"><ref target="#ch7sumn42"><hi>V.c.7.n.</hi>
+                    42.</ref></note> <quote>
                         <foreign xml:lang="la">Rege
                             mortuo mœret
                             plebs ignava, non cibos convehit, non procedit, tristi tantùm murmure
