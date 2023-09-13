@@ -62,6 +62,7 @@
         </fileDesc>
         <revisionDesc>
             <listChange>
+                <change who="TSG" when="2023-09-13">Added example targets to preface</change>
                 <change who="TSG" when="2023-09-13">Added ids to chapter and sections (manually)</change>
                 <change who="TSG" when="2023-09-13">Added ids to notes (glo) automatically</change>
                 <change who="TSG" when="2023-09-13">Removed previously added manual targets (which pointed to wrong ids now)</change>
@@ -233,13 +234,12 @@
                     in such places, to translate it <hi rend="italic">
                         Queene</hi>, sith the males heere beare no sway at all, this being an <hi rend="italic">Amazonian
                         or feminine
-                        kingdome.</hi> <ref target="#ch4sumn11" rend="italic">v.</ref> <note type="authorial" subtype="bibliographic" xml:id="frontbibln6">
-                        <bibl rend="italic">V.c.4.n.11.</bibl>
-                    </note></p>
+                        kingdome.</hi> <ref target="#frontbibln6" rend="italic">v.</ref> <note type="authorial" subtype="bibliographic" xml:id="frontbibln6">
+                        <ref target="#ch4sumn11">V.c.4.n.11.</ref></note></p>
                 <p xml:id="frontpar6">In distinguishing the times of the yeere, I use the Astronomicall months, as most
-                    natural and fitting to my purpose <ref target="#ch3sumn36">v.</ref> <note type="authorial" subtype="bibliographic" xml:id="frontbibln7">
-                        <bibl rend="italic">V.c.3.n.
-                            36.</bibl>
+                    natural and fitting to my purpose <ref target="#frontbibln7">v.</ref> <note type="authorial" subtype="bibliographic" xml:id="frontbibln7">
+                        <ref target="#ch3sumn36">V.c.3.n.
+                            36.</ref>
                     </note> Where note that by the name of
                     each moneth, is commonly understood the first day of the same moneth (namely,
                     wheresovever this preposition <hi rend="italic">At</hi>, is set before it)
