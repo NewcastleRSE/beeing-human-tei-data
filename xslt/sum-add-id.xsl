@@ -9,7 +9,7 @@
         </xsl:copy>
     </xsl:template>
 
-    <xsl:template match="p">
+    <!-- <xsl:template match="p">
         <xsl:copy>
             <xsl:apply-templates select="@*" />
             <xsl:attribute name="xml:id">
@@ -17,7 +17,7 @@
             </xsl:attribute>
             <xsl:apply-templates select="node()" />
         </xsl:copy>
-    </xsl:template>
+    </xsl:template> -->
 
     <xsl:template match="body//note[@type='authorial' and @subtype='summary']">
         <xsl:copy>
@@ -25,13 +25,33 @@
 
             <xsl:variable name="count">
                 <xsl:number level="any"
-                    count="div[@type='chapter']//note[@type='authorial' and @subtype='summary']"
+                    count="div[@type='chapter']//note[@type='authorial' and @subtype='summary' and matches(.,'[0-9]')]"
                     from="div[@type='chapter']" />
             </xsl:variable>
 
             <xsl:attribute name="xml:id">
                 <xsl:value-of
                     select="concat('ch', ancestor::div[@type='chapter']/@n, 'sumn', $count)" />
+            </xsl:attribute>
+
+            <xsl:apply-templates select="node()" />
+        </xsl:copy>
+    </xsl:template>
+
+    <!-- Matches notes for subsections in ch10 -->
+    <xsl:template match="div[@type='section']//note[@type='authorial' and @subtype='summary']">
+        <xsl:copy>
+            <xsl:apply-templates select="@*" />
+
+            <xsl:variable name="count">
+                <xsl:number level="any"
+                    count="div[@type='section']//note[@type='authorial' and @subtype='summary' and matches(.,'[0-9]')]"
+                    from="div[@type='section']" />
+            </xsl:variable>
+
+            <xsl:attribute name="xml:id">
+                <xsl:value-of
+                    select="concat('ch', ancestor::div[@type='chapter']/@n, 'p', ancestor::div[@type='section']/@n, 'sumn', $count)" />
             </xsl:attribute>
 
             <xsl:apply-templates select="node()" />

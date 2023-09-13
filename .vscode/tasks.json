@@ -7,7 +7,7 @@
 			"saxonJar": "${config:XSLT.tasks.saxonJar}",
 			"xsltFile": "${command:xslt-xpath.pickXsltFile}",
 			"xmlSource": "${command:xslt-xpath.pickXmlSourceFile}",
-			"resultPath": "${workspaceFolder}/xsl-out/result1.xml",
+			"resultPath": "${workspaceFolder}/xsl-out/result-sum-add-id.xml",
 			"messageEscaping": "adaptive",
 			"group": {
 				"kind": "build",
