@@ -62,7 +62,6 @@
         </fileDesc>
         <revisionDesc>
             <listChange>
-                <change who="TSG" when="2023-09-13">Added ids to notes (glo) automatically</change>
                 <change who="TSG" when="2023-09-13">Removed previously added manual targets (which pointed to wrong ids now)</change>
                 <change who="TSG" when="2023-09-13">Added ids to notes (bibl) automatically</change>
                 <change who="TSG" when="2023-09-13">Corrected notes, added missing notes, added ids to notes (summary) and paragraphs automatically</change>
