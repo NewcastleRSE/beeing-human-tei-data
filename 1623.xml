@@ -62,6 +62,7 @@
         </fileDesc>
         <revisionDesc>
             <listChange>
+                <change who="TSG" when="2023-09-13">Added ids to chapter and sections (manually)</change>
                 <change who="TSG" when="2023-09-13">Added ids to notes (glo) automatically</change>
                 <change who="TSG" when="2023-09-13">Removed previously added manual targets (which pointed to wrong ids now)</change>
                 <change who="TSG" when="2023-09-13">Added ids to notes (bibl) automatically</change>
@@ -1292,7 +1293,7 @@
             <pb n="B1r"/>
             <fw type="ornament"/>
             <head type="title">THE FEMININE MONARCHIE, <lb/>OR <lb/>The Historie of BEES.</head>
-            <div type="chapter" n="1">
+            <div type="chapter" n="1" xml:id="ch1">
                 <head type="chapter-number">CHAP. I.</head>
                 <head type="chapter-title" rend="italic">
                     Of the Nature and properties of Bees, and of their Queene.
@@ -2502,7 +2503,7 @@
                 </lg>
             </div>
             <fw type="ornament"/>
-            <div type="chapter" n="2">
+            <div type="chapter" n="2" xml:id="ch2">
                 <head type="chapter-number">CHAP. II</head>
                 <head type="chapter-title" rend="italic">Of the Bee-Garden, and Seats<lb/> <hi rend="opposite">for the Hives</hi>.</head>
                 <p xml:id="ch2par1"><note type="authorial" subtype="summary" xml:id="ch2sumn1">1. <hi>Of five things requisite in a
@@ -2844,7 +2845,7 @@
                     fifteene and eighteene inches in the ground.</p>
             </div>
             <fw type="ornament"/>
-            <div type="chapter" n="3">
+            <div type="chapter" n="3" xml:id="ch3">
                 <head type="chapter-number">CHAP. III.</head>
                 <head type="chapter-title" rend="italic">Of the Hives, and the Dressing<lb/> <hi rend="opposite">of them.</hi></head>
                 <p xml:id="ch3par1"><note type="authorial" subtype="summary" xml:id="ch3sumn1">1. <hi>Two sorts of Hives.</hi></note> <hi rend="drop-capital">I</hi>N some countries they use strawn Hives bound with
@@ -3698,7 +3699,7 @@
             <fw type="catch"> CHAP</fw>
             <pb n="H1r"/>
             <fw type="ornament"/>
-            <div type="chapter" n="4">
+            <div type="chapter" n="4" xml:id="ch4">
                 <head type="chapter-number">CHAP. IIII.</head>
                 <head type="chapter-title" rend="italic">Of the Breeding of Bees, and<lb/> <hi rend="opposite">of the Drone.</hi></head>
                 <p xml:id="ch4par1"><note type="authorial" subtype="summary" xml:id="ch4sumn1">1. <hi>The Drone no labourer</hi></note><hi rend="drop-capital">T</hi>HE Drone, which is a grosse Hive-Bee without
@@ -4387,7 +4388,7 @@
             </div>
             <fw type="catch"> CHAP.</fw>
             <pb n="I3r"/>
-            <div type="chapter" n="5">
+            <div type="chapter" n="5" xml:id="ch5">
                 <head type="chapter-number">CHAP. V</head>
                 <head type="chapter-title">Of the Swarming of Bees, and the<lb/> <hi rend="opposite">Hiving
                         of them.</hi></head>
@@ -5827,7 +5828,7 @@
                     cheerefully, as at other Hives. </p>
             </div>
             <fw type="ornament"/>
-            <div type="chapter" n="6">
+            <div type="chapter" n="6" xml:id="ch6">
                 <head type="chapter-number">CHAP. VI</head>
                 <head type="chapter-title">Of the Bees Worke.</head>
                 <p xml:id="ch6par1">
@@ -6767,7 +6768,7 @@
             </div>
             <fw type="catch"> CHAP</fw>
             <pb n="P4r"/>
-            <div type="chapter" n="7">
+            <div type="chapter" n="7" xml:id="ch7">
                 <head type="chapter-number">CHAP.VII</head>
                 <head type="chapter-title">
                     Of the Bees Enemies.
@@ -7830,7 +7831,7 @@
                     desist; untill the bones or somewhat else doe happily choake them.</p>
             </div>
             <fw type="ornament"/>
-            <div type="chapter" n="8">
+            <div type="chapter" n="8" xml:id="ch8">
                 <head type="chapter-number">CHAP. VIII</head>
                 <head type="chapter-title">Of the
                     Feeding of Bees.</head>
@@ -8140,7 +8141,7 @@
             <fw type="catch"> CHAP</fw>
             <pb n="T1r"/>
             <fw type="ornament"/>
-            <div type="chapter" n="9">
+            <div type="chapter" n="9" xml:id="ch9">
                 <head type="chapter-number">CHAP. IX</head>
                 <head type="chapter-title">Of the removing of Bees.</head>
                 <p xml:id="ch9par1"><note type="authorial" subtype="summary" xml:id="ch9sumn1">1. <hi>Five things to be avoided in
@@ -8267,7 +8268,7 @@
             </div>
             <fw type="catch"> CHAP.</fw>
             <pb n="T2v"/>
-            <div type="chapter" n="10">
+            <div type="chapter" n="10" xml:id="ch10">
                 <head type="chapter-number">Chap. X.</head>
                 <head type="chapter-title">Of the fruit and profit of Bees.</head>
                 <p xml:id="ch10par1">Wherein is shewed first the <term>Vindemiation</term> or taking of the Combes:
@@ -8275,7 +8276,7 @@
                     making of <term>
                         Meth</term> or <term>Hydromel</term>: and thirdly, the singular vertues of
                     them, for the use and comfort of man. </p>
-                <div type="section" n="1">
+                <div type="section" n="1" xml:id="ch10p1">
                     <head type="section-title">The first part of this Chapter sheweth the taking
                         of
                         the Combes.</head>
@@ -8709,7 +8710,7 @@
                             Columella,</persName> and unto <persName>Georgius Pictorious,</persName>
                         who in his fourteenth Chapter writeth thereof at large. </p>
                 </div>
-                <div type="section" n="2">
+                <div type="section" n="2" xml:id="ch10p2">
                     <head type="section-title">The second part of this Chapter sheweth the trying of
                         (1) Honie and (3) Wax with the (2) making of <hi rend="opposite">Meth</hi>
                         or <hi rend="opposite">Hydromel</hi>.</head>
@@ -9383,7 +9384,7 @@
                         </ref> (4) and therefore the
                         bottom, unto which the drosse doth ascend, is not good. </note>
                 </div>
-                <div type="section" n="3">
+                <div type="section" n="3" xml:id="ch10p3">
                     <head type="section-title">The third part of this Chapter sheweth the singular
                         vertues of <hi rend="opposite">(1) Honie</hi>, <hi rend="opposite">(2) Methe</hi>, and <hi rend="opposite">(3) Wax</hi> for
                         the use and comfort of man.</head>
