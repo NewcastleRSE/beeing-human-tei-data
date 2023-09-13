@@ -399,16 +399,16 @@
                 <p xml:id="frontpar9"><hi rend="drop-capital">M</hi>Y Booke of Bees I divide into ten Chapters.</p>
                 <list>
                     <item n="1">1 The first, of the nature and properties of Bees, and of their
-                        Queen. <ptr target="#"/></item>
-                    <item n="2">2 The second, of the Bee-garden, and Seats for the Hives. <ptr target="#"/></item>
-                    <item n="3">3 The third, of the Hives, and the Dressing of them. <ptr target="#"/></item>
-                    <item n="4">4 The fourth, of the Breeding of Bees, and of the Drone. <ptr target="#"/></item>
-                    <item n="5">5 The fift, of their Swarming, and the Hiving of them. <ptr target="#"/></item>
-                    <item n="6">6 The sixt, of their Worke. <ptr target="#"/></item>
-                    <item n="7">7 The seventh, of their Enemies. <ptr target="#"/></item>
-                    <item n="8">8 The eighth, of Feeding them. <ptr target="#"/></item>
-                    <item n="9">9 The ninth, of Removing them. <ptr target="#"/></item>
-                    <item n="10">10 The tenth, of the Fruit and Profit of the them.<ptr target="#"/></item>
+                        Queen. <ptr target="#ch1"/></item>
+                    <item n="2">2 The second, of the Bee-garden, and Seats for the Hives. <ptr target="#ch2"/></item>
+                    <item n="3">3 The third, of the Hives, and the Dressing of them. <ptr target="#ch3"/></item>
+                    <item n="4">4 The fourth, of the Breeding of Bees, and of the Drone. <ptr target="#ch4"/></item>
+                    <item n="5">5 The fift, of their Swarming, and the Hiving of them. <ptr target="#ch5"/></item>
+                    <item n="6">6 The sixt, of their Worke. <ptr target="#ch6"/></item>
+                    <item n="7">7 The seventh, of their Enemies. <ptr target="#ch7"/></item>
+                    <item n="8">8 The eighth, of Feeding them. <ptr target="#ch8"/></item>
+                    <item n="9">9 The ninth, of Removing them. <ptr target="#ch9"/></item>
+                    <item n="10">10 The tenth, of the Fruit and Profit of the them.<ptr target="#ch10"/></item>
                 </list>
                 <fw type="horizontalRule"/>
                 <div type="contents">
@@ -419,74 +419,74 @@
                             properties of Bees.</head>
                         <list>
                             <item>1 <hi rend="italic">Bees yeeld great profit with small cost.</hi>
-                            <ptr target="#"/></item>
+                            <ptr target="#ch1sumn1"/></item>
                             <item>2 <hi rend="italic">Every country fit for Bees.</hi>
-                            <ptr target="#"/></item>
+                            <ptr target="#ch1sumn2"/></item>
                             <item>3 <hi rend="italic">Bees abhorre idlenesse.</hi>
-                            <ptr target="#"/></item>
+                            <ptr target="#ch1sumn3"/></item>
                             <item>4 <hi rend="italic">Bees have a Common-wealth.</hi>
-                            <ptr target="#"/></item>
+                            <ptr target="#ch1sumn4"/></item>
                             <item>5 <hi rend="italic">Their working, watching, fighting, dwelling,
                                 diet, wealth,
                                     and young
                                     ones are
                                     all in common.</hi>
-                            <ptr target="#"/></item>
+                            <ptr target="#ch1sumn5"/></item>
                             <item>6 <hi rend="italic">Bees alwaies loyall to their Soveraigne.</hi>
-                            <ptr target="#"/></item>
+                            <ptr target="#ch1sumn6"/></item>
                             <item>7 <hi rend="italic">Bees endure no government, but a Monarchie.</hi>
-                            <ptr target="#"/></item>
-                            <item>8 <hi rend="italic">A memorable experiment.</hi><ptr target="#"/></item>
+                            <ptr target="#ch1sumn7"/></item>
+                            <item>8 <hi rend="italic">A memorable experiment.</hi><ptr target="#ch1sumn8"/></item>
                             <item>9 <hi rend="italic">The description of the Queene-Bee.</hi>
-                            <ptr target="#"/></item>
+                            <ptr target="#ch1sumn9"/></item>
                             <item>10 <hi rend="italic">Bees have also inferiour Governours or
                                 Captaines.</hi>
-                            <ptr target="#"/></item>
+                            <ptr target="#ch1sumn10"/></item>
                             <item>11 <hi rend="italic">Which are knowne by peculiar markes.</hi>
-                            <ptr target="#"/></item>
+                            <ptr target="#ch1sumn11"/></item>
                             <item>12 <hi rend="italic">Two sorts of Bees.</hi>
-                            <ptr target="#"/></item>
+                            <ptr target="#ch1sumn12"/></item>
                             <item>13 <hi rend="italic">The parts of a Bee.</hi>
-                            <ptr target="#"/></item>
+                            <ptr target="#ch1sumn13"/></item>
                             <item>14 <hi rend="italic">Hir hornes.</hi>
-                            <ptr target="#"/></item>
-                            <item>15 <hi rend="italic">Hir eyes.</hi><ptr target="#"/></item>
+                            <ptr target="#ch1sumn14"/></item>
+                            <item>15 <hi rend="italic">Hir eyes.</hi><ptr target="#ch1sumn15"/></item>
                             <item>16 <hi rend="italic">Hir fangs.</hi>
-                            <ptr target="#"/></item>
+                            <ptr target="#ch1sumn16"/></item>
                             <cb n="2"/>
                             <item>17 <hi rend="italic">Hir tongue, with the parts of it.</hi>
-                            <ptr target="#"/></item>
+                            <ptr target="#ch1sumn17"/></item>
                             <item>18 <hi rend="italic">Hir foure winges.</hi>
-                            <ptr target="#"/></item>
+                            <ptr target="#ch1sumn18"/></item>
                             <item>19 <hi rend="italic">Hir feet.</hi>
-                            <ptr target="#"/></item>
+                            <ptr target="#ch1sumn19"/></item>
                             <item>20 <hi rend="italic">Hir two weapons.</hi>
-                            <ptr target="#"/></item>
-                            <item>21 <hi rend="italic">Hir fangs commonly used against</hi> insecta. <ptr target="#"/></item>
+                            <ptr target="#ch1sumn20"/></item>
+                            <item>21 <hi rend="italic">Hir fangs commonly used against</hi> insecta. <ptr target="#ch1sumn21"/></item>
                             <item>22 <hi rend="italic">Hir speere sometime.</hi>
-                            <ptr target="#"/></item>
+                            <ptr target="#ch1sumn22"/></item>
                             <item>23 <hi rend="italic">Stinging present death to Bees.</hi>
-                            <ptr target="#"/></item>
+                            <ptr target="#ch1sumn23"/></item>
                             <item>24 <hi rend="italic">The speares commonly used against other
                                 creatures.</hi>
-                            <ptr target="#"/></item>
+                            <ptr target="#ch1sumn24"/></item>
                             <item>25 <hi rend="italic">Haire and feathers cause the Bees to sting.</hi>
-                            <ptr target="#"/></item>
+                            <ptr target="#ch1sumn25"/></item>
                             <item>26 <hi rend="italic">Wooll and woollen do not offend them.</hi>
-                            <ptr target="#"/></item>
+                            <ptr target="#ch1sumn26"/></item>
                             <item>27 <hi rend="italic">Fustian, Leather, and Velvet, naught among
                                 Bees.</hi>
-                            <ptr target="#"/></item>
+                            <ptr target="#ch1sumn27"/></item>
                             <item>28 <hi rend="italic">The Bees in their anger aime at the head.</hi>
-                            <ptr target="#"/></item>
+                            <ptr target="#ch1sumn28"/></item>
                             <item>29 <hi rend="italic">When any is stung the company must be gone.</hi>
-                            <ptr target="#"/></item>
+                            <ptr target="#ch1sumn29"/></item>
                             <item>30 <hi rend="italic">The Bees have the worst, when they sting.</hi>
-                            <ptr target="#"/></item>
+                            <ptr target="#ch1sumn30"/></item>
                             <item>31 <hi rend="italic">They lose their sting and entrals, and
                                 consequently their
                                     lives.</hi>
-                            <ptr target="#"/></item>
+                            <ptr target="#ch1sumn31"/></item>
                             <item>32 <hi rend="italic">The speere, of it selfe, pierceth deepe</hi>
                                 <fw type="catch">
                                     <hi rend="italic">when</hi>
@@ -494,68 +494,68 @@
                                 <pb n="A3v"/>
                                 <cb n="2"/>
                                 <hi rend="italic">when the Bee is gon.</hi>
-                            <ptr target="#"/></item>
+                            <ptr target="#ch1sumn32"/></item>
                             <item>33 <hi rend="italic">How to prevent the paine &amp; swelling.</hi>
-                            <ptr target="#"/></item>
+                            <ptr target="#ch1sumn33"/></item>
                             <item>34 <hi rend="italic">Nothing but Time can cure their stinging.</hi>
-                            <ptr target="#"/></item>
+                            <ptr target="#ch1sumn34"/></item>
                             <item>35 <hi rend="italic">What things the Bee-master must avoid.</hi>
-                            <ptr target="#"/></item>
+                            <ptr target="#ch1sumn35"/></item>
                             <item>36 <hi rend="italic">The six properties of a Bee-master.</hi>
-                            <ptr target="#"/></item>
+                            <ptr target="#ch1sumn36"/></item>
                             <item>37 <hi rend="italic">Safer to walke then to stand among Bees.</hi>
-                            <ptr target="#"/></item>
+                            <ptr target="#ch1sumn37"/></item>
                             <item>38 <hi rend="italic">The fittest time to stirre about Bees.</hi>
-                            <ptr target="#"/></item>
+                            <ptr target="#ch1sumn38"/></item>
                             <item>39 <hi rend="italic">In the heat of the day they are most angry.</hi>
-                            <ptr target="#"/></item>
+                            <ptr target="#ch1sumn39"/></item>
                             <item>40 <hi rend="italic">How to be armed when the Bees are angry.</hi>
-                            <ptr target="#"/></item>
+                            <ptr target="#ch1sumn30"/></item>
                             <item>41 <hi rend="italic">Bees dangerous to Cattell.</hi>
-                            <ptr target="#"/></item>
+                            <ptr target="#ch1sumn41"/></item>
                             <item>42 <hi rend="italic">The Bees Senses.</hi>
-                            <ptr target="#"/></item>
+                            <ptr target="#ch1sumn42"/></item>
                             <item>43 <hi rend="italic">Their sight dimme.</hi>
-                            <ptr target="#"/></item>
+                            <ptr target="#ch1sumn43"/></item>
                             <item>44 <hi rend="italic">Their smelling very quicke.</hi>
-                            <ptr target="#"/></item>
+                            <ptr target="#ch1sumn44"/></item>
                             <item>45 <hi rend="italic">Hearing and feeling.</hi>
-                            <ptr target="#"/></item>
+                            <ptr target="#ch1sumn45"/></item>
                             <item>46 <hi rend="italic">Tasting.</hi>
-                            <ptr target="#"/></item>
+                            <ptr target="#ch1sumn46"/></item>
                             <item>47 <hi rend="italic">Their Vertues.</hi>
-                            <ptr target="#"/></item>
+                            <ptr target="#ch1sumn47"/></item>
                             <item>48 <hi rend="italic">Fortitude.</hi>
-                            <ptr target="#"/></item>
-                            <item>49 <hi rend="italic">Prudence and knowledge.</hi><ptr target="#"/></item>
+                            <ptr target="#ch1sumn48"/></item>
+                            <item>49 <hi rend="italic">Prudence and knowledge.</hi><ptr target="#ch1sumn49"/></item>
                             <item>50 <hi rend="italic">A strange tale concerning the knowledge, and
                                 devotion of
                                     Bees.</hi>
-                            <ptr target="#"/></item>
+                            <ptr target="#ch1sumn50"/></item>
                             <item>51 <hi rend="italic">Temperance.</hi>
-                            <ptr target="#"/></item>
-                            <item>52 <hi rend="italic">Justice.</hi><ptr target="#"/></item>
+                            <ptr target="#ch1sumn51"/></item>
+                            <item>52 <hi rend="italic">Justice.</hi><ptr target="#ch1sumn52"/></item>
                             <item>53 <hi rend="italic">Chastity.</hi>
-                            <ptr target="#"/></item>
+                            <ptr target="#ch1sumn53"/></item>
                             <item>54 <hi rend="italic">Cleanlinesse.</hi>
-                            <ptr target="#"/></item>
+                            <ptr target="#ch1sumn54"/></item>
                             <item>55 <hi rend="italic">The age of Bees.</hi>
-                            <ptr target="#"/></item>
+                            <ptr target="#ch1sumn55"/></item>
                             <item>56 <hi rend="italic">The difference betweene the young Bees and
                                 old.</hi>
-                            <ptr target="#"/></item>
+                            <ptr target="#ch1sumn56"/></item>
                             <item>57 <hi rend="italic">The office of the young Bees.</hi>
-                            <ptr target="#"/></item>
+                            <ptr target="#ch1sumn57"/></item>
                             <item>58 <hi rend="italic">And of the old.</hi>
-                            <ptr target="#"/></item>
+                            <ptr target="#ch1sumn58"/></item>
                             <item>59 <hi rend="italic">Bees wont eftsoones to play.</hi>
-                            <ptr target="#"/></item>
+                            <ptr target="#ch1sumn59"/></item>
                             <item>60 <hi rend="italic">They are soone kild with cold.</hi>
-                            <ptr target="#"/></item>
-                            <item>61 <hi rend="italic">How to revive them.</hi><ptr target="#"/></item>
-                            <item>62 <hi rend="italic">The Bees excellencies.</hi><ptr target="#"/></item>
+                            <ptr target="#ch1sumn60"/></item>
+                            <item>61 <hi rend="italic">How to revive them.</hi><ptr target="#ch1sumn61"/></item>
+                            <item>62 <hi rend="italic">The Bees excellencies.</hi><ptr target="#ch1sumn62"/></item>
                             <item>63 <hi rend="italic">Bees a chiefe exemplar of the divine power
-                                    and wisdome.</hi><ptr target="#"/></item>
+                                    and wisdome.</hi><ptr target="#ch1sumn63"/></item>
                         </list>
                     </div>
                     <div type="contents-chapter" n="2">
