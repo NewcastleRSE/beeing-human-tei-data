@@ -62,6 +62,7 @@
         </fileDesc>
         <revisionDesc>
             <listChange>
+                <change who="TSG" when="2023-09-14">Added targets to index</change>
                 <change who="TSG" when="2023-09-13">Added example targets to preface</change>
                 <change who="TSG" when="2023-09-13">Added ids to chapter and sections (manually)</change>
                 <change who="TSG" when="2023-09-13">Added ids to notes (glo) automatically</change>
@@ -567,36 +568,36 @@
                             <item>1 <hi rend="italic">Of five things requisit in a Bee-garden, the
                                 first is, that it be
                                     nigh
-                                    at hand.</hi><ptr target="#"/></item>
+                                    at hand.</hi><ptr target="#ch2sumn1"/></item>
                             <item>2.<hi rend="italic">That it be safely fenced from cattell and
-                                winds.</hi><ptr target="#"/></item>
+                                winds.</hi><ptr target="#ch2sumn2"/></item>
                             <cb n="2"/>
-                            <item>3 <hi rend="italic">The north &amp; east fences should be high.</hi><ptr target="#"/></item>
+                            <item>3 <hi rend="italic">The north &amp; east fences should be high.</hi><ptr target="#ch2sumn3"/></item>
                             <item>4 <hi rend="italic">The South and West fence must be also good,
                                     but not so high as to
                                     hide
                                     the
-                                    Sunne from the Hives.</hi><ptr target="#"/></item>
-                            <item>5 <hi rend="italic">In rough winds the Bees need a skreene.</hi><ptr target="#"/></item>
-                            <item>6. <hi rend="italic">That it be sweet.</hi><ptr target="#"/></item>
+                                    Sunne from the Hives.</hi><ptr target="#ch2sumn4"/></item>
+                            <item>5 <hi rend="italic">In rough winds the Bees need a skreene.</hi><ptr target="#ch2sumn5"/></item>
+                            <item>6. <hi rend="italic">That it be sweet.</hi><ptr target="#ch2sumn6"/></item>
                             <item>7. <hi rend="italic">Neither very cold in winter, nor hot in
-                                Summer.</hi><ptr target="#"/></item>
+                                Summer.</hi><ptr target="#ch2sumn7"/></item>
                             <item>8 <hi rend="italic">A grassie ground is best, but keept notte and
-                                dry.</hi><ptr target="#"/></item>
-                            <item>9 <hi rend="italic">Beset with trees and bushes.</hi><ptr target="#"/></item>
-                            <item>10 <hi rend="italic">Two sorts of Seats.</hi><ptr target="#"/></item>
-                            <item>11 <hi rend="italic">The benches not so good as single stooles</hi><ptr target="#"/></item>
-                            <item>12 <hi rend="italic">Swarmes may be set on Benches.</hi><ptr target="#"/></item>
-                            <item>13 <hi rend="italic">Woodden Stooles better then they of stone.</hi><ptr target="#"/></item>
-                            <item>14 <hi rend="italic">The size of stooles.</hi><ptr target="#"/></item>
-                            <item>15 <hi rend="italic">Which way the stooles should be set.</hi><ptr target="#"/></item>
-                            <item>16 <hi rend="italic">How neere to each other.</hi><ptr target="#"/></item>
-                            <item>17 <hi rend="italic">How neere to the fences.</hi><ptr target="#"/></item>
-                            <item>18 <hi rend="italic">Annus climactericus.</hi><ptr target="#"/></item>
+                                dry.</hi><ptr target="#ch2sumn8"/></item>
+                            <item>9 <hi rend="italic">Beset with trees and bushes.</hi><ptr target="#ch2sumn9"/></item>
+                            <item>10 <hi rend="italic">Two sorts of Seats.</hi><ptr target="#ch2sumn10"/></item>
+                            <item>11 <hi rend="italic">The benches not so good as single stooles</hi><ptr target="#ch2sumn11"/></item>
+                            <item>12 <hi rend="italic">Swarmes may be set on Benches.</hi><ptr target="#ch2sumn12"/></item>
+                            <item>13 <hi rend="italic">Woodden Stooles better then they of stone.</hi><ptr target="#ch2sumn13"/></item>
+                            <item>14 <hi rend="italic">The size of stooles.</hi><ptr target="#ch2sumn14"/></item>
+                            <item>15 <hi rend="italic">Which way the stooles should be set.</hi><ptr target="#ch2sumn15"/></item>
+                            <item>16 <hi rend="italic">How neere to each other.</hi><ptr target="#ch2sumn16"/></item>
+                            <item>17 <hi rend="italic">How neere to the fences.</hi><ptr target="#ch2sumn17"/></item>
+                            <item>18 <hi rend="italic">Annus climactericus.</hi><ptr target="#ch2sumn18"/></item>
                             <item>19 <hi rend="italic">The Bees Register.</hi>
-                            <ptr target="#"/></item>
-                            <item>20 <hi rend="italic">The stooles height.</hi><ptr target="#"/></item>
-                            <item>21 <hi rend="italic">How to be footed.</hi><ptr target="#"/></item>
+                            <ptr target="#ch2sumn19"/></item>
+                            <item>20 <hi rend="italic">The stooles height.</hi><ptr target="#ch2sumn20"/></item>
+                            <item>21 <hi rend="italic">How to be footed.</hi><ptr target="#ch2sumn21"/></item>
                         </list>
                     </div>
                     <div type="contents-chapter" n="3">
@@ -605,108 +606,108 @@
                             Dressing of
                             them, both before and after Hiving.</head>
                         <list>
-                            <item>1 <hi rend="italic">Two sorts of Hives.</hi><ptr target="#"/></item>
+                            <item>1 <hi rend="italic">Two sorts of Hives.</hi><ptr target="#ch3sumn1"/></item>
                             <item>2 <hi rend="italic">Strawne Hives, with their inconveniences and
-                                remedies.</hi><ptr target="#"/></item>
+                                remedies.</hi><ptr target="#ch3sumn2"/></item>
                             <item>3 <hi rend="italic">Wicker Hives, with their inconveniences and
-                                remedies.</hi><ptr target="#"/></item>
-                            <item>4 <hi rend="italic">Strawne Hives best.</hi><ptr target="#"/></item>
-                            <item>5 <hi rend="italic">The fashion of Hives.</hi><ptr target="#"/></item>
-                            <item>6 <hi rend="italic">The size of Hives.</hi><ptr target="#"/></item>
-                            <item>7 <hi rend="italic">When Hives are to be made &amp; provided.</hi><ptr target="#"/></item>
+                                remedies.</hi><ptr target="#ch3sumn3"/></item>
+                            <item>4 <hi rend="italic">Strawne Hives best.</hi><ptr target="#ch3sumn4"/></item>
+                            <item>5 <hi rend="italic">The fashion of Hives.</hi><ptr target="#ch3sumn5"/></item>
+                            <item>6 <hi rend="italic">The size of Hives.</hi><ptr target="#ch3sumn6"/></item>
+                            <item>7 <hi rend="italic">When Hives are to be made &amp; provided.</hi><ptr target="#ch3sumn7"/></item>
                             <item>8 <hi rend="italic">How Hives are to be dressed before they
                                     receive the
-                                    swarmes.</hi><ptr target="#"/></item>
-                            <item>9 <hi rend="italic">The pruning of Hives.</hi><ptr target="#"/></item>
-                            <item>10 <hi rend="italic">The spraying or spleeting of them.</hi><ptr target="#"/></item>
-                            <item>11 <hi rend="italic">The making of the Cop, and of the Spleets.</hi><ptr target="#"/></item>
-                            <item>12 <hi rend="italic">The seasoning of them.</hi><ptr target="#"/></item>
-                            <item>13 <hi rend="italic">The seasoning of an old Hive.</hi><ptr target="#"/></item>
+                                    swarmes.</hi><ptr target="#ch3sumn8"/></item>
+                            <item>9 <hi rend="italic">The pruning of Hives.</hi><ptr target="#ch3sumn9"/></item>
+                            <item>10 <hi rend="italic">The spraying or spleeting of them.</hi><ptr target="#ch3sumn10"/></item>
+                            <item>11 <hi rend="italic">The making of the Cop, and of the Spleets.</hi><ptr target="#ch3sumn11"/></item>
+                            <item>12 <hi rend="italic">The seasoning of them.</hi><ptr target="#ch3sumn12"/></item>
+                            <item>13 <hi rend="italic">The seasoning of an old Hive.</hi><ptr target="#ch3sumn13"/></item>
                             <item>14 <hi rend="italic">How Hives are to be ordered when the Bees are
                                 in
-                                    them.</hi><ptr target="#"/></item>
+                                    them.</hi><ptr target="#ch3sumn14"/></item>
                             <fw type="catch">
                                 <hi rend="italic">15 The</hi>
                             </fw>
                             <pb n="[A4]r"/>
                             <cb n="1"/>
-                            <item>15 <hi rend="italic">The Hives alwaies well hackled.</hi><ptr target="#"/></item>
-                            <item>14 <hi rend="italic">How to make a Hackle.</hi><ptr target="#"/></item>
-                            <item>17 <hi rend="italic">The Cap of two sorts.</hi><ptr target="#"/></item>
-                            <item>18 <hi rend="italic">The wreathed cap.</hi><ptr target="#"/></item>
-                            <item>19 <hi rend="italic">The platted Cap.</hi><ptr target="#"/></item>
-                            <item>20 <hi rend="italic">The bignesse of the Hackle.</hi><ptr target="#"/></item>
-                            <item>21 <hi rend="italic">The length of it.</hi><ptr target="#"/></item>
-                            <item>22 <hi rend="italic">The Belt or garth.</hi><ptr target="#"/></item>
-                            <item>23 <hi rend="italic">The hackle now &amp; then to be taken off.</hi><ptr target="#"/></item>
-                            <item>24 <hi rend="italic">The Hives alwaies close cloomed.</hi><ptr target="#"/></item>
-                            <item>25 <hi rend="italic">Then seldome to be moved.</hi><ptr target="#"/></item>
+                            <item>15 <hi rend="italic">The Hives alwaies well hackled.</hi><ptr target="#ch3sumn15"/></item>
+                            <item>14 <hi rend="italic">How to make a Hackle.</hi><ptr target="#ch3sumn16"/></item>
+                            <item>17 <hi rend="italic">The Cap of two sorts.</hi><ptr target="#ch3sumn17"/></item>
+                            <item>18 <hi rend="italic">The wreathed cap.</hi><ptr target="#ch3sumn18"/></item>
+                            <item>19 <hi rend="italic">The platted Cap.</hi><ptr target="#ch3sumn19"/></item>
+                            <item>20 <hi rend="italic">The bignesse of the Hackle.</hi><ptr target="#ch3sumn20"/></item>
+                            <item>21 <hi rend="italic">The length of it.</hi><ptr target="#ch3sumn21"/></item>
+                            <item>22 <hi rend="italic">The Belt or garth.</hi><ptr target="#ch3sumn22"/></item>
+                            <item>23 <hi rend="italic">The hackle now &amp; then to be taken off.</hi><ptr target="#ch3sumn23"/></item>
+                            <item>24 <hi rend="italic">The Hives alwaies close cloomed.</hi><ptr target="#ch3sumn24"/></item>
+                            <item>25 <hi rend="italic">Then seldome to be moved.</hi><ptr target="#ch3sumn25"/></item>
                             <item>26 <hi rend="italic">How a Hive lifted up is to be set downe
-                                againe.</hi><ptr target="#"/></item>
-                            <item>27 <hi rend="italic">The Hive-doore.</hi><ptr target="#"/></item>
-                            <item>28 <hi rend="italic">The Gate or Summer-doore.</hi><ptr target="#"/></item>
-                            <item>29 <hi rend="italic">Of the doore posts and the use of them.</hi><ptr target="#"/></item>
-                            <item>30 <hi rend="italic">The Winter-doore, or Wicket.</hi><ptr target="#"/></item>
-                            <item>31 <hi rend="italic">The use of it.</hi><ptr target="#"/></item>
-                            <item>32 <hi rend="italic">The Barre.</hi><ptr target="#"/></item>
-                            <item>33 <hi rend="italic">The use of it.</hi><ptr target="#"/></item>
-                            <item>34 <hi rend="italic">The Settle.</hi><ptr target="#"/></item>
+                                againe.</hi><ptr target="#ch3sumn26"/></item>
+                            <item>27 <hi rend="italic">The Hive-doore.</hi><ptr target="#ch3sumn27"/></item>
+                            <item>28 <hi rend="italic">The Gate or Summer-doore.</hi><ptr target="#ch3sumn28"/></item>
+                            <item>29 <hi rend="italic">Of the doore posts and the use of them.</hi><ptr target="#ch3sumn29"/></item>
+                            <item>30 <hi rend="italic">The Winter-doore, or Wicket.</hi><ptr target="#ch3sumn30"/></item>
+                            <item>31 <hi rend="italic">The use of it.</hi><ptr target="#ch3sumn31"/></item>
+                            <item>32 <hi rend="italic">The Barre.</hi><ptr target="#ch3sumn32"/></item>
+                            <item>33 <hi rend="italic">The use of it.</hi><ptr target="#ch3sumn33"/></item>
+                            <item>34 <hi rend="italic">The Settle.</hi><ptr target="#ch3sumn34"/></item>
                             <item>35 <hi rend="italic">How to order the Bee-hives throughout the
-                                yeere.</hi><ptr target="#"/></item>
+                                yeere.</hi><ptr target="#ch3sumn35"/></item>
                             <item>36 <hi rend="italic">The Moneths and Quarters of the Mellissæan
-                                yeere.</hi><ptr target="#"/></item>
-                            <item>37 SUMMER.<ptr target="#"/></item>
+                                yeere.</hi><ptr target="#ch3sumn36"/></item>
+                            <item>37 SUMMER.<ptr target="#ch3sumn37"/></item>
                             <item>38 <hi rend="italic">In</hi> GEMINI <hi rend="italic">set the
                                 Doores wide
-                                    open.</hi><ptr target="#"/></item>
-                            <item>39 CANCER.<ptr target="#"/></item>
-                            <item>40 <hi rend="italic">To make the Bees swarme.</hi><ptr target="#"/></item>
-                            <item>41 <hi rend="italic">To keepe them from swarming.</hi><ptr target="#"/></item>
-                            <item>42 LEO.<ptr target="#"/></item>
-                            <item>43 <hi rend="italic">How and when to kill the Drones.</hi><ptr target="#"/></item>
-                            <item>44 HARVEST.<ptr target="#"/></item>
-                            <item>45 VIRGO.<ptr target="#"/></item>
-                            <item>46 <hi rend="italic">To keepe the weaker Hives from robbing.</hi><ptr target="#"/></item>
-                            <item>47 <hi rend="italic">Set up the Winter-doores.</hi><ptr target="#"/></item>
+                                    open.</hi><ptr target="#ch3sumn38"/></item>
+                            <item>39 CANCER.<ptr target="#ch3sumn39"/></item>
+                            <item>40 <hi rend="italic">To make the Bees swarme.</hi><ptr target="#ch3sumn40"/></item>
+                            <item>41 <hi rend="italic">To keepe them from swarming.</hi><ptr target="#ch3sumn41"/></item>
+                            <item>42 LEO.<ptr target="#ch3sumn42"/></item>
+                            <item>43 <hi rend="italic">How and when to kill the Drones.</hi><ptr target="#ch3sumn43"/></item>
+                            <item>44 HARVEST.<ptr target="#ch3sumn44"/></item>
+                            <item>45 VIRGO.<ptr target="#ch3sumn45"/></item>
+                            <item>46 <hi rend="italic">To keepe the weaker Hives from robbing.</hi><ptr target="#ch3sumn46"/></item>
+                            <item>47 <hi rend="italic">Set up the Winter-doores.</hi><ptr target="#ch3sumn47"/></item>
                             <item>48 <hi rend="italic">And keepe them shut till they offer to goe
-                                abroad.</hi><ptr target="#"/></item>
+                                abroad.</hi><ptr target="#ch3sumn48"/></item>
                             <item>49 <hi rend="italic">The reared stalles now to be set downe
-                                    againe.</hi><ptr target="#"/></item>
-                            <item>50 <hi rend="italic">In Virgo try whether the Bees will live.</hi><ptr target="#"/></item>
-                            <item>51 <hi rend="italic">Now take the combes.</hi><ptr target="#"/></item>
-                            <item>52 LIBRA.<ptr target="#"/></item>
-                            <item>53 <hi rend="italic">Try them again in Libra also.</hi><ptr target="#"/></item>
+                                    againe.</hi><ptr target="#ch3sumn49"/></item>
+                            <item>50 <hi rend="italic">In Virgo try whether the Bees will live.</hi><ptr target="#ch3sumn50"/></item>
+                            <item>51 <hi rend="italic">Now take the combes.</hi><ptr target="#ch3sumn51"/></item>
+                            <item>52 LIBRA.<ptr target="#ch3sumn52"/></item>
+                            <item>53 <hi rend="italic">Try them again in Libra also.</hi><ptr target="#ch3sumn53"/></item>
                             <item>54 <hi rend="italic">Now set up the Wickets to the best, &amp; <cb n="2"/> keepe the rest shut till the Bees offer to goe
-                                abroad.</hi><ptr target="#"/></item>
-                            <item>55 SCORPIO. <ptr target="#"/></item>
+                                abroad.</hi><ptr target="#ch3sumn54"/></item>
+                            <item>55 SCORPIO. <ptr target="#ch3sumn55"/></item>
                             <item>56 <hi rend="italic">Continue the shutting and opening of the
                                 Wickets this
-                                    moneth also.</hi><ptr target="#"/></item>
-                            <item>57 <hi rend="italic">How to dresse the Hives for Winter.</hi><ptr target="#"/></item>
-                            <item>58 WINTER.<ptr target="#"/></item>
+                                    moneth also.</hi><ptr target="#ch3sumn56"/></item>
+                            <item>57 <hi rend="italic">How to dresse the Hives for Winter.</hi><ptr target="#ch3sumn57"/></item>
+                            <item>58 WINTER.<ptr target="#ch3sumn58"/></item>
                             <item>59 SAGIT. CAPRIC. AQUAR. three <hi rend="italic">still</hi>
-                                moneths. <ptr target="#"/></item>
-                            <item>60 <hi rend="italic">How the Bees spend their time in them.</hi><ptr target="#"/></item>
+                                moneths. <ptr target="#ch3sumn59"/></item>
+                            <item>60 <hi rend="italic">How the Bees spend their time in them.</hi><ptr target="#ch3sumn60"/></item>
                             <item>61 <hi rend="italic">The first sharpe weather in Capr. shut the
-                                Bees in.</hi><ptr target="#"/></item>
+                                Bees in.</hi><ptr target="#ch3sumn61"/></item>
                             <item>62 <hi rend="italic">And in pleasant weather let them loose, if it
                                 may be,
                                     once a
-                                    fortnight.</hi><ptr target="#"/></item>
-                            <item>63 <hi rend="italic">The</hi> SPRING.<ptr target="#"/></item>
-                            <item>64 PISCES.<ptr target="#"/></item>
+                                    fortnight.</hi><ptr target="#ch3sumn62"/></item>
+                            <item>63 <hi rend="italic">The</hi> SPRING.<ptr target="#ch3sumn63"/></item>
+                            <item>64 PISCES.<ptr target="#ch3sumn64"/></item>
                             <item>65 <hi rend="italic">The first faire day in Pisces, set your Bees
                                 at
-                                    liberty.</hi><ptr target="#"/></item>
-                            <item>66 <hi rend="italic">Now dresse their Troughs.</hi><ptr target="#"/></item>
-                            <item>67 <hi rend="italic">Cleanse the Stools.</hi><ptr target="#"/></item>
-                            <item>68 <hi rend="italic">And feed or drive light stalls.</hi><ptr target="#"/></item>
-                            <item>69 ARIES.<ptr target="#"/></item>
-                            <item>70 <hi rend="italic">The second chiefe robbing-time</hi><ptr target="#"/></item>
+                                    liberty.</hi><ptr target="#ch3sumn65"/></item>
+                            <item>66 <hi rend="italic">Now dresse their Troughs.</hi><ptr target="#ch3sumn66"/></item>
+                            <item>67 <hi rend="italic">Cleanse the Stools.</hi><ptr target="#ch3sumn67"/></item>
+                            <item>68 <hi rend="italic">And feed or drive light stalls.</hi><ptr target="#ch3sumn68"/></item>
+                            <item>69 ARIES.<ptr target="#ch3sumn69"/></item>
+                            <item>70 <hi rend="italic">The second chiefe robbing-time</hi><ptr target="#ch3sumn70"/></item>
                             <item>71 <hi rend="italic">In</hi> TAUR: <hi rend="italic">remove the
-                                Barres.</hi><ptr target="#"/></item>
+                                Barres.</hi><ptr target="#ch3sumn71"/></item>
                             <item>72 <hi rend="italic">In</hi> GEMINI <hi rend="italic">the
-                                Winter-doores.</hi><ptr target="#"/></item>
+                                Winter-doores.</hi><ptr target="#ch3sumn72"/></item>
                         </list>
                     </div>
                     <div type="contents-chapter" n="4">
@@ -715,67 +716,67 @@
                             and
                             concerning the Drone.</head>
                         <list>
-                            <item>1 <hi rend="italic">The Drone no labourer.</hi><ptr target="#"/></item>
-                            <item>2 <hi rend="italic">Divers opinions of the Drones originall.</hi><ptr target="#"/></item>
-                            <item>3 <hi rend="italic">The Drone is the Male-Bee.</hi><ptr target="#"/></item>
+                            <item>1 <hi rend="italic">The Drone no labourer.</hi><ptr target="#ch4sumn1"/></item>
+                            <item>2 <hi rend="italic">Divers opinions of the Drones originall.</hi><ptr target="#ch4sumn2"/></item>
+                            <item>3 <hi rend="italic">The Drone is the Male-Bee.</hi><ptr target="#ch4sumn3"/></item>
                             <item>4 <hi rend="italic">Divers reasons proving the Drone to be the
                                 Male. The
                                     first reason
                                     is,
                                     that they
-                                    are suffered in breeding-time onely.</hi><ptr target="#"/></item>
+                                    are suffered in breeding-time onely.</hi><ptr target="#ch4sumn4"/></item>
                             <item>5 <hi rend="italic">The second reason is that, the Drones being
                                 taken away
                                     in
                                     breeding-time, the
-                                    Bees breed no more.</hi><ptr target="#"/></item>
+                                    Bees breed no more.</hi><ptr target="#ch4sumn5"/></item>
                             <item>6 <hi rend="italic">The third reason is, that they are bred by the
-                                Bees.</hi><ptr target="#"/></item>
+                                Bees.</hi><ptr target="#ch4sumn6"/></item>
                             <item>7 <hi rend="italic">The fourth reason is, that Wasps and Dorres
                                 have
                                     Drones, which are
-                                    their males.</hi><ptr target="#"/></item>
-                            <item>8 <hi rend="italic">The breeding of Wasps by Drones.</hi><ptr target="#"/></item>
+                                    their males.</hi><ptr target="#ch4sumn7"/></item>
+                            <item>8 <hi rend="italic">The breeding of Wasps by Drones.</hi><ptr target="#ch4sumn8"/></item>
                             <fw type="catch">
                                 <hi rend="italic">9 The</hi>
                             </fw>
                             <pb n="[A4]v"/>
                             <cb n="1"/>
-                            <item>9 <hi rend="italic">The breeding of Dorres by Drones.</hi><ptr target="#"/></item>
+                            <item>9 <hi rend="italic">The breeding of Dorres by Drones.</hi><ptr target="#ch4sumn9"/></item>
                             <item>10 <hi rend="italic">the fift reason is the apparent signes of
-                                their Sex.</hi><ptr target="#"/></item>
-                            <item>11 Aristotles <hi rend="italic">objections answered.</hi><ptr target="#"/></item>
-                            <item>12 <hi rend="italic">When the Bees begin to breed.</hi><ptr target="#"/></item>
-                            <item>13 <hi rend="italic">The chiefe time of breeding.</hi><ptr target="#"/></item>
-                            <item>14 <hi rend="italic">The first breed are females.</hi><ptr target="#"/></item>
-                            <item>15 <hi rend="italic">The manner of their breeding.</hi><ptr target="#"/></item>
-                            <item>16 <hi rend="italic">The Bee-seed is first turned into a Worme.</hi><ptr target="#"/></item>
+                                their Sex.</hi><ptr target="#ch4sumn10"/></item>
+                            <item>11 Aristotles <hi rend="italic">objections answered.</hi><ptr target="#ch4sumn11"/></item>
+                            <item>12 <hi rend="italic">When the Bees begin to breed.</hi><ptr target="#ch4sumn12"/></item>
+                            <item>13 <hi rend="italic">The chiefe time of breeding.</hi><ptr target="#ch4sumn13"/></item>
+                            <item>14 <hi rend="italic">The first breed are females.</hi><ptr target="#ch4sumn14"/></item>
+                            <item>15 <hi rend="italic">The manner of their breeding.</hi><ptr target="#ch4sumn15"/></item>
+                            <item>16 <hi rend="italic">The Bee-seed is first turned into a Worme.</hi><ptr target="#ch4sumn16"/></item>
                             <item>17 <hi rend="italic">The Worme being dead groweth to the shape of
                                     a Bee,
                                     and then liveth
-                                    againe.</hi><ptr target="#"/></item>
-                            <item>18 <hi rend="italic">The breeding of the Lady-Bees.</hi><ptr target="#"/></item>
-                            <item>19 <hi rend="italic">When the Drones are bred.</hi><ptr target="#"/></item>
-                            <item>20 <hi rend="italic">When they come abroad.</hi><ptr target="#"/></item>
-                            <item>21 <hi rend="italic">Two uses of the Drones.</hi><ptr target="#"/></item>
-                            <item>22 <hi rend="italic">Where they lie.</hi><ptr target="#"/></item>
-                            <item>23 <hi rend="italic">The male-Bees are subject to the females.</hi><ptr target="#"/></item>
+                                    againe.</hi><ptr target="#ch4sumn17"/></item>
+                            <item>18 <hi rend="italic">The breeding of the Lady-Bees.</hi><ptr target="#ch4sumn18"/></item>
+                            <item>19 <hi rend="italic">When the Drones are bred.</hi><ptr target="#ch4sumn19"/></item>
+                            <item>20 <hi rend="italic">When they come abroad.</hi><ptr target="#ch4sumn20"/></item>
+                            <item>21 <hi rend="italic">Two uses of the Drones.</hi><ptr target="#ch4sumn21"/></item>
+                            <item>22 <hi rend="italic">Where they lie.</hi><ptr target="#ch4sumn22"/></item>
+                            <item>23 <hi rend="italic">The male-Bees are subject to the females.</hi><ptr target="#ch4sumn23"/></item>
                             <item>24 <hi rend="italic">When the Bees leave breeding, and beat away
                                 their
-                                    Drones.</hi><ptr target="#"/></item>
-                            <item>25 <hi rend="italic">The Bees compared to the</hi> Amazons.<ptr target="#"/></item>
-                            <item>26 <hi rend="italic">They rid not their Drones all at once.</hi><ptr target="#"/></item>
-                            <item>27 <hi rend="italic">When forward stalls begin.</hi><ptr target="#"/></item>
-                            <item>28 <hi rend="italic">When the backward.</hi><ptr target="#"/></item>
-                            <item>29 <hi rend="italic">When full stockes that have not swarmed.</hi><ptr target="#"/></item>
-                            <item>30 <hi rend="italic">When those that are over-swarmed.</hi><ptr target="#"/></item>
+                                    Drones.</hi><ptr target="#ch4sumn24"/></item>
+                            <item>25 <hi rend="italic">The Bees compared to the</hi> Amazons.<ptr target="#ch4sumn25"/></item>
+                            <item>26 <hi rend="italic">They rid not their Drones all at once.</hi><ptr target="#ch4sumn26"/></item>
+                            <item>27 <hi rend="italic">When forward stalls begin.</hi><ptr target="#ch4sumn27"/></item>
+                            <item>28 <hi rend="italic">When the backward.</hi><ptr target="#ch4sumn28"/></item>
+                            <item>29 <hi rend="italic">When full stockes that have not swarmed.</hi><ptr target="#ch4sumn29"/></item>
+                            <item>30 <hi rend="italic">When those that are over-swarmed.</hi><ptr target="#ch4sumn30"/></item>
                             <item>31 <hi rend="italic">Sometime the Bees cast out even the white
-                                Cephens.</hi><ptr target="#"/></item>
-                            <item>32 <hi rend="italic">Timely ridding of Drones a good signe.</hi><ptr target="#"/></item>
-                            <item>33 <hi rend="italic">Sometime they rid their Drones in the Spring.</hi><ptr target="#"/></item>
-                            <item>34 <hi rend="italic">And afterward beed new againe.</hi><ptr target="#"/></item>
+                                Cephens.</hi><ptr target="#ch4sumn31"/></item>
+                            <item>32 <hi rend="italic">Timely ridding of Drones a good signe.</hi><ptr target="#ch4sumn32"/></item>
+                            <item>33 <hi rend="italic">Sometime they rid their Drones in the Spring.</hi><ptr target="#ch4sumn33"/></item>
+                            <item>34 <hi rend="italic">And afterward beed new againe.</hi><ptr target="#ch4sumn34"/></item>
                             <item>35 <hi rend="italic">Sometime it is good to helpe the Bees in this
-                                worke.</hi><ptr target="#"/></item>
+                                worke.</hi><ptr target="#ch4sumn35"/></item>
                         </list>
                     </div>
                     <div type="contents-chapter" n="5">
@@ -784,364 +785,364 @@
                             and the
                             Hiving of them.</head>
                         <list>
-                            <item>1 <hi rend="italic">The parts of a swarme.</hi><ptr target="#"/></item>
-                            <item>2 <hi rend="italic">When you may see the Queen-bee.</hi><ptr target="#"/></item>
-                            <item>3 <hi rend="italic">The swarme no younger than the stocke.</hi><ptr target="#"/></item>
-                            <item>4 <hi rend="italic">Many Drones in a swarm a good signe.</hi><ptr target="#"/></item>
-                            <item>5 <hi rend="italic">A kinde spring for swarmes.</hi><ptr target="#"/></item>
-                            <item>6 <hi rend="italic">Swarming weather.</hi><ptr target="#"/></item>
+                            <item>1 <hi rend="italic">The parts of a swarme.</hi><ptr target="#ch5sumn1"/></item>
+                            <item>2 <hi rend="italic">When you may see the Queen-bee.</hi><ptr target="#ch5sumn2"/></item>
+                            <item>3 <hi rend="italic">The swarme no younger than the stocke.</hi><ptr target="#ch5sumn3"/></item>
+                            <item>4 <hi rend="italic">Many Drones in a swarm a good signe.</hi><ptr target="#ch5sumn4"/></item>
+                            <item>5 <hi rend="italic">A kinde spring for swarmes.</hi><ptr target="#ch5sumn5"/></item>
+                            <item>6 <hi rend="italic">Swarming weather.</hi><ptr target="#ch5sumn6"/></item>
                             <cb n="2"/>
-                            <item>7 <hi rend="italic">The swarming-houres.</hi><ptr target="#"/></item>
-                            <item>8 <hi rend="italic">The two swarming moneths.</hi><ptr target="#"/></item>
-                            <item>9 <hi rend="italic">Rathe swarmes.</hi><ptr target="#"/></item>
-                            <item>10 <hi rend="italic">Late swarmes.</hi><ptr target="#"/></item>
-                            <item>11 <hi rend="italic">Black-berie swarmes are seldome to be kept.</hi><ptr target="#"/></item>
-                            <item>12 <hi rend="italic">A prime swarme &amp; an after swarme.</hi><ptr target="#"/></item>
-                            <item>13 <hi rend="italic">A stalle may cast foure times.</hi><ptr target="#"/></item>
-                            <item>14 <hi rend="italic">Divers causes of breaking the prime swarme.</hi><ptr target="#"/></item>
-                            <item>15 <hi rend="italic">One prime swarme worth two after-swarmes.</hi><ptr target="#"/></item>
+                            <item>7 <hi rend="italic">The swarming-houres.</hi><ptr target="#ch5sumn7"/></item>
+                            <item>8 <hi rend="italic">The two swarming moneths.</hi><ptr target="#ch5sumn8"/></item>
+                            <item>9 <hi rend="italic">Rathe swarmes.</hi><ptr target="#ch5sumn9"/></item>
+                            <item>10 <hi rend="italic">Late swarmes.</hi><ptr target="#ch5sumn10"/></item>
+                            <item>11 <hi rend="italic">Black-berie swarmes are seldome to be kept.</hi><ptr target="#ch5sumn11"/></item>
+                            <item>12 <hi rend="italic">A prime swarme &amp; an after swarme.</hi><ptr target="#ch5sumn12"/></item>
+                            <item>13 <hi rend="italic">A stalle may cast foure times.</hi><ptr target="#ch5sumn13"/></item>
+                            <item>14 <hi rend="italic">Divers causes of breaking the prime swarme.</hi><ptr target="#ch5sumn14"/></item>
+                            <item>15 <hi rend="italic">One prime swarme worth two after-swarmes.</hi><ptr target="#ch5sumn15"/></item>
                             <item>16 <hi rend="italic">The vulgar Bees appoint the rising of the
                                 fore-swarmes, and that
                                     upon
                                     foure
-                                    grounds.</hi><ptr target="#"/></item>
-                            <item>17 <hi rend="italic">Five signes of the first swarming</hi><ptr target="#"/></item>
-                            <item>18 <hi rend="italic">The signes of present swarming.</hi><ptr target="#"/></item>
+                                    grounds.</hi><ptr target="#ch5sumn16"/></item>
+                            <item>17 <hi rend="italic">Five signes of the first swarming</hi><ptr target="#ch5sumn17"/></item>
+                            <item>18 <hi rend="italic">The signes of present swarming.</hi><ptr target="#ch5sumn18"/></item>
                             <item>19 <hi rend="italic">To lie forth continually is a signe they will
                                 not
-                                    swarme.</hi><ptr target="#"/></item>
-                            <item>20 <hi rend="italic">The causes of their lying forth.</hi><ptr target="#"/></item>
-                            <item>21 <hi rend="italic">The remedy and meanes to make them swarme.</hi><ptr target="#"/></item>
+                                    swarme.</hi><ptr target="#ch5sumn19"/></item>
+                            <item>20 <hi rend="italic">The causes of their lying forth.</hi><ptr target="#ch5sumn20"/></item>
+                            <item>21 <hi rend="italic">The remedy and meanes to make them swarme.</hi><ptr target="#ch5sumn21"/></item>
                             <item>22 <hi rend="italic">What is to be done to those that by no meanes
                                 will
-                                    swarme.</hi><ptr target="#"/></item>
-                            <item>23 <hi rend="italic">How to replenish an over-swarmer.</hi><ptr target="#"/></item>
-                            <item>24 <hi rend="italic">How to double a stall.</hi><ptr target="#"/></item>
+                                    swarme.</hi><ptr target="#ch5sumn22"/></item>
+                            <item>23 <hi rend="italic">How to replenish an over-swarmer.</hi><ptr target="#ch5sumn23"/></item>
+                            <item>24 <hi rend="italic">How to double a stall.</hi><ptr target="#ch5sumn24"/></item>
                             <item>25 <hi rend="italic">How to drive all the Bees into the new hive,
                                 and so
-                                    take the old.</hi><ptr target="#"/></item>
-                            <item>26 <hi rend="italic">The signes of after-swarmes.</hi><ptr target="#"/></item>
+                                    take the old.</hi><ptr target="#ch5sumn25"/></item>
+                            <item>26 <hi rend="italic">The signes of after-swarmes.</hi><ptr target="#ch5sumn26"/></item>
                             <item>27 <hi rend="italic">The rising of the after-swarmes is appointed
                                 by the
-                                    Rulers.</hi><ptr target="#"/></item>
-                            <item>28 <hi rend="italic">The Bees Musicke.</hi><ptr target="#"/></item>
-                            <item>29 <hi rend="italic">The Princes part.</hi><ptr target="#"/></item>
-                            <item>30 <hi rend="italic">The Queenes part.</hi><ptr target="#"/></item>
-                            <item>31 <hi rend="italic">The other Ladies parts.</hi><ptr target="#"/></item>
-                            <item>32 <hi rend="italic">In the Bees song are the grounds of musicke.</hi><ptr target="#"/></item>
+                                    Rulers.</hi><ptr target="#ch5sumn27"/></item>
+                            <item>28 <hi rend="italic">The Bees Musicke.</hi><ptr target="#ch5sumn28"/></item>
+                            <item>29 <hi rend="italic">The Princes part.</hi><ptr target="#ch5sumn29"/></item>
+                            <item>30 <hi rend="italic">The Queenes part.</hi><ptr target="#ch5sumn30"/></item>
+                            <item>31 <hi rend="italic">The other Ladies parts.</hi><ptr target="#ch5sumn31"/></item>
+                            <item>32 <hi rend="italic">In the Bees song are the grounds of musicke.</hi><ptr target="#ch5sumn32"/></item>
                             <item>33 <hi rend="italic">Before swarming the voices come downe to the
-                                stoole.</hi><ptr target="#"/></item>
-                            <item>34 <hi rend="italic">The manner of their swarming.</hi><ptr target="#"/></item>
+                                stoole.</hi><ptr target="#ch5sumn33"/></item>
+                            <item>34 <hi rend="italic">The manner of their swarming.</hi><ptr target="#ch5sumn34"/></item>
                             <item>35 <hi rend="italic">The prime swarme being broken, the next may
                                 call and
                                     swarme within
                                     the
                                     eighth
-                                    day.</hi><ptr target="#"/></item>
+                                    day.</hi><ptr target="#ch5sumn35"/></item>
                             <item>36 <hi rend="italic">All the swarmes of one hive come within a
-                                fortnight.</hi><ptr target="#"/></item>
-                            <item>37 <hi rend="italic">What use there is of tinging the swarm.</hi><ptr target="#"/></item>
-                            <item>38 <hi rend="italic">What to doe when a swarme bee wayward.</hi><ptr target="#"/></item>
+                                fortnight.</hi><ptr target="#ch5sumn36"/></item>
+                            <item>37 <hi rend="italic">What use there is of tinging the swarm.</hi><ptr target="#ch5sumn37"/></item>
+                            <item>38 <hi rend="italic">What to doe when a swarme bee wayward.</hi><ptr target="#ch5sumn38"/></item>
                             <fw type="catch">
                                 <hi rend="italic">39 Some</hi>
                             </fw>
                             <pb n="A4r"/>
                             <cb n="1"/>
-                            <item>39 <hi rend="italic">Some swarmes provide them houses aforehand.</hi><ptr target="#"/></item>
+                            <item>39 <hi rend="italic">Some swarmes provide them houses aforehand.</hi><ptr target="#ch5sumn39"/></item>
                             <item>40 <hi rend="italic">And then they flie away directly to the
-                                    place.</hi><ptr target="#"/></item>
+                                    place.</hi><ptr target="#ch5sumn40"/></item>
                             <item>41 <hi rend="italic">Vacua alvearia stent semper parata in
-                                    apiario.</hi><ptr target="#"/></item>
-                            <item>42 <hi rend="italic">The hiving of Bees.</hi><ptr target="#"/></item>
-                            <item>43 <hi rend="italic">When they are to be hived.</hi><ptr target="#"/></item>
+                                    apiario.</hi><ptr target="#ch5sumn41"/></item>
+                            <item>42 <hi rend="italic">The hiving of Bees.</hi><ptr target="#ch5sumn42"/></item>
+                            <item>43 <hi rend="italic">When they are to be hived.</hi><ptr target="#ch5sumn43"/></item>
                             <item>44 <hi rend="italic">The token of their flying away after they bee
-                                setled.</hi><ptr target="#"/></item>
-                            <item>45 <hi rend="italic">How to fit the Hives to the swarmes.</hi><ptr target="#"/></item>
+                                setled.</hi><ptr target="#ch5sumn44"/></item>
+                            <item>45 <hi rend="italic">How to fit the Hives to the swarmes.</hi><ptr target="#ch5sumn45"/></item>
                             <item>46 <hi rend="italic">Better to under-hive a stall then to
-                                    over-hive him.</hi><ptr target="#"/></item>
-                            <item>47 <hi rend="italic">Three things requisite to hiving.</hi><ptr target="#"/></item>
-                            <item>48 <hi rend="italic">The Mantle.</hi><ptr target="#"/></item>
-                            <item>49 <hi rend="italic">The single Rest.</hi><ptr target="#"/></item>
-                            <item>50 <hi rend="italic">The double rest.</hi><ptr target="#"/></item>
-                            <item>51 <hi rend="italic">The brush.</hi><ptr target="#"/></item>
-                            <item>52 <hi rend="italic">What the Hiver must doe.</hi><ptr target="#"/></item>
-                            <item>53 <hi rend="italic">The manner of Hiving.</hi><ptr target="#"/></item>
-                            <item>54 <hi rend="italic">Foure meanes of hiving a Swarme.</hi><ptr target="#"/></item>
+                                    over-hive him.</hi><ptr target="#ch5sumn46"/></item>
+                            <item>47 <hi rend="italic">Three things requisite to hiving.</hi><ptr target="#ch5sumn47"/></item>
+                            <item>48 <hi rend="italic">The Mantle.</hi><ptr target="#ch5sumn48"/></item>
+                            <item>49 <hi rend="italic">The single Rest.</hi><ptr target="#ch5sumn49"/></item>
+                            <item>50 <hi rend="italic">The double rest.</hi><ptr target="#ch5sumn50"/></item>
+                            <item>51 <hi rend="italic">The brush.</hi><ptr target="#ch5sumn51"/></item>
+                            <item>52 <hi rend="italic">What the Hiver must doe.</hi><ptr target="#ch5sumn52"/></item>
+                            <item>53 <hi rend="italic">The manner of Hiving.</hi><ptr target="#ch5sumn53"/></item>
+                            <item>54 <hi rend="italic">Foure meanes of hiving a Swarme.</hi><ptr target="#ch5sumn54"/></item>
                             <item>55 <hi rend="italic">Howe to hive a Swarme that lighteth upon a
-                                bough.</hi><ptr target="#"/></item>
-                            <item>56 <hi rend="italic">Either high.</hi><ptr target="#"/></item>
-                            <item>57 <hi rend="italic">Or low.</hi><ptr target="#"/></item>
-                            <item>58 <hi rend="italic">How if it light upon a high tree.</hi><ptr target="#"/></item>
-                            <item>59 <hi rend="italic">How if it light upon the body of a tree.</hi><ptr target="#"/></item>
-                            <item>60 <hi rend="italic">How if it light upon the top of any thing.</hi><ptr target="#"/></item>
+                                bough.</hi><ptr target="#ch5sumn55"/></item>
+                            <item>56 <hi rend="italic">Either high.</hi><ptr target="#ch5sumn56"/></item>
+                            <item>57 <hi rend="italic">Or low.</hi><ptr target="#ch5sumn57"/></item>
+                            <item>58 <hi rend="italic">How if it light upon a high tree.</hi><ptr target="#ch5sumn58"/></item>
+                            <item>59 <hi rend="italic">How if it light upon the body of a tree.</hi><ptr target="#ch5sumn59"/></item>
+                            <item>60 <hi rend="italic">How if it light upon the top of any thing.</hi><ptr target="#ch5sumn60"/></item>
                             <item>61 <hi rend="italic">How if it light in the middle of a dead
-                                    hedge.</hi><ptr target="#"/></item>
+                                    hedge.</hi><ptr target="#ch5sumn61"/></item>
                             <item>62 <hi rend="italic">How if it light on some hollow side of a stub
                                 or
-                                    tree.</hi><ptr target="#"/></item>
-                            <item>63 <hi rend="italic">How if it flie into a hollow tree.</hi><ptr target="#"/></item>
-                            <item>64 <hi rend="italic">How if it light upon another Hive.</hi><ptr target="#"/></item>
+                                    tree.</hi><ptr target="#ch5sumn62"/></item>
+                            <item>63 <hi rend="italic">How if it flie into a hollow tree.</hi><ptr target="#ch5sumn63"/></item>
+                            <item>64 <hi rend="italic">How if it light upon another Hive.</hi><ptr target="#ch5sumn64"/></item>
                             <item>65 <hi rend="italic">The swarme is alwaies to be kept together,
                                 lest the
                                     Bees kill one
                                     an
-                                    other.</hi><ptr target="#"/></item>
-                            <item>66 <hi rend="italic">The swarme to be set neere the lighting-place</hi><ptr target="#"/></item>
-                            <item>67 <hi rend="italic">What to do if a swarme part.</hi><ptr target="#"/></item>
-                            <item>68 <hi rend="italic">Uniting of swarmes is profitable.</hi><ptr target="#"/></item>
-                            <item>69 <hi rend="italic">The manner of uniting.</hi><ptr target="#"/></item>
-                            <item>70 <hi rend="italic">Another way.</hi><ptr target="#"/></item>
+                                    other.</hi><ptr target="#ch5sumn65"/></item>
+                            <item>66 <hi rend="italic">The swarme to be set neere the lighting-place</hi><ptr target="#ch5sumn66"/></item>
+                            <item>67 <hi rend="italic">What to do if a swarme part.</hi><ptr target="#ch5sumn67"/></item>
+                            <item>68 <hi rend="italic">Uniting of swarmes is profitable.</hi><ptr target="#ch5sumn68"/></item>
+                            <item>69 <hi rend="italic">The manner of uniting.</hi><ptr target="#ch5sumn69"/></item>
+                            <item>70 <hi rend="italic">Another way.</hi><ptr target="#ch5sumn70"/></item>
                             <item>71 <hi rend="italic">Two speciall inconveniences to bee avoided in
                                 this
-                                    worke.</hi><ptr target="#"/></item>
-                            <item>72 1.<hi rend="italic">Superfluous multitude.</hi><ptr target="#"/></item>
-                            <item>73 2.<hi rend="italic">Civill Warre.</hi><ptr target="#"/></item>
-                            <item>74 <hi rend="italic">To prevent the first.</hi><ptr target="#"/></item>
-                            <item>75 <hi rend="italic">To prevent the second.</hi><ptr target="#"/></item>
-                            <item>76 <hi rend="italic">When most danger is.</hi><ptr target="#"/></item>
-                            <item>77 <hi rend="italic">A storie of a deadly feud.</hi><ptr target="#"/></item>
-                            <item>78 <hi rend="italic">The causes of a swarmes going home againe.</hi><ptr target="#"/></item>
-                            <item>79 <hi rend="italic">How to stay them.</hi><ptr target="#"/></item>
-                            <item>80 <hi rend="italic">How to keepe them from other Hives.</hi><ptr target="#"/></item>
+                                    worke.</hi><ptr target="#ch5sumn71"/></item>
+                            <item>72 1.<hi rend="italic">Superfluous multitude.</hi><ptr target="#ch5sumn72"/></item>
+                            <item>73 2.<hi rend="italic">Civill Warre.</hi><ptr target="#ch5sumn73"/></item>
+                            <item>74 <hi rend="italic">To prevent the first.</hi><ptr target="#ch5sumn74"/></item>
+                            <item>75 <hi rend="italic">To prevent the second.</hi><ptr target="#ch5sumn75"/></item>
+                            <item>76 <hi rend="italic">When most danger is.</hi><ptr target="#ch5sumn76"/></item>
+                            <item>77 <hi rend="italic">A storie of a deadly feud.</hi><ptr target="#ch5sumn77"/></item>
+                            <item>78 <hi rend="italic">The causes of a swarmes going home againe.</hi><ptr target="#ch5sumn78"/></item>
+                            <item>79 <hi rend="italic">How to stay them.</hi><ptr target="#ch5sumn79"/></item>
+                            <item>80 <hi rend="italic">How to keepe them from other Hives.</hi><ptr target="#ch5sumn80"/></item>
                             <cb n="2"/>
                             <item>81 <hi rend="italic">Set not a swarme neere an others
-                                    hiving-place.</hi><ptr target="#"/></item>
-                            <item>82 <hi rend="italic">What to doe when the swarme is new hived.</hi><ptr target="#"/></item>
-                            <item>83 <hi rend="italic">How to remove it in the evening.</hi><ptr target="#"/></item>
-                            <item>84 <hi rend="italic">How to set it on his seat.</hi><ptr target="#"/></item>
-                            <item>85 <hi rend="italic">How to use it in the morning.</hi><ptr target="#"/></item>
+                                    hiving-place.</hi><ptr target="#ch5sumn81"/></item>
+                            <item>82 <hi rend="italic">What to doe when the swarme is new hived.</hi><ptr target="#ch5sumn82"/></item>
+                            <item>83 <hi rend="italic">How to remove it in the evening.</hi><ptr target="#ch5sumn83"/></item>
+                            <item>84 <hi rend="italic">How to set it on his seat.</hi><ptr target="#ch5sumn84"/></item>
+                            <item>85 <hi rend="italic">How to use it in the morning.</hi><ptr target="#ch5sumn85"/></item>
                             <item>86 <hi rend="italic">Foule weather the first day doth much
                                 discourage a
-                                    swarme.</hi><ptr target="#"/></item>
+                                    swarme.</hi><ptr target="#ch5sumn86"/></item>
                             <item>87 <hi rend="italic">Foule weather continuing doth make it droupe
-                                and die.</hi><ptr target="#"/></item>
-                            <item>88 <hi rend="italic">A swarme may live six daies without Honie.</hi><ptr target="#"/></item>
+                                and die.</hi><ptr target="#ch5sumn87"/></item>
+                            <item>88 <hi rend="italic">A swarme may live six daies without Honie.</hi><ptr target="#ch5sumn88"/></item>
                             <item>89 <hi rend="italic">How to prevent the drouping and death of a
-                                swarme.</hi><ptr target="#"/></item>
-                            <item>90 <hi rend="italic">How to cure a drouping Swarme.</hi><ptr target="#"/></item>
+                                swarme.</hi><ptr target="#ch5sumn89"/></item>
+                            <item>90 <hi rend="italic">How to cure a drouping Swarme.</hi><ptr target="#ch5sumn90"/></item>
                         </list>
                     </div>
                     <div type="contents-chapter" n="6">
                         <head type="sectionTitle">The Contents of the sixt Chapter, concerning the
                             Bees worke.</head>
                         <list>
-                            <item>1 <hi rend="italic">Bees most industrious creatures.</hi><ptr target="#"/></item>
-                            <item>2 <hi rend="italic">In three moneths they cannot worke.</hi><ptr target="#"/></item>
-                            <item>3 <hi rend="italic">All the yeere after they lose no time.</hi><ptr target="#"/></item>
-                            <item>4 <hi rend="italic">Three fruits of Bees labour.</hi><ptr target="#"/></item>
-                            <item>5 <hi rend="italic">The first and ground of all is Wax.</hi><ptr target="#"/></item>
-                            <item>6 <hi rend="italic">How Wax is gathered and wrought.</hi><ptr target="#"/></item>
-                            <item>7 <hi rend="italic">How you may see the working of the combs.</hi><ptr target="#"/></item>
-                            <item>8 <hi rend="italic">How much waxe they bring at once.</hi><ptr target="#"/></item>
+                            <item>1 <hi rend="italic">Bees most industrious creatures.</hi><ptr target="#ch6sumn1"/></item>
+                            <item>2 <hi rend="italic">In three moneths they cannot worke.</hi><ptr target="#ch6sumn2"/></item>
+                            <item>3 <hi rend="italic">All the yeere after they lose no time.</hi><ptr target="#ch6sumn3"/></item>
+                            <item>4 <hi rend="italic">Three fruits of Bees labour.</hi><ptr target="#ch6sumn4"/></item>
+                            <item>5 <hi rend="italic">The first and ground of all is Wax.</hi><ptr target="#ch6sumn5"/></item>
+                            <item>6 <hi rend="italic">How Wax is gathered and wrought.</hi><ptr target="#ch6sumn6"/></item>
+                            <item>7 <hi rend="italic">How you may see the working of the combs.</hi><ptr target="#ch6sumn7"/></item>
+                            <item>8 <hi rend="italic">How much waxe they bring at once.</hi><ptr target="#ch6sumn8"/></item>
                             <item>9 <hi rend="italic">The admirable Architecture of their combs and
-                                cells.</hi><ptr target="#"/></item>
-                            <item>10 <hi rend="italic">The Drone-combe.</hi><ptr target="#"/></item>
+                                cells.</hi><ptr target="#ch6sumn9"/></item>
+                            <item>10 <hi rend="italic">The Drone-combe.</hi><ptr target="#ch6sumn10"/></item>
                             <item>11 <hi rend="italic">The Queenes cells are built single in divers
-                                places.</hi><ptr target="#"/></item>
-                            <item>12 <hi rend="italic">In fashion round.</hi><ptr target="#"/></item>
-                            <item>13 <hi rend="italic">The common error anent these cells.</hi><ptr target="#"/></item>
-                            <item>14 <hi rend="italic">The combes doe often change their hue.</hi><ptr target="#"/></item>
-                            <item>15 <hi rend="italic">Wax is gathered only in foure months.</hi><ptr target="#"/></item>
+                                places.</hi><ptr target="#ch6sumn11"/></item>
+                            <item>12 <hi rend="italic">In fashion round.</hi><ptr target="#ch6sumn12"/></item>
+                            <item>13 <hi rend="italic">The common error anent these cells.</hi><ptr target="#ch6sumn13"/></item>
+                            <item>14 <hi rend="italic">The combes doe often change their hue.</hi><ptr target="#ch6sumn14"/></item>
+                            <item>15 <hi rend="italic">Wax is gathered only in foure months.</hi><ptr target="#ch6sumn15"/></item>
                             <item>16 <hi rend="italic">How the second fruit is gathered in 9.
-                                moneths.</hi><ptr target="#"/></item>
-                            <item>17 <hi rend="italic">Two sorts of Hony.</hi><ptr target="#"/></item>
-                            <item>18 <hi rend="italic">How Ambrosia or grosse honie is gathered.</hi><ptr target="#"/></item>
+                                moneths.</hi><ptr target="#ch6sumn16"/></item>
+                            <item>17 <hi rend="italic">Two sorts of Hony.</hi><ptr target="#ch6sumn17"/></item>
+                            <item>18 <hi rend="italic">How Ambrosia or grosse honie is gathered.</hi><ptr target="#ch6sumn18"/></item>
                             <item>19 <hi rend="italic">Ambrosia, is the Schadons food, as water
                                     their
-                                    drinke.</hi><ptr target="#"/></item>
-                            <item>20 <hi rend="italic">Being kept, it is soone corrupted.</hi><ptr target="#"/></item>
-                            <item>21 <hi rend="italic">And then becommeth most unsavory stopping.</hi><ptr target="#"/></item>
+                                    drinke.</hi><ptr target="#ch6sumn19"/></item>
+                            <item>20 <hi rend="italic">Being kept, it is soone corrupted.</hi><ptr target="#ch6sumn20"/></item>
+                            <item>21 <hi rend="italic">And then becommeth most unsavory stopping.</hi><ptr target="#ch6sumn21"/></item>
                             <item>22 <hi rend="italic">Much stopping maketh the Bees forsake their
-                                hives.</hi><ptr target="#"/></item>
-                            <item>23 <hi rend="italic">This Ambrosia is commonly taken for wax.</hi><ptr target="#"/></item>
-                            <item>24 <hi rend="italic">Which errour is disprooved by sense.</hi><ptr target="#"/></item>
-                            <item>25 <hi rend="italic">And reason.</hi><ptr target="#"/></item>
-                            <item>26 <hi rend="italic">And by authority.</hi><ptr target="#"/></item>
+                                hives.</hi><ptr target="#ch6sumn22"/></item>
+                            <item>23 <hi rend="italic">This Ambrosia is commonly taken for wax.</hi><ptr target="#ch6sumn23"/></item>
+                            <item>24 <hi rend="italic">Which errour is disprooved by sense.</hi><ptr target="#ch6sumn24"/></item>
+                            <item>25 <hi rend="italic">And reason.</hi><ptr target="#ch6sumn25"/></item>
+                            <item>26 <hi rend="italic">And by authority.</hi><ptr target="#ch6sumn26"/></item>
                             <fw type="catch"> 17 <hi rend="italic">How</hi></fw>
                             <pb n="A4v"/>
                             <cb n="1"/>
-                            <item>27 <hi rend="italic">How the pure Nectar is gathered.</hi><ptr target="#"/></item>
-                            <item>28 <hi rend="italic">Two sorts of Nectar.</hi><ptr target="#"/></item>
-                            <item>29 <hi rend="italic">Live-hony of two sorts.</hi><ptr target="#"/></item>
+                            <item>27 <hi rend="italic">How the pure Nectar is gathered.</hi><ptr target="#ch6sumn27"/></item>
+                            <item>28 <hi rend="italic">Two sorts of Nectar.</hi><ptr target="#ch6sumn28"/></item>
+                            <item>29 <hi rend="italic">Live-hony of two sorts.</hi><ptr target="#ch6sumn29"/></item>
                             <item>30 <hi rend="italic">The finest ordinary is a kinde of
-                                    Virgin-hony.</hi><ptr target="#"/></item>
+                                    Virgin-hony.</hi><ptr target="#ch6sumn30"/></item>
                             <item>31 <hi rend="italic">All hony courser or finer, according to the
-                                soile.</hi><ptr target="#"/></item>
-                            <item>32 <hi rend="italic">The full cells they close with wax.</hi><ptr target="#"/></item>
+                                soile.</hi><ptr target="#ch6sumn31"/></item>
+                            <item>32 <hi rend="italic">The full cells they close with wax.</hi><ptr target="#ch6sumn32"/></item>
                             <item>33 <hi rend="italic">Nectar and Ambrosia made of many simples,
                                 whereof
                                     each month
                                     yeeldeth
-                                    variety.</hi><ptr target="#"/></item>
-                            <item>34 <hi rend="italic">Dandelion continueth longest.</hi><ptr target="#"/></item>
-                            <item>35 <hi rend="italic">What Pisces yeeldeth.</hi><ptr target="#"/></item>
-                            <item>36 <hi rend="italic">What Aries.</hi><ptr target="#"/></item>
-                            <item>37 <hi rend="italic">Taurus.</hi><ptr target="#"/></item>
-                            <item>38 <hi rend="italic">Gemini.</hi><ptr target="#"/></item>
-                            <item>39 <hi rend="italic">Cancer.</hi><ptr target="#"/></item>
-                            <item>40 <hi rend="italic">Of Honie-dewes.</hi><ptr target="#"/></item>
-                            <item>41 <hi rend="italic">The Bees worke most earnestly in a Hony-dew.</hi><ptr target="#"/></item>
-                            <item>42 <hi rend="italic">What the Honie-dew is.</hi><ptr target="#"/></item>
-                            <item>43 <hi rend="italic">When the hony-dewes are most frequent.</hi><ptr target="#"/></item>
-                            <item>44 <hi rend="italic">The time when they fall.</hi><ptr target="#"/></item>
-                            <item>45 <hi rend="italic">What Leo yeeldeth.</hi><ptr target="#"/></item>
-                            <item>46 <hi rend="italic">Virgo.</hi><ptr target="#"/></item>
-                            <item>47 <hi rend="italic">Libra.</hi><ptr target="#"/></item>
-                            <item>48 <hi rend="italic">Scorpio.</hi><ptr target="#"/></item>
+                                    variety.</hi><ptr target="#ch6sumn33"/></item>
+                            <item>34 <hi rend="italic">Dandelion continueth longest.</hi><ptr target="#ch6sumn34"/></item>
+                            <item>35 <hi rend="italic">What Pisces yeeldeth.</hi><ptr target="#ch6sumn35"/></item>
+                            <item>36 <hi rend="italic">What Aries.</hi><ptr target="#ch6sumn36"/></item>
+                            <item>37 <hi rend="italic">Taurus.</hi><ptr target="#ch6sumn37"/></item>
+                            <item>38 <hi rend="italic">Gemini.</hi><ptr target="#ch6sumn38"/></item>
+                            <item>39 <hi rend="italic">Cancer.</hi><ptr target="#ch6sumn39"/></item>
+                            <item>40 <hi rend="italic">Of Honie-dewes.</hi><ptr target="#ch6sumn40"/></item>
+                            <item>41 <hi rend="italic">The Bees worke most earnestly in a Hony-dew.</hi><ptr target="#ch6sumn41"/></item>
+                            <item>42 <hi rend="italic">What the Honie-dew is.</hi><ptr target="#ch6sumn42"/></item>
+                            <item>43 <hi rend="italic">When the hony-dewes are most frequent.</hi><ptr target="#ch6sumn43"/></item>
+                            <item>44 <hi rend="italic">The time when they fall.</hi><ptr target="#ch6sumn44"/></item>
+                            <item>45 <hi rend="italic">What Leo yeeldeth.</hi><ptr target="#ch6sumn45"/></item>
+                            <item>46 <hi rend="italic">Virgo.</hi><ptr target="#ch6sumn46"/></item>
+                            <item>47 <hi rend="italic">Libra.</hi><ptr target="#ch6sumn47"/></item>
+                            <item>48 <hi rend="italic">Scorpio.</hi><ptr target="#ch6sumn48"/></item>
                             <item>49 <hi rend="italic">The Bees gather but of one kind of flower in
                                 one
-                                    voyage.</hi><ptr target="#"/></item>
-                            <item>50 <hi rend="italic">They gather honie out of poison.</hi><ptr target="#"/></item>
-                            <item>51 <hi rend="italic">What store of Honie a stall may have.</hi><ptr target="#"/></item>
-                            <item>52 <hi rend="italic">Bees have necessary use of water.</hi><ptr target="#"/></item>
-                            <item>53 <hi rend="italic">Chiefly for their breed.</hi><ptr target="#"/></item>
-                            <item>54 <hi rend="italic">The making of the watring-place.</hi><ptr target="#"/></item>
-                            <item>55 <hi rend="italic">How to find wilde Bees.</hi><ptr target="#"/></item>
-                            <item>56 <hi rend="italic">Bee-troughs in Gardens profitable.</hi><ptr target="#"/></item>
-                            <item>57 <hi rend="italic">The forme and size of a Bee-trough.</hi><ptr target="#"/></item>
-                            <item>58 <hi rend="italic">The trough cover, and the use of it.</hi><ptr target="#"/></item>
-                            <item>59 <hi rend="italic">The seasoning and ordering of the Bee-trough.</hi><ptr target="#"/></item>
-                            <item>60 <hi rend="italic">Bee-troughs of stone.</hi><ptr target="#"/></item>
-                            <item>61 <hi rend="italic">Sometime they water in the streets.</hi><ptr target="#"/></item>
-                            <item>62 <hi rend="italic">And after a showre, all about the garden.</hi><ptr target="#"/></item>
+                                    voyage.</hi><ptr target="#ch6sumn49"/></item>
+                            <item>50 <hi rend="italic">They gather honie out of poison.</hi><ptr target="#ch6sumn5"/></item>
+                            <item>51 <hi rend="italic">What store of Honie a stall may have.</hi><ptr target="#ch6sumn51"/></item>
+                            <item>52 <hi rend="italic">Bees have necessary use of water.</hi><ptr target="#ch6sumn52"/></item>
+                            <item>53 <hi rend="italic">Chiefly for their breed.</hi><ptr target="#ch6sumn53"/></item>
+                            <item>54 <hi rend="italic">The making of the watring-place.</hi><ptr target="#ch6sumn54"/></item>
+                            <item>55 <hi rend="italic">How to find wilde Bees.</hi><ptr target="#ch6sumn55"/></item>
+                            <item>56 <hi rend="italic">Bee-troughs in Gardens profitable.</hi><ptr target="#ch6sumn56"/></item>
+                            <item>57 <hi rend="italic">The forme and size of a Bee-trough.</hi><ptr target="#ch6sumn57"/></item>
+                            <item>58 <hi rend="italic">The trough cover, and the use of it.</hi><ptr target="#ch6sumn58"/></item>
+                            <item>59 <hi rend="italic">The seasoning and ordering of the Bee-trough.</hi><ptr target="#ch6sumn59"/></item>
+                            <item>60 <hi rend="italic">Bee-troughs of stone.</hi><ptr target="#ch6sumn60"/></item>
+                            <item>61 <hi rend="italic">Sometime they water in the streets.</hi><ptr target="#ch6sumn61"/></item>
+                            <item>62 <hi rend="italic">And after a showre, all about the garden.</hi><ptr target="#ch6sumn62"/></item>
                         </list>
                     </div>
                     <div type="contents-chapter" n="7">
                         <head type="sectionTitle">The Contents of the seventh Chapter concerning the
                             Bees enimies.</head>
                         <list>
-                            <item>1 <hi rend="italic">The Bees enimies are many.</hi><ptr target="#"/></item>
-                            <item>2 1. <hi rend="italic">The Mouse.</hi><ptr target="#"/></item>
-                            <item>3 <hi rend="italic">Remedies against the Mouse.</hi><ptr target="#"/></item>
-                            <item>4 2. <hi rend="italic">The Wood-pecker.</hi><ptr target="#"/></item>
-                            <item>5 3. <hi rend="italic">The Titmouse.</hi><ptr target="#"/></item>
-                            <item>6 <hi rend="italic">The subtill practise of the Titmouse.</hi><ptr target="#"/></item>
+                            <item>1 <hi rend="italic">The Bees enimies are many.</hi><ptr target="#ch7sumn1"/></item>
+                            <item>2 1. <hi rend="italic">The Mouse.</hi><ptr target="#ch7sumn2"/></item>
+                            <item>3 <hi rend="italic">Remedies against the Mouse.</hi><ptr target="#ch7sumn3"/></item>
+                            <item>4 2. <hi rend="italic">The Wood-pecker.</hi><ptr target="#ch7sumn4"/></item>
+                            <item>5 3. <hi rend="italic">The Titmouse.</hi><ptr target="#ch7sumn5"/></item>
+                            <item>6 <hi rend="italic">The subtill practise of the Titmouse.</hi><ptr target="#ch7sumn6"/></item>
                             <cb n="2"/>
-                            <item>7 <hi rend="italic">The Swallow.</hi><ptr target="#"/></item>
-                            <item>8 <hi rend="italic">Remedie against the Titmouse and the Swallow.</hi><ptr target="#"/></item>
-                            <item>9 5. <hi rend="italic">The Hornet.</hi><ptr target="#"/></item>
-                            <item>10 <hi rend="italic">The Hornets sting is dangerous.</hi><ptr target="#"/></item>
-                            <item>11 6. <hi rend="italic">The Waspe.</hi><ptr target="#"/></item>
-                            <item>12 <hi rend="italic">When she feedeth upon Bees.</hi><ptr target="#"/></item>
-                            <item>13 <hi rend="italic">When she stealeth honie.</hi><ptr target="#"/></item>
-                            <item>14 <hi rend="italic">When they weare away.</hi><ptr target="#"/></item>
-                            <item>15 <hi rend="italic">In what yeere the Waspes are few.</hi><ptr target="#"/></item>
-                            <item>16 <hi rend="italic">In what yeere they abound.</hi><ptr target="#"/></item>
-                            <item>17 <hi rend="italic">Remedies against the Waspes.</hi><ptr target="#"/></item>
-                            <item>18 7. <hi rend="italic">The Moth.</hi><ptr target="#"/></item>
-                            <item>19 8. <hi rend="italic">The Snaile.</hi><ptr target="#"/></item>
-                            <item>20 <hi rend="italic">What harme the Moth doth.</hi><ptr target="#"/></item>
-                            <item>21 9. <hi rend="italic">The Emet.</hi><ptr target="#"/></item>
-                            <item>22 10. <hi rend="italic">The Spider.</hi><ptr target="#"/></item>
-                            <item>23 11. <hi rend="italic">The Toad.</hi><ptr target="#"/></item>
-                            <item>24 12. <hi rend="italic">The Frog.</hi><ptr target="#"/></item>
-                            <item>25 13. <hi rend="italic">The Bee the Bees greatest enemie.</hi><ptr target="#"/></item>
+                            <item>7 <hi rend="italic">The Swallow.</hi><ptr target="#ch7sumn7"/></item>
+                            <item>8 <hi rend="italic">Remedie against the Titmouse and the Swallow.</hi><ptr target="#ch7sumn8"/></item>
+                            <item>9 5. <hi rend="italic">The Hornet.</hi><ptr target="#ch7sumn9"/></item>
+                            <item>10 <hi rend="italic">The Hornets sting is dangerous.</hi><ptr target="#ch7sumn10"/></item>
+                            <item>11 6. <hi rend="italic">The Waspe.</hi><ptr target="#ch7sumn11"/></item>
+                            <item>12 <hi rend="italic">When she feedeth upon Bees.</hi><ptr target="#ch7sumn12"/></item>
+                            <item>13 <hi rend="italic">When she stealeth honie.</hi><ptr target="#ch7sumn13"/></item>
+                            <item>14 <hi rend="italic">When they weare away.</hi><ptr target="#ch7sumn14"/></item>
+                            <item>15 <hi rend="italic">In what yeere the Waspes are few.</hi><ptr target="#ch7sumn15"/></item>
+                            <item>16 <hi rend="italic">In what yeere they abound.</hi><ptr target="#ch7sumn16"/></item>
+                            <item>17 <hi rend="italic">Remedies against the Waspes.</hi><ptr target="#ch7sumn17"/></item>
+                            <item>18 7. <hi rend="italic">The Moth.</hi><ptr target="#ch7sumn18"/></item>
+                            <item>19 8. <hi rend="italic">The Snaile.</hi><ptr target="#ch7sumn19"/></item>
+                            <item>20 <hi rend="italic">What harme the Moth doth.</hi><ptr target="#ch7sumn20"/></item>
+                            <item>21 9. <hi rend="italic">The Emet.</hi><ptr target="#ch7sumn21"/></item>
+                            <item>22 10. <hi rend="italic">The Spider.</hi><ptr target="#ch7sumn22"/></item>
+                            <item>23 11. <hi rend="italic">The Toad.</hi><ptr target="#ch7sumn23"/></item>
+                            <item>24 12. <hi rend="italic">The Frog.</hi><ptr target="#ch7sumn24"/></item>
+                            <item>25 13. <hi rend="italic">The Bee the Bees greatest enemie.</hi><ptr target="#ch7sumn25"/></item>
                             <item>26 <hi rend="italic">Robbing or fighting of Bees in winter and
                                 summer
                                     but
-                                    little</hi><ptr target="#"/></item>
-                            <item>27 <hi rend="italic">In the spring more earnest.</hi><ptr target="#"/></item>
-                            <item>28 <hi rend="italic">The most spoile is made in Harvest.</hi><ptr target="#"/></item>
-                            <item>29 <hi rend="italic">What Stalls are most subject to robbing.</hi><ptr target="#"/></item>
-                            <item>30 <hi rend="italic">What Bees are the robbers.</hi><ptr target="#"/></item>
-                            <item>31 <hi rend="italic">How they begin the fray.</hi><ptr target="#"/></item>
+                                    little</hi><ptr target="#ch7sumn26"/></item>
+                            <item>27 <hi rend="italic">In the spring more earnest.</hi><ptr target="#ch7sumn27"/></item>
+                            <item>28 <hi rend="italic">The most spoile is made in Harvest.</hi><ptr target="#ch7sumn28"/></item>
+                            <item>29 <hi rend="italic">What Stalls are most subject to robbing.</hi><ptr target="#ch7sumn29"/></item>
+                            <item>30 <hi rend="italic">What Bees are the robbers.</hi><ptr target="#ch7sumn30"/></item>
+                            <item>31 <hi rend="italic">How they begin the fray.</hi><ptr target="#ch7sumn31"/></item>
                             <item>32 <hi rend="italic">Theeves of divers Hives agree together in
-                                robbing.</hi><ptr target="#"/></item>
-                            <item>33 <hi rend="italic">The description of the Bees battell.</hi><ptr target="#"/></item>
+                                robbing.</hi><ptr target="#ch7sumn32"/></item>
+                            <item>33 <hi rend="italic">The description of the Bees battell.</hi><ptr target="#ch7sumn33"/></item>
                             <item>34 <hi rend="italic">In the battell is heard a sound like a drum
                                 and a
-                                    Fluit.</hi><ptr target="#"/></item>
-                            <item>35 <hi rend="italic">The assault of the enemy.</hi><ptr target="#"/></item>
-                            <item>36 <hi rend="italic">The defence of the besieged.</hi><ptr target="#"/></item>
-                            <item>37 <hi rend="italic">Neither side willing to yeeld.</hi><ptr target="#"/></item>
+                                    Fluit.</hi><ptr target="#ch7sumn34"/></item>
+                            <item>35 <hi rend="italic">The assault of the enemy.</hi><ptr target="#ch7sumn35"/></item>
+                            <item>36 <hi rend="italic">The defence of the besieged.</hi><ptr target="#ch7sumn36"/></item>
+                            <item>37 <hi rend="italic">Neither side willing to yeeld.</hi><ptr target="#ch7sumn37"/></item>
                             <item>38 <hi rend="italic">The exercise of the defendants when the enemy
-                                retireth.</hi><ptr target="#"/></item>
-                            <item>39 <hi rend="italic">The Wasps like Vultures.</hi><ptr target="#"/></item>
-                            <item>40 <hi rend="italic">The battell ended they bury their dead.</hi><ptr target="#"/></item>
-                            <item>41 <hi rend="italic">The second assault of the enemy.</hi><ptr target="#"/></item>
+                                retireth.</hi><ptr target="#ch7sumn38"/></item>
+                            <item>39 <hi rend="italic">The Wasps like Vultures.</hi><ptr target="#ch7sumn39"/></item>
+                            <item>40 <hi rend="italic">The battell ended they bury their dead.</hi><ptr target="#ch7sumn40"/></item>
+                            <item>41 <hi rend="italic">The second assault of the enemy.</hi><ptr target="#ch7sumn41"/></item>
                             <item>42 <hi rend="italic">When the true Bees yeeld, they goe with the
-                                Conquerors.</hi><ptr target="#"/></item>
-                            <item>43 <hi rend="italic">Remedies</hi><ptr target="#"/></item>
-                            <item>44 <hi rend="italic">To prevent robbing.</hi><ptr target="#"/></item>
-                            <item>45 <hi rend="italic">And to stay it, if you finde it in time.</hi><ptr target="#"/></item>
+                                Conquerors.</hi><ptr target="#ch7sumn42"/></item>
+                            <item>43 <hi rend="italic">Remedies</hi><ptr target="#ch7sumn43"/></item>
+                            <item>44 <hi rend="italic">To prevent robbing.</hi><ptr target="#ch7sumn44"/></item>
+                            <item>45 <hi rend="italic">And to stay it, if you finde it in time.</hi><ptr target="#ch7sumn45"/></item>
                             <item>46 <hi rend="italic">When it is too late, and what is then to be
-                                done.</hi><ptr target="#"/></item>
-                            <item>47 <hi rend="italic">Robbing hurtfull also to the Theeves.</hi><ptr target="#"/></item>
-                            <item>48 <hi rend="italic">In what yeeres robbing is most rife.</hi><ptr target="#"/></item>
+                                done.</hi><ptr target="#ch7sumn46"/></item>
+                            <item>47 <hi rend="italic">Robbing hurtfull also to the Theeves.</hi><ptr target="#ch7sumn47"/></item>
+                            <item>48 <hi rend="italic">In what yeeres robbing is most rife.</hi><ptr target="#ch7sumn48"/></item>
                             <item>49 <hi rend="italic">Bees kill poore swarmes that wander in the
-                                spring.</hi><ptr target="#"/></item>
+                                spring.</hi><ptr target="#ch7sumn49"/></item>
                             <fw type="catch"> 50 <hi rend="italic">To</hi></fw>
                             <pb n="[A5]r"/>
                             <cb n="1"/>
-                            <item>50 <hi rend="italic">To prevent the death of poore swarmes.</hi><ptr target="#"/></item>
-                            <item>51 <hi rend="italic">Many killed in swarming.</hi><ptr target="#"/></item>
-                            <item>52 <hi rend="italic">14. The Weather.</hi><ptr target="#"/></item>
-                            <item>53 <hi rend="italic">In Summer heat hurteth the Bees.</hi><ptr target="#"/></item>
-                            <item>54 <hi rend="italic">In Winter the Sun-shine in frost and snow.</hi><ptr target="#"/></item>
-                            <item>55 <hi rend="italic">The Remedy.</hi><ptr target="#"/></item>
-                            <item>56 <hi rend="italic">Also the Easterne winds and great frosts.</hi><ptr target="#"/></item>
-                            <item>57 <hi rend="italic">And the cold continued maketh them sicke.</hi><ptr target="#"/></item>
-                            <item>58 <hi rend="italic">The raine rotteth the Hives.</hi><ptr target="#"/></item>
-                            <item>59 <hi rend="italic">The Remedy.</hi><ptr target="#"/></item>
+                            <item>50 <hi rend="italic">To prevent the death of poore swarmes.</hi><ptr target="#ch7sumn50"/></item>
+                            <item>51 <hi rend="italic">Many killed in swarming.</hi><ptr target="#ch7sumn51"/></item>
+                            <item>52 <hi rend="italic">14. The Weather.</hi><ptr target="#ch7sumn52"/></item>
+                            <item>53 <hi rend="italic">In Summer heat hurteth the Bees.</hi><ptr target="#ch7sumn53"/></item>
+                            <item>54 <hi rend="italic">In Winter the Sun-shine in frost and snow.</hi><ptr target="#ch7sumn54"/></item>
+                            <item>55 <hi rend="italic">The Remedy.</hi><ptr target="#ch7sumn55"/></item>
+                            <item>56 <hi rend="italic">Also the Easterne winds and great frosts.</hi><ptr target="#ch7sumn56"/></item>
+                            <item>57 <hi rend="italic">And the cold continued maketh them sicke.</hi><ptr target="#ch7sumn57"/></item>
+                            <item>58 <hi rend="italic">The raine rotteth the Hives.</hi><ptr target="#ch7sumn58"/></item>
+                            <item>59 <hi rend="italic">The Remedy.</hi><ptr target="#ch7sumn59"/></item>
                             <item>60 <hi rend="italic">The greatest losse by weather is in the
                                 spring:
                                     for
                                     then infinite
                                     multitudes
-                                    are beaten downe, laden and weary, with stormes and wind.</hi><ptr target="#"/></item>
-                            <item>61 <hi rend="italic">At the rising of a Cloud they post home.</hi><ptr target="#"/></item>
+                                    are beaten downe, laden and weary, with stormes and wind.</hi><ptr target="#ch7sumn60"/></item>
+                            <item>61 <hi rend="italic">At the rising of a Cloud they post home.</hi><ptr target="#ch7sumn61"/></item>
                             <item>62 <hi rend="italic">Yet will they goe a field in the midst of a
                                 warme
-                                    showre.</hi><ptr target="#"/></item>
-                            <item>63 <hi rend="italic">How to restore Bees to life.</hi><ptr target="#"/></item>
-                            <item>64 <hi rend="italic">The wind causeth many to be drowned.</hi><ptr target="#"/></item>
-                            <item>65 <hi rend="italic">The Remedie.</hi><ptr target="#"/></item>
-                            <item>66 <hi rend="italic">The last and worst enemy of all.</hi><ptr target="#"/></item>
+                                    showre.</hi><ptr target="#ch7sumn62"/></item>
+                            <item>63 <hi rend="italic">How to restore Bees to life.</hi><ptr target="#ch7sumn63"/></item>
+                            <item>64 <hi rend="italic">The wind causeth many to be drowned.</hi><ptr target="#ch7sumn64"/></item>
+                            <item>65 <hi rend="italic">The Remedie.</hi><ptr target="#ch7sumn65"/></item>
+                            <item>66 <hi rend="italic">The last and worst enemy of all.</hi><ptr target="#ch7sumn66"/></item>
                         </list>
                     </div>
                     <div type="contents-chapter" n="8">
                         <head type="sectionTitle">The Contents of the eighth Chapter, concerning the
                             Feeding of Bees.</head>
                         <list>
-                            <item>1 <hi rend="italic">In seven moneths the Bees spend of the stocke.</hi><ptr target="#"/></item>
-                            <item>2 <hi rend="italic">Three sorts of swarmes diversly provided.</hi><ptr target="#"/></item>
-                            <item>3 <hi rend="italic">The first sort.</hi><ptr target="#"/></item>
-                            <item>4 <hi rend="italic">The second.</hi><ptr target="#"/></item>
-                            <item>5 <hi rend="italic">The third onely are to be fed.</hi><ptr target="#"/></item>
-                            <item>6 <hi rend="italic">Stockes out of proofe never to be fed.</hi><ptr target="#"/></item>
-                            <item>7 <hi rend="italic">Try your swarmes in</hi> Virgo.<ptr target="#"/></item>
-                            <item>8 <hi rend="italic">What quantity of Honie is requisite.</hi><ptr target="#"/></item>
+                            <item>1 <hi rend="italic">In seven moneths the Bees spend of the stocke.</hi><ptr target="#ch8sumn1"/></item>
+                            <item>2 <hi rend="italic">Three sorts of swarmes diversly provided.</hi><ptr target="#ch8sumn2"/></item>
+                            <item>3 <hi rend="italic">The first sort.</hi><ptr target="#ch8sumn3"/></item>
+                            <item>4 <hi rend="italic">The second.</hi><ptr target="#ch8sumn4"/></item>
+                            <item>5 <hi rend="italic">The third onely are to be fed.</hi><ptr target="#ch8sumn5"/></item>
+                            <item>6 <hi rend="italic">Stockes out of proofe never to be fed.</hi><ptr target="#ch8sumn6"/></item>
+                            <item>7 <hi rend="italic">Try your swarmes in</hi> Virgo.<ptr target="#ch8sumn7"/></item>
+                            <item>8 <hi rend="italic">What quantity of Honie is requisite.</hi><ptr target="#ch8sumn8"/></item>
                             <item>9 <hi rend="italic">Try againe in</hi> Pisces <hi rend="italic">or</hi>
-                                Aries.<ptr target="#"/></item>
-                            <item>10 <hi rend="italic">The Bees food.</hi><ptr target="#"/></item>
-                            <item>11 <hi rend="italic">Private feeding.</hi><ptr target="#"/></item>
-                            <item>12 <hi rend="italic">Carelesse feeding is starving.</hi><ptr target="#"/></item>
-                            <item>13 <hi rend="italic">Publike feeding.</hi><ptr target="#"/></item>
-                            <item>14 <hi rend="italic">The first time of feeding.</hi><ptr target="#"/></item>
-                            <item>15 <hi rend="italic">The second time of feeding.</hi><ptr target="#"/></item>
-                            <item>16 <hi rend="italic">The third time of feeding.</hi><ptr target="#"/></item>
+                                Aries.<ptr target="#ch8sumn9"/></item>
+                            <item>10 <hi rend="italic">The Bees food.</hi><ptr target="#ch8sumn10"/></item>
+                            <item>11 <hi rend="italic">Private feeding.</hi><ptr target="#ch8sumn11"/></item>
+                            <item>12 <hi rend="italic">Carelesse feeding is starving.</hi><ptr target="#ch8sumn12"/></item>
+                            <item>13 <hi rend="italic">Publike feeding.</hi><ptr target="#ch8sumn13"/></item>
+                            <item>14 <hi rend="italic">The first time of feeding.</hi><ptr target="#ch8sumn14"/></item>
+                            <item>15 <hi rend="italic">The second time of feeding.</hi><ptr target="#ch8sumn15"/></item>
+                            <item>16 <hi rend="italic">The third time of feeding.</hi><ptr target="#ch8sumn16"/></item>
                         </list>
                     </div>
                     <div type="contents-chapter" n="9">
                         <head type="sectionTitle">The Contents of the ninth Chapter, concerning the
                             Removing of Bees.</head>
                         <list>
-                            <item>1 <hi rend="italic">Five things to be avoided in removing Bees.</hi><ptr target="#"/></item>
-                            <item>2 <hi rend="italic">Remove alwaies in faire weather.</hi><ptr target="#"/></item>
-                            <item>3 <hi rend="italic">Not in Winter.</hi><ptr target="#"/></item>
-                            <item>4 <hi rend="italic">Nor in Summer.</hi><ptr target="#"/></item>
+                            <item>1 <hi rend="italic">Five things to be avoided in removing Bees.</hi><ptr target="#ch9sumn1"/></item>
+                            <item>2 <hi rend="italic">Remove alwaies in faire weather.</hi><ptr target="#ch9sumn2"/></item>
+                            <item>3 <hi rend="italic">Not in Winter.</hi><ptr target="#ch9sumn3"/></item>
+                            <item>4 <hi rend="italic">Nor in Summer.</hi><ptr target="#ch9sumn4"/></item>
                             <cb n="2"/>
                             <item>5 <hi rend="italic">The Autumn &amp; Spring are fit times for
-                                removing.</hi><ptr target="#"/></item>
-                            <item>6 Libra <hi rend="italic">the best moneth in all the yeere.</hi><ptr target="#"/></item>
-                            <item>7 <hi rend="italic">When to remove a swarme.</hi><ptr target="#"/></item>
-                            <item>8 <hi rend="italic">The time of the day, and manner of removing.</hi><ptr target="#"/></item>
-                            <item>9 <hi rend="italic">The usuall manner of removing.</hi><ptr target="#"/></item>
-                            <item>10 <hi rend="italic">Which is fit for poore stalls.</hi><ptr target="#"/></item>
-                            <item>11 <hi rend="italic">How a good stall is to be carried.</hi><ptr target="#"/></item>
-                            <item>12 <hi rend="italic">How a bad.</hi><ptr target="#"/></item>
-                            <item>13 <hi rend="italic">What to doe when they are brought home.</hi><ptr target="#"/></item>
-                            <item>14 <hi rend="italic">And what when they are seated.</hi><ptr target="#"/></item>
+                                removing.</hi><ptr target="#ch9sumn5"/></item>
+                            <item>6 Libra <hi rend="italic">the best moneth in all the yeere.</hi><ptr target="#ch9sumn6"/></item>
+                            <item>7 <hi rend="italic">When to remove a swarme.</hi><ptr target="#ch9sumn7"/></item>
+                            <item>8 <hi rend="italic">The time of the day, and manner of removing.</hi><ptr target="#ch9sumn8"/></item>
+                            <item>9 <hi rend="italic">The usuall manner of removing.</hi><ptr target="#ch9sumn9"/></item>
+                            <item>10 <hi rend="italic">Which is fit for poore stalls.</hi><ptr target="#ch9sumn1"/></item>
+                            <item>11 <hi rend="italic">How a good stall is to be carried.</hi><ptr target="#ch9sumn11"/></item>
+                            <item>12 <hi rend="italic">How a bad.</hi><ptr target="#ch9sumn12"/></item>
+                            <item>13 <hi rend="italic">What to doe when they are brought home.</hi><ptr target="#ch9sumn13"/></item>
+                            <item>14 <hi rend="italic">And what when they are seated.</hi><ptr target="#ch9sumn14"/></item>
                         </list>
                     </div>
                     <div type="contents-chapter" n="10">
@@ -1151,33 +1152,33 @@
                                 the
                                 Combs.</head>
                             <list>
-                                <item>1 <hi rend="italic">The first kinde of Vindemiation.</hi><ptr target="#"/></item>
-                                <item>2 <hi rend="italic">The best time of killing Bees</hi><ptr target="#"/></item>
-                                <item>3 <hi rend="italic">What stalls are to be taken.</hi><ptr target="#"/></item>
-                                <item>4 <hi rend="italic">The manner of killing Bees.</hi><ptr target="#"/></item>
-                                <item>5 <hi rend="italic">Sundry meanes to kill Bees.</hi><ptr target="#"/></item>
-                                <item>6 <hi rend="italic">The Bees being dead, house the Hive.</hi><ptr target="#"/></item>
-                                <item>7 <hi rend="italic">The second kinde of Vindemiation.</hi><ptr target="#"/></item>
-                                <item>8 <hi rend="italic">The time and manner of Driving Bees.</hi><ptr target="#"/></item>
-                                <item>9 <hi rend="italic">This Driving of Bees unprofitable.</hi><ptr target="#"/></item>
-                                <item>10 <hi rend="italic">The Honie taken is little and naught.</hi><ptr target="#"/></item>
-                                <item>11 <hi rend="italic">And the Bees driven, few and poore.</hi><ptr target="#"/></item>
-                                <item>12 <hi rend="italic">Another kinde of driving.</hi><ptr target="#"/></item>
-                                <item>13 <hi rend="italic">At two times.</hi><ptr target="#"/></item>
-                                <item>14 <hi rend="italic">Driving in</hi> Virgo.<ptr target="#"/></item>
-                                <item>15 <hi rend="italic">The manner of driving in</hi> Virgo. <ptr target="#"/></item>
-                                <item>16 <hi rend="italic">How to helpe those driven Bees that want.</hi><ptr target="#"/></item>
-                                <item>17 <hi rend="italic">Driving in</hi> Pisces.<ptr target="#"/></item>
+                                <item>1 <hi rend="italic">The first kinde of Vindemiation.</hi><ptr target="#ch10p1sumn1"/></item>
+                                <item>2 <hi rend="italic">The best time of killing Bees</hi><ptr target="#ch10p1sumn2"/></item>
+                                <item>3 <hi rend="italic">What stalls are to be taken.</hi><ptr target="#ch10p1sumn3"/></item>
+                                <item>4 <hi rend="italic">The manner of killing Bees.</hi><ptr target="#ch10p1sumn4"/></item>
+                                <item>5 <hi rend="italic">Sundry meanes to kill Bees.</hi><ptr target="#ch10p1sumn5"/></item>
+                                <item>6 <hi rend="italic">The Bees being dead, house the Hive.</hi><ptr target="#ch10p1sumn6"/></item>
+                                <item>7 <hi rend="italic">The second kinde of Vindemiation.</hi><ptr target="#ch10p1sumn7"/></item>
+                                <item>8 <hi rend="italic">The time and manner of Driving Bees.</hi><ptr target="#ch10p1sumn8"/></item>
+                                <item>9 <hi rend="italic">This Driving of Bees unprofitable.</hi><ptr target="#ch10p1sumn9"/></item>
+                                <item>10 <hi rend="italic">The Honie taken is little and naught.</hi><ptr target="#ch10p1sumn10"/></item>
+                                <item>11 <hi rend="italic">And the Bees driven, few and poore.</hi><ptr target="#ch10p1sumn11"/></item>
+                                <item>12 <hi rend="italic">Another kinde of driving.</hi><ptr target="#ch10p1sumn12"/></item>
+                                <item>13 <hi rend="italic">At two times.</hi><ptr target="#ch10p1sumn13"/></item>
+                                <item>14 <hi rend="italic">Driving in</hi> Virgo.<ptr target="#ch10p1sumn14"/></item>
+                                <item>15 <hi rend="italic">The manner of driving in</hi> Virgo. <ptr target="#ch10p1sumn15"/></item>
+                                <item>16 <hi rend="italic">How to helpe those driven Bees that want.</hi><ptr target="#ch10p1sumn16"/></item>
+                                <item>17 <hi rend="italic">Driving in</hi> Pisces.<ptr target="#ch10p1sumn17"/></item>
                                 <item>18 <hi rend="italic">How to revive those that are chilled in
-                                    driving.</hi><ptr target="#"/></item>
-                                <item>19 <hi rend="italic">A third kinde of Vindemiation.</hi><ptr target="#"/></item>
-                                <item>20 <hi rend="italic">Exsection used at two times.</hi><ptr target="#"/></item>
-                                <item>21 <hi rend="italic">What part to be exsected is uncertaine.</hi><ptr target="#"/></item>
+                                    driving.</hi><ptr target="#ch10p1sumn18"/></item>
+                                <item>19 <hi rend="italic">A third kinde of Vindemiation.</hi><ptr target="#ch10p1sumn19"/></item>
+                                <item>20 <hi rend="italic">Exsection used at two times.</hi><ptr target="#ch10p1sumn20"/></item>
+                                <item>21 <hi rend="italic">What part to be exsected is uncertaine.</hi><ptr target="#ch10p1sumn21"/></item>
                                 <item>22 <hi rend="italic">Exsection ancient, but not profitable.</hi>
-                                <ptr target="#"/></item>
-                                <item>23 <hi rend="italic">Neither first.</hi><ptr target="#"/></item>
-                                <item>24 <hi rend="italic">Nor second.</hi><ptr target="#"/></item>
-                                <item>25 <hi rend="italic">Specially for our Country.</hi><ptr target="#"/></item>
+                                <ptr target="#ch10p1sumn22"/></item>
+                                <item>23 <hi rend="italic">Neither first.</hi><ptr target="#ch10p1sumn23"/></item>
+                                <item>24 <hi rend="italic">Nor second.</hi><ptr target="#ch10p1sumn24"/></item>
+                                <item>25 <hi rend="italic">Specially for our Country.</hi><ptr target="#ch10p1sumn25"/></item>
                             </list>
                         </div>
                         <div type="contents-section">
@@ -1185,103 +1186,103 @@
                                 Wax, and the making of
                                 Methe.</head>
                             <list>
-                                <item>1 <hi rend="italic">The Combes to be divided into three parts.</hi><ptr target="#"/></item>
+                                <item>1 <hi rend="italic">The Combes to be divided into three parts.</hi><ptr target="#ch10p2sumn1"/></item>
                                 <item>2 <hi rend="italic">Necessary Instruments being first
-                                        provided.</hi><ptr target="#"/></item>
+                                        provided.</hi><ptr target="#ch10p2sumn2"/></item>
                                 <item>3 <hi rend="italic">The dressing of the first part for Honie
                                         in two
-                                        shoots.</hi><ptr target="#"/></item>
+                                        shoots.</hi><ptr target="#ch10p2sumn3"/></item>
                                 <fw type="catch"> 4 <hi rend="italic">The</hi></fw>
                                 <pb n="[A5]v"/>
                                 <cb n="1"/>
-                                <item>4 <hi rend="italic">The first shoot is for fine Honie.</hi><ptr target="#"/></item>
-                                <item>5 <hi rend="italic">Or for Virgin-Honie, which is most fine.</hi><ptr target="#"/></item>
-                                <item>6 <hi rend="italic">Two sorts of Virgin-honie.</hi><ptr target="#"/></item>
-                                <item>7 <hi rend="italic">Corne-Honie got out by water or fire.</hi><ptr target="#"/></item>
-                                <item>8 <hi rend="italic">The second shoot for course Honie.</hi><ptr target="#"/></item>
+                                <item>4 <hi rend="italic">The first shoot is for fine Honie.</hi><ptr target="#ch10p2sumn4"/></item>
+                                <item>5 <hi rend="italic">Or for Virgin-Honie, which is most fine.</hi><ptr target="#ch10p2sumn5"/></item>
+                                <item>6 <hi rend="italic">Two sorts of Virgin-honie.</hi><ptr target="#ch10p2sumn6"/></item>
+                                <item>7 <hi rend="italic">Corne-Honie got out by water or fire.</hi><ptr target="#ch10p2sumn7"/></item>
+                                <item>8 <hi rend="italic">The second shoot for course Honie.</hi><ptr target="#ch10p2sumn8"/></item>
                                 <item>9 <hi rend="italic">The dressing of the first part in one
-                                    shoot.</hi><ptr target="#"/></item>
-                                <item>10 <hi rend="italic">The vulgar Honie grosly handled.</hi><ptr target="#"/></item>
+                                    shoot.</hi><ptr target="#ch10p2sumn9"/></item>
+                                <item>10 <hi rend="italic">The vulgar Honie grosly handled.</hi><ptr target="#ch10p2sumn10"/></item>
                                 <item>11 <hi rend="italic">The working of Honie, and how to helpe
-                                        it.</hi><ptr target="#"/></item>
+                                        it.</hi><ptr target="#ch10p2sumn11"/></item>
                                 <item>12 <hi rend="italic">Divers Countries yeeld divers kinds of
-                                    Honie.</hi><ptr target="#"/></item>
-                                <item>13 <hi rend="italic">How to know good Honie.</hi><ptr target="#"/></item>
+                                    Honie.</hi><ptr target="#ch10p2sumn12"/></item>
+                                <item>13 <hi rend="italic">How to know good Honie.</hi><ptr target="#ch10p2sumn13"/></item>
                                 <item>14 <hi rend="italic">Good Honie with standing waxeth hard and
-                                    white.</hi><ptr target="#"/></item>
-                                <item>15 <hi rend="italic">The best of the Honie is in the bottome.</hi><ptr target="#"/></item>
-                                <item>16 <hi rend="italic">The dressing of the second part for Meth.</hi><ptr target="#"/></item>
+                                    white.</hi><ptr target="#ch10p2sumn14"/></item>
+                                <item>15 <hi rend="italic">The best of the Honie is in the bottome.</hi><ptr target="#ch10p2sumn15"/></item>
+                                <item>16 <hi rend="italic">The dressing of the second part for Meth.</hi><ptr target="#ch10p2sumn16"/></item>
                                 <item>17 <hi rend="italic">How to make the Meth-liquor in two
-                                        shoots.</hi><ptr target="#"/></item>
+                                        shoots.</hi><ptr target="#ch10p2sumn17"/></item>
                                 <item>18 <hi rend="italic">Two sorts of Hydromel, Mede and
-                                        Methæglen.</hi><ptr target="#"/></item>
+                                        Methæglen.</hi><ptr target="#ch10p2sumn18"/></item>
                                 <item>19 <hi rend="italic">When the liquor is strong enough for
-                                        Mede.</hi><ptr target="#"/></item>
-                                <item>20 <hi rend="italic">What proportion of water to Honie.</hi><ptr target="#"/></item>
-                                <item>21 <hi rend="italic">How and how long the Must must be boiled.</hi><ptr target="#"/></item>
-                                <item>22 <hi rend="italic">The receit of Spices.</hi><ptr target="#"/></item>
+                                        Mede.</hi><ptr target="#ch10p2sumn19"/></item>
+                                <item>20 <hi rend="italic">What proportion of water to Honie.</hi><ptr target="#ch10p2sumn20"/></item>
+                                <item>21 <hi rend="italic">How and how long the Must must be boiled.</hi><ptr target="#ch10p2sumn21"/></item>
+                                <item>22 <hi rend="italic">The receit of Spices.</hi><ptr target="#ch10p2sumn22"/></item>
                                 <item>23 <hi rend="italic">How the Must is to be used when it is
-                                    boiled.</hi><ptr target="#"/></item>
-                                <item>24 <hi rend="italic">The making of</hi> Methæglen.<ptr target="#"/></item>
-                                <item>25 <hi rend="italic">The Queenes</hi> Methæglen.<ptr target="#"/></item>
-                                <item>26 <hi rend="italic">The dressing of the third part for Wax.</hi><ptr target="#"/></item>
-                                <item>27 <hi rend="italic">First boile it with water.</hi><ptr target="#"/></item>
-                                <item>28 <hi rend="italic">Then straine it by pressing.</hi><ptr target="#"/></item>
-                                <item>29 <hi rend="italic">Next make the Wax into Balls.</hi><ptr target="#"/></item>
+                                    boiled.</hi><ptr target="#ch10p2sumn23"/></item>
+                                <item>24 <hi rend="italic">The making of</hi> Methæglen.<ptr target="#ch10p2sumn24"/></item>
+                                <item>25 <hi rend="italic">The Queenes</hi> Methæglen.<ptr target="#ch10p2sumn25"/></item>
+                                <item>26 <hi rend="italic">The dressing of the third part for Wax.</hi><ptr target="#ch10p2sumn26"/></item>
+                                <item>27 <hi rend="italic">First boile it with water.</hi><ptr target="#ch10p2sumn27"/></item>
+                                <item>28 <hi rend="italic">Then straine it by pressing.</hi><ptr target="#ch10p2sumn28"/></item>
+                                <item>29 <hi rend="italic">Next make the Wax into Balls.</hi><ptr target="#ch10p2sumn29"/></item>
                                 <item>30 <hi rend="italic">Last of all melt it and cast it in a
-                                    mould.</hi><ptr target="#"/></item>
-                                <item>31 <hi rend="italic">And keepe the cake from cracking.</hi><ptr target="#"/></item>
-                                <item>32 <hi rend="italic">How to know good Wax.</hi><ptr target="#"/></item>
+                                    mould.</hi><ptr target="#ch10p2sumn30"/></item>
+                                <item>31 <hi rend="italic">And keepe the cake from cracking.</hi><ptr target="#ch10p2sumn31"/></item>
+                                <item>32 <hi rend="italic">How to know good Wax.</hi><ptr target="#ch10p2sumn32"/></item>
                             </list>
                         </div>
                         <div type="contents-section">
                             <head type="subsectionTitle">Part 3. concerning the vertues of Honie,
                                 Meth, and Wax.</head>
                             <list>
-                                <item>1 <hi rend="italic">The properties and vertues of Honie.</hi><ptr target="#"/></item>
-                                <item>2 <hi rend="italic">Against both outward and inward griefes.</hi><ptr target="#"/></item>
-                                <item>3 <hi rend="italic">For whom Honie is best.</hi><ptr target="#"/></item>
-                                <item>4 <hi rend="italic">English Honie.</hi><ptr target="#"/></item>
+                                <item>1 <hi rend="italic">The properties and vertues of Honie.</hi><ptr target="#ch10p3sumn1"/></item>
+                                <item>2 <hi rend="italic">Against both outward and inward griefes.</hi><ptr target="#ch10p3sumn2"/></item>
+                                <item>3 <hi rend="italic">For whom Honie is best.</hi><ptr target="#ch10p3sumn3"/></item>
+                                <item>4 <hi rend="italic">English Honie.</hi><ptr target="#ch10p3sumn4"/></item>
                                 <cb n="2"/>
-                                <item>5 <hi rend="italic">Too much honie unholsome.</hi><ptr target="#"/></item>
+                                <item>5 <hi rend="italic">Too much honie unholsome.</hi><ptr target="#ch10p3sumn5"/></item>
                                 <item>6 <hi rend="italic">The different operations of raw and boiled
-                                    Hony.</hi><ptr target="#"/></item>
-                                <item>7 <hi rend="italic">Two waies to clarifie honey.</hi><ptr target="#"/></item>
-                                <item>8 <hi rend="italic">The quintessence of Hony.</hi><ptr target="#"/></item>
-                                <item>9 <hi rend="italic">The vertues of it.</hi><ptr target="#"/></item>
-                                <item>10 <hi rend="italic">The making of it.</hi><ptr target="#"/></item>
-                                <item>11 <hi rend="italic">The virtue of Honie in Confections.</hi><ptr target="#"/></item>
-                                <item>12 <hi rend="italic">Marmalade made of honie.</hi><ptr target="#"/></item>
-                                <item>13 <hi rend="italic">Marchpane.</hi><ptr target="#"/></item>
-                                <item>14 <hi rend="italic">Preserves.</hi><ptr target="#"/></item>
-                                <item>15 <hi rend="italic">Conserves.</hi><ptr target="#"/></item>
-                                <item>16 <hi rend="italic">Syrups.</hi><ptr target="#"/></item>
-                                <item>17 <hi rend="italic">Honie to be preferred before Sugar.</hi><ptr target="#"/></item>
-                                <item>18 <hi rend="italic">Hony good in outward Medicines.</hi><ptr target="#"/></item>
-                                <item>19 <hi rend="italic">A salve for an old sore.</hi><ptr target="#"/></item>
-                                <item>20 <hi rend="italic">An other</hi><ptr target="#"/></item>
-                                <item>21 <hi rend="italic">The properties and vertues of</hi> Mede <hi rend="italic">and</hi> Methæglen.<ptr target="#"/></item>
+                                    Hony.</hi><ptr target="#ch10p3sumn6"/></item>
+                                <item>7 <hi rend="italic">Two waies to clarifie honey.</hi><ptr target="#ch10p3sumn7"/></item>
+                                <item>8 <hi rend="italic">The quintessence of Hony.</hi><ptr target="#ch10p3sumn8"/></item>
+                                <item>9 <hi rend="italic">The vertues of it.</hi><ptr target="#ch10p3sumn9"/></item>
+                                <item>10 <hi rend="italic">The making of it.</hi><ptr target="#ch10p3sumn10"/></item>
+                                <item>11 <hi rend="italic">The virtue of Honie in Confections.</hi><ptr target="#ch10p3sumn11"/></item>
+                                <item>12 <hi rend="italic">Marmalade made of honie.</hi><ptr target="#ch10p3sumn12"/></item>
+                                <item>13 <hi rend="italic">Marchpane.</hi><ptr target="#ch10p3sumn13"/></item>
+                                <item>14 <hi rend="italic">Preserves.</hi><ptr target="#ch10p3sumn14"/></item>
+                                <item>15 <hi rend="italic">Conserves.</hi><ptr target="#ch10p3sumn15"/></item>
+                                <item>16 <hi rend="italic">Syrups.</hi><ptr target="#ch10p3sumn16"/></item>
+                                <item>17 <hi rend="italic">Honie to be preferred before Sugar.</hi><ptr target="#ch10p3sumn17"/></item>
+                                <item>18 <hi rend="italic">Hony good in outward Medicines.</hi><ptr target="#ch10p3sumn18"/></item>
+                                <item>19 <hi rend="italic">A salve for an old sore.</hi><ptr target="#ch10p3sumn19"/></item>
+                                <item>20 <hi rend="italic">An other</hi><ptr target="#ch10p3sumn20"/></item>
+                                <item>21 <hi rend="italic">The properties and vertues of</hi> Mede <hi rend="italic">and</hi> Methæglen.<ptr target="#ch10p3sumn21"/></item>
                                 <item>22 Meth <hi rend="italic">much used of the ancient</hi>
-                                    Britaines.<ptr target="#"/></item>
+                                    Britaines.<ptr target="#ch10p3sumn22"/></item>
                                 <item>23 <hi rend="italic">Whence</hi> Meth <hi rend="italic">and</hi>
-                                    Methæglen <hi rend="italic">have their name.</hi><ptr target="#"/></item>
+                                    Methæglen <hi rend="italic">have their name.</hi><ptr target="#ch10p3sumn23"/></item>
                                 <item>24 <hi rend="italic">The properties and vertues of naturall
-                                    Wax.</hi><ptr target="#"/></item>
-                                <item>25 <hi rend="italic">Artificiall Wax.</hi><ptr target="#"/></item>
-                                <item>26 <hi rend="italic">To make white Wax.</hi><ptr target="#"/></item>
-                                <item>27 <hi rend="italic">To make red Wax.</hi><ptr target="#"/></item>
-                                <item>28 <hi rend="italic">To make greene Wax.</hi><ptr target="#"/></item>
-                                <item>29 <hi rend="italic">Oile of wax.</hi><ptr target="#"/></item>
-                                <item>30 <hi rend="italic">The vertues of it.</hi><ptr target="#"/></item>
-                                <item>31 <hi rend="italic">The making of Oile of Wax.</hi><ptr target="#"/></item>
-                                <item>32 <hi rend="italic">The vertue of Wax in compound medicines.</hi><ptr target="#"/></item>
-                                <item>33 <hi rend="italic">A Cerecloth</hi><ptr target="#"/></item>
+                                    Wax.</hi><ptr target="#ch10p3sumn24"/></item>
+                                <item>25 <hi rend="italic">Artificiall Wax.</hi><ptr target="#ch10p3sumn25"/></item>
+                                <item>26 <hi rend="italic">To make white Wax.</hi><ptr target="#ch10p3sumn26"/></item>
+                                <item>27 <hi rend="italic">To make red Wax.</hi><ptr target="#ch10p3sumn27"/></item>
+                                <item>28 <hi rend="italic">To make greene Wax.</hi><ptr target="#ch10p3sumn28"/></item>
+                                <item>29 <hi rend="italic">Oile of wax.</hi><ptr target="#ch10p3sumn29"/></item>
+                                <item>30 <hi rend="italic">The vertues of it.</hi><ptr target="#ch10p3sumn30"/></item>
+                                <item>31 <hi rend="italic">The making of Oile of Wax.</hi><ptr target="#ch10p3sumn31"/></item>
+                                <item>32 <hi rend="italic">The vertue of Wax in compound medicines.</hi><ptr target="#ch10p3sumn32"/></item>
+                                <item>33 <hi rend="italic">A Cerecloth</hi><ptr target="#ch10p3sumn33"/></item>
                                 <item>34 <hi rend="italic">A Cerecloth to refresh the Sinews and
-                                    Muscles.</hi><ptr target="#"/></item>
-                                <item>35 <hi rend="italic">A Cerecloth to comfort the stomacke.</hi><ptr target="#"/></item>
-                                <item>36 <hi rend="italic">A Cerecloth for the Wormes.</hi><ptr target="#"/></item>
-                                <item>37 <hi rend="italic">A Salve for a greene wound.</hi><ptr target="#"/></item>
-                                <item>38 <hi rend="italic">Another.</hi><ptr target="#"/></item>
+                                    Muscles.</hi><ptr target="#ch10p3sumn34"/></item>
+                                <item>35 <hi rend="italic">A Cerecloth to comfort the stomacke.</hi><ptr target="#ch10p3sumn35"/></item>
+                                <item>36 <hi rend="italic">A Cerecloth for the Wormes.</hi><ptr target="#ch10p3sumn36"/></item>
+                                <item>37 <hi rend="italic">A Salve for a greene wound.</hi><ptr target="#ch10p3sumn37"/></item>
+                                <item>38 <hi rend="italic">Another.</hi><ptr target="#ch10p3sumn38"/></item>
                             </list>
                         </div>
                     </div>
