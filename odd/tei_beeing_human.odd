@@ -193,7 +193,7 @@
           <desc versionDate="2023-08-11" xml:lang="en">contains a note or annotation, either included in the original, or added by the editor. The types of notes are distinguished by a @type attribute, with further subtyping with the @subtype attribute. If it is a side-note, this should be noted with a @place attribute of "margin". Also used to mark up words and passages that have been transcribed with low certainty or might require double-checking.</desc>
           <constraintSpec ident="bibliographic-note-must-contain" scheme="schematron">
             <constraint>
-              <sch:assert test="tei:@n">A bibliographic note must contain at least one bibl or ref element</sch:assert>
+              <sch:assert test="count(descendant::tei:ref|descendant::tei:bibl) &gt; 0">A bibliographic note must contain at least one bibl or ref element</sch:assert>
             </constraint>
           </constraintSpec>
           <attList>
