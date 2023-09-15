@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="schema/tei_beeing_human.rng"
-  schematypens="http://relaxng.org/ns/structure/1.0"
-  type="application/xml"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="schema/test_tei_beeing_human.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="schema/test_tei_beeing_human.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -1480,7 +1480,7 @@
                     Polyarchie, as Anarchie, God having shewed in them unto men, an expresse
                     patterne of <hi rend="smallCapitals titleCase">A PERFECT MONARCHIE, THE MOST
                     NATURAL AND ABSOLUTE FORME OF
-                        GOVERNMENT.</hi> <note type="editorial" subtype="other" cert="check">Greek
+                        GOVERNMENT.</hi> <note type="editorial" subtype="other" cert="check" xml:id="check1">Greek
                     script</note> <note type="authorial" subtype="bibliographic" xml:id="ch1bibln14">
                         Hom.II.a.9.</note>
                 </p>
@@ -2787,7 +2787,7 @@
                     Eastward or Westward: and in the square answering thereto begin his Register,
                     setting downe first the two last figures of the yeare of the Lord, then for a
                     prime swarme, a double circle, for a castling halfe a double circle, then the
-                    day of the moneth in which he was swarmed, writing M for May, <note type="editorial" subtype="other" cert="check" ana="Should we regularise the I to J silently in this case? -- Tiago">J for
+                    day of the moneth in which he was swarmed, writing M for May, <note type="editorial" subtype="other" cert="check" ana="Should we regularise the I to J silently in this case? -- Tiago" xml:id="check3">J for
                     June, <hi>J</hi> for July</note>. The next line begin with the next yeare: if he
                     did <fw type="catch"> swarme,</fw>
                     <pb n="E3v"/>
@@ -3837,13 +3837,13 @@
                     the Males of the same kind. And therefore in the learned Languages the Drone
                     hath his <ref target="#">*</ref> Masculine appellation, as the Honi-bee
                     hir feminine. </p>
-                <note type="authorial" subtype="gloss" place="inline" xml:id="ch4glon1">*<foreign xml:lang="la">Hic fucus <note type="editorial" subtype="certainty" cert="check">
+                <note type="authorial" subtype="gloss" place="inline" xml:id="ch4glon1">*<foreign xml:lang="la">Hic fucus <note type="editorial" subtype="certainty" cert="check" xml:id="check2">
                             <fw type="sig">greek</fw>
-                        </note>: Ac hæc apis, <note type="editorial" subtype="certainty" cert="check">
+                        </note>: Ac hæc apis, <note type="editorial" subtype="certainty" cert="check" xml:id="check4">
                             <fw type="sig">greek</fw>
-                        </note> <note type="editorial" subtype="certainty" cert="check">
+                        </note> <note type="editorial" subtype="certainty" cert="check" xml:id="check5">
                             <fw type="sig">hebrew</fw>
-                        </note> cum <note type="editorial" subtype="certainty" cert="check">
+                        </note> cum <note type="editorial" subtype="certainty" cert="check" xml:id="check6">
                             <fw type="sig">hebrew</fw>
                         </note> fœminino.</foreign>
                     <persName>
@@ -4931,7 +4931,7 @@
                     either they have had their laudable use, as serving to make sweet Concords the
                     sweeter. So that if <term>Musicke</term> were lost, it might be found with the <ref target="#">*</ref><term>Muses</term> Birds. <note type="authorial" subtype="bibliographic" xml:id="ch5bibln27">
                         <bibl>Var.l.3.c.15</bibl>
-                    </note><note type="authorial" subtype="bibliographic" xml:id="ch5bibln28">V.<note type="editorial" subtype="certainty" cert="check">MISSING</note></note></p>
+                    </note><note type="authorial" subtype="bibliographic" xml:id="ch5bibln28">V.<note type="editorial" subtype="certainty" cert="check" xml:id="check7">MISSING</note></note></p>
                 <p xml:id="ch5par38">The severall parts of whole Song comprizing these mentioned notes, with pauses
                     interposed (as I have at severall times by a Winde-instrument, whose notes can
                     neither rise nor fall, attentively observed) I thought good heere to prick
@@ -5787,7 +5787,7 @@
                             swarm.</hi></note> But if the foule weather keepe them in the first day,
                     then are they much discouraged: so that the next day being indifferent, when
                     other Bees worke hard, they will scarce looke out of the doore, not daring to
-                    commit their leere and thinne bodies to the could aire. <note type="authorial" subtype="summary" xml:id="ch5sumn87">87. Foule weather continuing <note type="editorial" subtype="certainty" cert="check">doth make it arouse and die</note></note> And if they be quite
+                    commit their leere and thinne bodies to the could aire. <note type="authorial" subtype="summary" xml:id="ch5sumn87">87. Foule weather continuing <note type="editorial" subtype="certainty" cert="check" xml:id="check8">doth make it arouse and die</note></note> And if they be quite
                     kept in the second day also; then will they not wagge (though they dye for it)
                     untill the weather be very pleasant. <note type="authorial" subtype="summary" xml:id="ch5sumn88">
                     88. <hi>A
@@ -8816,7 +8816,7 @@
                                 v.c.6.n.30.</hi>
                         </ref></p>
                     <note type="authorial" subtype="gloss" place="inline" xml:id="ch10p2glon2">*<term>
-                            Acœton</term> without drosse or dregges. For <note type="editorial" subtype="certainty" cert="check">
+                            Acœton</term> without drosse or dregges. For <note type="editorial" subtype="certainty" cert="check" xml:id="check9">
                             <fw type="sig">Greek</fw>
                         </note> doth properly
                         signifie <term>Cubilo</term> a Bed, and is here used for Dregges, because
@@ -10038,15 +10038,15 @@
                         </note></p>
                     <note type="authorial" subtype="gloss" place="inline" xml:id="ch10p3glon17">*<hi>
                             Hydromel</hi> borealibus, quibus vineta desunt, pro vino est. Ideoque
-                        Cambris à <note type="editorial" subtype="certainty" cert="check">Greek</note> <hi>
+                        Cambris à <note type="editorial" subtype="certainty" cert="check" xml:id="check11">Greek</note> <hi>
                         Meth</hi> dicitur. Pro qua voce Germani (quibus Teutonico idiomate solenne
                         est <hi>D</hi> pro <hi>Th</hi> usurpare, ut in <hi>De,
                             Dis, Dat, Dunder;</hi> pro <hi>The, This, That, Thunder</hi>) adeoque
                         Angli etiam, aliique populi boreales à Germanis oriundi, corrupte dicunt <hi>
                         Mede.</hi> Medonis plurimum bibunt Poloni &amp; Lituani, quod Melle
                         abundent, inquit Andreas Matthiolus. <hi>
-                            Methæglen</hi> vero, quod <hi>Hydromel</hi> est præstantius, à <note type="editorial" subtype="certainty" cert="check">
-                            Greek</note> sive contractè <note type="editorial" subtype="certainty" cert="check">Greek</note>, id est, vinum splendidum denominatur: quòd
+                            Methæglen</hi> vero, quod <hi>Hydromel</hi> est præstantius, à <note type="editorial" subtype="certainty" cert="check" xml:id="check10">
+                            Greek</note> sive contractè <note type="editorial" subtype="certainty" cert="check" xml:id="check12">Greek</note>, id est, vinum splendidum denominatur: quòd
                         (modò vetus sit &amp; rite confectum) non minus colore succino, quam sapore
                         &amp; virtute præ vinis vinaceis splendeat. De hoc Mercator in <hi>Transylvania.
                         Ex melle incolæ
