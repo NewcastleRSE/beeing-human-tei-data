@@ -122,25 +122,78 @@
     </encodingDesc>
   </teiHeader>
   <text>
+    <front>
+      <divGen type="toc"/>
+    </front>
     <body>
-      <div>
+      <div xml:id="intro">
         <head>Introduction</head>
-        <p>Something</p>
+        <p>This document sets out the <ref target="#transcPrinc">Transcription Principles</ref> and
+          the <ref target="#encGuid">Encoding Guidelines</ref> for the digital edition of
+              <bibl><author>Charles Butler</author>'s <date>1623</date>
+            <title>The Feminine Monarchie or The Historie of Bees</title></bibl>.</p>
+        <p>The document presents both the rationale for, and the method of, encoding specific
+          textual phenomena in <name>Butler</name>'s work, including examples where appropriate. It
+          also explains the basic <ref target="#encTextStruct">textual structure</ref> (and its
+          respective encoding), as well as a list of all TEI elements used and refined for the
+          encoding. Textual structures and phenomena not mentioned in this document are
+            <emph>not</emph> encoded in any form -- the rationale for this being set out in the
+          introductions to the <ref target="#transcPrinc">Transcription Principles</ref> and <ref
+            target="#encGuid">Encoding Guidelines</ref>.</p>
+        <p>During the duration of the project, this document is subject to changes and will reflect
+          the latest principles and encoding guidelines.</p>
+        <p>This document (and accompanying customisation) were written by <name>Tiago Sousa
+            Garcia</name> in consultation with <name>Jennifer Richards</name> (the project's
+          Principal Investigator) and <name>Olivia Smith</name>, with advice from <name>James
+            Cummings.</name></p>
       </div>
-      <div>
+      <div xml:id="transcPrinc">
         <head>Transcription Principles</head>
-        <p>Something</p>
+        <p><bibl><author>Butler</author>'s <title>Feminine Monarchie</title></bibl> was first
+          transcribed into a plain text file with custom <term>markup</term> to identify any
+          presentation feature of the original text (for example italics, notes, titles, running
+          headers, catchwords, etc.) by <name>Olivia Smith</name>. Those features were then
+          transformed using a simple <ident>Python</ident> script into basic <ident>TEI</ident> by
+            <name>Tiago Sousa Garcia</name>, who created the first draft of the encoding, adding
+          textual structure, detail, and differentiation manually.</p>
+        <p>A few transcription principles were agreed at this time and are, therefore not encoded.
+          These are:</p>
+        <list>
+          <item><emph>Folio references were preserved</emph> (see <ref target="#">ADD</ref> for
+            their encoding). If a word is split across two pages, like 'Tho-' and 'mas', the
+            hypenation was also recorded.</item>
+          <item><emph>i/j and u/v</emph> were silently modernised.</item>
+          <item><emph>Long 's', double long 's', double 'v' ('vv')</emph> were silently
+            modernised.</item>
+          <item><emph>Diagraphs</emph> were silently modernised, so oeconomical not œconomical;
+            Aeneas not Æneas.</item>
+        </list>
       </div>
-      <div>
-        <head>Textual Structure</head>
-        <p>Something</p>
-      </div>
-      <div>
-        <head>Textual Phenomena</head>
-        <p>Something</p>
-        <div>
-          <head>Notes</head>
+      <div xml:id="encGuid">
+        <head>Encoding Guidelines</head>
+        <div xml:id="encMeta">
+          <head>Metadata</head>
           <p>Something</p>
+        </div>
+        <div xml:id="encTextStruct">
+          <head>Textual Structure</head>
+          <p>Something</p>
+        </div>
+        <div xml:id="encTextPhen">
+          <head>Textual Phenomena</head>
+          <p>Something</p>
+          <div xml:id="encFront">
+            <head>Front Matter</head>
+            <p>Something</p>
+          </div>
+          <div xml:id="encNotes">
+            <head>Notes</head>
+            <p>Something</p>
+          </div>
+          <div xml:id="encFig">
+            <head>Figures and Diagrams</head>
+            <p>Something</p>
+          </div>
         </div>
       </div>
       <div>
