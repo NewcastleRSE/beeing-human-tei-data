@@ -210,10 +210,8 @@
             double-checking.</desc>
           <constraintSpec ident="bibliographic-note-must-contain" scheme="schematron">
             <constraint>
-              <sch:report
-                test="@subtype='bibliographic' and count(descendant::tei:ref|descendant::tei:bibl)=0"
-                role="error">A bibliographic note must contain at least one bibl or ref
-                element</sch:report>
+              <sch:report test="@subtype='bibliographic' and count(descendant::tei:ref|descendant::tei:bibl)=0" role="error">A
+                bibliographic note must contain at least one bibl or ref element</sch:report>
             </constraint>
           </constraintSpec>
           <attList>
@@ -357,8 +355,7 @@
             using this unless no other option is feasible.</desc>
           <constraintSpec ident="hi-sanity-check" scheme="schematron">
             <constraint>
-              <sch:assert test="@rend" role="warning">Is 'hi' the best element to describe this? If
-                so, please provide rendering information with @rend.</sch:assert>
+              <sch:assert test="@rend" role="warning">Is 'hi' the best element to describe this? If so, please provide rendering information with @rend.</sch:assert>
             </constraint>
           </constraintSpec>
           <attList>
