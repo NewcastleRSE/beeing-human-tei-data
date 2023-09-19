@@ -114,38 +114,36 @@
           </desc>
         </application>
       </appInfo>
+      <appInfo>
+        <application ident="RomaJS" version="1.0.0" when="2023-09-19T10:05:59.384Z">
+          <desc>File edited with <ref target="https://github.com/TEIC/romajs">RomaJS</ref></desc>
+        </application>
+      </appInfo>
     </encodingDesc>
   </teiHeader>
   <text>
     <body>
-      <head>A Minimal TEI Customization</head>
-
-      <p>This TEI ODD defines a TEI customization that is as minimal as possible and the schema
-        generated from it will validate a document that is minimally valid against the TEI scheme.
-        It includes only the ten required elements: <list rend="numbered">
-          <item>
-            <gi>teiHeader</gi> from the header module to store required metadata</item>
-          <item>
-            <gi>fileDesc</gi> from the header module to record information about this file</item>
-          <item>
-            <gi>titleStmt</gi> from the header module to record information about the title</item>
-          <item>
-            <gi>publicationStmt</gi> from the header module to detail how it is published</item>
-          <item>
-            <gi>sourceDesc</gi> from the header module to record where it is from</item>
-          <item>
-            <gi>p</gi> from the core module for use in the header and the body</item>
-          <item>
-            <gi>title</gi> from the core module for use in the titleStmt</item>
-          <item>
-            <gi>TEI</gi> from the textstructure module because what is a TEI file without
-            that?</item>
-          <item>
-            <gi>text</gi> from the textstructure module to hold some text</item>
-          <item>
-            <gi>body</gi> from the textstructure module as a place to put that text</item>
-        </list>
-      </p>
+        <div>
+          <head>Introduction</head>
+          <p>Something</p>
+        </div>
+        <div>
+          <head>Transcription Principles</head>
+          <p>Something</p>
+        </div>
+        <div>
+          <head>Textual Structure</head>
+          <p>Something</p>
+        </div>
+        <div>
+          <head>Textual Phenomena</head>
+          <p>Something</p>
+          <div>
+            <head>Notes</head>
+            <p>Something</p>
+          </div>
+        </div>
+      <div>
       <schemaSpec ident="tei_beeing_human" start="TEI" prefix="tei_" targetLang="en" docLang="en">
 
         <!-- required minimal header elements -->
@@ -210,8 +208,10 @@
             double-checking.</desc>
           <constraintSpec ident="bibliographic-note-must-contain" scheme="schematron">
             <constraint>
-              <sch:report test="@subtype='bibliographic' and count(descendant::tei:ref|descendant::tei:bibl)=0" role="error">A
-                bibliographic note must contain at least one bibl or ref element</sch:report>
+              <sch:report
+                test="@subtype='bibliographic' and count(descendant::tei:ref|descendant::tei:bibl)=0"
+                role="error">A bibliographic note must contain at least one bibl or ref
+                element</sch:report>
             </constraint>
           </constraintSpec>
           <attList>
@@ -355,7 +355,8 @@
             using this unless no other option is feasible.</desc>
           <constraintSpec ident="hi-sanity-check" scheme="schematron">
             <constraint>
-              <sch:assert test="@rend" role="warning">Is 'hi' the best element to describe this? If so, please provide rendering information with @rend.</sch:assert>
+              <sch:assert test="@rend" role="warning">Is 'hi' the best element to describe this? If
+                so, please provide rendering information with @rend.</sch:assert>
             </constraint>
           </constraintSpec>
           <attList>
@@ -407,7 +408,17 @@
             <attDef ident="who" mode="change" usage="req"/>
           </attList>
         </elementSpec>
-      </schemaSpec>
+        <elementSpec ident="ref" mode="change">
+          <constraintSpec ident="ref-sanity-check" scheme="schematron">
+            <constraint>
+              <sch:report test="@target='#'" role="info">This 'ref' will need to point towards the corresponding @xml:id</sch:report>
+            </constraint>
+          </constraintSpec>
+          <attList>
+            <attDef ident="target" mode="change" usage="req"/>
+          </attList>
+        </elementSpec>
+      </schemaSpec></div>
     </body>
   </text>
 </TEI>
