@@ -167,24 +167,236 @@
             modernised.</item>
           <item><emph>Diagraphs</emph> were silently modernised, so oeconomical not œconomical;
             Aeneas not Æneas.</item>
+          <item><emph>'then'</emph> was silently modernised to 'than' when 'than' is meant.</item>
+          <item><emph>Thorns</emph> that stand for 'th' have been modernised: i.e., 'y<hi
+              rend="superscript">e</hi>' to 'the'; 'y<hi rend="superscript">t</hi>' to 'that'; 'y<hi
+              rend="superscript">r</hi>' to 'there'</item>
+          <item><emph>Diacritics</emph> (accents above words) have been preserved.</item>
+          <item><emph>Ligatures</emph> ('pre', 'pro', 'per') <emph>macrons</emph> (for m, n) as well
+            as other common abbreviations ('w<hi rend="superscript">th</hi>', 'w<hi
+              rend="superscript">ch</hi>') have been silently expanded.</item>
+          <item><emph>Hyphenation</emph> has been retained in all cases except when it occurs in a
+            word broken apart by the end of a line, i.e., 'ob-<tag>lb/</tag>jected' has been
+            transcribed as 'objected'.</item>
+          <item>Where meaning was obscured, <emph>missing letters</emph> were silently added (i.e.,
+            'to' becomes 'too', 'of' becomes 'off' where relevant).</item>
+          <item>Ampersands were always retained, although they have been transcribed using their
+              <ident>HTML</ident> entity code (<code lang="html">&amp; amp ;</code> without spaces
+            to avoid processing errors.</item>
+          <item><emph>Punctuation</emph> was retained.</item>
+          <item><emph>Full stops before and after numerals</emph> were retained ('the .2. of
+            May').</item>
+          <item><emph>In all cases not mentioned on this list</emph>, the original spelling was
+            retained.</item>
+          <item><emph>Large and small caps</emph> were retained, with the exception of the first
+            character following a decorated capital, i.e., '<tag>hi
+              rend='drop-capital'</tag>N<tag>hi/</tag>Octem' becomes '<tag>hi
+              rend='drop-capital'</tag>N<tag>hi/</tag>octem'.</item>
         </list>
       </div>
       <div xml:id="encGuid">
         <head>Encoding Guidelines</head>
+        <p>This section sets out the basic proceadures followed in the encoding of the text. It
+          covers the <ref target="#encMeta">Metadata</ref> and <ref target="#encTextStruct">Textual
+            Structure</ref> in broad strokes, and specific <ref target="#encTextPhen">Textual
+            Phenomena</ref> in more detail. For the most part, our encoding follows the basic TEI
+          Guidelines so this guide will only cover where the customisation deviates from the
+          Guidelines, or how to encode specific structures that reocurr in the text often.</p>
         <div xml:id="encMeta">
           <head>Metadata</head>
-          <p>Something</p>
+          <p>Metadata about both the digital edition and the source text are encoded in the
+              <tag>teiHeader</tag>, as per the guidelines. The <tag>teiHeader</tag> includes data
+            specifically about the project, including <tag>funder</tag> information, about the
+            project team responsibilities (<tag>editionStmt</tag>), licensing and bibliographic
+            information about the source text. It also includes a summary revision history (in
+              <tag>listChange</tag>) that deserves further attention.</p>
+          <div xml:id="encMetaChange">
+            <head>Recording changes in the encoding.</head>
+            <p>The most mutable portion of the <tag>teiHeader</tag> is the <tag>revisionDesc</tag>.
+              This collects information about any changes made to the file, including the date,
+              responsibility and brief description of that change, serving both as a history of the
+              evolution of the file and a sanity check during the encoding. Everytime the file is
+              changed (or any time a batch of small changes are made), a <tag>change</tag> element
+              should be added to the <emph>top</emph> of the <tag>listChange</tag>. The
+                <tag>change</tag>
+              <emph>must</emph> have a <att>who</att> (with your initials), a <att>when</att> with
+              the date in ISO format (YYYY-MM-DD) and contain a brief description of your change,
+              indicating if possible it's location on the text (for example: 'corrected a small
+              transcription mistake in #ch1p1').</p>
+            <label>Example:</label>
+            <egXML xmlns="http://www.tei-c.org/ns/Examples">
+              <revisionDesc>
+                <listChange>
+                  <change who="TSG" when="2023-09-14">Added targets to index</change> ... <change
+                    who="TSG" when="2023-09-01">Initial encoding</change>
+                </listChange>
+              </revisionDesc>
+            </egXML>
+          </div>
         </div>
         <div xml:id="encTextStruct">
           <head>Textual Structure</head>
-          <p>Something</p>
+          <p>The encoded text follows (as it should) the textual structure of the source document.
+            The highest level divisions present are encoded in <tag>front</tag>, <tag>body</tag> and
+              <tag>back</tag> elements, corresponding to the paratextual elements before the text,
+            the body of the text, and the paratextual elements after the text. Each of these
+            elements contains further subdivisions, namely:</p>
+          <list type="gloss">
+            <label><tag>front</tag></label>
+            <item>Contains <tag>titlePage</tag>, preface (<tag>div type="preface"</tag>),
+              dedications (<tag>div type="dedication"</tag>), and table of contents (<tag>div
+                type="contents"</tag>).</item>
+            <label><tag>body</tag></label>
+            <item>Contains divisions for chapters (<tag>div type="chapter"</tag>) and forme work
+              that might appear outside of chapter divisions (ornaments, signatures, catchwords,
+              running headers). Chapter division, may also contain further subdivisions (namely in
+              chapter 10) which are further encoded using <tag>div type="section"</tag>. All
+              chapters contain side notes that give a summary of a paragraph or a portion of text
+              however these are not clear cut sections and have not been reflected in the textual
+              structure, instead being marked up with a special <tag>note</tag> element.</item>
+            <label><tag>back</tag></label>
+            <item>Contains only a small biblical quotation and closing header encapsulated by a
+                <tag>trailer</tag>.</item>
+          </list>
         </div>
         <div xml:id="encTextPhen">
           <head>Textual Phenomena</head>
-          <p>Something</p>
+          <p>What follows is a guide on how to encode the textual phenomena found in the text, in an
+            order roughly equivalent to their first appearance. Excluded from this section are the
+            guidelines related to the <tag>teiHeader</tag> and Textual Structure as these have been
+            covered above and are unlikely to be redrawn for most of the project.</p>
           <div xml:id="encFront">
             <head>Front Matter</head>
-            <p>Something</p>
+            <p>Phenomena in the front matter should be encoded following the same principles as the
+              rest of the text, the exception being the presence of a few unique elements:</p>
+            <list type="gloss">
+              <label><tag>titlePage</tag></label>
+              <item>Contains the encoding of the title page with its corresponding specific
+                elements: <tag>docTitle</tag> that encapsulates all parts of the title,
+                  <tag>byline</tag>, <tag>epigraph</tag>, and <tag>docImprint</tag>. Line breaks in
+                the title have been preserved using <tag>lb/</tag>.</item>
+              <label><tag>signed</tag></label>
+              <item>Which encodes the name of authors in the preface and dedications</item>
+              <label>Table of Contents</label>
+              <item>Organised into <tag>list</tag>and <tag>item</tag> each containing a
+                  <tag>ptr</tag> with a <att>target</att> attribute of the corresponding
+                  <att>xml:id</att>. For example: <egXML xmlns="http://www.tei-c.org/ns/Examples">
+                  <item>1 <hi rend="italic">Bees yeeld great profit with small cost.</hi>
+                    <ptr target="#ch1sumn1"/></item>
+                </egXML></item>
+            </list>
+          </div>
+          <div xml:id="encPb">
+            <head>Physical pages</head>
+            <p>The start of a new page should be marked with an <tag>pb/</tag> element and an
+                <att>n</att> attribute containing the printed (or deduced) signtaure.</p>
+            <label>Example:</label>
+            <egXML xmlns="http://www.tei-c.org/ns/Examples">
+              <pb n="¶2r"/>
+              <!-- what follows is the content of ¶2r (the title page) -->
+            </egXML>
+            <p>These can later be linked to a facsimile of the corresponding page with a
+                <tag>url</tag> attribute pointing to an appropriate URL or local image.</p>
+          </div>
+          <div>
+            <head xml:id="encFw">Running headers, catch-words, and other forme work</head>
+            <p>Any graphical or textual element that appears on the page but is not part of the body
+              of the text should be recorded as forme work using the element <tag>fw</tag>, with a
+              further <att>type</att> attribute to differentiate it. The most common are:</p>
+            <list>
+              <label>Running headers</label>
+              <item>Running headers should have a <att>type</att> with the value of
+                  <val>header</val> and contain its transcription, according to the principles in
+                place for the main body of the text. <label>Example:</label>
+                <egXML xmlns="http://www.tei-c.org/ns/Examples">
+                  <fw type="header">The Preface to the Reader.</fw>
+                </egXML>
+                <p>Although running headers are not empty, they are a milestone element and can,
+                  therefore, appear within larger structures like a paragraph (<tag>p</tag>), or a
+                    <tag>note</tag>, as in this example:</p>
+                <egXML xmlns="http://www.tei-c.org/ns/Examples">
+                  <note type="authorial" subtype="gloss" place="inline" xml:id="ch3glon6">* In the
+                    Winter, place the Belt below the middle or biggest part of the Hive, to keepe it
+                    warme in extremity of cold. In Summer above, that the nether part of the hackle
+                    hanging out from the Hive, the Hive may be the cooler: and then because the Belt
+                    will be apt to rise, it would be held <fw type="catch"> downe</fw>
+                    <pb n="F3v"/>
+                    <fw type="header">
+                      <hi>Of the Hives,</hi>
+                    </fw> downe to the place with two forked stickes, the fork resting upon the
+                    Belt, and the other end under the Cap.</note>
+                </egXML>
+              </item>
+              <label>Catchwords</label>
+              <item>Catchwords should have a <att>type</att> attribute with the value of
+                  <val>catch</val>, and contain its transcription according to the general
+                transcription principles (with the exception that any hyphenation is preserved).
+                  <label>Example:</label>
+                <egXML xmlns="http://www.tei-c.org/ns/Examples"> fruit of the little Bee is so great
+                  and wonderfull, so comely for order and <fw type="catch"> beauty,</fw>
+                  <pb n="¶3v"/>
+                </egXML>
+                <p>Catchwords, <tag>pb/</tag> and running headers almost always appear one after the
+                  other, so if they don't, please make sure this is not a transcription error. Like
+                  running headers, catchwords are not empty but should be treated as a milestone
+                  element and can, therefore, appear within larger structures like a paragraph
+                    (<tag>p</tag>) or <tag>note</tag></p>
+              </item>
+              <label>Horizontal rule</label>
+              <item><p>These graphical divisions are fairly rare and appear mostly in the title
+                  page. They do not indicate any significant textual structure that is not already
+                  declared elsewhere. They should be recorded merely as forme work with a
+                    <att>type</att> of <val>horizontalRule</val>.</p>
+                <label>Example:</label>
+                <egXML xmlns="http://www.tei-c.org/ns/Examples">
+                  <docTitle> ... </docTitle>
+                  <fw type="horizontalRule"/>
+                  <byline>Written out of Experience<lb/> ... </byline>
+                </egXML>
+              </item>
+              <label>Ornaments and printer's devices</label>
+              <item>Ornaments and printers devices that do not carry any semantic meaning should
+                also be recorded as forme work, with a <att>type</att> attribute of
+                  <val>ornament</val>. An image of each ornament can later be added to the element
+                with a <tag>url</tag> attribute. <label>Example:</label>
+                <egXML xmlns="http://www.tei-c.org/ns/Examples">
+                  <fw type="ornament"/>
+                </egXML>
+              </item>
+              <label>Signatures</label>
+              <item>Signatures <emph>should not</emph> be recorded as forme work as they are already
+                encoded by <ptr target="#encPb"/></item>
+            </list>
+          </div>
+          <div xml:id="encHead">
+            <head>Headings</head>
+            <p>Headings are encoded with a <tag>head</tag> and should only follow divisions in
+              textual structure (<tag>div</tag>). They should be further differentiated by a
+                <att>type</att> attribute with the appropriate value. There are exceptions to this
+              rule in the front matter, but generally a heading should fall into one one of three
+              types:</p>
+            <list>
+              <label>Chapter Number and Chapter Title</label>
+              <item>Chapter number encodes the numeric heading of the chapter, and is immediately
+                followed by the Chapter Title. Each of these headings contains its respective
+                transcription. <label>Example: </label>
+                <egXML xmlns="http://www.tei-c.org/ns/Examples">
+                  <div type="chapter" n="1" xml:id="ch1">
+                    <head type="chapter-number">CHAP. I.</head>
+                    <head type="chapter-title" rend="italic"> Of the Nature and properties of Bees,
+                      and of their Queene. </head> ... </div>
+                </egXML>
+              </item>
+              <label>Section Title</label>
+              <item>Section headings occur only in the tenth chapter, and contain the section title
+                as it appears in the source text. <label>Example: </label>
+                <egXML xmlns="http://www.tei-c.org/ns/Examples">
+                  <div type="section" n="1" xml:id="ch10p1">
+                    <head type="section-title">The first part of this Chapter sheweth the taking of
+                      the Combes.</head> ... </div>
+                </egXML>
+              </item>
+            </list>
           </div>
           <div xml:id="encNotes">
             <head>Notes</head>

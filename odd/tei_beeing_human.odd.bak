@@ -149,13 +149,41 @@
       </div>
       <div xml:id="transcPrinc">
         <head>Transcription Principles</head>
-        <p><bibl><author>Butler</author>'s <title>Feminine Monarchie</title></bibl> was first transcribed into a plain text file with custom <term>markup</term> to identify any presentation feature of the original text (for example italics, notes, titles, running headers, catchwords, etc.) by <name>Olivia Smith</name>. Those features were then transformed using a simple <ident>Python</ident> script into basic <ident>TEI</ident> by <name>Tiago Sousa Garcia</name>, who created the first draft of the encoding, adding textual structure, detail, and differentiation manually.</p>
-        <p>A few transcription principles were agreed at this time and are, therefore not encoded. These are:</p>
+        <p><bibl><author>Butler</author>'s <title>Feminine Monarchie</title></bibl> was first
+          transcribed into a plain text file with custom <term>markup</term> to identify any
+          presentation feature of the original text (for example italics, notes, titles, running
+          headers, catchwords, etc.) by <name>Olivia Smith</name>. Those features were then
+          transformed using a simple <ident>Python</ident> script into basic <ident>TEI</ident> by
+            <name>Tiago Sousa Garcia</name>, who created the first draft of the encoding, adding
+          textual structure, detail, and differentiation manually.</p>
+        <p>A few transcription principles were agreed at this time and are, therefore not encoded.
+          These are:</p>
         <list>
-          <item><emph>Folio references were preserved</emph> (see <ref target="#">ADD</ref> for their encoding). If a word is split across two pages, like 'Tho-' and 'mas', the hypenation was also recorded.</item>
+          <item><emph>Folio references were preserved</emph> (see <ref target="#">ADD</ref> for
+            their encoding). If a word is split across two pages, like 'Tho-' and 'mas', the
+            hypenation was also recorded.</item>
           <item><emph>i/j and u/v</emph> were silently modernised.</item>
-          <item><emph>Long 's', double long 's', double 'v' ('vv')</emph> were silently modernised.</item>
-          <item><emph>Diagraphs</emph> were silently modernised, so oeconomical not œconomical; Aeneas not Æneas.</item>
+          <item><emph>Long 's', double long 's', double 'v' ('vv')</emph> were silently
+            modernised.</item>
+          <item><emph>Diagraphs</emph> were silently modernised, so oeconomical not œconomical;
+            Aeneas not Æneas.</item>
+          <item><emph>'then'</emph> was silently modernised to 'than' when 'than' is meant.</item>
+          <item><emph>Thorns</emph> that stand for 'th' have been modernised: i.e., 'y<hi
+              rend="superscript">e</hi>' to 'the'; 'y<hi rend="superscript">t</hi>' to 'that'; 'y<hi
+              rend="superscript">r</hi>' to 'there'</item>
+          <item><emph>Diacritics</emph> (accents above words) have been preserved.</item>
+          <item><emph>Ligatures</emph> ('pre', 'pro', 'per') <emph>macrons</emph> (for m, n) as well
+            as other common abbreviations ('w<hi rend="superscript">th</hi>', 'w<hi
+              rend="superscript">ch</hi>') have been silently expanded.</item>
+          <item><emph>Hyphenation</emph> has been retained in all cases except when it occurs in a
+            word broken apart by the end of a line, i.e., 'ob-<tag>lb/</tag>jected' has been
+            transcribed as 'objected'.</item>
+          <item>Where meaning was obscured, <emph>missing letters</emph> were silently added (i.e., 'to' becomes 'too', 'of' becomes 'off' where relevant).</item>
+          <item>Ampersands were always retained, although they have been transcribed using their <ident>HTML</ident> entity code (<code lang="html">&amp; amp ;</code> without spaces to avoid processing errors.</item>
+          <item><emph>Punctuation</emph> was retained.</item>
+          <item><emph>Full stops before and after numerals</emph> were retained ('the .2. of May').</item>
+          <item><emph>In all cases not mentioned on this list</emph>, the original spelling was retained.</item>
+          <item><emph>Large and small caps</emph> were retained, with the exception of the first character following a decorated capital, i.e., '<tag>hi rend='drop-capital'</tag>N<tag>hi/</tag>Octem' becomes '<tag>hi rend='drop-capital'</tag>N<tag>hi/</tag>octem'.</item>
         </list>
       </div>
       <div xml:id="encGuid">
