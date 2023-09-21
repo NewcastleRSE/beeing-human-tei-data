@@ -296,7 +296,7 @@
               <!-- what follows is the content of ¶2r (the title page) -->
             </egXML>
             <p>These can later be linked to a facsimile of the corresponding page with a
-                <tag>url</tag> attribute pointing to an appropriate URL or local image.</p>
+                <att>url</att> attribute pointing to an appropriate URL or local image.</p>
           </div>
           <div>
             <head xml:id="encFw">Running headers, catch-words, and other forme work</head>
@@ -358,7 +358,7 @@
               <item>Ornaments and printers devices that do not carry any semantic meaning should
                 also be recorded as forme work, with a <att>type</att> attribute of
                   <val>ornament</val>. An image of each ornament can later be added to the element
-                with a <tag>url</tag> attribute. <label>Example:</label>
+                with a <att>url</att> attribute. <label>Example:</label>
                 <egXML xmlns="http://www.tei-c.org/ns/Examples">
                   <fw type="ornament"/>
                 </egXML>
@@ -525,13 +525,224 @@
                 inside the quotation.</item>
             </list>
           </div>
+          <div xml:id="encForeign">
+            <head>Foreign text</head>
+            <p>Any text (including single words not otherwise marked up) written in a language other
+              than English should be encoded with a <tag>foreign</tag> element with a corresponding
+                <att>xml:lang</att> attribute. The two most common language are Latin (<tag>foreign
+                xml:lang="la")</tag> and Ancient Greek (<tag>foreign xml:lang="grc")</tag></p>
+          </div>
           <div xml:id="encNotes">
             <head>Notes</head>
-            <p>Something</p>
+            <p>Notes are a major part of Butler's work and special care should be taken in their
+              encoding. There are several different types of notes which are further refined with
+                <att>type</att> and <att>subtype</att> attributes, and all notes must include them.
+              The <att>type</att> attribute defines a note as either <val>authorial</val> or
+                <val>editorial</val>. All authorial notes have been assined an automatic
+                <att>xml:id</att> value that follows a simple pattern: part of book, followed by
+              subtype of note, followed by note number. So an <att>xml:id</att> of
+                <val>frontbibln1</val> refers to the first bibliographic note in the front matter;
+              or an <att>xml:id</att> of <val>ch3sumn8</val> refers to the eight summary note in
+              chapter 3. For summary notes, the note number is the same as the note number in the
+              source text.</p>
+            <div xml:id="encNotesAuth">
+              <head>Authorial Notes</head>
+              <p>Authorial notes, i.e, all notes included in the source text, are always marked with
+                an <att>type</att> attribute of <val>authorial</val>. They are then further divided
+                into the following subtypes:</p>
+              <list>
+                <label>Summary notes</label>
+                <item>These are the notes that help navigate the text. They are numbered in the
+                  source document and offer a short, one-sentence summary of the main text they are
+                  attached to and should, wherever possible, be placed just before the section of
+                  text they refer to. They should be marked with a <att>subtype</att> of
+                    <val>summary</val>. <label>Example:</label>
+                  <egXML xmlns="http://www.tei-c.org/ns/Examples">
+                    <p xml:id="ch3par23">
+                      <note type="authorial" subtype="summary" xml:id="ch3sumn16">16. How to make a
+                        hackle.</note> The best cover for Hives is a thicke hackle: ...</p>
+                  </egXML></item>
+                <label>Bibliographic notes</label>
+                <item>These notes usually provide a reference to a particular point made in the body
+                  of the text, or a reference to a quotation made in the body of the text. They can
+                  be internal cross-references, or external bibliographic information. No
+                  distinction is made between these two types with attributes, instead their content
+                  is encoded differently: cross-references must contain a <tag>ref</tag> element
+                  while bibliographic references must contain a <tag>bibl</tag> element. In both
+                  cases, the note should have a <att>subtype</att> attribute with the value of
+                    <val>bibliographic</val>. <label>Example of cross-reference</label><egXML
+                    xmlns="http://www.tei-c.org/ns/Examples">
+                    <note type="authorial" subtype="bibliographic" xml:id="ch2bibln14">
+                      <ref target="#">V.c.10.p.I.n.3</ref>
+                    </note>
+                  </egXML>
+                  <label>Example of bibliography</label><egXML
+                    xmlns="http://www.tei-c.org/ns/Examples">
+                    <note type="authorial" subtype="bibliographic" xml:id="ch1bibln43">
+                      <bibl>Hist.an.l.9.cap.40.</bibl>
+                    </note>
+                  </egXML></item>
+                <label>Gloss notes</label>
+                <item>Gloss notes offer further detail, explanation, or deviation from the main body
+                  of the text. They should have a <att>subtype</att> with the value of
+                    <val>gloss</val>. They are often linked through from the text using an * or a †.
+                  Like all other notes, they can appear as side-notes, although often they also
+                  appear in the body of the text, in smaller type. If this is the case, the note
+                  should also contain a <att>place</att> attribute with the value <val>inline</val>.
+                    <label>Example of gloss side-note</label><egXML
+                    xmlns="http://www.tei-c.org/ns/Examples">
+                    <note type="authorial" subtype="gloss" xml:id="ch1glon1">*Which not onely
+                      increaseth their anger, (specially in hot weather, <hi>v.n.</hi>38.) but
+                      inciteth others to take their parts: and if by striving and striking you
+                      chance to kill one, the Bees presently perceiving it by the strong smell of
+                      the humour (for she smelleth then as if she had stung, <hi> v.n.</hi>29.) will
+                      be so eager upon revenge, that by no meanes can they be pacified, untill they
+                      have the field.</note>
+                  </egXML>
+                  <label>Example of inline gloss note</label>
+                  <egXML xmlns="http://www.tei-c.org/ns/Examples">
+                    <note type="authorial" subtype="gloss" xml:id="ch1glon4" place="inline">*Which
+                      is a long life in comparison of the Silk-wormes, which live but foure moneths;
+                      or of the Waspes, which live but five: or of the Drones, which but six.</note>
+                  </egXML>
+                </item>
+              </list>
+            </div>
+            <div xml:id="encNotesEd">
+              <head>Editorial Notes</head>
+              <p>Currently, there is only one type of editorial notes, although this type is
+                reserved for later use for annotation. Editorial notes are used to mark places that
+                need double checking, or are missing transcriptions. In addition to <att>type</att>
+                being <val>editorial</val>, they must have a <att>subtype</att> of either
+                  <val>check</val> or <val>other</val>. They can also have a <att>cert</att>
+                attribute with a value of <val>check</val> or a value of confidence in
+                transcription. These notes should be deleted once they have been double-checked and
+                confirmed, and if any doubt to the certainty of the transcription remains, that
+                should be marked out differently.</p>
+              <label>Example:</label>
+              <egXML xmlns="http://www.tei-c.org/ns/Examples">
+                <note type="editorial" subtype="other" cert="check" xml:id="check1">Greek
+                  script</note>
+              </egXML>
+              <egXML xmlns="http://www.tei-c.org/ns/Examples">
+                <note type="editorial" subtype="other" cert="check"
+                  ana="Should we regularise the I to J silently in this case? -- Tiago"
+                  xml:id="check3">J for June, <hi>J</hi> for July</note>
+              </egXML>
+            </div>
+          </div>
+          <div xml:id="encBibl">
+            <head>Bibliography and cross-references</head>
+            <p>Bibliographic information or cross-references can appear in both the main body of the
+              text or inside notes. Regardless of their placement, at the lowest leve they should be
+              encoded in the same way, namely:</p>
+            <list>
+              <label>Bibliography</label>
+              <item>Bibliographic references should be encoded with a <tag>bibl</tag> element, and
+                can encode further structured information (for example, an <tag>author</tag>
+                element), although at this stage simply marking up the source text with the
+                  <tag>bibl</tag> element is sufficient. <label>Example:</label>
+                <egXML xmlns="http://www.tei-c.org/ns/Examples">
+                  <bibl>Nat.hist.li.21.c.12.</bibl>
+                </egXML></item>
+              <label>Cross-references</label>
+              <item>Cross-references point to other places within the text (usually specific notes
+                that can be in a completely different part of the text, like summary notes in
+                different chapters, or close to the cross-reference itself, like gloss notes). In
+                both cases, they should be encoded with a <tag>ref</tag> element and a
+                  <att>target</att> attribute that will contain a '#' followed by the
+                  <att>xml:id</att> of the target note. <label>Examples:</label><egXML
+                  xmlns="http://www.tei-c.org/ns/Examples">
+                  <note type="authorial" subtype="bibliographic" xml:id="ch1bibln9"><ref
+                      target="ch7sumn35">Vid.c.7.n.35</ref></note>
+                </egXML>
+                <egXML xmlns="http://www.tei-c.org/ns/Examples"> or yeelding the Robbers, <ref
+                    target="#ch1bibln10">v:</ref>
+                </egXML>
+                <egXML xmlns="http://www.tei-c.org/ns/Examples"> may remove it) in <ref
+                    target="#ch3glon7">*</ref>length, depth, and thicknesse fitting to the wicket
+                </egXML>
+              </item>
+            </list>
+          </div>
+          <div xml:id="encEnt">
+            <head>Entities (names, places)</head>
+            <p>Wherever possible, named entities such as the names of people or places should be
+              marked with the corresponding elements <tag>persName</tag> and <tag>placeName</tag>.
+              Names of authors should always be marked up with <tag>persName</tag> and not an
+                <tag>author</tag> element, unless they appear inside a structured
+              <tag>bibl</tag>.</p>
+            <label>Examples:</label>
+            <egXML xmlns="http://www.tei-c.org/ns/Examples">such as is our Iland of <placeName
+                rend="italic">Britaine</placeName>, I doubt mee shee will never quit cost:</egXML>
+            <egXML xmlns="http://www.tei-c.org/ns/Examples">The love of which did so ravish
+                <persName rend="italic">Aristomachus</persName> and <persName rend="italic"
+                >Philiscus</persName>, that, as <persName rend="italic">Plinie</persName>
+              reporteth</egXML>
+          </div>
+          <div xml:id="encLg">
+            <head>Text in verse</head>
+            <p>Text in verse can appear withing quotations, and should follow the normal TEI
+              Guidelines. Each line of verse should be encoded with an <tag>l</tag> element, and
+              each stanza should be encoded with an <tag>lg</tag> element. If more than one stanza
+              is present, the entire verse portion should be grouped with a <tag>div
+                type="poem"</tag> element.</p>
+            <label>Example:</label>
+            <egXML xmlns="http://www.tei-c.org/ns/Examples">
+              <div type="poem" xml:lang="la">
+                <head type="poemTitle">Ad Authorem.</head>
+                <lg rend="italic">
+                  <l>
+                    <hi rend="drop-capital">Q</hi> Uæ natura Apibus, quæ membra, scientia, sensus, </l>
+                  <l>Virtutes, ætas, ingenium, pietas,</l>
+                  <l>Quæ statio, &amp; sedes, sobules, examina, tecta,</l>
+                  <l>His hæc condendi promptus ubiqe modus; </l>
+                  <l>Quæ princeps, populus, regimen, respublica, mores, </l>
+                  <l>Quæ sint arma, hostes, prælia, castra, duces, </l>
+                  <l>Quam celeri campos gressis, sylvasque peragrant,</l>
+                  <l>Qua cellas singunt arte, labore replent,</l>
+                  <l>Quam prosint hominum generi cœlestia dona, </l>
+                  <l>Utque magis prosint quo moderanda modo; </l>
+                  <l>Per te miranda hæc le vium spectacula rerum</l>
+                  <l>Mystica tot seclis clausa reclusa patent.</l>
+                </lg>
+                <lg rend="italic">
+                  <l>Aut a consilijs Apibus, Butlere, fuisti,</l>
+                  <l>Aut a consilijs est Apis ipsa tuis.</l>
+                </lg>
+              </div>
+            </egXML>
+          </div>
+          <div xml:id="encTerm">
+            <head>Special Terms</head>
+            <p>Throughout the text, certain words are emphasised graphically (usually italics) to
+              denote a special semantic meaning to the subject matter. These should be encoded with
+              the <tag>term</tag> element. No special distinction between different types is made at
+              this stage, although future encoding might want to create it. An obvious example is
+              the use of horoscopic signs to refer to seasons and months.</p>
+            <label>Examples:</label>
+            <egXML xmlns="http://www.tei-c.org/ns/Examples"> Among which, though there do not appear
+              those outward <term> Organa</term> of senting which other <term>Animals</term> have,
+              nor is seene in the head that inward principall </egXML>
+            <egXML xmlns="http://www.tei-c.org/ns/Examples"> the other Spring moneths are <term>
+                Aries</term> and <term> Taurus</term>
+            </egXML>
+          </div>
+          <div xml:id="encEmph">
+            <head>Emphasis</head>
           </div>
           <div xml:id="encFig">
             <head>Figures and Diagrams</head>
-            <p>Something</p>
+            <p>Figures and diagrams currently only have their position marked in the text, and need
+              further encoding down the line. The basic structure is as follows:</p>
+            <egXML xmlns="http://www.tei-c.org/ns/Examples">
+              <figure>
+                <figDesc>DIAGRAM</figDesc>
+                <graphic url="#"/>
+              </figure>
+            </egXML>
+            <p>In the future, they will be able to point towards a graphic of the diagram (either a
+              photo of the original or a redrawn diagram) and display it in the text.</p>
           </div>
         </div>
       </div>
