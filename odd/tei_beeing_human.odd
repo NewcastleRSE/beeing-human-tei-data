@@ -398,6 +398,133 @@
               </item>
             </list>
           </div>
+          <div xml:id="encHi">
+            <head>Decorated capitals, italics, and other textual highlights</head>
+            <p>Textual highlights (or what we might think of as font formatting) are encoded using
+              the generic <tag>hi</tag> element, with further rendition information using the
+                <att>rend</att> attribute. The vast majority of textual highlights will be covered
+              by other elements -- <tag>foreign</tag>, <tag>quote</tag>, <tag>term</tag> --, etc.,
+              so <tag>hi</tag> should be used sparingly, and always accompanied by its
+                <att>rend</att> information. The main use cases for <tag>hi</tag> are:</p>
+            <list>
+              <label>Dropped or Decorated capitals</label>
+              <item>These should have a <att>rend</att> with the value <val>drop-capital</val> and
+                contain the character that appears in the decorated capital. <label>Example: </label>
+                <egXML xmlns="http://www.tei-c.org/ns/Examples">
+                  <hi rend="drop-capital">T</hi>HE great Naturalist, </egXML>
+              </item>
+              <label>Highlights within quotations or other highlighted text</label>
+              <item>Highlights that appear within other sections of text that are already
+                highlighted in some way, and that cannot be encoded more specifically should take
+                the <att>rend</att> value of <val>opposite</val>, i.e., they should be represented
+                in the opposite form letter to the highlighted text they belong to: if they are in
+                an italic section, they should be round; if they are in a round section, they should
+                be italic. <label>Example:</label>
+                <egXML xmlns="http://www.tei-c.org/ns/Examples">
+                  <foreign xml:lang="la">Verum hoc mihi præ cæteris probatur remedium. Ut primum se
+                    quis ictum senserit, aculeum adhuc epidermidi inhærentem cum ipsa ape instanter
+                    abstergat (nam si paulisper sinatur, dum veram cutem penetraverit; vehementior
+                    inde, diuturnior, &amp; sanatu difficilior evadet tum dolor tum tumor) dein,
+                    quam mox reddi potest, propriâ vulnus urinâ malvæ folia sœpiuscule prolvant, dum
+                    subsequens hoc comparetur emplastrum. R. Cardui Benedicti virentis contriti <hi
+                      rend="opposite">M.I.</hi> Ovi albumen quasi in oleum coagitatum: misce, fiat
+                    emplastrum, quod lini retrimentis impositum, vulneri linteo alligetur: ubi
+                    arverit, recens repone: sed vulnus nequaquam fricetur.</foreign>
+                </egXML>
+              </item>
+              <label>Highlights that carry no semantic meaning</label>
+              <item>In certain cases, highlights can carry no semantic meaning and merely be used as
+                a record of the original rendering of the text. This often happens in titles and
+                sections. In these cases, simply add the <att>rend</att> attribute with the
+                appropriate value. <label>Example:</label>
+                <egXML xmlns="http://www.tei-c.org/ns/Examples">
+                  <titlePart type="main">THE <lb/>
+                    <hi rend="italic">Feminine Monarchie</hi><lb/> OR<lb/> THE HISTORIE<lb/> OF
+                    BEES<lb/>
+                  </titlePart>
+                </egXML></item>
+              <label>Highlights that are part of typographical conventions
+                (cross-references)</label>
+              <item>Highlights that are the product of typographic conventions such as the
+                formatting of internal references and cross-references should not be encoded. So, a
+                reference like <q><hi rend="italic">V</hi>.<hi rend="italic">c</hi>.3.<hi
+                    rend="italic">n</hi>.5</q> should simply be encoded as: <egXML
+                  xmlns="http://www.tei-c.org/ns/Examples">
+                  <ref target="#ch3sumn5">V.c.3.n.5</ref>
+                </egXML></item>
+              <label>Other cases</label>
+              <item>All other cases of textual highlights should be covered by a different,
+                meaningful element. If that does not seem to be the case, discussion will be
+                needed.</item>
+            </list>
+          </div>
+          <div xml:id="encQuote">
+            <head>Quotations</head>
+            <p>Quotations should be encoded using the <tag>quote</tag> element whenever they can be
+              attributed, or the <tag>q</tag> element when no attribution is apparent. Wherever
+              possible, <tag>quote</tag> should include the bibliographic note associated with it,
+              as in:</p>
+            <egXML xmlns="http://www.tei-c.org/ns/Examples">
+              <quote>
+                <foreign xml:lang="la">(Tantus amor florum, &amp; generandi gloria mellis)</foreign>
+                <note type="authorial" subtype="bibliographic" xml:id="ch5bibln18">
+                  <bibl>Virg.</bibl>
+                </note>
+              </quote>
+            </egXML>
+            <p>No distinction is made between in-line and block quotations, although care should be
+              taken to ensure that quotations appear within their parent <tag>p</tag> if they are
+              part of a paragraph, or outside of any <tag>p</tag> if they appear without any
+              introductory or explanatory text, as in:</p>
+            <egXML xmlns="http://www.tei-c.org/ns/Examples">
+              <p>... Besides which base sound, you shall eftsoones, in the heat of battell, heare a
+                more shrill and sharpe note, as it were of a Flute.</p>
+              <quote>
+                <foreign xml:lang="la"> ___________________&amp;vox<lb/> Auditur fractos conitus
+                  imitata tubarum. <note type="authorial" subtype="bibliographic"
+                    xml:id="ch7bibln22">
+                    <bibl>Virg.</bibl>
+                  </note>
+                </foreign>
+              </quote>
+              <p xml:id="ch7par39">Which I am out of doubt is tuned by their generall Commander,
+                encouraging them to fight for their Prince, their lives, and their goods ... </p>
+            </egXML>
+            <p>Textual structures <emph>within</emph> notes should only appear if quotations contain
+              verse.</p>
+            <label>Verse quotations</label>
+            <egXML xmlns="http://www.tei-c.org/ns/Examples">
+              <quote>
+                <lg xml:lang="la">
+                  <l>Præterea regem non sic Ægyptus &amp; ingens </l>
+                  <l>Lydia, nec populi Parthorum aut Medus Hydaspes </l>
+                  <l>Observant: rege incolumi mens omnibus una est:</l>
+                  <l>Amisso rupere fidem; contructaque una est:</l>
+                  <l>Diripuere ipsæ, &amp; crates solvere favorum</l>
+                  <l>Ille operum custos, illum admirantur: &amp; omnes</l>
+                  <fw type="catch">
+                    <hi>Circumstant</hi>
+                  </fw>
+                  <pb n="B2r"/>
+                  <fw type="header">
+                    <hi>and of their Queene.</hi>
+                  </fw>
+                  <l>Circumstant fremitu denso, stipantque, frequentes,</l>
+                  <l>Et sæpe attollunt humeris, &amp; corpora bello</l>
+                  <l>Objectant, pulchramque, petunt per vulnera mortem. </l>
+                </lg>
+              </quote>
+            </egXML>
+            <list>
+              <label>Quotations in foreign languages</label>
+              <item>If the quote is in a foreign language (as they often are), the entire text of
+                the quoatation should be encapsulated by the appropriate element
+                (<tag>foreign</tag>) with the correct <att>xml:lang</att> attribute. If the quote
+                already contains anoter textual structure (such as the <tag>lg</tag> in the example
+                above), the <att>xml:lang</att> attribute can be used in the outermost structure
+                inside the quotation.</item>
+            </list>
+          </div>
           <div xml:id="encNotes">
             <head>Notes</head>
             <p>Something</p>
@@ -443,6 +570,14 @@
                   not including month and year.</desc>
               </attDef>
             </attList>
+          </elementSpec>
+          <elementSpec ident="quote" mode="change">
+            <constraintSpec ident="quote-should-contain-note" scheme="schematron">
+              <constraint>
+                <sch:report test="count(descendant::tei:ref|descendant::tei:bibl)=0" role="warning"
+                  >Should this 'quote' contain a bibliographic note or information?</sch:report>
+              </constraint>
+            </constraintSpec>
           </elementSpec>
           <elementSpec ident="fw" mode="change">
             <desc versionDate="2023-08-22" xml:lang="en">contains a running head (e.g. a header,
