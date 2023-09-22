@@ -159,9 +159,9 @@
         <p>A few transcription principles were agreed at this time and are, therefore not encoded.
           These are:</p>
         <list>
-          <item><emph>Folio references were preserved</emph> (see <ref target="#">ADD</ref> for
-            their encoding). If a word is split across two pages, like 'Tho-' and 'mas', the
-            hypenation was also recorded.</item>
+          <item><emph>Folio references were preserved</emph> (see <ptr target="#encPb"/> for their
+            encoding). If a word is split across two pages, like 'Tho-' and 'mas', the hypenation
+            was also recorded.</item>
           <item><emph>i/j and u/v</emph> were silently modernised.</item>
           <item><emph>Long 's', double long 's', double 'v' ('vv')</emph> were silently
             modernised.</item>
@@ -182,7 +182,7 @@
             'to' becomes 'too', 'of' becomes 'off' where relevant).</item>
           <item>Ampersands were always retained, although they have been transcribed using their
               <ident>HTML</ident> entity code (<code lang="html">&amp; amp ;</code> without spaces
-            to avoid processing errors.</item>
+            to avoid processing errors).</item>
           <item><emph>Punctuation</emph> was retained.</item>
           <item><emph>Full stops before and after numerals</emph> were retained ('the .2. of
             May').</item>
@@ -592,12 +592,12 @@
                     <label>Example of gloss side-note</label><egXML
                     xmlns="http://www.tei-c.org/ns/Examples">
                     <note type="authorial" subtype="gloss" xml:id="ch1glon1">*Which not onely
-                      increaseth their anger, (specially in hot weather, <hi>v.n.</hi>38.) but
-                      inciteth others to take their parts: and if by striving and striking you
-                      chance to kill one, the Bees presently perceiving it by the strong smell of
-                      the humour (for she smelleth then as if she had stung, <hi> v.n.</hi>29.) will
-                      be so eager upon revenge, that by no meanes can they be pacified, untill they
-                      have the field.</note>
+                      increaseth their anger, (specially in hot weather, <ref target="#"
+                        >v.n.38.</ref>) but inciteth others to take their parts: and if by striving
+                      and striking you chance to kill one, the Bees presently perceiving it by the
+                      strong smell of the humour (for she smelleth then as if she had stung, <ref
+                        target="#">v.n.29.</ref>) will be so eager upon revenge, that by no meanes
+                      can they be pacified, untill they have the field.</note>
                   </egXML>
                   <label>Example of inline gloss note</label>
                   <egXML xmlns="http://www.tei-c.org/ns/Examples">
@@ -624,6 +624,8 @@
                 <note type="editorial" subtype="other" cert="check" xml:id="check1">Greek
                   script</note>
               </egXML>
+              <p>If you wish to add a comment to a particular editorial note to be checked, use the
+                  <att>ana</att> attribute, as in the example below:</p>
               <egXML xmlns="http://www.tei-c.org/ns/Examples">
                 <note type="editorial" subtype="other" cert="check"
                   ana="Should we regularise the I to J silently in this case? -- Tiago"
@@ -634,8 +636,8 @@
           <div xml:id="encBibl">
             <head>Bibliography and cross-references</head>
             <p>Bibliographic information or cross-references can appear in both the main body of the
-              text or inside notes. Regardless of their placement, at the lowest leve they should be
-              encoded in the same way, namely:</p>
+              text or inside notes. Regardless of their placement, at the lowest level they should
+              be encoded in the same way, namely:</p>
             <list>
               <label>Bibliography</label>
               <item>Bibliographic references should be encoded with a <tag>bibl</tag> element, and
@@ -670,8 +672,9 @@
             <p>Wherever possible, named entities such as the names of people or places should be
               marked with the corresponding elements <tag>persName</tag> and <tag>placeName</tag>.
               Names of authors should always be marked up with <tag>persName</tag> and not an
-                <tag>author</tag> element, unless they appear inside a structured
-              <tag>bibl</tag>.</p>
+                <tag>author</tag> element, unless they appear inside a structured <tag>bibl</tag>.
+              You don't have to record their original rendering, but you can do so if you wish using
+              the <att>rend</att> attribute with a suitable value.</p>
             <label>Examples:</label>
             <egXML xmlns="http://www.tei-c.org/ns/Examples">such as is our Iland of <placeName
                 rend="italic">Britaine</placeName>, I doubt mee shee will never quit cost:</egXML>
@@ -730,6 +733,14 @@
           </div>
           <div xml:id="encEmph">
             <head>Emphasis</head>
+            <p>Some times, words are marked graphically in the source text (usually italics) to
+              denote emphasis. In these cases, they should be encoded using the <tag>emph</tag>
+              element.</p>
+            <label>Example:</label>
+            <egXML xmlns="http://www.tei-c.org/ns/Examples"> the man held, and the Beare pulled,
+              untill with maine force he had drawne <emph>Dun out of the mire</emph>: and then,
+              being let goe, away he trots <emph>more afeard then hurt,</emph> leaving the smeared
+              swaine in a joyful feare. </egXML>
           </div>
           <div xml:id="encFig">
             <head>Figures and Diagrams</head>
@@ -745,6 +756,15 @@
               photo of the original or a redrawn diagram) and display it in the text.</p>
           </div>
         </div>
+      </div>
+      <div xml:id="conclusion">
+        <head>Conclusion</head>
+        <p>This encoding manual should cover most, if not all, the phenomena present in
+            <name>Butler</name>'s text. Any phenomena that is not explicitly explained here should
+          follow the general TEI Guidelines. If you encounter something that is not adequately (or
+          is ambiguously) covered by the general Guidelines, get in touch with Tiago to define a new
+          rule for the phenomena.</p>
+
       </div>
       <div>
         <schemaSpec ident="tei_beeing_human" start="TEI" prefix="tei_" targetLang="en" docLang="en">
