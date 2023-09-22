@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:sch="http://purl.oclc.org/dsdl/schematron">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -9,85 +9,1049 @@
       <publicationStmt>
         <publisher>TEI Consortium</publisher>
         <availability status="free">
-          <licence target="http://creativecommons.org/licenses/by-sa/3.0/"> Distributed under a Creative Commons
-            Attribution-ShareAlike 3.0 Unported License </licence>
+          <licence target="http://creativecommons.org/licenses/by-sa/3.0/"> Distributed under a
+            Creative Commons Attribution-ShareAlike 3.0 Unported License </licence>
           <licence target="http://www.opensource.org/licenses/BSD-2-Clause">
             <p>Copyright 2013 TEI Consortium.</p>
             <p>All rights reserved.</p>
-            <p>Redistribution and use in source and binary forms, with or without modification, are permitted provided that
-              the following conditions are met:</p>
+            <p>Redistribution and use in source and binary forms, with or without modification, are
+              permitted provided that the following conditions are met:</p>
             <list>
-              <item>Redistributions of source code must retain the above copyright notice, this list of conditions and the
-                following disclaimer.</item>
-              <item>Redistributions in binary form must reproduce the above copyright notice, this list of conditions and
-                the following disclaimer in the documentation and/or other materials provided with the
-                distribution.</item>
+              <item>Redistributions of source code must retain the above copyright notice, this list
+                of conditions and the following disclaimer.</item>
+              <item>Redistributions in binary form must reproduce the above copyright notice, this
+                list of conditions and the following disclaimer in the documentation and/or other
+                materials provided with the distribution.</item>
             </list>
-            <p>This software is provided by the copyright holders and contributors "as is" and any express or implied
-              warranties, including, but not limited to, the implied warranties of merchantability and fitness for a
-              particular purpose are disclaimed. In no event shall the copyright holder or contributors be liable for any
-              direct, indirect, incidental, special, exemplary, or consequential damages (including, but not limited to,
-              procurement of substitute goods or services; loss of use, data, or profits; or business interruption) however
-              caused and on any theory of liability, whether in contract, strict liability, or tort (including negligence
-              or otherwise) arising in any way out of the use of this software, even if advised of the possibility of such
+            <p>This software is provided by the copyright holders and contributors "as is" and any
+              express or implied warranties, including, but not limited to, the implied warranties
+              of merchantability and fitness for a particular purpose are disclaimed. In no event
+              shall the copyright holder or contributors be liable for any direct, indirect,
+              incidental, special, exemplary, or consequential damages (including, but not limited
+              to, procurement of substitute goods or services; loss of use, data, or profits; or
+              business interruption) however caused and on any theory of liability, whether in
+              contract, strict liability, or tort (including negligence or otherwise) arising in any
+              way out of the use of this software, even if advised of the possibility of such
               damage.</p>
           </licence>
-          <p>TEI material can be licensed differently depending on the use you intend to make of it. Hence it is made
-            available under both the CC+BY and BSD-2 licences. The CC+BY licence is generally appropriate for usages which
-            treat TEI content as data or documentation. The BSD-2 licence is generally appropriate for usage of TEI content
-            in a software environment. For further information or clarification, please contact the <ref target="mailto:info@tei-c.org">TEI Consortium</ref>. </p>
+          <p>TEI material can be licensed differently depending on the use you intend to make of it.
+            Hence it is made available under both the CC+BY and BSD-2 licences. The CC+BY licence is
+            generally appropriate for usages which treat TEI content as data or documentation. The
+            BSD-2 licence is generally appropriate for usage of TEI content in a software
+            environment. For further information or clarification, please contact the <ref
+              target="mailto:info@tei-c.org">TEI Consortium</ref>. </p>
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <p>Created from scratch by James Cummings, but looking at previous tei_minimal and tei_bare exemplars by SPQR and
-          LR.</p>
+        <p>Created from scratch by James Cummings, but looking at previous tei_minimal and tei_bare
+          exemplars by SPQR and LR.</p>
       </sourceDesc>
-    </fileDesc><encodingDesc><appInfo><application ident="RomaJS" version="1.0.0" when="2023-08-11T09:14:24.451Z"><desc>File edited with <ref target="https://github.com/TEIC/romajs">RomaJS</ref></desc></application></appInfo><appInfo><application ident="RomaJS" version="1.0.0" when="2023-08-11T09:25:40.358Z"><desc>File edited with <ref target="https://github.com/TEIC/romajs">RomaJS</ref></desc></application></appInfo><appInfo><application ident="RomaJS" version="1.0.0" when="2023-08-11T09:39:14.401Z"><desc>File edited with <ref target="https://github.com/TEIC/romajs">RomaJS</ref></desc></application></appInfo><appInfo><application ident="RomaJS" version="1.0.0" when="2023-08-11T09:45:42.077Z"><desc>File edited with <ref target="https://github.com/TEIC/romajs">RomaJS</ref></desc></application></appInfo><appInfo><application ident="RomaJS" version="1.0.0" when="2023-08-21T10:53:58.009Z"><desc>File edited with <ref target="https://github.com/TEIC/romajs">RomaJS</ref></desc></application></appInfo><appInfo><application ident="RomaJS" version="1.0.0" when="2023-08-22T10:17:05.246Z"><desc>File edited with <ref target="https://github.com/TEIC/romajs">RomaJS</ref></desc></application></appInfo><appInfo><application ident="RomaJS" version="1.0.0" when="2023-08-23T08:14:31.499Z"><desc>File edited with <ref target="https://github.com/TEIC/romajs">RomaJS</ref></desc></application></appInfo><appInfo><application ident="RomaJS" version="1.0.0" when="2023-08-30T10:03:59.379Z"><desc>File edited with <ref target="https://github.com/TEIC/romajs">RomaJS</ref></desc></application></appInfo><appInfo><application ident="RomaJS" version="1.0.0" when="2023-08-30T10:53:14.663Z"><desc>File edited with <ref target="https://github.com/TEIC/romajs">RomaJS</ref></desc></application></appInfo><appInfo><application ident="RomaJS" version="1.0.0" when="2023-09-01T10:10:14.800Z"><desc>File edited with <ref target="https://github.com/TEIC/romajs">RomaJS</ref></desc></application></appInfo><appInfo><application ident="RomaJS" version="1.0.0" when="2023-09-01T10:19:25.835Z"><desc>File edited with <ref target="https://github.com/TEIC/romajs">RomaJS</ref></desc></application></appInfo></encodingDesc>
+    </fileDesc>
+    <encodingDesc>
+      <appInfo>
+        <application ident="RomaJS" version="1.0.0" when="2023-08-11T09:14:24.451Z">
+          <desc>File edited with <ref target="https://github.com/TEIC/romajs">RomaJS</ref>
+          </desc>
+        </application>
+      </appInfo>
+      <appInfo>
+        <application ident="RomaJS" version="1.0.0" when="2023-08-11T09:25:40.358Z">
+          <desc>File edited with <ref target="https://github.com/TEIC/romajs">RomaJS</ref>
+          </desc>
+        </application>
+      </appInfo>
+      <appInfo>
+        <application ident="RomaJS" version="1.0.0" when="2023-08-11T09:39:14.401Z">
+          <desc>File edited with <ref target="https://github.com/TEIC/romajs">RomaJS</ref>
+          </desc>
+        </application>
+      </appInfo>
+      <appInfo>
+        <application ident="RomaJS" version="1.0.0" when="2023-08-11T09:45:42.077Z">
+          <desc>File edited with <ref target="https://github.com/TEIC/romajs">RomaJS</ref>
+          </desc>
+        </application>
+      </appInfo>
+      <appInfo>
+        <application ident="RomaJS" version="1.0.0" when="2023-08-21T10:53:58.009Z">
+          <desc>File edited with <ref target="https://github.com/TEIC/romajs">RomaJS</ref>
+          </desc>
+        </application>
+      </appInfo>
+      <appInfo>
+        <application ident="RomaJS" version="1.0.0" when="2023-08-22T10:17:05.246Z">
+          <desc>File edited with <ref target="https://github.com/TEIC/romajs">RomaJS</ref>
+          </desc>
+        </application>
+      </appInfo>
+      <appInfo>
+        <application ident="RomaJS" version="1.0.0" when="2023-08-23T08:14:31.499Z">
+          <desc>File edited with <ref target="https://github.com/TEIC/romajs">RomaJS</ref>
+          </desc>
+        </application>
+      </appInfo>
+      <appInfo>
+        <application ident="RomaJS" version="1.0.0" when="2023-08-30T10:03:59.379Z">
+          <desc>File edited with <ref target="https://github.com/TEIC/romajs">RomaJS</ref>
+          </desc>
+        </application>
+      </appInfo>
+      <appInfo>
+        <application ident="RomaJS" version="1.0.0" when="2023-08-30T10:53:14.663Z">
+          <desc>File edited with <ref target="https://github.com/TEIC/romajs">RomaJS</ref>
+          </desc>
+        </application>
+      </appInfo>
+      <appInfo>
+        <application ident="RomaJS" version="1.0.0" when="2023-09-01T10:10:14.800Z">
+          <desc>File edited with <ref target="https://github.com/TEIC/romajs">RomaJS</ref>
+          </desc>
+        </application>
+      </appInfo>
+      <appInfo>
+        <application ident="RomaJS" version="1.0.0" when="2023-09-01T10:19:25.835Z">
+          <desc>File edited with <ref target="https://github.com/TEIC/romajs">RomaJS</ref>
+          </desc>
+        </application>
+      </appInfo>
+      <appInfo>
+        <application ident="RomaJS" version="1.0.0" when="2023-09-19T10:05:59.384Z">
+          <desc>File edited with <ref target="https://github.com/TEIC/romajs">RomaJS</ref></desc>
+        </application>
+      </appInfo>
+    </encodingDesc>
   </teiHeader>
   <text>
+    <front>
+      <divGen type="toc"/>
+    </front>
     <body>
-      <head>A Minimal TEI Customization</head>
-      
-      <p>This TEI ODD defines a TEI customization that is as minimal as possible and the schema generated from it will validate
-        a document that is minimally valid against the TEI scheme. It includes only the ten required elements:
-        <list rend="numbered">
-          <item><gi>teiHeader</gi> from the header module to store required metadata</item>
-          <item><gi>fileDesc</gi> from the header module to record information about this file</item>
-          <item><gi>titleStmt</gi> from the header module to record information about the title</item>
-          <item><gi>publicationStmt</gi> from the header module to detail how it is published</item>
-          <item><gi>sourceDesc</gi> from the header module to record where it is from</item>
-          <item><gi>p</gi> from the core module for use in the header and the body</item>
-          <item><gi>title</gi> from the core module for use in the titleStmt</item>
-          <item><gi>TEI</gi> from the textstructure module because what is a TEI file without that?</item>
-          <item><gi>text</gi> from the textstructure module to hold some text</item>
-          <item><gi>body</gi> from the textstructure module as a place to put that text</item>
+      <div xml:id="intro">
+        <head>Introduction</head>
+        <p>This document sets out the <ref target="#transcPrinc">Transcription Principles</ref> and
+          the <ref target="#encGuid">Encoding Guidelines</ref> for the digital edition of
+              <bibl><author>Charles Butler</author>'s <date>1623</date>
+            <title>The Feminine Monarchie or The Historie of Bees</title></bibl>.</p>
+        <p>The document presents both the rationale for, and the method of, encoding specific
+          textual phenomena in <name>Butler</name>'s work, including examples where appropriate. It
+          also explains the basic <ref target="#encTextStruct">textual structure</ref> (and its
+          respective encoding), as well as a list of all TEI elements used and refined for the
+          encoding. Textual structures and phenomena not mentioned in this document are
+            <emph>not</emph> encoded in any form -- the rationale for this being set out in the
+          introductions to the <ref target="#transcPrinc">Transcription Principles</ref> and <ref
+            target="#encGuid">Encoding Guidelines</ref>.</p>
+        <p>During the duration of the project, this document is subject to changes and will reflect
+          the latest principles and encoding guidelines.</p>
+        <p>This document (and accompanying customisation) were written by <name>Tiago Sousa
+            Garcia</name> in consultation with <name>Jennifer Richards</name> (the project's
+          Principal Investigator) and <name>Olivia Smith</name>, with advice from <name>James
+            Cummings.</name></p>
+      </div>
+      <div xml:id="transcPrinc">
+        <head>Transcription Principles</head>
+        <p><bibl><author>Butler</author>'s <title>Feminine Monarchie</title></bibl> was first
+          transcribed into a plain text file with custom <term>markup</term> to identify any
+          presentation feature of the original text (for example italics, notes, titles, running
+          headers, catchwords, etc.) by <name>Olivia Smith</name>. Those features were then
+          transformed using a simple <ident>Python</ident> script into basic <ident>TEI</ident> by
+            <name>Tiago Sousa Garcia</name>, who created the first draft of the encoding, adding
+          textual structure, detail, and differentiation manually.</p>
+        <p>A few transcription principles were agreed at this time and are, therefore not encoded.
+          These are:</p>
+        <list>
+          <item><emph>Folio references were preserved</emph> (see <ptr target="#encPb"/> for their
+            encoding). If a word is split across two pages, like 'Tho-' and 'mas', the hypenation
+            was also recorded.</item>
+          <item><emph>i/j and u/v</emph> were silently modernised.</item>
+          <item><emph>Long 's', double long 's', double 'v' ('vv')</emph> were silently
+            modernised.</item>
+          <item><emph>Diagraphs</emph> were silently modernised, so oeconomical not œconomical;
+            Aeneas not Æneas.</item>
+          <item><emph>'then'</emph> was silently modernised to 'than' when 'than' is meant.</item>
+          <item><emph>Thorns</emph> that stand for 'th' have been modernised: i.e., 'y<hi
+              rend="superscript">e</hi>' to 'the'; 'y<hi rend="superscript">t</hi>' to 'that'; 'y<hi
+              rend="superscript">r</hi>' to 'there'</item>
+          <item><emph>Diacritics</emph> (accents above words) have been preserved.</item>
+          <item><emph>Ligatures</emph> ('pre', 'pro', 'per') <emph>macrons</emph> (for m, n) as well
+            as other common abbreviations ('w<hi rend="superscript">th</hi>', 'w<hi
+              rend="superscript">ch</hi>') have been silently expanded.</item>
+          <item><emph>Hyphenation</emph> has been retained in all cases except when it occurs in a
+            word broken apart by the end of a line, i.e., 'ob-<tag>lb/</tag>jected' has been
+            transcribed as 'objected'.</item>
+          <item>Where meaning was obscured, <emph>missing letters</emph> were silently added (i.e.,
+            'to' becomes 'too', 'of' becomes 'off' where relevant).</item>
+          <item>Ampersands were always retained, although they have been transcribed using their
+              <ident>HTML</ident> entity code (<code lang="html">&amp; amp ;</code> without spaces
+            to avoid processing errors).</item>
+          <item><emph>Punctuation</emph> was retained.</item>
+          <item><emph>Full stops before and after numerals</emph> were retained ('the .2. of
+            May').</item>
+          <item><emph>In all cases not mentioned on this list</emph>, the original spelling was
+            retained.</item>
+          <item><emph>Large and small caps</emph> were retained, with the exception of the first
+            character following a decorated capital, i.e., '<tag>hi
+              rend='drop-capital'</tag>N<tag>hi/</tag>Octem' becomes '<tag>hi
+              rend='drop-capital'</tag>N<tag>hi/</tag>octem'.</item>
         </list>
-      </p>
-      <schemaSpec ident="tei_beeing_human" start="TEI" prefix="tei_" targetLang="en" docLang="en">
-        
-        <!-- required minimal header elements -->
-        <moduleRef key="header" include="teiHeader fileDesc titleStmt publicationStmt sourceDesc principal funder editionStmt edition authority licence revisionDesc listChange change"/>
-        
-        <!-- required core elements (p and title for use in titleStmt) -->
-        <moduleRef key="core" include="p title date note biblStruct bibl ref abbr list item foreign q quote graphic head pb respStmt author name resp pubPlace imprint publisher monogr hi cit lb term gloss lg l ptr cb emph"/>
-        
-        <!-- required textstructure elements (TEI, text, and body) -->
-        <moduleRef key="textstructure" include="TEI text body div front titlePage titlePart epigraph byline imprimatur docImprint docTitle signed back trailer"/>
-        
-        <!-- required module tei instantiates lots of classes used for further expansion of this odd -->
-        <moduleRef key="tei"/>
-        
-        
-      <moduleRef key="transcr" include="fw"/><moduleRef key="namesdates" include="persName placeName orgName"/><moduleRef key="analysis" include="w s"/><moduleRef key="figures" include="figure figDesc"/><elementSpec ident="date" mode="change"><desc versionDate="2023-08-11" xml:lang="en">contains a date in any format. It must include a @when attribute with the date in the standard format yyyy-mm-dd. If there isn't enough information, record at least the year, leaving the remaining month and day out.</desc><attList><attDef ident="when" mode="change" usage="req"><desc versionDate="2023-08-11" xml:lang="en">supplies the value of the date or time in a standard form,
-        e.g. yyyy-mm-dd.
-    When only the year is known, use 
-        e.g. yyyy
-    not including month and year.</desc></attDef></attList></elementSpec><elementSpec ident="fw" mode="change"><desc versionDate="2023-08-22" xml:lang="en">contains a running head (e.g. a header, footer), catchword, or
-  similar material appearing on the current page, including other graphical forme elements like horizontal lines (identified using the <att>type</att> attribute).</desc><attList><attDef ident="type" mode="change" usage="req"><valList type="closed" mode="change"><valItem mode="add" ident="horizontalRule"><desc versionDate="2023-08-22" xml:lang="en">A graphical horizontal rule used to visually demarcate the page.</desc></valItem><valItem mode="add" ident="ornament"><desc versionDate="2023-08-22" xml:lang="en">A printer's ornament -- later might be replaced by <gi>figure</gi> with a graphical representation.</desc></valItem></valList></attDef></attList></elementSpec><elementSpec ident="note" mode="change"><desc versionDate="2023-08-11" xml:lang="en">contains a note or annotation, either included in the original, or added by the editor. The types of notes are distinguished by a @type attribute, with further subtyping with the @subtype attribute. If it is a side-note, this should be noted with a @place attribute of "margin". Also used to mark up words and passages that have been transcribed with low certainty or might require double-checking.</desc><attList><attDef ident="type" mode="change" usage="req"><valList type="closed" mode="change"><valItem mode="add" ident="authorial"><desc versionDate="2023-08-11" xml:lang="en">Notes originating from the copy text, probably authorial.</desc></valItem><valItem mode="add" ident="editorial"><desc versionDate="2023-08-11" xml:lang="en">Notes added by the editor, glosses, bibliographic, etc.</desc></valItem></valList></attDef><attDef ident="subtype" mode="change" usage="req"><valList type="closed" mode="change"><valItem mode="add" ident="summary"><desc versionDate="2023-08-11" xml:lang="en">Contains a summary of a related paragraph or textual passage.</desc></valItem><valItem mode="add" ident="bibliographic"><desc versionDate="2023-08-11" xml:lang="en">Contains bibliographic information on a related paragraph or textual passage.</desc></valItem><valItem mode="add" ident="gloss"><desc versionDate="2023-08-11" xml:lang="en">Contains a gloss on a related paragraph or textual passage.</desc></valItem><valItem mode="add" ident="other"><desc versionDate="2023-08-11" xml:lang="en">Other types of note, not yet defined.</desc></valItem><valItem mode="add" ident="certainty"><desc versionDate="2023-08-11" xml:lang="en">Marks the passage as being an uncertain transcription. Use @cert to add more detail.</desc></valItem></valList></attDef><attDef ident="cert" mode="change"><valList type="closed" mode="change"><valItem mode="add" ident="low"/><valItem mode="add" ident="medium"/><valItem mode="add" ident="high"/><valItem mode="add" ident="check"><desc versionDate="2023-08-11" xml:lang="en">Marks this passage as requiring double-checking. If a positive conclusion can be achieved, the note may be removed.</desc></valItem></valList></attDef></attList></elementSpec><elementSpec ident="w" mode="change"><desc versionDate="2023-08-11" xml:lang="en">represents a grammatical (not necessarily orthographic) word -- used to mark words of special meaning and interest.</desc><attList><attDef ident="ana" mode="change" usage="rec"><desc versionDate="2023-08-11" xml:lang="en">indicates one or more elements containing interpretations of the
-element on which the <att>ana</att> attribute appears. Identifies this word as a reference to bees, sound, voice, emotion, or music. To identify references use @ana with the corresponding value.</desc><valList type="semi" mode="change"><valItem mode="add" ident="bee"><desc versionDate="2023-08-11" xml:lang="en">Identifies this word as a reference to bees, the animal.</desc></valItem><valItem mode="add" ident="sound"><desc versionDate="2023-08-11" xml:lang="en">Identifies this word as a reference to sound.</desc></valItem><valItem mode="add" ident="voice"><desc versionDate="2023-08-11" xml:lang="en">Identifies this word as a reference to voice.</desc></valItem><valItem mode="add" ident="emotion"><desc versionDate="2023-08-11" xml:lang="en">Identifies this word as a reference to emotion.</desc></valItem><valItem mode="add" ident="music"><desc versionDate="2023-08-11" xml:lang="en">Identifies this word as a reference to music.</desc></valItem></valList></attDef></attList></elementSpec><elementSpec ident="s" mode="change"><desc versionDate="2023-08-11" xml:lang="en">contains a sentence-like division of a text. Used to identify phrasal references to bees, sound, voice, emotion, music with an @ana attribute.</desc><attList><attDef ident="ana" mode="change" usage="rec"><valList type="semi" mode="change"><valItem mode="add" ident="bees"/><valItem mode="add" ident="voice"/><valItem mode="add" ident="sound"/><valItem mode="add" ident="music"/><valItem mode="add" ident="emotion"/></valList></attDef></attList></elementSpec><elementSpec ident="foreign" mode="change"><content><macroRef key="macro.paraContent"/></content><attList><attDef ident="xml:lang" mode="change" usage="rec"/></attList></elementSpec><classRef key="att.placement"/><elementSpec ident="publicationStmt" mode="change"><content><alternate maxOccurs="1" minOccurs="1"><sequence maxOccurs="unbounded" minOccurs="1"><classRef key="model.publicationStmtPart.agency"/><classRef key="model.publicationStmtPart.detail"/><classRef key="model.availabilityPart"/></sequence><classRef key="model.pLike"/></alternate></content></elementSpec><classRef key="model.availabilityPart"/><elementSpec ident="bibl" mode="change"><attList><attDef ident="rend" mode="change"><desc versionDate="2023-08-22" xml:lang="en">indicates how the element in question was rendered or presented in the source text. In the case of bibliographic sidenotes, the reference is usually rendered with alphabetic characters in italic script and numeric characters in round script. For this default presentation use the value <val>italic</val>.</desc></attDef></attList></elementSpec><elementSpec ident="hi" mode="change"><desc versionDate="2023-08-22" xml:lang="en">marks a word or phrase as graphically distinct from the
-        surrounding text, for reasons concerning which no claim is
-        made. Avoid using this unless no other option is feasible.</desc><attList><attDef ident="rend" mode="change" usage="rec"><valList mode="change"><valItem mode="add" ident="italic"><desc versionDate="2023-08-22" xml:lang="en">Text appears in italic script on the source.</desc></valItem><valItem mode="add" ident="smallCapitals"><desc versionDate="2023-08-22" xml:lang="en">Text is rendered on the source as small capitals.</desc></valItem><valItem mode="add" ident="opposite"><desc versionDate="2023-08-22" xml:lang="en">Text is rendered in the opposite script to the text surrounding it; i.e., if it appears within a round block, it is rendered in italic; if it appears on an italic block, it is rendered in round.</desc></valItem><valItem mode="add" ident="titleCase"><desc versionDate="2023-08-22" xml:lang="en">Text is rendered on the source using title case, i.e., "This Is Title Case"</desc></valItem></valList></attDef></attList></elementSpec><elementSpec ident="cb" mode="change"><desc versionDate="2023-08-23" xml:lang="en">marks the beginning of a new column of a text on a
-  multi-column page. The element should be placed at the start of the column, and it should contain an <att>n</att> indicating whether it is a left- (1) or right-hand(2) sided column</desc><attList><attDef ident="n" mode="change" usage="req"><valList type="closed" mode="change"><valItem mode="add" ident="1"><desc versionDate="2023-08-23" xml:lang="en">Left-hand side column</desc></valItem><valItem mode="add" ident="2"><desc versionDate="2023-08-23" xml:lang="en">Right-hand side column</desc></valItem></valList></attDef></attList></elementSpec><elementSpec ident="change" mode="change"><attList><attDef ident="when" mode="change" usage="req"/><attDef ident="who" mode="change" usage="req"/></attList></elementSpec></schemaSpec>
+      </div>
+      <div xml:id="encGuid">
+        <head>Encoding Guidelines</head>
+        <p>This section sets out the basic proceadures followed in the encoding of the text. It
+          covers the <ref target="#encMeta">Metadata</ref> and <ref target="#encTextStruct">Textual
+            Structure</ref> in broad strokes, and specific <ref target="#encTextPhen">Textual
+            Phenomena</ref> in more detail. For the most part, our encoding follows the basic TEI
+          Guidelines so this guide will only cover where the customisation deviates from the
+          Guidelines, or how to encode specific structures that reocurr in the text often.</p>
+        <div xml:id="encMeta">
+          <head>Metadata</head>
+          <p>Metadata about both the digital edition and the source text are encoded in the
+              <tag>teiHeader</tag>, as per the guidelines. The <tag>teiHeader</tag> includes data
+            specifically about the project, including <tag>funder</tag> information, about the
+            project team responsibilities (<tag>editionStmt</tag>), licensing and bibliographic
+            information about the source text. It also includes a summary revision history (in
+              <tag>listChange</tag>) that deserves further attention.</p>
+          <div xml:id="encMetaChange">
+            <head>Recording changes in the encoding.</head>
+            <p>The most mutable portion of the <tag>teiHeader</tag> is the <tag>revisionDesc</tag>.
+              This collects information about any changes made to the file, including the date,
+              responsibility and brief description of that change, serving both as a history of the
+              evolution of the file and a sanity check during the encoding. Everytime the file is
+              changed (or any time a batch of small changes are made), a <tag>change</tag> element
+              should be added to the <emph>top</emph> of the <tag>listChange</tag>. The
+                <tag>change</tag>
+              <emph>must</emph> have a <att>who</att> (with your initials), a <att>when</att> with
+              the date in ISO format (YYYY-MM-DD) and contain a brief description of your change,
+              indicating if possible it's location on the text (for example: 'corrected a small
+              transcription mistake in #ch1p1').</p>
+            <label>Example:</label>
+            <egXML xmlns="http://www.tei-c.org/ns/Examples">
+              <revisionDesc>
+                <listChange>
+                  <change who="TSG" when="2023-09-14">Added targets to index</change> ... <change
+                    who="TSG" when="2023-09-01">Initial encoding</change>
+                </listChange>
+              </revisionDesc>
+            </egXML>
+          </div>
+        </div>
+        <div xml:id="encTextStruct">
+          <head>Textual Structure</head>
+          <p>The encoded text follows (as it should) the textual structure of the source document.
+            The highest level divisions present are encoded in <tag>front</tag>, <tag>body</tag> and
+              <tag>back</tag> elements, corresponding to the paratextual elements before the text,
+            the body of the text, and the paratextual elements after the text. Each of these
+            elements contains further subdivisions, namely:</p>
+          <list type="gloss">
+            <label><tag>front</tag></label>
+            <item>Contains <tag>titlePage</tag>, preface (<tag>div type="preface"</tag>),
+              dedications (<tag>div type="dedication"</tag>), and table of contents (<tag>div
+                type="contents"</tag>).</item>
+            <label><tag>body</tag></label>
+            <item>Contains divisions for chapters (<tag>div type="chapter"</tag>) and forme work
+              that might appear outside of chapter divisions (ornaments, signatures, catchwords,
+              running headers). Chapter division, may also contain further subdivisions (namely in
+              chapter 10) which are further encoded using <tag>div type="section"</tag>. All
+              chapters contain side notes that give a summary of a paragraph or a portion of text
+              however these are not clear cut sections and have not been reflected in the textual
+              structure, instead being marked up with a special <tag>note</tag> element.</item>
+            <label><tag>back</tag></label>
+            <item>Contains only a small biblical quotation and closing header encapsulated by a
+                <tag>trailer</tag>.</item>
+          </list>
+        </div>
+        <div xml:id="encTextPhen">
+          <head>Textual Phenomena</head>
+          <p>What follows is a guide on how to encode the textual phenomena found in the text, in an
+            order roughly equivalent to their first appearance. Excluded from this section are the
+            guidelines related to the <tag>teiHeader</tag> and Textual Structure as these have been
+            covered above and are unlikely to be redrawn for most of the project.</p>
+          <div xml:id="encFront">
+            <head>Front Matter</head>
+            <p>Phenomena in the front matter should be encoded following the same principles as the
+              rest of the text, the exception being the presence of a few unique elements:</p>
+            <list type="gloss">
+              <label><tag>titlePage</tag></label>
+              <item>Contains the encoding of the title page with its corresponding specific
+                elements: <tag>docTitle</tag> that encapsulates all parts of the title,
+                  <tag>byline</tag>, <tag>epigraph</tag>, and <tag>docImprint</tag>. Line breaks in
+                the title have been preserved using <tag>lb/</tag>.</item>
+              <label><tag>signed</tag></label>
+              <item>Which encodes the name of authors in the preface and dedications</item>
+              <label>Table of Contents</label>
+              <item>Organised into <tag>list</tag>and <tag>item</tag> each containing a
+                  <tag>ptr</tag> with a <att>target</att> attribute of the corresponding
+                  <att>xml:id</att>. For example: <egXML xmlns="http://www.tei-c.org/ns/Examples">
+                  <item>1 <hi rend="italic">Bees yeeld great profit with small cost.</hi>
+                    <ptr target="#ch1sumn1"/></item>
+                </egXML></item>
+            </list>
+          </div>
+          <div xml:id="encPb">
+            <head>Physical pages</head>
+            <p>The start of a new page should be marked with an <tag>pb/</tag> element and an
+                <att>n</att> attribute containing the printed (or deduced) signtaure.</p>
+            <label>Example:</label>
+            <egXML xmlns="http://www.tei-c.org/ns/Examples">
+              <pb n="¶2r"/>
+              <!-- what follows is the content of ¶2r (the title page) -->
+            </egXML>
+            <p>These can later be linked to a facsimile of the corresponding page with a
+                <att>url</att> attribute pointing to an appropriate URL or local image.</p>
+          </div>
+          <div>
+            <head xml:id="encFw">Running headers, catch-words, and other forme work</head>
+            <p>Any graphical or textual element that appears on the page but is not part of the body
+              of the text should be recorded as forme work using the element <tag>fw</tag>, with a
+              further <att>type</att> attribute to differentiate it. The most common are:</p>
+            <list>
+              <label>Running headers</label>
+              <item>Running headers should have a <att>type</att> with the value of
+                  <val>header</val> and contain its transcription, according to the principles in
+                place for the main body of the text. <label>Example:</label>
+                <egXML xmlns="http://www.tei-c.org/ns/Examples">
+                  <fw type="header">The Preface to the Reader.</fw>
+                </egXML>
+                <p>Although running headers are not empty, they are a milestone element and can,
+                  therefore, appear within larger structures like a paragraph (<tag>p</tag>), or a
+                    <tag>note</tag>, as in this example:</p>
+                <egXML xmlns="http://www.tei-c.org/ns/Examples">
+                  <note type="authorial" subtype="gloss" place="inline" xml:id="ch3glon6">* In the
+                    Winter, place the Belt below the middle or biggest part of the Hive, to keepe it
+                    warme in extremity of cold. In Summer above, that the nether part of the hackle
+                    hanging out from the Hive, the Hive may be the cooler: and then because the Belt
+                    will be apt to rise, it would be held <fw type="catch"> downe</fw>
+                    <pb n="F3v"/>
+                    <fw type="header">
+                      <hi>Of the Hives,</hi>
+                    </fw> downe to the place with two forked stickes, the fork resting upon the
+                    Belt, and the other end under the Cap.</note>
+                </egXML>
+              </item>
+              <label>Catchwords</label>
+              <item>Catchwords should have a <att>type</att> attribute with the value of
+                  <val>catch</val>, and contain its transcription according to the general
+                transcription principles (with the exception that any hyphenation is preserved).
+                  <label>Example:</label>
+                <egXML xmlns="http://www.tei-c.org/ns/Examples"> fruit of the little Bee is so great
+                  and wonderfull, so comely for order and <fw type="catch"> beauty,</fw>
+                  <pb n="¶3v"/>
+                </egXML>
+                <p>Catchwords, <tag>pb/</tag> and running headers almost always appear one after the
+                  other, so if they don't, please make sure this is not a transcription error. Like
+                  running headers, catchwords are not empty but should be treated as a milestone
+                  element and can, therefore, appear within larger structures like a paragraph
+                    (<tag>p</tag>) or <tag>note</tag></p>
+              </item>
+              <label>Horizontal rule</label>
+              <item><p>These graphical divisions are fairly rare and appear mostly in the title
+                  page. They do not indicate any significant textual structure that is not already
+                  declared elsewhere. They should be recorded merely as forme work with a
+                    <att>type</att> of <val>horizontalRule</val>.</p>
+                <label>Example:</label>
+                <egXML xmlns="http://www.tei-c.org/ns/Examples">
+                  <docTitle> ... </docTitle>
+                  <fw type="horizontalRule"/>
+                  <byline>Written out of Experience<lb/> ... </byline>
+                </egXML>
+              </item>
+              <label>Ornaments and printer's devices</label>
+              <item>Ornaments and printers devices that do not carry any semantic meaning should
+                also be recorded as forme work, with a <att>type</att> attribute of
+                  <val>ornament</val>. An image of each ornament can later be added to the element
+                with a <att>url</att> attribute. <label>Example:</label>
+                <egXML xmlns="http://www.tei-c.org/ns/Examples">
+                  <fw type="ornament"/>
+                </egXML>
+              </item>
+              <label>Signatures</label>
+              <item>Signatures <emph>should not</emph> be recorded as forme work as they are already
+                encoded by <ptr target="#encPb"/></item>
+            </list>
+          </div>
+          <div xml:id="encHead">
+            <head>Headings</head>
+            <p>Headings are encoded with a <tag>head</tag> and should only follow divisions in
+              textual structure (<tag>div</tag>). They should be further differentiated by a
+                <att>type</att> attribute with the appropriate value. There are exceptions to this
+              rule in the front matter, but generally a heading should fall into one one of three
+              types:</p>
+            <list>
+              <label>Chapter Number and Chapter Title</label>
+              <item>Chapter number encodes the numeric heading of the chapter, and is immediately
+                followed by the Chapter Title. Each of these headings contains its respective
+                transcription. <label>Example: </label>
+                <egXML xmlns="http://www.tei-c.org/ns/Examples">
+                  <div type="chapter" n="1" xml:id="ch1">
+                    <head type="chapter-number">CHAP. I.</head>
+                    <head type="chapter-title" rend="italic"> Of the Nature and properties of Bees,
+                      and of their Queene. </head> ... </div>
+                </egXML>
+              </item>
+              <label>Section Title</label>
+              <item>Section headings occur only in the tenth chapter, and contain the section title
+                as it appears in the source text. <label>Example: </label>
+                <egXML xmlns="http://www.tei-c.org/ns/Examples">
+                  <div type="section" n="1" xml:id="ch10p1">
+                    <head type="section-title">The first part of this Chapter sheweth the taking of
+                      the Combes.</head> ... </div>
+                </egXML>
+              </item>
+            </list>
+          </div>
+          <div xml:id="encHi">
+            <head>Decorated capitals, italics, and other textual highlights</head>
+            <p>Textual highlights (or what we might think of as font formatting) are encoded using
+              the generic <tag>hi</tag> element, with further rendition information using the
+                <att>rend</att> attribute. The vast majority of textual highlights will be covered
+              by other elements -- <tag>foreign</tag>, <tag>quote</tag>, <tag>term</tag> --, etc.,
+              so <tag>hi</tag> should be used sparingly, and always accompanied by its
+                <att>rend</att> information. The main use cases for <tag>hi</tag> are:</p>
+            <list>
+              <label>Dropped or Decorated capitals</label>
+              <item>These should have a <att>rend</att> with the value <val>drop-capital</val> and
+                contain the character that appears in the decorated capital. <label>Example: </label>
+                <egXML xmlns="http://www.tei-c.org/ns/Examples">
+                  <hi rend="drop-capital">T</hi>HE great Naturalist, </egXML>
+              </item>
+              <label>Highlights within quotations or other highlighted text</label>
+              <item>Highlights that appear within other sections of text that are already
+                highlighted in some way, and that cannot be encoded more specifically should take
+                the <att>rend</att> value of <val>opposite</val>, i.e., they should be represented
+                in the opposite form letter to the highlighted text they belong to: if they are in
+                an italic section, they should be round; if they are in a round section, they should
+                be italic. <label>Example:</label>
+                <egXML xmlns="http://www.tei-c.org/ns/Examples">
+                  <foreign xml:lang="la">Verum hoc mihi præ cæteris probatur remedium. Ut primum se
+                    quis ictum senserit, aculeum adhuc epidermidi inhærentem cum ipsa ape instanter
+                    abstergat (nam si paulisper sinatur, dum veram cutem penetraverit; vehementior
+                    inde, diuturnior, &amp; sanatu difficilior evadet tum dolor tum tumor) dein,
+                    quam mox reddi potest, propriâ vulnus urinâ malvæ folia sœpiuscule prolvant, dum
+                    subsequens hoc comparetur emplastrum. R. Cardui Benedicti virentis contriti <hi
+                      rend="opposite">M.I.</hi> Ovi albumen quasi in oleum coagitatum: misce, fiat
+                    emplastrum, quod lini retrimentis impositum, vulneri linteo alligetur: ubi
+                    arverit, recens repone: sed vulnus nequaquam fricetur.</foreign>
+                </egXML>
+              </item>
+              <label>Highlights that carry no semantic meaning</label>
+              <item>In certain cases, highlights can carry no semantic meaning and merely be used as
+                a record of the original rendering of the text. This often happens in titles and
+                sections. In these cases, simply add the <att>rend</att> attribute with the
+                appropriate value. <label>Example:</label>
+                <egXML xmlns="http://www.tei-c.org/ns/Examples">
+                  <titlePart type="main">THE <lb/>
+                    <hi rend="italic">Feminine Monarchie</hi><lb/> OR<lb/> THE HISTORIE<lb/> OF
+                    BEES<lb/>
+                  </titlePart>
+                </egXML></item>
+              <label>Highlights that are part of typographical conventions
+                (cross-references)</label>
+              <item>Highlights that are the product of typographic conventions such as the
+                formatting of internal references and cross-references should not be encoded. So, a
+                reference like <q><hi rend="italic">V</hi>.<hi rend="italic">c</hi>.3.<hi
+                    rend="italic">n</hi>.5</q> should simply be encoded as: <egXML
+                  xmlns="http://www.tei-c.org/ns/Examples">
+                  <ref target="#ch3sumn5">V.c.3.n.5</ref>
+                </egXML></item>
+              <label>Other cases</label>
+              <item>All other cases of textual highlights should be covered by a different,
+                meaningful element. If that does not seem to be the case, discussion will be
+                needed.</item>
+            </list>
+          </div>
+          <div xml:id="encQuote">
+            <head>Quotations</head>
+            <p>Quotations should be encoded using the <tag>quote</tag> element whenever they can be
+              attributed, or the <tag>q</tag> element when no attribution is apparent. Wherever
+              possible, <tag>quote</tag> should include the bibliographic note associated with it,
+              as in:</p>
+            <egXML xmlns="http://www.tei-c.org/ns/Examples">
+              <quote>
+                <foreign xml:lang="la">(Tantus amor florum, &amp; generandi gloria mellis)</foreign>
+                <note type="authorial" subtype="bibliographic" xml:id="ch5bibln18">
+                  <bibl>Virg.</bibl>
+                </note>
+              </quote>
+            </egXML>
+            <p>No distinction is made between in-line and block quotations, although care should be
+              taken to ensure that quotations appear within their parent <tag>p</tag> if they are
+              part of a paragraph, or outside of any <tag>p</tag> if they appear without any
+              introductory or explanatory text, as in:</p>
+            <egXML xmlns="http://www.tei-c.org/ns/Examples">
+              <p>... Besides which base sound, you shall eftsoones, in the heat of battell, heare a
+                more shrill and sharpe note, as it were of a Flute.</p>
+              <quote>
+                <foreign xml:lang="la"> ___________________&amp;vox<lb/> Auditur fractos conitus
+                  imitata tubarum. <note type="authorial" subtype="bibliographic"
+                    xml:id="ch7bibln22">
+                    <bibl>Virg.</bibl>
+                  </note>
+                </foreign>
+              </quote>
+              <p xml:id="ch7par39">Which I am out of doubt is tuned by their generall Commander,
+                encouraging them to fight for their Prince, their lives, and their goods ... </p>
+            </egXML>
+            <p>Textual structures <emph>within</emph> notes should only appear if quotations contain
+              verse.</p>
+            <label>Verse quotations</label>
+            <egXML xmlns="http://www.tei-c.org/ns/Examples">
+              <quote>
+                <lg xml:lang="la">
+                  <l>Præterea regem non sic Ægyptus &amp; ingens </l>
+                  <l>Lydia, nec populi Parthorum aut Medus Hydaspes </l>
+                  <l>Observant: rege incolumi mens omnibus una est:</l>
+                  <l>Amisso rupere fidem; contructaque una est:</l>
+                  <l>Diripuere ipsæ, &amp; crates solvere favorum</l>
+                  <l>Ille operum custos, illum admirantur: &amp; omnes</l>
+                  <fw type="catch">
+                    <hi>Circumstant</hi>
+                  </fw>
+                  <pb n="B2r"/>
+                  <fw type="header">
+                    <hi>and of their Queene.</hi>
+                  </fw>
+                  <l>Circumstant fremitu denso, stipantque, frequentes,</l>
+                  <l>Et sæpe attollunt humeris, &amp; corpora bello</l>
+                  <l>Objectant, pulchramque, petunt per vulnera mortem. </l>
+                </lg>
+              </quote>
+            </egXML>
+            <list>
+              <label>Quotations in foreign languages</label>
+              <item>If the quote is in a foreign language (as they often are), the entire text of
+                the quoatation should be encapsulated by the appropriate element
+                (<tag>foreign</tag>) with the correct <att>xml:lang</att> attribute. If the quote
+                already contains anoter textual structure (such as the <tag>lg</tag> in the example
+                above), the <att>xml:lang</att> attribute can be used in the outermost structure
+                inside the quotation.</item>
+            </list>
+          </div>
+          <div xml:id="encForeign">
+            <head>Foreign text</head>
+            <p>Any text (including single words not otherwise marked up) written in a language other
+              than English should be encoded with a <tag>foreign</tag> element with a corresponding
+                <att>xml:lang</att> attribute. The two most common language are Latin (<tag>foreign
+                xml:lang="la")</tag> and Ancient Greek (<tag>foreign xml:lang="grc")</tag></p>
+          </div>
+          <div xml:id="encNotes">
+            <head>Notes</head>
+            <p>Notes are a major part of Butler's work and special care should be taken in their
+              encoding. There are several different types of notes which are further refined with
+                <att>type</att> and <att>subtype</att> attributes, and all notes must include them.
+              The <att>type</att> attribute defines a note as either <val>authorial</val> or
+                <val>editorial</val>. All authorial notes have been assined an automatic
+                <att>xml:id</att> value that follows a simple pattern: part of book, followed by
+              subtype of note, followed by note number. So an <att>xml:id</att> of
+                <val>frontbibln1</val> refers to the first bibliographic note in the front matter;
+              or an <att>xml:id</att> of <val>ch3sumn8</val> refers to the eight summary note in
+              chapter 3. For summary notes, the note number is the same as the note number in the
+              source text.</p>
+            <div xml:id="encNotesAuth">
+              <head>Authorial Notes</head>
+              <p>Authorial notes, i.e, all notes included in the source text, are always marked with
+                an <att>type</att> attribute of <val>authorial</val>. They are then further divided
+                into the following subtypes:</p>
+              <list>
+                <label>Summary notes</label>
+                <item>These are the notes that help navigate the text. They are numbered in the
+                  source document and offer a short, one-sentence summary of the main text they are
+                  attached to and should, wherever possible, be placed just before the section of
+                  text they refer to. They should be marked with a <att>subtype</att> of
+                    <val>summary</val>. <label>Example:</label>
+                  <egXML xmlns="http://www.tei-c.org/ns/Examples">
+                    <p xml:id="ch3par23">
+                      <note type="authorial" subtype="summary" xml:id="ch3sumn16">16. How to make a
+                        hackle.</note> The best cover for Hives is a thicke hackle: ...</p>
+                  </egXML></item>
+                <label>Bibliographic notes</label>
+                <item>These notes usually provide a reference to a particular point made in the body
+                  of the text, or a reference to a quotation made in the body of the text. They can
+                  be internal cross-references, or external bibliographic information. No
+                  distinction is made between these two types with attributes, instead their content
+                  is encoded differently: cross-references must contain a <tag>ref</tag> element
+                  while bibliographic references must contain a <tag>bibl</tag> element. In both
+                  cases, the note should have a <att>subtype</att> attribute with the value of
+                    <val>bibliographic</val>. <label>Example of cross-reference</label><egXML
+                    xmlns="http://www.tei-c.org/ns/Examples">
+                    <note type="authorial" subtype="bibliographic" xml:id="ch2bibln14">
+                      <ref target="#">V.c.10.p.I.n.3</ref>
+                    </note>
+                  </egXML>
+                  <label>Example of bibliography</label><egXML
+                    xmlns="http://www.tei-c.org/ns/Examples">
+                    <note type="authorial" subtype="bibliographic" xml:id="ch1bibln43">
+                      <bibl>Hist.an.l.9.cap.40.</bibl>
+                    </note>
+                  </egXML></item>
+                <label>Gloss notes</label>
+                <item>Gloss notes offer further detail, explanation, or deviation from the main body
+                  of the text. They should have a <att>subtype</att> with the value of
+                    <val>gloss</val>. They are often linked through from the text using an * or a †.
+                  Like all other notes, they can appear as side-notes, although often they also
+                  appear in the body of the text, in smaller type. If this is the case, the note
+                  should also contain a <att>place</att> attribute with the value <val>inline</val>.
+                    <label>Example of gloss side-note</label><egXML
+                    xmlns="http://www.tei-c.org/ns/Examples">
+                    <note type="authorial" subtype="gloss" xml:id="ch1glon1">*Which not onely
+                      increaseth their anger, (specially in hot weather, <ref target="#"
+                        >v.n.38.</ref>) but inciteth others to take their parts: and if by striving
+                      and striking you chance to kill one, the Bees presently perceiving it by the
+                      strong smell of the humour (for she smelleth then as if she had stung, <ref
+                        target="#">v.n.29.</ref>) will be so eager upon revenge, that by no meanes
+                      can they be pacified, untill they have the field.</note>
+                  </egXML>
+                  <label>Example of inline gloss note</label>
+                  <egXML xmlns="http://www.tei-c.org/ns/Examples">
+                    <note type="authorial" subtype="gloss" xml:id="ch1glon4" place="inline">*Which
+                      is a long life in comparison of the Silk-wormes, which live but foure moneths;
+                      or of the Waspes, which live but five: or of the Drones, which but six.</note>
+                  </egXML>
+                </item>
+              </list>
+            </div>
+            <div xml:id="encNotesEd">
+              <head>Editorial Notes</head>
+              <p>Currently, there is only one type of editorial notes, although this type is
+                reserved for later use for annotation. Editorial notes are used to mark places that
+                need double checking, or are missing transcriptions. In addition to <att>type</att>
+                being <val>editorial</val>, they must have a <att>subtype</att> of either
+                  <val>check</val> or <val>other</val>. They can also have a <att>cert</att>
+                attribute with a value of <val>check</val> or a value of confidence in
+                transcription. These notes should be deleted once they have been double-checked and
+                confirmed, and if any doubt to the certainty of the transcription remains, that
+                should be marked out differently.</p>
+              <label>Example:</label>
+              <egXML xmlns="http://www.tei-c.org/ns/Examples">
+                <note type="editorial" subtype="other" cert="check" xml:id="check1">Greek
+                  script</note>
+              </egXML>
+              <p>If you wish to add a comment to a particular editorial note to be checked, use the
+                  <att>ana</att> attribute, as in the example below:</p>
+              <egXML xmlns="http://www.tei-c.org/ns/Examples">
+                <note type="editorial" subtype="other" cert="check"
+                  ana="Should we regularise the I to J silently in this case? -- Tiago"
+                  xml:id="check3">J for June, <hi>J</hi> for July</note>
+              </egXML>
+            </div>
+          </div>
+          <div xml:id="encBibl">
+            <head>Bibliography and cross-references</head>
+            <p>Bibliographic information or cross-references can appear in both the main body of the
+              text or inside notes. Regardless of their placement, at the lowest level they should
+              be encoded in the same way, namely:</p>
+            <list>
+              <label>Bibliography</label>
+              <item>Bibliographic references should be encoded with a <tag>bibl</tag> element, and
+                can encode further structured information (for example, an <tag>author</tag>
+                element), although at this stage simply marking up the source text with the
+                  <tag>bibl</tag> element is sufficient. <label>Example:</label>
+                <egXML xmlns="http://www.tei-c.org/ns/Examples">
+                  <bibl>Nat.hist.li.21.c.12.</bibl>
+                </egXML></item>
+              <label>Cross-references</label>
+              <item>Cross-references point to other places within the text (usually specific notes
+                that can be in a completely different part of the text, like summary notes in
+                different chapters, or close to the cross-reference itself, like gloss notes). In
+                both cases, they should be encoded with a <tag>ref</tag> element and a
+                  <att>target</att> attribute that will contain a '#' followed by the
+                  <att>xml:id</att> of the target note. <label>Examples:</label><egXML
+                  xmlns="http://www.tei-c.org/ns/Examples">
+                  <note type="authorial" subtype="bibliographic" xml:id="ch1bibln9"><ref
+                      target="ch7sumn35">Vid.c.7.n.35</ref></note>
+                </egXML>
+                <egXML xmlns="http://www.tei-c.org/ns/Examples"> or yeelding the Robbers, <ref
+                    target="#ch1bibln10">v:</ref>
+                </egXML>
+                <egXML xmlns="http://www.tei-c.org/ns/Examples"> may remove it) in <ref
+                    target="#ch3glon7">*</ref>length, depth, and thicknesse fitting to the wicket
+                </egXML>
+              </item>
+            </list>
+          </div>
+          <div xml:id="encEnt">
+            <head>Entities (names, places)</head>
+            <p>Wherever possible, named entities such as the names of people or places should be
+              marked with the corresponding elements <tag>persName</tag> and <tag>placeName</tag>.
+              Names of authors should always be marked up with <tag>persName</tag> and not an
+                <tag>author</tag> element, unless they appear inside a structured <tag>bibl</tag>.
+              You don't have to record their original rendering, but you can do so if you wish using
+              the <att>rend</att> attribute with a suitable value.</p>
+            <label>Examples:</label>
+            <egXML xmlns="http://www.tei-c.org/ns/Examples">such as is our Iland of <placeName
+                rend="italic">Britaine</placeName>, I doubt mee shee will never quit cost:</egXML>
+            <egXML xmlns="http://www.tei-c.org/ns/Examples">The love of which did so ravish
+                <persName rend="italic">Aristomachus</persName> and <persName rend="italic"
+                >Philiscus</persName>, that, as <persName rend="italic">Plinie</persName>
+              reporteth</egXML>
+          </div>
+          <div xml:id="encLg">
+            <head>Text in verse</head>
+            <p>Text in verse can appear withing quotations, and should follow the normal TEI
+              Guidelines. Each line of verse should be encoded with an <tag>l</tag> element, and
+              each stanza should be encoded with an <tag>lg</tag> element. If more than one stanza
+              is present, the entire verse portion should be grouped with a <tag>div
+                type="poem"</tag> element.</p>
+            <label>Example:</label>
+            <egXML xmlns="http://www.tei-c.org/ns/Examples">
+              <div type="poem" xml:lang="la">
+                <head type="poemTitle">Ad Authorem.</head>
+                <lg rend="italic">
+                  <l>
+                    <hi rend="drop-capital">Q</hi> Uæ natura Apibus, quæ membra, scientia, sensus, </l>
+                  <l>Virtutes, ætas, ingenium, pietas,</l>
+                  <l>Quæ statio, &amp; sedes, sobules, examina, tecta,</l>
+                  <l>His hæc condendi promptus ubiqe modus; </l>
+                  <l>Quæ princeps, populus, regimen, respublica, mores, </l>
+                  <l>Quæ sint arma, hostes, prælia, castra, duces, </l>
+                  <l>Quam celeri campos gressis, sylvasque peragrant,</l>
+                  <l>Qua cellas singunt arte, labore replent,</l>
+                  <l>Quam prosint hominum generi cœlestia dona, </l>
+                  <l>Utque magis prosint quo moderanda modo; </l>
+                  <l>Per te miranda hæc le vium spectacula rerum</l>
+                  <l>Mystica tot seclis clausa reclusa patent.</l>
+                </lg>
+                <lg rend="italic">
+                  <l>Aut a consilijs Apibus, Butlere, fuisti,</l>
+                  <l>Aut a consilijs est Apis ipsa tuis.</l>
+                </lg>
+              </div>
+            </egXML>
+          </div>
+          <div xml:id="encTerm">
+            <head>Special Terms</head>
+            <p>Throughout the text, certain words are emphasised graphically (usually italics) to
+              denote a special semantic meaning to the subject matter. These should be encoded with
+              the <tag>term</tag> element. No special distinction between different types is made at
+              this stage, although future encoding might want to create it. An obvious example is
+              the use of horoscopic signs to refer to seasons and months.</p>
+            <label>Examples:</label>
+            <egXML xmlns="http://www.tei-c.org/ns/Examples"> Among which, though there do not appear
+              those outward <term> Organa</term> of senting which other <term>Animals</term> have,
+              nor is seene in the head that inward principall </egXML>
+            <egXML xmlns="http://www.tei-c.org/ns/Examples"> the other Spring moneths are <term>
+                Aries</term> and <term> Taurus</term>
+            </egXML>
+          </div>
+          <div xml:id="encEmph">
+            <head>Emphasis</head>
+            <p>Some times, words are marked graphically in the source text (usually italics) to
+              denote emphasis. In these cases, they should be encoded using the <tag>emph</tag>
+              element.</p>
+            <label>Example:</label>
+            <egXML xmlns="http://www.tei-c.org/ns/Examples"> the man held, and the Beare pulled,
+              untill with maine force he had drawne <emph>Dun out of the mire</emph>: and then,
+              being let goe, away he trots <emph>more afeard then hurt,</emph> leaving the smeared
+              swaine in a joyful feare. </egXML>
+          </div>
+          <div xml:id="encFig">
+            <head>Figures and Diagrams</head>
+            <p>Figures and diagrams currently only have their position marked in the text, and need
+              further encoding down the line. The basic structure is as follows:</p>
+            <egXML xmlns="http://www.tei-c.org/ns/Examples">
+              <figure>
+                <figDesc>DIAGRAM</figDesc>
+                <graphic url="#"/>
+              </figure>
+            </egXML>
+            <p>In the future, they will be able to point towards a graphic of the diagram (either a
+              photo of the original or a redrawn diagram) and display it in the text.</p>
+          </div>
+        </div>
+      </div>
+      <div xml:id="conclusion">
+        <head>Conclusion</head>
+        <p>This encoding manual should cover most, if not all, the phenomena present in
+            <name>Butler</name>'s text. Any phenomena that is not explicitly explained here should
+          follow the general TEI Guidelines. If you encounter something that is not adequately (or
+          is ambiguously) covered by the general Guidelines, get in touch with Tiago to define a new
+          rule for the phenomena.</p>
+
+      </div>
+      <div>
+        <schemaSpec ident="tei_beeing_human" start="TEI" prefix="tei_" targetLang="en" docLang="en">
+
+          <!-- required minimal header elements -->
+          <moduleRef key="header"
+            include="teiHeader fileDesc titleStmt publicationStmt sourceDesc principal funder editionStmt edition authority licence revisionDesc listChange change"/>
+
+          <!-- required core elements (p and title for use in titleStmt) -->
+          <moduleRef key="core"
+            include="p title date note biblStruct bibl ref abbr list item foreign q quote graphic head pb respStmt author name resp pubPlace imprint publisher monogr hi cit lb term gloss lg l ptr cb emph"/>
+
+          <!-- required textstructure elements (TEI, text, and body) -->
+          <moduleRef key="textstructure"
+            include="TEI text body div front titlePage titlePart epigraph byline imprimatur docImprint docTitle signed back trailer"/>
+
+          <!-- required module tei instantiates lots of classes used for further expansion of this odd -->
+          <moduleRef key="tei"/>
+
+
+          <moduleRef key="transcr" include="fw"/>
+          <moduleRef key="namesdates" include="persName placeName orgName"/>
+          <moduleRef key="analysis" include="w s"/>
+          <moduleRef key="figures" include="figure figDesc"/>
+          <elementSpec ident="date" mode="change">
+            <desc versionDate="2023-08-11" xml:lang="en">contains a date in any format. It must
+              include a @when attribute with the date in the standard format yyyy-mm-dd. If there
+              isn't enough information, record at least the year, leaving the remaining month and
+              day out.</desc>
+            <attList>
+              <attDef ident="when" mode="change" usage="req">
+                <desc versionDate="2023-08-11" xml:lang="en">supplies the value of the date or time
+                  in a standard form, e.g. yyyy-mm-dd. When only the year is known, use e.g. yyyy
+                  not including month and year.</desc>
+              </attDef>
+            </attList>
+          </elementSpec>
+          <elementSpec ident="quote" mode="change">
+            <constraintSpec ident="quote-should-contain-note" scheme="schematron">
+              <constraint>
+                <sch:report test="count(descendant::tei:ref|descendant::tei:bibl)=0" role="warning"
+                  >Should this 'quote' contain a bibliographic note or information?</sch:report>
+              </constraint>
+            </constraintSpec>
+          </elementSpec>
+          <elementSpec ident="fw" mode="change">
+            <desc versionDate="2023-08-22" xml:lang="en">contains a running head (e.g. a header,
+              footer), catchword, or similar material appearing on the current page, including other
+              graphical forme elements like horizontal lines (identified using the <att>type</att>
+              attribute).</desc>
+            <attList>
+              <attDef ident="type" mode="change" usage="req">
+                <valList type="closed" mode="change">
+                  <valItem mode="add" ident="horizontalRule">
+                    <desc versionDate="2023-08-22" xml:lang="en">A graphical horizontal rule used to
+                      visually demarcate the page.</desc>
+                  </valItem>
+                  <valItem mode="add" ident="ornament">
+                    <desc versionDate="2023-08-22" xml:lang="en">A printer's ornament -- later might
+                      be replaced by <gi>figure</gi> with a graphical representation.</desc>
+                  </valItem>
+                </valList>
+              </attDef>
+            </attList>
+          </elementSpec>
+          <elementSpec ident="note" mode="change">
+            <desc versionDate="2023-08-11" xml:lang="en">contains a note or annotation, either
+              included in the original, or added by the editor. The types of notes are distinguished
+              by a @type attribute, with further subtyping with the @subtype attribute. If it is a
+              side-note, this should be noted with a @place attribute of "margin". Also used to mark
+              up words and passages that have been transcribed with low certainty or might require
+              double-checking.</desc>
+            <constraintSpec ident="bibliographic-note-must-contain" scheme="schematron">
+              <constraint>
+                <sch:report
+                  test="@subtype='bibliographic' and count(descendant::tei:ref|descendant::tei:bibl)=0"
+                  role="error">A bibliographic note must contain at least one bibl or ref
+                  element</sch:report>
+              </constraint>
+            </constraintSpec>
+            <attList>
+              <attDef ident="type" mode="change" usage="req">
+                <valList type="closed" mode="change">
+                  <valItem mode="add" ident="authorial">
+                    <desc versionDate="2023-08-11" xml:lang="en">Notes originating from the copy
+                      text, probably authorial.</desc>
+                  </valItem>
+                  <valItem mode="add" ident="editorial">
+                    <desc versionDate="2023-08-11" xml:lang="en">Notes added by the editor, glosses,
+                      bibliographic, etc.</desc>
+                  </valItem>
+                </valList>
+              </attDef>
+              <attDef ident="subtype" mode="change" usage="req">
+                <valList type="closed" mode="change">
+                  <valItem mode="add" ident="summary">
+                    <desc versionDate="2023-08-11" xml:lang="en">Contains a summary of a related
+                      paragraph or textual passage.</desc>
+                  </valItem>
+                  <valItem mode="add" ident="bibliographic">
+                    <desc versionDate="2023-08-11" xml:lang="en">Contains bibliographic information
+                      on a related paragraph or textual passage.</desc>
+                  </valItem>
+                  <valItem mode="add" ident="gloss">
+                    <desc versionDate="2023-08-11" xml:lang="en">Contains a gloss on a related
+                      paragraph or textual passage.</desc>
+                  </valItem>
+                  <valItem mode="add" ident="other">
+                    <desc versionDate="2023-08-11" xml:lang="en">Other types of note, not yet
+                      defined.</desc>
+                  </valItem>
+                  <valItem mode="add" ident="certainty">
+                    <desc versionDate="2023-08-11" xml:lang="en">Marks the passage as being an
+                      uncertain transcription. Use @cert to add more detail.</desc>
+                  </valItem>
+                </valList>
+              </attDef>
+              <attDef ident="cert" mode="change">
+                <valList type="closed" mode="change">
+                  <valItem mode="add" ident="low"/>
+                  <valItem mode="add" ident="medium"/>
+                  <valItem mode="add" ident="high"/>
+                  <valItem mode="add" ident="check">
+                    <desc versionDate="2023-08-11" xml:lang="en">Marks this passage as requiring
+                      double-checking. If a positive conclusion can be achieved, the note may be
+                      removed.</desc>
+                  </valItem>
+                </valList>
+              </attDef>
+              <attDef ident="xml:id" mode="change" usage="req"/>
+            </attList>
+          </elementSpec>
+          <elementSpec ident="w" mode="change">
+            <desc versionDate="2023-08-11" xml:lang="en">represents a grammatical (not necessarily
+              orthographic) word -- used to mark words of special meaning and interest.</desc>
+            <attList>
+              <attDef ident="ana" mode="change" usage="rec">
+                <desc versionDate="2023-08-11" xml:lang="en">indicates one or more elements
+                  containing interpretations of the element on which the <att>ana</att> attribute
+                  appears. Identifies this word as a reference to bees, sound, voice, emotion, or
+                  music. To identify references use @ana with the corresponding value.</desc>
+                <valList type="semi" mode="change">
+                  <valItem mode="add" ident="bee">
+                    <desc versionDate="2023-08-11" xml:lang="en">Identifies this word as a reference
+                      to bees, the animal.</desc>
+                  </valItem>
+                  <valItem mode="add" ident="sound">
+                    <desc versionDate="2023-08-11" xml:lang="en">Identifies this word as a reference
+                      to sound.</desc>
+                  </valItem>
+                  <valItem mode="add" ident="voice">
+                    <desc versionDate="2023-08-11" xml:lang="en">Identifies this word as a reference
+                      to voice.</desc>
+                  </valItem>
+                  <valItem mode="add" ident="emotion">
+                    <desc versionDate="2023-08-11" xml:lang="en">Identifies this word as a reference
+                      to emotion.</desc>
+                  </valItem>
+                  <valItem mode="add" ident="music">
+                    <desc versionDate="2023-08-11" xml:lang="en">Identifies this word as a reference
+                      to music.</desc>
+                  </valItem>
+                </valList>
+              </attDef>
+            </attList>
+          </elementSpec>
+          <elementSpec ident="s" mode="change">
+            <desc versionDate="2023-08-11" xml:lang="en">contains a sentence-like division of a
+              text. Used to identify phrasal references to bees, sound, voice, emotion, music with
+              an @ana attribute.</desc>
+            <attList>
+              <attDef ident="ana" mode="change" usage="rec">
+                <valList type="semi" mode="change">
+                  <valItem mode="add" ident="bees"/>
+                  <valItem mode="add" ident="voice"/>
+                  <valItem mode="add" ident="sound"/>
+                  <valItem mode="add" ident="music"/>
+                  <valItem mode="add" ident="emotion"/>
+                </valList>
+              </attDef>
+            </attList>
+          </elementSpec>
+          <elementSpec ident="foreign" mode="change">
+            <content>
+              <macroRef key="macro.paraContent"/>
+            </content>
+            <attList>
+              <attDef ident="xml:lang" mode="change" usage="rec"/>
+            </attList>
+          </elementSpec>
+          <classRef key="att.placement"/>
+          <elementSpec ident="publicationStmt" mode="change">
+            <content>
+              <alternate maxOccurs="1" minOccurs="1">
+                <sequence maxOccurs="unbounded" minOccurs="1">
+                  <classRef key="model.publicationStmtPart.agency"/>
+                  <classRef key="model.publicationStmtPart.detail"/>
+                  <classRef key="model.availabilityPart"/>
+                </sequence>
+                <classRef key="model.pLike"/>
+              </alternate>
+            </content>
+          </elementSpec>
+          <classRef key="model.availabilityPart"/>
+          <elementSpec ident="bibl" mode="change">
+            <attList>
+              <attDef ident="rend" mode="change">
+                <desc versionDate="2023-08-22" xml:lang="en">indicates how the element in question
+                  was rendered or presented in the source text. In the case of bibliographic
+                  sidenotes, the reference is usually rendered with alphabetic characters in italic
+                  script and numeric characters in round script. For this default presentation use
+                  the value <val>italic</val>. </desc>
+              </attDef>
+            </attList>
+          </elementSpec>
+          <elementSpec ident="hi" mode="change">
+            <desc versionDate="2023-08-22" xml:lang="en">marks a word or phrase as graphically
+              distinct from the surrounding text, for reasons concerning which no claim is made.
+              Avoid using this unless no other option is feasible.</desc>
+            <constraintSpec ident="hi-sanity-check" scheme="schematron">
+              <constraint>
+                <sch:assert test="@rend" role="warning">Is 'hi' the best element to describe this?
+                  If so, please provide rendering information with @rend.</sch:assert>
+              </constraint>
+            </constraintSpec>
+            <attList>
+              <attDef ident="rend" mode="change" usage="rec">
+                <valList mode="change">
+                  <valItem mode="add" ident="italic">
+                    <desc versionDate="2023-08-22" xml:lang="en">Text appears in italic script on
+                      the source.</desc>
+                  </valItem>
+                  <valItem mode="add" ident="smallCapitals">
+                    <desc versionDate="2023-08-22" xml:lang="en">Text is rendered on the source as
+                      small capitals.</desc>
+                  </valItem>
+                  <valItem mode="add" ident="opposite">
+                    <desc versionDate="2023-08-22" xml:lang="en">Text is rendered in the opposite
+                      script to the text surrounding it; i.e., if it appears within a round block,
+                      it is rendered in italic; if it appears on an italic block, it is rendered in
+                      round.</desc>
+                  </valItem>
+                  <valItem mode="add" ident="titleCase">
+                    <desc versionDate="2023-08-22" xml:lang="en">Text is rendered on the source
+                      using title case, i.e., "This Is Title Case"</desc>
+                  </valItem>
+                </valList>
+              </attDef>
+            </attList>
+          </elementSpec>
+          <elementSpec ident="cb" mode="change">
+            <desc versionDate="2023-08-23" xml:lang="en">marks the beginning of a new column of a
+              text on a multi-column page. The element should be placed at the start of the column,
+              and it should contain an <att>n</att> indicating whether it is a left- (1) or
+              right-hand(2) sided column</desc>
+            <attList>
+              <attDef ident="n" mode="change" usage="req">
+                <valList type="closed" mode="change">
+                  <valItem mode="add" ident="1">
+                    <desc versionDate="2023-08-23" xml:lang="en">Left-hand side column</desc>
+                  </valItem>
+                  <valItem mode="add" ident="2">
+                    <desc versionDate="2023-08-23" xml:lang="en">Right-hand side column</desc>
+                  </valItem>
+                </valList>
+              </attDef>
+            </attList>
+          </elementSpec>
+          <elementSpec ident="change" mode="change">
+            <attList>
+              <attDef ident="when" mode="change" usage="req"/>
+              <attDef ident="who" mode="change" usage="req"/>
+            </attList>
+          </elementSpec>
+          <elementSpec ident="ref" mode="change">
+            <constraintSpec ident="ref-sanity-check" scheme="schematron">
+              <constraint>
+                <sch:report test="@target='#'" role="info">This 'ref' will need to point towards the
+                  corresponding @xml:id</sch:report>
+              </constraint>
+            </constraintSpec>
+            <attList>
+              <attDef ident="target" mode="change" usage="req"/>
+            </attList>
+          </elementSpec>
+        </schemaSpec>
+      </div>
     </body>
   </text>
 </TEI>
