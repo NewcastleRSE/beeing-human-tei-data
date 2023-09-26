@@ -5,7 +5,7 @@ This short tutorial will guide you through the steps necessary to link the repos
 
 ## Requirements
 - Oxygen (follow the instructions in [here](https://www.oxygenxml.com/xml_editor/download_oxygenxml_editor.html) if you haven't downloaded, installed and registered Oxygen yet.)
-- Git ([follow this guide](../02_Install_Git/02_install_git) if you haven't done so yet)
+- Git ([follow this guide](../02_Install_Git/02_install_git.md) if you haven't done so yet)
 
 ## Instructions
 1. Open Oxygen
