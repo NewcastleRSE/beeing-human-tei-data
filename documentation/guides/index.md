@@ -9,11 +9,12 @@ You will only need to do these steps once for each computer you use:
 1. [Make sure the file is associated with the custom Schema of the project](#)
 
 ## Making changes
-These steps should be followed for **every** work session (i.e., any time you plan on making any changes to the files)
+These steps should be followed for **every** work session (i.e., any time you plan on making any changes to the files), or at any time you plan to make a significant change.
 1. [Create a new branch](#) if you are starting a new set of changes or [Ensure you are in the correct branch](#) if you are continuing your work from another time
     1. If you are continuing your work or returning to the main development branch, [Pull new changes to the branch](#)
 1. Make any changes to the files
 1. [Stage and commit your changes](#)
+1. [Push your changes](#) to the GitHub repository.
 
 ## Finishing a set of changes
 Once you have finished a set of changes, follow these steps:
