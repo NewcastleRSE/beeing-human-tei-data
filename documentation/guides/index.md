@@ -23,4 +23,5 @@ Once you have finished a set of changes, follow these steps:
 1. Once the pull request has been approved, [merge your branch to the `dev` branch](#)
 1. [Move to the `dev` branch](#) and [Pull the new changes](#)
 1. The new changes should now be live and visible on the development view of the [Beeing Human website](https://newcastlerse.github.io/beeing-human-web/content/literature) (you might need to refresh it if you can't see the new changes).
+1. If everything worked fine, you can now [delete your local branch](#) to avoid confusion.
 
