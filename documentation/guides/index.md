@@ -5,7 +5,7 @@ You will only need to do these steps once for each computer you use:
 
 1. [Register a GitHub account](./01_register_github/01_register_github.md)
 1. [Install Git](./02_Install_Git/02_install_git.md)
-1. [Link Oxygent to the Github repository](./03_Link_Oxygen_Github/03_Link_Oxygen_Github.md)
+1. [Link Oxygen to the Github repository](./03_Link_Oxygen_Github/03_Link_Oxygen_Github.md)
 1. [Make sure the file is associated with the custom Schema of the project](#)
 
 ## Making changes
