@@ -1,7 +1,7 @@
 # Making changes to the TEI documents
 
 ## Setup
-You will only need to do these steps once for each computer you use:
+You will only need to do these steps once (or once for each computer you use in the cases of 2, 3, and 4):
 
 1. [Register a GitHub account](./01_register_github/01_register_github.md)
 1. [Install Git](./02_Install_Git/02_install_git.md)
