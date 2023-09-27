@@ -33,4 +33,4 @@ Let's say I want to make a change to our TEI file. Specifically, I want to add a
 
 ## Commit history
 'Commit little, commit often': the more commits to a repository, the easier it is to revert changes to a specific point in history without unnecessary loss of work. As an example, this is what the commit history to the branch where I am writing these guides look like up to just before I wrote this paragraph:
-![]()
+![commit history of the docs-guides branch for today](./img/05_commit_history.png)
