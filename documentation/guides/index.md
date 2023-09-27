@@ -6,13 +6,14 @@ You will only need to do these steps once (or once for each computer you use in 
 1. [Register a GitHub account](./01_register_github/01_register_github.md)
 1. [Install Git](./02_Install_Git/02_install_git.md)
 1. [Link Oxygen to the Github repository](./03_Link_Oxygen_Github/03_Link_Oxygen_Github.md)
-1. [Make sure the file is associated with the custom Schema of the project](#)
+1. [Make sure the file is associated with the custom Schema of the project](./04_Associate_Schema/04_Associate_Schema.md)
 
 ## Making changes
 These steps should be followed for **every** work session (i.e., any time you plan on making any changes to the files), or at any time you plan to make a significant change.
 1. [Create a new branch](#) if you are starting a new set of changes or [Ensure you are in the correct branch](#) if you are continuing your work from another time
     1. If you are continuing your work or returning to the main development branch, [Pull new changes to the branch](#)
 1. Make any changes to the files
+1. Add a note about your changes to the [`revisionDesc`](https://htmlpreview.github.io/?https://raw.githubusercontent.com/NewcastleRSE/beeing-human-tei-data/dev/documentation/tei_beeing_human.html#encMetaChange) portion of the TEI file.
 1. [Stage and commit your changes](#)
 1. [Push your changes](#) to the GitHub repository.
 
