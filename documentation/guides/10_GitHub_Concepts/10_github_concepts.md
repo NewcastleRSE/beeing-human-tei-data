@@ -13,6 +13,9 @@ In our case, branches should represent groups of related changes to the TEI file
 
 ## Commit
 
+## Pull changes
+Pulling changes simply means ensuring your local copy of the repository and the branch are up to date with the truth of the remote repository. This means that whenever more than one people are working on the same branch (or when you work from more than one computer), you can still be sure that you are working from the latest possible version of the file if you remember to pull any new changes before starting your work.
+
 ## Pull request
 
 ## Push
