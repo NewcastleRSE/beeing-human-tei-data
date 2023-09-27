@@ -14,7 +14,7 @@ These steps should be followed for **every** work session (i.e., any time you pl
     1. If you are continuing your work or returning to the main development branch, [Pull new changes to the branch](./13_Pull_new_changes/13_pull_new_changes.md)
 1. Make any changes to the files
 1. Add a note about your changes to the [`revisionDesc`](https://htmlpreview.github.io/?https://raw.githubusercontent.com/NewcastleRSE/beeing-human-tei-data/dev/documentation/tei_beeing_human.html#encMetaChange) portion of the TEI file.
-1. [Stage and commit your changes](#)
+1. [Stage and commit your changes](./14_stage_commit/14_stage_commit.md)
 1. [Push your changes](#) to the GitHub repository.
 
 ## Finishing a set of changes
