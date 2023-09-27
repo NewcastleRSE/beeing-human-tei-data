@@ -10,7 +10,7 @@ You will only need to do these steps once (or once for each computer you use in 
 
 ## Making changes
 These steps should be followed for **every** work session (i.e., any time you plan on making any changes to the files), or at any time you plan to make a significant change.
-1. [Create a new branch](#) if you are starting a new set of changes or [Ensure you are in the correct branch](#) if you are continuing your work from another time
+1. [Create a new branch](./11_Create_branch/11_create_branch.md) if you are starting a new set of changes or [Ensure you are in the correct branch](#) if you are continuing your work from another time
     1. If you are continuing your work or returning to the main development branch, [Pull new changes to the branch](#)
 1. Make any changes to the files
 1. Add a note about your changes to the [`revisionDesc`](https://htmlpreview.github.io/?https://raw.githubusercontent.com/NewcastleRSE/beeing-human-tei-data/dev/documentation/tei_beeing_human.html#encMetaChange) portion of the TEI file.

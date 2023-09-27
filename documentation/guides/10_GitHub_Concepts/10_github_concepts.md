@@ -14,3 +14,5 @@ In our case, branches should represent groups of related changes to the TEI file
 ## Commit
 
 ## Pull request
+
+## Push
