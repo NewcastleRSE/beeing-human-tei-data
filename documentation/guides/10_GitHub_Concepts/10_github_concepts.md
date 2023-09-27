@@ -20,6 +20,7 @@ Pulling changes simply means ensuring your local copy of the repository and the 
 ## Pull request
 
 ## Push
+Pushing your changes means the opposite of pulling your changes: you are updating the remote repository with the changes you've made and committed to your local copy. You can push after each commit, or group commits and push them at the end of the day. Generally, you should push as soon as you commit, and making sure all changes have been saved, committed and pushed to the remote repository should be the last thing you do every day before closing Oxygen.
 
 ## Stage
 Staging changes is an intermediary step between saving and committing them to the repository. You are simply saying that the changes to the document are ready to be committed. There's more to it than that (and staging allows you to do all sorts of cool stuff to your changes), but for our purposes staging always immediately precedes comitting.

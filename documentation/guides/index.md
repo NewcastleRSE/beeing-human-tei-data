@@ -15,15 +15,19 @@ These steps should be followed for **every** work session (i.e., any time you pl
 1. Make any changes to the files
 1. Add a note about your changes to the [`revisionDesc`](https://htmlpreview.github.io/?https://raw.githubusercontent.com/NewcastleRSE/beeing-human-tei-data/dev/documentation/tei_beeing_human.html#encMetaChange) portion of the TEI file.
 1. [Stage and commit your changes](./14_stage_commit/14_stage_commit.md)
-1. [Push your changes](#) to the GitHub repository.
+1. [Push your changes](./15_Pushing_Changes/15_push_changes.md) to the GitHub repository.
 
 ## Finishing a set of changes
 Once you have finished a set of changes, follow these steps:
 
-1. Make sure you have [committed the latest changes to the file](#)
+1. Make sure you have [committed the latest changes to the file](./14_stage_commit/14_stage_commit.md) and [pushed them to the remote repository](./15_Pushing_Changes/15_push_changes.md)
 1. [Create a pull request](#)
 1. Once the pull request has been approved, [merge your branch to the `dev` branch](#)
 1. [Move to the `dev` branch](./12_ensure_correct_branch/12_ensure_correct_branch.md) and [Pull the new changes](./13_Pull_new_changes/13_pull_new_changes.md)
 1. The new changes should now be live and visible on the development view of the [Beeing Human website](https://newcastlerse.github.io/beeing-human-web/content/literature) (you might need to refresh it if you can't see the new changes).
 1. If everything worked fine, you can now [delete your local branch](#) to avoid confusion.
+
+## Other useful stuff
+1. Navigate the TEI document using `XPath`
+1. Using GitHub Issues to keep track of tasks and fixes
 
