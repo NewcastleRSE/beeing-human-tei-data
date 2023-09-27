@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This short tutorial will guide you through the steps necessary to install (Git)[https://git-scm.com/]. You will need to install Git if you want to link the Github repository to Oxygen (set it and forget it), but you won't need it to make any changes to the repository through the web.
+This short tutorial will guide you through the steps necessary to install [Git](https://git-scm.com/). You will need to install Git if you want to link the Github repository to Oxygen (set it and forget it), but you won't need it to make any changes to the repository through the web.
 
 ## What is Git?
 
