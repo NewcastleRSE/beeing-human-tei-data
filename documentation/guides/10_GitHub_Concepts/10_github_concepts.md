@@ -12,6 +12,7 @@ Generally speaking, changes should be grouped thematically and made in branches.
 In our case, branches should represent groups of related changes to the TEI file: for example, adding `@target` attributes to internal references marked with a `<ref>` element should all be made in the same branch. Isolating that task means that any errors introduced during this process should be isolated from the main development branch (and therefore should not pass the [pull request](./10_github_concepts.md#pull-request) review).
 
 ## Commit
+Committing changes basically creates a new recovery point for the history of the repository. You can think of committing as basically doing a 'double-save': you are not only saving the document, but you are also saving it as a recoverable point. Having a rich and fine-grained commit history allows us to easily go back in time if any changes introduce unwanted mistakes. There's an oft quoted saying in software development: commit little, commit often. Keep that in mind.
 
 ## Pull changes
 Pulling changes simply means ensuring your local copy of the repository and the branch are up to date with the truth of the remote repository. This means that whenever more than one people are working on the same branch (or when you work from more than one computer), you can still be sure that you are working from the latest possible version of the file if you remember to pull any new changes before starting your work.
@@ -19,3 +20,6 @@ Pulling changes simply means ensuring your local copy of the repository and the 
 ## Pull request
 
 ## Push
+
+## Stage
+Staging changes is an intermediary step between saving and committing them to the repository. You are simply saying that the changes to the document are ready to be committed. There's more to it than that (and staging allows you to do all sorts of cool stuff to your changes), but for our purposes staging always immediately precedes comitting.
