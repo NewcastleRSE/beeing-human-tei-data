@@ -22,7 +22,7 @@ Once you have finished a set of changes, follow these steps:
 
 1. Make sure you have [committed the latest changes to the file](./14_stage_commit/14_stage_commit.md) and [pushed them to the remote repository](./15_Pushing_Changes/15_push_changes.md)
 1. [Create a pull request](./22_Merge_changes/22_merge_changes.md)
-2. Once the pull request has been approved, [merge your branch to the `dev` branch](#)
+2. Once the pull request has been approved, [merge your branch to the `dev` branch](./22_Merge_changes/22_merge_changes.md)
 3. [Move to the `dev` branch](./12_ensure_correct_branch/12_ensure_correct_branch.md) and [Pull the new changes](./13_Pull_new_changes/13_pull_new_changes.md)
 4. The new changes should now be live and visible on the development view of the [Beeing Human website](https://newcastlerse.github.io/beeing-human-web/content/literature) (you might need to refresh it if you can't see the new changes).
 5. If everything worked fine, you can now [delete your local branch](#) to avoid confusion.
