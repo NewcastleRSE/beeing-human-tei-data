@@ -28,6 +28,6 @@ Once you have finished a set of changes, follow these steps:
 5. If everything worked fine, you can now [delete your local branch](#) to avoid confusion.
 
 ## Other useful stuff
-1. Navigate the TEI document using `XPath`
-1. Using GitHub Issues to keep track of tasks and fixes
+1. [Navigate the TEI document using `XPath`]() (TBD)
+1. [Using GitHub Issues to keep track of tasks and fixes]() (TBD)
 
