@@ -14,6 +14,9 @@ In our case, branches should represent groups of related changes to the TEI file
 ## Commit
 Committing changes basically creates a new recovery point for the history of the repository. You can think of committing as basically doing a 'double-save': you are not only saving the document, but you are also saving it as a recoverable point. Having a rich and fine-grained commit history allows us to easily go back in time if any changes introduce unwanted mistakes. There's an oft quoted saying in software development: commit little, commit often. Keep that in mind.
 
+## Issues
+Issues are a very useful feature in Github: they allow you to flag things that need to be fixed, suggest new features, create a list of tasks, etc, while, at the same time, keeping track of any changes, discussions or problems around that issue. They can be referenced in other issues, [pull requests](#pull-request), etc. You should try to use issues wherever possible.
+
 ## Pull changes
 Pulling changes simply means ensuring your local copy of the repository and the branch are up to date with the truth of the remote repository. This means that whenever more than one people are working on the same branch (or when you work from more than one computer), you can still be sure that you are working from the latest possible version of the file if you remember to pull any new changes before starting your work.
 

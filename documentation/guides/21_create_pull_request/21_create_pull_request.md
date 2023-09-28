@@ -34,4 +34,20 @@ Once you have made all the changes that you need to do in a particular branch --
 
 ![choose branches to merge](./img/05_define_branches.PNG)
 
-8. 
+8. Once you open the pull request, you will see a form that has been pre-populated. The 'write' portion comes from the template we use in the RSE team and, whenever possible, you should try to follow the same format. The crucial elements are:
+   1. A description of the change the branch introduces
+   2. The [issue](/documentation/guides/10_GitHub_Concepts/10_github_concepts.md#issues) that is fixed by this branch -- if there isn't one, you can delete the line;
+   3. The type of change: tick the box that best describes your change. (tick it by simply adding a `x` between the square brackets).
+   4. The checklist: you don't need to tick anything here, but use the list as a sanity check before creating the pull request
+   5. How has this been tested: might not be relevant in all cases but you should, at the very least, ensure the TEI file is valid. Mention that (or justify why not), as well as any other tests you might have made (including a simple re-reading of the changes)
+   6. What should reviewers look for: anything you might be a little uncertain about, mention here.
+
+9. Fill in the details as much as possible: the more detail, the quicker it will be to review.
+10. On the right hand side, under `Reviewers`,  type my username, `tiagosousagarcia` you should see me face next to it.
+11. Here's an example of a complete Pull Request:
+
+![completed pull requested](./img/06_pull_request.PNG)
+
+12. Once you are happy with everything, click the green `Create pull request` button.
+
+13. That's it! Tiago will review the pull request and let you know once it's ready to merge.
