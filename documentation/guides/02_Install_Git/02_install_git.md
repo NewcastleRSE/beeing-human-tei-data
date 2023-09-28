@@ -23,4 +23,6 @@ Git is the software responsible for version control, and is the industry stadard
             1. Open a terminal window (click the Launchpad icon in the Dock, type Terminal in the search field, then click Terminal.) and type `brew help`.
             1. If you see a message like `command not found` you will need to install Homebrew: head over to [https://brew.sh/](https://brew.sh/) and follow the instructions there
         1. If you have Homebrew, open a terminal window, type `brew install git`, and follow the on-screen instructions
-1. That's it. To confirm Git has been successfully installed, open a terminal window (windows key + R,  type `cmd`, press enter on windows; click the Launchpad icon in the Dock, type Terminal in the search field, then click Terminal on Mac), and type `git --version`. If everything went well, you should see a 'git version x.xx.x' message on the terminal. 
+1. That's it. To confirm Git has been successfully installed, open a terminal window (windows key + R,  type `cmd`, press enter on windows; click the Launchpad icon in the Dock, type Terminal in the search field, then click Terminal on Mac), and type `git --version`. If everything went well, you should see a 'git version x.xx.x' message on the terminal.
+
+![windows commmand prompt showing git version](./img/01_cmd_prompt.PNG)
