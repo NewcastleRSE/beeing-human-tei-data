@@ -26,4 +26,4 @@ In the example above, you can see that this branch will add `@target` to `<ref>`
 
 6. Ensure the 'Checkout branch' box is ticked and click 'Create'.
 
-S7. In the 'Git Branch Manager', you should now see a new branch under local. Don't worry about it not showing up in the Remote just yet, it should be added once you [push](/documentation/guides/10_GitHub_Concepts/10_github_concepts.md#push) your first [commit](/documentation/guides/10_GitHub_Concepts/10_github_concepts.md#commit) to this branch.
+7. In the 'Git Branch Manager', you should now see a new branch under local. Don't worry about it not showing up in the Remote just yet, it should be added once you [push](/documentation/guides/10_GitHub_Concepts/10_github_concepts.md#push) your first [commit](/documentation/guides/10_GitHub_Concepts/10_github_concepts.md#commit) to this branch.
