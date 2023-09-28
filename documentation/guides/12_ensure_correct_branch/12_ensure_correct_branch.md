@@ -5,5 +5,6 @@ Before making any changes to the TEI document, you need to ensure you are workin
 
 ## Instructions
 1. Make sure you can see the Git Panel (`Tools>Git Client`)
-1. If the name in the 'Branch' field is not what you expect, simply click the arrow and select the correct branch name. You can now continue to make changes to that branch.
+2. If the name in the 'Branch' field is not what you expect, simply click the arrow and select the correct branch name. You can now continue to make changes to that branch.
+
 ![Select new branch](./img/01_Ensure_correct_branch.png)

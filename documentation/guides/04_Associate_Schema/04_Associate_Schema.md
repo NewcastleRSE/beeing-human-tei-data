@@ -32,16 +32,18 @@ you need to erase the middle two lines (starting with `?xml-model`) so that it l
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
 ```
 
-1. In Oxygen, click `Document > Schema > Associate Schema...`
+2. In Oxygen, click `Document > Schema > Associate Schema...`
+
 ![Associate schema in the menu](./img/02_Menu_Schema.png)
 
-1. In the dialogue box that shows up, select the correct schema file.
+3. In the dialogue box that shows up, select the correct schema file.
     1. Click the little folder icon to the right of the URL field
     1. The schema file will be inside the project folder, inside a folder called `schema`, and it will be called `tei_beeing_human.rng`
     1. Make sure the box that says 'Use path relative to file location' is ticked
     1. Make sure the Schema Type is 'Relax NG XML Syntax'
     1. Tick the box that says 'Add additional association for embedded Schematron rules'
     1. Click Ok
+
 ![Associate schema dialogue](./img/03_associate_schema_dialogue.png)
 
-1. Follow ths instructions [above](./04_Associate_Schema.md#check-if-the-schema-is-correctly-associated) to make sure everything went smoothly.
+4. Follow ths instructions [above](./04_Associate_Schema.md#check-if-the-schema-is-correctly-associated) to make sure everything went smoothly.
