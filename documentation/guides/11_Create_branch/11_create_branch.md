@@ -23,5 +23,7 @@ You can do this directly on Oxygen.
 ![create new branch dialogue](./img/03_branch_dialogue.png)
 
 In the example above, you can see that this branch will add `@target` to `<ref>` elements just from its name.
+
 6. Ensure the 'Checkout branch' box is ticked and click 'Create'.
-7. In the 'Git Branch Manager', you should now see a new branch under local. Don't worry about it not showing up in the Remote just yet, it should be added once you [push](/documentation/guides/10_GitHub_Concepts/10_github_concepts.md#push) your first [commit](/documentation/guides/10_GitHub_Concepts/10_github_concepts.md#commit) to this branch.
+
+S7. In the 'Git Branch Manager', you should now see a new branch under local. Don't worry about it not showing up in the Remote just yet, it should be added once you [push](/documentation/guides/10_GitHub_Concepts/10_github_concepts.md#push) your first [commit](/documentation/guides/10_GitHub_Concepts/10_github_concepts.md#commit) to this branch.
