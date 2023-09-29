@@ -60,7 +60,7 @@ you will get no results: there are no `note` elements at the root of the file. T
 //note[@type="authorial"]
 ```
 
-which will return all notes anywhere on the document. You can, ofcourse, be more specific than this. Let's say you want all authorial gloss notes in chapter 1. You'd use
+which will return all notes anywhere on the document. You can, of course, be more specific than this. Let's say you want all authorial gloss notes in chapter 1. You'd use
 
 ```
 //div[@n=1]//note[@type="authorial" and @subtype="gloss"]
