@@ -29,6 +29,7 @@ There's also a more [detailed markdown guide available here](https://docs.github
   - Make sure they all link correctly
 
 and you can tick the boxes as you address the issue, to keep track of progress.
+
 10. You can ignore the 'Which user story does this task relate to?' section.
 11. Delete any sections you have not used
 12. Finally, you can assign someone to work on the issue, on the right-hand column, under assignees. You can assign yourself, or other members of the team.
