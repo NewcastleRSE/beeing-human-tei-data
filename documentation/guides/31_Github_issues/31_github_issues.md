@@ -1,7 +1,7 @@
 # How to: use GitHub issues to track fixes and changes
 
 ## Introduction
-GitHub [issues](/documentation/guides/10_GitHub_Concepts/10_github_concepts.md#issues) are the best way to keep track of a project's development, needs, and bugs. You can think of Github issues as a very detailed to-do list for the project, that also allows you to link an issue to a specific [branch](/documentation/guides/10_GitHub_Concepts/10_github_concepts.md#branches), attribute responsibility, engage in discussion about the solution, etc, etc. You don't *have* to use Issues, but it is very much encouraged and best practice. Consistent use of issues also gives you a human-readable history of the project's developement.
+GitHub [issues](/documentation/guides/10_GitHub_Concepts/10_github_concepts.md#issues) are the best way to keep track of a project's development, needs, and bugs. You can think of Github issues as a very detailed to-do list for the project, that also allow you to link an issue to a specific [branch](/documentation/guides/10_GitHub_Concepts/10_github_concepts.md#branches), attribute responsibility, engage in discussion about the solution, etc, etc. You don't *have* to use Issues, but it is very much encouraged and best practice. Consistent use of issues also gives you a human-readable history of the project's developement.
 
 ## Create a new issue
 To create a new issue, simply go to the project page [https://github.com/NewcastleRSE/beeing-human-tei-data](https://github.com/NewcastleRSE/beeing-human-tei-data) and:
@@ -19,11 +19,15 @@ To create a new issue, simply go to the project page [https://github.com/Newcast
   - \* and \_ for text in *italic*
   - \- for bullet points
   - \[\] for tick boxes (\[x\] if they are ticked)
+
+There's also a more [detailed markdown guide available here](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+
 7. Give the issue an intelligeble title (something like 'Add targets to cross-reference <ref>')
 8. Fill in as much detail as possible, but at the very least ensure you have something in the 'Summary' section: this should be detailed and clear. You can edit later to add more information if needs be, or leave a comment to ask for clarification, initiate a discussion, etc.
 9. If the task can be broken up into smaller tasks, do that in the 'What needs to be done' section -- one bullet point and checkbox for each task. In this case, it could be something like:
   - Add the xml:id of the target for all <ref>
   - Make sure they all link correctly
+
 and you can tick the boxes as you address the issue, to keep track of progress.
 10. You can ignore the 'Which user story does this task relate to?' section.
 11. Delete any sections you have not used
