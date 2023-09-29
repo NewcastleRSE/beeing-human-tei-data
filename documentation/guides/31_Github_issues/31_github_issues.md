@@ -25,7 +25,7 @@ There's also a more [detailed markdown guide available here](https://docs.github
 7. Give the issue an intelligeble title (something like 'Add targets to cross-reference <ref>')
 8. Fill in as much detail as possible, but at the very least ensure you have something in the 'Summary' section: this should be detailed and clear. You can edit later to add more information if needs be, or leave a comment to ask for clarification, initiate a discussion, etc.
 9. If the task can be broken up into smaller tasks, do that in the 'What needs to be done' section -- one bullet point and checkbox for each task. In this case, it could be something like:
-  - Add the xml:id of the target for all <ref>
+  - Add the xml:id of the target for all \<ref\>
   - Make sure they all link correctly
 
 and you can tick the boxes as you address the issue, to keep track of progress.
