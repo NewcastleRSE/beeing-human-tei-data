@@ -1,7 +1,7 @@
 # How to: Navigate through the document using XPath
 
 ## Introduction
-XPath is the query language to navigate through *any* XML document (not just TEI) -- it allows you to find *exactly* what you are looking for. More powerfully, it also allows you to find the *type* of things you are looking for, creating a list that you can work through. So, for example, using a normal search function to find all notes would work, using XPath you can also specify that you only need the notes in chapter 4, or only the notes of a specific subtype, or only the notes that do not contain a specific attribute, etc.
+XPath is the query language to navigate through *any* XML document (not just TEI) -- it allows you to find *exactly* what you are looking for. More powerfully, it also allows you to find the *type* of things you are looking for, creating a list that you can work through. So, for example, while using a normal search function to find all notes would work, using XPath you can also specify that you only need the notes in chapter 4, or only the notes of a specific subtype, or only the notes that do not contain a specific attribute, etc.
 
 ## How to use XPath in Oxygen
 Oxygen makes searching with XPath very easy: there is a text field on the top left of the screen with a label saying `XPath 2.0`. Simply put your expression on that input box and press enter to search using XPath. The search results will appear at the bottom of the screen. You can click on each result to be taken to it's place in the TEI document.
