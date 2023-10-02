@@ -61,6 +61,7 @@
         </fileDesc>
         <revisionDesc>
             <listChange>
+                <change who="OFS" when="2023-10-02">Added target to two references</change>
                 <change who="TSG" when="2023-09-27">Added the target to one reference as an example for the guide.</change>
                 <change who="TSG" when="2023-09-22">Corrected several small encoding mistakes while
                     working through the ODD documentation</change>
