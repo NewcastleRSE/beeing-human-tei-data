@@ -149,1173 +149,1139 @@
                     <signed>CHAR: BVTLER.</signed>
             </div>
             <pb n="a4v"/>
-            <fw type="ornament"/>
-        </front>
-        <body>
-            
-            <head>
-                <hi>Ad Authorem.</hi>
-            </head>
-            </p>
-            <p>
-            <hi rend="drop-capital">Q</hi>
-            <hi>Ui fuerint apium fructus, apiumque, labores  </p>
-            <p>Sæduladum plena grammate penna docet;  </p>
-            <p>Pene fatigatæ nemo est qui,</hi> Carole, <hi>penna  </p>
-            <p>Et libri fructus non notet inde tui</hi>
-            </p>
-            <p></p>
-            <p>
-            <hi>Mellea Nestoreo defluxit ab ore loquela:  </p>
-            <p>Et</hi>, Butlere, <hi>tua mellea penna manu.  </p>
-            <p>Labris viva semel, iam mortua, Nestoris hæc vox  </p>
-            <p>Scilicet in libris est tumulata tuis.</hi>
-            </p>
-            <p>
-            <hi>Incipis ex apubus, sed &amp; in mel de finis ipsum  </p>
-            <p>Suaviter inceptum suavius exit opus.</hi>
-            </p>
-            <p>Warnervs Sovth, Iurista Novi Collegij Socius.</p>
-            <p>
-            <figure>[Ornament]<figure/>
-            </p>
-            <p>
-                <pb/>
-            </p>
-            <p>
-                <fw type="header">
-                    <hi>To the Author:</hi>
-                </fw>
-            </p>
-            <p>
-                <head>T</head>Hough learned Authors old and new,  </p>
-            <p>Have handled skilfully  </p>
-            <p>The argument thou hast in hand,  </p>
-            <p>Yet none so fruitfully,  </p>
-            <p>For they relate uncertaine things  </p>
-            <p>Which bare report had blowne:  </p>
-            <p>But thou set'st downe the certaine truth</p>
-            <p>By thine experience knowne.  </p>
-            <p></p>
-            <p>
-                <head>
-                    <hi>To the Reader.</hi>
-                </head>
-            </p>
-            <p>The chiefest cause, to read good bookes,  </p>
-            <p>That moves each studious minde</p>
-            <p>Is hope, some pleasure sweet therein,  </p>
-            <p>Or profit good to finde.  </p>
-            <p>Now what delight can greater be  </p>
-            <p>Then secrets for to knowe,  </p>
-            <p>Of Sacred Bees, the Muses Birds,  </p>
-            <p>All which this booke doth shew.  </p>
-            <p>And if commodity thou craue,  </p>
-            <p>Learne here no little gaine  </p>
-            <p>Of their most sweet and sov'raigne fruits,  </p>
-            <p>With no great cost or paine.  </p>
-            <p>If pleasure then, or profit may  </p>
-            <p>To read induce they minde;  </p>
-            <p>In this smale breathe choice of both,  </p>
-            <p>Good Reader, thou shalt finde. </p>
-            <p>
-                <hi>Omne tulit punctum, qui miscuit utile dules.</p>
-                <p>A. Crosley.</hi>
-            </p>
-            <p>
-                <pb/>
-            </p>
-            <p>
+            <div type="dedication">
+                <fw type="ornament"/>
+                <div type="poem">
+                    <head>
+                        <hi>Ad Authorem.</hi>
+                    </head>
+                    
+                        <lg>
+                            <l><hi rend="drop-capital">Q</hi>Ui fuerint apium fructus, apiumque, labores</l>
+                    <l>Sæduladum plena grammate penna docet;</l>  
+                    <l>Pene fatigatæ nemo est qui, <hi rend="opposite">Carole</hi>, penna</l>
+                    <l>Et libri fructus non notet inde tui</l></lg>
+                    
+                        <lg><l>Mellea Nestoreo defluxit ab ore loquela:</l><l>
+                    Et, <hi rend="opposite">Butlere</hi>, tua mellea penna manu.</l><l>
+                    Labris viva semel, iam mortua, Nestoris hæc vox</l><l>
+                    Scilicet in libris est tumulata tuis.</l></lg>
+                    
+                        <lg><l>Incipis ex apubus, sed &amp; in mel de finis ipsum</l><l>
+                    Suaviter inceptum suavius exit opus.</l></lg>
+                    <signed><persName>Warnervs Sovth</persName>, Iurista Novi Collegij Socius.</signed>
+                </div>
+                <fw type="ornament"></fw>
+                    <pb n="b1r"/>
+                <div type="poem">
+                    <head>
+                        <hi>To the Author:</hi>
+                    </head>
+                    <lg><l><hi rend="drop-capital">T</hi>Hough learned Authors old and new,</l><l>  
+                    Have handled skilfully</l><l>
+                    The argument thou hast in hand,</l><l>  
+                    Yet none so fruitfully,</l><l>
+                    For they relate uncertaine things</l><l>  
+                    Which bare report had blowne:</l><l>
+                    But thou set'st downe the certaine truth</l><l>
+                    By thine experience knowne.</l></lg>
+                </div>
+                <div type="poem">
+                    <head>
+                        <hi>To the Reader.</hi>
+                    </head>
+                    <lg><l>The chiefest cause, to read good bookes,</l><l>
+                    That moves each studious minde</l><l>
+                    Is hope, some pleasure sweet therein,</l><l>  
+                    Or profit good to finde.</l><l>
+                    Now what delight can greater be</l><l>  
+                    Then secrets for to knowe,</l><l>
+                    Of Sacred Bees, the Muses Birds,</l><l> 
+                    All which this booke doth shew.</l><l>
+                    And if commodity thou craue,</l><l>
+                    Learne here no little gaine</l><l>
+                    Of their most sweet and sov'raigne fruits,</l><l>  
+                    With no great cost or paine.</l><l>
+                    If pleasure then, or profit may</l><l>
+                    To read induce they minde;</l><l>
+                    In this smale breathe choice of both,</l><l>  
+                    Good Reader, thou shalt finde.</l></lg> 
+                    
+                    <lg><l>Omne tulit punctum, qui miscuit utile dules.</l></lg>
+                    <signed>A. Crosley.</signed>
+                </div>
+            </div>
+            <pb n="b1v"/>
+            <div type="contents">
                 <head>
                     <hi>The contents of this Booke</hi>
                 </head>
-            </p>
-            <p>
-                <head>M</head>Y Booke of Bees I divide into 10 Chapters.  </p>
-            <p>1 The first, of the nature and properties of Bees, &amp; of their Queene </p>
-            <p>2 The second, of the placing of them, &amp; of their seats.  </p>
-            <p>3 The third, of their hives, &amp; the dressing of them. </p>
-            <p>4 The fourth, of the breeding of Bees, &amp; of the drone.  </p>
-            <p>5 The fift, of their swarming, and the hiving of them.  </p>
-            <p>6 The sixt, of their worke.  </p>
-            <p>7 The seauenth, of their enemies.  </p>
-            <p>8 The eighth, of removing them. </p>
-            <p>9 The ninth, of feeding them.  </p>
-            <p>10 The tenth of the fruit and profit of the them.</p>
-            <p>
-                <head>The Contents of the first Chapter.</head>
-            </p>
-            <p>1 <hi>Bees yeeld great profit with smale cost.</hi>
-            </p>
-            <p>2 <hi>Every Country fit for Bees.</hi>
-            </p>
-            <p>3 <hi>Bees abhorre idlenesse.</hi>
-            </p>
-            <p>4 <hi>Bees have a common wealth.</hi>
-            </p>
-            <p>5 <hi>Their working, watching, fighting, dwelling, diet, wealth, and young are all in common.</hi>
-            </p>
-            <p>6 <hi>Bees alwaies loial to their Soveraigne.</hi>
-            </p>
-            <p>7 <hi>Bees endure no government, but a Monarchie.</hi>
-            </p>
-            <p>8 <hi>The description of the Queene-Bee.</hi>
-            </p>
-            <p>9 <hi>Bees have also inferior governours or captaines</hi>
-            </p>
-            <p>10 <hi>Which are knowne by peculiar markes.</hi>
-            </p>
-            <p>11 <hi>Two sorts of Bees.</hi>
-            </p>
-            <p>12 <hi>The parts of a Bee.</hi>
-            </p>
-            <p>13 <hi>Hir hornes.</hi>
-            </p>
-            <p>14 <hi>Hir fangs.</hi>
-            </p>
-            <p>15 <hi>Hir tongue, with the parts of it.</hi>
-            </p>
-            <p>16 <hi>Hir fowre winges.</hi>
-            </p>
-            <p>17 <hi>Hir feete.</hi>
-            </p>
-            <p>
-                <fw type="catch"> 18 <hi>Her</hi>
-                </fw>
-            </p>
-            <p>
-                <pb/>
-            </p>
-            <p>18 <hi>Hir two weapons.</hi>
-            </p>
-            <p>19 <hi>Her fanges, commonly used against insects.</hi>
-            </p>
-            <p>20 <hi>Her speare sometime.</hi>
-            </p>
-            <p>21 <hi>Stinging present death to Bees.</hi>
-            </p>
-            <p>22 <hi>The speares commonly used against other creatures.</hi>
-            </p>
-            <p>23 <hi>Haire and feathers cause the Bees to sting.</hi>
-            </p>
-            <p>24 <hi>Woole and wollen doe not offend them</hi>
-            </p>
-            <p>25 <hi>Fustian, leather, and velvet, naught among Bees.</hi>
-            </p>
-            <p>26 <hi>The Bees in their anger aime at the head.</hi>
-            </p>
-            <p>27 <hi>When any is stung the company must be gon.</hi>
-            </p>
-            <p>28 <hi>The Bees have the worst when they sting.</hi>
-            </p>
-            <p>29 <hi>They loose their sting and entrals, &amp; consequently their lives</hi>
-            </p>
-            <p>30 <hi>The speare of itself pearceth deeper when the Bee is gon.</hi>
-            </p>
-            <p>31 <hi>How to prevent the paine and swelling.</hi>
-            </p>
-            <p>32 <hi>Nothing but time can cure their stinging.</hi>
-            </p>
-            <p>33 <hi>What things the Bee-master must avoid.</hi>
-            </p>
-            <p>34 <hi>The six properties of a Bee-master.</hi>
-            </p>
-            <p>35 <hi>Safer to walke then to stand among Bees.</hi>
-            </p>
-            <p>36 <hi>The fittest time to stirre about Bees is in the morning.</hi>
-            </p>
-            <p>37 <hi>In the heate of the day they are most angry.</hi>
-            </p>
-            <p>38 <hi>How to be armed when the Bees are angry.</hi>
-            </p>
-            <p>39 <hi>Bees dangerous to cattaile.</hi>
-            </p>
-            <p>40 <hi>The Bees senses.</hi>
-            </p>
-            <p>41 <hi>Their sight dim.</hi>
-            </p>
-            <p>42 <hi>Their smelling very quicke.</hi>
-            </p>
-            <p>43 <hi>Hearing and seeing.</hi>
-            </p>
-            <p>44 <hi>Tasting.</hi>
-            </p>
-            <p>45 <hi>Their virtues.</hi>
-            </p>
-            <p>46 <hi>Fortitude.</hi>
-            </p>
-            <p>47 <hi>Prudence and knowledge.</hi>
-            </p>
-            <p>48 <hi>A strange tale concerning the knowledge, and devotion of Bees.</hi>
-            </p>
-            <p>49 <hi>Temperance.</hi>
-            </p>
-            <p>50 <hi>Justice.</hi>
-            </p>
-            <p>51 <hi>Chastity.</hi>
-            </p>
-            <p>52 <hi>Cleanlinesse.</hi>
-            </p>
-            <p>53 <hi>The age of Bees.</hi>
-            </p>
-            <p>
-                <fw type="catch"> 54 <hi>The</hi>
-                </fw>
-            </p>
-            <p>
-                <pb/>
-            </p>
-            <p>54 <hi>The difference betweene yong Bees and olde.</hi>
-            </p>
-            <p>55 <hi>The offices of the yong Bees.</hi>
-            </p>
-            <p>56 <hi>And of the old.</hi>
-            </p>
-            <p>57 <hi>Bees wont eft-soones to play.</hi>
-            </p>
-            <p>58 <hi>They are soone killed with cold.</hi>
-            </p>
-            <p>59 <hi>How to revive them.</hi>
-            </p>
-            <p>
-                <head>The Contents of the second Chapter.</head>
-            </p>
-            <p>1 <hi>Of five things requisit in a Bee-garden, the first is that it bee nigh at hand.</hi>
-            </p>
-            <p>2.<hi>That it be fastly fenced from cattaile, and windes.</hi>
-            </p>
-            <p>3 <hi>The north and east fences should be high.</hi>
-            </p>
-            <p>4 <hi>The south and west fences must be also good, but not so high, as to hide the sun from the hives.</hi>
-            </p>
-            <p>5 <hi>In rough winds the Bees need a skreene.</hi>
-            </p>
-            <p>6. <hi>That it be sweet.</hi>
-            </p>
-            <p>7. <hi>Neither very cold in winter, nor over hot in sommer.</hi>
-            </p>
-            <p>8 <hi>A grasse ground is best, but keept notte and dry.</hi>
-            </p>
-            <p>9 <hi>Beset with trees and bushes.</hi>
-            </p>
-            <p>10 <hi>Two sorts of seats.</hi>
-            </p>
-            <p>11 <hi>The benches not so good as single stooles</hi>
-            </p>
-            <p>12 <hi>Swarmes may be set on benches.</hi>
-            </p>
-            <p>13 <hi>Wooden stooles better then they of stone.</hi>
-            </p>
-            <p>14 <hi>The size of stooles.</hi>
-            </p>
-            <p>15 <hi>Which way the stooles should be set.</hi>
-            </p>
-            <p>16 <hi>How neere to the fence.</hi>
-            </p>
-            <p>17 <hi>How neere to each other.</hi>
-            </p>
-            <p>18 <hi>How neere to the ground.</hi>
-            </p>
-            <p>19 <hi>How to be footed.</hi>
-            </p>
-            <p>
-                <head>The Contents of the third Chapter.</head>
-            </p>
-            <p>1 <hi>Two sorts of hives.</hi>
-            </p>
-            <p>2 <hi>Strawne hives,with their inconveniences and remedies.</hi>
-            </p>
-            <p>3 <hi>Wicker-hives, with their inconveniences and remedies.</hi>
-            </p>
-            <p>4 <hi>Strawne-hives best.</hi>
-            </p>
-            <p>
-                <fw type="catch"> 5 <hi>The</hi>
-                </fw>
-            </p>
-            <p>
-                <pb/>
-            </p>
-            <p>5 <hi>The size of hives</hi>
-            </p>
-            <p>6 <hi>When hives are to be made.</hi>
-            </p>
-            <p>7 <hi>How hives are to be dressed, before they receive the swarmes.</hi>
-            </p>
-            <p>8 <hi>The pruning of hives.</hi>
-            </p>
-            <p>9 <hi>The spraying or spleeting of them.</hi>
-            </p>
-            <p>10 <hi>The seasoning of them.</hi>
-            </p>
-            <p>11 <hi>The seasoning of an old hive.</hi>
-            </p>
-            <p>12 <hi>How hives are to be ordered, when the Bees are in them.</hi>
-            </p>
-            <p>13 <hi>The hives always well hacled.</hi>
-            </p>
-            <p>14 <hi>How to make a hacle.</hi>
-            </p>
-            <p>15 <hi>the working of the cap.</hi>
-            </p>
-            <p>16 <hi>The bignesse of the hacle.</hi>
-            </p>
-            <p>17 <hi>The length of it.</hi>
-            </p>
-            <p>18 <hi>The girale</hi>
-            </p>
-            <p>19 <hi>The hives always close cloomed.</hi>
-            </p>
-            <p>20 <hi>Then seldome to be moved.</hi>
-            </p>
-            <p>21 <hi>How soone lifted up is to be set downe againe.</hi>
-            </p>
-            <p>22 <hi>The bignesse of the hive-dore.</hi>
-            </p>
-            <p>23 <hi>The making of the barre.</hi>
-            </p>
-            <p>24 <hi>The use of it.</hi>
-            </p>
-            <p>25 <hi>the making of the porch.</hi>
-            </p>
-            <p>26 <hi>The use if it</hi>
-            </p>
-            <p>27 <hi>The makking of the porch-dore</hi>
-            </p>
-            <p>28 <hi>The use of it.</hi>
-            </p>
-            <p>29 <hi>The greese.</hi>
-            </p>
-            <p>30 <hi>How to order the Bee-hives in every month, and first in GEMINI.</hi>
-            </p>
-            <p>31 CANCER.</p>
-            <p>32 <hi>How to make the Bees swarme.</hi>
-            </p>
-            <p>33 <hi>How to keepe them from swarming.</hi>
-            </p>
-            <p>34 <hi>How to keepe full stalles from killing their yong.</hi>
-            </p>
-            <p>35 LEO.</p>
-            <p>36 <hi>Fasten the barre to the dore.</hi>
-            </p>
-            <p>37 VIRGO.</p>
-            <p>38 <hi>To keepe the hives from robbing.</hi>
-            </p>
-            <p>39 <hi>Set up the porch to the weaker.</hi>
-            </p>
-            <p>40 <hi>And keepe them shut til they offer to goe abroad.</hi>
-            </p>
-            <p>41 <hi>How hives not ful are to be used against cold &amp; robbers.</hi>
-            </p>
-            <p>
-                <fw type="catch"> 42 <hi>The</hi>
-                </fw>
-            </p>
-            <p>
-                <pb/>
-            </p>
-            <p>42 <hi>The reared stalles now to be set downe againe.</hi>
-            </p>
-            <p>43 <hi>In Virgo try whether the Bees will live.</hi>
-            </p>
-            <p>44 LIBRA.</p>
-            <p>46 <hi>Now set up the porches to the best, &amp; keepe them all shut til the Bees offer to go abroad.</hi>
-            </p>
-            <p>47. <hi>Now take the combes.</hi>
-            </p>
-            <p>48 SCORPIO. </p>
-            <p>49 <hi>Continue the shutting &amp; opening of the porch this month also.</hi>
-            </p>
-            <p>50 <hi>How to dresse the hives for winter.</hi>
-            </p>
-            <p>51 SAGIT. CAPRIC. AQUAR. <hi>are</hi> 3. <hi>dead months.</hi>
-            </p>
-            <p>52 <hi>How the Bees spend their time in them.</hi>
-            </p>
-            <p>53. <hi>The first sharp weather in Capr. shut the Bees in.</hi>
-            </p>
-            <p>54 <hi>And in pleasant weather let them loose, if it may be, once in a fortnight or </hi>
-                <hi>3. weekes.</hi>
-            </p>
-            <p>55. PISCES.</p>
-            <p>56 <hi>The I. faire day in Pisces set your Bees at liberty.</hi>
-            </p>
-            <p>57 <hi>Now cleanse the stooles.</hi>
-            </p>
-            <p>58 <hi>And drive light stalls</hi>
-            </p>
-            <p>59 ARIES: <hi>The second chiefe robbin-g time</hi>
-            </p>
-            <p>60 <hi>In</hi> TAUR: <hi>remove the porches.</hi>
-            </p>
-            <p>61 <hi>In</hi> GEMINI <hi>the barres.</hi>
-            </p>
-            <p>
-                <head>The contents of the fourth Chapter.</head>
-            </p>
-            <p>1 <hi>The drone no labourer.</hi>
-            </p>
-            <p>2 <hi>The drone is the male-Bee.</hi>
-            </p>
-            <p>3 <hi>Divers reasons proving the drone to be the male. The first reason is, that they are suffered in breeding time only.</hi>
-            </p>
-            <p>4 <hi>No drone in winter.</hi>
-            </p>
-            <p>5 <hi>The second reason is that, the drones being taken away in breeding time, the Bees breed no more.</hi>
-            </p>
-            <p>6 <hi>The second reason is that they are bred by the Bees.</hi>
-            </p>
-            <p>7 <hi>The third reason is that Wasps and Dorres have drones which are their males.</hi>
-            </p>
-            <p>8 <hi>The breeding of Wasps by drones.</hi>
-            </p>
-            <p>9 <hi>The breeding of Dorres by drones.</hi>
-            </p>
-            <p>
-                <fw type="catch"> 10 <hi>The</hi>
-                </fw>
-            </p>
-            <p>
-                <pb/>
-            </p>
-            <p>10 <hi>the fift reason is the apparent signes of their sex.</hi>
-            </p>
-            <p>11 <hi>When the Bees begin to breed.</hi>
-            </p>
-            <p>12 <hi>The manner of their breeding.</hi>
-            </p>
-            <p>13 <hi>The Bee-seed is first turned into a worme.</hi>
-            </p>
-            <p>14 <hi>The worme being dead groweth to the shape of a Bee, &amp; then liveth againe.</hi>
-            </p>
-            <p>15 <hi>The breeding of the lady-bees.</hi>
-            </p>
-            <p>16 <hi>When the drones are bred.</hi>
-            </p>
-            <p>17 <hi>When they come abroad.</hi>
-            </p>
-            <p>18 <hi>Two uses of the drones.</hi>
-            </p>
-            <p>19 <hi>Where they lie.</hi>
-            </p>
-            <p>20 <hi>The male-bees are subject to the females.</hi>
-            </p>
-            <p>21 <hi>When the Bees leave breeding, &amp; beat away their drones.</hi>
-            </p>
-            <p>22 <hi>The Bees compared to the Amazons.</hi>
-            </p>
-            <p>23 <hi>They rid not their drones all at once.</hi>
-            </p>
-            <p>24 <hi>When forward stalles begin.</hi>
-            </p>
-            <p>25 <hi>When the backward.</hi>
-            </p>
-            <p>26 <hi>When full stockes that have not swarmed.</hi>
-            </p>
-            <p>27 <hi>When those that are overswarmed.</hi>
-            </p>
-            <p>28 <hi>The drones first banished are welcome to other hives.</hi>
-            </p>
-            <p>29 <hi>In the end they are all killed.</hi>
-            </p>
-            <p>30 <hi>Some die in the hive.</hi>
-            </p>
-            <p>31 <hi>But most abroad.</hi>
-            </p>
-            <p>32 <hi>Sometime the Bees cast out even the white Cephens.</hi>
-            </p>
-            <p>33 <hi>Timely ridding of drones a good signe.</hi>
-            </p>
-            <p>34 <hi>Sometime they rid their drones in the spring.</hi>
-            </p>
-            <p>35 <hi>And afterward beed new againe.</hi>
-            </p>
-            <p>
-                <head>The Contents of the fift Chapter.</head>
-            </p>
-            <p>1 <hi>The parts of a swarme.</hi>
-            </p>
-            <p>2 <hi>When you may see the queene-bee.</hi>
-            </p>
-            <p>3 <hi>The swarme no yonger then the stocke.</hi>
-            </p>
-            <p>4 <hi>Many drones in a swarme a good signe.</hi>
-            </p>
-            <p>5 <hi>A kinde spring for swarmes.</hi>
-            </p>
-            <p>6 <hi>Swarming-weather.</hi>
-            </p>
-            <p>7 <hi>The swarming-howres.</hi>
-            </p>
-            <p>
-                <fw type="catch">
-                    <hi>The</hi>
-                </fw>
-            </p>
-            <p>
-                <pb/>
-            </p>
-            <p>8 <hi>The two swarming months.</hi>
-            </p>
-            <p>9 <hi>Rathe swarmes.</hi>
-            </p>
-            <p>10 <hi>Late swarmes.</hi>
-            </p>
-            <p>11 <hi>Blackbery-swarmes are seldome to be kept.</hi>
-            </p>
-            <p>12 <hi>A prime-swarme and an after swarme naturall.</hi>
-            </p>
-            <p>13 <hi>A stalle may cast 4 times.</hi>
-            </p>
-            <p>14 <hi>Divers causes of breaking the prime-swarme.</hi>
-            </p>
-            <p>15 <hi>One prime-swarme worth three after-swarmes.</hi>
-            </p>
-            <p>16 <hi>The vulgar Bees appoint the rising of the fore-swarmes, and that upon 4. grounds.</hi>
-            </p>
-            <p>17 <hi>Five signes of the first swarming</hi>
-            </p>
-            <p>18 <hi>The signe of present swarming.</hi>
-            </p>
-            <p>19 <hi>To ly forth continually is a signe they will not swarme.</hi>
-            </p>
-            <p>20 <hi>How to remedy their lying forth.</hi>
-            </p>
-            <p>21 <hi>The signes of after swarmes.</hi>
-            </p>
-            <p>22 <hi>The rising of the after-swarmes is appointed by the rulers.</hi>
-            </p>
-            <p>23 <hi>When they begin to call or sing.</hi>
-            </p>
-            <p>24 <hi>The Bees musicke.</hi>
-            </p>
-            <p>25 <hi>When you may best heare it.</hi>
-            </p>
-            <p>26 <hi>Before the Bees swarme, the voices come downe to the stoole.</hi>
-            </p>
-            <p>27 <hi>The manner of their swarming.</hi>
-            </p>
-            <p>28 <hi>The prime-swarme being broken, the next may call &amp; swarm within the eighth day.</hi>
-            </p>
-            <p>29 <hi>All the swarmes of one hive come within a fortnight.</hi>
-            </p>
-            <p>30 <hi>What to do when a swarme is up.</hi>
-            </p>
-            <p>31 <hi>Some swarmes provide them houses afore hand.</hi>
-            </p>
-            <p>32 <hi>And then they flie away directly to the place.</hi>
-            </p>
-            <p>33 <hi>Vacuae alvearia stent semper parata in apiario.</hi>
-            </p>
-            <p>34 <hi>The hiving of Bees.</hi>
-            </p>
-            <p>35 <hi>When they are to be hived.</hi>
-            </p>
-            <p>36 <hi>The token of their flying away after they be setled.</hi>
-            </p>
-            <p>37 <hi>How to fit the hives to the swarmes.</hi>
-            </p>
-            <p>38 <hi>How to make your stalls great.</hi>
-            </p>
-            <p>39 <hi>A Mantle a Rest and a Brush alwaies in a readines.</hi>
-            </p>
-            <p>40 <hi>What the hiver must doe.</hi>
-            </p>
-            <p>41 <hi>The manner of hiving.</hi>
-            </p>
-            <p>42 <hi>Howe to hive a swarme that lighteth upon a low bough.</hi>
-            </p>
-            <p>
-                <fw type="catch"> 43 <hi>How</hi>
-                </fw>
-            </p>
-            <p>
-                <pb/>
-            </p>
-            <p>43 <hi>How if it light upon a high bough.</hi>
-            </p>
-            <p>44 <hi>How if it light upon a bough that cannot be cut.</hi>
-            </p>
-            <p>45 <hi>How if it light upon the body of a tree.</hi>
-            </p>
-            <p>46 <hi>How if it light upon the top of any thing.</hi>
-            </p>
-            <p>47 <hi>How if it light in the middle of a dead hedge.</hi>
-            </p>
-            <p>48 <hi>How if it light on some hollow side of a stub, or tree.</hi>
-            </p>
-            <p>49 <hi>How if it fly into a hollow tree.</hi>
-            </p>
-            <p>50 <hi>The swarme is alwaies to bee kepte together, lest the Bees kill one another.</hi>
-            </p>
-            <p>51 <hi>The swarme to be set neere the lighting place</hi>
-            </p>
-            <p>52 <hi>What to do if a swarme part.</hi>
-            </p>
-            <p>53 <hi>When and how to put two swarmes togither.</hi>
-            </p>
-            <p>54 <hi>How to staie a swarme that is going home againe.</hi>
-            </p>
-            <p>55 <hi>How to keep: them from other hives, when they are going home.</hi>
-            </p>
-            <p>56 <hi>What to doe when the swarme is new-hived.</hi>
-            </p>
-            <p>57 <hi>How to remove it in the evening.</hi>
-            </p>
-            <p>58 <hi>How to set it on his seat.</hi>
-            </p>
-            <p>59 <hi>How to use it in the morning.</hi>
-            </p>
-            <p>60 <hi>A swarme lighting neere his seate is presently to be set thereon.</hi>
-            </p>
-            <p>61 <hi>Fowle weather the first day doth much discourage a swarme.</hi>
-            </p>
-            <p>62 <hi>A swarme may live five daies without hony.</hi>
-            </p>
-            <p>
-                <head>The Contents of the sixt Chapter</head>
-            </p>
-            <p>1 <hi>Bees most industrious creatures</hi>
-            </p>
-            <p>2 <hi>In three months they cannot worke</hi>
-            </p>
-            <p>3 <hi>All the yeere after they loose no time.</hi>
-            </p>
-            <p>4 <hi>How they gather waxe.</hi>
-            </p>
-            <p>5. <hi>How you may see the working of the combes</hi>
-            </p>
-            <p>6 <hi>How much waxe they bring at once.</hi>
-            </p>
-            <p>7 <hi>The fashion of their combs and celles.</hi>
-            </p>
-            <p>8 <hi>The drone combe.</hi>
-            </p>
-            <p>9 <hi>The queenes celles are built single in divers places.</hi>
-            </p>
-            <p>10 <hi>In fashion round.</hi>
-            </p>
-            <p>11 <hi>The common error anens these celles.</hi>
-            </p>
-            <p>
-                <fw type="catch"> 12 <hi>The</hi>
-                </fw>
-            </p>
-            <p>
-                <pb/>
-            </p>
-            <p>12 <hi>The combes have 3 colours successively.</hi>
-            </p>
-            <p>13 <hi>Wax is gathered only in 4 months.</hi>
-            </p>
-            <p>14 <hi>Hony in 9.</hi>
-            </p>
-            <p>15 <hi>The Bees gather 2 sorts of hony.</hi>
-            </p>
-            <p>16 <hi>How ambrosia or grose hony is gathered.</hi>
-            </p>
-            <p>17 <hi>Ambrosia some serveth to feed the scadons: some is wrought with nectar and laid up in store.</hi>
-            </p>
-            <p>18 <hi>Ambrosia alone is soone corrupted.</hi>
-            </p>
-            <p>19 <hi>And then becomemeth most unsavory stopping.</hi>
-            </p>
-            <p>20 <hi>Much stopping maketh the Bees forsake their hives.</hi>
-            </p>
-            <p>21 <hi>This Ambrosia is commonlie taken for wax.</hi>
-            </p>
-            <p>22 <hi>Which error is disproved by sense.</hi>
-            </p>
-            <p>23 <hi>And reason.</hi>
-            </p>
-            <p>24 <hi>And by authoritie.</hi>
-            </p>
-            <p>25 <hi>How the pure nectar is gathered.</hi>
-            </p>
-            <p>26 <hi>At the first the Bees lay up meere nectar: afterward they mix it with Ambrosia</hi>
-            </p>
-            <p>27 <hi>Nectar of two sorts. Stone-hony and live-hony</hi>
-            </p>
-            <p>28 <hi>Live-hony of two sorts. Virgin hony. Second hony.</hi>
-            </p>
-            <p>29 <hi>The ful cells they close with wax.</hi>
-            </p>
-            <p>30. <hi>After Leo they lay up no hony.</hi>
-            </p>
-            <p>31 <hi>Nectar and ambrosia made of many simples, whereof each month yeeldeth variety.</hi>
-            </p>
-            <p>32 <hi>Dandelion continueth longest.</hi>
-            </p>
-            <p>33 <hi>What Pisces yeeldeth.</hi>
-            </p>
-            <p>34 <hi>What Aries.</hi>
-            </p>
-            <p>35 <hi>Taurus.</hi>
-            </p>
-            <p>36 <hi>Gemini.</hi>
-            </p>
-            <p>37 <hi>Cancer.</hi>
-            </p>
-            <p>38 <hi>Of hony-dewes.</hi>
-            </p>
-            <p>39 <hi>The Bees worke most earnestly in a hony-dew.</hi>
-            </p>
-            <p>40 <hi>What the hony-dew is.</hi>
-            </p>
-            <p>41 <hi>When the hony-dewes are most frequent.</hi>
-            </p>
-            <p>42 <hi>The time when they fall.</hi>
-            </p>
-            <p>43. <hi>Leo.</hi>
-            </p>
-            <p>44. <hi>Virgo.</hi>
-            </p>
-            <p>45. <hi>Libra.</hi>
-            </p>
-            <p>
-                <fw type="catch"> 47 <hi>Scorpio</hi>
-                </fw>
-            </p>
-            <p>
-                <pb/>
-            </p>
-            <p>46 <hi>Scorpio.</hi>
-            </p>
-            <p>47 <hi>The Bees gather but of one kind of flowre in one voiage.</hi>
-            </p>
-            <p>48 <hi>They gather hony out of poison.</hi>
-            </p>
-            <p>49 <hi>What store of hony a stale may have.</hi>
-            </p>
-            <p>50 <hi>Bees have necessary use of water.</hi>
-            </p>
-            <p>51 <hi>Chiefly for their breed.</hi>
-            </p>
-            <p>52 <hi>The making of a watering-place.</hi>
-            </p>
-            <p>53 <hi>How to find wild Bees.</hi>
-            </p>
-            <p>54 <hi>The fashion of a watring trough.</hi>
-            </p>
-            <p>55 <hi>After a showre they water at home.</hi>
-            </p>
-            <p>
-                <head>The Contents of the seaventh Chapter</head>
-            </p>
-            <p>1. <hi>The Bees enimies are many.</hi>
-            </p>
-            <p>2. <hi>I. The mouse.</hi>
-            </p>
-            <p>3. <hi>How to knowe when a mouse is in the hive.</hi>
-            </p>
-            <p>4 <hi>Remedies against the mouse.</hi>
-            </p>
-            <p>5. 2. <hi>The wood-pecker.</hi>
-            </p>
-            <p>6. 3. <hi>The Tit mouse.</hi>
-            </p>
-            <p>7. <hi>4. The swallow.</hi>
-            </p>
-            <p>8 <hi>Remedy against the titmouse and the swallow.</hi>
-            </p>
-            <p>9. <hi>5. The hornet.</hi>
-            </p>
-            <p>10 <hi>The hornets sting is dangerous.</hi>
-            </p>
-            <p>11. <hi>6. The waspe.</hi>
-            </p>
-            <p>12 <hi>The waspe at first feedeth upon dead Bees.</hi>
-            </p>
-            <p>13 <hi>At Virgo she stealeth hony.</hi>
-            </p>
-            <p>14 <hi>How long the wasps last.</hi>
-            </p>
-            <p>15 <hi>In what yeere the wasps are most rife.</hi>
-            </p>
-            <p>16 <hi>Remedies against the waspes.</hi>
-            </p>
-            <p>17 <hi>7 The moth.</hi>
-            </p>
-            <p>18. <hi>8 The snaile.</hi>
-            </p>
-            <p>19. <hi>9 The emet.</hi>
-            </p>
-            <p>20. <hi>10 The spider.</hi>
-            </p>
-            <p>21. <hi>11 The toad.</hi>
-            </p>
-            <p>22. <hi>12 The frog.</hi>
-            </p>
-            <p>23. <hi>13 The Bee the Bees greatest enimie.</hi>
-            </p>
-            <p>24 <hi>Robbing or fighting of Bees in winter &amp; sommer but little</hi>
-            </p>
-            <p>
-                <fw type="catch"> 25 <hi>In</hi>
-                </fw>
-            </p>
-            <p>
-                <pb/>
-            </p>
-            <p>25 <hi>In the spring more earnest.</hi>
-            </p>
-            <p>26 <hi>The most spoile is made in Virgo.</hi>
-            </p>
-            <p>27 <hi>What stalles are most subject to robbing.</hi>
-            </p>
-            <p>28 <hi>The robbers are the lustiest stalles.</hi>
-            </p>
-            <p>29 <hi>How they begin the fray.</hi>
-            </p>
-            <p>30 <hi>Theeves of divers hives agree together in robbing.</hi>
-            </p>
-            <p>31 <hi>The description of the Bees battaile.</hi>
-            </p>
-            <p>32 <hi>In the battaile is heard a sound like a drum and a flute.</hi>
-            </p>
-            <p>33 <hi>The assault of the enimy.</hi>
-            </p>
-            <p>34 <hi>The defence of the beseeged.</hi>
-            </p>
-            <p>35 <hi>Neither side willing to yeeld.</hi>
-            </p>
-            <p>36 <hi>The exercise of the defendants, when the enimie retireth.</hi>
-            </p>
-            <p>37 <hi>The Wasps like vultures.</hi>
-            </p>
-            <p>38 <hi>The battaile ended, they bury their dead.</hi>
-            </p>
-            <p>39 <hi>The second assault of the enimie.</hi>
-            </p>
-            <p>40 <hi>When the true Bee yeeld, they goe with the conquerors.</hi>
-            </p>
-            <p>41 <hi>Remedies</hi>
-            </p>
-            <p>42 <hi>To prevent robbing.</hi>
-            </p>
-            <p>43 <hi>And to stay it, if you find it in time.</hi>
-            </p>
-            <p>44 <hi>When it is too late, and what is then to be done.</hi>
-            </p>
-            <p>45 <hi>In what yeeres robbing is most rife.</hi>
-            </p>
-            <p>46 <hi>Bees kill poore swarmes that wander in the spring.</hi>
-            </p>
-            <p>47 <hi>To prevent the death of poore swarmes.</hi>
-            </p>
-            <p>48 <hi>14. The weather.</hi>
-            </p>
-            <p>49 <hi>In summer heate hurteth the Bees.</hi>
-            </p>
-            <p>50 <hi>In winter the sun-shine in frost and snow.</hi>
-            </p>
-            <p>51 <hi>Also the easterne winds and great frosts.</hi>
-            </p>
-            <p>52 <hi>And the cold continued maketh them sicke.</hi>
-            </p>
-            <p>53 <hi>The raine rotteth the hives.</hi>
-            </p>
-            <p>54 <hi>The remedy.</hi>
-            </p>
-            <p>55 <hi>The greatest losse by weather is in the spring, for then infinite multitudes are beaten downe &amp; wearie, with swarmes &amp; winde.</hi>
-            </p>
-            <p>56 <hi>At the rising of a clowd they post home.</hi>
-            </p>
-            <p>57 <hi>Yet wil they goe a field in the midst of a warme shower.</hi>
-            </p>
-            <p>58 <hi>How to restore Bees to life.</hi>
-            </p>
-            <p>59 <hi>The wind causeth many to be drowned.</hi>
-            </p>
-            <p>
-                <fw type="catch"> 1 <hi>Re-</hi>
-                </fw>
-            </p>
-            <p>
-                <pb/>
-            </p>
-            <p>
-                <head>The Contents of the eighth Chapter.</head>
-            </p>
-            <p>1. <hi>Remove Bees in a faire day.</hi>
-            </p>
-            <p>2 <hi>Not in Sommer</hi>
-            </p>
-            <p>3 <hi>Nor in winter.</hi>
-            </p>
-            <p>4 <hi>The fittest time is in the autumne and spring.</hi>
-            </p>
-            <p>5 <hi>Libra the best month in all the yeere.</hi>
-            </p>
-            <p>6 <hi>The time of the day and manner of removing.</hi>
-            </p>
-            <p>7 <hi>The usuall manner of removing.</hi>
-            </p>
-            <p>8 <hi>Which is fit for poore stalles.</hi>
-            </p>
-            <p>9 <hi>How a good stall is to be carried.</hi>
-            </p>
-            <p>10 <hi>How a bad.</hi>
-            </p>
-            <p>11 <hi>What to doe when they are brought home</hi>
-            </p>
-            <p>12 <hi>And what when they are seated.</hi>
-            </p>
-            <p>
-                <head>The Contents of the ninth Chapter</head>
-            </p>
-            <p>1. <hi>What Bees are to be fed.</hi>
-            </p>
-            <p>2. <hi>When they cease to lay up in store.</hi>
-            </p>
-            <p>3 <hi>When and how long they spend on the stocke.</hi>
-            </p>
-            <p>4 <hi>Some are stored for a longer time, some for a lesse.</hi>
-            </p>
-            <p>5 <hi>The usuall time of feeding.</hi>
-            </p>
-            <p>6 <hi>The usuall manner of feeding.</hi>
-            </p>
-            <p>7 <hi>The late feeding often faileth.</hi>
-            </p>
-            <p>8 <hi>Yet it may save such as have some store.</hi>
-            </p>
-            <p>9 <hi>How to save those that have no store in the spring.</hi>
-            </p>
-            <p>10 <hi>How to feed Bees without hony.</hi>
-            </p>
-            <p>11 <hi>The best time of feeding.</hi>
-            </p>
-            <p>12 <hi>The benefit of rathe feeding.</hi>
-            </p>
-            <p>13 <hi>Bees are to be fed according to their want.</hi>
-            </p>
-            <p>14 <hi>What proportion, of hony to the Bees, is requisit.</hi>
-            </p>
-            <p>15 <hi>The best manner of feeding.</hi>
-            </p>
-            <p>16 <hi>The fittest time of the day for it, is the evening.</hi>
-            </p>
-            <p>17 <hi>The second feeding-time.</hi>
-            </p>
-            <p>18 <hi>The third time of feeding, if it need be.</hi>
-            </p>
-            <p>19 <hi>A generall caveat.</hi>
-            </p>
-            <p>
+                <p><hi rend="drop-capital">M</hi>Y Booke of Bees I divide into 10 Chapters.</p>
+                <list>
+                    <item>1 The first, of the nature and properties of Bees, &amp; of their Queene </item>
+                <item>2 The second, of the placing of them, &amp; of their seats.  </item>
+                <item>3 The third, of their hives, &amp; the dressing of them. </item>
+                <item>4 The fourth, of the breeding of Bees, &amp; of the drone.  </item>
+                <item>5 The fift, of their swarming, and the hiving of them.  </item>
+                <item>6 The sixt, of their worke.  </item>
+                <item>7 The seauenth, of their enemies.  </item>
+                <item>8 The eighth, of removing them. </item>
+                <item>9 The ninth, of feeding them.  </item>
+                <item>10 The tenth of the fruit and profit of the them.</item>
+                </list>
+            </div>
+            <div type="contents">
+                <div type="contents-chapter" n="1">
+                    <head>The Contents of the first Chapter.</head>
+                    <list>
+                    <item>1 <hi>Bees yeeld great profit with smale cost.</hi>
+                    </item>
+                    <item>2 <hi>Every Country fit for Bees.</hi>
+                    </item>
+                    <item>3 <hi>Bees abhorre idlenesse.</hi>
+                    </item>
+                    <item>4 <hi>Bees have a common wealth.</hi>
+                    </item>
+                    <item>5 <hi>Their working, watching, fighting, dwelling, diet, wealth, and young are all in common.</hi>
+                    </item>
+                    <item>6 <hi>Bees alwaies loial to their Soveraigne.</hi>
+                    </item>
+                    <item>7 <hi>Bees endure no government, but a Monarchie.</hi>
+                    </item>
+                    <item>8 <hi>The description of the Queene-Bee.</hi>
+                    </item>
+                    <item>9 <hi>Bees have also inferior governours or captaines</hi>
+                    </item>
+                    <item>10 <hi>Which are knowne by peculiar markes.</hi>
+                    </item>
+                    <item>11 <hi>Two sorts of Bees.</hi>
+                    </item>
+                    <item>12 <hi>The parts of a Bee.</hi>
+                    </item>
+                    <item>13 <hi>Hir hornes.</hi>
+                    </item>
+                    <item>14 <hi>Hir fangs.</hi>
+                    </item>
+                    <item>15 <hi>Hir tongue, with the parts of it.</hi>
+                    </item>
+                    <item>16 <hi>Hir fowre winges.</hi>
+                    </item>
+                    <item>17 <hi>Hir feete.</hi>
+                    </item>
+                    
+                        <fw type="catch"> 18 <hi>Her</hi>
+                        </fw>
+                    
+                        <pb n="b2r"/>
+                    <item>18 <hi>Hir two weapons.</hi>
+                    </item>
+                    <item>19 <hi>Her fanges, commonly used against insects.</hi>
+                    </item>
+                    <item>20 <hi>Her speare sometime.</hi>
+                    </item>
+                    <item>21 <hi>Stinging present death to Bees.</hi>
+                    </item>
+                    <item>22 <hi>The speares commonly used against other creatures.</hi>
+                    </item>
+                    <item>23 <hi>Haire and feathers cause the Bees to sting.</hi>
+                    </item>
+                    <item>24 <hi>Woole and wollen doe not offend them</hi>
+                    </item>
+                    <item>25 <hi>Fustian, leather, and velvet, naught among Bees.</hi>
+                    </item>
+                    <item>26 <hi>The Bees in their anger aime at the head.</hi>
+                    </item>
+                    <item>27 <hi>When any is stung the company must be gon.</hi>
+                    </item>
+                    <item>28 <hi>The Bees have the worst when they sting.</hi>
+                    </item>
+                    <item>29 <hi>They loose their sting and entrals, &amp; consequently their lives</hi>
+                    </item>
+                    <item>30 <hi>The speare of itself pearceth deeper when the Bee is gon.</hi>
+                    </item>
+                    <item>31 <hi>How to prevent the paine and swelling.</hi>
+                    </item>
+                    <item>32 <hi>Nothing but time can cure their stinging.</hi>
+                    </item>
+                    <item>33 <hi>What things the Bee-master must avoid.</hi>
+                    </item>
+                    <item>34 <hi>The six properties of a Bee-master.</hi>
+                    </item>
+                    <item>35 <hi>Safer to walke then to stand among Bees.</hi>
+                    </item>
+                    <item>36 <hi>The fittest time to stirre about Bees is in the morning.</hi>
+                    </item>
+                    <item>37 <hi>In the heate of the day they are most angry.</hi>
+                    </item>
+                    <item>38 <hi>How to be armed when the Bees are angry.</hi>
+                    </item>
+                    <item>39 <hi>Bees dangerous to cattaile.</hi>
+                    </item>
+                    <item>40 <hi>The Bees senses.</hi>
+                    </item>
+                    <item>41 <hi>Their sight dim.</hi>
+                    </item>
+                    <item>42 <hi>Their smelling very quicke.</hi>
+                    </item>
+                    <item>43 <hi>Hearing and seeing.</hi>
+                    </item>
+                    <item>44 <hi>Tasting.</hi>
+                    </item>
+                    <item>45 <hi>Their virtues.</hi>
+                    </item>
+                    <item>46 <hi>Fortitude.</hi>
+                    </item>
+                    <item>47 <hi>Prudence and knowledge.</hi>
+                    </item>
+                    <item>48 <hi>A strange tale concerning the knowledge, and devotion of Bees.</hi>
+                    </item>
+                    <item>49 <hi>Temperance.</hi>
+                    </item>
+                    <item>50 <hi>Justice.</hi>
+                    </item>
+                    <item>51 <hi>Chastity.</hi>
+                    </item>
+                    <item>52 <hi>Cleanlinesse.</hi>
+                    </item>
+                    <item>53 <hi>The age of Bees.</hi>
+                    </item>
+                    
+                        <fw type="catch"> 54 <hi>The</hi>
+                        </fw>
+                    
+                        <pb n="b2v"/>
+                    <item>54 <hi>The difference betweene yong Bees and olde.</hi>
+                    </item>
+                    <item>55 <hi>The offices of the yong Bees.</hi>
+                    </item>
+                    <item>56 <hi>And of the old.</hi>
+                    </item>
+                    <item>57 <hi>Bees wont eft-soones to play.</hi>
+                    </item>
+                    <item>58 <hi>They are soone killed with cold.</hi>
+                    </item>
+                    <item>59 <hi>How to revive them.</hi>
+                    </item></list>
+                </div>
+                <div type="contents-chapter" n="2">
+                    <head>The Contents of the second Chapter.</head>
+                    <list>
+                    <item>1 <hi>Of five things requisit in a Bee-garden, the first is that it bee nigh at hand.</hi>
+                    </item>
+                    <item>2.<hi>That it be fastly fenced from cattaile, and windes.</hi>
+                    </item>
+                    <item>3 <hi>The north and east fences should be high.</hi>
+                    </item>
+                    <item>4 <hi>The south and west fences must be also good, but not so high, as to hide the sun from the hives.</hi>
+                    </item>
+                    <item>5 <hi>In rough winds the Bees need a skreene.</hi>
+                    </item>
+                    <item>6. <hi>That it be sweet.</hi>
+                    </item>
+                    <item>7. <hi>Neither very cold in winter, nor over hot in sommer.</hi>
+                    </item>
+                    <item>8 <hi>A grasse ground is best, but keept notte and dry.</hi>
+                    </item>
+                    <item>9 <hi>Beset with trees and bushes.</hi>
+                    </item>
+                    <item>10 <hi>Two sorts of seats.</hi>
+                    </item>
+                    <item>11 <hi>The benches not so good as single stooles</hi>
+                    </item>
+                    <item>12 <hi>Swarmes may be set on benches.</hi>
+                    </item>
+                    <item>13 <hi>Wooden stooles better then they of stone.</hi>
+                    </item>
+                    <item>14 <hi>The size of stooles.</hi>
+                    </item>
+                    <item>15 <hi>Which way the stooles should be set.</hi>
+                    </item>
+                    <item>16 <hi>How neere to the fence.</hi>
+                    </item>
+                    <item>17 <hi>How neere to each other.</hi>
+                    </item>
+                    <item>18 <hi>How neere to the ground.</hi>
+                    </item>
+                    <item>19 <hi>How to be footed.</hi>
+                    </item></list>
+                </div>
+                <div type="contents-chapter" n="3">
+                    <head>The Contents of the third Chapter.</head>
+                    <list><item>1 <hi>Two sorts of hives.</hi>
+                    </item>
+                    <item>2 <hi>Strawne hives,with their inconveniences and remedies.</hi>
+                    </item>
+                    <item>3 <hi>Wicker-hives, with their inconveniences and remedies.</hi>
+                    </item>
+                    <item>4 <hi>Strawne-hives best.</hi>
+                    </item>
+                    
+                        <fw type="catch"> 5 <hi>The</hi>
+                        </fw>
+                    
+                        <pb n="b3r"/>
+                    <item>5 <hi>The size of hives</hi>
+                    </item>
+                    <item>6 <hi>When hives are to be made.</hi>
+                    </item>
+                    <item>7 <hi>How hives are to be dressed, before they receive the swarmes.</hi>
+                    </item>
+                    <item>8 <hi>The pruning of hives.</hi>
+                    </item>
+                    <item>9 <hi>The spraying or spleeting of them.</hi>
+                    </item>
+                    <item>10 <hi>The seasoning of them.</hi>
+                    </item>
+                    <item>11 <hi>The seasoning of an old hive.</hi>
+                    </item>
+                    <item>12 <hi>How hives are to be ordered, when the Bees are in them.</hi>
+                    </item>
+                    <item>13 <hi>The hives always well hacled.</hi>
+                    </item>
+                    <item>14 <hi>How to make a hacle.</hi>
+                    </item>
+                    <item>15 <hi>the working of the cap.</hi>
+                    </item>
+                    <item>16 <hi>The bignesse of the hacle.</hi>
+                    </item>
+                    <item>17 <hi>The length of it.</hi>
+                    </item>
+                    <item>18 <hi>The girale</hi>
+                    </item>
+                    <item>19 <hi>The hives always close cloomed.</hi>
+                    </item>
+                    <item>20 <hi>Then seldome to be moved.</hi>
+                    </item>
+                    <item>21 <hi>How soone lifted up is to be set downe againe.</hi>
+                    </item>
+                    <item>22 <hi>The bignesse of the hive-dore.</hi>
+                    </item>
+                    <item>23 <hi>The making of the barre.</hi>
+                    </item>
+                    <item>24 <hi>The use of it.</hi>
+                    </item>
+                    <item>25 <hi>the making of the porch.</hi>
+                    </item>
+                    <item>26 <hi>The use if it</hi>
+                    </item>
+                    <item>27 <hi>The makking of the porch-dore</hi>
+                    </item>
+                    <item>28 <hi>The use of it.</hi>
+                    </item>
+                    <item>29 <hi>The greese.</hi>
+                    </item>
+                    <item>30 <hi>How to order the Bee-hives in every month, and first in GEMINI.</hi>
+                    </item>
+                    <item>31 CANCER.</item>
+                    <item>32 <hi>How to make the Bees swarme.</hi>
+                    </item>
+                    <item>33 <hi>How to keepe them from swarming.</hi>
+                    </item>
+                    <item>34 <hi>How to keepe full stalles from killing their yong.</hi>
+                    </item>
+                    <item>35 LEO.</item>
+                    <item>36 <hi>Fasten the barre to the dore.</hi>
+                    </item>
+                    <item>37 VIRGO.</item>
+                    <item>38 <hi>To keepe the hives from robbing.</hi>
+                    </item>
+                    <item>39 <hi>Set up the porch to the weaker.</hi>
+                    </item>
+                    <item>40 <hi>And keepe them shut til they offer to goe abroad.</hi>
+                    </item>
+                    <item>41 <hi>How hives not ful are to be used against cold &amp; robbers.</hi>
+                    </item>
+                    
+                        <fw type="catch"> 42 <hi>The</hi>
+                        </fw>
+                    
+                        <pb n="b3v"/>
+                    <item>42 <hi>The reared stalles now to be set downe againe.</hi>
+                    </item>
+                    <item>43 <hi>In Virgo try whether the Bees will live.</hi>
+                    </item>
+                    <item>44 LIBRA.</item>
+                    <item>46 <hi>Now set up the porches to the best, &amp; keepe them all shut til the Bees offer to go abroad.</hi>
+                    </item>
+                    <item>47. <hi>Now take the combes.</hi>
+                    </item>
+                    <item>48 SCORPIO. </item>
+                    <item>49 <hi>Continue the shutting &amp; opening of the porch this month also.</hi>
+                    </item>
+                    <item>50 <hi>How to dresse the hives for winter.</hi>
+                    </item>
+                    <item>51 SAGIT. CAPRIC. AQUAR. <hi>are</hi> 3. <hi>dead months.</hi>
+                    </item>
+                    <item>52 <hi>How the Bees spend their time in them.</hi>
+                    </item>
+                    <item>53. <hi>The first sharp weather in Capr. shut the Bees in.</hi>
+                    </item>
+                    <item>54 <hi>And in pleasant weather let them loose, if it may be, once in a fortnight or </hi>
+                        <hi>3. weekes.</hi>
+                    </item>
+                    <item>55. PISCES.</item>
+                    <item>56 <hi>The I. faire day in Pisces set your Bees at liberty.</hi>
+                    </item>
+                    <item>57 <hi>Now cleanse the stooles.</hi>
+                    </item>
+                    <item>58 <hi>And drive light stalls</hi>
+                    </item>
+                    <item>59 ARIES: <hi>The second chiefe robbin-g time</hi>
+                    </item>
+                    <item>60 <hi>In</hi> TAUR: <hi>remove the porches.</hi>
+                    </item>
+                    <item>61 <hi>In</hi> GEMINI <hi>the barres.</hi>
+                    </item>
+                    </list>
+                </div>
+                <div type="contents-chapter" n="4">
+                    <head>The contents of the fourth Chapter.</head>
+                    <list><item>1 <hi>The drone no labourer.</hi>
+                    </item>
+                    <item>2 <hi>The drone is the male-Bee.</hi>
+                    </item>
+                    <item>3 <hi>Divers reasons proving the drone to be the male. The first reason is, that they are suffered in breeding time only.</hi>
+                    </item>
+                    <item>4 <hi>No drone in winter.</hi>
+                    </item>
+                    <item>5 <hi>The second reason is that, the drones being taken away in breeding time, the Bees breed no more.</hi>
+                    </item>
+                    <item>6 <hi>The second reason is that they are bred by the Bees.</hi>
+                    </item>
+                    <item>7 <hi>The third reason is that Wasps and Dorres have drones which are their males.</hi>
+                    </item>
+                    <item>8 <hi>The breeding of Wasps by drones.</hi>
+                    </item>
+                    <item>9 <hi>The breeding of Dorres by drones.</hi>
+                    </item>
+                    
+                        <fw type="catch"> 10 <hi>The</hi>
+                        </fw>
+                    
+                        <pb n="b4r"/>
+                    <item>10 <hi>the fift reason is the apparent signes of their sex.</hi>
+                    </item>
+                    <item>11 <hi>When the Bees begin to breed.</hi>
+                    </item>
+                    <item>12 <hi>The manner of their breeding.</hi>
+                    </item>
+                    <item>13 <hi>The Bee-seed is first turned into a worme.</hi>
+                    </item>
+                    <item>14 <hi>The worme being dead groweth to the shape of a Bee, &amp; then liveth againe.</hi>
+                    </item>
+                    <item>15 <hi>The breeding of the lady-bees.</hi>
+                    </item>
+                    <item>16 <hi>When the drones are bred.</hi>
+                    </item>
+                    <item>17 <hi>When they come abroad.</hi>
+                    </item>
+                    <item>18 <hi>Two uses of the drones.</hi>
+                    </item>
+                    <item>19 <hi>Where they lie.</hi>
+                    </item>
+                    <item>20 <hi>The male-bees are subject to the females.</hi>
+                    </item>
+                    <item>21 <hi>When the Bees leave breeding, &amp; beat away their drones.</hi>
+                    </item>
+                    <item>22 <hi>The Bees compared to the Amazons.</hi>
+                    </item>
+                    <item>23 <hi>They rid not their drones all at once.</hi>
+                    </item>
+                    <item>24 <hi>When forward stalles begin.</hi>
+                    </item>
+                    <item>25 <hi>When the backward.</hi>
+                    </item>
+                    <item>26 <hi>When full stockes that have not swarmed.</hi>
+                    </item>
+                    <item>27 <hi>When those that are overswarmed.</hi>
+                    </item>
+                    <item>28 <hi>The drones first banished are welcome to other hives.</hi>
+                    </item>
+                    <item>29 <hi>In the end they are all killed.</hi>
+                    </item>
+                    <item>30 <hi>Some die in the hive.</hi>
+                    </item>
+                    <item>31 <hi>But most abroad.</hi>
+                    </item>
+                    <item>32 <hi>Sometime the Bees cast out even the white Cephens.</hi>
+                    </item>
+                    <item>33 <hi>Timely ridding of drones a good signe.</hi>
+                    </item>
+                    <item>34 <hi>Sometime they rid their drones in the spring.</hi>
+                    </item>
+                    <item>35 <hi>And afterward beed new againe.</hi>
+                    </item>
+                    </list>
+                </div>
+                <div type="contents-chapter" n="5">
+                    <head>The Contents of the fift Chapter.</head>
+                    <list><item>1 <hi>The parts of a swarme.</hi>
+                    </item>
+                    <item>2 <hi>When you may see the queene-bee.</hi>
+                    </item>
+                    <item>3 <hi>The swarme no yonger then the stocke.</hi>
+                    </item>
+                    <item>4 <hi>Many drones in a swarme a good signe.</hi>
+                    </item>
+                    <item>5 <hi>A kinde spring for swarmes.</hi>
+                    </item>
+                    <item>6 <hi>Swarming-weather.</hi>
+                    </item>
+                    <item>7 <hi>The swarming-howres.</hi>
+                    </item>
+                    
+                        <fw type="catch">
+                            <hi>The</hi>
+                        </fw>
+                    
+                        <pb n="b4v"/>
+                    <item>8 <hi>The two swarming months.</hi>
+                    </item>
+                    <item>9 <hi>Rathe swarmes.</hi>
+                    </item>
+                    <item>10 <hi>Late swarmes.</hi>
+                    </item>
+                    <item>11 <hi>Blackbery-swarmes are seldome to be kept.</hi>
+                    </item>
+                    <item>12 <hi>A prime-swarme and an after swarme naturall.</hi>
+                    </item>
+                    <item>13 <hi>A stalle may cast 4 times.</hi>
+                    </item>
+                    <item>14 <hi>Divers causes of breaking the prime-swarme.</hi>
+                    </item>
+                    <item>15 <hi>One prime-swarme worth three after-swarmes.</hi>
+                    </item>
+                    <item>16 <hi>The vulgar Bees appoint the rising of the fore-swarmes, and that upon 4. grounds.</hi>
+                    </item>
+                    <item>17 <hi>Five signes of the first swarming</hi>
+                    </item>
+                    <item>18 <hi>The signe of present swarming.</hi>
+                    </item>
+                    <item>19 <hi>To ly forth continually is a signe they will not swarme.</hi>
+                    </item>
+                    <item>20 <hi>How to remedy their lying forth.</hi>
+                    </item>
+                    <item>21 <hi>The signes of after swarmes.</hi>
+                    </item>
+                    <item>22 <hi>The rising of the after-swarmes is appointed by the rulers.</hi>
+                    </item>
+                    <item>23 <hi>When they begin to call or sing.</hi>
+                    </item>
+                    <item>24 <hi>The Bees musicke.</hi>
+                    </item>
+                    <item>25 <hi>When you may best heare it.</hi>
+                    </item>
+                    <item>26 <hi>Before the Bees swarme, the voices come downe to the stoole.</hi>
+                    </item>
+                    <item>27 <hi>The manner of their swarming.</hi>
+                    </item>
+                    <item>28 <hi>The prime-swarme being broken, the next may call &amp; swarm within the eighth day.</hi>
+                    </item>
+                    <item>29 <hi>All the swarmes of one hive come within a fortnight.</hi>
+                    </item>
+                    <item>30 <hi>What to do when a swarme is up.</hi>
+                    </item>
+                    <item>31 <hi>Some swarmes provide them houses afore hand.</hi>
+                    </item>
+                    <item>32 <hi>And then they flie away directly to the place.</hi>
+                    </item>
+                    <item>33 <hi>Vacuae alvearia stent semper parata in apiario.</hi>
+                    </item>
+                    <item>34 <hi>The hiving of Bees.</hi>
+                    </item>
+                    <item>35 <hi>When they are to be hived.</hi>
+                    </item>
+                    <item>36 <hi>The token of their flying away after they be setled.</hi>
+                    </item>
+                    <item>37 <hi>How to fit the hives to the swarmes.</hi>
+                    </item>
+                    <item>38 <hi>How to make your stalls great.</hi>
+                    </item>
+                    <item>39 <hi>A Mantle a Rest and a Brush alwaies in a readines.</hi>
+                    </item>
+                    <item>40 <hi>What the hiver must doe.</hi>
+                    </item>
+                    <item>41 <hi>The manner of hiving.</hi>
+                    </item>
+                    <item>42 <hi>Howe to hive a swarme that lighteth upon a low bough.</hi>
+                    </item>
+                    
+                        <fw type="catch"> 43 <hi>How</hi>
+                        </fw>
+                    
+                        <pb n="[c1r]"/>
+                    <item>43 <hi>How if it light upon a high bough.</hi>
+                    </item>
+                    <item>44 <hi>How if it light upon a bough that cannot be cut.</hi>
+                    </item>
+                    <item>45 <hi>How if it light upon the body of a tree.</hi>
+                    </item>
+                    <item>46 <hi>How if it light upon the top of any thing.</hi>
+                    </item>
+                    <item>47 <hi>How if it light in the middle of a dead hedge.</hi>
+                    </item>
+                    <item>48 <hi>How if it light on some hollow side of a stub, or tree.</hi>
+                    </item>
+                    <item>49 <hi>How if it fly into a hollow tree.</hi>
+                    </item>
+                    <item>50 <hi>The swarme is alwaies to bee kepte together, lest the Bees kill one another.</hi>
+                    </item>
+                    <item>51 <hi>The swarme to be set neere the lighting place</hi>
+                    </item>
+                    <item>52 <hi>What to do if a swarme part.</hi>
+                    </item>
+                    <item>53 <hi>When and how to put two swarmes togither.</hi>
+                    </item>
+                    <item>54 <hi>How to staie a swarme that is going home againe.</hi>
+                    </item>
+                    <item>55 <hi>How to keep: them from other hives, when they are going home.</hi>
+                    </item>
+                    <item>56 <hi>What to doe when the swarme is new-hived.</hi>
+                    </item>
+                    <item>57 <hi>How to remove it in the evening.</hi>
+                    </item>
+                    <item>58 <hi>How to set it on his seat.</hi>
+                    </item>
+                    <item>59 <hi>How to use it in the morning.</hi>
+                    </item>
+                    <item>60 <hi>A swarme lighting neere his seate is presently to be set thereon.</hi>
+                    </item>
+                    <item>61 <hi>Fowle weather the first day doth much discourage a swarme.</hi>
+                    </item>
+                    <item>62 <hi>A swarme may live five daies without hony.</hi>
+                    </item></list>
+                </div>
+                <div type="contents-chapter" n="6">
+                    <head>The Contents of the sixt Chapter</head>
+                    <list>
+                    <item>1 <hi>Bees most industrious creatures</hi>
+                    </item>
+                    <item>2 <hi>In three months they cannot worke</hi>
+                    </item>
+                    <item>3 <hi>All the yeere after they loose no time.</hi>
+                    </item>
+                    <item>4 <hi>How they gather waxe.</hi>
+                    </item>
+                    <item>5. <hi>How you may see the working of the combes</hi>
+                    </item>
+                    <item>6 <hi>How much waxe they bring at once.</hi>
+                    </item>
+                    <item>7 <hi>The fashion of their combs and celles.</hi>
+                    </item>
+                    <item>8 <hi>The drone combe.</hi>
+                    </item>
+                    <item>9 <hi>The queenes celles are built single in divers places.</hi>
+                    </item>
+                    <item>10 <hi>In fashion round.</hi>
+                    </item>
+                    <item>11 <hi>The common error anens these celles.</hi>
+                    </item>
+                    
+                        <fw type="catch"> 12 <hi>The</hi>
+                        </fw>
+                    
+                    
+                        <pb n="[c1v]"/>
+                    
+                    <item>12 <hi>The combes have 3 colours successively.</hi>
+                    </item>
+                    <item>13 <hi>Wax is gathered only in 4 months.</hi>
+                    </item>
+                    <item>14 <hi>Hony in 9.</hi>
+                    </item>
+                    <item>15 <hi>The Bees gather 2 sorts of hony.</hi>
+                    </item>
+                    <item>16 <hi>How ambrosia or grose hony is gathered.</hi>
+                    </item>
+                    <item>17 <hi>Ambrosia some serveth to feed the scadons: some is wrought with nectar and laid up in store.</hi>
+                    </item>
+                    <item>18 <hi>Ambrosia alone is soone corrupted.</hi>
+                    </item>
+                    <item>19 <hi>And then becomemeth most unsavory stopping.</hi>
+                    </item>
+                    <item>20 <hi>Much stopping maketh the Bees forsake their hives.</hi>
+                    </item>
+                    <item>21 <hi>This Ambrosia is commonlie taken for wax.</hi>
+                    </item>
+                    <item>22 <hi>Which error is disproved by sense.</hi>
+                    </item>
+                    <item>23 <hi>And reason.</hi>
+                    </item>
+                    <item>24 <hi>And by authoritie.</hi>
+                    </item>
+                    <item>25 <hi>How the pure nectar is gathered.</hi>
+                    </item>
+                    <item>26 <hi>At the first the Bees lay up meere nectar: afterward they mix it with Ambrosia</hi>
+                    </item>
+                    <item>27 <hi>Nectar of two sorts. Stone-hony and live-hony</hi>
+                    </item>
+                    <item>28 <hi>Live-hony of two sorts. Virgin hony. Second hony.</hi>
+                    </item>
+                    <item>29 <hi>The ful cells they close with wax.</hi>
+                    </item>
+                    <item>30. <hi>After Leo they lay up no hony.</hi>
+                    </item>
+                    <item>31 <hi>Nectar and ambrosia made of many simples, whereof each month yeeldeth variety.</hi>
+                    </item>
+                    <item>32 <hi>Dandelion continueth longest.</hi>
+                    </item>
+                    <item>33 <hi>What Pisces yeeldeth.</hi>
+                    </item>
+                    <item>34 <hi>What Aries.</hi>
+                    </item>
+                    <item>35 <hi>Taurus.</hi>
+                    </item>
+                    <item>36 <hi>Gemini.</hi>
+                    </item>
+                    <item>37 <hi>Cancer.</hi>
+                    </item>
+                    <item>38 <hi>Of hony-dewes.</hi>
+                    </item>
+                    <item>39 <hi>The Bees worke most earnestly in a hony-dew.</hi>
+                    </item>
+                    <item>40 <hi>What the hony-dew is.</hi>
+                    </item>
+                    <item>41 <hi>When the hony-dewes are most frequent.</hi>
+                    </item>
+                    <item>42 <hi>The time when they fall.</hi>
+                    </item>
+                    <item>43. <hi>Leo.</hi>
+                    </item>
+                    <item>44. <hi>Virgo.</hi>
+                    </item>
+                    <item>45. <hi>Libra.</hi>
+                    </item>
+                    
+                        <fw type="catch"> 47 <hi>Scorpio</hi>
+                        </fw>
+
+                        <pb n="[c2r]"/>
+
+                    <item>46 <hi>Scorpio.</hi>
+                    </item>
+                    <item>47 <hi>The Bees gather but of one kind of flowre in one voiage.</hi>
+                    </item>
+                    <item>48 <hi>They gather hony out of poison.</hi>
+                    </item>
+                    <item>49 <hi>What store of hony a stale may have.</hi>
+                    </item>
+                    <item>50 <hi>Bees have necessary use of water.</hi>
+                    </item>
+                    <item>51 <hi>Chiefly for their breed.</hi>
+                    </item>
+                    <item>52 <hi>The making of a watering-place.</hi>
+                    </item>
+                    <item>53 <hi>How to find wild Bees.</hi>
+                    </item>
+                    <item>54 <hi>The fashion of a watring trough.</hi>
+                    </item>
+                    <item>55 <hi>After a showre they water at home.</hi>
+                    </item></list>
+                </div>
+                <div type="contents-chapter" n="7">
+                    <head>The Contents of the seaventh Chapter</head>
+                    <list><item>1. <hi>The Bees enimies are many.</hi>
+                    </item>
+                    <item>2. <hi>I. The mouse.</hi>
+                    </item>
+                    <item>3. <hi>How to knowe when a mouse is in the hive.</hi>
+                    </item>
+                    <item>4 <hi>Remedies against the mouse.</hi>
+                    </item>
+                    <item>5. 2. <hi>The wood-pecker.</hi>
+                    </item>
+                    <item>6. 3. <hi>The Tit mouse.</hi>
+                    </item>
+                    <item>7. <hi>4. The swallow.</hi>
+                    </item>
+                    <item>8 <hi>Remedy against the titmouse and the swallow.</hi>
+                    </item>
+                    <item>9. <hi>5. The hornet.</hi>
+                    </item>
+                    <item>10 <hi>The hornets sting is dangerous.</hi>
+                    </item>
+                    <item>11. <hi>6. The waspe.</hi>
+                    </item>
+                    <item>12 <hi>The waspe at first feedeth upon dead Bees.</hi>
+                    </item>
+                    <item>13 <hi>At Virgo she stealeth hony.</hi>
+                    </item>
+                    <item>14 <hi>How long the wasps last.</hi>
+                    </item>
+                    <item>15 <hi>In what yeere the wasps are most rife.</hi>
+                    </item>
+                    <item>16 <hi>Remedies against the waspes.</hi>
+                    </item>
+                    <item>17 <hi>7 The moth.</hi>
+                    </item>
+                    <item>18. <hi>8 The snaile.</hi>
+                    </item>
+                    <item>19. <hi>9 The emet.</hi>
+                    </item>
+                    <item>20. <hi>10 The spider.</hi>
+                    </item>
+                    <item>21. <hi>11 The toad.</hi>
+                    </item>
+                    <item>22. <hi>12 The frog.</hi>
+                    </item>
+                    <item>23. <hi>13 The Bee the Bees greatest enimie.</hi>
+                    </item>
+                    <item>24 <hi>Robbing or fighting of Bees in winter &amp; sommer but little</hi>
+                    </item>
+                    
+                        <fw type="catch"> 25 <hi>In</hi>
+                        </fw>
+                    
+                        <pb n="[c2v]"/>
+                    <item>25 <hi>In the spring more earnest.</hi>
+                    </item>
+                    <item>26 <hi>The most spoile is made in Virgo.</hi>
+                    </item>
+                    <item>27 <hi>What stalles are most subject to robbing.</hi>
+                    </item>
+                    <item>28 <hi>The robbers are the lustiest stalles.</hi>
+                    </item>
+                    <item>29 <hi>How they begin the fray.</hi>
+                    </item>
+                    <item>30 <hi>Theeves of divers hives agree together in robbing.</hi>
+                    </item>
+                    <item>31 <hi>The description of the Bees battaile.</hi>
+                    </item>
+                    <item>32 <hi>In the battaile is heard a sound like a drum and a flute.</hi>
+                    </item>
+                    <item>33 <hi>The assault of the enimy.</hi>
+                    </item>
+                    <item>34 <hi>The defence of the beseeged.</hi>
+                    </item>
+                    <item>35 <hi>Neither side willing to yeeld.</hi>
+                    </item>
+                    <item>36 <hi>The exercise of the defendants, when the enimie retireth.</hi>
+                    </item>
+                    <item>37 <hi>The Wasps like vultures.</hi>
+                    </item>
+                    <item>38 <hi>The battaile ended, they bury their dead.</hi>
+                    </item>
+                    <item>39 <hi>The second assault of the enimie.</hi>
+                    </item>
+                    <item>40 <hi>When the true Bee yeeld, they goe with the conquerors.</hi>
+                    </item>
+                    <item>41 <hi>Remedies</hi>
+                    </item>
+                    <item>42 <hi>To prevent robbing.</hi>
+                    </item>
+                    <item>43 <hi>And to stay it, if you find it in time.</hi>
+                    </item>
+                    <item>44 <hi>When it is too late, and what is then to be done.</hi>
+                    </item>
+                    <item>45 <hi>In what yeeres robbing is most rife.</hi>
+                    </item>
+                    <item>46 <hi>Bees kill poore swarmes that wander in the spring.</hi>
+                    </item>
+                    <item>47 <hi>To prevent the death of poore swarmes.</hi>
+                    </item>
+                    <item>48 <hi>14. The weather.</hi>
+                    </item>
+                    <item>49 <hi>In summer heate hurteth the Bees.</hi>
+                    </item>
+                    <item>50 <hi>In winter the sun-shine in frost and snow.</hi>
+                    </item>
+                    <item>51 <hi>Also the easterne winds and great frosts.</hi>
+                    </item>
+                    <item>52 <hi>And the cold continued maketh them sicke.</hi>
+                    </item>
+                    <item>53 <hi>The raine rotteth the hives.</hi>
+                    </item>
+                    <item>54 <hi>The remedy.</hi>
+                    </item>
+                    <item>55 <hi>The greatest losse by weather is in the spring, for then infinite multitudes are beaten downe &amp; wearie, with swarmes &amp; winde.</hi>
+                    </item>
+                    <item>56 <hi>At the rising of a clowd they post home.</hi>
+                    </item>
+                    <item>57 <hi>Yet wil they goe a field in the midst of a warme shower.</hi>
+                    </item>
+                    <item>58 <hi>How to restore Bees to life.</hi>
+                    </item>
+                    <item>59 <hi>The wind causeth many to be drowned.</hi>
+                    </item></list>
+                </div>
+                <fw type="catch"> 1 <hi>Re-</hi></fw>
+                <pb n="[c3r]"/>
+                <div type="contents-chapter" n="8">
+                    <head>The Contents of the eighth Chapter.</head>
+                    <list><item>1. <hi>Remove Bees in a faire day.</hi>
+                    </item>
+                    <item>2 <hi>Not in Sommer</hi>
+                    </item>
+                    <item>3 <hi>Nor in winter.</hi>
+                    </item>
+                    <item>4 <hi>The fittest time is in the autumne and spring.</hi>
+                    </item>
+                    <item>5 <hi>Libra the best month in all the yeere.</hi>
+                    </item>
+                    <item>6 <hi>The time of the day and manner of removing.</hi>
+                    </item>
+                    <item>7 <hi>The usuall manner of removing.</hi>
+                    </item>
+                    <item>8 <hi>Which is fit for poore stalles.</hi>
+                    </item>
+                    <item>9 <hi>How a good stall is to be carried.</hi>
+                    </item>
+                    <item>10 <hi>How a bad.</hi>
+                    </item>
+                    <item>11 <hi>What to doe when they are brought home</hi>
+                    </item>
+                    <item>12 <hi>And what when they are seated.</hi>
+                    </item></list>
+                </div>
+                <div type="contents-chapter" n="9">
+                    <head>The Contents of the ninth Chapter</head>
+                    <list>
+                    <item>1. <hi>What Bees are to be fed.</hi>
+                    </item>
+                    <item>2. <hi>When they cease to lay up in store.</hi>
+                    </item>
+                    <item>3 <hi>When and how long they spend on the stocke.</hi>
+                    </item>
+                    <item>4 <hi>Some are stored for a longer time, some for a lesse.</hi>
+                    </item>
+                    <item>5 <hi>The usuall time of feeding.</hi>
+                    </item>
+                    <item>6 <hi>The usuall manner of feeding.</hi>
+                    </item>
+                    <item>7 <hi>The late feeding often faileth.</hi>
+                    </item>
+                    <item>8 <hi>Yet it may save such as have some store.</hi>
+                    </item>
+                    <item>9 <hi>How to save those that have no store in the spring.</hi>
+                    </item>
+                    <item>10 <hi>How to feed Bees without hony.</hi>
+                    </item>
+                    <item>11 <hi>The best time of feeding.</hi>
+                    </item>
+                    <item>12 <hi>The benefit of rathe feeding.</hi>
+                    </item>
+                    <item>13 <hi>Bees are to be fed according to their want.</hi>
+                    </item>
+                    <item>14 <hi>What proportion, of hony to the Bees, is requisit.</hi>
+                    </item>
+                    <item>15 <hi>The best manner of feeding.</hi>
+                    </item>
+                    <item>16 <hi>The fittest time of the day for it, is the evening.</hi>
+                    </item>
+                    <item>17 <hi>The second feeding-time.</hi>
+                    </item>
+                    <item>18 <hi>The third time of feeding, if it need be.</hi>
+                    </item>
+                    <item>19 <hi>A generall caveat.</hi>
+                    </item>
+                    </list>
+                </div>
                 <fw type="catch"> The</fw>
-            </p>
-            <p>
-                <pb/>
-            </p>
-            <p>
-                <head>The Contents of the tenth Chapter. Part. I.</head>
-            </p>
-            <p>1 <hi>The first kind of vindemiation.</hi>
-            </p>
-            <p>2 <hi>The best time of killing Bees</hi>
-            </p>
-            <p>3 <hi>What stalls are to be taken.</hi>
-            </p>
-            <p>4 <hi>The manner of killing Bees.</hi>
-            </p>
-            <p>5 <hi>Sundry meanes to kill Bees.</hi>
-            </p>
-            <p>6 <hi>How to take the combes when the Bees are dead.</hi>
-            </p>
-            <p>7 <hi>Bees not to be killed when some are abroad.</hi>
-            </p>
-            <p>8 <hi>The second kind of vindemiation.</hi>
-            </p>
-            <p>9 <hi>The time and manner of driving Bees.</hi>
-            </p>
-            <p>10 <hi>How to take the combs.</hi>
-            </p>
-            <p>11 <hi>The driving of Bees unprofitable.</hi>
-            </p>
-            <p>12 <hi>The hony taken is little and naught.</hi>
-            </p>
-            <p>13 <hi>And the Bees driven few and poore.</hi>
-            </p>
-            <p>14 <hi>An other kinde of driving.</hi>
-            </p>
-            <p>15 <hi>At two times.</hi>
-            </p>
-            <p>16 <hi>First driving in Libra.</hi>
-            </p>
-            <p>17 <hi>The manner of driving in Libra.</hi>
-            </p>
-            <p>18 <hi>How to revive those that are chilled in driving.</hi>
-            </p>
-            <p>19 <hi>How to helpe those driven Bees that want.</hi>
-            </p>
-            <p>20 <hi>Second driving in Pisces.</hi>
-            </p>
-            <p>21 <hi>A third kind of vindemiation.</hi>
-            </p>
-            <p>22 <hi>Exsecution used at two times.</hi>
-            </p>
-            <p>23 <hi>What part to be exsecuted, is uncertaine.</hi>
-            </p>
-            <p>24 <hi>Exsecution ancient, but not profitable. Neither first,</hi>
-            </p>
-            <p>25 <hi>Nor second.</hi>
-            </p>
-            <p>26 <hi>Specially for our Country.</hi>
-            </p>
-            <p>
-                <head>Part second.</head>
-            </p>
-            <p>1 <hi>The combes to be broken into three parts.</hi>
-            </p>
-            <p>2 <hi>The dressing of the first part for hony.</hi>
-            </p>
-            <p>3 <hi>The first shoot is fine hony.</hi>
-            </p>
-            <p>4 <hi>How to know good hony</hi>
-            </p>
-            <p>5 <hi>The best hony in the bottome.</hi>
-            </p>
-            <p>6 <hi>Corne-hony the best.</hi>
-            </p>
-            <p>
-                <fw type="catch"> 7 <hi>The</hi>
-                </fw>
-            </p>
-            <p>
-                <pb/>
-            </p>
-            <p>7 <hi>The second shoot is course hony.</hi>
-            </p>
-            <p>8 <hi>Corne-hony got out by water or fire.</hi>
-            </p>
-            <p>9 <hi>Most make but one shoot &amp; so mar all.</hi>
-            </p>
-            <p>10 <hi>The working of hony, &amp; how to help it.</hi>
-            </p>
-            <p>11 <hi>The dressing of the 2. part for meth.</hi>
-            </p>
-            <p>12 <hi>How to make the liquor.</hi>
-            </p>
-            <p>13 <hi>How to know when it is strong enough.</hi>
-            </p>
-            <p>14 <hi>What proportion of water to hony</hi>
-            </p>
-            <p>15 <hi>How and how long the liquor must be boiled.</hi>
-            </p>
-            <p>16 <hi>A receipt of spice to be added</hi>
-            </p>
-            <p>17 <hi>Boiling diminisheth the quantity and increaseth the strength.</hi>
-            </p>
-            <p>18 <hi>How to set it a working.</hi>
-            </p>
-            <p>19 <hi>The proportion of Lobel.</hi>
-            </p>
-            <p>20 <hi>His receipt of spice.</hi>
-            </p>
-            <p>21 <hi>Metheglen.</hi>
-            </p>
-            <p>22 <hi>The Queenes metheglen.</hi>
-            </p>
-            <p>23 <hi>The dressing of the third part for waxe.</hi>
-            </p>
-            <p>24 <hi>first boile it with water.</hi>
-            </p>
-            <p>25 <hi>Then straine it</hi>
-            </p>
-            <p>26 <hi>Next make it into balls.</hi>
-            </p>
-            <p>27 <hi>Last of all melt it and make a cake.</hi>
-            </p>
-            <p>28 <hi>How to know good waxe.</hi>
-            </p>
-            <p>
-                <head>Part. thirde.</head>
-            </p>
-            <p>1 <hi>The properties and vertues of hony.</hi>
-            </p>
-            <p>2 <hi>As wel outwardly as inwardly received.</hi>
-            </p>
-            <p>3 <hi>For whom hony is best</hi>
-            </p>
-            <p>4 <hi>English-hony</hi>
-            </p>
-            <p>5 <hi>Too much hony unholesome</hi>
-            </p>
-            <p>6 <hi>The different operations of raw and boiled hony.</hi>
-            </p>
-            <p>7 <hi>Two waies to clarifie hony.</hi>
-            </p>
-            <p>8 <hi>How to clarifie stone-hony.</hi>
-            </p>
-            <p>9 <hi>The quintessence of hony.</hi>
-            </p>
-            <p>10 <hi>The virtues of it.</hi>
-            </p>
-            <p>11 <hi>The making of it.</hi>
-            </p>
-            <p>12 <hi>The virtue of hony in confections.</hi>
-            </p>
-            <p>
-                <fw type="catch">
-                    <hi>Marmalade</hi>
-                </fw>
-            </p>
-            <p>
-                <pb/>
-            </p>
-            <p>13 <hi>Marmalade made of hony.</hi>
-            </p>
-            <p>14 <hi>Marchpane.</hi>
-            </p>
-            <p>15 <hi>Preserves.</hi>
-            </p>
-            <p>16 <hi>Conserves.</hi>
-            </p>
-            <p>17 <hi>Syrups, Syrup of Rose, Syrup of violets.</hi>
-            </p>
-            <p>18 <hi>Hony to be preferred before sugar.</hi>
-            </p>
-            <p>19 <hi>Hony good in outward medicines.</hi>
-            </p>
-            <p>20 <hi>A salve for an old sore.</hi>
-            </p>
-            <p>21 <hi>Another</hi>
-            </p>
-            <p>22 <hi>The properties and virtues of Meth &amp; Metheglen.</hi>
-            </p>
-            <p>23 <hi>Meth much used of the ancient Brittaines.</hi>
-            </p>
-            <p>24 <hi>Whence Meth has his name.</hi>
-            </p>
-            <p>25 <hi>The properties &amp; virtues of naturall wax.</hi>
-            </p>
-            <p>26 <hi>Artificial wax.</hi>
-            </p>
-            <p>27 <hi>To make white wax</hi>
-            </p>
-            <p>28 <hi>To make red wax</hi>
-            </p>
-            <p>29 <hi>To make greene wax</hi>
-            </p>
-            <p>30 <hi>Oile of wax.</hi>
-            </p>
-            <p>31 <hi>The vertues of it.</hi>
-            </p>
-            <p>32 <hi>The making of oile of waxe.</hi>
-            </p>
-            <p>33 <hi>The vertue of wax in compound medicines.</hi>
-            </p>
-            <p>34 <hi>A cerecloath</hi>
-            </p>
-            <p>35 <hi>A cerecloath to refresh the sinews &amp; muscles.</hi>
-            </p>
-            <p>36 <hi>A cercloath to comfort the stomach.</hi>
-            </p>
-            <p>37 <hi>A salve for a green wound.</hi>
-            </p>
-            <p>38 <hi>Another.</hi>
-            </p>
+                <pb n="[c3v]"/>
+                <div type="contents-chapter" n="10">
+                    <div type="contents-section" n="1">
+                        <head>The Contents of the tenth Chapter. Part. I.</head>
+                        <list><item>1 <hi>The first kind of vindemiation.</hi>
+                        </item>
+                        <item>2 <hi>The best time of killing Bees</hi>
+                        </item>
+                        <item>3 <hi>What stalls are to be taken.</hi>
+                        </item>
+                        <item>4 <hi>The manner of killing Bees.</hi>
+                        </item>
+                        <item>5 <hi>Sundry meanes to kill Bees.</hi>
+                        </item>
+                        <item>6 <hi>How to take the combes when the Bees are dead.</hi>
+                        </item>
+                        <item>7 <hi>Bees not to be killed when some are abroad.</hi>
+                        </item>
+                        <item>8 <hi>The second kind of vindemiation.</hi>
+                        </item>
+                        <item>9 <hi>The time and manner of driving Bees.</hi>
+                        </item>
+                        <item>10 <hi>How to take the combs.</hi>
+                        </item>
+                        <item>11 <hi>The driving of Bees unprofitable.</hi>
+                        </item>
+                        <item>12 <hi>The hony taken is little and naught.</hi>
+                        </item>
+                        <item>13 <hi>And the Bees driven few and poore.</hi>
+                        </item>
+                        <item>14 <hi>An other kinde of driving.</hi>
+                        </item>
+                        <item>15 <hi>At two times.</hi>
+                        </item>
+                        <item>16 <hi>First driving in Libra.</hi>
+                        </item>
+                        <item>17 <hi>The manner of driving in Libra.</hi>
+                        </item>
+                        <item>18 <hi>How to revive those that are chilled in driving.</hi>
+                        </item>
+                        <item>19 <hi>How to helpe those driven Bees that want.</hi>
+                        </item>
+                        <item>20 <hi>Second driving in Pisces.</hi>
+                        </item>
+                        <item>21 <hi>A third kind of vindemiation.</hi>
+                        </item>
+                        <item>22 <hi>Exsecution used at two times.</hi>
+                        </item>
+                        <item>23 <hi>What part to be exsecuted, is uncertaine.</hi>
+                        </item>
+                        <item>24 <hi>Exsecution ancient, but not profitable. Neither first,</hi>
+                        </item>
+                        <item>25 <hi>Nor second.</hi>
+                        </item>
+                        <item>26 <hi>Specially for our Country.</hi>
+                        </item></list>
+                    </div>
+                    <div type="contents-section" n="2">
+                        <head>Part second.</head>
+                        <list><item>1 <hi>The combes to be broken into three parts.</hi>
+                        </item>
+                        <item>2 <hi>The dressing of the first part for hony.</hi>
+                        </item>
+                        <item>3 <hi>The first shoot is fine hony.</hi>
+                        </item>
+                        <item>4 <hi>How to know good hony</hi>
+                        </item>
+                        <item>5 <hi>The best hony in the bottome.</hi>
+                        </item>
+                        <item>6 <hi>Corne-hony the best.</hi>
+                        </item>
+                        <fw type="catch"> 7 <hi>The</hi></fw>
+                            <pb n="[c4r]"/>
+                        <item>7 <hi>The second shoot is course hony.</hi>
+                        </item>
+                        <item>8 <hi>Corne-hony got out by water or fire.</hi>
+                        </item>
+                        <item>9 <hi>Most make but one shoot &amp; so mar all.</hi>
+                        </item>
+                        <item>10 <hi>The working of hony, &amp; how to help it.</hi>
+                        </item>
+                        <item>11 <hi>The dressing of the 2. part for meth.</hi>
+                        </item>
+                        <item>12 <hi>How to make the liquor.</hi>
+                        </item>
+                        <item>13 <hi>How to know when it is strong enough.</hi>
+                        </item>
+                        <item>14 <hi>What proportion of water to hony</hi>
+                        </item>
+                        <item>15 <hi>How and how long the liquor must be boiled.</hi>
+                        </item>
+                        <item>16 <hi>A receipt of spice to be added</hi>
+                        </item>
+                        <item>17 <hi>Boiling diminisheth the quantity and increaseth the strength.</hi>
+                        </item>
+                        <item>18 <hi>How to set it a working.</hi>
+                        </item>
+                        <item>19 <hi>The proportion of Lobel.</hi>
+                        </item>
+                        <item>20 <hi>His receipt of spice.</hi>
+                        </item>
+                        <item>21 <hi>Metheglen.</hi>
+                        </item>
+                        <item>22 <hi>The Queenes metheglen.</hi>
+                        </item>
+                        <item>23 <hi>The dressing of the third part for waxe.</hi>
+                        </item>
+                        <item>24 <hi>first boile it with water.</hi>
+                        </item>
+                        <item>25 <hi>Then straine it</hi>
+                        </item>
+                        <item>26 <hi>Next make it into balls.</hi>
+                        </item>
+                        <item>27 <hi>Last of all melt it and make a cake.</hi>
+                        </item>
+                        <item>28 <hi>How to know good waxe.</hi>
+                        </item></list>
+                    </div>
+                    <div type="contents=section" n="3">
+                        <head>Part. thirde.</head>
+                        <list><item>1 <hi>The properties and vertues of hony.</hi>
+                        </item>
+                        <item>2 <hi>As wel outwardly as inwardly received.</hi>
+                        </item>
+                        <item>3 <hi>For whom hony is best</hi>
+                        </item>
+                        <item>4 <hi>English-hony</hi>
+                        </item>
+                        <item>5 <hi>Too much hony unholesome</hi>
+                        </item>
+                        <item>6 <hi>The different operations of raw and boiled hony.</hi>
+                        </item>
+                        <item>7 <hi>Two waies to clarifie hony.</hi>
+                        </item>
+                        <item>8 <hi>How to clarifie stone-hony.</hi>
+                        </item>
+                        <item>9 <hi>The quintessence of hony.</hi>
+                        </item>
+                        <item>10 <hi>The virtues of it.</hi>
+                        </item>
+                        <item>11 <hi>The making of it.</hi>
+                        </item>
+                        <item>12 <hi>The virtue of hony in confections.</hi>
+                        </item>
+                            <fw type="catch">
+                                <hi>Marmalade</hi>
+                            </fw>
+                            <pb n="[c4v]"/>
+                        <item>13 <hi>Marmalade made of hony.</hi>
+                        </item>
+                        <item>14 <hi>Marchpane.</hi>
+                        </item>
+                        <item>15 <hi>Preserves.</hi>
+                        </item>
+                        <item>16 <hi>Conserves.</hi>
+                        </item>
+                        <item>17 <hi>Syrups, Syrup of Rose, Syrup of violets.</hi>
+                        </item>
+                        <item>18 <hi>Hony to be preferred before sugar.</hi>
+                        </item>
+                        <item>19 <hi>Hony good in outward medicines.</hi>
+                        </item>
+                        <item>20 <hi>A salve for an old sore.</hi>
+                        </item>
+                        <item>21 <hi>Another</hi>
+                        </item>
+                        <item>22 <hi>The properties and virtues of Meth &amp; Metheglen.</hi>
+                        </item>
+                        <item>23 <hi>Meth much used of the ancient Brittaines.</hi>
+                        </item>
+                        <item>24 <hi>Whence Meth has his name.</hi>
+                        </item>
+                        <item>25 <hi>The properties &amp; virtues of naturall wax.</hi>
+                        </item>
+                        <item>26 <hi>Artificial wax.</hi>
+                        </item>
+                        <item>27 <hi>To make white wax</hi>
+                        </item>
+                        <item>28 <hi>To make red wax</hi>
+                        </item>
+                        <item>29 <hi>To make greene wax</hi>
+                        </item>
+                        <item>30 <hi>Oile of wax.</hi>
+                        </item>
+                        <item>31 <hi>The vertues of it.</hi>
+                        </item>
+                        <item>32 <hi>The making of oile of waxe.</hi>
+                        </item>
+                        <item>33 <hi>The vertue of wax in compound medicines.</hi>
+                        </item>
+                        <item>34 <hi>A cerecloath</hi>
+                        </item>
+                        <item>35 <hi>A cerecloath to refresh the sinews &amp; muscles.</hi>
+                        </item>
+                        <item>36 <hi>A cercloath to comfort the stomach.</hi>
+                        </item>
+                        <item>37 <hi>A salve for a green wound.</hi>
+                        </item>
+                        <item>38 <hi>Another.</hi>
+                        </item></list>
+                    </div>
+                </div>
+            </div>
+        </front>
+        <body>
             <p>
                 <pb/>
             </p>
