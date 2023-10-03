@@ -64,42 +64,35 @@
         </revisionDesc>
     </teiHeader>
     <text>
+        <front>
+            <pb n="a1r"/>
+            <titlePage>
+                <docTitle>
+                    <titlePart type="main">THE <lb/>
+                        <hi rend="italic">FEMININE MONARCHIE</hi><lb/>
+                        OR<lb/>
+                            A TREATISE CONCERNING BEES<lb/>  
+                            AND THE DUE ORDERING OF THEM<lb/></titlePart>
+                    <titlePart type="sub">
+                            <hi rend="italic">Wherein</hi><lb/>
+                            The truth found out by experience and diligent<lb/>  
+                            observation, dicovereth the idle and fond<lb/>
+                            conceipts, which many have writ-<lb/>
+                            ten anent this subject<lb/>
+                    </titlePart>
+                </docTitle>
+                <byline>
+                        <hi rend="italic">By</hi><lb/>
+                        CHAR: BUTLER <abbr>Magd.</abbr><lb/>
+                </byline>
+                <fw type="ornament"/>
+                <docImprint>
+                    <hi>At <placeName>Oxford</placeName></hi><lb/>
+                    Printed by <persName>Joseph Barnes</persName>. <date when="1609">1609</date>.
+                </docImprint>
+            </titlePage>
+        </front>
         <body>
-            <head>THE  <p>
-            <hi>FEMININE MONARCHIE</hi>
-            </head>
-            </p>
-            <p>
-            <head>OR  </p>
-            <p>A TREATISE CONCERNING BEES  </p>
-            <p>AND THE DUE ORDERING OF THEM</head>
-            </p>
-            <p>
-            <head>
-                <hi>Wherein</hi>
-            </p>
-            <p>The truth found out by experience and diligent  </p>
-            <p>observation, dicovereth the idle and fond  </p>
-            <p>conceipts, which many have writ-  </p>
-            <p>ten anent this subject</head>
-            </p>
-            <p>
-            <head>
-                <hi>By</hi>
-            </p>
-            <p>CHAR: BUTLER <hi>Magd.</hi>
-            </head>
-            </p>
-            <p>
-            <figure>[Ornament]<figure/>
-            </p>
-            <p>
-                <hi>At Oxford</hi>
-            </p>
-            <p>Printed by Joseph Barnes. 1609.</p>
-            <p>
-                <pb/>
-            </p>
             <p>
                 <head>THE PREFACE</head>
             </p>
