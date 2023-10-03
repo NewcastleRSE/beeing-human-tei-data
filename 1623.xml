@@ -1649,13 +1649,13 @@
                             regibus pariter ac mediocribus æquali suavitate dulcescit: nec solùm
                             voluptati, sed etiam saluti est.</foreign>
                     </quote>
-                    <note type="authorial" subtype="bibliographic" xml:id="ch1bibln1">Ambrosius
-                        Hexamer. l.5.cap.21.</note> And an other saith, <quote>
+                    <note type="authorial" subtype="bibliographic" xml:id="ch1bibln1"><bibl>Ambrosius
+                        Hexamer. l.5.cap.21.</bibl></note> And an other saith, <quote>
                         <foreign xml:lang="la">Mille ad usus vitæ laborem tolerant &amp; opera
                             conficiunt</foreign>
                     </quote>
-                    <note type="authorial" subtype="bibliographic" xml:id="ch1bibln2">Pli
-                        nat.hist.l.11.c.5</note>: as they well know, who know the rare vertues of
+                    <note type="authorial" subtype="bibliographic" xml:id="ch1bibln2"><bibl>Pli
+                        nat.hist.l.11.c.5</bibl></note>: as they well know, who know the rare vertues of
                     Honie and Waxe: a taste whereof I will give you in the last chapter. </p>
                 <fw type="catch"> Secondly,</fw>
                 <pb n="B1v"/>
@@ -1673,8 +1673,8 @@
                     home and abroad they are so admirable, that they may be a patterne unto men,
                     both of the one and of the other. For unlesse they be let by weather, weaknesse,
                     or want of matter to worke on, their labour never ceaseth. <note
-                        type="authorial" subtype="bibliographic" xml:id="ch1bibln3">
-                        Plin.nat.hist.l.11.c.5.</note> In admiration whereof, one saith, <quote>
+                        type="authorial" subtype="bibliographic" xml:id="ch1bibln3"><bibl>
+                            Plin.nat.hist.l.11.c.5.</bibl></note> In admiration whereof, one saith, <quote>
                         <foreign xml:lang="la">Quos efficaciæ industriæque tantæ comparemus nervos?
                             Quas vires? Quos ratione medius fidius viros?</foreign>
                     </quote>
@@ -1696,7 +1696,7 @@
                         type="authorial" subtype="bibliographic" xml:id="ch1bibln5">
                         Arist.hist.anim.lib.9.cap.40.</note>
                     <note type="authorial" subtype="bibliographic" xml:id="ch1bibln6"
-                        >Ambr.Hex.lib.5.ca.21.&amp; Basil.Hexam.Homil.8.</note>
+                        ><bibl>Ambr.Hex.lib.5.ca.21.&amp; Basil.Hexam.Homil.8.</bibl></note>
                     <quote>
                         <foreign xml:lang="la">Solæ in omni genere animantium communem omnibus
                             sobolem habent, unam omnes incolunt mansionem, unius patriæ clauduntur
@@ -6405,7 +6405,7 @@
                 <p xml:id="ch6par36"><note type="authorial" subtype="summary" xml:id="ch6sumn42">42.
                         What the Honie-dew is.</note> What this <foreign xml:lang="la">Mel
                         Roscidum</foreign> should be, <note type="authorial" subtype="bibliographic"
-                        xml:id="ch6bibln36">Nat.hist.li.11.c.12</note>
+                            xml:id="ch6bibln36"><bibl>Nat.hist.li.11.c.12</bibl></note>
                     <persName> Plinie</persName> seemeth much to doubt where he saith <quote>
                         <foreign xml:lang="la">Sive illud sit cœli sudor sive quædam syderum saliva,
                             sive purgantis se aeris succus.</foreign>
@@ -6569,7 +6569,7 @@
                     <note type="authorial" subtype="bibliographic" xml:id="ch6bibln45">
                         <bibl>Hist.an.l.9.c.40.</bibl>
                     </note><note type="authorial" subtype="bibliographic" xml:id="ch6bibln46"
-                        >V.6.7.n.24.</note> and that not without reason, seeing that
+                        ><ref target="ch6ch7bibln24">V.6.7.n.24.</ref></note> and that not without reason, seeing that
                         <term>Ambrosia</term> their daily food is hot and dry: and indeed when the
                     Drones are done away, and breeding is ended, the Bees are nothing so frequent at
                     the watring-places. But <persName>Columella</persName> thinketh the use thereof
@@ -7473,7 +7473,7 @@
                     (3) if you finde any hanging abroad, you may put them into what stall you list;
                     by rearing the stall before a handfull from the stoole, and laying the Bees upon
                     the Table, <ref target="#"> v.</ref> close to the doore. <note type="authorial"
-                        subtype="bibliographic" xml:id="ch7bibln29">V.c.10.p.1.n.15</note></p>
+                        subtype="bibliographic" xml:id="ch7bibln29"><ref target="ch10sumn15">V.c.10.p.1.n.15</ref></note></p>
                 <p xml:id="ch7par57"><note type="authorial" subtype="summary" xml:id="ch7sumn51"
                         >51.Many killed in swarming</note> Lastly, the Bees doe much destroy one
                     another in swarming-time. <ref target="#"> v.c.5.n.
@@ -7574,7 +7574,7 @@
                     the other, see <ref target="#">c. 6. n.56.</ref></p>
                 <quote>
                     <note type="authorial" subtype="bibliographic" xml:id="ch7bibln33"
-                        >Nat.hist.l.11.c.19</note>
+                        ><bibl>Nat.hist.l.11.c.19</bibl></note>
                     <foreign xml:lang="la">Tot hostibus, tot casibus, tam mumificum animal expositum
                         est.</foreign>
                 </quote>
@@ -8173,7 +8173,7 @@
                             <ref target="#"> V.c.3.n.50. </ref>
                         </note> and if their Combes bee once broken, <ref target="#"> v.</ref> delay
                         not their taking. <note type="authorial" subtype="bibliographic"
-                            xml:id="ch10p1bibln7">V.c.7.n.46</note>
+                            xml:id="ch10p1bibln7"><ref target="#ch7bibln46">V.c.7.n.46</ref></note>
                     </p>
                     <p xml:id="ch10p1par6"><note type="authorial" subtype="summary"
                             xml:id="ch10p1sumn4">4 The manner of killing Bees</note> Having made
@@ -8712,7 +8712,7 @@
                             white</note> This good Honie, specially that part which is in the
                         bottom, will in time grow (like unto Corne-honie, <ref target="#">v.</ref>
                         <note type="authorial" subtype="bibliographic" xml:id="ch10p2bibln16"
-                            >V.c.6.n.27&amp;28</note> in the uppermost part of the Combes) hard and
+                            ><ref target="ch6bibln27">V.c.6.n.27&amp;28</ref></note> in the uppermost part of the Combes) hard and
                         white: such as is the Honie of <ref target="#">*</ref>
                         <placeName> Spaine</placeName> and <placeName>Narbona</placeName> in
                             <placeName> France,</placeName> which is accounted the chiefest, and
