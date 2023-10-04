@@ -1282,15 +1282,11 @@
             </div>
         </front>
         <body>
-            <p>
-                <pb/>
-            </p>
-            <p>
-                <head>A TREATISE CONCER-</p>
-                <p>ning BEES, and the due</p>
-                <p>ordering of them.</head>
-            </p>
-            <p>
+            <pb n="A1r"/>
+                <head type="title">A TREATISE CONCER-<lb/>ning BEES, and the due<lb/>ordering of them.</head>
+            <fw type="horizontalRule"/>
+            <div type="chapter" n="1" xml:id="ch1">
+                <p>
                 <head>
                     <hi>Of the nature and properties of Bees, and of their Queene.</hi>
                 </p>
@@ -1901,174 +1897,178 @@
             <figure>[Ornament]<figure/>
             </p>
             <p>
-            <pb/>
-            </p>
-            <p>
-            <head>Of the placing of your stalles, and of their seates</head>
-            </p>
-            <p>
-            <head>CHAP. 2</head>
-            </p>
-            <p>
-            <note>
-            <hi>Of 5 things requisit in a bee garden, the first is that it be night at hand</hi>
-            </note>
-            </p>
-            <p>
-            <hi rend="drop-capital">F</hi>Or your bee-garden first choose some plot nigh your home, that the Bees may be in sight &amp; hearing, because of swarming, fighting, or other sodaine happe, wherein they may need your presente helpe. </p>
-            <p>Your garden of herbes &amp; flowres is fit for the purpose. <hi>Hortis coronamentisque, maxime alvearia &amp; apes conveniunt; res præcipus quæstus compendiique cum favit.</hi>
-            <note>Nat.hist.li.21.c.12.</note>
-            </p>
-            <p>
-            <note>2. <hi>That it be safely fenced from cattaile and windes.</hi>
-            </note> See it be safe, and surely fenced, not online from al cattaile (which if they breake in maie quickelie spoile both the Bees &amp; themselves) and specially from swine (which by rubbing against the hives, and tearing the hacles in a wantonnes are most apt to overthrow the stalles) but also from the violence of the windes, that when the Bees come laden and weary home, they maie settle quietlie. </p>
-            <p>
-            <note>3 <hi>The north and east fences should be high</hi>
-            </note> The north-fence of your garden shoulde be close and high, that the cold winde of that coast, which blowing against the Bees coming </p>
-            <p>
-            <fw type="catch"> home</fw>
-            </p>
-            <p>
-            <pb/>
-            </p>
-            <p>
-            <fw type="header">
-            <hi>Of the placing of your stalls.</hi>
-            </fw>
-            </p>
-            <p>home wearie would throwe downe &amp; kill manie, maie be altogether kept from them. And therefore, if it maie be, set your Bees on the south side of your house; which will not onlie defend them from that unholesome winde, but also by reflection double the heate of the sun shining on the wal, &amp; so comfort them much, speciallie in the winter and spring. </p>
-            <p>The east fence also would be good &amp; high to keepe from the Bees as well the sun, as the winde. For the sun rising doth oftimes till thenceforth, when the aire is colder then they can indure; and the East wind being cold and sharpe is verie unkind for Bees, speciallie in the spring. </p>
-            <p>
-            <note>4 <hi>The south &amp; west fences must be also good but not so high as to hide the sun from the hives.</hi>
-            </note>But in no wise let the place be shadowed from the south-sun: for that doth not onlie dry the hives &amp; relieve the Bees in the winter and spring, but also causeth them to swarme in summer, if it be not extreame hot and drie <hi>v.</hi>
-            <note>
-            <hi>v.c.</hi>5.n.19.</note>
-            </p>
-            <p>Nor yet from the sun setting: because in calme and pleasant weather the Bees wil be in field after the sun is down, even as long as they can there see: and if they returne, they finde it darke at home, manie of them; their sight being but dim, <hi>v</hi>.<note>C.I.n.41</note> fall short or wide: which flying and running to and fro til they be wearie, at length yeeld to the cold dew. </p>
-            <p>Otherwise let the fences be as good against the south and west winds also, as may bee for although they be not so cold and bitter as the </p>
-            <p>
-            <fw type="catch"> other</fw>
-            </p>
-            <p>
-            <pb/>
-            </p>
-            <p>
-            <fw type="header">
-            <hi>and of their seates.</hi>
-            </fw>
-            </p>
-            <p>other: yet are they no lesse violent, and more frequent: so that they also do much harme, specially in the spring. <note>5 <hi>In rough winds Bees need a skreene.</hi>
-            </note> And therefore if at that time of the yeare in rough &amp; boisterous winds you find that the garden-fences doe not sufficiently garde and defend them; then it is good to set up wixed or lined hurdles, or some other skreene betweene them and the weather. For though they can shift abroad in the strongest windes, as a ship that has sea-roome; yet are they easily overthrowne at the hive, as the ship is soone wrecked at the haven. </p>
-            <p>
-            <note>6 <hi>That it be sweet</hi>
-            </note> 3. That the place be sweete, not annoyed with any stinking savour. I have knowne a stall in the spring being sufficiently provided of hony, &amp; having bred yong, to forsake all because of poultry that roosted in a tree over them. <note>Nat.hist.li.II.c.18.</note>
-            <hi>Odere fœdes odores, proloque, fugiut</hi>: And yet the smel of urin doth not offend them; nay they wil be very busy where it is shed. It is thought they use it for physike. <hi>Remedium contra alui concitationem est urina hominum vel boum.</hi>
-            </p>
-            <p>
-            <note>7 <hi>Neither very cold in winter nor over hot in sommer</hi>
-            </note> 4 That it be neither very cold in winter nor very hot in sommer. <note>Hist.l.9.c.40.</note>
-            <hi>Locus æstate non fervidus, hyeme tepidus.</hi> A bare flower is naught in both seasons: because in winter it is over cold and by that meanes quickly chilleth the Bees that light upon it; and in sommer it causeth them to lie forth through excessive heate, <hi>v.</hi>
-            <note>v.c.5.n.19.</note> A grassie ground therefore is best at all times: but let it </p>
-            <p>
-            <fw type="catch"> be</fw>
-            </p>
-            <p>
-            <pb/>
-            </p>
-            <p>
-            <fw type="header">
-            <hi>Of the placing of your stalles.</hi>
-            </fw>
-            </p>
-            <p>be kept notte in summer &amp; dry in winter; <note>8 <hi>A grassie ground is best kept not and drie</hi>
-            </note> for long grasse and weedes about the hive doe but harbour the bees enimies, <hi>v.</hi>
-            <note>v.c.7.n.4&amp;18</note> and hinder both their passage in and out, and their rising againe when they fall short: and water, if it stand, not only maketh the place drie and fowle, but also causeth mustines within, and increaseth the colde without: both which are noisome to the Bees. </p>
-            <p>
-            <note>9 <hi>Beset with trees and bushes</hi>
-            </note> 5 That it be conveninently be set with trees &amp; bushes fit to receive the swarmes, as plumtrees, cheritrees, apletrees, filberds, hazels, thornes, roses, &amp;c. Although, if they be willing to stay, they will not refuse a dead hedge, a lavender border, or the like, or sometimes the bare ground. For want of trees, some have stucke up greene boughs, and the Bees have lighted upon them. </p>
-            <p>
-            <note>10 <hi>Two sorts of seates</hi>
-            </note> The place being thus fitted, the seates are to be provided: which, whether they be stools or benches, must be set a little shelving, that the raine may neither run into the hive, nor stay at the dore. </p>
-            <p>
-            <note>11 <hi>The benches not so good as single stooles.</hi>
-            </note> To set many stals upon a bench (as many use to do) is not best: for that in sommer it may cause the bees to fight, as having easie accesse on foot to each other, and standing so neere that they shall sometime mistake the next hive for their own: &amp; in winter the bench wil be alwaies wet, which looseth the cloome, </p>
-            <p>
-            <fw type="catch"> rotteth</fw>
-            </p>
-            <p>
-            <pb/>
-            </p>
-            <p>
-            <fw type="header">
-            <hi>and of their seates.</hi>
-            </fw>
-            </p>
-            <p>rotteth the bottome of the hive, &amp; offendeth the bees: and the mouse at all times hath free passage from one to an other, without feare.</p>
-            <p>
-            <note>12 <hi>Swarmes may be set on benches</hi>
-            </note> The single stooles therefore are best. And yet it is not amisse to set most of your swarms upon benches, before the old stals: from whence remove them to the stooles, when the stals are taken: and then set up the benches til an other yeere. </p>
-            <p>
-            <note>13 <hi>Wooden stooles better than they of stone.</hi>
-            </note> The best stoooles are of wood: those of stone are too hote in hot weather, &amp; (which is worse) too cold in cold. </p>
-            <p>
-            <note>14 <hi>The size of stooles</hi>
-            </note> For their size they shoulde not bee above halfe an inch or an inch without the hive: save only before where there needeth the space of five or <hi>6.</hi> inches, that the Bees may have roome enough to light upon, specially then, when the sight of a rainy clowd sendeth them thronging home. Three inches of which fore-part next the hive must remaine flat for the porch to stand upon <hi>v.</hi>
-            <note>v.c.3.n.25</note> the rest is to be cut shelving that it may the better avoid the raine. And therfore if the hive be 15. inches over, the stoole shoulde not be abive 16. or 17. inches one way, and 21. or 22. at the most the other way. </p>
-            <p>
-            <note>15 <hi>Which was the stooles should be set</hi>
-            </note> These stooles would be set toward the south or rather southwest, that the hive may somwhat breake the East-winde from the dore, <hi>v.</hi>
-            <note>v.not.3.</note> and that the dore may be lightened by the sun setting when they returne late from field. <hi>v.</hi>
-            <note>v.not.4</note>
-            </p>
-            <p>
-            <fw type="catch"> And</fw>
-            </p>
-            <p>
-            <pb/>
-            </p>
-            <p>
-            <fw type="header">
-            <hi>Of the placing of your stalls.</hi>
-            </fw>
-            </p>
-            <p>
-            <note>16 <hi>How neere to the fence</hi>
-            </note> And if the north fence be a wal, pale, or hedge, let them stande some two feet from the fence that you may go about the hives to see &amp; mend what is amisse: but if it be a house-side, then set them 2. feet without the evesdropping, lest the raine rebounding from the gutter moisten the hives. </p>
-            <p>
-            <note>17 <hi>How neere to each other.</hi>
-            </note> They should also stand in straight rankes or rewes from east to west 4 feet, or at the least 3. feet and a halfe from one another measuring from dore to dore, not only that you may have roome enough to go rounde about every one, but also that the Bees when they come back home in hast, specially when a swarme goeth backe againe, may al fly into their own hive. For if they stand neere togither, at such a time many wil take the next hive for their own, and then they fal togither by the eares, <hi>v.</hi>
-            <note>
-            <hi>V.c.5.n.55</hi>
-            </note> &amp; the nymphs also, when they go first abroad, wil by that occasion the sooner mistake: which if they doe, they die. Neverthelesse if the swarmes upon the benches stand but 2. feet apart, it is enough: but alwaies lay a Rest, <hi>v.</hi>
-            <note>
-            <hi>V.c.n.39</hi>
-            </note> or other sticke of three inches thicke, as marches betweene them to keepe the peace. </p>
-            <p>The ranks should bee placed sixe or seaven feete, or five at the least one before another, that so not only the Bees, but the sun also may come without let to every hive. </p>
-            <p>
-            <note>18 <hi>How neere to the ground.</hi>
-            </note> Also they should not stande above two feet </p>
-            <p>
-            <fw type="catch"> from</fw>
-            </p>
-            <p>
-            <pb/>
-            </p>
-            <p>
-            <fw type="header">
-            <hi>and of their seates.</hi>
-            </fw>
-            </p>
-            <p>from ground because of the winde; nor under one foot for the dampnes of the ground in winter, which would make the hives moist &amp; mustie; and for the heat of the ground in sommer, which in hote and dry wether would make the Bees lie out, and so hinder both their worke &amp; swarminge. <hi>v</hi>
-            <note>V.c.5.n.19.</note>
-            </p>
-            <p>If you have but one ranke, the best highth is one foot and a halfe. If you have many, it is convenient that the most northward rankes stand highest, &amp; the most southward lowest, descending by degrees from two feet to one: as if there be two rews of stooles let the first stand 2. feete from ground, the next 18 inches, and all the benches one foote. If there be three rankes beside the benches, let the second be twenty inches, and the third sixteene. </p>
-            <p>
-            <note>19 <hi>How to bee footed</hi>
-            </note> The stone-stooles must bee footed as they may, the fashion of each place where they are used wil direct you. But the plankes or wooden stooles are either to have fowre feete made of the hart of oak, or of some other lasting wood; or to be fastned to one foote with two wooden pins: which foor let me made of sound timber 5 or 6 inches over; and of that length that it may be set betweene fifteene and eighteene inches in the ground. The fower feet are fittest for the higher stooles, and the single foote for the lower. </p>
-            <p>
-            <fw type="catch">CHAP</fw>
-            </p>
-            <p>
+            </div>
+            <div type="chapter" n="2" xml:id="ch2">
+                <pb/>
+                </p>
+                <p>
+                    <head>Of the placing of your stalles, and of their seates</head>
+                </p>
+                <p>
+                    <head>CHAP. 2</head>
+                </p>
+                <p>
+                    <note>
+                        <hi>Of 5 things requisit in a bee garden, the first is that it be night at hand</hi>
+                    </note>
+                </p>
+                <p>
+                    <hi rend="drop-capital">F</hi>Or your bee-garden first choose some plot nigh your home, that the Bees may be in sight &amp; hearing, because of swarming, fighting, or other sodaine happe, wherein they may need your presente helpe. </p>
+                <p>Your garden of herbes &amp; flowres is fit for the purpose. <hi>Hortis coronamentisque, maxime alvearia &amp; apes conveniunt; res præcipus quæstus compendiique cum favit.</hi>
+                    <note>Nat.hist.li.21.c.12.</note>
+                </p>
+                <p>
+                    <note>2. <hi>That it be safely fenced from cattaile and windes.</hi>
+                    </note> See it be safe, and surely fenced, not online from al cattaile (which if they breake in maie quickelie spoile both the Bees &amp; themselves) and specially from swine (which by rubbing against the hives, and tearing the hacles in a wantonnes are most apt to overthrow the stalles) but also from the violence of the windes, that when the Bees come laden and weary home, they maie settle quietlie. </p>
+                <p>
+                    <note>3 <hi>The north and east fences should be high</hi>
+                    </note> The north-fence of your garden shoulde be close and high, that the cold winde of that coast, which blowing against the Bees coming </p>
+                <p>
+                    <fw type="catch"> home</fw>
+                </p>
+                <p>
+                    <pb/>
+                </p>
+                <p>
+                    <fw type="header">
+                        <hi>Of the placing of your stalls.</hi>
+                    </fw>
+                </p>
+                <p>home wearie would throwe downe &amp; kill manie, maie be altogether kept from them. And therefore, if it maie be, set your Bees on the south side of your house; which will not onlie defend them from that unholesome winde, but also by reflection double the heate of the sun shining on the wal, &amp; so comfort them much, speciallie in the winter and spring. </p>
+                <p>The east fence also would be good &amp; high to keepe from the Bees as well the sun, as the winde. For the sun rising doth oftimes till thenceforth, when the aire is colder then they can indure; and the East wind being cold and sharpe is verie unkind for Bees, speciallie in the spring. </p>
+                <p>
+                    <note>4 <hi>The south &amp; west fences must be also good but not so high as to hide the sun from the hives.</hi>
+                    </note>But in no wise let the place be shadowed from the south-sun: for that doth not onlie dry the hives &amp; relieve the Bees in the winter and spring, but also causeth them to swarme in summer, if it be not extreame hot and drie <hi>v.</hi>
+                    <note>
+                        <hi>v.c.</hi>5.n.19.</note>
+                </p>
+                <p>Nor yet from the sun setting: because in calme and pleasant weather the Bees wil be in field after the sun is down, even as long as they can there see: and if they returne, they finde it darke at home, manie of them; their sight being but dim, <hi>v</hi>.<note>C.I.n.41</note> fall short or wide: which flying and running to and fro til they be wearie, at length yeeld to the cold dew. </p>
+                <p>Otherwise let the fences be as good against the south and west winds also, as may bee for although they be not so cold and bitter as the </p>
+                <p>
+                    <fw type="catch"> other</fw>
+                </p>
+                <p>
+                    <pb/>
+                </p>
+                <p>
+                    <fw type="header">
+                        <hi>and of their seates.</hi>
+                    </fw>
+                </p>
+                <p>other: yet are they no lesse violent, and more frequent: so that they also do much harme, specially in the spring. <note>5 <hi>In rough winds Bees need a skreene.</hi>
+                </note> And therefore if at that time of the yeare in rough &amp; boisterous winds you find that the garden-fences doe not sufficiently garde and defend them; then it is good to set up wixed or lined hurdles, or some other skreene betweene them and the weather. For though they can shift abroad in the strongest windes, as a ship that has sea-roome; yet are they easily overthrowne at the hive, as the ship is soone wrecked at the haven. </p>
+                <p>
+                    <note>6 <hi>That it be sweet</hi>
+                    </note> 3. That the place be sweete, not annoyed with any stinking savour. I have knowne a stall in the spring being sufficiently provided of hony, &amp; having bred yong, to forsake all because of poultry that roosted in a tree over them. <note>Nat.hist.li.II.c.18.</note>
+                    <hi>Odere fœdes odores, proloque, fugiut</hi>: And yet the smel of urin doth not offend them; nay they wil be very busy where it is shed. It is thought they use it for physike. <hi>Remedium contra alui concitationem est urina hominum vel boum.</hi>
+                </p>
+                <p>
+                    <note>7 <hi>Neither very cold in winter nor over hot in sommer</hi>
+                    </note> 4 That it be neither very cold in winter nor very hot in sommer. <note>Hist.l.9.c.40.</note>
+                    <hi>Locus æstate non fervidus, hyeme tepidus.</hi> A bare flower is naught in both seasons: because in winter it is over cold and by that meanes quickly chilleth the Bees that light upon it; and in sommer it causeth them to lie forth through excessive heate, <hi>v.</hi>
+                    <note>v.c.5.n.19.</note> A grassie ground therefore is best at all times: but let it </p>
+                <p>
+                    <fw type="catch"> be</fw>
+                </p>
+                <p>
+                    <pb/>
+                </p>
+                <p>
+                    <fw type="header">
+                        <hi>Of the placing of your stalles.</hi>
+                    </fw>
+                </p>
+                <p>be kept notte in summer &amp; dry in winter; <note>8 <hi>A grassie ground is best kept not and drie</hi>
+                </note> for long grasse and weedes about the hive doe but harbour the bees enimies, <hi>v.</hi>
+                    <note>v.c.7.n.4&amp;18</note> and hinder both their passage in and out, and their rising againe when they fall short: and water, if it stand, not only maketh the place drie and fowle, but also causeth mustines within, and increaseth the colde without: both which are noisome to the Bees. </p>
+                <p>
+                    <note>9 <hi>Beset with trees and bushes</hi>
+                    </note> 5 That it be conveninently be set with trees &amp; bushes fit to receive the swarmes, as plumtrees, cheritrees, apletrees, filberds, hazels, thornes, roses, &amp;c. Although, if they be willing to stay, they will not refuse a dead hedge, a lavender border, or the like, or sometimes the bare ground. For want of trees, some have stucke up greene boughs, and the Bees have lighted upon them. </p>
+                <p>
+                    <note>10 <hi>Two sorts of seates</hi>
+                    </note> The place being thus fitted, the seates are to be provided: which, whether they be stools or benches, must be set a little shelving, that the raine may neither run into the hive, nor stay at the dore. </p>
+                <p>
+                    <note>11 <hi>The benches not so good as single stooles.</hi>
+                    </note> To set many stals upon a bench (as many use to do) is not best: for that in sommer it may cause the bees to fight, as having easie accesse on foot to each other, and standing so neere that they shall sometime mistake the next hive for their own: &amp; in winter the bench wil be alwaies wet, which looseth the cloome, </p>
+                <p>
+                    <fw type="catch"> rotteth</fw>
+                </p>
+                <p>
+                    <pb/>
+                </p>
+                <p>
+                    <fw type="header">
+                        <hi>and of their seates.</hi>
+                    </fw>
+                </p>
+                <p>rotteth the bottome of the hive, &amp; offendeth the bees: and the mouse at all times hath free passage from one to an other, without feare.</p>
+                <p>
+                    <note>12 <hi>Swarmes may be set on benches</hi>
+                    </note> The single stooles therefore are best. And yet it is not amisse to set most of your swarms upon benches, before the old stals: from whence remove them to the stooles, when the stals are taken: and then set up the benches til an other yeere. </p>
+                <p>
+                    <note>13 <hi>Wooden stooles better than they of stone.</hi>
+                    </note> The best stoooles are of wood: those of stone are too hote in hot weather, &amp; (which is worse) too cold in cold. </p>
+                <p>
+                    <note>14 <hi>The size of stooles</hi>
+                    </note> For their size they shoulde not bee above halfe an inch or an inch without the hive: save only before where there needeth the space of five or <hi>6.</hi> inches, that the Bees may have roome enough to light upon, specially then, when the sight of a rainy clowd sendeth them thronging home. Three inches of which fore-part next the hive must remaine flat for the porch to stand upon <hi>v.</hi>
+                    <note>v.c.3.n.25</note> the rest is to be cut shelving that it may the better avoid the raine. And therfore if the hive be 15. inches over, the stoole shoulde not be abive 16. or 17. inches one way, and 21. or 22. at the most the other way. </p>
+                <p>
+                    <note>15 <hi>Which was the stooles should be set</hi>
+                    </note> These stooles would be set toward the south or rather southwest, that the hive may somwhat breake the East-winde from the dore, <hi>v.</hi>
+                    <note>v.not.3.</note> and that the dore may be lightened by the sun setting when they returne late from field. <hi>v.</hi>
+                    <note>v.not.4</note>
+                </p>
+                <p>
+                    <fw type="catch"> And</fw>
+                </p>
+                <p>
+                    <pb/>
+                </p>
+                <p>
+                    <fw type="header">
+                        <hi>Of the placing of your stalls.</hi>
+                    </fw>
+                </p>
+                <p>
+                    <note>16 <hi>How neere to the fence</hi>
+                    </note> And if the north fence be a wal, pale, or hedge, let them stande some two feet from the fence that you may go about the hives to see &amp; mend what is amisse: but if it be a house-side, then set them 2. feet without the evesdropping, lest the raine rebounding from the gutter moisten the hives. </p>
+                <p>
+                    <note>17 <hi>How neere to each other.</hi>
+                    </note> They should also stand in straight rankes or rewes from east to west 4 feet, or at the least 3. feet and a halfe from one another measuring from dore to dore, not only that you may have roome enough to go rounde about every one, but also that the Bees when they come back home in hast, specially when a swarme goeth backe againe, may al fly into their own hive. For if they stand neere togither, at such a time many wil take the next hive for their own, and then they fal togither by the eares, <hi>v.</hi>
+                    <note>
+                        <hi>V.c.5.n.55</hi>
+                    </note> &amp; the nymphs also, when they go first abroad, wil by that occasion the sooner mistake: which if they doe, they die. Neverthelesse if the swarmes upon the benches stand but 2. feet apart, it is enough: but alwaies lay a Rest, <hi>v.</hi>
+                    <note>
+                        <hi>V.c.n.39</hi>
+                    </note> or other sticke of three inches thicke, as marches betweene them to keepe the peace. </p>
+                <p>The ranks should bee placed sixe or seaven feete, or five at the least one before another, that so not only the Bees, but the sun also may come without let to every hive. </p>
+                <p>
+                    <note>18 <hi>How neere to the ground.</hi>
+                    </note> Also they should not stande above two feet </p>
+                <p>
+                    <fw type="catch"> from</fw>
+                </p>
+                <p>
+                    <pb/>
+                </p>
+                <p>
+                    <fw type="header">
+                        <hi>and of their seates.</hi>
+                    </fw>
+                </p>
+                <p>from ground because of the winde; nor under one foot for the dampnes of the ground in winter, which would make the hives moist &amp; mustie; and for the heat of the ground in sommer, which in hote and dry wether would make the Bees lie out, and so hinder both their worke &amp; swarminge. <hi>v</hi>
+                    <note>V.c.5.n.19.</note>
+                </p>
+                <p>If you have but one ranke, the best highth is one foot and a halfe. If you have many, it is convenient that the most northward rankes stand highest, &amp; the most southward lowest, descending by degrees from two feet to one: as if there be two rews of stooles let the first stand 2. feete from ground, the next 18 inches, and all the benches one foote. If there be three rankes beside the benches, let the second be twenty inches, and the third sixteene. </p>
+                <p>
+                    <note>19 <hi>How to bee footed</hi>
+                    </note> The stone-stooles must bee footed as they may, the fashion of each place where they are used wil direct you. But the plankes or wooden stooles are either to have fowre feete made of the hart of oak, or of some other lasting wood; or to be fastned to one foote with two wooden pins: which foor let me made of sound timber 5 or 6 inches over; and of that length that it may be set betweene fifteene and eighteene inches in the ground. The fower feet are fittest for the higher stooles, and the single foote for the lower. </p>
+                <p>
+                    <fw type="catch">CHAP</fw>
+                </p>
+            </div>
+            <div type="chapter" n="3" xml:id="ch3">
+                <p>
             <pb/>
             </p>
             <p>
@@ -2502,7 +2502,9 @@
             </head>
             </fw>
             </p>
-            <p>
+            </div>
+            <div type="chapter" n="4" xml:id="ch4">
+                 <p>
             <hi rend="drop-capital">Ornament</hi>
             </p>
             <p>
@@ -2820,7 +2822,9 @@
             <hi>Of</hi>
             </fw>
             </p>
-            <p>
+            </div>
+            <div type="chapter" n="5" xml:id="ch5">
+                <p>
             <hi rend="drop-capital">Ornament</hi>
             </p>
             <p>
@@ -3308,7 +3312,9 @@
             </note> But if the fowle weather keepe them in the first day, then are they much discouraged: the next day being indifferent, when other Bees worke hard, they will scarce looke out of the dore, not daring to commit their leene &amp; thin bodies to the cold aire. And if they be shut in the second day also, then will they not wagge (though they dy for it) untill the weather bee very pleasant. <note>62 <hi>A swarme may live 5 daies without hony.</hi>
             </note> They may live five daies in the hive without hony: but afterward they begin to string downe hanging at one anothers heels. <hi>Pedibus connexæ ad limina pendent.</hi> Which is a certaine signe of death, if they be not presently relieved with hony and faire weather. <fw type="catch"> of</fw>
             </p>
-            <p>
+            </div>
+            <div type="chapter" n="6" xml:id="ch6">
+                <p>
             <pb/>
             </p>
             <p>
@@ -3779,6 +3785,10 @@
             <hi>Of</hi>
             </fw>
             </p>
+            </div>
+            <div type="chapter" n="7" xml:id="ch7">
+                
+            
             <p>
             <hi rend="drop-capital">Ornament</hi>
             </p>
@@ -4223,645 +4233,656 @@
             <note>59 <hi>The wind causeth many to be drowned.</hi>
             </note> Also where palme-withies, or other trees whereon they gather, do hang over the water; the rough windes throw: downe and drowne a number of them. Wherefore if you have any such trees, in any wise let them not stand. <hi>Tot hostibus tot casibus tam mumificum animal expositum est</hi>
             </p>
-            <p>
-            <hi rend="drop-capital">Ornament</hi>
-            </p>
-            <p>
-            <pb/>
-            </p>
-            <p>
-            <head>
-            <hi>Of the removing of Bees.</hi>
-            </head>
-            </p>
-            <p>
-            <head>CHAP. 8</head>
-            </p>
-            <p>
-            <note>
-            <hi>Remove Bees in a faire day</hi>
-            </note>
-            <hi rend="drop-capital">R</hi>Emove your Bees alwaies in a faire day, and as neer as you can gesse in setled weather. For when they are moved to another place, if it be within their circuit or walke, they will fly to their old standing as soon as they are let goe, and hanker about it sometime six or seaven daies: where if the cold wet catch them, many loose their lives. And if you remove them out of their knowledge, then, as amazed in an uncouth place, they fly about for a while viewing the country, and searching for their old home: when they are weary, they rest wheresoever: and if foule weather come upon them, they are in like danger. </p>
-            <p>
-            <note>2. <hi>Not in sommer</hi>
-            </note> It is not good to remove Bees in sommer for letting their Work in the chiefest hony-gathering. </p>
-            <p>
-            <note>3. <hi>Nor in winter</hi>
-            </note> And it is worse in winter, for loosing the Bees. For if fowle weather fall not, the very stil cold wil kil many, while they are straying abroad: and of those that returne, being not yet <fw type="catch"> ac-</fw>
-            </p>
-            <p>
-            <pb/>
-            </p>
-            <p>
-            <fw type="header">
-            <hi>Of the removing of Bees</hi>
-            </fw>
-            </p>
-            <p>acquainted with the hive-dore, some will fal short, some upon the hive: where, while they rest panting, the cold chilleth them. </p>
-            <p>
-            <note>4 <hi>The fittest time in the autumne &amp; spring.</hi>
-            </note> The fittest time is either in <hi>Libra</hi> &amp; the fore-part of <hi>Scorpio</hi>, that they may thoroughly know their new standing before the weather be too cold; or in <hi>Aries</hi> &amp; the later part of <hi>Pisces,</hi> that they may bee acquainted with it before any great gathering of hony. </p>
-            <p>Neverthelesse if you have Bees in other mens keeping, whose care and skil you mistrust, you were better to remove them in sommer before <hi>Virgo</hi> for feare of robbing; or in winter for feare of mise &amp; other evils, then to hazard al by their ignorance and negligence.</p>
-            <p>
-            <note>5 <hi>Libra the best month in all the yeare.</hi>
-            </note> But if you may choose, remove in <hi>Libra</hi> only, which is simply the best.</p>
-            <p>
-            <note>6<hi>The time of the day and manner of removing.</hi>
-            </note> In the evening, when you meane to remove an howre before sunset prop up the hive from the stoole with three bolsters two or three inches thicke, that the Bees may ascend from the stoole: about halfe an howre after, having prepared an other stoole of the same highth &amp; of sufficient breadth, and having covered it with your mantle so that the middle of the mantle be over the middle of the stoole; move the stall with his stoole, if you may, a little aside, and set this covered stoole in his place: or if it cannot wel be moved, then set the covered stoole close to the old stoole either beside it, or before it <fw type="catch"> this</fw>
-            </p>
-            <p>
-            <pb/>
-            </p>
-            <p>
-            <fw type="header">
-            <hi>Of the removing of Bees.</hi>
-            </fw>
-            </p>
-            <p>This done, lift up the stal from his old stoole &amp; set it upon the new: and then wiping the Bees from the old stoole (if any remaine) with your brush, ether take the stoole away, or cover it with a cloath: and then if your new stoole be only a planke without legs borne up by some other meanes, it is good to set it upon the old. Within a while when the Bees are all in, knit the mantle at the fowre corners over the top of the hive so as the knots may not slip, and presently binde it to the hive about the middle slackly with a smal line, and wrest it fast with a little sticke. And so is the stall ready to be removed.</p>
-            <p>
-            <note>7 <hi>The usuall manner of removing</hi>
-            </note> They use commonly to make no more ado, but after sunset when the Bees are at rest to lift up the stal and set it upon a mantle spreade on the ground, and so to binde them up, leaving the Bees upon the stoole (which in a good stall are not a few) behinde them. <note>8 <hi>Whic is fit for poore stalles.</hi>
-            </note> Which way, for such stals as have al their Bees up in the hive, may serve wel enough.</p>
-            <p>
-            <note>9. <hi>How a good stall is to be carried.</hi>
-            </note> The best way to carry your stal is upon a cowl-staffe betweene two, and rather with the top downward then upward. If it be light, one may carry it in his hand. But howsoever, be sure it hang perpendicularly for feare of breaking the combs, specially if you chance to remove before <hi>Libra</hi>,<note>10 <hi>How a bad</hi>
-            </note> when the waxe is soft and the lower partes of the combs are heavy with <fw type="catch"> yong</fw>
-            </p>
-            <p>
-            <pb/>
-            </p>
-            <p>
-            <fw type="header">
-            <hi>Of the removing of Bees.</hi>
-            </fw>
-            </p>
-            <p>yong Bees. </p>
-            <p>
-            <note>11 <hi>What to doe when they are brought home</hi>
-            </note> When you have brought the stal home, you may let it stande bound, as it is, al night in the house. The morrow when the weather serveth, <hi>v.</hi>
-            <note>
-            <hi>V.c.</hi>5.<hi>n</hi>58</note> set him on his seat: and then having loosed the line, &amp; taken away the mantle, cloome him up presently leaving for three or fowre daies a very narrow entrance for feare of robbing. <note>12 <hi>And what when they are seated.</hi>
-            </note> For their new neighbours wil try not to stoutly resist, until they be acquainted in the place.    </p>
-            <p>
-            <fw type="catch">
-            <hi>Of</hi>
-            </fw>
-            </p>
-            <p>
-            <hi rend="drop-capital">Ornament</hi>
-            </p>
-            <p>
-            <pb/>
-            </p>
-            <p>
-            <head>
-            <hi>Of the feeding of Bees.</hi>
-            </head>
-            </p>
-            <p>
-            <head>CHAP. 9</head>
-            </p>
-            <p>
-            <note>
-            <hi>What Bees are to be fed</hi>
-            </note>
-            <hi rend="drop-capital">B</hi>Lackberrie-swarmes, which by reason of their latwardnesse have not gathered provision enough to bring about the yeere, with third &amp; fourth swarmes, if anie be, which are smale and weake, and others also which through your negligence the robbers have least in the same case, must have some help at your hands if you mean to keep them. As for stockes that have not gotten sufficient stockes, or being once gotten, have lost them againe; there is no hope that they will thrive, &amp; therefore take no paines about them.</p>
-            <p>
-            <note>2 <hi>When they cease to lay up in store.</hi>
-            </note> At <hi>Virgo</hi> the Bees cease to lay up hony: yet all that month they wast not their store, unles they be robbed, but live of their daily labour from hand to mouth. In <hi>Libra</hi> likewise they spend little or nothing.</p>
-            <p>
-            <note>3 <hi>When and how long they spend on the stock.</hi>
-            </note> But in <hi>Scorpio</hi> &amp;<hi>Pisces</hi> their gathering is little in the three months betweene them nothing at all. In <hi>Aries</hi> &amp;<hi>Taurus</hi> the plants yeeld then more plentie of food of both sorts: but then <fw type="catch"> they</fw>
-            <fw type="sig">K</fw>
-            </p>
-            <p>
-            <pb/>
-            </p>
-            <p>
-            <fw type="header">
-            <hi>Of the feeding of Bees.</hi>
-            </fw>
-            </p>
-            <p>
-            <note>Wet, cold, and windy</note> they have more companie to spend it, and unkind weather oftentimes suffereth them not to goe forth for it. So that all this while they live upon the stocke: yea the weaker stals somewhat longer, as being not so wel able to abide the cold aire. And therefore for want of wome store to feed on between whiles at home, I have knowne some die after mid-<hi>gemini</hi>
-            </p>
-            <p>
-            <note>4 <hi>Some are stored for a longer time, some for a lesse.</hi>
-            </note> Of which seaven months some have provision only for six, some but for foure or five: and some also not for so long a time: which you may well joine with the unthriftie stockes. <hi>v.</hi>
-            <note>
-            <hi>v.n.</hi>1</note> for they are not worth the feeding. </p>
-            <p>
-            <note>5 <hi>The usual time of feeding.</hi>
-            </note> When men perceive by the lightnesse of the hives that they wax leene and honiles, they begin to feed, some about <hi>Pisces</hi>, some sooner, some later, giving to each one everie morning, before other Bees are abroad, a spoonful of hony: and so they continue until <hi>Gemini</hi>, if the weather be then warme; otherwise somewhat longer, without intermission. For the Bees will duly looke for it, and languish if they lacke it. </p>
-            <p>
-            <note>6 <hi>The usual maner of feeding</hi>
-            </note> Some give it them in a spoone: but that way many of them besmeare their wings, &amp; if their fellowes licke them not cleane presently before the cold chill them, they die. Others, to avoid this inconvenience, give it to them in a tost, which being warme drinketh in the hony, whence they draw it out with their tonges: but this waie wasteth hony, and doth not al- <fw type="catch"> to-</fw>
-            </p>
-            <p>
-            <pb/>
-            </p>
-            <p>
-            <fw type="header">
-            <hi>Of the feeding of Bees.</hi>
-            </fw>
-            </p>
-            <p>together avoid the former inconvenience. Others have other devises: but indeed the only good waie is to give it them in a piec of acomb <hi>v.</hi>
-            <note>
-            <hi>v.n.</hi>19.</note> If you use to knock the hive, when you put in the hony; they wil come down as duly as sheep to a cal, when they are to be fodered. </p>
-            <p>
-            <note>7 <hi>This late feeding often fayleth</hi>
-            </note> This feeding of Bees is altogether condemned by some as paineful and fruitlesse, saying if you feed them not, they can but die: and soe wil they doe when you have bestowed your labour and cost. <note>8 <hi>Yes it may save such as have some store.</hi>
-            </note> Indeed many of them, that are thus fed, do, miscarrie: but if the hony be good, and duely given them before their store be al spent, for the most part they live: the sommer following they provide sufficiently for winters, &amp; the next they are likely to swarme and grow fat.</p>
-            <p>
-            <note>9 <hi>How to save those that have no store in the spring</hi>
-            </note> But if any of your stalled, at any time in the spring, be so neere driven that they have spent all (which you may know by their lightnesse and lothnesse to come abroad, when others are busie) then because feeding in such a case doth seldome say, if you will save their lives, drive them into a stall that is fat, and they wil agree and cast the soone: the manner of driving see  <hi>c.</hi>10.<hi>part.</hi>1.<hi>n.</hi>20. </p>
-            <p>
-            <note>10 <hi>How to feed Bees without hony.</hi>
-            </note> For want of hony many other things have been used insteed thereof. <hi>Aristotle</hi> mentioneth figges, and all such sweet things. <hi>Apiarii ficus ac reliqua ad genus dulcia cibum apponnut.</hi>
-            <note>Hist.li.9.c.40</note> and <hi>Plin</hi> speaking more particularly commen- <fw type="catch"> deth</fw>
-            <fw type="sig">K3</fw>
-            </p>
-            <p>
-            <pb/>
-            </p>
-            <p>
-            <fw type="header">
-            <hi>Of the feeding of Bees.</hi>
-            </fw>
-            </p>
-            <p>deth raisings, and figges, and teased wool wet with meth, or honi-water, or sweete wine made of raisings, or new wine boiled. <note>Nat hist. l. 21. c. 14.</note>
-            <hi>Si cibus deesse censeatur apibus, vuas passas siccasue, sicosque, tusas ad fores earum posuisse conveniet: item lanas tractas madentes passo aut defrunto, aut aqua mulsa.</hi> And some of our country-men have practised to give them bay salt, and beane flower, and sweet wort. Al which things though they will be spend, yet cannot the Bees be preseved by then without hony. </p>
-            <p>Touching the councell of <hi>Plinie.</hi> this is to bee noted, that if you place their food <hi>ad fores</hi> before the dore, it wil draw strange Bees unto them: whereby the hives of the one, and the goods of the other wilbe endangered: if you place it abroad from your hive, then wil it bee common: and if within upon the stooke, which is best, then must you remove it in time, <hi>v.n.</hi>16 otherside it will be no better for them if it were set <hi>ad fores</hi>. And as for the devise of teased wool, it is a fitter meanes to catch Bees then to seede them: for if the liquor bee above the wool, it will lime the winges of many; if not, many wilbe entangled in the smale haires as birds in a grinne. Cover it therefore with a linnen cloath so that the Bees may not creepe betweene. </p>
-            <p>
-            <note>11 <hi>The best time of feeding.</hi>
-            </note> But it is far better to feed the Bees before they need (that they may save their store which they have shut up in their celles until the spring) namely in <hi>Scorpio,</hi> when otherwise they would <fw type="catch"> begin</fw>
-            </p>
-            <p>
-            <pb/>
-            </p>
-            <p>
-            <fw type="header">
-            <hi>Of the feeding of Bees.</hi>
-            </fw>
-            </p>
-            <p>begin to spend on the stock. And not before, lest it be taken from them; nor yet when it is colder then they can endure, lest in seeking to save their lives you cause their deaths, either within as they are feeding, or without when they are gon for water, which at such time they can not want. </p>
-            <p>
-            <note>12 <hi>The benefit of rathe feeding</hi>
-            </note> Halfe the hony that they spend in the spring, as they are commonly fed, wil serve them at this time, and doe them twise so much goof. For those that have spent their own store, and have litle or nothing leaft at the end of winter, ar so discouraged &amp; so feeble with fasting, that knowing their thin bodies can beare out no cold, they wil not come abroad but when they are fed, and then only to fetch water, unles the weather be exceeding warm &amp; calme: &amp; the more they keepe in, the weaker still they are. But those whose rather feeding hath caused them to spare their store till the spring, will bee as cheerefull as the best: in any reasonable weather they wil abroad, and fetch in that fruitfull <hi>Ambrosia,</hi> which causeth them presently to breed. <hi>v.c.</hi>4.<hi>n.</hi>11.</p>
-            <p>
-            <note>13 <hi>Bees are to be fed according to their want.</hi>
-            </note> The poore swarmes are to be fed much of little, longer or lesse while, according to their want. What each swarme wanteth cannot certainely be knowne: neverthelesse, through some direction together with experience, you <fw type="catch">may</fw>
-            <fw type="sig">K3</fw>
-            </p>
-            <p>
-            <pb/>
-            </p>
-            <p>
-            <fw type="header">
-            <hi>Of the feeding of Bees.</hi>
-            </fw>
-            </p>
-            <p>may guesse neere the matter, alwaies observing this rule, that it is safer to offend in the excesse, then in the defect: although what wanteth at this time, may be supplied in <hi>Pisces</hi> following. <hi>v.n.</hi>17</p>
-            <p>
-            <note>14 <hi>What propotion of hony to the Bees in requisit</hi>
-            </note> Halfe the same quantity of hony that is of Bees wil keepe them al the winter. And therefore a gawne of hony wil serve a pecke of Bees without feeding. And a pottle will serve so many from <hi>Pisces</hi> forward. So that such a stal having but a pottel, needeth an other pottel to be given them in <hi>Scorpio,</hi> to feed them til <hi>Pisces.</hi> And so proportionably of the rest. You may also conjecture, when you have fed them, whether they have sufficient, by comparing them in weight with other swarmes that are well provided. </p>
-            <p>
-            <note>15 <hi>The best manner of feeding.</hi>
-            </note> The best way to feed Bees is this. First take an emptie combe, and powre thereon so much hony as it may receive: if you thinke it be not liquid enough, then either warme it first in a pot over the fire, or else spread it all over the combe with your knife, that it may sinke into the cels: for which purpose live-hony is the best. <note>16 <hi>The fittest time of the day for it is the evening.</hi>
-            </note> The honies combe place upon a treene platter, or holow round bord almost of the compasse of the hive within: &amp; then in a faire calme evening when the heate of the day and of the Bees worke is past, put it upon the stoole, &amp; so set downe the hive over it. Then wil those Bees <fw type="catch"> to</fw>
-            </p>
-            <p>
-            <pb/>
-            </p>
-            <p>
-            <fw type="header">
-            <hi>Of the feeding of Bees.</hi>
-            </fw>
-            </p>
-            <p>to worke a fresh, being out of danger of other Bees which then begin to rest their wearyed limbs. And in the morning they wil at it again betimes with al possible speed, that they may have made cleane worke before the heat of the day: by which time the bordering Bees, being rife abroad, wilbe ready to rifle them if they once resent the hony. And therefore to that time, whether the comb be rid or no, take it away, and close up the hive. The next evening (if the weather sit) dresse it so againe, not ceasing until you have given them so much as will suffice. This hony, when they have first taken their refection, they convey into their voide cels: which because they cannot nowe shut up (as before <hi>Virgo</hi>) for want of waxe, <hi>v.</hi>
-            <note>
-            <hi>v.c.</hi>6.<hi>n.</hi>13</note> they do but halfe-fil. And therfore they first spend of it, reserving that which was more safely laide up until the last. </p>
-            <p>If insteed of this combe thus dressed you wil take a ful honi-combe, then first open the cels with your knife: otherwise they wil not convey it, but wil cover and keepe it as their own combs til the weather wax cold, &amp; then they forsake it and suffer it to spil. </p>
-            <p>
-            <note>17 <hi>The second feeding time</hi>
-            </note> At <hi>Pisces,</hi> if you feare they will lacke, (which you may perceive by their lightnes) doe like-wise, and supply their want: but then it is best to give them their food in a morning, leaste colde and darknes overtake them, whiles greedy hun <fw type="catch">ger</fw>
-            <fw type="sig">K4</fw>
-            </p>
-            <p>
-            <pb/>
-            </p>
-            <p>
-            <fw type="header">
-            <hi>Of the feeding of Bees.</hi>
-            </fw>
-            </p>
-            <p>ger maks them stay to long: &amp; so to let it stand until they have conveied it. For in that month there is no great feare of robbing. </p>
-            <p>
-            <note>18 <hi>The third time of feeding if need be.</hi>
-            </note> And if having omitted to feed them sufficiently at these due times, you thinke it necessary to give them somewhat in <hi>Aries</hi> or after, when the wether is warme againe, let it be done in the evening as before in <hi>Scorpio.</hi>
-            </p>
-            <p>
-            <note>19 <hi>A general caveat.</hi>
-            </note> But alwaies bee sure, assone as the combe is laid, that the hive be made close, with no greater entrance then must needs be: lest the borderers smelling the booty breake in, not without danger to the stal, and death to manie of themselves.</p>
-            <p>
-            <hi rend="drop-capital">Ornament</hi>
-            </p>
-            <p>
-            <pb/>
-            </p>
-            <p>
-            <head>
-            <hi>Part</hi>. 1. </p>
-            <p>
-            <hi>Of the fruit and profit of Bees.</hi>
-            </p>
-            <p>CHAP. 10</head>
-            </p>
-            <p>
-            <hi rend="drop-capital">W</hi>Herein is shewed first the vindemiation or taking of the combes: secondly the trying of the <hi>Waxe &amp; Honie</hi>, with the making of <hi>Meth</hi>:&amp; thirdly the singular vertues of them, for the use and comfort of man. </p>
-            <p>
-            <hi>The first part of this Chapter sheweth the taking of the combes.</hi>
-            </p>
-            <p>
-            <note>1 <hi>The first kind of vindemiation</hi>
-            </note> THE ordinary taking of the combes is by killing the Bees. For which the fittest time is in <hi>Libra</hi>: because til then the combs ar ful of schadons, which deceive the honi-men, making the hive heavier and the hony worse: for the young Bees as well as the stopping corrupt the same. <note>2. <hi>The best time of killing Bees.</hi>
-            </note>
-            <hi>Pulli &amp; rubra sordes sunt mals saporis, &amp; succi suo mella corrumpunt.</hi>
-            <note>Col.l.9 c.15</note> Neither do the Bees any whit diminish the hony in their hives until the end of this month, unlesse much fowle weather keepe them long in before. But if you see them in danger of robbing, rather then loose al, take them sooner, and picke out the grubs as <fw type="catch"> wel</fw>
-            </p>
-            <p>
-            <pb/>
-            </p>
-            <p>
-            <fw type="header">
-            <hi>Of the fruit, &amp; profit of Bees.</hi>
-            </fw>
-            </p>
-            <p>wel as you may. </p>
-            <p>
-            <note>3 <hi>What stalles are to be taken</hi>
-            </note> At this time therefore consider with your selfe what stals you wil kill. Swarmes that maie live, yeerlings, &amp; two-yeerlings, you must keep for store. Those that have stood three or fowre yeeres, and, by reason of their not swarming the last sommer, are ful of Bees, lightly are very fat, and therefore worth the taking: but they are also good for store. But if they have cast twice that sommer (unlesse they were very forwarde &amp; had to beat away their drones by <hi>S. James</hi>-tide) then are they not likely to continue, and thereofre are to be taken. <note>
-            <hi>v.c.</hi>9.<hi>n.</hi>1.</note> Likewise al poore <hi>v.</hi> swarms, unlesse you meane to helpe them. Nether is it safe to trust any, after they have stoode five yeeres. </p>
-            <p>
-            <note>4 <hi>The manner of killing Bees</hi>
-            </note> Having made choice of your stals to be killed, thus must you do. Earely in a morning before any Bees be abroad, or in an evening when al are come in, first digge a hoale in the groun as neere the stoole as may be, about six inches deepe and almost as wide as the hive-skirtes. Then having a litle sticke whose length is more then the semi-diameter of the pit, out a brimstone-match in the one end being slit, and the other end beeing shript sticke into the side of the hoale, so that the match may lande tight in the midle. This match is to be made of a linnen rag, wound in a fashion of a candle, &amp; dipt in melted brinstone, after the maner that <fw type="catch"> maides</fw>
-            </p>
-            <p>
-            <pb/>
-            </p>
-            <p>
-            <fw type="header">
-            <hi>Of the fruit, &amp; profit of Bees.</hi>
-            </fw>
-            </p>
-            <p>maides amke sluts. When you have fired this at the upper end, set over the hive and presentlie shut it so close at the skirtes, that none of the smoake maie come forth. So shal you have them al dead in lesse then a quarter of an howre. </p>
-            <p>
-            <note>5 <hi>Sundrie meanes to kill Bees.</hi>
-            </note> Next unto the brimstone is the smoake of tuchwood, or puckfists used in like manner: but they are neither so quicke nor so sweete. And for a need some smother them with danke straw or hay: but then the hony wil smel of the smoake. And therfore some for want of brimstone, tuch-wood or puckfists, will drowne them in a tub of water: but that hurteth the hony, &amp; doth the hive no good: and besides that, many of the Bees being not quite dead wil sting them that handle the hony. Therefore he that hath Bees must not lacke those forsaid necessaries. </p>
-            <p>
-            <note>6 <hi>How to take the combes when the Bees are dead</hi>
-            </note> The Bees being dead, squat the hive softly against the grounf upon his sides: and then having loosed the ends of al the spleets, you maie easily take out the combes togither. </p>
-            <p>
-            <note>7 <hi>Bees not to be killed when some are abroad.</hi>
-            </note> Some careles honi-men will take your Bees at any time of the daie, when many of them are abroad: the which at their returne finding all gone, presentlie invade the next. And some wil carry away the Bees alive, and either willingly or against their wils let many out: which returning home will likewise trouble the next stals, and having begin sil set others a worke. It behoveth you therefore to prevent this danger, if <fw type="catch"> you</fw>
-            </p>
-            <p>
-            <pb/>
-            </p>
-            <p>
-            <fw type="header">
-            <hi>Of the fruit, &amp; profit of Bees.</hi>
-            </fw>
-            </p>
-            <p>you may. But if at any time you be thus served, the Bees will first come to the stoole where they stood, and settle there: where, if you attend a while, you maie kil most of them.</p>
-            <p>
-            <note>8 <hi>The second kind of vindemiation.</hi>
-            </note> An other way to take the combes is by driving the Bees. The maner of it is this. At Mid-sommer, or wihin two or three daies after, in a faire morning an hower before sunrising, lift the stalle from the stoole, and set it upright &amp; fast on the ground by some staies <note>9 <hi>The time &amp; maner of driving Bees.</hi>
-            </note> with the bottome upward &amp; then quickle set on the emptie hive, having first layed two spleetes upon the full hives bottome, that the emptie hive may stand the faster. And so wrapping a Mantle round about the chinke or meeting of both the hives, and binding it fast with a smale cord above and beneath, that a Bee may not get forth, knock the ful hive round about a good many times, pawsing now and then a little betweene, that the Bees may ascend into the void hive. And when you thinke that most of them are driven up (which wilbe about half an houre after) set the upper hive upon the old stoole, &amp; knock the Bees that remaine, out of the nether hive upon a tablet two or three foot square, set close to the forpart of the old stool, that thence they may walke into their new home. When so you have got forth as many as you can, carry the hive away from place to place every now &amp; <fw type="catch"> then</fw>
-            </p>
-            <p>
-            <pb/>
-            </p>
-            <p>
-            <fw type="header">
-            <hi>Of the fruit, &amp; profit of Bees.</hi>
-            </fw>
-            </p>
-            <p>then knocking the same. </p>
-            <p>
-            <note>10 <hi>How to take the combs</hi>
-            </note> They which in the meane pace fly out, wil go to their fellowes. After a while, either without your garden or in the most remote part thereof, squat the hive a little on every side: and then, having loosed the spleetes ends, take out the combs one after another and wiping the Bees, that yet remaine, from each comb into a kever or other like vessel, send the combes as fast as you have wiped them into the house. And when you have done, set the kever and the emptie hive before the stoole: and in a while the Bees wil goe al together, and gather up cleane that little hony that is leaft. </p>
-            <p>Provided alwaies, before you goe about this busines, that al the stalles in your garden bee first shut up, least they trouble you, and your poore Bees.</p>
-            <p>
-            <note>11 <hi>This driving of Bees unprofitable</hi>
-            </note> This kind of taking is much applauded at the first, because men thinke thereby to save both Bees, and hony. But it ofttimes falleth out with them, as it is in the proverb, <hi>All comet all loose.</hi> For the hony is neither so good, as being not yet in season, and to bee corrupted with the schadons, <hi>v.</hi>
-            <note>
-            <hi>v.n.</hi>2</note> which can hardly bee cleane taken from it: neither so much by almost the one halfe, sith there remaine yet six of seaven weeks of the chiefest honi-gathering <fw type="catch"> And</fw>
-            <note>12 <hi>The hony taken is little &amp; naught</hi>
-            </note>
-            </p>
-            <p>
-            <pb/>
-            </p>
-            <p>
-            <fw type="header">
-            <hi>Of the fruit, &amp; profit of Bees.</hi>
-            </fw>
-            </p>
-            <p>
-            <note>13 <hi>And the Bees driven fewe and poore.</hi>
-            </note> And the Bees, as men forcibly driven from their goods and children, are so discouraged; that they seldome trhive after it: specially those that have swarmed, seeing their company is least but mal, and the after-brood is destroied, which should have supplied the roomes of them that are gone. And as for those that have not cast they might after that time yeeld a swarm, which would be better then the whole stal being driven: and if they did not swarme at al, then would they be so much the bettyer, either to take for hony or to keepe for store. </p>
-            <p>The next yeere, if the stormy colde spring make not much spoile among them (for in such weather the best stals, as most bold, loose most of their company) they wil be sure to cast one very good swarme, if not two, and, when they have done, to yeeld good store of honie. </p>
-            <p>
-            <note>14 <hi>An other kind of driving</hi>
-            </note> This driving of Bees into leere hive being nothing so profitable as it seemeth, I doe rather commend unto you the driving of one stal into another: whereby the fruit of one is taken and the lives of both are saved together. </p>
-            <p>
-            <note>15 <hi>At 2 times</hi>
-            </note> And thus some are to be driven in <hi>Libra,</hi> or rather in <hi>Scorpio,</hi> because then other Bees will not be so busie and some in <hi>Aquarius</hi> or <hi>Pisces,</hi> before they begin to breed. </p>
-            <p>
-            <note>16 <hi>Driving in Libra</hi>
-            </note> In <hi>Libra</hi> such stalles onely are to be driven, as are fit to bee killed. <hi>v.</hi> and that into yeerelings or two-yeerelings, which that yeere have <fw type="catch"> cast</fw>
-            </p>
-            <p>
-            <pb/>
-            </p>
-            <p>
-            <fw type="header">
-            <hi>Of the fruit, &amp; profit of Bees.</hi>
-            </fw>
-            </p>
-            <p>castwise, and therefore have few Bees least in them; or into after-swarms, which have half-filled their hives with combes, and not much more: for if they have wrought them downe within a handfull of the stoole, they are sufficient in themselves. </p>
-            <p>
-            <note>17 <hi>The manner of driving in Libra</hi>
-            </note> The maner of it is this. First move these two stalles, the <hi>stranger</hi> that is driven, and the <hi>receiver,</hi> as neere as may be one to another: &amp; so let them stand together six or seaven daies, til they be well acquainted with their standings: and then, the weather being faire and constant, late in the evening, about ten or eleven a clock, set the stranger fast on the ground with his bottome upward, and the receiver upon him, &amp; binde them close together as in the former driving. And then, by often clapping the stranger between your hands about the space of a quarter of an howre, now and then pausing betweene, having driven most of the Bees to the reciever, and so mingled them altogether, let them so stand til the morning. In the morning, an houre before sun rising if the weather be faire, otherwise you must stay longer, doe the like. This done, set the receiver upon the strangers stoole (but be sure to boister him up with three tilehsardes, that the driven Bees may easily get into the hive on every side) and then knock the stranger downe upon the table set before his stoole and by clapping of the <fw type="catch"> hive</fw>
-            </p>
-            <p>
-            <pb/>
-            </p>
-            <p>
-            <fw type="header">
-            <hi>Of the fruit, &amp; profit of Bees.</hi>
-            </fw>
-            </p>
-            <p>hive presently, get as many of the Bees forth as you can. And forthwith cary the hive away from place to place &amp; every when you be come to a newe place, and there have knocked out some Bees, leave there the stranger, and go directly to the receiver, and a little beyond: for the Bees wil follow you, and thereby the sooner recover the hive. When by this means you have wel nigh rid the stranger of his Bees, begin to take out the combs, proceeding as in the former driving, Assone as you have done, and the Bees begin to be quiet, take away the bolsters, &amp; cloome up the receiver very close, leaving the dore no wider then must needes bee. And when they are quiet, let out your other Bees. </p>
-            <p>
-            <note>18 <hi>How to revive those that are chilled in driving.</hi>
-            </note> If, the wether being not warme, you finde some Bees to be chilled about the hive; fil your warme hands ful of them, and anone they will fly away to their fellowes, <hi>v</hi>
-            <note>
-            <hi>V.c.</hi>7.<hi>n.</hi>58</note> and if happily any of them chance to pricke you (which they will seldome do) your hand wil have the more vertue to revive the rest.</p>
-            <p>
-            <note>19. <hi>How to help those driven Bees that want.</hi>
-            </note> If you thinke there be not sufficient provision for this double stal in that single hive, bestow a ful combe or twaine, <hi>v.</hi>
-            <note>
-            <hi>V.c.</hi>9 <hi>n.</hi>16</note> as neede requireth, of the strangers upon them: and thus wil your Bees delight and prosper in new waxe, which in olde corrupte combes woulde decay: <fw type="catch">In</fw>
-            </p>
-            <p>
-            <pb/>
-            </p>
-            <p>
-            <fw type="header">
-            <hi>Of the fruit, &amp; profit of Bees.</hi>
-            </fw>
-            </p>
-            <p>
-            <note>20 <hi>driving in Pisces</hi>
-            </note> In <hi>Aquarius.</hi> or <hi>Pisces,</hi> when you have poised your hives, those that you find by their lightnes unlikely to endure the spring for lacke of food, you may in like maner drive into such provided stalles, as have fewest Bees: and so wil those receivers be much the better, &amp; cast both the rather and the greater swarmes. And if by chance at any time after, you find a stal decayed, thus may you save them. </p>
-            <p>This driving wil not be so troublesome as the former, because the poore Bees wil easily change their hungry home for a place of plenty. </p>
-            <p>
-            <note>21 <hi>A third kind of vindimiation</hi>
-            </note> Exection or castration is a third kind of taking: which is the cuting out of part of the combes, part of being least for the Bees provision. And this was to bee done at two times in the yeere, <hi>In ortu &amp; occasu virgiliarum</hi>.
-            </p>
-            <p>
-            <note>22 <hi>Exection used at two time.</hi>
-            </note>
-            <hi>Virgiliarum ortus</hi> after <hi>Columel l.9.c.</hi>14. is the 48 day from <hi>æquinoctium vernum</hi>: after <hi>Var.</hi>: the 44. but then you must understand that they accounted the <hi>æquinoctium</hi> to be in the 8 degree of <hi>Aries</hi> (although <hi>Hipparchus</hi>, as Col. saith, had then found it to be the first) With us the comicall rising of <hi>Vergiliæ</hi> or <hi>Pleiades</hi> being 7 starres in the neck of <hi>Taurus</hi>, and in the 24 degree of that signe, is knowne to be in the 3 of May, the 55 day after the true <hi>æquinoctium</hi>: which jumpeth with the account of <hi>Columella.</hi> And <hi>Vergiliarum occasus</hi>, being in the same degree of the opposite signe, is upon the 5. day of Novemb.</p>
-            <p>
-            <note>23 <hi>What part to be exsacted is uncertaine.</hi>
-            </note> But what part is to be taken, &amp; what least, I find it not determined. <hi>Priore messe</hi> (saith Co- <fw type="catch">lumella</fw>
-            <fw type="sig">I</fw>
-            </p>
-            <p>
-            <pb/>
-            </p>
-            <p>
-            <fw type="header">
-            <hi>Of the fruit, &amp; profit of Bees.</hi>
-            </fw>
-            </p>
-            <p>
-            <note>l.9.c.15</note> lumella <hi>dum adhuc rura pastionibus abundant, quinta pars favorum; posteriore cum iam metuitur hyems, tertia relinquinda est.</hi> But <hi>Varro</hi> then requireth for their store two third parts; <hi>ut ne plus tertia pars exacatur mellis, reliquum hyemationi relinquatur</hi>. And <hi>Aristotle</hi> because (as Col. granteth) <hi>hic modus non est in omnibus regionibus certus</hi>, doth not prescribe any certaine part, but leaving it to the discretion of the Bee-master, saith, <hi>Cum favos apiarii eximunt, cibitantum relinquant, quantum per hymem sufficiat: quod si satis sit, servatur examen; sin minus, vel moritur ibidem (sive dicedat hyems abstet) vel de ferat sedem, si serenum nanciscitur.</hi>
-            </p>
-            <p>
-            <note>24 <hi>Exsection ancient, but not profitable. Neither first.</hi>
-            </note> This way of taking, as appeareth, was anciently used in plentifill countries, as Greece, Scicilie, Italie, &amp;c. But the former exsection, to wit in the spring, <hi>Aristotle</hi> no where mentioneth: and surely it must needs doe more harme then good, seeing the hives are then full of schadons which being spild, spilleth their swarming; and the store of hony, which they seeke for, is then wel spent. </p>
-            <p>
-            <note>25 <hi>Nor second</hi>
-            </note> And also in the autumne (which yet is the fitter time) seemeth no lesse unprofitable then troublesome; because the Bees in the spring following, if they lack not hony to live on, yet shal they lacke celles to lay their yong in, wher by their breed wilbe hindered. And at nether time can it be don without much spoil of bees. <fw type="catch"> But</fw>
-            </p>
-            <p>
-            <pb/>
-            </p>
-            <p>
-            <fw type="header">
-            <hi>Of the fruit, &amp; profit of Bees.</hi>
-            </fw>
-            </p>
-            <p>
-            <note>26 <hi>Specially for our Country</hi>
-            </note> But howsoever it faied with them, for our country I take it to bee very unfitting. And therefore I say the lesse of it: referring the curious reader unto the fifteenth Chapter of the ninth booke of <hi>Colum.</hi> and unto <hi>Georgius Pictorious</hi>, who in his fourteenth Chapter writeth thereof at large. </p>
-            <p>
-            <head>
-            <hi>The second part of this Chapter sheweth the trying of hony and wax with the making of methe.</hi>
-            </head>
-            </p>
-            <p>
-            <note>1. <hi>The combes to be broken into 3 parts.</hi>
-            </note> THE combs being taken forth break then presentlie, while they are warme, into three parts: the first cleane hony &amp; wax: the second hony and wax without stopping: the third wax without hony. But that they maie breake right where you would have them, first marke them out with the edge of your knife. </p>
-            <p>
-            <note>2 <hi>The dressing of the first part for hony</hi>
-            </note> The first part breake into a hair-sieve set over a pan, bowle, or other fast vessell that maie hold it (Cooper-ware wil leake though it bee wel jointed) and so let the live-hony, <hi>v.</hi>
-            <note>
-            <hi>v.c.</hi>6<hi>n.</hi>27.</note> run of it owne accord, so long as it wil: when it ceaseth running, breake the pieces and let them run againe: and lastly with a warme sharpe knife cut those pieces at hurt the cels, &amp; so let them run the third time. If the weather bee not warme, set the hony by a fire to helpe the running. </p>
-            <p>
-            <note>3 <hi>The first shoot is fine hony</hi>
-            </note> The first shoot put up apart for fine hony. <hi>In</hi>
-            <fw type="catch">
-            <hi>omni</hi>
-            </fw>
-            <fw type="sig">L2</fw>
-            </p>
-            <p>
-            <pb/>
-            </p>
-            <p>
-            <fw type="header">
-            <hi>Of the fruit, &amp; profit of Bees.</hi>
-            </fw>
-            </p>
-            <p>
-            <note>4 <hi>How to know good hony</hi>
-            </note>
-            <hi>omni melle que p se sluit ut mustum oleunque appellaturque acæton, maxime laudabile est</hi>.<note>Nat. hist. li. II.c.15</note> Which you shall finde to have these properties: cleere, odoriferous, yelow like gold, (unlesse it be virgin hony, for that is more chrystalline) sharpe, sweet, &amp; pleasant to the tast, of a mean consistence betweene thicke &amp; thin, so clammy that beeing taken up upon your fingers ende, in falling it wil not part but hang downe togither like a long string, as that useth to do which is clarified. <note>L.I.de medicam.simp delectu.</note> And such doth <hi>Jacobus Sylvius</hi> describe the best hony to be. <hi>Meloptimus sit purum adeo ut totum perluceat, odorum, flavum, acerrimus, dulcissimumque gustanti &amp; jucundissimum, consistentia nec crassam nec liquidam, sed tam sibi coharens ut continuitatem suam, quasi linea longissima, non intercisum servet, si digito attollitur idem coquendo paucam spumam emittit.</hi>
-            <note>5 <hi>The best hony is the bottome.</hi>
-            </note> But alwaies the best part of this best hony is that which is lowest in the vessell. For as the best oile is in the top, and the best wine in the middle; so the best hony is in the bottome. <note>Hist. an.l.9.c.40.</note>
-            <hi>Mellis exilior pars fluitat, quæ eximenda est: pura vero &amp; valida subsidit.</hi>
-            </p>
-            <p>As among liquours oile excelleth in lightnes &amp; hony in heavines; so in both, that part is Left which excelleth in his excelling qualitie: &amp; wine being of a midling weight is best in the middle. The weight of these three one to another hath this proportion. Oile is not so heavy as wine by one tenth part: for if you fil a measure with wine and divide it into ten parts, the same measure of oile is no heavier then nine of them. And hony is heavier then wine <fw type="catch"> by</fw>
-            </p>
-            <p>
-            <pb/>
-            </p>
-            <p>
-            <fw type="header">
-            <hi>Of the fruit, &amp; profit of Bees.</hi>
-            </fw>
-            </p>
-            <p>by the halfe: for if you fill a measure with wine, the same measure of hony wil weigh that &amp; halfe so much more. <hi>Quoniam oleum le vins est vino parte nonam, mel very gravius vino parte dimidiam; que? mensura capis mellis uncias 15 capis vini uncias 10, &amp; otei 9... Fern meth</hi> 4.c.6. </p>
-            <p>
-            <note>6 <hi>Corn-hony the best.</hi>
-            </note> This hony when it hath wrought &amp; settles, specially that which is in the bottome, will in time grow like unto the corne hony in the uppermost parts of the combes, hard and white: which indeed is the very best, <hi>v.</hi> if it coulde be got forth in his kinde: such as is the honie of <hi>Spaine</hi> and <hi>Narbona</hi>, in <hi>France</hi>, which is counted the chiefest, and compared with that of <hi>Hymettus</hi> &amp;<hi>Hybla</hi>.
-            </p>
-            <p>
-            <hi>Quin Hispani &amp; Narbonenses mistunt albissimum &amp; longem prostanti Timum idenquw prædurum</hi> Sylv <hi>l.</hi>I.<hi>med.</hi>
-            </p>
-            <p>
-            <hi>Nec Attico aut</hi>
-            <fw type="sig">FILL</fw>
-            </p>
-            <p>The rest of the third part pound with a pestle, or crush often with your hands al to pieces, &amp; let it run as before. <note>7 <hi>The second shoot is course hony.</hi>
-            </note> When it hath done, put this second shoot being but course hony, in a pot by it selfe, and that which remaineth in the sieve unto the seconde part of your combs for methe. </p>
-            <p>
-            <note>8 <hi>Corn-hony got out by water or fire</hi>
-            </note> If there be any store of stone-hony, and you be loth to wash it into the meth-liquor, set it in some vessel over a soft fire, and stil keep your hand in the vessel stirring about the honie and wax, and opening the wax piece-meale until the hony and not the wax shalbe molten: and then powre out all into a strainer, &amp; wring out <fw type="catch"> the</fw>
-            <fw type="sig">L3</fw>
-            </p>
-            <p>
-            <pb/>
-            </p>
-            <p>
-            <fw type="header">
-            <hi>Of the fruit, &amp; profit of Bees.</hi>
-            </fw>
-            </p>
-            <p>the hony: But thus this good hony wil become but course: and therefore put it to the second shoot, and that least in the strainer to the second part. Otherwise you may clarifie it wel enough <hi>v.part.</hi>3.<hi>n.</hi>8.</p>
-            <p>
-            <note>9 <hi>Most make but one shoot &amp; so mar al</hi>
-            </note> But the most part, partly for that they are loath to stand long about it, and partly that the live-hony might be a meanes to get out some of the hard or stonehony, doe use al alike. For when they have pounded it altogether, they hang it up in a thin hearen bagge, and thence let it run into a vessel, &amp; some (which is worse) doe violently presse it out. But by these means they shal have no fine &amp; pure raw hony, howsoever afterward they handle it. </p>
-            <p>
-            <note>10 <hi> The working of hony, and how to helpe it.</hi>
-            </note> The hony being put up into  pots, wil in two or three daies worke up a skum, of wax, hony, &amp; drosse together: which, being taken of with a spoone, but to the second part now dissolved in water. In cold weather the hony wil not worke wel without the heate of the fire. The best way is to put it into an oven after the batch is forth, but not before you can abide to hold your hand upon the bottome, for feare of over-heating the hony. </p>
-            <p>
-            <note>11 <hi>The dressing of the 2 parts for meth</hi>
-            </note> The second part of the combes you must first rid of the stopping as neere as you can, cutting of that which is by it selfe, &amp; picking out that which is among the hony: al which refuse, because of the wax that is with it, cast to the <fw type="catch"> third</fw>
-            </p>
-            <p>
-            <pb/>
-            </p>
-            <p>
-            <fw type="header">
-            <hi>Of the fruit, &amp; profit of Bees.</hi>
-            </fw>
-            </p>
-            <p>
-            <note>12 <hi>How to make the liquor</hi>
-            </note> third part. The other, with the remainder of the first part, lay a soake al night in warme faire water (that which commeth from the clowdes is best) the next day al-to-wash it and crush it betweene your hands, and then let it runne through the clen-sieve: that which is leaft, when you have crusht out the liquor, wash it once againe in fresh water: which water adde to the other liquor, and then put the residue unto the third part. And thus shall you loose none of your hony. </p>
-            <p>
-            <note>13 <hi>How to know when it is strong enough</hi>
-            </note> If the liquor be not strong enough to beare an egge the breadth of a two-pence above it, then put so much of your course hony into it, as wil give it that strength: or rather, when it is so strong powre in more water (stirring it with the liquor) until the egge sinke. If any many thinke this to be too smale; it may be amended in the boiling: which (as anon is shewed) wil give it what strength you wil, and cleerenesse withal. After this, stirre it wel together twise a day until the skum of the hony be ready to put to it. <hi>v</hi>
-            <note>
-            <hi>v.n.</hi>10.</note> which when you have added, and have likewise stirred it about the vessel, as soone as it is setled, straine it againe through the clensieve. If you mean to have your meth very strong, you may make it to bear and egge the breadth of a groat. But the ordinarie meth is not to strong as the first. </p>
-            <p>If you would make a greater quantitie, then <fw type="sig">must</fw>
-            <fw type="sig">L4</fw>
-            </p>
-            <p>
-            <pb/>
-            </p>
-            <p>
-            <fw type="header">
-            <hi>Of the fruit, &amp; profit of Bees.</hi>
-            </fw>
-            </p>
-            <p>
-            <note>14 <hi>What proportion of water to honie.</hi>
-            </note> must you adde a proportionable measure of water and hony: namely fowr of that, for one of this. </p>
-            <p>
-            <note>15 <hi>How &amp; how long the liquor must be boiled.</hi>
-            </note> The liquor being thus prepared let seeth an houre or better, even to the wasting of one fourth part, or as long as it wil yeeld any skums which you mjust continually take from it, as fast as it riseth. For if it once sink down againe, the liquor wil not be cleere without putting in some cold liquor to raise it. And therefore it is good to keepe backe some eighth part of the liquor, and, when the rest hath boiled about half an howre and is wel skimmed, to powre in that cold liquor, &amp; to skim it cleane againe. </p>
-            <p>
-            <note>16 <hi>A receipt of spice to bee added.</hi>
-            </note>When it wil cast no more skum, take it from the fire, and set it a cooling. When it is but milke-warme, straine it through a thicke linnen cloth into a tubbe to worke: &amp; put into it a little bag of spice, <hi>viz.</hi> to 8 or 10 gawnes of <hi>meth</hi>, ginger and cloves of each halfe an ounce, cynamom and mace of each 2. drachmes al grosly beaten: and when it is wel soakes, rub the bag in your hand and wrong out the liquor, &amp; then leave the bad in the tubbe, until the <hi>meth</hi> be tunned. At which time do the like. </p>
-            <p>
-            <note>17 <hi>Boiling diminisheth the quantity &amp; increaseth the strength</hi>
-            </note> If after the <hi>meth</hi> is wel skimmed, you would yet have it stronger, boile it longer, to the wasting of a third part, or of the halfe, for the longer you boile it the stronger it wil be. </p>
-            <p>
-            <note>18 <hi>How to set it a working.</hi>
-            </note> To set it a working you may put into it a lit- <fw type="catch">tle</fw>
-            </p>
-            <p>
-            <pb/>
-            </p>
-            <p>
-            <fw type="header">
-            <hi>Of the fruit, &amp; profit of Bees.</hi>
-            </fw>
-            </p>
-            <p>tle barm. And when it hath done working, put it up in a barrel: where the <hi>Meth</hi> in time wil be covered with a mother, which if by jogging the barrel, or by other meanes it be broken, the <hi>meth</hi> will sower; but so will it make excellent vertjoice, and the sooner, if it be set in the sun with the bung open. </p>
-            <p>
-            <note>19 <hi>The proportion of lobel.</hi>
-            </note> The learned Physitian <hi>Mathias de Lobel</hi> requireth this proportion: unto one measure of hony take sixe of water, and let them boile to fowre. <note>20 <hi>His receipt of spice</hi>
-            </note> His receipt of spice is this, cynamon, ginger, peper, graines, cloves, <hi>an a</hi> drachm 2. </p>
-            <p>
-            <note>21 <hi>Metheglen.</hi>
-            </note>
-            <hi>Metheglen</hi> is meth compounded with herbs: so called <hi>quasi Meth e glen</hi>, meth of the vallie, because it is made in the vallies, where it is abundance and variety of holesome herbes. He that listeth to knowe the many and sundrie makings of this holsome drinke, must learne it of the ancient Britaines: who therein do passe all other people. One excellent receipte I will heere set downe: and it is of that, which our renowned Queene of happie memory did so wel like, that shee would every yeere have a vessel of it. </p>
-            <p>
-            <note>22 <hi>The Queens metheglem</hi>
-            </note> First gather a bushell of sweete-byrar leaves, and a bushel of tyme, halfe a bushell of rosemarie, and a pecke of bay-leaves. Seeth al these being well washed in a furnace of faire water: let them boile the space of halfe an howre, or better: and then powre out al the <fw type="catch"> wa-</fw>
-            </p>
-            <p>
-            <pb/>
-            </p>
-            <p>
-            <fw type="header">
-            <hi>Of the fruit, &amp; profit of Bees.</hi>
-            </fw>
-            </p>
-            <p>water and herbes into a vate, and it it stand til it be cold. Then straine the water from the herbs, &amp; take to every <hi type="sup">+</hi>six gallons of water one gal- </p>
-            <p>
-            <hi type="sup">+</hi>If you marvaile that so great a quantitie of water is required, it is partly because of the goodnesse of the hony, which being pure and fine goeth further then ordinary: but chiefly that it may have the longer time to be clarified in boiling, before it come to his strength. And therfore some wil have eight parts of water to one of hony: but then they boile it so much the longer. </p>
-            <p>lon of the finest hony, and put it into the water cold, and labour it together halfe an houe, and let it stand two daies, stirring it well twise or thrise each day. Then take the liquor and boile it anew, and when it doth seeth, skim it as long as there remaineth any drosse. When it is cleer <hi type="sup">a</hi>
-            <note>
-            <hi type="sup">a</hi>The third part at least being wasted</note> put it into the vate as before, &amp; there let it be cooled. You must then have in a readines a kive of new ale or beere: which as soone as you have emotied, soddainly whelme it upside down, and set it up againe, and presently put in the metheglen, &amp; let it stand three daies a working: and then tun it up in barrels, tying at every tep-hole, by a packthread, a little bag of cloves and mace, to the valew of an ounce. </p>
-            <p>It must stand halfe a yeer before it be drink of. </p>
-            <p>
-            <note>23 <hi>The dressing of the third part for wax</hi>
-            </note> The third part, consisting of wax and drosse, set over the fire in a kettle that may easily containe it: and powre into it so much water as wil <fw type="catch"> still</fw>
-            </p>
-            <p>
-            <pb/>
-            </p>
-            <p>
-            <fw type="header">
-            <hi>Of the fruit, &amp; profit of Bees.</hi>
-            </fw>
-            </p>
-            <p>
-            <note>24 <hi>first boile it with water.</hi>
-            </note> fil it up above the waxe, that it may boile without burning: and for this cause, while it is seething with a soft fire, stirre it often. When it hath sod half an howre, take it of in the fire, and presently powre it out of the kettle into a strainer of strong twisted haire, and crush out the liquor with a wrench or presse into a kever of cold water: but the first wet that the bag lyeth on with cold water, that the wax may not stick to it. At the first commeth forth most water, at the last most drosse, in the middle most wax. </p>
-            <p>
-            <note>26 <hi>Next make it into balls.</hi>
-            </note> The wax being colde make it into balls, squeezing out the water with your hands. <note>27 <hi>Last of all melt it and make a cake</hi>
-            </note> When you have this done, breake al the balls into a skillet or kettle: where being melted strain it through a linnen cloath into a bason, and skim it clean with a feather, and so let it stand til it bee cold: and then warme the bottome of the bason, &amp; it wil easily come forth. <note>28 <hi>How to know good waxe</hi>
-            </note> the properties or tokens of good wax are, most yelow, sweet, fat, fast or close, light, pure, and void of all other matter. <note>Syl. demed. simp. delectu.lib 1.</note>
-            <hi>Cera sit flavissima, odorata, pinguis, coacta, levis, pura, &amp; alenæ omni materia carens.</hi>
-            </p>
-            <p>
-            <hi rend="drop-capital">ornament</hi>
-            <fw type="catch">
-            <hi>The</hi>
-            </fw>
-            </p>
-            <p>
+            </div>
+            <div type="chapter" n="8" xml:id="ch8">
+                <p>
+                    <hi rend="drop-capital">Ornament</hi>
+                </p>
+                <p>
+                    <pb/>
+                </p>
+                <p>
+                    <head>
+                        <hi>Of the removing of Bees.</hi>
+                    </head>
+                </p>
+                <p>
+                    <head>CHAP. 8</head>
+                </p>
+                <p>
+                    <note>
+                        <hi>Remove Bees in a faire day</hi>
+                    </note>
+                    <hi rend="drop-capital">R</hi>Emove your Bees alwaies in a faire day, and as neer as you can gesse in setled weather. For when they are moved to another place, if it be within their circuit or walke, they will fly to their old standing as soon as they are let goe, and hanker about it sometime six or seaven daies: where if the cold wet catch them, many loose their lives. And if you remove them out of their knowledge, then, as amazed in an uncouth place, they fly about for a while viewing the country, and searching for their old home: when they are weary, they rest wheresoever: and if foule weather come upon them, they are in like danger. </p>
+                <p>
+                    <note>2. <hi>Not in sommer</hi>
+                    </note> It is not good to remove Bees in sommer for letting their Work in the chiefest hony-gathering. </p>
+                <p>
+                    <note>3. <hi>Nor in winter</hi>
+                    </note> And it is worse in winter, for loosing the Bees. For if fowle weather fall not, the very stil cold wil kil many, while they are straying abroad: and of those that returne, being not yet <fw type="catch"> ac-</fw>
+                </p>
+                <p>
+                    <pb/>
+                </p>
+                <p>
+                    <fw type="header">
+                        <hi>Of the removing of Bees</hi>
+                    </fw>
+                </p>
+                <p>acquainted with the hive-dore, some will fal short, some upon the hive: where, while they rest panting, the cold chilleth them. </p>
+                <p>
+                    <note>4 <hi>The fittest time in the autumne &amp; spring.</hi>
+                    </note> The fittest time is either in <hi>Libra</hi> &amp; the fore-part of <hi>Scorpio</hi>, that they may thoroughly know their new standing before the weather be too cold; or in <hi>Aries</hi> &amp; the later part of <hi>Pisces,</hi> that they may bee acquainted with it before any great gathering of hony. </p>
+                <p>Neverthelesse if you have Bees in other mens keeping, whose care and skil you mistrust, you were better to remove them in sommer before <hi>Virgo</hi> for feare of robbing; or in winter for feare of mise &amp; other evils, then to hazard al by their ignorance and negligence.</p>
+                <p>
+                    <note>5 <hi>Libra the best month in all the yeare.</hi>
+                    </note> But if you may choose, remove in <hi>Libra</hi> only, which is simply the best.</p>
+                <p>
+                    <note>6<hi>The time of the day and manner of removing.</hi>
+                    </note> In the evening, when you meane to remove an howre before sunset prop up the hive from the stoole with three bolsters two or three inches thicke, that the Bees may ascend from the stoole: about halfe an howre after, having prepared an other stoole of the same highth &amp; of sufficient breadth, and having covered it with your mantle so that the middle of the mantle be over the middle of the stoole; move the stall with his stoole, if you may, a little aside, and set this covered stoole in his place: or if it cannot wel be moved, then set the covered stoole close to the old stoole either beside it, or before it <fw type="catch"> this</fw>
+                </p>
+                <p>
+                    <pb/>
+                </p>
+                <p>
+                    <fw type="header">
+                        <hi>Of the removing of Bees.</hi>
+                    </fw>
+                </p>
+                <p>This done, lift up the stal from his old stoole &amp; set it upon the new: and then wiping the Bees from the old stoole (if any remaine) with your brush, ether take the stoole away, or cover it with a cloath: and then if your new stoole be only a planke without legs borne up by some other meanes, it is good to set it upon the old. Within a while when the Bees are all in, knit the mantle at the fowre corners over the top of the hive so as the knots may not slip, and presently binde it to the hive about the middle slackly with a smal line, and wrest it fast with a little sticke. And so is the stall ready to be removed.</p>
+                <p>
+                    <note>7 <hi>The usuall manner of removing</hi>
+                    </note> They use commonly to make no more ado, but after sunset when the Bees are at rest to lift up the stal and set it upon a mantle spreade on the ground, and so to binde them up, leaving the Bees upon the stoole (which in a good stall are not a few) behinde them. <note>8 <hi>Whic is fit for poore stalles.</hi>
+                    </note> Which way, for such stals as have al their Bees up in the hive, may serve wel enough.</p>
+                <p>
+                    <note>9. <hi>How a good stall is to be carried.</hi>
+                    </note> The best way to carry your stal is upon a cowl-staffe betweene two, and rather with the top downward then upward. If it be light, one may carry it in his hand. But howsoever, be sure it hang perpendicularly for feare of breaking the combs, specially if you chance to remove before <hi>Libra</hi>,<note>10 <hi>How a bad</hi>
+                    </note> when the waxe is soft and the lower partes of the combs are heavy with <fw type="catch"> yong</fw>
+                </p>
+                <p>
+                    <pb/>
+                </p>
+                <p>
+                    <fw type="header">
+                        <hi>Of the removing of Bees.</hi>
+                    </fw>
+                </p>
+                <p>yong Bees. </p>
+                <p>
+                    <note>11 <hi>What to doe when they are brought home</hi>
+                    </note> When you have brought the stal home, you may let it stande bound, as it is, al night in the house. The morrow when the weather serveth, <hi>v.</hi>
+                    <note>
+                        <hi>V.c.</hi>5.<hi>n</hi>58</note> set him on his seat: and then having loosed the line, &amp; taken away the mantle, cloome him up presently leaving for three or fowre daies a very narrow entrance for feare of robbing. <note>12 <hi>And what when they are seated.</hi>
+                        </note> For their new neighbours wil try not to stoutly resist, until they be acquainted in the place.    </p>
+                <p>
+                    <fw type="catch">
+                        <hi>Of</hi>
+                    </fw>
+                </p>
+            </div>
+            <div type="chapter" n="9" xml:id="ch9">
+                <p>
+                    <hi rend="drop-capital">Ornament</hi>
+                </p>
+                <p>
+                    <pb/>
+                </p>
+                <p>
+                    <head>
+                        <hi>Of the feeding of Bees.</hi>
+                    </head>
+                </p>
+                <p>
+                    <head>CHAP. 9</head>
+                </p>
+                <p>
+                    <note>
+                        <hi>What Bees are to be fed</hi>
+                    </note>
+                    <hi rend="drop-capital">B</hi>Lackberrie-swarmes, which by reason of their latwardnesse have not gathered provision enough to bring about the yeere, with third &amp; fourth swarmes, if anie be, which are smale and weake, and others also which through your negligence the robbers have least in the same case, must have some help at your hands if you mean to keep them. As for stockes that have not gotten sufficient stockes, or being once gotten, have lost them againe; there is no hope that they will thrive, &amp; therefore take no paines about them.</p>
+                <p>
+                    <note>2 <hi>When they cease to lay up in store.</hi>
+                    </note> At <hi>Virgo</hi> the Bees cease to lay up hony: yet all that month they wast not their store, unles they be robbed, but live of their daily labour from hand to mouth. In <hi>Libra</hi> likewise they spend little or nothing.</p>
+                <p>
+                    <note>3 <hi>When and how long they spend on the stock.</hi>
+                    </note> But in <hi>Scorpio</hi> &amp;<hi>Pisces</hi> their gathering is little in the three months betweene them nothing at all. In <hi>Aries</hi> &amp;<hi>Taurus</hi> the plants yeeld then more plentie of food of both sorts: but then <fw type="catch"> they</fw>
+                    <fw type="sig">K</fw>
+                </p>
+                <p>
+                    <pb/>
+                </p>
+                <p>
+                    <fw type="header">
+                        <hi>Of the feeding of Bees.</hi>
+                    </fw>
+                </p>
+                <p>
+                    <note>Wet, cold, and windy</note> they have more companie to spend it, and unkind weather oftentimes suffereth them not to goe forth for it. So that all this while they live upon the stocke: yea the weaker stals somewhat longer, as being not so wel able to abide the cold aire. And therefore for want of wome store to feed on between whiles at home, I have knowne some die after mid-<hi>gemini</hi>
+                </p>
+                <p>
+                    <note>4 <hi>Some are stored for a longer time, some for a lesse.</hi>
+                    </note> Of which seaven months some have provision only for six, some but for foure or five: and some also not for so long a time: which you may well joine with the unthriftie stockes. <hi>v.</hi>
+                    <note>
+                        <hi>v.n.</hi>1</note> for they are not worth the feeding. </p>
+                <p>
+                    <note>5 <hi>The usual time of feeding.</hi>
+                    </note> When men perceive by the lightnesse of the hives that they wax leene and honiles, they begin to feed, some about <hi>Pisces</hi>, some sooner, some later, giving to each one everie morning, before other Bees are abroad, a spoonful of hony: and so they continue until <hi>Gemini</hi>, if the weather be then warme; otherwise somewhat longer, without intermission. For the Bees will duly looke for it, and languish if they lacke it. </p>
+                <p>
+                    <note>6 <hi>The usual maner of feeding</hi>
+                    </note> Some give it them in a spoone: but that way many of them besmeare their wings, &amp; if their fellowes licke them not cleane presently before the cold chill them, they die. Others, to avoid this inconvenience, give it to them in a tost, which being warme drinketh in the hony, whence they draw it out with their tonges: but this waie wasteth hony, and doth not al- <fw type="catch"> to-</fw>
+                </p>
+                <p>
+                    <pb/>
+                </p>
+                <p>
+                    <fw type="header">
+                        <hi>Of the feeding of Bees.</hi>
+                    </fw>
+                </p>
+                <p>together avoid the former inconvenience. Others have other devises: but indeed the only good waie is to give it them in a piec of acomb <hi>v.</hi>
+                    <note>
+                        <hi>v.n.</hi>19.</note> If you use to knock the hive, when you put in the hony; they wil come down as duly as sheep to a cal, when they are to be fodered. </p>
+                <p>
+                    <note>7 <hi>This late feeding often fayleth</hi>
+                    </note> This feeding of Bees is altogether condemned by some as paineful and fruitlesse, saying if you feed them not, they can but die: and soe wil they doe when you have bestowed your labour and cost. <note>8 <hi>Yes it may save such as have some store.</hi>
+                    </note> Indeed many of them, that are thus fed, do, miscarrie: but if the hony be good, and duely given them before their store be al spent, for the most part they live: the sommer following they provide sufficiently for winters, &amp; the next they are likely to swarme and grow fat.</p>
+                <p>
+                    <note>9 <hi>How to save those that have no store in the spring</hi>
+                    </note> But if any of your stalled, at any time in the spring, be so neere driven that they have spent all (which you may know by their lightnesse and lothnesse to come abroad, when others are busie) then because feeding in such a case doth seldome say, if you will save their lives, drive them into a stall that is fat, and they wil agree and cast the soone: the manner of driving see  <hi>c.</hi>10.<hi>part.</hi>1.<hi>n.</hi>20. </p>
+                <p>
+                    <note>10 <hi>How to feed Bees without hony.</hi>
+                    </note> For want of hony many other things have been used insteed thereof. <hi>Aristotle</hi> mentioneth figges, and all such sweet things. <hi>Apiarii ficus ac reliqua ad genus dulcia cibum apponnut.</hi>
+                    <note>Hist.li.9.c.40</note> and <hi>Plin</hi> speaking more particularly commen- <fw type="catch"> deth</fw>
+                    <fw type="sig">K3</fw>
+                </p>
+                <p>
+                    <pb/>
+                </p>
+                <p>
+                    <fw type="header">
+                        <hi>Of the feeding of Bees.</hi>
+                    </fw>
+                </p>
+                <p>deth raisings, and figges, and teased wool wet with meth, or honi-water, or sweete wine made of raisings, or new wine boiled. <note>Nat hist. l. 21. c. 14.</note>
+                    <hi>Si cibus deesse censeatur apibus, vuas passas siccasue, sicosque, tusas ad fores earum posuisse conveniet: item lanas tractas madentes passo aut defrunto, aut aqua mulsa.</hi> And some of our country-men have practised to give them bay salt, and beane flower, and sweet wort. Al which things though they will be spend, yet cannot the Bees be preseved by then without hony. </p>
+                <p>Touching the councell of <hi>Plinie.</hi> this is to bee noted, that if you place their food <hi>ad fores</hi> before the dore, it wil draw strange Bees unto them: whereby the hives of the one, and the goods of the other wilbe endangered: if you place it abroad from your hive, then wil it bee common: and if within upon the stooke, which is best, then must you remove it in time, <hi>v.n.</hi>16 otherside it will be no better for them if it were set <hi>ad fores</hi>. And as for the devise of teased wool, it is a fitter meanes to catch Bees then to seede them: for if the liquor bee above the wool, it will lime the winges of many; if not, many wilbe entangled in the smale haires as birds in a grinne. Cover it therefore with a linnen cloath so that the Bees may not creepe betweene. </p>
+                <p>
+                    <note>11 <hi>The best time of feeding.</hi>
+                    </note> But it is far better to feed the Bees before they need (that they may save their store which they have shut up in their celles until the spring) namely in <hi>Scorpio,</hi> when otherwise they would <fw type="catch"> begin</fw>
+                </p>
+                <p>
+                    <pb/>
+                </p>
+                <p>
+                    <fw type="header">
+                        <hi>Of the feeding of Bees.</hi>
+                    </fw>
+                </p>
+                <p>begin to spend on the stock. And not before, lest it be taken from them; nor yet when it is colder then they can endure, lest in seeking to save their lives you cause their deaths, either within as they are feeding, or without when they are gon for water, which at such time they can not want. </p>
+                <p>
+                    <note>12 <hi>The benefit of rathe feeding</hi>
+                    </note> Halfe the hony that they spend in the spring, as they are commonly fed, wil serve them at this time, and doe them twise so much goof. For those that have spent their own store, and have litle or nothing leaft at the end of winter, ar so discouraged &amp; so feeble with fasting, that knowing their thin bodies can beare out no cold, they wil not come abroad but when they are fed, and then only to fetch water, unles the weather be exceeding warm &amp; calme: &amp; the more they keepe in, the weaker still they are. But those whose rather feeding hath caused them to spare their store till the spring, will bee as cheerefull as the best: in any reasonable weather they wil abroad, and fetch in that fruitfull <hi>Ambrosia,</hi> which causeth them presently to breed. <hi>v.c.</hi>4.<hi>n.</hi>11.</p>
+                <p>
+                    <note>13 <hi>Bees are to be fed according to their want.</hi>
+                    </note> The poore swarmes are to be fed much of little, longer or lesse while, according to their want. What each swarme wanteth cannot certainely be knowne: neverthelesse, through some direction together with experience, you <fw type="catch">may</fw>
+                    <fw type="sig">K3</fw>
+                </p>
+                <p>
+                    <pb/>
+                </p>
+                <p>
+                    <fw type="header">
+                        <hi>Of the feeding of Bees.</hi>
+                    </fw>
+                </p>
+                <p>may guesse neere the matter, alwaies observing this rule, that it is safer to offend in the excesse, then in the defect: although what wanteth at this time, may be supplied in <hi>Pisces</hi> following. <hi>v.n.</hi>17</p>
+                <p>
+                    <note>14 <hi>What propotion of hony to the Bees in requisit</hi>
+                    </note> Halfe the same quantity of hony that is of Bees wil keepe them al the winter. And therefore a gawne of hony wil serve a pecke of Bees without feeding. And a pottle will serve so many from <hi>Pisces</hi> forward. So that such a stal having but a pottel, needeth an other pottel to be given them in <hi>Scorpio,</hi> to feed them til <hi>Pisces.</hi> And so proportionably of the rest. You may also conjecture, when you have fed them, whether they have sufficient, by comparing them in weight with other swarmes that are well provided. </p>
+                <p>
+                    <note>15 <hi>The best manner of feeding.</hi>
+                    </note> The best way to feed Bees is this. First take an emptie combe, and powre thereon so much hony as it may receive: if you thinke it be not liquid enough, then either warme it first in a pot over the fire, or else spread it all over the combe with your knife, that it may sinke into the cels: for which purpose live-hony is the best. <note>16 <hi>The fittest time of the day for it is the evening.</hi>
+                    </note> The honies combe place upon a treene platter, or holow round bord almost of the compasse of the hive within: &amp; then in a faire calme evening when the heate of the day and of the Bees worke is past, put it upon the stoole, &amp; so set downe the hive over it. Then wil those Bees <fw type="catch"> to</fw>
+                </p>
+                <p>
+                    <pb/>
+                </p>
+                <p>
+                    <fw type="header">
+                        <hi>Of the feeding of Bees.</hi>
+                    </fw>
+                </p>
+                <p>to worke a fresh, being out of danger of other Bees which then begin to rest their wearyed limbs. And in the morning they wil at it again betimes with al possible speed, that they may have made cleane worke before the heat of the day: by which time the bordering Bees, being rife abroad, wilbe ready to rifle them if they once resent the hony. And therefore to that time, whether the comb be rid or no, take it away, and close up the hive. The next evening (if the weather sit) dresse it so againe, not ceasing until you have given them so much as will suffice. This hony, when they have first taken their refection, they convey into their voide cels: which because they cannot nowe shut up (as before <hi>Virgo</hi>) for want of waxe, <hi>v.</hi>
+                    <note>
+                        <hi>v.c.</hi>6.<hi>n.</hi>13</note> they do but halfe-fil. And therfore they first spend of it, reserving that which was more safely laide up until the last. </p>
+                <p>If insteed of this combe thus dressed you wil take a ful honi-combe, then first open the cels with your knife: otherwise they wil not convey it, but wil cover and keepe it as their own combs til the weather wax cold, &amp; then they forsake it and suffer it to spil. </p>
+                <p>
+                    <note>17 <hi>The second feeding time</hi>
+                    </note> At <hi>Pisces,</hi> if you feare they will lacke, (which you may perceive by their lightnes) doe like-wise, and supply their want: but then it is best to give them their food in a morning, leaste colde and darknes overtake them, whiles greedy hun <fw type="catch">ger</fw>
+                    <fw type="sig">K4</fw>
+                </p>
+                <p>
+                    <pb/>
+                </p>
+                <p>
+                    <fw type="header">
+                        <hi>Of the feeding of Bees.</hi>
+                    </fw>
+                </p>
+                <p>ger maks them stay to long: &amp; so to let it stand until they have conveied it. For in that month there is no great feare of robbing. </p>
+                <p>
+                    <note>18 <hi>The third time of feeding if need be.</hi>
+                    </note> And if having omitted to feed them sufficiently at these due times, you thinke it necessary to give them somewhat in <hi>Aries</hi> or after, when the wether is warme againe, let it be done in the evening as before in <hi>Scorpio.</hi>
+                </p>
+                <p>
+                    <note>19 <hi>A general caveat.</hi>
+                    </note> But alwaies bee sure, assone as the combe is laid, that the hive be made close, with no greater entrance then must needs be: lest the borderers smelling the booty breake in, not without danger to the stal, and death to manie of themselves.</p>
+            </div>
+            <div type="chapter" n="10" xml:id="ch10">
+                <div type="section" n="1" xml:id="ch10p1">
+                    <p>
+                        <hi rend="drop-capital">Ornament</hi>
+                    </p>
+                    <p>
+                        <pb/>
+                    </p>
+                    <p>
+                        <head>
+                            <hi>Part</hi>. 1. </p>
+                    <p>
+                        <hi>Of the fruit and profit of Bees.</hi>
+                    </p>
+                    <p>CHAP. 10</head>
+                    </p>
+                    <p>
+                        <hi rend="drop-capital">W</hi>Herein is shewed first the vindemiation or taking of the combes: secondly the trying of the <hi>Waxe &amp; Honie</hi>, with the making of <hi>Meth</hi>:&amp; thirdly the singular vertues of them, for the use and comfort of man. </p>
+                    <p>
+                        <hi>The first part of this Chapter sheweth the taking of the combes.</hi>
+                    </p>
+                    <p>
+                        <note>1 <hi>The first kind of vindemiation</hi>
+                        </note> THE ordinary taking of the combes is by killing the Bees. For which the fittest time is in <hi>Libra</hi>: because til then the combs ar ful of schadons, which deceive the honi-men, making the hive heavier and the hony worse: for the young Bees as well as the stopping corrupt the same. <note>2. <hi>The best time of killing Bees.</hi>
+                        </note>
+                        <hi>Pulli &amp; rubra sordes sunt mals saporis, &amp; succi suo mella corrumpunt.</hi>
+                        <note>Col.l.9 c.15</note> Neither do the Bees any whit diminish the hony in their hives until the end of this month, unlesse much fowle weather keepe them long in before. But if you see them in danger of robbing, rather then loose al, take them sooner, and picke out the grubs as <fw type="catch"> wel</fw>
+                    </p>
+                    <p>
+                        <pb/>
+                    </p>
+                    <p>
+                        <fw type="header">
+                            <hi>Of the fruit, &amp; profit of Bees.</hi>
+                        </fw>
+                    </p>
+                    <p>wel as you may. </p>
+                    <p>
+                        <note>3 <hi>What stalles are to be taken</hi>
+                        </note> At this time therefore consider with your selfe what stals you wil kill. Swarmes that maie live, yeerlings, &amp; two-yeerlings, you must keep for store. Those that have stood three or fowre yeeres, and, by reason of their not swarming the last sommer, are ful of Bees, lightly are very fat, and therefore worth the taking: but they are also good for store. But if they have cast twice that sommer (unlesse they were very forwarde &amp; had to beat away their drones by <hi>S. James</hi>-tide) then are they not likely to continue, and thereofre are to be taken. <note>
+                            <hi>v.c.</hi>9.<hi>n.</hi>1.</note> Likewise al poore <hi>v.</hi> swarms, unlesse you meane to helpe them. Nether is it safe to trust any, after they have stoode five yeeres. </p>
+                    <p>
+                        <note>4 <hi>The manner of killing Bees</hi>
+                        </note> Having made choice of your stals to be killed, thus must you do. Earely in a morning before any Bees be abroad, or in an evening when al are come in, first digge a hoale in the groun as neere the stoole as may be, about six inches deepe and almost as wide as the hive-skirtes. Then having a litle sticke whose length is more then the semi-diameter of the pit, out a brimstone-match in the one end being slit, and the other end beeing shript sticke into the side of the hoale, so that the match may lande tight in the midle. This match is to be made of a linnen rag, wound in a fashion of a candle, &amp; dipt in melted brinstone, after the maner that <fw type="catch"> maides</fw>
+                    </p>
+                    <p>
+                        <pb/>
+                    </p>
+                    <p>
+                        <fw type="header">
+                            <hi>Of the fruit, &amp; profit of Bees.</hi>
+                        </fw>
+                    </p>
+                    <p>maides amke sluts. When you have fired this at the upper end, set over the hive and presentlie shut it so close at the skirtes, that none of the smoake maie come forth. So shal you have them al dead in lesse then a quarter of an howre. </p>
+                    <p>
+                        <note>5 <hi>Sundrie meanes to kill Bees.</hi>
+                        </note> Next unto the brimstone is the smoake of tuchwood, or puckfists used in like manner: but they are neither so quicke nor so sweete. And for a need some smother them with danke straw or hay: but then the hony wil smel of the smoake. And therfore some for want of brimstone, tuch-wood or puckfists, will drowne them in a tub of water: but that hurteth the hony, &amp; doth the hive no good: and besides that, many of the Bees being not quite dead wil sting them that handle the hony. Therefore he that hath Bees must not lacke those forsaid necessaries. </p>
+                    <p>
+                        <note>6 <hi>How to take the combes when the Bees are dead</hi>
+                        </note> The Bees being dead, squat the hive softly against the grounf upon his sides: and then having loosed the ends of al the spleets, you maie easily take out the combes togither. </p>
+                    <p>
+                        <note>7 <hi>Bees not to be killed when some are abroad.</hi>
+                        </note> Some careles honi-men will take your Bees at any time of the daie, when many of them are abroad: the which at their returne finding all gone, presentlie invade the next. And some wil carry away the Bees alive, and either willingly or against their wils let many out: which returning home will likewise trouble the next stals, and having begin sil set others a worke. It behoveth you therefore to prevent this danger, if <fw type="catch"> you</fw>
+                    </p>
+                    <p>
+                        <pb/>
+                    </p>
+                    <p>
+                        <fw type="header">
+                            <hi>Of the fruit, &amp; profit of Bees.</hi>
+                        </fw>
+                    </p>
+                    <p>you may. But if at any time you be thus served, the Bees will first come to the stoole where they stood, and settle there: where, if you attend a while, you maie kil most of them.</p>
+                    <p>
+                        <note>8 <hi>The second kind of vindemiation.</hi>
+                        </note> An other way to take the combes is by driving the Bees. The maner of it is this. At Mid-sommer, or wihin two or three daies after, in a faire morning an hower before sunrising, lift the stalle from the stoole, and set it upright &amp; fast on the ground by some staies <note>9 <hi>The time &amp; maner of driving Bees.</hi>
+                        </note> with the bottome upward &amp; then quickle set on the emptie hive, having first layed two spleetes upon the full hives bottome, that the emptie hive may stand the faster. And so wrapping a Mantle round about the chinke or meeting of both the hives, and binding it fast with a smale cord above and beneath, that a Bee may not get forth, knock the ful hive round about a good many times, pawsing now and then a little betweene, that the Bees may ascend into the void hive. And when you thinke that most of them are driven up (which wilbe about half an houre after) set the upper hive upon the old stoole, &amp; knock the Bees that remaine, out of the nether hive upon a tablet two or three foot square, set close to the forpart of the old stool, that thence they may walke into their new home. When so you have got forth as many as you can, carry the hive away from place to place every now &amp; <fw type="catch"> then</fw>
+                    </p>
+                    <p>
+                        <pb/>
+                    </p>
+                    <p>
+                        <fw type="header">
+                            <hi>Of the fruit, &amp; profit of Bees.</hi>
+                        </fw>
+                    </p>
+                    <p>then knocking the same. </p>
+                    <p>
+                        <note>10 <hi>How to take the combs</hi>
+                        </note> They which in the meane pace fly out, wil go to their fellowes. After a while, either without your garden or in the most remote part thereof, squat the hive a little on every side: and then, having loosed the spleetes ends, take out the combs one after another and wiping the Bees, that yet remaine, from each comb into a kever or other like vessel, send the combes as fast as you have wiped them into the house. And when you have done, set the kever and the emptie hive before the stoole: and in a while the Bees wil goe al together, and gather up cleane that little hony that is leaft. </p>
+                    <p>Provided alwaies, before you goe about this busines, that al the stalles in your garden bee first shut up, least they trouble you, and your poore Bees.</p>
+                    <p>
+                        <note>11 <hi>This driving of Bees unprofitable</hi>
+                        </note> This kind of taking is much applauded at the first, because men thinke thereby to save both Bees, and hony. But it ofttimes falleth out with them, as it is in the proverb, <hi>All comet all loose.</hi> For the hony is neither so good, as being not yet in season, and to bee corrupted with the schadons, <hi>v.</hi>
+                        <note>
+                            <hi>v.n.</hi>2</note> which can hardly bee cleane taken from it: neither so much by almost the one halfe, sith there remaine yet six of seaven weeks of the chiefest honi-gathering <fw type="catch"> And</fw>
+                        <note>12 <hi>The hony taken is little &amp; naught</hi>
+                        </note>
+                    </p>
+                    <p>
+                        <pb/>
+                    </p>
+                    <p>
+                        <fw type="header">
+                            <hi>Of the fruit, &amp; profit of Bees.</hi>
+                        </fw>
+                    </p>
+                    <p>
+                        <note>13 <hi>And the Bees driven fewe and poore.</hi>
+                        </note> And the Bees, as men forcibly driven from their goods and children, are so discouraged; that they seldome trhive after it: specially those that have swarmed, seeing their company is least but mal, and the after-brood is destroied, which should have supplied the roomes of them that are gone. And as for those that have not cast they might after that time yeeld a swarm, which would be better then the whole stal being driven: and if they did not swarme at al, then would they be so much the bettyer, either to take for hony or to keepe for store. </p>
+                    <p>The next yeere, if the stormy colde spring make not much spoile among them (for in such weather the best stals, as most bold, loose most of their company) they wil be sure to cast one very good swarme, if not two, and, when they have done, to yeeld good store of honie. </p>
+                    <p>
+                        <note>14 <hi>An other kind of driving</hi>
+                        </note> This driving of Bees into leere hive being nothing so profitable as it seemeth, I doe rather commend unto you the driving of one stal into another: whereby the fruit of one is taken and the lives of both are saved together. </p>
+                    <p>
+                        <note>15 <hi>At 2 times</hi>
+                        </note> And thus some are to be driven in <hi>Libra,</hi> or rather in <hi>Scorpio,</hi> because then other Bees will not be so busie and some in <hi>Aquarius</hi> or <hi>Pisces,</hi> before they begin to breed. </p>
+                    <p>
+                        <note>16 <hi>Driving in Libra</hi>
+                        </note> In <hi>Libra</hi> such stalles onely are to be driven, as are fit to bee killed. <hi>v.</hi> and that into yeerelings or two-yeerelings, which that yeere have <fw type="catch"> cast</fw>
+                    </p>
+                    <p>
+                        <pb/>
+                    </p>
+                    <p>
+                        <fw type="header">
+                            <hi>Of the fruit, &amp; profit of Bees.</hi>
+                        </fw>
+                    </p>
+                    <p>castwise, and therefore have few Bees least in them; or into after-swarms, which have half-filled their hives with combes, and not much more: for if they have wrought them downe within a handfull of the stoole, they are sufficient in themselves. </p>
+                    <p>
+                        <note>17 <hi>The manner of driving in Libra</hi>
+                        </note> The maner of it is this. First move these two stalles, the <hi>stranger</hi> that is driven, and the <hi>receiver,</hi> as neere as may be one to another: &amp; so let them stand together six or seaven daies, til they be well acquainted with their standings: and then, the weather being faire and constant, late in the evening, about ten or eleven a clock, set the stranger fast on the ground with his bottome upward, and the receiver upon him, &amp; binde them close together as in the former driving. And then, by often clapping the stranger between your hands about the space of a quarter of an howre, now and then pausing betweene, having driven most of the Bees to the reciever, and so mingled them altogether, let them so stand til the morning. In the morning, an houre before sun rising if the weather be faire, otherwise you must stay longer, doe the like. This done, set the receiver upon the strangers stoole (but be sure to boister him up with three tilehsardes, that the driven Bees may easily get into the hive on every side) and then knock the stranger downe upon the table set before his stoole and by clapping of the <fw type="catch"> hive</fw>
+                    </p>
+                    <p>
+                        <pb/>
+                    </p>
+                    <p>
+                        <fw type="header">
+                            <hi>Of the fruit, &amp; profit of Bees.</hi>
+                        </fw>
+                    </p>
+                    <p>hive presently, get as many of the Bees forth as you can. And forthwith cary the hive away from place to place &amp; every when you be come to a newe place, and there have knocked out some Bees, leave there the stranger, and go directly to the receiver, and a little beyond: for the Bees wil follow you, and thereby the sooner recover the hive. When by this means you have wel nigh rid the stranger of his Bees, begin to take out the combs, proceeding as in the former driving, Assone as you have done, and the Bees begin to be quiet, take away the bolsters, &amp; cloome up the receiver very close, leaving the dore no wider then must needes bee. And when they are quiet, let out your other Bees. </p>
+                    <p>
+                        <note>18 <hi>How to revive those that are chilled in driving.</hi>
+                        </note> If, the wether being not warme, you finde some Bees to be chilled about the hive; fil your warme hands ful of them, and anone they will fly away to their fellowes, <hi>v</hi>
+                        <note>
+                            <hi>V.c.</hi>7.<hi>n.</hi>58</note> and if happily any of them chance to pricke you (which they will seldome do) your hand wil have the more vertue to revive the rest.</p>
+                    <p>
+                        <note>19. <hi>How to help those driven Bees that want.</hi>
+                        </note> If you thinke there be not sufficient provision for this double stal in that single hive, bestow a ful combe or twaine, <hi>v.</hi>
+                        <note>
+                            <hi>V.c.</hi>9 <hi>n.</hi>16</note> as neede requireth, of the strangers upon them: and thus wil your Bees delight and prosper in new waxe, which in olde corrupte combes woulde decay: <fw type="catch">In</fw>
+                    </p>
+                    <p>
+                        <pb/>
+                    </p>
+                    <p>
+                        <fw type="header">
+                            <hi>Of the fruit, &amp; profit of Bees.</hi>
+                        </fw>
+                    </p>
+                    <p>
+                        <note>20 <hi>driving in Pisces</hi>
+                        </note> In <hi>Aquarius.</hi> or <hi>Pisces,</hi> when you have poised your hives, those that you find by their lightnes unlikely to endure the spring for lacke of food, you may in like maner drive into such provided stalles, as have fewest Bees: and so wil those receivers be much the better, &amp; cast both the rather and the greater swarmes. And if by chance at any time after, you find a stal decayed, thus may you save them. </p>
+                    <p>This driving wil not be so troublesome as the former, because the poore Bees wil easily change their hungry home for a place of plenty. </p>
+                    <p>
+                        <note>21 <hi>A third kind of vindimiation</hi>
+                        </note> Exection or castration is a third kind of taking: which is the cuting out of part of the combes, part of being least for the Bees provision. And this was to bee done at two times in the yeere, <hi>In ortu &amp; occasu virgiliarum</hi>.
+                    </p>
+                    <p>
+                        <note>22 <hi>Exection used at two time.</hi>
+                        </note>
+                        <hi>Virgiliarum ortus</hi> after <hi>Columel l.9.c.</hi>14. is the 48 day from <hi>æquinoctium vernum</hi>: after <hi>Var.</hi>: the 44. but then you must understand that they accounted the <hi>æquinoctium</hi> to be in the 8 degree of <hi>Aries</hi> (although <hi>Hipparchus</hi>, as Col. saith, had then found it to be the first) With us the comicall rising of <hi>Vergiliæ</hi> or <hi>Pleiades</hi> being 7 starres in the neck of <hi>Taurus</hi>, and in the 24 degree of that signe, is knowne to be in the 3 of May, the 55 day after the true <hi>æquinoctium</hi>: which jumpeth with the account of <hi>Columella.</hi> And <hi>Vergiliarum occasus</hi>, being in the same degree of the opposite signe, is upon the 5. day of Novemb.</p>
+                    <p>
+                        <note>23 <hi>What part to be exsacted is uncertaine.</hi>
+                        </note> But what part is to be taken, &amp; what least, I find it not determined. <hi>Priore messe</hi> (saith Co- <fw type="catch">lumella</fw>
+                        <fw type="sig">I</fw>
+                    </p>
+                    <p>
+                        <pb/>
+                    </p>
+                    <p>
+                        <fw type="header">
+                            <hi>Of the fruit, &amp; profit of Bees.</hi>
+                        </fw>
+                    </p>
+                    <p>
+                        <note>l.9.c.15</note> lumella <hi>dum adhuc rura pastionibus abundant, quinta pars favorum; posteriore cum iam metuitur hyems, tertia relinquinda est.</hi> But <hi>Varro</hi> then requireth for their store two third parts; <hi>ut ne plus tertia pars exacatur mellis, reliquum hyemationi relinquatur</hi>. And <hi>Aristotle</hi> because (as Col. granteth) <hi>hic modus non est in omnibus regionibus certus</hi>, doth not prescribe any certaine part, but leaving it to the discretion of the Bee-master, saith, <hi>Cum favos apiarii eximunt, cibitantum relinquant, quantum per hymem sufficiat: quod si satis sit, servatur examen; sin minus, vel moritur ibidem (sive dicedat hyems abstet) vel de ferat sedem, si serenum nanciscitur.</hi>
+                    </p>
+                    <p>
+                        <note>24 <hi>Exsection ancient, but not profitable. Neither first.</hi>
+                        </note> This way of taking, as appeareth, was anciently used in plentifill countries, as Greece, Scicilie, Italie, &amp;c. But the former exsection, to wit in the spring, <hi>Aristotle</hi> no where mentioneth: and surely it must needs doe more harme then good, seeing the hives are then full of schadons which being spild, spilleth their swarming; and the store of hony, which they seeke for, is then wel spent. </p>
+                    <p>
+                        <note>25 <hi>Nor second</hi>
+                        </note> And also in the autumne (which yet is the fitter time) seemeth no lesse unprofitable then troublesome; because the Bees in the spring following, if they lack not hony to live on, yet shal they lacke celles to lay their yong in, wher by their breed wilbe hindered. And at nether time can it be don without much spoil of bees. <fw type="catch"> But</fw>
+                    </p>
+                    <p>
+                        <pb/>
+                    </p>
+                    <p>
+                        <fw type="header">
+                            <hi>Of the fruit, &amp; profit of Bees.</hi>
+                        </fw>
+                    </p>
+                    <p>
+                        <note>26 <hi>Specially for our Country</hi>
+                        </note> But howsoever it faied with them, for our country I take it to bee very unfitting. And therefore I say the lesse of it: referring the curious reader unto the fifteenth Chapter of the ninth booke of <hi>Colum.</hi> and unto <hi>Georgius Pictorious</hi>, who in his fourteenth Chapter writeth thereof at large. </p>
+                    <p>
+                </div>
+                <div type="section" n="2" xml:id="ch10p2">
+                    <head>
+                        <hi>The second part of this Chapter sheweth the trying of hony and wax with the making of methe.</hi>
+                    </head>
+                    </p>
+                    <p>
+                        <note>1. <hi>The combes to be broken into 3 parts.</hi>
+                        </note> THE combs being taken forth break then presentlie, while they are warme, into three parts: the first cleane hony &amp; wax: the second hony and wax without stopping: the third wax without hony. But that they maie breake right where you would have them, first marke them out with the edge of your knife. </p>
+                    <p>
+                        <note>2 <hi>The dressing of the first part for hony</hi>
+                        </note> The first part breake into a hair-sieve set over a pan, bowle, or other fast vessell that maie hold it (Cooper-ware wil leake though it bee wel jointed) and so let the live-hony, <hi>v.</hi>
+                        <note>
+                            <hi>v.c.</hi>6<hi>n.</hi>27.</note> run of it owne accord, so long as it wil: when it ceaseth running, breake the pieces and let them run againe: and lastly with a warme sharpe knife cut those pieces at hurt the cels, &amp; so let them run the third time. If the weather bee not warme, set the hony by a fire to helpe the running. </p>
+                    <p>
+                        <note>3 <hi>The first shoot is fine hony</hi>
+                        </note> The first shoot put up apart for fine hony. <hi>In</hi>
+                        <fw type="catch">
+                            <hi>omni</hi>
+                        </fw>
+                        <fw type="sig">L2</fw>
+                    </p>
+                    <p>
+                        <pb/>
+                    </p>
+                    <p>
+                        <fw type="header">
+                            <hi>Of the fruit, &amp; profit of Bees.</hi>
+                        </fw>
+                    </p>
+                    <p>
+                        <note>4 <hi>How to know good hony</hi>
+                        </note>
+                        <hi>omni melle que p se sluit ut mustum oleunque appellaturque acæton, maxime laudabile est</hi>.<note>Nat. hist. li. II.c.15</note> Which you shall finde to have these properties: cleere, odoriferous, yelow like gold, (unlesse it be virgin hony, for that is more chrystalline) sharpe, sweet, &amp; pleasant to the tast, of a mean consistence betweene thicke &amp; thin, so clammy that beeing taken up upon your fingers ende, in falling it wil not part but hang downe togither like a long string, as that useth to do which is clarified. <note>L.I.de medicam.simp delectu.</note> And such doth <hi>Jacobus Sylvius</hi> describe the best hony to be. <hi>Meloptimus sit purum adeo ut totum perluceat, odorum, flavum, acerrimus, dulcissimumque gustanti &amp; jucundissimum, consistentia nec crassam nec liquidam, sed tam sibi coharens ut continuitatem suam, quasi linea longissima, non intercisum servet, si digito attollitur idem coquendo paucam spumam emittit.</hi>
+                        <note>5 <hi>The best hony is the bottome.</hi>
+                        </note> But alwaies the best part of this best hony is that which is lowest in the vessell. For as the best oile is in the top, and the best wine in the middle; so the best hony is in the bottome. <note>Hist. an.l.9.c.40.</note>
+                        <hi>Mellis exilior pars fluitat, quæ eximenda est: pura vero &amp; valida subsidit.</hi>
+                    </p>
+                    <p>As among liquours oile excelleth in lightnes &amp; hony in heavines; so in both, that part is Left which excelleth in his excelling qualitie: &amp; wine being of a midling weight is best in the middle. The weight of these three one to another hath this proportion. Oile is not so heavy as wine by one tenth part: for if you fil a measure with wine and divide it into ten parts, the same measure of oile is no heavier then nine of them. And hony is heavier then wine <fw type="catch"> by</fw>
+                    </p>
+                    <p>
+                        <pb/>
+                    </p>
+                    <p>
+                        <fw type="header">
+                            <hi>Of the fruit, &amp; profit of Bees.</hi>
+                        </fw>
+                    </p>
+                    <p>by the halfe: for if you fill a measure with wine, the same measure of hony wil weigh that &amp; halfe so much more. <hi>Quoniam oleum le vins est vino parte nonam, mel very gravius vino parte dimidiam; que? mensura capis mellis uncias 15 capis vini uncias 10, &amp; otei 9... Fern meth</hi> 4.c.6. </p>
+                    <p>
+                        <note>6 <hi>Corn-hony the best.</hi>
+                        </note> This hony when it hath wrought &amp; settles, specially that which is in the bottome, will in time grow like unto the corne hony in the uppermost parts of the combes, hard and white: which indeed is the very best, <hi>v.</hi> if it coulde be got forth in his kinde: such as is the honie of <hi>Spaine</hi> and <hi>Narbona</hi>, in <hi>France</hi>, which is counted the chiefest, and compared with that of <hi>Hymettus</hi> &amp;<hi>Hybla</hi>.
+                    </p>
+                    <p>
+                        <hi>Quin Hispani &amp; Narbonenses mistunt albissimum &amp; longem prostanti Timum idenquw prædurum</hi> Sylv <hi>l.</hi>I.<hi>med.</hi>
+                    </p>
+                    <p>
+                        <hi>Nec Attico aut</hi>
+                        <fw type="sig">FILL</fw>
+                    </p>
+                    <p>The rest of the third part pound with a pestle, or crush often with your hands al to pieces, &amp; let it run as before. <note>7 <hi>The second shoot is course hony.</hi>
+                    </note> When it hath done, put this second shoot being but course hony, in a pot by it selfe, and that which remaineth in the sieve unto the seconde part of your combs for methe. </p>
+                    <p>
+                        <note>8 <hi>Corn-hony got out by water or fire</hi>
+                        </note> If there be any store of stone-hony, and you be loth to wash it into the meth-liquor, set it in some vessel over a soft fire, and stil keep your hand in the vessel stirring about the honie and wax, and opening the wax piece-meale until the hony and not the wax shalbe molten: and then powre out all into a strainer, &amp; wring out <fw type="catch"> the</fw>
+                        <fw type="sig">L3</fw>
+                    </p>
+                    <p>
+                        <pb/>
+                    </p>
+                    <p>
+                        <fw type="header">
+                            <hi>Of the fruit, &amp; profit of Bees.</hi>
+                        </fw>
+                    </p>
+                    <p>the hony: But thus this good hony wil become but course: and therefore put it to the second shoot, and that least in the strainer to the second part. Otherwise you may clarifie it wel enough <hi>v.part.</hi>3.<hi>n.</hi>8.</p>
+                    <p>
+                        <note>9 <hi>Most make but one shoot &amp; so mar al</hi>
+                        </note> But the most part, partly for that they are loath to stand long about it, and partly that the live-hony might be a meanes to get out some of the hard or stonehony, doe use al alike. For when they have pounded it altogether, they hang it up in a thin hearen bagge, and thence let it run into a vessel, &amp; some (which is worse) doe violently presse it out. But by these means they shal have no fine &amp; pure raw hony, howsoever afterward they handle it. </p>
+                    <p>
+                        <note>10 <hi> The working of hony, and how to helpe it.</hi>
+                        </note> The hony being put up into  pots, wil in two or three daies worke up a skum, of wax, hony, &amp; drosse together: which, being taken of with a spoone, but to the second part now dissolved in water. In cold weather the hony wil not worke wel without the heate of the fire. The best way is to put it into an oven after the batch is forth, but not before you can abide to hold your hand upon the bottome, for feare of over-heating the hony. </p>
+                    <p>
+                        <note>11 <hi>The dressing of the 2 parts for meth</hi>
+                        </note> The second part of the combes you must first rid of the stopping as neere as you can, cutting of that which is by it selfe, &amp; picking out that which is among the hony: al which refuse, because of the wax that is with it, cast to the <fw type="catch"> third</fw>
+                    </p>
+                    <p>
+                        <pb/>
+                    </p>
+                    <p>
+                        <fw type="header">
+                            <hi>Of the fruit, &amp; profit of Bees.</hi>
+                        </fw>
+                    </p>
+                    <p>
+                        <note>12 <hi>How to make the liquor</hi>
+                        </note> third part. The other, with the remainder of the first part, lay a soake al night in warme faire water (that which commeth from the clowdes is best) the next day al-to-wash it and crush it betweene your hands, and then let it runne through the clen-sieve: that which is leaft, when you have crusht out the liquor, wash it once againe in fresh water: which water adde to the other liquor, and then put the residue unto the third part. And thus shall you loose none of your hony. </p>
+                    <p>
+                        <note>13 <hi>How to know when it is strong enough</hi>
+                        </note> If the liquor be not strong enough to beare an egge the breadth of a two-pence above it, then put so much of your course hony into it, as wil give it that strength: or rather, when it is so strong powre in more water (stirring it with the liquor) until the egge sinke. If any many thinke this to be too smale; it may be amended in the boiling: which (as anon is shewed) wil give it what strength you wil, and cleerenesse withal. After this, stirre it wel together twise a day until the skum of the hony be ready to put to it. <hi>v</hi>
+                        <note>
+                            <hi>v.n.</hi>10.</note> which when you have added, and have likewise stirred it about the vessel, as soone as it is setled, straine it againe through the clensieve. If you mean to have your meth very strong, you may make it to bear and egge the breadth of a groat. But the ordinarie meth is not to strong as the first. </p>
+                    <p>If you would make a greater quantitie, then <fw type="sig">must</fw>
+                        <fw type="sig">L4</fw>
+                    </p>
+                    <p>
+                        <pb/>
+                    </p>
+                    <p>
+                        <fw type="header">
+                            <hi>Of the fruit, &amp; profit of Bees.</hi>
+                        </fw>
+                    </p>
+                    <p>
+                        <note>14 <hi>What proportion of water to honie.</hi>
+                        </note> must you adde a proportionable measure of water and hony: namely fowr of that, for one of this. </p>
+                    <p>
+                        <note>15 <hi>How &amp; how long the liquor must be boiled.</hi>
+                        </note> The liquor being thus prepared let seeth an houre or better, even to the wasting of one fourth part, or as long as it wil yeeld any skums which you mjust continually take from it, as fast as it riseth. For if it once sink down againe, the liquor wil not be cleere without putting in some cold liquor to raise it. And therefore it is good to keepe backe some eighth part of the liquor, and, when the rest hath boiled about half an howre and is wel skimmed, to powre in that cold liquor, &amp; to skim it cleane againe. </p>
+                    <p>
+                        <note>16 <hi>A receipt of spice to bee added.</hi>
+                        </note>When it wil cast no more skum, take it from the fire, and set it a cooling. When it is but milke-warme, straine it through a thicke linnen cloth into a tubbe to worke: &amp; put into it a little bag of spice, <hi>viz.</hi> to 8 or 10 gawnes of <hi>meth</hi>, ginger and cloves of each halfe an ounce, cynamom and mace of each 2. drachmes al grosly beaten: and when it is wel soakes, rub the bag in your hand and wrong out the liquor, &amp; then leave the bad in the tubbe, until the <hi>meth</hi> be tunned. At which time do the like. </p>
+                    <p>
+                        <note>17 <hi>Boiling diminisheth the quantity &amp; increaseth the strength</hi>
+                        </note> If after the <hi>meth</hi> is wel skimmed, you would yet have it stronger, boile it longer, to the wasting of a third part, or of the halfe, for the longer you boile it the stronger it wil be. </p>
+                    <p>
+                        <note>18 <hi>How to set it a working.</hi>
+                        </note> To set it a working you may put into it a lit- <fw type="catch">tle</fw>
+                    </p>
+                    <p>
+                        <pb/>
+                    </p>
+                    <p>
+                        <fw type="header">
+                            <hi>Of the fruit, &amp; profit of Bees.</hi>
+                        </fw>
+                    </p>
+                    <p>tle barm. And when it hath done working, put it up in a barrel: where the <hi>Meth</hi> in time wil be covered with a mother, which if by jogging the barrel, or by other meanes it be broken, the <hi>meth</hi> will sower; but so will it make excellent vertjoice, and the sooner, if it be set in the sun with the bung open. </p>
+                    <p>
+                        <note>19 <hi>The proportion of lobel.</hi>
+                        </note> The learned Physitian <hi>Mathias de Lobel</hi> requireth this proportion: unto one measure of hony take sixe of water, and let them boile to fowre. <note>20 <hi>His receipt of spice</hi>
+                        </note> His receipt of spice is this, cynamon, ginger, peper, graines, cloves, <hi>an a</hi> drachm 2. </p>
+                    <p>
+                        <note>21 <hi>Metheglen.</hi>
+                        </note>
+                        <hi>Metheglen</hi> is meth compounded with herbs: so called <hi>quasi Meth e glen</hi>, meth of the vallie, because it is made in the vallies, where it is abundance and variety of holesome herbes. He that listeth to knowe the many and sundrie makings of this holsome drinke, must learne it of the ancient Britaines: who therein do passe all other people. One excellent receipte I will heere set downe: and it is of that, which our renowned Queene of happie memory did so wel like, that shee would every yeere have a vessel of it. </p>
+                    <p>
+                        <note>22 <hi>The Queens metheglem</hi>
+                        </note> First gather a bushell of sweete-byrar leaves, and a bushel of tyme, halfe a bushell of rosemarie, and a pecke of bay-leaves. Seeth al these being well washed in a furnace of faire water: let them boile the space of halfe an howre, or better: and then powre out al the <fw type="catch"> wa-</fw>
+                    </p>
+                    <p>
+                        <pb/>
+                    </p>
+                    <p>
+                        <fw type="header">
+                            <hi>Of the fruit, &amp; profit of Bees.</hi>
+                        </fw>
+                    </p>
+                    <p>water and herbes into a vate, and it it stand til it be cold. Then straine the water from the herbs, &amp; take to every <hi type="sup">+</hi>six gallons of water one gal- </p>
+                    <p>
+                        <hi type="sup">+</hi>If you marvaile that so great a quantitie of water is required, it is partly because of the goodnesse of the hony, which being pure and fine goeth further then ordinary: but chiefly that it may have the longer time to be clarified in boiling, before it come to his strength. And therfore some wil have eight parts of water to one of hony: but then they boile it so much the longer. </p>
+                    <p>lon of the finest hony, and put it into the water cold, and labour it together halfe an houe, and let it stand two daies, stirring it well twise or thrise each day. Then take the liquor and boile it anew, and when it doth seeth, skim it as long as there remaineth any drosse. When it is cleer <hi type="sup">a</hi>
+                        <note>
+                            <hi type="sup">a</hi>The third part at least being wasted</note> put it into the vate as before, &amp; there let it be cooled. You must then have in a readines a kive of new ale or beere: which as soone as you have emotied, soddainly whelme it upside down, and set it up againe, and presently put in the metheglen, &amp; let it stand three daies a working: and then tun it up in barrels, tying at every tep-hole, by a packthread, a little bag of cloves and mace, to the valew of an ounce. </p>
+                    <p>It must stand halfe a yeer before it be drink of. </p>
+                    <p>
+                        <note>23 <hi>The dressing of the third part for wax</hi>
+                        </note> The third part, consisting of wax and drosse, set over the fire in a kettle that may easily containe it: and powre into it so much water as wil <fw type="catch"> still</fw>
+                    </p>
+                    <p>
+                        <pb/>
+                    </p>
+                    <p>
+                        <fw type="header">
+                            <hi>Of the fruit, &amp; profit of Bees.</hi>
+                        </fw>
+                    </p>
+                    <p>
+                        <note>24 <hi>first boile it with water.</hi>
+                        </note> fil it up above the waxe, that it may boile without burning: and for this cause, while it is seething with a soft fire, stirre it often. When it hath sod half an howre, take it of in the fire, and presently powre it out of the kettle into a strainer of strong twisted haire, and crush out the liquor with a wrench or presse into a kever of cold water: but the first wet that the bag lyeth on with cold water, that the wax may not stick to it. At the first commeth forth most water, at the last most drosse, in the middle most wax. </p>
+                    <p>
+                        <note>26 <hi>Next make it into balls.</hi>
+                        </note> The wax being colde make it into balls, squeezing out the water with your hands. <note>27 <hi>Last of all melt it and make a cake</hi>
+                        </note> When you have this done, breake al the balls into a skillet or kettle: where being melted strain it through a linnen cloath into a bason, and skim it clean with a feather, and so let it stand til it bee cold: and then warme the bottome of the bason, &amp; it wil easily come forth. <note>28 <hi>How to know good waxe</hi>
+                        </note> the properties or tokens of good wax are, most yelow, sweet, fat, fast or close, light, pure, and void of all other matter. <note>Syl. demed. simp. delectu.lib 1.</note>
+                        <hi>Cera sit flavissima, odorata, pinguis, coacta, levis, pura, &amp; alenæ omni materia carens.</hi>
+                    </p>
+                    <p>
+                        <hi rend="drop-capital">ornament</hi>
+                        <fw type="catch">
+                            <hi>The</hi>
+                        </fw>
+                    </p>
+                </div>
+                <div type="section" n="3" xml:id="ch10p3">
+                    <p>
             <pb/>
             </p>
             <p>
@@ -5262,7 +5283,9 @@
             <hi>Thus</hi>
             </fw>
             </p>
-            <p>
+                </div>
+                <div type="section" n="4" xml:id="ch10conc">
+                    <p>
             <pb/>
             </p>
             <p>
@@ -5587,27 +5610,24 @@
             <p>
             <pb/>
             </p>
-            <p>
+                </div>
+            </div>
+        </body>
+        <back>
             <fw type="header">
-            <hi>The conclusion to the Reader.</hi>
+                <hi>The conclusion to the Reader.</hi>
             </fw>
             </p>
+            <trailer>
+                <quote><hi>clesiarum consulentes, pro hæreditaria portione omni populo præceperunt decimas fructuum suorum sacris locis prastare.</hi></quote>
+                <hi rend="finis">FINIS.</hi>
+            </trailer>
             <p>
-            <hi>clesiarum consulentes, pro hæreditaria portione omni populo præceperunt decimas fructuum suorum sacris locis prastare.</hi>
+                <hi rend="drop-capital">Ornament</hi>
             </p>
             <p>
-            <head>
-            <hi>FINIS.</hi>
-            </head>
+                <hi rend="drop-capital">Ornament</hi>
             </p>
-            <p>
-            <hi rend="drop-capital">Ornament</hi>
-            </p>
-            <p>
-            <hi rend="drop-capital">Ornament</hi>
-            </p>
-            <p>
-            </p>
-        </body>
+        </back>
     </text>
 </TEI>
