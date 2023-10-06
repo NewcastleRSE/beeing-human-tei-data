@@ -62,7 +62,7 @@
         </fileDesc>
         <revisionDesc>
             <listChange>
-                <change who="TSG" when="2023-10-02">Initial encoding</change>
+                <change who="TSG" when="2023-10-05">Finished draft encoding</change>
             </listChange>
         </revisionDesc>
     </teiHeader>
@@ -1841,11 +1841,10 @@
                         </fw> to kill one, the Bees presently perceiving it by the strong smel of
                         the humour (for shee smelleth then as if shee had stunge, <hi>v.n.</hi>17.)
                         wil be so eger upon revenge, that by no meanes can they bee pacified untill
-                        they have the field.</note>
-                </p>
-                <p>selfe when they seeme to threaten thee; but softlye moving thy hand, before thy
-                    face gently put them by, and lastlie thou must be (6) no stranger unto them.
-                        <note>34 <hi>The six properties of a Bee-master</hi>
+                        they have the field.</note> selfe when they seeme to threaten thee; but
+                    softlye moving thy hand, before thy face gently put them by, and lastlie thou
+                    must be (6) no stranger unto them. <note>34 <hi>The six properties of a
+                            Bee-master</hi>
                     </note>
                     <note>Notwearing any offensive apparell, <hi>v.n.</hi>27</note> In a word thou
                     must bee chast, cleanlie, sweet, sober, quiet, and familiar: so wil they love
@@ -3119,11 +3118,13 @@
                         <hi>Libra</hi>. </p>
                 <p>
                     <note>60 <hi>In</hi> TAUR: <hi>remove the porches</hi>
-                    </note> At <hi>Taurus</hi>, &amp; sooner, if sooner you see cause,+ </p>
-                <p>+That is when either they keepe watch at the dore in the evenings, or be so
-                    encreased that they cannot easily passe to and fro in their worke: for if the
-                    passage seeme too straight only in their playing fit,
-                    <hi>v.c.</hi>1.<hi>n.</hi>57. that maketh no matter. </p>
+                    </note> At <hi>Taurus</hi>, &amp; sooner, if sooner you see cause,<hi
+                        rend="superscript">a</hi>
+                </p>
+                <note><hi rend="superscript">a</hi>That is when either they keepe watch at the dore
+                    in the evenings, or be so encreased that they cannot easily passe to and fro in
+                    their worke: for if the passage seeme too straight only in their playing fit,
+                        <hi>v.c.</hi>1.<hi>n.</hi>57. that maketh no matter. </note>
                 <p>from the better stals let the porches be taken away: and for the weaker sorte,
                     let them al this month be shut in the evenings &amp; in the mornings, assone as
                     it is warme, be set wide open. </p>
@@ -3429,11 +3430,11 @@
                     forth by little &amp; little turneth browne. Before she is perfectly browne, she
                     flieth abroad practising to worke: and all this within the space of a month. </p>
                 <p>
-                    <note>Hist.an.l.5.c.22.</note>
-                    <hi>Foetu posito incubant, exclusus inde vermiculus, dum parvus est, iacet in
-                        favo obliquus: postea sua apse facultate se erigit, cibumque capit. Foetus
-                        apum &amp; fucorum candidus est:ex quo vermiculi fiunt, qui in apes fucosque
-                        transeant.</hi>
+                    <quote><note>Hist.an.l.5.c.22.</note>
+                        <hi>Foetu posito incubant, exclusus inde vermiculus, dum parvus est, iacet
+                            in favo obliquus: postea sua apse facultate se erigit, cibumque capit.
+                            Foetus apum &amp; fucorum candidus est:ex quo vermiculi fiunt, qui in
+                            apes fucosque transeant.</hi></quote>
                 </p>
                 <p>
                     <note>15 <hi>The breeding of the lady-bees</hi>
@@ -3465,13 +3466,15 @@
                     <note>7 <hi>When they come abroad</hi>
                     </note> And therefore some stalls doe not drony before <hi>Cancer</hi>, not many
                     before <hi>Gemini</hi>, nor any before <hi>Taurus</hi>; although you may see the
-                    +Nymphs of good stals abroad in <hi>Aries</hi>, of others in <hi>Taurus</hi>,
-                    and of all in <hi>Gemini</hi>. By chance some few Cephens may be bred betime
-                    with the femals: but they, as comming out of season, are not suffered to live. </p>
-                <p>+The yong Bees are called schadons: <hi>schadones sobolem dico.</hi> Hist l.5
-                    c.22. The brood of femals, when they have the shape of Bees, are first called
-                    Nymphs, and the yong drones Cephens: <hi>Cætera turba cum formam capere cæpis
-                        Nymphæ vocantur ut fuci cephenes</hi> Pl.li.11.c.11.</p>
+                        <hi rend="superscript">d</hi>Nymphs of good stals abroad in <hi>Aries</hi>,
+                    of others in <hi>Taurus</hi>, and of all in <hi>Gemini</hi>. By chance some few
+                    Cephens may be bred betime with the femals: but they, as comming out of season,
+                    are not suffered to live. </p>
+                <note><hi rend="superscript">d</hi>The yong Bees are called schadons: <hi>schadones
+                        sobolem dico.</hi> Hist l.5 c.22. The brood of femals, when they have the
+                    shape of Bees, are first called Nymphs, and the yong drones Cephens: <hi>Cætera
+                        turba cum formam capere cæpis Nymphæ vocantur ut fuci cephenes</hi>
+                    Pl.li.11.c.11.</note>
                 <p>
                     <note>18 <hi>Two uses of the drones.</hi>
                     </note> These Cephens or drones, when they are fledge, doe not only serve for
@@ -3528,27 +3531,28 @@
                 <p>
                     <note>21 <hi>When the bees leave breeding &amp; bear away their drones.</hi>
                     </note> The Bees breeding or laying of seeds beginneth to cease, in some by
-                        <hi>Leo</hi>, in some not before <hi>Virgo</hi>. After which time these
-                    +Amazonian Dames, having conceived for the next yeere, begin to send away their
-                    mates, &amp; to kill those that afterward force in among them. </p>
+                        <hi>Leo</hi>, in some not before <hi>Virgo</hi>. After which time these <hi
+                        rend="superscript">a</hi>Amazonian Dames, having conceived for the next
+                    yeere, begin to send away their mates, &amp; to kill those that afterward force
+                    in among them. </p>
 
                 <note>22 <hi>The Bees compared to the Amazons.</hi>
                 </note>
 
-                <note>Amazones bellicosæ erant Scythiæ mulieres, quæ cum viris exulantes in
-                    Cappadociæ ora juxta amnem Thermodontæ consederunt: ubi plerique; per insidias
-                    accolarum trucidatis, reliquos qui domi remanserant, ut ipsæ solæ rerum
-                    potirentur, interficiunt: &amp; armis sumptis etiam cum contemptu hostium se
-                    strenue tuentur, &amp; imperium longe lateque: in Europam &amp; Asiæ partem
-                    tandem proferunt. Ne vero genus periret, finitimis tanquam maritis ututntur:
-                    quos officio functos abigunt: Atque; quot pariunt virgines fovent, &amp; armis
-                    exercent masculuos vero duræ enecant, unde eas Aeorpata i Viricidas appellant
-                    Scythæ, ut tradit Herodot.l.4. Prima harum regina Marthesia dicebatur:quæ plures
-                    quidem peperit filias, ut Antiopen, Orythiam, Menalippen, &amp; Hypolitens: e
-                    quibus duæ majores natu matri successerunt, cæteræ imperium non sunt adeptæ.
-                    Amazonum itaq; regnum apum rempublicam aptissime refert: Marthesia apum reginam
-                    que plures solet producere fœtus: Antiope &amp; Orithya primores filias, que pri
-                        <fw type="catch">mum</fw>
+                <note><hi rend="superscript">a</hi>Amazones bellicosæ erant Scythiæ mulieres, quæ
+                    cum viris exulantes in Cappadociæ ora juxta amnem Thermodontæ consederunt: ubi
+                    plerique; per insidias accolarum trucidatis, reliquos qui domi remanserant, ut
+                    ipsæ solæ rerum potirentur, interficiunt: &amp; armis sumptis etiam cum
+                    contemptu hostium se strenue tuentur, &amp; imperium longe lateque: in Europam
+                    &amp; Asiæ partem tandem proferunt. Ne vero genus periret, finitimis tanquam
+                    maritis ututntur: quos officio functos abigunt: Atque; quot pariunt virgines
+                    fovent, &amp; armis exercent masculuos vero duræ enecant, unde eas Aeorpata i
+                    Viricidas appellant Scythæ, ut tradit Herodot.l.4. Prima harum regina Marthesia
+                    dicebatur:quæ plures quidem peperit filias, ut Antiopen, Orythiam, Menalippen,
+                    &amp; Hypolitens: e quibus duæ majores natu matri successerunt, cæteræ imperium
+                    non sunt adeptæ. Amazonum itaq; regnum apum rempublicam aptissime refert:
+                    Marthesia apum reginam que plures solet producere fœtus: Antiope &amp; Orithya
+                    primores filias, que pri <fw type="catch">mum</fw>
                     <pb n="E3v"/>
                     <fw type="header">
                         <hi>Of the breeding of Bees</hi>
@@ -4595,8 +4599,8 @@
                     </fw>
                     <hi>cina pandatæ</hi>) and so nimbly, that unlesse you have a quicke eie, you
                     can scarce perceive it. </p>
-                <p>This worke may best be seene in the spring, when they gather upon the
-                    blackthorne: for then by reason of the cold they are not so quicke.</p>
+                <note>This worke may best be seene in the spring, when they gather upon the
+                    blackthorne: for then by reason of the cold they are not so quicke.</note>
                 <p>
                     <note>17 <hi>Ambrosia some serveth to feed the scadons: some is wrought with
                             nectar and laid up in store.</hi>
@@ -4747,19 +4751,20 @@
                     &amp; if they save any, they halfe fil a few cels with it, which being
                     uncovered, ether themselves or some other theeves quickely devour, according to
                     the proverbe, <hi>Evill gotten goods are scone spent</hi>. </p>
-                <p>This is true, +<hi>Nectar</hi> and <hi>Ambrosia</hi> togither </p>
-                <p>+Wherewith Jupiter was first nourished in the Ile of Crete while the
-                        <hi>curetes</hi> hid him from Saturne. Which gave occasion to the Poets of
-                    this fiction, that the Bees were his nurces. <hi>Dictæo cæli regem pavere sub
-                        autro. Virg. Geor.</hi> 4. And afterward when they woulde make him immortall
-                        <fw type="catch">be</fw>
+                <p>This is true, <hi rend="sucperscript">d</hi><hi>Nectar</hi> and <hi>Ambrosia</hi>
+                    togither </p>
+                <note><hi rend="superscript">d</hi>Wherewith Jupiter was first nourished in the Ile
+                    of Crete while the <hi>curetes</hi> hid him from Saturne. Which gave occasion to
+                    the Poets of this fiction, that the Bees were his nurces. <hi>Dictæo cæli regem
+                        pavere sub autro. Virg. Geor.</hi> 4. And afterward when they woulde make
+                    him immortall <fw type="catch">be</fw>
                     <pb n="G7v"/>
                     <fw type="header">
                         <hi>Of the Bees worke</hi>
                     </fw> because of the long-preserving vertue that hony hath
                         (<hi>v.c.</hi>10.<hi>par</hi> 3 <hi>n</hi> 1) they feined it to be his
                     immortal food <hi>Juppiter ambrosia satur est &amp; nectare
-                        vivit.Mart.l.</hi>II.<hi>ep.</hi>58</p>
+                        vivit.Mart.l.</hi>II.<hi>ep.</hi>58</note>
                 <p>
                     <note>31 <hi>Nectar and ambrosia made of many simples, whereof each month
                             yeeldeth variety</hi>
@@ -4996,28 +5001,27 @@
                 </p>
                 <p>
                     <note>52 <hi>The making of the watering place</hi>. </note> The watring-place
-                    should+ not be far from your garden, in the next side of a ponde or brooke made
-                    shelving not steepe in maner of a foord, and defended from beasts, geese, ducks,
-                    and such like. </p>
-                <p>
-                    <note>Virg.Geor</note>
-                </p>
-                <note>53 <hi>How to find wild Bees.</hi>
-                </note>
-                <note><hi rend="superscript">a</hi>For they wil never go far for water, if any be to
-                    be had neere hand <hi>Sub mænibus urbis aquantur.</hi> And therefore when you
-                    see Bees watring in woods, or other places not neere any hives, be sure those
-                    are wilde Bees, which are not farre from their neast. Watch them therefore which
-                    way they flie for they wil thence directly to it. Which if it be not within
-                    view, take a reede or kex, or some like holow thing open at one end, with a
-                    chinke cut in the other to let in light: and taking up a Bee by the wings put
-                    her into the cane, &amp; shut her in with your thumbe: while shee goeth downe to
-                    the light, put in an other, and so as many as you thinke good. And then where
-                    you last see the Bees flying homward from the water, go to that place, and there
-                    let out one of the Bees in the box: which, when shee hath cast a ring to know
-                    where shee is, wil fly as directly home as the other: likewise where you see her
-                    last, let out an other and so the rest, until they have brought you to the
-                    stalle.</note>
+                        should<hi rend="superscript">a</hi> not be far from your garden, <hi
+                        rend="superscript">b</hi> in the next side of a ponde or brooke <hi
+                        rend="superscript">c</hi> made shelving not steepe in maner of a foord, and
+                        <hi rend="superscript">d</hi> defended from beasts, geese, ducks, and such
+                    like. </p>
+
+                <note><hi rend="superscript">a</hi><note>Virg.Geor</note><note>53 <hi>How to find
+                            wild Bees.</hi>
+                    </note>For they wil never go far for water, if any be to be had neere hand
+                        <hi>Sub mænibus urbis aquantur.</hi> And therefore when you see Bees watring
+                    in woods, or other places not neere any hives, be sure those are wilde Bees,
+                    which are not farre from their neast. Watch them therefore which way they flie
+                    for they wil thence directly to it. Which if it be not within view, take a reede
+                    or kex, or some like holow thing open at one end, with a chinke cut in the other
+                    to let in light: and taking up a Bee by the wings put her into the cane, &amp;
+                    shut her in with your thumbe: while shee goeth downe to the light, put in an
+                    other, and so as many as you thinke good. And then where you last see the Bees
+                    flying homward from the water, go to that place, and there let out one of the
+                    Bees in the box: which, when shee hath cast a ring to know where shee is, wil
+                    fly as directly home as the other: likewise where you see her last, let out an
+                    other and so the rest, until they have brought you to the stalle.</note>
 
                 <fw type="sig">H3</fw>
 
@@ -5946,16 +5950,17 @@
                         defrunto, aut aqua mulsa.</hi> And some of our country-men have practised to
                     give them bay salt, and beane flower, and sweet wort. Al which things though
                     they will be spend, yet cannot the Bees be preseved by then without hony. </p>
-                <p>Touching the councell of <hi>Plinie.</hi> this is to bee noted, that if you place
-                    their food <hi>ad fores</hi> before the dore, it wil draw strange Bees unto
-                    them: whereby the hives of the one, and the goods of the other wilbe endangered:
-                    if you place it abroad from your hive, then wil it bee common: and if within
-                    upon the stooke, which is best, then must you remove it in time, <hi>v.n.</hi>16
-                    otherside it will be no better for them if it were set <hi>ad fores</hi>. And as
-                    for the devise of teased wool, it is a fitter meanes to catch Bees then to seede
-                    them: for if the liquor bee above the wool, it will lime the winges of many; if
-                    not, many wilbe entangled in the smale haires as birds in a grinne. Cover it
-                    therefore with a linnen cloath so that the Bees may not creepe betweene. </p>
+                <note>Touching the councell of <hi>Plinie.</hi> this is to bee noted, that if you
+                    place their food <hi>ad fores</hi> before the dore, it wil draw strange Bees
+                    unto them: whereby the hives of the one, and the goods of the other wilbe
+                    endangered: if you place it abroad from your hive, then wil it bee common: and
+                    if within upon the stooke, which is best, then must you remove it in time,
+                        <hi>v.n.</hi>16 otherside it will be no better for them if it were set
+                        <hi>ad fores</hi>. And as for the devise of teased wool, it is a fitter
+                    meanes to catch Bees then to seede them: for if the liquor bee above the wool,
+                    it will lime the winges of many; if not, many wilbe entangled in the smale
+                    haires as birds in a grinne. Cover it therefore with a linnen cloath so that the
+                    Bees may not creepe betweene. </note>
                 <p>
                     <note>11 <hi>The best time of feeding.</hi>
                     </note> But it is far better to feed the Bees before they need (that they may
@@ -6327,9 +6332,10 @@
                         <note>21 <hi>A third kind of vindimiation</hi>
                         </note> Exection or castration is a third kind of taking: which is the
                         cuting out of part of the combes, part of being least for the Bees
-                        provision. And this was to bee done at two times in the yeere, <hi>In ortu
-                            &amp; occasu virgiliarum</hi>. </p>
-                    <p>
+                        provision. And this was to bee done at two times in the yeere, <ref
+                            target="#">*</ref>
+                        <hi>In ortu &amp; occasu virgiliarum</hi>. </p>
+                    <note>
                         <note>22 <hi>Exection used at two time.</hi>
                         </note>
                         <hi>Virgiliarum ortus</hi> after <hi>Columel l.9.c.</hi>14. is the 48 day
@@ -6342,7 +6348,7 @@
                         the 3 of May, the 55 day after the true <hi>æquinoctium</hi>: which jumpeth
                         with the account of <hi>Columella.</hi> And <hi>Vergiliarum occasus</hi>,
                         being in the same degree of the opposite signe, is upon the 5. day of
-                        Novemb.</p>
+                        Novemb.</note>
                     <p>
                         <note>23 <hi>What part to be exsacted is uncertaine.</hi>
                         </note> But what part is to be taken, &amp; what least, I find it not
@@ -7040,10 +7046,11 @@
                     <p>
                         <note>21 <hi>Another</hi>
                         </note>
-                        <hi>Another of like virtue but not so much corrosive</hi> Boile a quart of
-                        good ale in a skillet to a pinte: then put in one fourth part of a pinte of
-                        hony: and skimming stil as need is, let them boile together to the quantitie
-                        of the hony, or til it be the consistence of a thick syrup. </p>
+                        <hi>Another of like virtue but not so much corrosive</hi></p>
+                    <p> Boile a quart of good ale in a skillet to a pinte: then put in one fourth
+                        part of a pinte of hony: and skimming stil as need is, let them boile
+                        together to the quantitie of the hony, or til it be the consistence of a
+                        thick syrup. </p>
                     <p>
                         <note>22 <hi>The properties and virtues of Meth &amp; Metheglen</hi>
                         </note> What are the virtues &amp; properties of <hi>meth</hi> may partly be
@@ -7280,9 +7287,9 @@
                         joices, softly stirring al together until the quantitie of the joices be
                         wasted: &amp; then taking them of the fire, put in the turpentine, and mix
                         it with the rest. </p>
-                    <p>
+                    <note>
                         <hi rend="superscript">p</hi>Sylvus de
-                        medicam.simpl.mist.l.3.&amp;Fern.meth.l.7.</p>
+                        medicam.simpl.mist.l.3.&amp;Fern.meth.l.7.</note>
                     <p>
                         <note>38 <hi>Another</hi>
                             <hi>An other of like effect.</hi>
