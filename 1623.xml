@@ -61,6 +61,7 @@
         </fileDesc>
         <revisionDesc>
             <listChange>
+                <change who="OFS" when="2023-10-06">Added targets and ref and bibl tags</change>
                 <change who="OFS" when="2023-10-02">Added target to two references</change>
                 <change who="TSG" when="2023-09-27">Added the target to one reference as an example for the guide.</change>
                 <change who="TSG" when="2023-09-22">Corrected several small encoding mistakes while
@@ -3588,7 +3589,7 @@
                         In <term>GEMINI</term> set the doores wide open.</note> At
                         <term>Gemini</term> therefore set the doores <ref target="#">v:</ref>
                     <note type="authorial" subtype="bibliographic" xml:id="ch3bibln22">
-                        <ref target="#ch3sumn28"><term><hi>V.n.</hi>28.</term></ref>
+                        <ref target="#ch3sumn28">V.n.28.</ref>
                     </note> wide open, without Barre or Wicket: and so let them stand all this
                     quarter. </p>
                 <p xml:id="ch3par59"><term>Gemini</term> being past, if the weather be usually
@@ -3639,8 +3640,8 @@
                         weaker hives from robbing.</note>To the Gates of the weaker stalls, (whether
                     they be small swarmes, or stocks that have cast twice and late) set up the
                     Winter-doores, and fasten them with good cloome, <ref target="#">v.</ref>
-                    <note type="authorial" subtype="bibliographic" xml:id="ch3bibln25"><ref target="ch7sumn28">
-                        V.c.7.n.28.47.</ref><ref target="ch7sumn47"></ref></note> and see that the Hives bee close in all places. (Those
+                    <note type="authorial" subtype="bibliographic" xml:id="ch3bibln25"><ref target="#ch7sumn28">
+                        V.c.7.n.28.47.</ref><ref target="#ch7sumn47"></ref></note> and see that the Hives bee close in all places. (Those
                     that have lien forth or otherwise be verie full, you may let alone and not
                     straighten their entrance till the weather bee colder, for such as are safe
                     enough.)</p>
@@ -4731,7 +4732,7 @@
                         Five signes of the first swarming.</note> When the Hives begin to be full,
                     they will dronie, or yeeld forth fledge-drones: <ref target="#">v.</ref>
                     <note type="authorial" subtype="bibliographic" xml:id="ch5bibln16"
-                        ><ref target="#ch4bibln20">v.c.4.n.20</ref></note> which is a signe that the first <fw type="catch">
+                        ><ref target="#ch4sumnn20">v.c.4.n.20</ref></note> which is a signe that the first <fw type="catch">
                         brood</fw>
                     <pb n="K1r"/>
                     <fw type="header"> and the Hiving of them. </fw> brood of nymphes have beene a
@@ -6267,7 +6268,7 @@
                     whether it be ordinary or virgin-hony, is either finer or courser, according as
                     the soile is where it is gathered: <ref target="#">v.</ref><note
                         type="authorial" subtype="bibliographic" xml:id="ch6bibln26"
-                        ><bibl>V.c.10.p2.n.12</bibl></note> For the best countries, which yeeld the best wheat
+                        ><ref target="#ch10p2sumn12">V.c.10.p2.n.12</ref></note> For the best countries, which yeeld the best wheat
                     and the best wooll, yeeld also the best hony. And therefore the wood-lands of
                     Hampshire have better honie than the heath, and the champion or field country,
                     better than the woodlands. The reason is, because where the flowers are most
@@ -8712,7 +8713,7 @@
                             white</note> This good Honie, specially that part which is in the
                         bottom, will in time grow (like unto Corne-honie, <ref target="#">v.</ref>
                         <note type="authorial" subtype="bibliographic" xml:id="ch10p2bibln16"
-                            ><ref target="#ch6sumn27">V.c.6.n.27&amp;28</ref></note> in the uppermost part of the Combes) hard and
+                            ><ref target="#ch6sumn27">V.c.6.n.27</ref>&amp;<ref target="#ch6sumn28">28</ref> </note> in the uppermost part of the Combes) hard and
                         white: such as is the Honie of <ref target="#">*</ref>
                         <placeName> Spaine</placeName> and <placeName>Narbona</placeName> in
                             <placeName> France,</placeName> which is accounted the chiefest, and
