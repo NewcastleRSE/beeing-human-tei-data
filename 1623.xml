@@ -61,6 +61,7 @@
         </fileDesc>
         <revisionDesc>
             <listChange>
+                <change who="OFS" when="2023-10-10">Added ids to refs</change>
                 <change who="OFS" when="2023-10-06">Added ids to refs</change>
                 <change who="OFS" when="2023-10-06">Added targets and ref and bibl tags</change>
                 <change who="OFS" when="2023-10-02">Added target to two references</change>
@@ -7708,7 +7709,7 @@
                     but this breeding time the mouths are multiplied more often than the meat, which
                         <note type="authorial" subtype="gloss" xml:id="ch8glon1"> *Rainie, cold, and
                         windie. </note>
-                    <ref target="#">*</ref>unkinde weather oftentimes suffereth them not to fetch
+                    <ref target="#ch8glon1">*</ref>unkinde weather oftentimes suffereth them not to fetch
                     in. So that all this while, they, more or lesse, spend upon the stocke: yea the
                     weaker stalls somewhat longer, being not so well able to indure the sharpe aire:
                     and therefore, for want of some store to feed on betweene whiles at home, I have
@@ -7753,15 +7754,15 @@
                         Stockes out of proofe never to be fed.</note> As for Stockes that have stood
                     two yeeres, and yet have not sufficient stocke for these seven moneths; (whether
                     they be such as have gotten it, or having gotten it have lost it againe) they
-                    are out of proofe: and therefore fit to be taken, not fed. <ref target="#">
+                    are out of proofe: and therefore fit to be taken, not fed. <ref target="#ch10p1sumn3">
                         v.c.10. p.1.n.3.in III.</ref></p>
                 <p xml:id="ch8par7"><note type="authorial" subtype="summary" xml:id="ch8sumn7">7.
                         Trie your swarmes in Virgo.</note> But because unkinde summers may make good
                     warmes but poore, as contrarily a plentifull summer may much mend the worst;
                     after <hi>Mid-<term>Virgo</term>,</hi> when Bees are to be taken, <ref
-                        target="#">v.</ref>
+                        target="#ch8bibln3">v.</ref>
                     <note type="authorial" subtype="bibliographic" xml:id="ch8bibln3">
-                        <ref target="#"> V.c.10.p.1n.2.</ref>
+                        <ref target="#ch10p1sumn2"> V.c.10.p.1n.2.</ref>
                     </note> it behoveth you to trie all your swarmes, by knocking and poising them:
                     for the noise will tell you the greatnesse of the company, and the weight, their
                     wealth. They that are used to poise them by hand, will resolve you readily in
@@ -7773,27 +7774,27 @@
                         wit,</fw>
                     <pb n="S3r"/>
                     <fw type="header"> Of the Feeding of Bees. </fw> wit, for five pound <ref
-                        target="#">v.</ref>
+                        target="#ch8bibln4">v.</ref>
                     <note type="authorial" subtype="bibliographic" xml:id="ch8bibln4">
-                        <ref target="#"> V.†in.c.5.n.45. </ref>
+                        <ref target="#ch5glon12"> V.†in.c.5.n.45. </ref>
                     </note> in Bees, the double weight in honie and wax; that swarme is desperately
-                    poore, <ref target="#">v.</ref>
+                    poore, <ref target="#ch8bibln5">v.</ref>
                     <note type="authorial" subtype="bibliographic" xml:id="ch8bibln5">
-                        <ref target="#"> V.n.2</ref>
-                    </note> and fitter to be taken than fed<ref target="#">*</ref>. If the swarme
+                        <ref target="#ch8sumn2"> V.n.2</ref>
+                    </note> and fitter to be taken than fed<ref target="#ch8glon2">*</ref>. If the swarme
                     with his store doe weigh betweene fifteene and twentie, due feeding <ref
-                        target="#">v.</ref>
+                        target="#ch8bibln6">v.</ref>
                     <note type="authorial" subtype="bibliographic" xml:id="ch8bibln6">
-                        <ref target="#"> V.n.14,&amp;c. </ref>
+                        <ref target="#ch8sumn14"> V.n.14,&amp;c. </ref>
                     </note> may save him. If betweene twentie and five and twentie, hee is able to
                     shift for himselfe, and live without helpe. If betweene five and twenty and
                     thirtie, esteeme him as right good, plentifully provided even for a hard winter,
-                    and fitted to be forward the next spring <ref target="#">†</ref>. And above the
+                    and fitted to be forward the next spring <ref target="#ch8glon3">†</ref>. And above the
                     greater the store is, the better increase it promiseth. Unlesse, in some
-                    extraordinarie yeere, the Hive be cloyed with too much: <ref target="#">
+                    extraordinarie yeere, the Hive be cloyed with too much: <ref target="#ch8bibln7">
                         v.</ref>
                     <note type="authorial" subtype="bibliographic" xml:id="ch8bibln7">
-                        <ref target="#"> V.c.10.p.1.n.3,in VII.&amp;VIII.</ref>
+                        <ref target="#ch10p1sumn3"> V.c.10.p.1.n.3,in VII.&amp;VIII.</ref>
                     </note> for too much as well to Bees as men, doth ofttimes more harme than good. </p>
                 <note type="authorial" subtype="gloss" place="inline" xml:id="ch8glon2">*Yet they
                     that have but a small Bee-fold, and are content to be often troubled (specially
@@ -7801,18 +7802,18 @@
                     weight.</note>
                 <note type="authorial" subtype="gloss" place="inline" xml:id="ch8glon3">†And yet
                     such though never so good, will perish neverthelesse, if they chance to lose
-                    their Queene: <ref target="#">v.</ref>
+                    their Queene: <ref target="#ch8bibln8">v.</ref>
                     <note type="authorial" subtype="bibliographic" xml:id="ch8bibln8">
-                        <ref target="#">V.c.1. n.6.</ref>
+                        <ref target="#ch1sumn6">V.c.1. n.6.</ref>
                     </note> which sometime happeneth to those that are much troubled in the
-                        hiving.<ref target="#">v.c. 5. n.52.</ref></note>
+                        hiving.<ref target="#ch5sumn52">v.c. 5. n.52.</ref></note>
                 <p xml:id="ch8par8"><note type="authorial" subtype="summary" xml:id="ch8sumn9">9.
                         Trie againe in Pisces or Aries.</note> Moreover, because a long winter and a
                     rough spring following, with some other accidents, may waste them that were
                     good, as, on the other side, a short winter and a milde spring may helpe those
                     that were scantily provided; it shall not be amisse to try againe in <term>
                         Pisces</term> or <term>Aries,</term> those that you suspect; and to feed
-                    them if you see cause.<ref target="#">v.n.15.&amp;16.</ref></p>
+                    them if you see cause.<ref target="#ch8sumn15">v.n.15.</ref>&amp;<ref target="#ch8sumn16">16.</ref></p>
                 <lb/>
                 <p xml:id="ch8par9"><note type="authorial" subtype="summary" xml:id="ch8sumn10">10.
                         The Bees food.</note>
@@ -7845,9 +7846,9 @@
                     draw strange Bees unto them: whereby the lives of the one, and the goods of the
                     other will be indangered: if you place it abroad from your Hive, then will it be
                     common: and if within upon the stoole, which is best, then must you remove it in
-                    time, or keep it close: <ref target="#">v.</ref>
+                    time, or keep it close: <ref target="#ch8bibln11">v.</ref>
                     <note type="authorial" subtype="bibliographic" xml:id="ch8bibln11">
-                        <ref target="#"> V.n.11.</ref>
+                        <ref target="#ch8sumn11"> V.n.11.</ref>
                     </note> otherwise it will be no better for them, than if it were set <foreign
                         xml:lang="la">ad fores</foreign>. And as for the device of teased Wooll, it
                     is a fitter meanes to catch Bees, than to feed them. For if the liquor be above
@@ -7931,7 +7932,7 @@
                         target="#ch4sumn12"> v.c. 4.n.12.</ref></p>
                 <p xml:id="ch8par15">At this first time therefore first finish the publike feeding:
                     and then begin the private, specially of those that are under eighteene pound:
-                    to which if you give now the better part of their<ref target="#">*</ref> due
+                    to which if you give now the better part of their<ref target="#ch8glon5">*</ref> due
                     allowance; you may supply the defects of them, as also the rest, at the second
                     feeding-time, when their need will better appeare. </p>
                 <note type="authorial" subtype="gloss" place="inline" xml:id="ch8glon5">*Their due
@@ -7948,7 +7949,7 @@
                     much Honie as it may receive. If you thinke it be not liquid enough; then either
                     warme it first over the fire, or else spread it all over the Combe with your
                     finger, that it may sinke into the Cells: (for which purpose Live-hony is best)
-                    then use this honied combe as the Hony-combe. <ref target="#"> v.n.
+                    then use this honied combe as the Hony-combe. <ref target="#ch8sumn11"> v.n.
                     11.</ref></p>
                 <p xml:id="ch8par17"><note type="authorial" subtype="summary" xml:id="ch8sumn16">16.
                         The third time of feeding.</note> If either these fed Bees, or any other,
@@ -8135,16 +8136,16 @@
                         lightly are fat, and therefore worth the taking: but they are also good for
                         store, unlesse the frequent Honi-dewes have made them over fat. But those of
                         that age which have cast twice (except they were very forward and had beat
-                        away their Drones betimes) are they not likely to<ref target="#">*</ref>
+                        away their Drones betimes) are they not likely to<ref target="#ch10p1glon1">*</ref>
                         continue, and therefore are to be taken. </p>
                     <note type="authorial" subtype="gloss" place="inline" xml:id="ch10p1glon1">*If
                         you would have any such to stand an other yeere, and not to bee weakened by
                         his late castling; put it backe into the stocke againe, <ref target="#ch5sumn11">
                             v.c.5.n.11. </ref></note>
                     <p xml:id="ch10p1par3">Likewise all poore swarms unworthy to be fed, <ref
-                            target="#">v.</ref>
+                        target="#ch10p1bibln3">v.</ref>
                         <note type="authorial" subtype="bibliographic" xml:id="ch10p1bibln3">
-                            <ref target="#">v.c. 8.n. 4.</ref>
+                            <ref target="#ch8sumn4">v.c. 8.n. 4.</ref>
                         </note> and all light stocks whose stocks are decayed: <ref target="#ch10p1bibln4">
                             v.</ref>
                         <note type="authorial" subtype="bibliographic" xml:id="ch10p1bibln4">
@@ -8184,7 +8185,7 @@
                     <p xml:id="ch10p1par6"><note type="authorial" subtype="summary"
                             xml:id="ch10p1sumn4">4 The manner of killing Bees</note> Having made
                         choice of your Stall to be taken, some two or three houres before <ref
-                            target="#">*</ref> Sun-set dig a hole in the ground, as neere the Stoole
+                            target="#ch10p1glon2">*</ref> Sun-set dig a hole in the ground, as neere the Stoole
                         as may bee, about eight or nine inches <fw type="catch"> deepe</fw>
                         <pb n="T3v"/>
                         <fw type="header"> Of the fruit and profit of Bees. </fw> deepe and almost
@@ -8198,7 +8199,7 @@
                         Matches at the upper ends, set over the Hive: and presently shut it so close
                         at the Skirts, that none of the smoake may come forth. So shall you have the
                         Bees dead and downe in lesse than a quarter of an houre. </p>
-                    <note type="authorial" subtype="gloss" place="inline" xml:id="ch10p1glon2">†That
+                    <note type="authorial" subtype="gloss" place="inline" xml:id="ch10p1glon2">*That
                         you may have the evening and morning to finish your worke; while the
                         store-Bees be at rest: which otherwise will trouble you in handling the
                         Honie, if by any meanes they may come at you. But if the weather be cold
@@ -8406,12 +8407,12 @@
                         <hi rend="drop-capital">E</hi>xsection or Castration, is a third kinde of
                         taking: which is the cutting out of part of the Combes, part being leaft for
                         the Bees provision. And this was to be done at two times in the yeare,<ref
-                            target="#">+</ref>
+                            target="#ch10p1glon5">*</ref>
                         <foreign xml:lang="la">In ortu, &amp; occasu Vergiliarum</foreign>.<note
                             type="authorial" subtype="summary" xml:id="ch10p1sumn20">20 Exsection
                             used at two times.</note></p>
                     <note type="authorial" subtype="gloss" place="inline" xml:id="ch10p1glon5">
-                        <foreign xml:lang="la">Virgiliarum ortus</foreign> after <persName>
+                        <foreign xml:lang="la">*Virgiliarum ortus</foreign> after <persName>
                             Columella,</persName>
                         <bibl>l.9.c.14.</bibl> is the eight and fortieth day from <term>Æquinoctium
                             vernum</term>: after <persName>Var.</persName>: the foure and fortieth:
@@ -8552,7 +8553,7 @@
                         </quote></p>
                     <p xml:id="ch10p2par8"><note type="authorial" subtype="summary"
                             xml:id="ch10p2sumn6">6. Two sorts of virgin-honie.</note> Whereof there
-                        are two sorts. The right Virgin-honie is of a Swarme: <ref target="#"
+                        are two sorts. The right Virgin-honie is of a Swarme: <ref target="#ch10p2bibln3"
                             >v.</ref>
                         <note type="authorial" subtype="bibliographic" xml:id="ch10p2bibln3">
                             <ref target="#ch6sumn29"> V.c.6.n.29. </ref>
@@ -8597,7 +8598,7 @@
                             <ref target="#ch3sumn7"> V.ibidem. </ref>
                         </note> take the rest as soone after as you may, <ref target="#ch10p2bibln8">v:</ref>
                         <note type="authorial" subtype="bibliographic" xml:id="ch10p2bibln8">
-                            <ref target="#"> V.*in p.1.n.4. </ref>
+                            <ref target="#ch10p1glon2"> V.*in p.1.n.4. </ref>
                         </note> and let the Honie be all tryed out, before you soake the second
                         part. </p>
                     <p xml:id="ch10p2par11">The Hives being rid, carrie them into your Garden (a
@@ -8784,10 +8785,10 @@
                             Meth.</note>
                         <hi rend="drop-capital">T</hi>He second part of the Combes, appointed for
                         Hydromel or Meth, you must first rid of the sandarach as neere as you can:
-                        cutting off that which is by it selfe, and <ref target="#">*</ref> picking
+                        cutting off that which is by it selfe, and <ref target="#ch10p2glon7">*</ref> picking
                         out that which is among the Honie: all which refuse, because of the wax that
                         is with it, cast to the third part.</p>
-                    <note type="authorial" subtype="gloss" place="inline" xml:id="ch10p2glon7">+If
+                    <note type="authorial" subtype="gloss" place="inline" xml:id="ch10p2glon7">*If
                         thus to part the Honie and the drosse shall seeme but a tedious piece of
                         worke; you may leave it unto them that are expert in it <ref target="#ch8sumn13">
                             V.c.8.n.13.</ref> And make your Meth of more meere Honie. </note>
@@ -8811,7 +8812,7 @@
                         </note> runne through the Tap-Waze. The Pulse which remaineth, when you have
                         squeezed out the liquor, breake and wash in fresh warme water in the Kive,
                         for a second shoot. When it hath lien a while in soake, first take those
-                        parcels that swim, and squeezing out the liquor <ref target="#"
+                        parcels that swim, and squeezing out the liquor <ref target="#ch10p2glon8"
                         >*</ref>betweene your hands, lay the balls aside to the third part: (but let
                         your Bees have the perusing of them) then take up those that lie in the
                         bottome, and doe likewise: which because they have most Honie, you must take
@@ -8827,7 +8828,7 @@
                         <note type="authorial" subtype="bibliographic" xml:id="ch10p2bibln20"><ref
                             target="#ch10p2sumn19">V.n.19</ref>&amp;<ref
                                 target="#ch10p2sumn24">24</ref></note> and then let both shoots run
-                        together through a <ref target="#">†</ref>Clensieve into the Kive againe.
+                        together through a <ref target="#ch10p2glon9">†</ref>Clensieve into the Kive againe.
                         And thus shall you lose none of your Honie. </p>
                     <note type="authorial" subtype="gloss" place="inline" xml:id="ch10p2glon8">*If
                         there be much Pulse, use a presse, when the liquor hath runne what it will. </note>
@@ -8869,14 +8870,14 @@
                         Scum gathered thicke all over, and the bubbles at the side begin to breake
                         it; having slacked the fire, to cease the boyling, skim it cleane. Then
                         presently make a fresh fire to it: and when you see the second skum ready,
-                        having <ref target="#">*</ref> slacked the fire againe, take it quickly
+                        having <ref target="#ch10p2glon10">*</ref> slacked the fire againe, take it quickly
                         away: then make to it the third fire, and let it boyle to the wasting of a
                         fourth part, if it bee made of the washing of Combes; and to the wasting of
                         one fift or sixt part, if it be made of cleane Honie: not ceasing in the
                         meane space to take off the Scum as cleane as you can. One houres boyling
                         may suffice: but if the Meth bee of cleane Honie, it may as well be done in
                         halfe the time. </p>
-                    <note type="authorial" subtype="gloss" place="inline" xml:id="ch10p2glon10">+ In
+                    <note type="authorial" subtype="gloss" place="inline" xml:id="ch10p2glon10">* In
                         stead of twice slacking the fire, you may twice coole the boyling Must with
                         cold Must reserved: or else be sure that it doe boyle all the while onely at
                         one side, and not all over. </note>
@@ -9196,7 +9197,7 @@
                             xml:id="ch10p3sumn3">3. For whom Hony is the best.</note> Hony is most
                         fit for (1) old men, <ref target="#ch10p3bibln3"> v.</ref>
                         <note type="authorial" subtype="bibliographic" xml:id="ch10p3bibln3">
-                            <ref target="#">V.(14)in note1.</ref>
+                            <ref target="#">V.(14)in note 1.</ref>
                         </note> for women &amp; children, for such as are rheumaticke and
                         flegmaticke, and generally for all that are of a cold temperature.(2) To
                         young men, and those that are of a hot constitution it is not so good,
