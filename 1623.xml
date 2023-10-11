@@ -57,6 +57,41 @@
                         </imprint>
                     </monogr>
                 </biblStruct>
+                <listWit>
+                    <witness xml:id="b1623">
+                        <listBibl>
+                            <biblStruct xml:id="eebo1623">
+                                <monogr>
+                                    <author>Charles Butler</author>
+                                    <title>The Feminine Monarche or the Historie of Bees</title>
+                                    <imprint>
+                                        <pubPlace>Londong</pubPlace>
+                                        <publisher>Roger Jackson</publisher>
+                                        <date when="1623">1623</date>
+                                    </imprint>
+                                </monogr>
+                                <ptr target="https://www.proquest.com/books/feminine-monarchie-historie-bees-shewing-their/docview/2240894735/se-2"/>
+                            </biblStruct>
+                        </listBibl>
+                    </witness>
+                    <witness xml:id="b1609">
+                        <listBibl>
+                            <biblStruct xml:id="eebo1609">
+                                <monogr>
+                                    <author>Charles Butler</author>
+                                    <title>The Feminine Monarchie or a Treatise Concerning Bees and the due
+                                        Ordering of Them</title>
+                                    <imprint>
+                                        <pubPlace>Oxford</pubPlace>
+                                        <publisher>Joseph Barnes</publisher>
+                                        <date when="1609">1609</date>
+                                    </imprint>
+                                </monogr>
+                                <ptr target="https://www.proquest.com/books/feminine-monarchie-treatise-concerning-bees-due/docview/2240864630/se-2"/>
+                            </biblStruct>
+                        </listBibl>
+                    </witness>
+                </listWit>
             </sourceDesc>
         </fileDesc>
         <revisionDesc>

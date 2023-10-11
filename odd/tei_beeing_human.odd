@@ -775,7 +775,7 @@
 
           <!-- required core elements (p and title for use in titleStmt) -->
           <moduleRef key="core"
-            include="p title date note biblStruct bibl ref abbr list item foreign q quote graphic head pb respStmt author name resp pubPlace imprint publisher monogr hi cit lb term gloss lg l ptr cb emph"/>
+            include="p title date note biblStruct bibl ref abbr list item foreign q quote graphic head pb respStmt author name resp pubPlace imprint publisher monogr hi cit lb term gloss lg l ptr cb emph listBibl"/>
 
           <!-- required textstructure elements (TEI, text, and body) -->
           <moduleRef key="textstructure"
@@ -789,6 +789,14 @@
           <moduleRef key="namesdates" include="persName placeName orgName"/>
           <moduleRef key="analysis" include="w s"/>
           <moduleRef key="figures" include="figure figDesc"/>
+          <moduleRef key="textcrit" include="listWit witness"/>
+          
+          <!-- Element changes, definitions, schematron rules... -->
+          <elementSpec ident="witness" mode="change">
+            <attList>
+              <attDef ident="xml:id" mode="change" usage="req"/>
+            </attList>
+          </elementSpec>
           <elementSpec ident="date" mode="change">
             <desc versionDate="2023-08-11" xml:lang="en">contains a date in any format. It must
               include a @when attribute with the date in the standard format yyyy-mm-dd. If there
