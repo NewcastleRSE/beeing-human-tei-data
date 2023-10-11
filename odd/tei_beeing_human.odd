@@ -848,7 +848,7 @@
           <moduleRef key="namesdates" include="persName placeName orgName"/>
           <moduleRef key="analysis" include="w s"/>
           <moduleRef key="figures" include="figure figDesc"/>
-          <moduleRef key="textcrit" include="listWit witness app lem rdg"/>
+          <moduleRef key="textcrit" include="listWit witness app lem rdg variantEncoding"/>
           <moduleRef key="linking" include="link"/>
 
           <!-- Element changes, definitions, schematron rules... -->

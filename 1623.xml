@@ -102,6 +102,7 @@
             <p>Encoding containing textual structure, all features visible in the source text, some
                 semantic encoding (i.e., terms, foreign, quotes, etc.), document cross-referencing,
                 and variation between editions (1623, 1609, 1634)</p>
+            <variantEncoding method="parallel-segmentation" location="internal"/>
         </encodingDesc>
         <revisionDesc>
             <listChange>
