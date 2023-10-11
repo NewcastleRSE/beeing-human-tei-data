@@ -233,6 +233,65 @@
               </revisionDesc>
             </egXML>
           </div>
+          <div xml:id="listWitnesses">
+            <head>Recording witness information</head>
+            <p>As part of the edition, we compare the 1623 edition (which we take to be our base
+              text) with substantive variations on the 1609 edition and, at selected points, the
+              1634 edition. The process by which we record the variation is explained elsewhere. In
+              that process, we refer to specific witnesses by an <att>xml:id</att>, which points to
+              a section on the <tag>teiHeader</tag> where more detail about each witness can be
+              found. This is the <tag>listWit</tag> element contained by <tag>sourceDesc.</tag></p>
+            <p>Within <tag>listWit</tag> there are a series of edition level <tag>witness</tag>, and
+              each <tag>witness</tag> contains a <tag>listBibl</tag> with bibliographic information
+              corresponding to each individual copy of that edition. Variation that is common to all
+              copies of the edition is linked to the <tag>witness</tag>
+              <att>xml:id</att>, while variation that is specific to a single copy may refer
+              directly to the <att>xml:id</att> of that copy.</p>
+            <p>Wherever possible, the bibliographic information for each copy should be structured
+              (i.e., using a <tag>biblStruct</tag> element, and as complete as possible.</p>
+            <label>Example:</label>
+            <egXML xmlns="http://www.tei-c.org/ns/Examples">
+              <listWit>
+                <witness xml:id="b1623">
+                  <listBibl>
+                    <biblStruct xml:id="eebo1623">
+                      <monogr>
+                        <author>Charles Butler</author>
+                        <title>The Feminine Monarche or the Historie of Bees</title>
+                        <imprint>
+                          <pubPlace>Londong</pubPlace>
+                          <publisher>Roger Jackson</publisher>
+                          <date when="1623">1623</date>
+                        </imprint>
+                      </monogr>
+                      <ptr
+                        target="https://www.proquest.com/books/feminine-monarchie-historie-bees-shewing-their/docview/2240894735/se-2"
+                      />
+                    </biblStruct>
+                  </listBibl>
+                </witness>
+                <witness xml:id="b1609">
+                  <listBibl>
+                    <biblStruct xml:id="eebo1609">
+                      <monogr>
+                        <author>Charles Butler</author>
+                        <title>The Feminine Monarchie or a Treatise Concerning Bees and the due
+                          Ordering of Them</title>
+                        <imprint>
+                          <pubPlace>Oxford</pubPlace>
+                          <publisher>Joseph Barnes</publisher>
+                          <date when="1609">1609</date>
+                        </imprint>
+                      </monogr>
+                      <ptr
+                        target="https://www.proquest.com/books/feminine-monarchie-treatise-concerning-bees-due/docview/2240864630/se-2"
+                      />
+                    </biblStruct>
+                  </listBibl>
+                </witness>
+              </listWit>
+            </egXML>
+          </div>
         </div>
         <div xml:id="encTextStruct">
           <head>Textual Structure</head>
@@ -790,7 +849,7 @@
           <moduleRef key="analysis" include="w s"/>
           <moduleRef key="figures" include="figure figDesc"/>
           <moduleRef key="textcrit" include="listWit witness"/>
-          
+
           <!-- Element changes, definitions, schematron rules... -->
           <elementSpec ident="witness" mode="change">
             <attList>
