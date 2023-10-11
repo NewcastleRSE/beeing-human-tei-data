@@ -848,14 +848,27 @@
           <moduleRef key="namesdates" include="persName placeName orgName"/>
           <moduleRef key="analysis" include="w s"/>
           <moduleRef key="figures" include="figure figDesc"/>
-          <moduleRef key="textcrit" include="listWit witness"/>
+          <moduleRef key="textcrit" include="listWit witness app lem rdg"/>
 
           <!-- Element changes, definitions, schematron rules... -->
+          <elementSpec ident="lem" mode="change">
+            <attList>
+              <attDef ident="wit" mode="change" usage="req"/>
+            </attList>
+          </elementSpec>
+
+          <elementSpec ident="rdg" mode="change">
+            <attList>
+              <attDef ident="wit" mode="change" usage="req"/>
+            </attList>
+          </elementSpec>
+
           <elementSpec ident="witness" mode="change">
             <attList>
               <attDef ident="xml:id" mode="change" usage="req"/>
             </attList>
           </elementSpec>
+
           <elementSpec ident="date" mode="change">
             <desc versionDate="2023-08-11" xml:lang="en">contains a date in any format. It must
               include a @when attribute with the date in the standard format yyyy-mm-dd. If there
@@ -869,6 +882,7 @@
               </attDef>
             </attList>
           </elementSpec>
+
           <elementSpec ident="quote" mode="change">
             <constraintSpec ident="quote-should-contain-note" scheme="schematron">
               <constraint>
@@ -877,6 +891,7 @@
               </constraint>
             </constraintSpec>
           </elementSpec>
+
           <elementSpec ident="fw" mode="change">
             <desc versionDate="2023-08-22" xml:lang="en">contains a running head (e.g. a header,
               footer), catchword, or similar material appearing on the current page, including other
@@ -897,6 +912,7 @@
               </attDef>
             </attList>
           </elementSpec>
+
           <elementSpec ident="note" mode="change">
             <desc versionDate="2023-08-11" xml:lang="en">contains a note or annotation, either
               included in the original, or added by the editor. The types of notes are distinguished
@@ -964,6 +980,7 @@
               <attDef ident="xml:id" mode="change" usage="req"/>
             </attList>
           </elementSpec>
+
           <elementSpec ident="w" mode="change">
             <desc versionDate="2023-08-11" xml:lang="en">represents a grammatical (not necessarily
               orthographic) word -- used to mark words of special meaning and interest.</desc>
@@ -998,6 +1015,7 @@
               </attDef>
             </attList>
           </elementSpec>
+
           <elementSpec ident="s" mode="change">
             <desc versionDate="2023-08-11" xml:lang="en">contains a sentence-like division of a
               text. Used to identify phrasal references to bees, sound, voice, emotion, music with
@@ -1014,6 +1032,7 @@
               </attDef>
             </attList>
           </elementSpec>
+
           <elementSpec ident="foreign" mode="change">
             <content>
               <macroRef key="macro.paraContent"/>
@@ -1022,7 +1041,9 @@
               <attDef ident="xml:lang" mode="change" usage="rec"/>
             </attList>
           </elementSpec>
+
           <classRef key="att.placement"/>
+
           <elementSpec ident="publicationStmt" mode="change">
             <content>
               <alternate maxOccurs="1" minOccurs="1">
@@ -1035,7 +1056,9 @@
               </alternate>
             </content>
           </elementSpec>
+
           <classRef key="model.availabilityPart"/>
+
           <elementSpec ident="bibl" mode="change">
             <attList>
               <attDef ident="rend" mode="change">
@@ -1047,6 +1070,7 @@
               </attDef>
             </attList>
           </elementSpec>
+
           <elementSpec ident="hi" mode="change">
             <desc versionDate="2023-08-22" xml:lang="en">marks a word or phrase as graphically
               distinct from the surrounding text, for reasons concerning which no claim is made.
@@ -1082,6 +1106,7 @@
               </attDef>
             </attList>
           </elementSpec>
+
           <elementSpec ident="cb" mode="change">
             <desc versionDate="2023-08-23" xml:lang="en">marks the beginning of a new column of a
               text on a multi-column page. The element should be placed at the start of the column,
@@ -1100,12 +1125,14 @@
               </attDef>
             </attList>
           </elementSpec>
+
           <elementSpec ident="change" mode="change">
             <attList>
               <attDef ident="when" mode="change" usage="req"/>
               <attDef ident="who" mode="change" usage="req"/>
             </attList>
           </elementSpec>
+
           <elementSpec ident="ref" mode="change">
             <constraintSpec ident="ref-sanity-check" scheme="schematron">
               <constraint>
@@ -1117,6 +1144,7 @@
               <attDef ident="target" mode="change" usage="req"/>
             </attList>
           </elementSpec>
+
         </schemaSpec>
       </div>
     </body>
