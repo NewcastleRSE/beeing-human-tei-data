@@ -830,7 +830,7 @@
 
           <!-- required minimal header elements -->
           <moduleRef key="header"
-            include="teiHeader fileDesc titleStmt publicationStmt sourceDesc principal funder editionStmt edition authority licence revisionDesc listChange change"/>
+            include="teiHeader fileDesc titleStmt publicationStmt sourceDesc principal funder editionStmt edition authority licence revisionDesc listChange change encodingDesc"/>
 
           <!-- required core elements (p and title for use in titleStmt) -->
           <moduleRef key="core"
