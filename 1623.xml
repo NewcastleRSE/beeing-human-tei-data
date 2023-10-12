@@ -1710,12 +1710,13 @@
                         loyall to their Soveraigne.</note> And all this under the government of one
                     Monarch, of whom above all things they have a principall care and respect,
                     loving, reverencing, and obeying her <ref target="#ch1bibln7">v:</ref> in all
-                    things. <note type="authorial" subtype="bibliographic" xml:id="ch1bibln7"
-                            ><bibl>V. Præfat. Virg. Georg.</bibl>
-                        <ref target="#ch7sumn27">V.c.7.n.27.</ref>&amp;<ref target="#ch7sumn42"
-                            >42.</ref></note>
+                    things. 
                 </p>
                 <quote>
+                    <note type="authorial" subtype="bibliographic" xml:id="ch1bibln7"
+                        ><bibl>V. Præfat. Virg. Georg.</bibl>
+                        <ref target="#ch7sumn27">V.c.7.n.27.</ref>&amp;<ref target="#ch7sumn42"
+                            >42.</ref></note>
                     <lg xml:lang="la">
                         <l>Præterea regem non sic Ægyptus &amp; ingens </l>
                         <l>Lydia, nec populi Parthorum aut Medus Hydaspes </l>
@@ -2319,11 +2320,11 @@
                 <p xml:id="ch1par37"><note type="authorial" subtype="summary" xml:id="ch1sumn45">45.
                         Hearing and feeling.</note> Their hearing and feeling are verie quicke. If
                     you touch their Hive but lightly, or the stoole, or the ground neere it; they
-                    presentlie perceiving it, make a generall noise: <note type="authorial"
+                    presentlie perceiving it, make a generall noise:  although <persName> Aristotle</persName> doubt whether they heare, or
+                    not. <quote> <note type="authorial"
                         subtype="bibliographic" xml:id="ch1bibln43">
                         <bibl>Hist.an.l.9.cap.40.</bibl>
-                    </note> although <persName> Aristotle</persName> doubt whether they heare, or
-                    not. <quote>
+                    </note>
                         <foreign xml:lang="la">Quanquam incertum est an audiant.</foreign>
                     </quote> But if they did not heare, to what purpose is that musicke made in the
                     Hives, before the swarming? <ref target="#ch5sumn28">v.c.5.n28</ref>. and in the
@@ -2393,10 +2394,11 @@
                     of the hedges. <quote>
                         <foreign xml:lang="la">Juxta terram volant in adverso flatu vepribus
                             hebetato.</foreign>
+                        <note type="authorial" subtype="bibliographic" xml:id="ch1bibln51">
+                            <bibl> Nat.hist.li.11.c.10.</bibl>
+                        </note>
                     </quote>
-                    <note type="authorial" subtype="bibliographic" xml:id="ch1bibln51">
-                        <bibl> Nat.hist.li.11.c.10.</bibl>
-                    </note> But above all, one excellent skill they have, which the most excellent
+                    But above all, one excellent skill they have, which the most excellent
                     femals, though much they desire it, must yeeld themselves to want: for they know
                     certainly when they breed a male, and when a female: which thing appeareth by
                     this, that they lay their Cephen-feeds in a wide combe by themselves, <ref
@@ -2539,13 +2541,14 @@
                             agentes. Acceptum igitur Episcopus sacramentum maximo cum honore in
                             templum reportavit: quo multi accedentes ab innumeris sunt morbis
                             curati.</foreign>
+                    <bibl>Tho: Bozius de signis Ecclesiæ. Lib.14.c.3.</bibl>
                     </quote>
-                    <bibl>Tho: Bozius de signis Ecclesiæ. Lib.14.c.3.</bibl></p>
+                    </p>
                 <p xml:id="ch1par49">In which Storie wee may note, besides the wonderfull knowledge
                     and devotion of the Bees, an incredible power and vertue also. For this God
                     which they kept and compassed, is said to have the gift of healing, which
                     others, though of as good a making, we know doe want. The conclusion, which my
-                    Author necessarily inferreth hereupon, is better then all the rest. <quote>
+                    Author necessarily inferreth hereupon, is better then all the rest. <quote>  <bibl>Tho: Bozius de signis Ecclesiæ. Lib.14.c.3.</bibl>
                         <foreign xml:lang="la">Ex his necesse est dicamus in Eucharistia verum C.
                             corpus esse.</foreign>
                     </quote> But if thou wilt grant me that hereby is proved the incredible
@@ -6371,9 +6374,10 @@
                     <note type="authorial" subtype="bibliographic" xml:id="ch6bibln30">
                         <bibl> Hist.l.9.c.40.</bibl>
                     </note>
-                    <note type="authorial" subtype="bibliographic" xml:id="ch6bibln31"
-                        ><bibl>Vir.Georg.4</bibl></note>
+                    
                     <quote>
+                        <note type="authorial" subtype="bibliographic" xml:id="ch6bibln31"
+                            ><bibl>Vir.Georg.4</bibl></note>
                         <foreign xml:lang="la">(Thymus aptissimus ad mellificium. Pastus gratissimus
                             apibus Thymum est. <lb/> Dum Thymo pascentur apes, dum rore
                             cicadæ.)</foreign>
