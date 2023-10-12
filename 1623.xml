@@ -111,8 +111,8 @@
                 </byline>
                 <fw type="horizontalRule"/>
                 <epigraph>
-                    <bibl>Plaut. in Truculent: Act: 2. Sc. 6. </bibl>
-                    <quote>Pluris est oculatus testis onus, quad auriti decem.</quote>
+                    <quote><bibl>Plaut. in Truculent: Act: 2. Sc. 6. </bibl>
+                    Pluris est oculatus testis onus, quad auriti decem.</quote>
                 </epigraph>
                 <docImprint>
                     <placeName>LONDON</placeName><lb/> Printed by <persName>JOHN HAVILAND</persName>
@@ -158,10 +158,10 @@
                     Bees called the Muses birds: <quote>
                         <foreign xml:lang="la">Apes cum causa Musarum esse dicuntur
                             volucres.</foreign>
-                    </quote>
+                   
                     <note type="authorial" subtype="bibliographic" xml:id="frontbibln2">
                         <bibl rend="italic">Var.l.3.c.15.</bibl>
-                    </note></p>
+                    </note> </quote></p>
                 <p xml:id="frontpar2">The love of which did so ravish <persName rend="italic"
                         >Aristomachus</persName> and <persName rend="italic">Philiscus</persName>,
                     that, as <persName rend="italic">Plinie</persName> reporteth,<note
@@ -1652,14 +1652,14 @@
                             nec pro personarum diversitate discernitur, sed indiscreta sui gratia
                             regibus pariter ac mediocribus æquali suavitate dulcescit: nec solùm
                             voluptati, sed etiam saluti est.</foreign>
-                    </quote>
+                   
                     <note type="authorial" subtype="bibliographic" xml:id="ch1bibln1"><bibl>Ambrosius
-                        Hexamer. l.5.cap.21.</bibl></note> And an other saith, <quote>
+                        Hexamer. l.5.cap.21.</bibl></note></quote> And an other saith, <quote>
                         <foreign xml:lang="la">Mille ad usus vitæ laborem tolerant &amp; opera
                             conficiunt</foreign>
-                    </quote>
+                    
                     <note type="authorial" subtype="bibliographic" xml:id="ch1bibln2"><bibl>Pli
-                        nat.hist.l.11.c.5</bibl></note>: as they well know, who know the rare vertues of
+                        nat.hist.l.11.c.5</bibl></note></quote>: as they well know, who know the rare vertues of
                     Honie and Waxe: a taste whereof I will give you in the last chapter. </p>
                 <fw type="catch"> Secondly,</fw>
                 <pb n="B1v"/>
@@ -1676,12 +1676,12 @@
                         Bees abhorre idlenesse.</note> And thirdly, in their labour and order at
                     home and abroad they are so admirable, that they may be a patterne unto men,
                     both of the one and of the other. For unlesse they be let by weather, weaknesse,
-                    or want of matter to worke on, their labour never ceaseth. <note
-                        type="authorial" subtype="bibliographic" xml:id="ch1bibln3"><bibl>
-                            Plin.nat.hist.l.11.c.5.</bibl></note> In admiration whereof, one saith, <quote>
+                    or want of matter to worke on, their labour never ceaseth. In admiration whereof, one saith, <quote>
                         <foreign xml:lang="la">Quos efficaciæ industriæque tantæ comparemus nervos?
                             Quas vires? Quos ratione medius fidius viros?</foreign>
-                    </quote>
+                        <note
+                            type="authorial" subtype="bibliographic" xml:id="ch1bibln3"><bibl>
+                                Plin.nat.hist.l.11.c.5.</bibl></note>                    </quote>
                 </p>
                 <p xml:id="ch1par5"><note type="authorial" subtype="summary" xml:id="ch1sumn4">4.
                         Bees have a Common-wealth.</note> And for their order, it is such that they
