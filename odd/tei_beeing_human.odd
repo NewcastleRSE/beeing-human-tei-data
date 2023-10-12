@@ -815,6 +815,45 @@
               photo of the original or a redrawn diagram) and display it in the text.</p>
           </div>
         </div>
+        <div xml:id="encVar">
+          <head>Variation</head>
+          <p>Encoding variation between the 1623 and 1609 editions (and occasionally 1634 as well)
+            is a major part of the edition.</p>
+          <p>Variation is encoded using the <ref
+              target="https://tei-c.org/release/doc/tei-p5-doc/en/html/TC.html#TCAPPS">Parallel
+              segmentation method</ref> which consists of adding alternative readings <foreign
+              xml:lang="la">in situ</foreign>, with indication of a preferred reading (using
+              <tag>lem</tag>, usually from 1623), and alternatives (with <tag>rdg</tag>, usually
+            from 1609). Both cases should have a <att>wit</att> linking to the list of witnesses
+            declared in <tag>listWit</tag>, in the <tag>teiHeader</tag>.</p>
+          <p>The entire apparatus should be contained by an <tag>app</tag> element, with a
+              <att>type</att> attribute which should define whether the apparatus refers to a
+              <val>substantive</val> or <val>orthographic</val> change, and a <att>subtype</att>
+            attribute that explains wheter the change is like-for-like (<val>change</val>), a
+            deletion (<val>del</val>, i.e., it exists in either 1609 or 1634 but <emph>not</emph> in
+            1634), or an addition (<val>add</val>, i.e., exists in 1623 but not in 1609 or
+            1623).</p>
+          <div xml:id="varProc">
+            <head>The process of encoding variation</head>
+            <p>The process of encoding variation, after identifying a difference between the texts,
+              should be as follows:</p>
+            <list rend="numbered">
+              <item>Mark the start and end point of the difference in the 1609 text with an
+                  <tag>anchor</tag> element. Give these elements an <att>xml:id</att> following this
+                convention: [part of text]anc[s|e]X, for example: <egXML
+                  xmlns="http://www.tei-c.org/ns/Examples"><anchor xml:id="ch1ancs1"/></egXML>
+                refers to the first starting anchor in chapter 1. Pair starting and ending
+                  <tag>anchor</tag> by using the same numeral.</item>
+              <item>In 1623, envolope the location of the variation in an <tag>app</tag> (adding the
+                correct <att>type</att> and <att>subtype</att> values, and the existing text in a
+                  <tag>lem wit="b1623"</tag>.</item>
+              <item>Add a <tag>rdg wit="b1609"</tag>element inside the app</item>
+              <item>Add a <tag>link</tag> element to the <tag>rdg</tag> with two <att>target</att>
+                values (separated by a space), corresponding to the starting and ending location in
+                1609. For example: <egXML xmlns="http://www.tei-c.org/ns/Examples"><link target="ch1ancs1 ch1ance1"/></egXML></item>
+            </list>
+          </div>
+        </div>
       </div>
       <div xml:id="conclusion">
         <head>Conclusion</head>
@@ -852,13 +891,13 @@
           <moduleRef key="linking" include="link"/>
 
           <!-- Element changes, definitions, schematron rules... -->
-          
+
           <elementSpec ident="link" mode="change">
             <attList>
               <attDef ident="target" mode="change" usage="req"/>
             </attList>
           </elementSpec>
-          
+
           <elementSpec ident="lem" mode="change">
             <attList>
               <attDef ident="wit" mode="change" usage="req"/>
