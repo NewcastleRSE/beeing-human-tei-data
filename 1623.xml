@@ -1699,14 +1699,13 @@
                     alike: they have like common care both of their wealth and young ones. <note
                         type="authorial" subtype="bibliographic" xml:id="ch1bibln5">
                         <bibl>Arist.hist.anim.lib.9.cap.40.</bibl></note>
-                    <note type="authorial" subtype="bibliographic" xml:id="ch1bibln6"
+                    <quote><note type="authorial" subtype="bibliographic" xml:id="ch1bibln6"
                         ><bibl>Ambr.Hex.lib.5.ca.21.&amp; Basil.Hexam.Homil.8.</bibl></note>
-                    <quote>
+                    
                         <foreign xml:lang="la">Solæ in omni genere animantium communem omnibus
                             sobolem habent, unam omnes incolunt mansionem, unius patriæ clauduntur
                             limine, in commune omnibus labor, communis cibus, communis operatio,
-                            communis usus, &amp; fructus est.</foreign>
-                    </quote>
+                            communis usus, &amp; fructus est.</foreign></quote>
                     <note type="authorial" subtype="summary" xml:id="ch1sumn6"> 6. Bees alwaies
                         loyall to their Soveraigne.</note> And all this under the government of one
                     Monarch, of whom above all things they have a principall care and respect,
@@ -1740,9 +1739,10 @@
                     attend her back againe. This I may say, because I have seene it: although the
                     Philosopher be of another minde: <quote><foreign xml:lang="la">Reges</foreign>,
                         saith he, <foreign xml:lang="la">nunquam foris visuntur, nisi cum
-                            migratur.</foreign></quote>
-                    <note type="authorial" subtype="bibliographic" xml:id="ch1bibln8">
-                        <bibl>Hist.an.l.9.cap.40.</bibl></note> If by hir voyce she bid them goe, they swarme; if
+                            migratur.</foreign>
+                        <note type="authorial" subtype="bibliographic" xml:id="ch1bibln8">
+                                <bibl>Hist.an.l.9.cap.40.</bibl></note></quote>
+                     If by hir voyce she bid them goe, they swarme; if
                     being abroad she dislike the weather, or lighting-place, they quickly returne
                     home againe: while she cheereth them to battaile they fight, <ref
                         target="#ch1bibln9">v:</ref>, <note type="authorial" subtype="bibliographic"
@@ -1759,9 +1759,10 @@
                         <foreign xml:lang="la">Rege mortuo mœret plebs ignava, non cibos convehit,
                             non procedit, tristi tantùm murmure glomeratur circa corpus
                             ejus.</foreign>
+                        <note type="authorial" subtype="bibliographic" xml:id="ch1bibln12">
+                            <bibl>Nat.hist.li.11.c.17.</bibl></note>
                     </quote>
-                    <note type="authorial" subtype="bibliographic" xml:id="ch1bibln12">
-                        <bibl>Nat.hist.li.11.c.17.</bibl></note>
+                    
                 </p>
                 <p xml:id="ch1par7"><note type="authorial" subtype="summary" xml:id="ch1sumn7">7.
                         Bees endure no government, but a Monarchie.</note>But if they have many
@@ -1841,9 +1842,9 @@
                     partitions. The speere she hath is but little, and not halfe so long as the
                     other Bees: which, like a Kings sword, is borne rather for shewe and authority,
                     than for any other use. For it belongeth to hir subjects as well to fight for
-                    her, as to provide for her. <note type="authorial" subtype="bibliographic"
+                    her, as to provide for her. 
+                    <persName>Plinie</persName> writeth thus doubtingly of it: <quote> <note type="authorial" subtype="bibliographic"
                         xml:id="ch1bibln16"><bibl>Nat.hist.l.11.cap.17.</bibl></note>
-                    <persName>Plinie</persName> writeth thus doubtingly of it: <quote>
                         <foreign xml:lang="la">Non constat inter authores Rex nullumne solus habeat
                             aculeum, majestate tantum armatus, an dederit eum quidem natura, sed
                             usum ejus illi tantùm negaverit: illud constat imperatorem aculeo non
@@ -1851,15 +1852,17 @@
                     </quote>
                 </p>
                 <p xml:id="ch1par11">But <persName>Aristotle</persName> doth truly approve the later
-                    opinion, as certaine: <note type="authorial" subtype="bibliographic"
-                        xml:id="ch1bibln17"><bibl>Hist.an.l.5.cap.21.</bibl></note>
+                    opinion, as certaine: 
                     <quote>
+                        <note type="authorial" subtype="bibliographic"
+                            xml:id="ch1bibln17"><bibl>Hist.an.l.5.cap.21.</bibl></note>
                         <foreign xml:lang="la">Reges aculeos habent, sed non utuntur. Quocirca
                             carere eos aculeis nonnulli existimant.</foreign>
                     </quote>
-                    <persName> Plinie</persName> describeth them thus, <note type="authorial"
-                        subtype="bibliographic" xml:id="ch1bibln18"><bibl>Nat.hist.l.11.c.16.</bibl></note>
+                    
                     <quote>
+                        <persName> Plinie</persName> describeth them thus, <note type="authorial"
+                            subtype="bibliographic" xml:id="ch1bibln18"><bibl>Nat.hist.l.11.c.16.</bibl></note>
                         <foreign xml:lang="la">Omnibus forma semper egregia, &amp; duplo quam
                             cæteris major, pennæ breviores, crura recta, ingressus celsior, in
                             fronte macula quodam diademate candicans: Multum etiam nitore a vulgo
@@ -1884,21 +1887,24 @@
                         Plinie</persName> meaneth, where he saith, <quote>
                         <foreign xml:lang="la">Circa regem satellites quidam, lictoresque, assiduæ
                             custodes authoritatis.</foreign>
+                            <note type="authorial" subtype="bibliographic" xml:id="ch1bibln19"
+                                ><bibl>Nat.hist.li.11.c.17.</bibl></note>
                     </quote>
-                    <note type="authorial" subtype="bibliographic" xml:id="ch1bibln19"
-                        ><bibl>Nat.hist.li.11.c.17.</bibl></note> In lesse than a quarter of an houre you may see
+                     In lesse than a quarter of an houre you may see
                     three or foure of them come forth of a good stall; but chiefly in
                         <term>Gemini,</term> before their continuall labour have worne these
-                    ornaments. So that he might well say <note type="authorial"
-                        subtype="bibliographic" xml:id="ch1bibln20"><bibl>Plin.Nat.hist.li.11.c.5.</bibl></note>
+                    ornaments. So that he might well say 
                     <quote>
+                        <note type="authorial"
+                            subtype="bibliographic" xml:id="ch1bibln20"><bibl>Plin.Nat.hist.li.11.c.5.</bibl></note>
                         <foreign xml:lang="la">Rempublicam habent, consilia, ac duces.</foreign>
                     </quote> All which hee that seriously considereth, must with admiration
                     acknowledge that singular wisedome, order, and government in them, which in no
                     other creature, man onely excepted (if yet to be excepted) is to be found:
-                    whence some have inferred a farther matter, <note type="authorial"
-                        subtype="bibliographic" xml:id="ch1bibln21"><bibl>Vir.Geor.4</bibl></note>
+                    whence some have inferred a farther matter, 
                     <quote>
+                        <note type="authorial"
+                            subtype="bibliographic" xml:id="ch1bibln21"><bibl>Vir.Geor.4</bibl></note>
                         <lg rend="italic">
                             <l>His equidem signis atque hæc exempla sequuti,</l>
                             <l>Esse apibus partem divinæ mentis, &amp; haustus </l>
@@ -1918,18 +1924,20 @@
                             &amp; quæ rustico montanoque victu educatis prodierint: sunt enim hæ
                             sylvestres horridiores aspectu, &amp; iracundiores, &amp; minores; sed
                             opere &amp; labore præstantiores.</foreign>
+                        <note type="authorial" subtype="bibliographic" xml:id="ch1bibln23"
+                            ><bibl>Hist.l.9.c.40.</bibl></note>
                     </quote>
-                    <note type="authorial" subtype="bibliographic" xml:id="ch1bibln23"
-                        ><bibl>Hist.l.9.c.40.</bibl></note> Whom <persName> Plinie</persName> followeth almost
+                     Whom <persName> Plinie</persName> followeth almost
                         <foreign xml:lang="la">verbatim:</foreign> saying <quote>
                         <foreign xml:lang="la">Apes sunt etiam rustica sylvestresque, horridæ
                             aspectu, multo iracundiores; sed opere ac labore præstantiores.
                             Urbanarum duo genera: optimæ breves, variæ, &amp; in rotunditatem
                             compactiles; deteriores longæ, &amp; quibus similitudo vesparum,
                             etiamnum deterrimæ ex ijs pilosæ.</foreign>
+                            <note type="authorial" subtype="bibliographic" xml:id="ch1bibln24">
+                                <bibl>Nat.hist.li.11.c.18.</bibl></note>
                     </quote>
-                    <note type="authorial" subtype="bibliographic" xml:id="ch1bibln24">
-                        <bibl>Nat.hist.li.11.c.18.</bibl></note> But these differences my experience hath not
+                     But these differences my experience hath not
                     found: neither doe I see how they can be; seeing the swarmes of tame Bees doe
                     often flie into trees, and so become wilde; and the swarmes of wilde Bees are
                     not seldome found, and put into hives. Indeed the wilde are more angry then the
@@ -2052,9 +2060,10 @@
                     they leave both it and part of their entrals which are fastned to it. <quote>
                         <foreign xml:lang="la">Aculeum apibus natura dedit ventri
                             consertum.</foreign>
+                        <note type="authorial" subtype="bibliographic" xml:id="ch1bibln34"
+                            ><bibl>Nat.hist.l.11.c.18</bibl></note>
                     </quote>
-                    <note type="authorial" subtype="bibliographic" xml:id="ch1bibln34"
-                        ><bibl>Nat.hist.l.11.c.18</bibl></note> If they light upon Poultry, although their desire
+                    If they light upon Poultry, although their desire
                     bee to the quicke, if they can quickly come at it; yet will they put forth their
                     speares as soone as they touch the feather: and if they chance to hit the hard
                     part thereof, the sting sticketh fast, as in the skinne; and therefore
@@ -2104,11 +2113,12 @@
                         and consequently their lives.</note> But on the other side, whereas the
                     Waspe, Hornet, and Dorre, doe sting often without any hurt to themselves; the
                     Bee never stingeth but once and then shee leaveth hir speere and entrals, more
-                    or lesse behinde her, <note type="authorial" subtype="bibliographic"
-                        xml:id="ch1bibln35">
-                        <bibl>Virg.Georg.Hist.an.l.9.c.40.</bibl>
-                    </note>
+                    or lesse behinde her, 
                     <quote>
+                        <note type="authorial" subtype="bibliographic"
+                            xml:id="ch1bibln35">
+                            <bibl>Virg.Georg.Hist.an.l.9.c.40.</bibl>
+                        </note>
                         <foreign xml:lang="la">Animamque in vulnere ponit.(Intereunt quæ
                             percusserint, quoniam sine intestini eruptione aculeus eximi non
                             potest.)</foreign>
@@ -2133,8 +2143,9 @@
                     Salt and Vineger, and divers other things. <quote>
                         <foreign xml:lang="la">Id malvæ peculiare est, ut imposita ictibus vesparum
                             &amp; apum dolores levet.</foreign>
+                        <bibl>Fern.Meth.l.6.cap.4.</bibl>
                     </quote>
-                    <bibl>Fern.Meth.l.6.cap.4.</bibl>
+                   
                     <quote>
                         <foreign xml:lang="la">Stercus vaceinum vesparum ictus sanat, &amp; indito
                             aceto tumores digerit.</foreign>
@@ -2234,10 +2245,10 @@
                     observed by that great Philosopher. <quote>
                         <foreign xml:lang="la">Necant <hi rend="opposite">(saith he)</hi> vel maxima
                             animalia ictu sui aculei: jam equus occisus ab apibus est.</foreign>
-                    </quote>
-                    <note type="authorial" subtype="bibliographic" xml:id="ch1bibln36">
-                        <bibl>Arist.hist.an.l.9.c.40.</bibl>
-                    </note></p>
+                        <note type="authorial" subtype="bibliographic" xml:id="ch1bibln36">
+                            <bibl>Arist.hist.an.l.9.c.40.</bibl>
+                        </note></quote>
+                    </p>
                 <p xml:id="ch1par34"><note type="authorial" subtype="summary" xml:id="ch1sumn42">42.
                         The Bees senses.</note> And such are the sorts of Bees, with their integrall
                     parts. Among which, though there do not appear those outward <term>
@@ -2288,11 +2299,12 @@
                     <note type="authorial" subtype="bibliographic" xml:id="ch1bibln40">
                         <ref target="#ch6sumn41">V.c.6.n.41.</ref>
                     </note> be a farre off: which the Poet, speaking of the excellencie of some
-                    creatures in this sense before others, doth thus expresse, <note
-                        type="authorial" subtype="bibliographic" xml:id="ch1bibln41">
-                        <bibl>Lucret.l.4.</bibl>
-                    </note>
+                    creatures in this sense before others, doth thus expresse, 
                     <quote>
+                        <note
+                            type="authorial" subtype="bibliographic" xml:id="ch1bibln41">
+                            <bibl>Lucret.l.4.</bibl>
+                        </note>
                         <lg>
                             <l>——Ideoqe per auras</l>
                             <l>Mellis apes, quamvis longè, ducuntur odore.</l>
@@ -2398,13 +2410,12 @@
                     </note> So <fw type="catch"> that</fw>
                     <pb n="C4v"/>
                     <fw type="header"> Of the Nature and properties of Bees, </fw>
-                    <note type="authorial" subtype="bibliographic" xml:id="ch1bibln54">
-                        <bibl>Ambr.Hex.l.5.c.21</bibl>
-                    </note>that what wanteth in the sight of their eies, is fully supplied in the
-                    sight of their minde. <quote>
+                    
+                    sight of their minde. <quote><note type="authorial" subtype="bibliographic" xml:id="ch1bibln54">
+                        <bibl>Ambr.Hex.l.5.c.21</bibl></note>
                         <foreign xml:lang="la">Cùm sit infirma robore apis, valida est vigore
-                            sapientiæ &amp; amore virtutis.</foreign>
-                    </quote>
+                            sapientiæ &amp; amore virtutis.</foreign></quote>
+                    
                 </p>
                 <p xml:id="ch1par42">And yet I have read of a greater knowledge then all this: How
                     there were Bees so wise and skilfull, as not only to descrie a certaine little
