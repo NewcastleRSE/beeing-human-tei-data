@@ -61,6 +61,7 @@
         </fileDesc>
         <revisionDesc>
             <listChange>
+                <change who="OFS" when="2023-10-12">Added hi elements</change>
                 <change who="OFS" when="2023-10-10">Added ids to refs</change>
                 <change who="OFS" when="2023-10-06">Added ids to refs</change>
                 <change who="OFS" when="2023-10-06">Added targets and ref and bibl tags</change>
@@ -9448,7 +9449,7 @@
                         head-ach, waking, dreaming, and heavinesse of heart: it is fit to be used
                         before, and after purging. <bibl>Plantius in Fernel. meth.l.7</bibl></p>
                     <p xml:id="ch10p3par23">If any man like better to make these Confections with
-                        Sugar, let them take the like quantity of Honie, for Sugar <fw type="catch">
+                        <term>Sugar</term>, let them take the like quantity of Honie, for <term>Sugar</term> <fw type="catch">
                             also</fw>
                         <pb n="Y3v"/>
                         <fw type="header"> Of the fruit and profit of Bees. </fw> also hath with his
@@ -9465,7 +9466,7 @@
                                 abstergendum, desiccandum, &amp; digerendum pertinet.</foreign>
                             <bibl>Galen.de simpl.med.facult.lib.7.</bibl>
                         </quote> Item, <quote>
-                            <foreign xml:lang="la"><hi>Est &amp; quoddam mellis concreti genus quod
+                            <foreign xml:lang="la"><hi rend="opposite">Est &amp; quoddam mellis concreti genus quod
                                     Saccharum nominant: quodque in India &amp; fœlici Arabia in
                                     arundi nibus reperitur.</hi> Saccharum est mel in arundinibus
                                 collectum.</foreign>
@@ -9606,8 +9607,8 @@
                         Ideoque Cambris à <note type="editorial" subtype="certainty" cert="check"
                             xml:id="check11">Greek</note>
                         <term> Meth</term> dicitur. Pro qua voce Germani (quibus Teutonico idiomate
-                        solenne est <foreign xml:lang="de">D</foreign> pro <foreign xml:lang="de">Th</foreign> usurpare, ut in <foreign xml:lang="de"> De, Dis, Dat,
-                            Dunder;</foreign> pro <hi>The, This, That, Thunder</hi>) adeoque Angli etiam,
+                        solenne est <foreign xml:lang="de">D</foreign> pro <foreign xml:lang="de">Th</foreign> usurpare, ut in <foreign xml:lang="de"><emph> De, Dis, Dat,
+                            Dunder;</emph></foreign> pro <emph>The, This, That, Thunder</emph>) adeoque Angli etiam,
                         aliique populi boreales à Germanis oriundi, corrupte dicunt <term> Mede.</term>
                         Medonis plurimum bibunt Poloni &amp; Lituani, quod Melle abundent, inquit
                         Andreas Matthiolus. <term> Methæglen</term> vero, quod <term>Hydromel</term> est
