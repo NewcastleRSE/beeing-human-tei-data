@@ -2150,8 +2150,8 @@
                     <quote>
                         <foreign xml:lang="la">Stercus vaceinum vesparum ictus sanat, &amp; indito
                             aceto tumores digerit.</foreign>
-                    </quote>
-                    <bibl> Fern.Meth.l.5.cap.27</bibl>. Rue drunken with Wine, <hi rend="italic">or rather with
+                        <bibl> Fern.Meth.l.5.cap.27</bibl>.</quote>
+                    Rue drunken with Wine, <hi rend="italic">or rather with
                         Hydromel,</hi> or the leaves stamped with Honie and Salt, and laid to the
                     wound, is good against stinging of Bees, Waspes, Hornets, and Scorpions; <bibl>
                         Dodoens,l.2.c.83.</bibl></p>
@@ -2379,10 +2379,11 @@
                         <foreign xml:lang="la">Prædivinant enim ventos imbresque, &amp; tunc se
                             pleræque continent tectis. <hi rend="opposite">Item</hi>, Præsagiunt
                             apes, &amp; hyemem &amp; imbres, v.</foreign>
+                        <note type="authorial" subtype="bibliographic" xml:id="ch1bibln48">
+                            <bibl>Nat.hist.l.11.c.10.</bibl>
+                        </note>
                     </quote>
-                    <note type="authorial" subtype="bibliographic" xml:id="ch1bibln48">
-                        <bibl>Nat.hist.l.11.c.10.</bibl>
-                    </note>
+                    
                     <note type="authorial" subtype="bibliographic" xml:id="ch1bibln49">
                         <bibl>Hist.an.l.9.c.40.</bibl>
                     </note>
@@ -2517,6 +2518,7 @@
                             fenestris appositè suis locis ornatos, ostium, turrim, cum suis
                             tintinabulis: Eucharistiam vero in altari repositam circumvolabant suavi
                             susurro per strepentes apes.</foreign>
+                        <note xml:id="ch1par47note" type="editorial" subtype="other">this is the first half of the story which continues in the next quote which includes the reference<bibl>Tho: Bozius de signis Ecclesiæ. Lib.14.c.3.</bibl></note>
                     </quote>
                     <note type="authorial" subtype="gloss" xml:id="ch1glon3">
                         <foreign xml:lang="la">Nam miranda canunt, sed non credenda Poetæ.</foreign>
@@ -2578,37 +2580,40 @@
                     </quote></p>
                 <p xml:id="ch1par53"><quote>
                         <foreign xml:lang="la">Quod non concubitu indulgent, &amp;c.</foreign>
-                    </quote>
                     <note type="authorial" subtype="bibliographic" xml:id="ch1bibln56">
                         <bibl>August.de Trinit.l.3. Idem de bono conjugali. Georg.</bibl>
-                    </note> They ingender not as other living creatures: only they suffer their
+                    </note></quote>
+                     They ingender not as other living creatures: only they suffer their
                     Drones <ref target="#ch1bibln57"> v.</ref>
                     <note type="authorial" subtype="bibliographic" xml:id="ch1bibln57">
                         <ref target="#ch4sumn3">V.c. 4.n.3. &amp;c.</ref>
                     </note> among them for a season, by whose Masculine virtue they strangely
                     conceive and breed for the preservation of their sweet kinde. Which strange kind
-                    of breeding the Philosopher saith to be apparent unto sense and reason. <note
-                        type="authorial" subtype="bibliographic" xml:id="ch1bibln58">
-                        <bibl>Generat.an.l.3.c.10.</bibl>
-                    </note>
+                    of breeding the Philosopher saith to be apparent unto sense and reason. 
                     <quote>
+                        <note
+                            type="authorial" subtype="bibliographic" xml:id="ch1bibln58">
+                            <bibl>Generat.an.l.3.c.10.</bibl>
+                        </note>
                         <foreign xml:lang="la">Cum in genere piscium talis quædam sit generatio
                             nonnullorum, ut sine coitu generent; hoc idem in apibus etiam evenire
                             videtur, quoad sensus ratioque apparens admoneat.</foreign>
                     </quote></p>
                 <p xml:id="ch1par54"><note type="authorial" subtype="summary" xml:id="ch1sumn54">54.
                         Cleanlinesse</note> For cleanlinesse and neatnesse, they may be a Mirror to
-                    the finest Dames. <note type="authorial" subtype="bibliographic"
-                        xml:id="ch1bibln59">
-                        <bibl>Hist.an.l.9.cap.40.</bibl>
-                    </note>
-                    <note type="authorial" subtype="bibliographic" xml:id="ch1bibln60">
-                        <quote><bibl>Nat.hist.li.11.c.10</bibl></quote>
-                    </note>
+                    the finest Dames. 
+                   
                     <quote>
+                        <note type="authorial" subtype="bibliographic"
+                            xml:id="ch1bibln59">
+                            <bibl>Hist.an.l.9.cap.40.</bibl>
+                        </note>
                         <foreign xml:lang="la">Mundissimum omnium hoc animal est.</foreign>
                     </quote> For neither will they suffer any flutterie within, if they may goe
                     abroad, <quote>
+                        <note type="authorial" subtype="bibliographic" xml:id="ch1bibln60">
+                            <quote><bibl>Nat.hist.li.11.c.10</bibl></quote>
+                        </note>
                         <foreign xml:lang="la">Amoliuntur omnia è medio, nullæque inter opera
                             spurcitiæ jacent</foreign>
                     </quote>; neither can they endure any unsavourinesse without nigh unto them. <quote>
