@@ -4111,10 +4111,10 @@
                     <pb n="H2v"/>
                     <fw type="header"> Of the Breeding of Bees, </fw> and an other, increasing still
                     in the same place till Summer be done. For they goe not forth in swarmes as Bees
-                    doe. <note type="authorial" subtype="bibliographic" xml:id="ch4bibln13">
+                    doe. 
+                    <quote> <note type="authorial" subtype="bibliographic" xml:id="ch4bibln13">
                         <bibl>Hist.l.9.c.42.</bibl>
                     </note>
-                    <quote>
                         <foreign xml:lang="la">Missio, ut apum, nulla vel crabronum vel vesparum
                             fieri solet: sed qui subinde oriantur novelli ibidem manent, &amp;
                             alveum terrâ egestâ faciunt ampliorem.</foreign>
@@ -4150,11 +4150,12 @@
                 <pb n="H3r"/>
                 <fw type="header"> and of the Drone. </fw>
                 <p xml:id="ch4par9">And that the Drone-waspes are the males, some were of opinion in
-                    the daies of <persName> Aristotle</persName> for thus he writeth. <note
-                        type="authorial" subtype="bibliographic" xml:id="ch4bibln14">
-                        <bibl>His.li.9.41.</bibl>
-                    </note>
+                    the daies of <persName> Aristotle</persName> for thus he writeth. 
                     <quote>
+                        <note
+                            type="authorial" subtype="bibliographic" xml:id="ch4bibln14">
+                            <bibl>His.li.9.41.</bibl>
+                        </note>
                         <foreign xml:lang="la">Si vespam ex pedibus ceperis bombilareque, siveris,
                             advolant quæ aculeo carent: quod non faciunt, quæ aculeatæ sunt. Itaque
                             argumento quidam hoc utuntur quod alteræ mares sunt, alteræ
@@ -4213,17 +4214,17 @@
                 <p xml:id="ch4par12"><note type="authorial" subtype="summary" xml:id="ch4sumn11">11.
                             <persName>Aristotles</persName> Objection answered.</note> This truth
                     began to appeare many yeares agoe, even in <persName> Aristotles</persName>
-                    time. <quote>
+                    time. <quote> <note type="authorial" subtype="bibliographic" xml:id="ch4bibln16">
+                        <bibl> His.l.5.c.21.</bibl>
+                    </note>
                         <foreign xml:lang="la">Aliqui <hi rend="opposite">(saith he)</hi> mares esse
                             fucos, fœminas vero apes esse contendunt.</foreign>
                     </quote> Which opinion he reciteth in another place. <quote>
                         <foreign xml:lang="la">Sunt qui fuces mares esse, apes fœminas
                             arbitrentur</foreign>
-                    </quote>. <note type="authorial" subtype="bibliographic" xml:id="ch4bibln16">
-                        <bibl> His.l.5.c.21.</bibl>
-                    </note><note type="authorial" subtype="bibliographic" xml:id="ch4bibln17"
-                        ><bibl>Generat.l.3.c.10.</bibl></note> Where though he doe not approve it; yet hath he no
-                    other resson against it but this. <quote>
+                    </quote>.  Where though he doe not approve it; yet hath he no
+                    other resson against it but this. <quote> <note type="authorial" subtype="bibliographic" xml:id="ch4bibln17"
+                        ><bibl>Generat.l.3.c.10.</bibl></note>
                         <foreign xml:lang="la">Arma ad pugnam viresque exercendas nulli fœminæ à
                             natura tribuunutur.</foreign>
                     </quote> Nature hath armed no female for fight and force against the male: but
@@ -4252,14 +4253,14 @@
                         <foreign xml:lang="la">Xantippe Socratis Philosophi uxor morosa admodum
                             fuisse fertur &amp; jurgiosa: irarumque, &amp; molestiarum muliebrium
                             per diem perque noctem scatebat.</foreign>
-                    </quote>
-                    <bibl>A Gellius l.1.c.17.</bibl>
+                            <bibl>A Gellius l.1.c.17.</bibl></quote>
+                    
                     <quote>
                         <foreign xml:lang="la">Socrates, cum in eum Xantippe prius convitia &amp;
                             maledicta ingessisset, postea vero &amp; sordidis aquis perfudisset,
                             Nonne (inquit) dicebam Xantippen tonantem quandoque pluituram?</foreign>
-                    </quote>
-                    <bibl>Laertius lib: 2. in vita Socratis.</bibl></note>
+                        <bibl>Laertius lib: 2. in vita Socratis.</bibl></quote>
+                   </note>
                 <p xml:id="ch4par14">But you must understand that the Philsopher speaketh thus, not
                         <term>dogmaticè</term> but <term> disputatvè</term>, onely by way of
                     reasoning: for in the end of the same chapter he yeeldeth himselfe to have no
@@ -4342,19 +4343,19 @@
                         <ref target="#ch6sumn11"> V.c.6.n.11.</ref>&amp;<ref target="#ch6sumn12">12.</ref>
                     </note> after a peculiar and more excellent manner. For the golden matter
                     whereof they are made is not turned into a Worme at all; but immediately
-                    receiveth the shape of a Bee. <note type="authorial" subtype="bibliographic"
+                    receiveth the shape of a Bee. 
+                    <quote><note type="authorial" subtype="bibliographic"
                         xml:id="ch4bibln21">
                         <bibl>Hist.l.5.c.22</bibl>
                     </note>
-                    <quote>
                         <foreign xml:lang="la">Primordium regum colore cernitur fulvo, corpulentia
                             mellis crassioris, magnitudine ilico proximâ suæ futuræ soboli: nec
                             primum ex eo vermiculus gignitur, sed statim apis.</foreign>
-                    </quote> Item. <note type="authorial" subtype="bibliographic"
+                    </quote> Item. 
+                    <quote> <note type="authorial" subtype="bibliographic"
                         xml:id="ch4bibln22">
                         <bibl>Colum:l.9.c.11</bibl>
                     </note>
-                    <quote>
                         <foreign xml:lang="la">Higinius negat ex vermiculo, ut cæteras apes, fieri
                             ducem; sed in circuitu favorum paulo majora, quam sint plebij seminis,
                             inveniri for amina repleta quasi sorde rubri coloris, ex qua protinus
@@ -4381,13 +4382,13 @@
                 <note type="authorial" subtype="gloss" xml:id="ch4glon5">*The young Bees are called
                     Schadons: <quote>
                         <foreign xml:lang="la">Schadones sobolem dico.</foreign>
-                    </quote>
-                    <bibl> Hist.l.5.c.22.</bibl> The brood of females, when they have the shape of
+                        <bibl> Hist.l.5.c.22.</bibl></quote>
+                    The brood of females, when they have the shape of
                     Bees, are called Nymphs, and the young Drones Cephens: <quote>
                         <foreign xml:lang="la">Cætera turba, cum formam capere cæpit, Nymphæ
                             vocantur, ut fuci Cephenes</foreign>
-                    </quote>
-                    <bibl>Pl.li.11.c.11.</bibl></note>
+                        <bibl>Pl.li.11.c.11.</bibl> </quote>
+                   </note>
                 <p xml:id="ch4par23"><note type="authorial" subtype="summary" xml:id="ch4sumn21">21.
                         Two uses of the Drones.</note> These Cephens or Drones, when they are
                     fledge, doe not only serve for generation (as hath beene shewed) but also doe
