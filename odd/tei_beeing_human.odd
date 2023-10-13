@@ -901,6 +901,27 @@
                 <rdg wit="b1609"><link target="1609.xml#frontancs1 1609.xml#frontance1"/></rdg>
               </app> For the fruite of the Silk-worme serveth onlie to cover the body; </egXML>
           </div>
+          <div xml:id="encVarDel">
+            <head>Text that has been cut from 1609</head>
+            <p>Text that appears in 1609 but does not appear in 1623 follows the same pattern as
+                <ptr target="#encVarCha"/>, with the exception that the <tag>lem</tag> for 1623 is
+              an empty element.</p>
+            <label>1609</label>
+            <egXML xmlns="http://www.tei-c.org/ns/Examples"> which foor let me made of sound timber
+              5 or 6 inches over; and of that length that it may be set betweene fifteene and
+              eighteene inches in the ground. <anchor xml:id="ch2ancs1"/>The fower feet are fittest
+              for the higher stooles, and the single foote for the lower.<anchor xml:id="ch2ance1"/>
+            </egXML>
+            <label>1623</label>
+            <egXML xmlns="http://www.tei-c.org/ns/Examples">
+              <p>...which foot let be made of sound timber five or six inches over; and of that
+                length, that it may be set betweene fifteene and eighteene inches in the ground.<app
+                  type="del">
+                  <lem wit="b1623"/>
+                  <rdg wit="b1606"><link target="1609.xml#ch2ancs1 1609.xml#ch2ance1"/></rdg>
+                </app></p>
+            </egXML>
+          </div>
         </div>
       </div>
       <div xml:id="conclusion">
