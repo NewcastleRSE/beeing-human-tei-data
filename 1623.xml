@@ -2633,14 +2633,17 @@
                 <p xml:id="ch1par55"><note type="authorial" subtype="summary" xml:id="ch1sumn55">55.
                         The age of Bees.</note> Anent the age of Bees there are divers opinions:
                     some thinke that they may live foure or five yeares, yea some six or seven:
-                        <note type="authorial" subtype="bibliographic" xml:id="ch1bibln63">
-                        <bibl>Georg.4.Hist.l.5.c.22.</bibl>
-                    </note>
+                        
                     <quote>
+                        <note type="authorial" subtype="bibliographic" xml:id="ch1bibln63">
+                            <bibl>Georg.4.</bibl>
+                        </note>
                         <foreign xml:lang="la">Neque enim plus septima ducitur æstas.</foreign>
                     </quote>
                 </p>
-                <p xml:id="ch1par56"><persName>Aristotle</persName> speaketh of a longer time <quote>
+                <p xml:id="ch1par56"><persName>Aristotle</persName> speaketh of a longer time <quote> <note type="authorial" subtype="bibliographic" xml:id="ch1bibln63b">
+                    <bibl>Hist.l.5.c.22.</bibl>
+                </note>
                         <foreign xml:lang="la">Vita apium anni sex, nonnullæ etiam 7; possunt
                             complere: quod si examen 9. aut decem annos duràverit prosperè actum
                             esse existimatur.</foreign>
