@@ -6231,11 +6231,11 @@
                         >v</ref>
                     <note type="authorial" subtype="bibliographic" xml:id="ch6bibln19">
                         <ref target="#ch6sumn21"> V.n.21.</ref>
-                    </note>. And before him <persName> Aristotle</persName> himselfe thus. <note
+                    </note>. And before him <persName> Aristotle</persName> himselfe thus. 
+                    <quote> <note
                         type="authorial" subtype="bibliographic" xml:id="ch6bibln20">
                         <bibl> Hist.l.9.c.40.</bibl>
                     </note>
-                    <quote>
                         <foreign xml:lang="la">Mel apibus tum estate tum hyeme cibo est: sed
                             recondunt alterum quoq cibarii genus, cui durities ceræ proxima quod
                             sandaracham nonnulli appellant.</foreign>
@@ -6435,12 +6435,12 @@
                     that oftentimes they throw downe one an other for haste. </p>
                 <p xml:id="ch6par36"><note type="authorial" subtype="summary" xml:id="ch6sumn42">42.
                         What the Honie-dew is.</note> What this <foreign xml:lang="la">Mel
-                        Roscidum</foreign> should be, <note type="authorial" subtype="bibliographic"
-                            xml:id="ch6bibln36"><bibl>Nat.hist.li.11.c.12</bibl></note>
+                        Roscidum</foreign> should be, 
                     <persName> Plinie</persName> seemeth much to doubt where he saith <quote>
                         <foreign xml:lang="la">Sive illud sit cœli sudor sive quædam syderum saliva,
                             sive purgantis se aeris succus.</foreign>
-                    </quote> But, if conjectures might be admitted, I would rather judge it to be
+                        <note type="authorial" subtype="bibliographic"
+                            xml:id="ch6bibln36"><bibl>Nat.hist.li.11.c.12</bibl></note></quote> But, if conjectures might be admitted, I would rather judge it to be
                     the verie quintessence of all the sweetnesse of the earth (which at that time is
                     most plentifull) drawne up, as other dewes, in vapours into the third Region of
                     the Aire, by the exceeding and continuall heat of the Sunne; and there concrete
@@ -6530,10 +6530,10 @@
                     end: and not meddle with any flowre of other sort, untill they have their load. <quote>
                         <foreign xml:lang="la">Mos apibus ne florum plura genera petant uno eodemq
                             profectu, sed singulis singula.</foreign>
-                    </quote> Insomuch as those which beginne with the flower of the Vetch will not
-                    once touch <note type="authorial" subtype="bibliographic" xml:id="ch6bibln42">
-                        <bibl> Hist.ac.l.9.c.40</bibl>
-                    </note> the rich spotted leafe of the same, before they have beene at home.
+                        <note type="authorial" subtype="bibliographic" xml:id="ch6bibln42">
+                            <bibl> Hist.ac.l.9.c.40</bibl>
+                        </note></quote> Insomuch as those which beginne with the flower of the Vetch will not
+                    once touch  the rich spotted leafe of the same, before they have beene at home.
                     Although when they come to a flower that yeeldeth both <term>Nectar</term> and
                         <fw type="catch"> Ambrosia, </fw>
                     <pb n="P1v"/>
@@ -6595,11 +6595,11 @@
                         subtype="summary" xml:id="ch6sumn53"> 53. Chiefly for their breed</note>
                     Some thinke it serveth onely to feede their Schadons: (<quote>
                         <foreign xml:lang="la">Aquam tum portant, cum prolem nutriunt)</foreign>
-                    </quote>
+                        <note type="authorial" subtype="bibliographic" xml:id="ch6bibln45">
+                            <bibl>Hist.an.l.9.c.40.</bibl>
+                        </note></quote>
                     <ref target="#ch7sumn24">v:</ref>
-                    <note type="authorial" subtype="bibliographic" xml:id="ch6bibln45">
-                        <bibl>Hist.an.l.9.c.40.</bibl>
-                    </note><note type="authorial" subtype="bibliographic" xml:id="ch6bibln46"
+                    <note type="authorial" subtype="bibliographic" xml:id="ch6bibln46"
                         ><ref target="#ch7sumn24">V.c.7.n.24.</ref></note> and that not without reason, seeing that
                         <term>Ambrosia</term> their daily food is hot and dry: and indeed when the
                     Drones are done away, and breeding is ended, the Bees are nothing so frequent at
