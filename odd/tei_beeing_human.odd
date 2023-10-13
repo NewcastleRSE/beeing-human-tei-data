@@ -850,8 +850,56 @@
               <item>Add a <tag>rdg wit="b1609"</tag>element inside the app</item>
               <item>Add a <tag>link</tag> element to the <tag>rdg</tag> with two <att>target</att>
                 values (separated by a space), corresponding to the starting and ending location in
-                1609. For example: <egXML xmlns="http://www.tei-c.org/ns/Examples"><link target="ch1ancs1 ch1ance1"/></egXML></item>
+                1609. For example: <egXML xmlns="http://www.tei-c.org/ns/Examples"><link
+                    target="ch1ancs1 ch1ance1"/></egXML></item>
             </list>
+          </div>
+          <div xml:id="encVarCha">
+            <head>Like-for-like change</head>
+            <p>Follow this proceadure when the 1623 edition rewrites a portion of the 1609 text with
+              a mixture of additions, deletions, and vocabulary changes. For example, consider the
+              following extract from the preface.</p>
+            <p><quote><bibl>1609</bibl> The later part of which saying although the delicat
+                Silk-worme have else-where disproved, and is now setting foot in this land, here
+                also to except against it; yet must shee needs confesse the former, and, when shee
+                is come, yeelde the precedence to the laborious Bee, as to hir elder sister; which
+                as in time, so in vertue is before her. For the fruite of the Silke-worme serveth
+                onlie to cover the bodie;</quote></p>
+            <p><quote><bibl>1623</bibl> The later part of which saying, although the delicate
+                Silk-worme have in some hoter Climates disproved; (for in the colder countries, such
+                as is our Iland of Britaine, I doubt mee shee will never quit cost: and therefore is
+                here to be entertained only of them, that doe more respect their pleasure, than
+                their profit; and doe content themselves with the beholding of their queint worke,
+                not expecting any further recompence for their expence and paines;) yet mustshee
+                needs confesse the former, and wheresoever she meet the ingenuous and laborious Bee,
+                yeeld the precendence to her, as to hir Better. For the fruite of the Silk-worme
+                serveth onlie to cover the body;</quote>
+            </p>
+            <p>Not only does 1623 add a considerable amount of text to 1609, it also rewrites a
+              portion of the text that it keeps. You can be as granular as you wish in marking these
+              differences but, both for efficiency and readability, it would be better to group them
+              all together as a like-for-like change, like so:</p>
+            <label>1609.xml</label>
+            <egXML xmlns="http://www.tei-c.org/ns/Examples"> The later part of which saying although
+              the delicat Silk-worme have <anchor xml:id="frontancs1"/>else-where disproved, and is
+              now setting foot in this land, here also to except against it; yet must shee needs
+              confesse the former, and, when shee is come, yeelde the precedence to the laborious
+              Bee, as to hir elder sister; which as in time, so in vertue is before her.<anchor
+                xml:id="frontance1"/> For the fruite of the Silke-worme serveth onlie to cover the
+              bodie; </egXML>
+            <label>1623.xml</label>
+            <egXML xmlns="http://www.tei-c.org/ns/Examples"> The later part of which saying,
+              although the delicate Silk-worme have <app type="change">
+                <lem wit="b1623"> in some hoter Climates disproved; (for in the colder countries,
+                  such as is our Iland of <placeName rend="italic">Britaine</placeName>, I doubt mee
+                  shee will never quit cost: and therefore is here to be entertained only of them,
+                  that doe more respect their pleasure, than their profit; and doe content
+                  themselves with the beholding of their queint worke, not expecting any further
+                  recompence for their expence and paines;) yet mustshee needs confesse the former,
+                  and wheresoever she meet the ingenuous and laborious Bee, yeeld the precendence to
+                  her, as to hir Better. </lem>
+                <rdg wit="b1609"><link target="1609.xml#frontancs1 1609.xml#frontance1"/></rdg>
+              </app> For the fruite of the Silk-worme serveth onlie to cover the body; </egXML>
           </div>
         </div>
       </div>
