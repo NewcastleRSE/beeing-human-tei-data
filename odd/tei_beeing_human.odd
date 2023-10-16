@@ -837,7 +837,7 @@
             <head>The process of encoding variation</head>
             <p>The process of encoding variation, after identifying a difference between the texts,
               should be as follows:</p>
-            <list rend="numbered">
+            <list type="instructions" rend="numbered">
               <item>Mark the start and end point of the difference in the 1609 text with an
                   <tag>anchor</tag> element. Give these elements an <att>xml:id</att> following this
                 convention: [part of text]anc[s|e]X, for example: <egXML
@@ -853,6 +853,30 @@
                 1609. For example: <egXML xmlns="http://www.tei-c.org/ns/Examples"><link
                     target="ch1ancs1 ch1ance1"/></egXML></item>
             </list>
+            <p><tag>app</tag>s are classified with <att>type</att>s and <att>subtype</att>s.
+                <att>subtype</att>s (<val>change</val>, <val>del</val>, <val>add</val>) are
+              explained in more detail below. <att>type</att> can take one of the following values:
+                <list type="gloss">
+                <label><val>substantive</val></label>
+                <item>A significant change between the versions beeing compared, usually comprised
+                  of more than a few words, that significantly transforms the meaning of the
+                  passage. Additions and deletions are almost always <val>substantive</val>.</item>
+                <label><val>ortographic</val></label>
+                <item>A change that only affects the spelling of existing words, either to correct a
+                  spelling mistake in the earlier edition, or to update the text to a new spelling
+                  convention (for example by replacing y<hi rend="superscript">e</hi> for the).
+                  Ortographic changes between 1623 and 1634 should <emph>not</emph> be recorded in
+                  this way.</item>
+                <label><val>vocabulary</val></label>
+                <item>A small change that replaces one word for a synonym (or adds or deletes a
+                  word) without significant impact to the meaning of the passage.</item>
+                <label><val>other</val></label>
+                <item>Any other type of change not currently covered by this typology. If this
+                  happens, remember to open an inssue in <ref
+                    target="https://github.com/NewcastleRSE/beeing-human-tei-data/issues"
+                    >Github</ref> to discuss the best approach to the problem.</item>
+              </list>
+            </p>
           </div>
           <div xml:id="encVarCha">
             <head>Like-for-like change</head>
@@ -889,7 +913,7 @@
               bodie; </egXML>
             <label>1623.xml</label>
             <egXML xmlns="http://www.tei-c.org/ns/Examples"> The later part of which saying,
-              although the delicate Silk-worme have <app type="change">
+              although the delicate Silk-worme have <app type="substantial" subtype="change">
                 <lem wit="b1623"> in some hoter Climates disproved; (for in the colder countries,
                   such as is our Iland of <placeName rend="italic">Britaine</placeName>, I doubt mee
                   shee will never quit cost: and therefore is here to be entertained only of them,
@@ -916,11 +940,72 @@
             <egXML xmlns="http://www.tei-c.org/ns/Examples">
               <p>...which foot let be made of sound timber five or six inches over; and of that
                 length, that it may be set betweene fifteene and eighteene inches in the ground.<app
-                  type="del">
+                  type="substantial" subtype="del">
                   <lem wit="b1623"/>
                   <rdg wit="b1606"><link target="1609.xml#ch2ancs1 1609.xml#ch2ance1"/></rdg>
                 </app></p>
             </egXML>
+          </div>
+          <div xml:id="encVarAdd">
+            <head>Text that has been newly added to 1623</head>
+            <p>Text that has been added to 1623 that does not appear in 1609 follows the same
+              pattern as <ptr target="#encVarDel"/>, with the exception that, this time, it is the
+                <tag>rdg</tag> for 1609 that is empty. Because there is no text in 1609, you do not
+              need to add any anchor points to it. The placement and content of the <tag>app</tag>
+              make it clear the text that exists in 1609 and the text that has been added to
+              1623.</p>
+            <label>1609</label>
+            <egXML xmlns="http://www.tei-c.org/ns/Examples">
+              <p>...or otherwise the sense doth plainely shew that it is spoken of the whole month. </p>
+              <p xml:id="frontpar7">I am out of doubt that this book of <hi>Bees</hi> wil in his
+                infancy be hidden in obscurity as the book of <hi>tropes and figures</hi> did for a
+                while go unregarded, without friends or acquaintance:...</p>
+            </egXML>
+            <label>1623</label>
+            <egXML xmlns="http://www.tei-c.org/ns/Examples">
+              <p>...or otherwise the sense doth plainely shew that it is spoken of the whole Moneth. </p>
+              <app type="substantial" subtype="add"><lem wit="b1623"><p xml:id="frontpar7">When you
+                    have once, for your satisfaction, perused this Booke, you need not afterward
+                    seeke farre for anything therein, whereof you doubt: the <ref target="#contents"
+                      rend="italic">Index</ref> of the Chapters or Contents of the Booke; and of the
+                    Marginall notes, or Contents of the Chapters will readily direct you. For
+                    example, if you would know the Spleeting of Hives, or the manner of Hiving Bees;
+                    looking into the <ref target="#contents" rend="italic">Index</ref> of the
+                    Chapters, you shall perceive the one to appertaine to the Third, and the other
+                    to the Fifth; and running over the Contents of either Chapter, you shall find
+                    the first to be the Tenth note, and the other the 53. Then turning to these
+                    Marginall Notes in the said Chapters, you have in the Text over against them
+                    your desire.</p>
+                  <p xml:id="frontpar8">Note also, that whereas you have in the Margin, with these
+                    Marginall Notes, certaine References unto other places of the Booke, for further
+                    explanation of those places against which they stand; <term rend="italic"
+                      >V.</term> signifieth <gloss>
+                      <foreign xml:lang="la">vide</foreign>
+                    </gloss>, or <gloss rend="italic">See, C.</gloss> with his number the Chapter,
+                    and <hi rend="italic">N.</hi> with his number the Marginall Note. But if <hi
+                      rend="term">N.</hi> follow <term> V.</term> without <hi rend="italic">C</hi>;
+                    then doth it note some Note of the same Chapter.</p></lem>
+                <rdg wit="b1609"/>
+              </app>
+              <fw type="catch"> I am</fw>
+              <pb n="A1r"/>
+              <fw type="header"> The Preface to the Reader. </fw>
+              <p>I am out of doubt that this Booke of <term rend="italic">Bees</term> will in his
+                Infancie lie hidden in obscuritie, as the Booke of <term rend="italic">Tropes</term>
+                and <term rend="italic">Figures</term> did for a while goe unregarded, without
+                friends or acquaintance:...</p>
+            </egXML>
+          </div>
+          <div xml:id="encVarMov">
+            <head>Text that has been moved from its original position in 1609</head>
+            <p>Text that has been moved from one location in 1609 to another in 1623 (akin to cut
+              and paste) is currently not marked up in any special way, the variation already beeing
+              covered by <ref target="#encVarAdd"><val>add</val></ref> and <ref target="#encVarDel"
+                  ><val>del</val></ref>. If you do find any significant variation that falls in this
+              category, make a note of its locations in both 1609 and 1623 but, for now, mark it up
+              as additions and deletions to the normal flow of text. See <ref
+                target="https://github.com/NewcastleRSE/beeing-human-tei-data/issues/32">this github
+                issue</ref> for more.</p>
           </div>
         </div>
       </div>
@@ -982,6 +1067,55 @@
           <elementSpec ident="witness" mode="change">
             <attList>
               <attDef ident="xml:id" mode="change" usage="req"/>
+            </attList>
+          </elementSpec>
+
+          <elementSpec ident="app" mode="change">
+            <attList>
+              <attDef ident="type" mode="change" usage="req">
+                <valList type="closed" mode="change">
+                  <valItem ident="substantive" mode="add">
+                    <desc>A significant change between the versions beeing compared, usually
+                      comprised of more than a few words, that significantly transforms the meaning
+                      of the passage.</desc>
+                  </valItem>
+                  <valItem ident="ortographic" mode="add">
+                    <desc> A change that only affects the spelling of existing words, either to
+                      correct a spelling mistake in the earlier edition, or to update the text to a
+                      new spelling convention. </desc>
+                  </valItem>
+                  <valItem ident="vocabulary" mode="add">
+                    <desc> A small change that replaces one word for a synonym (or adds or deletes a
+                      word) without significant impact to the meaning of the passage. </desc>
+                  </valItem>
+                  <valItem ident="other" mode="add">
+                    <desc>Any other type of change not currently covered by this typology. If this
+                      happens, remember to open an inssue in <ref
+                        target="https://github.com/NewcastleRSE/beeing-human-tei-data/issues"
+                        >Github</ref> to discuss the best approach to the problem.</desc>
+                  </valItem>
+                </valList>
+              </attDef>
+              <attDef ident="subtype" mode="change" usage="req">
+                <valList type="closed" mode="change">
+                  <valItem ident="change" mode="add">
+                    <desc>The 1623 edition rewrites a portion of the 1609 text with a mixture of
+                      additions, deletions, and vocabulary changes.</desc>
+                  </valItem>
+                  <valItem ident="del" mode="add">
+                    <desc>Text that appears in 1609 but does not appear in 1623.</desc>
+                  </valItem>
+                  <valItem ident="add" mode="add">
+                    <desc> Text that has been added to 1623 that does not appear in 1609.</desc>
+                  </valItem>
+                  <valItem ident="other" mode="add">
+                    <desc>Any other type of change not currently covered by this typology. If this
+                      happens, remember to open an inssue in <ref
+                        target="https://github.com/NewcastleRSE/beeing-human-tei-data/issues"
+                        >Github</ref> to discuss the best approach to the problem.</desc>
+                  </valItem>
+                </valList>
+              </attDef>
             </attList>
           </elementSpec>
 

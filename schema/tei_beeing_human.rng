@@ -5,7 +5,7 @@
          xmlns:xlink="http://www.w3.org/1999/xlink"
          datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes"
          ns="http://www.tei-c.org/ns/1.0"><!--
-Schema generated from ODD source 2023-10-13T10:09:39Z. .
+Schema generated from ODD source 2023-10-16T08:55:19Z. .
 TEI Edition: Version 4.5.0. Last updated on
         25th October 2022, revision 3e98e619e
 TEI Edition Location: https://www.tei-c.org/Vault/P5/Version 4.5.0/
@@ -5168,15 +5168,34 @@ Sample values include: 1] homeoteleuton; 2] homeoarchy; 3] paleographicConfusion
             </zeroOrMore>
          </group>
          <ref name="tei_att.global.attributes"/>
-         <ref name="tei_att.typed.attribute.subtype"/>
-         <optional>
-            <attribute name="type">
-               <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">classifies the variation contained in this element according to some convenient typology.</a:documentation>
-               <data type="token">
-                  <param name="pattern">[^\p{C}\p{Z}]+</param>
-               </data>
-            </attribute>
-         </optional>
+         <attribute name="type">
+            <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">classifies the variation contained in this element according to some convenient typology.</a:documentation>
+            <choice>
+               <value>substantive</value>
+               <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">A significant change between the versions beeing compared, usually comprised of more than a few words, that significantly transforms the meaning of the passage.</a:documentation>
+               <value>ortographic</value>
+               <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">A change that only affects the spelling of existing words, either to correct a spelling mistake in the earlier edition, or to update the text to a new spelling convention. </a:documentation>
+               <value>vocabulary</value>
+               <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">A small change that replaces one word for a synonym (or adds or deletes a word) without significant impact to the meaning of the passage. </a:documentation>
+               <value>other</value>
+               <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Any other type of change not currently covered by this typology. If this happens, remember to open an inssue in <a xmlns="http://www.w3.org/1999/xhtml"
+                     href="https://github.com/NewcastleRSE/beeing-human-tei-data/issues">Github</a> to discuss the best approach to the problem.</a:documentation>
+            </choice>
+         </attribute>
+         <attribute name="subtype">
+            <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">(subtype) provides a sub-categorization of the element, if needed</a:documentation>
+            <choice>
+               <value>change</value>
+               <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">The 1623 edition rewrites a portion of the 1609 text with a mixture of additions, deletions, and vocabulary changes.</a:documentation>
+               <value>del</value>
+               <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Text that appears in 1609 but does not appear in 1623.</a:documentation>
+               <value>add</value>
+               <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Text that has been added to 1623 that does not appear in 1609.</a:documentation>
+               <value>other</value>
+               <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Any other type of change not currently covered by this typology. If this happens, remember to open an inssue in <a xmlns="http://www.w3.org/1999/xhtml"
+                     href="https://github.com/NewcastleRSE/beeing-human-tei-data/issues">Github</a> to discuss the best approach to the problem.</a:documentation>
+            </choice>
+         </attribute>
          <optional>
             <attribute name="from">
                <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">identifies the beginning of the lemma in the base text.</a:documentation>
