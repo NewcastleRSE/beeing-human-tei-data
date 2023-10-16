@@ -6604,14 +6604,14 @@
                         <term>Ambrosia</term> their daily food is hot and dry: and indeed when the
                     Drones are done away, and breeding is ended, the Bees are nothing so frequent at
                     the watring-places. But <persName>Columella</persName> thinketh the use thereof
-                    to be more generall, <note type="authorial" subtype="bibliographic"
-                        xml:id="ch6bibln47">
-                        <bibl>De re rust. l.9.c.5.</bibl>
-                    </note>
+                    to be more generall, 
                     <quote>
                         <foreign xml:lang="la">Sine qua neque, favi, neque, mella, nec pulli deniq
                             figurari queunt.</foreign>
-                    </quote> Unto whom the Poet, in the place first cited in this Chapter, seemeth
+                        <note type="authorial" subtype="bibliographic"
+                            xml:id="ch6bibln47">
+                            <bibl>De re rust. l.9.c.5.</bibl>
+                        </note></quote> Unto whom the Poet, in the place first cited in this Chapter, seemeth
                     to assent; making water and flowers the common matter of their three workes.</p>
                 <p xml:id="ch6par48"><note type="authorial" subtype="summary" xml:id="ch6sumn54">54.
                         The making of the Watering place.</note> The Watring-place should<ref
@@ -6621,15 +6621,15 @@
                     steepe, in manner of a Foord, and <ref target="#ch6glon7" rend="superscript">d</ref>
                     defended from Beasts, Geese, Duckes, and such like: and especially young
                         Ducklings.<ref target="#ch6sumn59">v.¶ 3. in.n.59.</ref></p>
-                <note type="authorial" subtype="gloss" place="inline" xml:id="ch6glon4"><note
-                        type="authorial" subtype="bibliographic" xml:id="ch6bibln48">
-                        <bibl>Virg.Geor.</bibl>
-                    </note><note type="authorial" subtype="summary" xml:id="ch6sumn55">55. How to
+                <note type="authorial" subtype="gloss" place="inline" xml:id="ch6glon4"><note type="authorial" subtype="summary" xml:id="ch6sumn55">55. How to
                         finde wilde Bees.</note>
                     <hi rend="superscript">a</hi> For they will never goe farre for water, if any be
                     to be had neere hand. <quote>
                         <foreign xml:lang="la">Sub mænibus urbis aquantur.</foreign>
-                    </quote> And therefore when you see Bees watring in woods or other places, not
+                        <note
+                            type="authorial" subtype="bibliographic" xml:id="ch6bibln48">
+                            <bibl>Virg.Geor.</bibl>
+                        </note> </quote> And therefore when you see Bees watring in woods or other places, not
                     neere any Hives; bee sure those are wilde Bees, which are not farre from their
                     neast. Watch them therefore which way they flie: for they will thence directly
                     to it. Which if it be not within view, take a Reede or Kex, or some like hollow
@@ -6649,10 +6649,7 @@
                         rend="superscript">b</hi>Lest the Bees, flying over the water unto it, be
                     throwne downe by tempestuous winds, and so drowned: for which cause it is good
                     to lay lugs overthwart the water, and other staies; that recovering them they
-                    may dry themselves againe, and so escape. <note type="authorial"
-                        subtype="bibliographic" xml:id="ch6bibln49">
-                        <bibl>Virg. Geor.</bibl>
-                    </note>
+                    may dry themselves againe, and so escape. 
                     <quote>
                         <lg xml:lang="la">
                             <l>In medium seu stabis iners, seu profluet humor,</l>
@@ -6661,7 +6658,10 @@
                             <l>Pandere ad æstiniuum solem, si forte morantes</l>
                             <l>Sparserit, aut præcerps Neptuno immerserit Eurus.</l>
                         </lg>
-                    </quote></note>
+                        <note type="authorial"
+                            subtype="bibliographic" xml:id="ch6bibln49">
+                            <bibl>Virg. Geor.</bibl>
+                        </note> </quote></note>
                 <note type="authorial" subtype="gloss" place="inline" xml:id="ch6glon6"><hi
                         rend="superscript">c</hi>That they may safely settle upon it, and that it
                     may alwaies be kept moist by the neerenesse of the water. For they choose rather
@@ -6936,7 +6936,9 @@
                     harme than the Titmouse, although she have a worse name. The Long-winged Hauke
                     makes the fairer flight; but the short-winged is the Kitchen-hauke. These birds
                     therefore are not to be suffered. <lb/>
-                    <quote>
+                    <quote> <note type="authorial" subtype="bibliographic" xml:id="ch7biblnX5">
+                        <bibl>Virg.</bibl>
+                    </note>
                         <foreign xml:lang="la">--- Absint meropesq aliæq volucres <lb/> Et manibus
                             Progne pectus signata cruentis.</foreign>
                     </quote></p>
@@ -6945,10 +6947,11 @@
                     neasts in Summer, and catch the Titmouse in Winter, with<ref target="#ch7glon2">*</ref>
                     Traps baited with dead Bees, Oats, or Tallow. <persName>Aristotle</persName>
                     joyneth the Waspe, the little Titmouse, the Swallow, and the great Titmouse
-                    together. <note type="authorial" subtype="bibliographic" xml:id="ch7bibln6">
-                        <bibl> His.l.9.c.40.</bibl>
-                    </note>
+                    together. 
                     <quote>
+                        <note type="authorial" subtype="bibliographic" xml:id="ch7bibln6">
+                            <bibl> His.l.9.c.40.</bibl>
+                        </note>
                         <foreign xml:lang="la">Inferunt injuriam apibus maxime vespæ, &amp; aviculæ
                             quas paros vocant, atque etiam hirundo, &amp; merops qui apiaster est.
                             Quamobrem apiarii vesparum latibula &amp; hirundinum ac meropum nidos
@@ -6961,12 +6964,12 @@
                 <p xml:id="ch7par17"><note type="authorial" subtype="summary" xml:id="ch7sumn9">9.
                         The Hornet.</note> The Hornet also devoureth Bees: being so much too strong
                     for them, that they can make no resistance. Which the Poet meant where he said <lb/>
-                    <quote>
+                    <quote> <note type="authorial" subtype="bibliographic" xml:id="ch7bibln7">
+                        <bibl>Virg.</bibl>
+                    </note>
                         <foreign xml:lang="la">Aut asper crabro imparibus se immiscuit
                             armis.</foreign>
-                    </quote><note type="authorial" subtype="bibliographic" xml:id="ch7bibln7">
-                        <bibl>Virg.</bibl>
-                    </note></p>
+                    </quote></p>
                 <p xml:id="ch7par18">Hir manner is to fly about before the Hive, till she have spied
                     hir pray settled at the doore: and then suddenly she taketh it in hir feet, and
                     flieth away with it as a Kite with a Chicke. </p>
@@ -6976,11 +6979,11 @@
                 <p xml:id="ch7par19"><note type="authorial" subtype="summary" xml:id="ch7sumn10">10.
                         The Hornets sting is dangerous.</note> In destroying the Hornets you must
                     bee warie: for one stinging doth ofttimes cause a Fever, and lesse than thirtie,
-                    as some say, will kill a man. <note type="authorial" subtype="bibliographic"
+                    as some say, will kill a man. 
+                    <quote> <note type="authorial" subtype="bibliographic"
                         xml:id="ch7bibln8">
                         <bibl> Nat.hist.li.11.c.21.</bibl>
                     </note>
-                    <quote>
                         <foreign xml:lang="la">Ictus crabronum haud temerè sine febri est. Auctores
                             sunt ter novenis punctis interfici hominem.</foreign>
                     </quote></p>
@@ -7122,11 +7125,11 @@
                     breedeth little Wormes, or crawling Moths, some in the skirts of the Hive, some
                     within upon the Stoole, wrapt in the drosse or scouring of the Combes, and some
                     without upon the Hive, specially in the cracks of the dawbed Hives.
-                        <persName>Plinie</persName> speaketh thus of them <note type="authorial"
+                        <persName>Plinie</persName> speaketh thus of them 
+                    <quote> <note type="authorial"
                         subtype="bibliographic" xml:id="ch7bibln13">
                         <bibl>Nat.hist.li.11.c.19.</bibl>
                     </note>
-                    <quote>
                         <foreign xml:lang="la">Papilio etiam ignavus luminibus accensis advolitans
                             pestifer, nec uno modo: nam &amp; ipse ceras depascit, &amp; relinquit
                             excrementa quibus teredines gignuntur.</foreign>
@@ -7165,10 +7168,11 @@
                     Stoole; which easily intangle a wearie Bee, when she commeth laden home, and
                     missing of the lighting place falleth into them: yea, and sometime where the
                     Bees are few, chiefly in the winter, they will bee bold to enter the Hive, and
-                    there weave their fatall Webbes, <note type="authorial" subtype="bibliographic"
+                    there weave their fatall Webbes, 
+                    <quote> <note type="authorial" subtype="bibliographic"
                         xml:id="ch7bibln14">
                         <bibl>Virg.Nat hist.l.11.c.19.</bibl>
-                    </note><quote>
+                    </note>
                         <foreign xml:lang="la">In foribus laxos suspendit aranea casses. Aranei quoq
                             vel maximè hostiles: cum prævalvere ut intexant, enecant alveos.
                         </foreign>
