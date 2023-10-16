@@ -5,7 +5,7 @@
          xmlns:xlink="http://www.w3.org/1999/xlink"
          datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes"
          ns="http://www.tei-c.org/ns/1.0"><!--
-Schema generated from ODD source 2023-10-11T09:44:40Z. .
+Schema generated from ODD source 2023-10-16T09:15:08Z. .
 TEI Edition: Version 4.5.0. Last updated on
         25th October 2022, revision 3e98e619e
 TEI Edition Location: https://www.tei-c.org/Vault/P5/Version 4.5.0/
@@ -5122,7 +5122,7 @@ Suggested values include: 1] bee; 2] sound; 3] voice; 4] emotion; 5] music</a:do
    </define>
    <define name="tei_anchor">
       <element name="anchor">
-         <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">(anchor point) Used to mark the start and end point of a portion of text that differs from the 1623 edition. `&lt;Anchor&gt;` must have a manually created <code xmlns="http://www.w3.org/1999/xhtml">@xml:id</code>, and that should follow the format: chX[s|e]ancY, where 'X' is the number of the chapter, 's' or 'e' indicate whether this is a starting or an ending `&lt;anchor&gt;`, and 'Y' is the ordinal number of anchors for that chapter. [8.4.2. Synchronization and Overlap 16.5. Correspondence and Alignment]</a:documentation>
+         <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">(anchor point) Used to mark the start and end point of a portion of text that differs from the 1623 edition. `&lt;anchor&gt;` must have a manually created <code xmlns="http://www.w3.org/1999/xhtml">@xml:id</code>, and that should follow the format: chXanc[s|e]Y, where 'X' is the number of the chapter, 's' or 'e' indicate whether this is a starting or an ending `&lt;anchor&gt;`, and 'Y' is the ordinal number of anchors for that chapter. [8.4.2. Synchronization and Overlap 16.5. Correspondence and Alignment]</a:documentation>
          <empty/>
          <ref name="tei_att.global.attribute.n"/>
          <ref name="tei_att.global.attribute.xmllang"/>
@@ -5147,7 +5147,7 @@ Suggested values include: 1] bee; 2] sound; 3] voice; 4] emotion; 5] music</a:do
          <ref name="tei_att.global.source.attribute.source"/>
          <ref name="tei_att.typed.attributes"/>
          <attribute name="xml:id">
-            <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">(identifier) The <code xmlns="http://www.w3.org/1999/xhtml">@xml:id</code> for the `&lt;anchor&gt;` is manually created and should follow the following convention: chX[s|e]ancY, where 'X' is the number of the chapter (as well as any other division), 's' or 'e' indicate whether it is a starting or an ending anchor, and 'Y' is the ordinal number of anchors for that chapter. </a:documentation>
+            <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">(identifier) The <code xmlns="http://www.w3.org/1999/xhtml">@xml:id</code> for the `&lt;anchor&gt;` is manually created and should follow the following convention: chXanc[s|e]Y, where 'X' is the number of the chapter (as well as any other division), 's' or 'e' indicate whether it is a starting or an ending anchor, and 'Y' is the ordinal number of anchors for that chapter. </a:documentation>
             <data type="ID"/>
          </attribute>
          <empty/>

@@ -793,8 +793,8 @@
 
           <elementSpec ident="anchor" mode="change">
             <desc versionDate="2023-10-11" xml:lang="en">Used to mark the start and end point of a
-              portion of text that differs from the 1623 edition. <tag>Anchor</tag> must have a
-              manually created <att>xml:id</att>, and that should follow the format: chX[s|e]ancY,
+              portion of text that differs from the 1623 edition. <tag>anchor</tag> must have a
+              manually created <att>xml:id</att>, and that should follow the format: chXanc[s|e]Y,
               where 'X' is the number of the chapter, 's' or 'e' indicate whether this is a starting
               or an ending <tag>anchor</tag>, and 'Y' is the ordinal number of anchors for that
               chapter.</desc>
@@ -802,7 +802,7 @@
               <attDef ident="xml:id" mode="change" usage="req">
                 <desc versionDate="2023-10-11" xml:lang="en">The <att>xml:id</att> for the
                     <tag>anchor</tag> is manually created and should follow the following
-                  convention: chX[s|e]ancY, where 'X' is the number of the chapter (as well as any
+                  convention: chXanc[s|e]Y, where 'X' is the number of the chapter (as well as any
                   other division), 's' or 'e' indicate whether it is a starting or an ending anchor,
                   and 'Y' is the ordinal number of anchors for that chapter. <egXML
                     xmlns="http://www.tei-c.org/ns/Examples">
