@@ -4219,7 +4219,7 @@
                     </note>
                         <foreign xml:lang="la">Aliqui <hi rend="opposite">(saith he)</hi> mares esse
                             fucos, fœminas vero apes esse contendunt.</foreign>
-                    </quote> Which opinion he reciteth in another place. <quote>
+                    </quote> Which opinion he reciteth in another place. <quote> <bibl> His.l.5.c.21.</bibl>
                         <foreign xml:lang="la">Sunt qui fuces mares esse, apes fœminas
                             arbitrentur</foreign>
                     </quote>.  Where though he doe not approve it; yet hath he no
@@ -4330,8 +4330,8 @@
                     Bees; when also the <term>Schadans</term> never want their fill of
                         <term>Nectar</term>, <term> Ambrosia,</term> and faire water continually
                     brought in fresh and fresh unto them; I have knowne this effected in three
-                    weekes: although <persName>Plinie</persName> speakes of more then twice so long
-                    a time. <quote>
+                    weekes: although <bibl xml:id="ch4biblnX19"> <persName>Plinie</persName></bibl> speakes of more then twice so long
+                    a time. <quote><bibl><ptr target="#ch4biblnX19"></ptr></bibl>
                         <foreign xml:lang="la">Foetus intra 45. diem peragitur.</foreign>
                     </quote></p>
                 <p xml:id="ch4par21"><note type="authorial" subtype="summary" xml:id="ch4sumn18">18.
@@ -5169,7 +5169,7 @@
                             <bibl>Georg.4.</bibl>
                         </note></quote>
                     </p>
-                <p xml:id="ch5par49">And before him old <persName>Aristotle</persName>, <quote>
+                <p xml:id="ch5par49">And before him old <bibl xml:id="ch5bibln32X1"><persName>Aristotle</persName></bibl>, <quote><bibl><ptr target="#ch5bibln32X1"></ptr></bibl>
                         <foreign xml:lang="la">Gaudere etiam plausu, &amp; sonitu apes videntur.
                             Quapropter tinnitu æris aut Fictilis convocari eas in alveum aiunt.
                         </foreign>
@@ -5999,7 +5999,7 @@
                         How much wax they bring at once.</note> How much wax they bring at once,
                     doth appeare by the new swarmes: whose first weekes worke is spent chiefly in
                     building combes: wherein they are so earnest, that it falleth out with them as
-                    it is in the Proverbe, <quote>The more haste the worse speed.</quote> For many
+                    it is in the Proverbe, <quote><bibl>proverbs</bibl>The more haste the worse speed.</quote> For many
                     of their burdens doe fall from them before they can fasten them to the Combes.
                     You may then see great store of them upon the stoole by the skirts of the hive,
                     like unto the white scales, which fall from young birds feathers. And therefore
@@ -7182,23 +7182,24 @@
                     is about the Hive, though he lie but under the Stoole, the Bees will not
                     prosper. <note type="authorial" subtype="summary" xml:id="ch7sumnX9"> The Frog
                     </note> He is said also to devoure them at the Hive, as the Frog at the
-                    Watring-place. <note type="authorial" subtype="summary" xml:id="ch7sumn24">
-                        <bibl>Hist an.l.9.c.40.</bibl>
-                    </note>
-                    <note type="authorial" subtype="bibliographic" xml:id="ch7bibln15">
-                        <bibl> Ibidem.</bibl>
-                    </note>
+                    Watring-place. 
                     <quote>
+                        <note type="authorial" subtype="summary" xml:id="ch7sumn24">
+                            <bibl>Hist an.l.9.c.40.</bibl>
+                        </note>
+                        <note type="authorial" subtype="bibliographic" xml:id="ch7bibln15">
+                            <bibl> Ibidem.</bibl>
+                        </note>
                         <foreign xml:lang="la">Ranæ Apes, ubi ad aquam accesserint, rapiunt:
                             quamobrem eas Apiarii per paludes &amp; stagna, unde Apes aquantur,
                             venari solent. Rubeta etiam Apes interimit: subiens enim aditus alvei
                             afflat, &amp; observans rapit evolantes. Nullo hæc affici malo ab Apibus
                             potest; sed ab Apiario facilè interimitur.</foreign>
                     </quote>
-                    <note type="authorial" subtype="bibliographic" xml:id="ch7bibln16">
+                    
+                    <quote><note type="authorial" subtype="bibliographic" xml:id="ch7bibln16">
                         <bibl>Nat.Hist.l.11.c.18.</bibl>
                     </note>
-                    <quote>
                         <foreign xml:lang="la"><hi rend="opposite">Item</hi> insidiantur aquantibus
                             Ranæ: quæ maxima earum est operatio, tum cum sobolem faciunt. <ref
                                 target="#ch7bibln17">v.</ref>
@@ -7339,10 +7340,11 @@
                 <p xml:id="ch7par41"><note type="authorial" subtype="summary" xml:id="ch7sumn37">37.
                         Neither side willing to yeeld.</note> So loth are these couragious warriours
                     to yeeld on either side, untill there bee no remedie. </p>
-                <note type="authorial" subtype="bibliographic" xml:id="ch7bibln23">
-                    <bibl>Virg.</bibl>
-                </note>
+               
                 <quote>
+                    <note type="authorial" subtype="bibliographic" xml:id="ch7bibln23">
+                        <bibl>Virg.</bibl>
+                    </note>
                     <lg xml:lang="la">
                         <l>Ingentes animos augusto in pectore versant</l>
                         <l>Usque adeo obnixi non cedere, dum gravis aut hos,</l>
@@ -7381,15 +7383,15 @@
                 <p xml:id="ch7par45"><note type="authorial" subtype="summary" xml:id="ch7sumn40">40.
                         The battaile ended they bury their dead.</note> The battaile being ended by
                     repulse of the enemy, those corpses, which the Waspes have leaft, they honestly
-                    burie as far from the Hives as they can beare them. <note type="authorial"
-                        subtype="bibliographic" xml:id="ch7bibln25">
-                        <bibl> Virg.Geor. </bibl>
-                    </note><quote>
+                    burie as far from the Hives as they can beare them. <quote>
                         <lg xml:lang="la">
                             <l>_______Tum corpora luce carentum</l>
                             <l>Exportant tectis, &amp; tristia funeræ ducunt.</l>
                         </lg>
-                    </quote></p>
+                        <note type="authorial"
+                            subtype="bibliographic" xml:id="ch7bibln25">
+                            <bibl> Virg.Geor. </bibl>
+                        </note></quote></p>
                 <p xml:id="ch7par46">And then they draw together at the Citie-gates: and there they
                     buzze one to another, as if in their language they did talke of the fight, and
                     commend one an other for their fortitude. </p>
@@ -8480,7 +8482,10 @@
                                 relinquant, quantum per hymem sufficiat: quod si satis sit, servatur
                                 examen; sin minus, vel moritur ibidem, (sine discedat hyems obstet)
                                 vel de serit sedem, si serenum nanciscitur.</foreign>
-                        </quote></p>
+                            <note type="authorial" subtype="bibliographic" xml:id="ch10p1biblnX16">
+                                <bibl> Hist.an.l.9.c.40.</bibl>
+                            </note></quote>
+                    </p>
                     <fw type="catch"> This</fw>
                     <pb n="V2r"/>
                     <fw type="header"> Of the fruit and profit of Bees. </fw>
@@ -8731,7 +8736,7 @@
                                 jucundissimum, consistentia nec crassa nec liquida, sed tam sibi
                                 cohærens ut continuitatem suam, quasi linea longissima, non
                                 intercisum servet, si digito attollitur: idem coquendo paucam spumam
-                                emittit.</foreign>
+                                emittit.</foreign> <note xml:id="ch10p2biblnX15" type="editorial" subtype="other"> this is the first part of a quotation attributed below to <bibl>Fern. l.7.de Oxymel.</bibl></note>
                         </quote> And <persName> Guil.Plantius.</persName>
                         <quote>
                             <foreign xml:lang="la">Mel probum est quod inter crassissimum &amp;
@@ -9249,9 +9254,9 @@
                         </quote> So that he seemeth to say, that our honie is hurtfull to none;
                         because it purgeth that evill humour, which other Hony, in some bodies, is
                         thought to breed. But the Proverb saith, <quote>Too much of one thing is
-                            good for nothing:</quote> and the Wis-man in his Proverbs, <quote>It is
-                            not good to eat much Honie.</quote>
-                        <bibl>Prov.25.27.</bibl>and in the 16, 6. <quote>Hast thou found Honie? eat
+                            good for nothing:<bibl>Prov.25.</bibl></quote> and the Wis-man in his Proverbs, <quote><bibl>27.</bibl>It is
+                                not good to eat much Honie.</quote>
+                        and in the <quote><bibl>16, 6. </bibl>Hast thou found Honie? eat
                             so much as is sufficient for thee:</quote>&amp;c. <note type="authorial"
                             subtype="summary" xml:id="ch10p3sumn5"> 5. Too much Hony
                             unholsome.</note> For all Hony often and immoderately taken (3) causeth
@@ -9280,7 +9285,7 @@
                             <foreign xml:lang="la">Crudum cocto &amp; despumato detergentius quidem
                                 multo est &amp; mordacius: sed eo minus agglutinat.</foreign>
                         </quote>(8) ad sinuum glutinationes, Seth sinuosorum ulcerum,
-                        Galen.(9)(10)(11) <bibl> Pictorius.</bibl>
+                        <bibl>Galen.</bibl>(9)(10)(11) <bibl> Pictorius.</bibl>
                     </note>
                     <p xml:id="ch10p3par4"><note type="authorial" subtype="summary"
                             xml:id="ch10p3sumn7">7. Two waies to clarifie Hony.</note> Honie is
@@ -9585,11 +9590,11 @@
                         <note type="authorial" subtype="bibliographic" xml:id="ch10p3bibln8">
                             <ref target="#ch10p2sumn21"> V.p.2.n.21.</ref><ref target="#ch10p2sumn22">22</ref>&amp;<ref target="#ch10p2sumn24">24.</ref>
                         </note> are rather confirmed and increased, than any way extenuated or
-                        diminished. Therefore saith <persName>Lobel</persName>, <quote>
+                        diminished. Therefore saith <persName>Lobel</persName>, <quote><bibl><ptr target ="ch10p3glonX16"></ptr></bibl>
                             <foreign xml:lang="la">Mulsum, ubi aquæ plurimum mellis non multum,
                                 diuturnâ intestinâque mellis ebullitione in vinum longè utilissimum
                                 abit.</foreign>
-                        </quote> And <persName>Pictorius</persName>, <quote>
+                        </quote> And <persName>Pictorius</persName>, <quote><bibl><ptr target="ch10p3glon16"></ptr></bibl>
                             <foreign xml:lang="la">Hydromel longâ vetustate transit in vinum
                                 stomacho convenientissimum.</foreign>
                         </quote> Meth, when it is old, is a Wine most agreeable to the stomack: it
@@ -9609,13 +9614,16 @@
                         cause of his long continued health to this Soveraigne drinke. (10) For being
                         asked of <persName> Augustus</persName> the Emperour, by what meanes
                         especially he had so long preserved that vigor both of minde and body, his
-                        answer was <quote>
+                        answer was <quote> <bibl><ptr target="ch10p3glonXX16"></ptr></bibl>
                             <foreign xml:lang="la">Intus mulso, foris oleo.</foreign>
                         </quote>
                     </p>
                     <note type="authorial" subtype="gloss" place="inline" xml:id="ch10p3glon16"
-                        >(1.2.3:4) <bibl>Pictorius, &amp; Plin. hist.l.22.c.24(5)Lobel</bibl>
-                        (6.7.8.9.10.) <bibl> Plin.hist.l.22.c.24. </bibl>
+                        ><bibl>(1.2.3:4) Pictorius, &amp; 
+                           Plin. hist.l.22.c.24</bibl></note> <note type="authorial" subtype="gloss" place="inline" xml:id="ch10p3glonX16"
+                                ><bibl>(5)Lobel
+                               </bibl></note> <note type="authorial" subtype="gloss" place="inline" xml:id="ch10p3glonXX16"
+                                   ><bibl>(6.7.8.9.10.) Plin.hist.l.22.c.24.</bibl>
                     </note>
                     <p xml:id="ch10p3par29"><note type="authorial" subtype="summary"
                             xml:id="ch10p3sumn22">22. Meth much used of the ancient
