@@ -846,12 +846,12 @@
                   <tag>anchor</tag> by using the same numeral.</item>
               <item>In 1623, envolope the location of the variation in an <tag>app</tag> (adding the
                 correct <att>type</att> and <att>subtype</att> values, and the existing text in a
-                  <tag>lem wit="b1623"</tag>.</item>
-              <item>Add a <tag>rdg wit="b1609"</tag>element inside the app</item>
-              <item>Add a <tag>link</tag> element to the <tag>rdg</tag> with two <att>target</att>
+                  <tag>lem wit="#b1623"</tag>.</item>
+              <item>Add a <tag>rdg wit="#b1609"</tag>element inside the app</item>
+              <item>Add a <tag>ptr</tag> element to the <tag>rdg</tag> with two <att>target</att>
                 values (separated by a space), corresponding to the starting and ending location in
-                1609. For example: <egXML xmlns="http://www.tei-c.org/ns/Examples"><link
-                    target="ch1ancs1 ch1ance1"/></egXML></item>
+                1609. For example: <egXML xmlns="http://www.tei-c.org/ns/Examples"><ptr
+                    target="#ch1ancs1 #ch1ance1"/></egXML></item>
             </list>
             <p><tag>app</tag>s are classified with <att>type</att>s and <att>subtype</att>s.
                 <att>subtype</att>s (<val>change</val>, <val>del</val>, <val>add</val>) are
@@ -914,7 +914,7 @@
             <label>1623.xml</label>
             <egXML xmlns="http://www.tei-c.org/ns/Examples"> The later part of which saying,
               although the delicate Silk-worme have <app type="substantial" subtype="change">
-                <lem wit="b1623"> in some hoter Climates disproved; (for in the colder countries,
+                <lem wit="#b1623"> in some hoter Climates disproved; (for in the colder countries,
                   such as is our Iland of <placeName rend="italic">Britaine</placeName>, I doubt mee
                   shee will never quit cost: and therefore is here to be entertained only of them,
                   that doe more respect their pleasure, than their profit; and doe content
@@ -922,7 +922,7 @@
                   recompence for their expence and paines;) yet mustshee needs confesse the former,
                   and wheresoever she meet the ingenuous and laborious Bee, yeeld the precendence to
                   her, as to hir Better. </lem>
-                <rdg wit="b1609"><link target="1609.xml#frontancs1 1609.xml#frontance1"/></rdg>
+                <rdg wit="#b1609"><ptr target="1609.xml#frontancs1 1609.xml#frontance1"/></rdg>
               </app> For the fruite of the Silk-worme serveth onlie to cover the body; </egXML>
           </div>
           <div xml:id="encVarDel">
@@ -941,8 +941,8 @@
               <p>...which foot let be made of sound timber five or six inches over; and of that
                 length, that it may be set betweene fifteene and eighteene inches in the ground.<app
                   type="substantial" subtype="del">
-                  <lem wit="b1623"/>
-                  <rdg wit="b1606"><link target="1609.xml#ch2ancs1 1609.xml#ch2ance1"/></rdg>
+                  <lem wit="#b1623"/>
+                  <rdg wit="#b1606"><ptr target="1609.xml#ch2ancs1 1609.xml#ch2ance1"/></rdg>
                 </app></p>
             </egXML>
           </div>
@@ -964,7 +964,7 @@
             <label>1623</label>
             <egXML xmlns="http://www.tei-c.org/ns/Examples">
               <p>...or otherwise the sense doth plainely shew that it is spoken of the whole Moneth. </p>
-              <app type="substantial" subtype="add"><lem wit="b1623"><p xml:id="frontpar7">When you
+              <app type="substantial" subtype="add"><lem wit="#b1623"><p xml:id="frontpar7">When you
                     have once, for your satisfaction, perused this Booke, you need not afterward
                     seeke farre for anything therein, whereof you doubt: the <ref target="#contents"
                       rend="italic">Index</ref> of the Chapters or Contents of the Booke; and of the
@@ -985,7 +985,7 @@
                     and <hi rend="italic">N.</hi> with his number the Marginall Note. But if <hi
                       rend="term">N.</hi> follow <term> V.</term> without <hi rend="italic">C</hi>;
                     then doth it note some Note of the same Chapter.</p></lem>
-                <rdg wit="b1609"/>
+                <rdg wit="#b1609"/>
               </app>
               <fw type="catch"> I am</fw>
               <pb n="A1r"/>
@@ -1042,11 +1042,10 @@
           <moduleRef key="analysis" include="w s"/>
           <moduleRef key="figures" include="figure figDesc"/>
           <moduleRef key="textcrit" include="listWit witness app lem rdg variantEncoding"/>
-          <moduleRef key="linking" include="link"/>
 
           <!-- Element changes, definitions, schematron rules... -->
 
-          <elementSpec ident="link" mode="change">
+          <elementSpec ident="ptr" mode="change">
             <attList>
               <attDef ident="target" mode="change" usage="req"/>
             </attList>
@@ -1071,6 +1070,27 @@
           </elementSpec>
 
           <elementSpec ident="app" mode="change">
+            <constraintSpec ident="app-must-contain-lem" scheme="schematron">
+              <constraint>
+                <sch:report
+                  test="count(descendant::tei:lem)=0"
+                  role="error">An 'app' must contain one 'lem'</sch:report>
+              </constraint>
+            </constraintSpec>
+            <constraintSpec ident="app-must-contain-rdg" scheme="schematron">
+              <constraint>
+                <sch:report
+                  test="count(descendant::tei:rdg)=0"
+                  role="error">An 'app' must contain at least one 'rdg'</sch:report>
+              </constraint>
+            </constraintSpec>
+            <constraintSpec ident="app-must-contain-exactly-one-lem" scheme="schematron">
+              <constraint>
+                <sch:report
+                  test="count(descendant::tei:lem)>1"
+                  role="error">An 'app' must not contain more than one 'lem'</sch:report>
+              </constraint>
+            </constraintSpec>
             <attList>
               <attDef ident="type" mode="change" usage="req">
                 <valList type="closed" mode="change">
