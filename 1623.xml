@@ -57,10 +57,57 @@
                         </imprint>
                     </monogr>
                 </biblStruct>
+                <listWit>
+                    <witness xml:id="b1623">
+                        <listBibl>
+                            <biblStruct xml:id="eebo1623">
+                                <monogr>
+                                    <author>Charles Butler</author>
+                                    <title>The Feminine Monarche or the Historie of Bees</title>
+                                    <imprint>
+                                        <pubPlace>Londong</pubPlace>
+                                        <publisher>Roger Jackson</publisher>
+                                        <date when="1623">1623</date>
+                                    </imprint>
+                                </monogr>
+                                <ptr
+                                    target="https://www.proquest.com/books/feminine-monarchie-historie-bees-shewing-their/docview/2240894735/se-2"
+                                />
+                            </biblStruct>
+                        </listBibl>
+                    </witness>
+                    <witness xml:id="b1609">
+                        <listBibl>
+                            <biblStruct xml:id="eebo1609">
+                                <monogr>
+                                    <author>Charles Butler</author>
+                                    <title>The Feminine Monarchie or a Treatise Concerning Bees and
+                                        the due Ordering of Them</title>
+                                    <imprint>
+                                        <pubPlace>Oxford</pubPlace>
+                                        <publisher>Joseph Barnes</publisher>
+                                        <date when="1609">1609</date>
+                                    </imprint>
+                                </monogr>
+                                <ptr
+                                    target="https://www.proquest.com/books/feminine-monarchie-treatise-concerning-bees-due/docview/2240864630/se-2"
+                                />
+                            </biblStruct>
+                        </listBibl>
+                    </witness>
+                </listWit>
             </sourceDesc>
         </fileDesc>
+        <encodingDesc>
+            <p>Encoding containing textual structure, all features visible in the source text, some
+                semantic encoding (i.e., terms, foreign, quotes, etc.), document cross-referencing,
+                and variation between editions (1623, 1609, 1634)</p>
+            <variantEncoding method="parallel-segmentation" location="internal"/>
+        </encodingDesc>
         <revisionDesc>
             <listChange>
+                <change who="TSG" when="2023-10-18">Minor corrections to the first five chapters</change>
+                <change who="TSG" when="2023-10-17">Minor corrections to chapter 1</change>
                 <change who="OFS" when="2023-10-12">Added hi elements</change>
                 <change who="OFS" when="2023-10-10">Added ids to refs</change>
                 <change who="OFS" when="2023-10-06">Added ids to refs</change>
@@ -1794,8 +1841,10 @@
                     fight, yet will they not agree of their choice in two or three daies, keeping
                     their Queenes close on both sides. But then all this while they never be at
                     quiet day nor night, nor once offer to work, untill one of them being deposed,
-                    they be united in the other. <bibl>Vide plura super hac re
-                        c.5.n.74.75.76.</bibl></p>
+                    they be united in the other. <foreign xml:lang="la">Vide plura super hac
+                        re</foreign>
+                    <ref target="#ch5sumn74">c.5.n.74.</ref><ref target="#ch5sumn75">75.</ref><ref
+                        target="#ch5sumn76">76.</ref></p>
                 <p xml:id="ch1par9">Likewise if the old Queene bring forth many Princes (as she may
                     have six or seven, yea sometime halfe a score or more, which superfluitie nature
                     affoordeth for more suretie, in case some miscarrie) then, lest the multitude of
@@ -1855,8 +1904,7 @@
                         <foreign xml:lang="la">Reges aculeos habent, sed non utuntur. Quocirca
                             carere eos aculeis nonnulli existimant.</foreign>
                     </quote>
-                    <quote>
-                        <persName> Plinie</persName> describeth them thus, <note type="authorial"
+                        <persName> Plinie</persName> describeth them thus, <quote><note type="authorial"
                             subtype="bibliographic" xml:id="ch1bibln18"
                                 ><bibl>Nat.hist.l.11.c.16.</bibl></note>
                         <foreign xml:lang="la">Omnibus forma semper egregia, &amp; duplo quam
@@ -1864,8 +1912,8 @@
                             fronte macula quodam diademate candicans: Multum etiam nitore a vulgo
                             differunt.</foreign>
                     </quote> If you desire to see this stately Prince, read <ref target="#ch5sumn34"
-                        >cap.5. n..34.</ref> The breeding of her you may see <ref
-                        target="#ch4sumn18">c.4. n.18</ref>. </p>
+                        >cap.5. n.34.</ref> The breeding of her you may see <ref target="#ch4sumn18"
+                        >c.4. n.18</ref>. </p>
                 <p xml:id="ch1par12">
                     <note type="authorial" subtype="summary" xml:id="ch1sumn10">10. Bees have also
                         inferior Governors or Captaines.</note> Besides their Soveraigne, the Bees
@@ -1999,7 +2047,7 @@
                         Hir two weapons</note> For hir defence she is doubly weaponed. <note
                         type="authorial" subtype="summary" xml:id="ch1sumn21"> 21. Hir fangs
                         commonly used against insecta.</note> Hir fanges she useth when she is not
-                    much angry, against al <term>insecta</term>, as other Bees, Drones, Waspes,
+                    much angry, against all <term>insecta</term>, as other Bees, Drones, Waspes,
                     &amp;c. therewith pinching and holding them commonly by the legs or wings, and
                     some time by the hornes: but this is rather a chiding, than a fighting, and a
                     warning, rather than a punishment; though withall sometime she bend her speere
@@ -4008,10 +4056,13 @@
                     <note type="authorial" subtype="bibliographic" xml:id="ch4bibln5">
                         <ref target="#ch4sumn18">V.n.18.</ref>&amp;<ref target="#ch4sumn19"
                             >19.</ref>
-                    </note> there is not a Drone to be had <hi rend="italic">
-                        <foreign xml:lang="la">In rerum natura</foreign></hi> more seeds that yeere,
-                    but onely hatch and breed up those that are already in the celles. <note
-                        type="authorial" subtype="bibliographic" xml:id="ch4bibln7">
+                    </note> there is not a Drone to be had <quote>
+                        <foreign xml:lang="la">In rerum natura</foreign><note type="authorial" subtype="bibliographic" xml:id="ch4bibln6"
+                            ><bibl>Nat hist l.11.c.11.</bibl></note>
+                    </quote>. When they are quite gone, then
+                    doe the Bees lay no more seeds that yeere, but onely hatch and breed up those
+                    that are already in the celles. <note type="authorial" subtype="bibliographic"
+                        xml:id="ch4bibln7">
                         <ref target="#ch5sumn4"> V.c.5.n. 4.</ref>
                     </note></p>
                 <p xml:id="ch4par5"><note type="authorial" subtype="summary" xml:id="ch4sumn5">5.The
@@ -4268,7 +4319,7 @@
                         <bibl>Laertius lib: 2. in vita Socratis.</bibl></quote>
                 </note>
                 <p xml:id="ch4par14">But you must understand that the Philsopher speaketh thus, not
-                        <term>dogmaticè</term> but <term> disputatvè</term>, onely by way of
+                        <term>dogmaticè</term> but <term> disputativè</term>, onely by way of
                     reasoning: for in the end of the same chapter he yeeldeth himselfe to have no
                     certaine knowledge thereof. <foreign xml:lang="la">Non tamen satis ad huc
                         explorata quæ eveniant habemus.</foreign></p>
@@ -4620,7 +4671,6 @@
                         <bibl>Hist.l.4.c.22.</bibl>
                     </note>
                 </quote>
-
                 <p xml:id="ch5par6"><ref target="#ch4glon6">*</ref>Dry weather makes plenty of hony,
                     and <ref target="#ch5glon2">†</ref> moist of swarms. But note that the chiefe
                     time for breeding swarmes is the Spring, <ref target="#ch5bibln7">v.</ref>
@@ -4670,7 +4720,7 @@
                     </note> in so much that stalls being full and ready to swarme with the first,
                     are sometime so kept backe with cold dry windes in <term> Gemini,</term> and
                     with extreme heat and drought in <term>Cancer,</term> that they have not swarmed
-                    at ali that yeere.</p>
+                    at all that yeere.</p>
                 <p xml:id="ch5par8"><note type="authorial" subtype="summary" xml:id="ch5sumn7">7 The
                         swarming houres.</note>The swarmes use to come forth betweene the houres of
                         <fw type="catch"> nine</fw>
@@ -4817,7 +4867,7 @@
                     once taken to lie forth, the hive will alwaies seem empty, as though they wanted
                     company. </p>
                 <p xml:id="ch5par19"><note type="authorial" subtype="summary" xml:id="ch5sumn20">20.
-                        The causes of their lying forth.</note> One cause of their lying forth, us
+                        The causes of their lying forth.</note> One cause of their lying forth, is
                     stormie and windie wea- <fw type="catch"> ther</fw>
                     <pb n="K1v"/>
                     <fw type="header"> Of the Swarming of Bees, </fw> ther, not suffering them to
@@ -4848,9 +4898,12 @@
                         >v.</ref>
                     <note type="authorial" subtype="bibliographic" xml:id="ch5bibln19">
                         <ref target="#ch5sumn5"> V.n.5. </ref>
-                    </note> and therefore, as neere as you can, so + order the matter, that your
-                    swarmes may come betime. For rathe swarmes and their stocks, that have the
-                    summer before them, prove alwaies good.</p>
+                    </note> and therefore, as neere as you can, so <ref target="#ch5glonX1">*</ref>
+                    order the matter, that your swarmes may come betime. For rathe swarmes and their
+                    stocks, that have the summer before them, prove alwaies good. <note
+                        type="authorial" subtype="gloss" xml:id="ch5glonX1">* By having faire and
+                        fat young stockes, in a good standing, not over-hived, and well
+                    kept.</note></p>
                 <p xml:id="ch5par22"><note type="authorial" subtype="summary" xml:id="ch5sumn21">21.
                         The remedy and meanes to make them swarme.</note> First keep the Hive as
                     cool as may be, by watering and shadowing both it, and the place where it
@@ -5201,7 +5254,7 @@
                         What to doe if a swarme be way-ward.</note> If you see them begin to flie
                     aloft (which is a token they would be gone) cast dust among them to make them
                     come downe. If they be not stayed, but, hasting on still, goe beyond your
-                    bounds; the ancient Law of Christendome <fw type="sig">permitteth</fw>
+                    bounds; the ancient Law of Christendome <fw type="catch">permitteth</fw>
                     <pb n="L3v"/>
                     <fw type="header"> Of the Swarming of Bees, </fw> permitteth you to pursue them
                     withersoever, for the recoverie of your owne.</p>
@@ -5252,7 +5305,7 @@
                             paratam ad eant.v.n.39.) eandemque occupent quam vacuam
                             reperint.</foreign>
                     </quote></p>
-                <fw type="sig">When</fw>
+                <fw type="catch">When</fw>
                 <pb n="L4r"/>
                 <fw type="header"> and the Hiving of them. </fw>
                 <p xml:id="ch5par54"><note type="authorial" subtype="summary" xml:id="ch5sumn42">42.
@@ -5514,7 +5567,7 @@
                     <note type="authorial" subtype="bibliographic" xml:id="ch5bibln41">
                         <ref target="#ch5sumn23"> V.n.23.</ref>
                     </note> thred, wipe them downe into the hive, and set them upon the Mantle &amp;
-                    Rest under the tree. IF they be so high that you must clime for them, then cover
+                    Rest under the tree. If they be so high that you must clime for them, then cover
                     them presently with a Mantle, and so carry them downe. But looke that many will
                     rise againe: which let alone untill they be knit, and then sweepe them likewise
                     into another leere Hive, and put them to their fellowes. If yet some of them
@@ -5728,8 +5781,8 @@
                 <p xml:id="ch5par99">If none of these things bee done, but that swarmes doe runne
                     together in greater quantitie than a good Hive can conteine; then reare the Hive
                     with bolsters high enough to let them all in: which, when they have once
-                    swarmed, the <ref target="#ch5glon15">+</ref>next Vindemie take away thus. </p>
-                <note type="authorial" subtype="gloss" place="inline" xml:id="ch5glon15">+If you doe
+                    swarmed, the <ref target="#ch5glon15">*</ref>next Vindemie take away thus. </p>
+                <note type="authorial" subtype="gloss" place="inline" xml:id="ch5glon15">*If you doe
                     it in Winter, see the Bees be not chilled.</note>
                 <p xml:id="ch5par100">In a faire afternoone, about foure a clocke, picke away all
                     the cloome betweene the hive and the stoole: and in the morning, at the breake
@@ -5794,7 +5847,7 @@
                     the swarme returned. She being put up into the Hive, the next day the swarme
                     rose againe and setled, but the Prince hapned to fall beside the <term>
                         Cone</term>. The swarme being knit, missing her, began to unknit, and be
-                    gone: which I perceiving presently hived them: but they bein still discontented,
+                    gone: which I perceiving presently hived them: but they being still discontented,
                     ranne up and downe the Hive, with a murmuring noise both without and within.
                     Anone <fw type="catch"> I had</fw>
                     <pb n="N2v"/>

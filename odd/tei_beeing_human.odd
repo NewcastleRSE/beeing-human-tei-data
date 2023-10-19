@@ -233,6 +233,65 @@
               </revisionDesc>
             </egXML>
           </div>
+          <div xml:id="listWitnesses">
+            <head>Recording witness information</head>
+            <p>As part of the edition, we compare the 1623 edition (which we take to be our base
+              text) with substantive variations on the 1609 edition and, at selected points, the
+              1634 edition. The process by which we record the variation is explained elsewhere. In
+              that process, we refer to specific witnesses by an <att>xml:id</att>, which points to
+              a section on the <tag>teiHeader</tag> where more detail about each witness can be
+              found. This is the <tag>listWit</tag> element contained by <tag>sourceDesc.</tag></p>
+            <p>Within <tag>listWit</tag> there are a series of edition level <tag>witness</tag>, and
+              each <tag>witness</tag> contains a <tag>listBibl</tag> with bibliographic information
+              corresponding to each individual copy of that edition. Variation that is common to all
+              copies of the edition is linked to the <tag>witness</tag>
+              <att>xml:id</att>, while variation that is specific to a single copy may refer
+              directly to the <att>xml:id</att> of that copy.</p>
+            <p>Wherever possible, the bibliographic information for each copy should be structured
+              (i.e., using a <tag>biblStruct</tag> element, and as complete as possible.</p>
+            <label>Example:</label>
+            <egXML xmlns="http://www.tei-c.org/ns/Examples">
+              <listWit>
+                <witness xml:id="b1623">
+                  <listBibl>
+                    <biblStruct xml:id="eebo1623">
+                      <monogr>
+                        <author>Charles Butler</author>
+                        <title>The Feminine Monarche or the Historie of Bees</title>
+                        <imprint>
+                          <pubPlace>Londong</pubPlace>
+                          <publisher>Roger Jackson</publisher>
+                          <date when="1623">1623</date>
+                        </imprint>
+                      </monogr>
+                      <ptr
+                        target="https://www.proquest.com/books/feminine-monarchie-historie-bees-shewing-their/docview/2240894735/se-2"
+                      />
+                    </biblStruct>
+                  </listBibl>
+                </witness>
+                <witness xml:id="b1609">
+                  <listBibl>
+                    <biblStruct xml:id="eebo1609">
+                      <monogr>
+                        <author>Charles Butler</author>
+                        <title>The Feminine Monarchie or a Treatise Concerning Bees and the due
+                          Ordering of Them</title>
+                        <imprint>
+                          <pubPlace>Oxford</pubPlace>
+                          <publisher>Joseph Barnes</publisher>
+                          <date when="1609">1609</date>
+                        </imprint>
+                      </monogr>
+                      <ptr
+                        target="https://www.proquest.com/books/feminine-monarchie-treatise-concerning-bees-due/docview/2240864630/se-2"
+                      />
+                    </biblStruct>
+                  </listBibl>
+                </witness>
+              </listWit>
+            </egXML>
+          </div>
         </div>
         <div xml:id="encTextStruct">
           <head>Textual Structure</head>
@@ -756,6 +815,199 @@
               photo of the original or a redrawn diagram) and display it in the text.</p>
           </div>
         </div>
+        <div xml:id="encVar">
+          <head>Variation</head>
+          <p>Encoding variation between the 1623 and 1609 editions (and occasionally 1634 as well)
+            is a major part of the edition.</p>
+          <p>Variation is encoded using the <ref
+              target="https://tei-c.org/release/doc/tei-p5-doc/en/html/TC.html#TCAPPS">Parallel
+              segmentation method</ref> which consists of adding alternative readings <foreign
+              xml:lang="la">in situ</foreign>, with indication of a preferred reading (using
+              <tag>lem</tag>, usually from 1623), and alternatives (with <tag>rdg</tag>, usually
+            from 1609). Both cases should have a <att>wit</att> linking to the list of witnesses
+            declared in <tag>listWit</tag>, in the <tag>teiHeader</tag>.</p>
+          <p>The entire apparatus should be contained by an <tag>app</tag> element, with a
+              <att>type</att> attribute which should define whether the apparatus refers to a
+              <val>substantive</val> or <val>orthographic</val> change, and a <att>subtype</att>
+            attribute that explains wheter the change is like-for-like (<val>change</val>), a
+            deletion (<val>del</val>, i.e., it exists in either 1609 or 1634 but <emph>not</emph> in
+            1634), or an addition (<val>add</val>, i.e., exists in 1623 but not in 1609 or
+            1623).</p>
+          <div xml:id="varProc">
+            <head>The process of encoding variation</head>
+            <p>The process of encoding variation, after identifying a difference between the texts,
+              should be as follows:</p>
+            <list type="instructions" rend="numbered">
+              <item>Mark the start and end point of the difference in the 1609 text with an
+                  <tag>anchor</tag> element. Give these elements an <att>xml:id</att> following this
+                convention: [part of text]anc[s|e]X, for example: <egXML
+                  xmlns="http://www.tei-c.org/ns/Examples"><anchor xml:id="ch1ancs1"/></egXML>
+                refers to the first starting anchor in chapter 1. Pair starting and ending
+                  <tag>anchor</tag> by using the same numeral.</item>
+              <item>In 1623, envolope the location of the variation in an <tag>app</tag> (adding the
+                correct <att>type</att> and <att>subtype</att> values, and the existing text in a
+                  <tag>lem wit="#b1623"</tag>.</item>
+              <item>Add a <tag>rdg wit="#b1609"</tag>element inside the app</item>
+              <item>Add a <tag>ptr</tag> element to the <tag>rdg</tag> with two <att>target</att>
+                values (separated by a space), corresponding to the starting and ending location in
+                1609. For example: <egXML xmlns="http://www.tei-c.org/ns/Examples"><ptr
+                    target="#ch1ancs1 #ch1ance1"/></egXML></item>
+            </list>
+            <p><tag>app</tag>s are classified with <att>type</att>s and <att>subtype</att>s.
+                <att>subtype</att>s (<val>change</val>, <val>del</val>, <val>add</val>) are
+              explained in more detail below. <att>type</att> can take one of the following values:
+                <list type="gloss">
+                <label><val>substantive</val></label>
+                <item>A significant change between the versions beeing compared, usually comprised
+                  of more than a few words, that significantly transforms the meaning of the
+                  passage. Additions and deletions are almost always <val>substantive</val>.</item>
+                <label><val>ortographic</val></label>
+                <item>A change that only affects the spelling of existing words, either to correct a
+                  spelling mistake in the earlier edition, or to update the text to a new spelling
+                  convention (for example by replacing y<hi rend="superscript">e</hi> for the).
+                  Ortographic changes between 1623 and 1634 should <emph>not</emph> be recorded in
+                  this way.</item>
+                <label><val>vocabulary</val></label>
+                <item>A small change that replaces one word for a synonym (or adds or deletes a
+                  word) without significant impact to the meaning of the passage.</item>
+                <label><val>other</val></label>
+                <item>Any other type of change not currently covered by this typology. If this
+                  happens, remember to open an inssue in <ref
+                    target="https://github.com/NewcastleRSE/beeing-human-tei-data/issues"
+                    >Github</ref> to discuss the best approach to the problem.</item>
+              </list>
+            </p>
+          </div>
+          <div xml:id="encVarCha">
+            <head>Like-for-like change</head>
+            <p>Follow this proceadure when the 1623 edition rewrites a portion of the 1609 text with
+              a mixture of additions, deletions, and vocabulary changes. For example, consider the
+              following extract from the preface.</p>
+            <p><quote><bibl>1609</bibl> The later part of which saying although the delicat
+                Silk-worme have else-where disproved, and is now setting foot in this land, here
+                also to except against it; yet must shee needs confesse the former, and, when shee
+                is come, yeelde the precedence to the laborious Bee, as to hir elder sister; which
+                as in time, so in vertue is before her. For the fruite of the Silke-worme serveth
+                onlie to cover the bodie;</quote></p>
+            <p><quote><bibl>1623</bibl> The later part of which saying, although the delicate
+                Silk-worme have in some hoter Climates disproved; (for in the colder countries, such
+                as is our Iland of Britaine, I doubt mee shee will never quit cost: and therefore is
+                here to be entertained only of them, that doe more respect their pleasure, than
+                their profit; and doe content themselves with the beholding of their queint worke,
+                not expecting any further recompence for their expence and paines;) yet mustshee
+                needs confesse the former, and wheresoever she meet the ingenuous and laborious Bee,
+                yeeld the precendence to her, as to hir Better. For the fruite of the Silk-worme
+                serveth onlie to cover the body;</quote>
+            </p>
+            <p>Not only does 1623 add a considerable amount of text to 1609, it also rewrites a
+              portion of the text that it keeps. You can be as granular as you wish in marking these
+              differences but, both for efficiency and readability, it would be better to group them
+              all together as a like-for-like change, like so:</p>
+            <label>1609.xml</label>
+            <egXML xmlns="http://www.tei-c.org/ns/Examples"> The later part of which saying although
+              the delicat Silk-worme have <anchor xml:id="frontancs1"/>else-where disproved, and is
+              now setting foot in this land, here also to except against it; yet must shee needs
+              confesse the former, and, when shee is come, yeelde the precedence to the laborious
+              Bee, as to hir elder sister; which as in time, so in vertue is before her.<anchor
+                xml:id="frontance1"/> For the fruite of the Silke-worme serveth onlie to cover the
+              bodie; </egXML>
+            <label>1623.xml</label>
+            <egXML xmlns="http://www.tei-c.org/ns/Examples"> The later part of which saying,
+              although the delicate Silk-worme have <app type="substantial" subtype="change">
+                <lem wit="#b1623"> in some hoter Climates disproved; (for in the colder countries,
+                  such as is our Iland of <placeName rend="italic">Britaine</placeName>, I doubt mee
+                  shee will never quit cost: and therefore is here to be entertained only of them,
+                  that doe more respect their pleasure, than their profit; and doe content
+                  themselves with the beholding of their queint worke, not expecting any further
+                  recompence for their expence and paines;) yet mustshee needs confesse the former,
+                  and wheresoever she meet the ingenuous and laborious Bee, yeeld the precendence to
+                  her, as to hir Better. </lem>
+                <rdg wit="#b1609"><ptr target="1609.xml#frontancs1 1609.xml#frontance1"/></rdg>
+              </app> For the fruite of the Silk-worme serveth onlie to cover the body; </egXML>
+          </div>
+          <div xml:id="encVarDel">
+            <head>Text that has been cut from 1609</head>
+            <p>Text that appears in 1609 but does not appear in 1623 follows the same pattern as
+                <ptr target="#encVarCha"/>, with the exception that the <tag>lem</tag> for 1623 is
+              an empty element.</p>
+            <label>1609</label>
+            <egXML xmlns="http://www.tei-c.org/ns/Examples"> which foor let me made of sound timber
+              5 or 6 inches over; and of that length that it may be set betweene fifteene and
+              eighteene inches in the ground. <anchor xml:id="ch2ancs1"/>The fower feet are fittest
+              for the higher stooles, and the single foote for the lower.<anchor xml:id="ch2ance1"/>
+            </egXML>
+            <label>1623</label>
+            <egXML xmlns="http://www.tei-c.org/ns/Examples">
+              <p>...which foot let be made of sound timber five or six inches over; and of that
+                length, that it may be set betweene fifteene and eighteene inches in the ground.<app
+                  type="substantial" subtype="del">
+                  <lem wit="#b1623"/>
+                  <rdg wit="#b1606"><ptr target="1609.xml#ch2ancs1 1609.xml#ch2ance1"/></rdg>
+                </app></p>
+            </egXML>
+          </div>
+          <div xml:id="encVarAdd">
+            <head>Text that has been newly added to 1623</head>
+            <p>Text that has been added to 1623 that does not appear in 1609 follows the same
+              pattern as <ptr target="#encVarDel"/>, with the exception that, this time, it is the
+                <tag>rdg</tag> for 1609 that is empty. Because there is no text in 1609, you do not
+              need to add any anchor points to it. The placement and content of the <tag>app</tag>
+              make it clear the text that exists in 1609 and the text that has been added to
+              1623.</p>
+            <label>1609</label>
+            <egXML xmlns="http://www.tei-c.org/ns/Examples">
+              <p>...or otherwise the sense doth plainely shew that it is spoken of the whole month. </p>
+              <p xml:id="frontpar7">I am out of doubt that this book of <hi>Bees</hi> wil in his
+                infancy be hidden in obscurity as the book of <hi>tropes and figures</hi> did for a
+                while go unregarded, without friends or acquaintance:...</p>
+            </egXML>
+            <label>1623</label>
+            <egXML xmlns="http://www.tei-c.org/ns/Examples">
+              <p>...or otherwise the sense doth plainely shew that it is spoken of the whole Moneth. </p>
+              <app type="substantial" subtype="add"><lem wit="#b1623"><p xml:id="frontpar7">When you
+                    have once, for your satisfaction, perused this Booke, you need not afterward
+                    seeke farre for anything therein, whereof you doubt: the <ref target="#contents"
+                      rend="italic">Index</ref> of the Chapters or Contents of the Booke; and of the
+                    Marginall notes, or Contents of the Chapters will readily direct you. For
+                    example, if you would know the Spleeting of Hives, or the manner of Hiving Bees;
+                    looking into the <ref target="#contents" rend="italic">Index</ref> of the
+                    Chapters, you shall perceive the one to appertaine to the Third, and the other
+                    to the Fifth; and running over the Contents of either Chapter, you shall find
+                    the first to be the Tenth note, and the other the 53. Then turning to these
+                    Marginall Notes in the said Chapters, you have in the Text over against them
+                    your desire.</p>
+                  <p xml:id="frontpar8">Note also, that whereas you have in the Margin, with these
+                    Marginall Notes, certaine References unto other places of the Booke, for further
+                    explanation of those places against which they stand; <term rend="italic"
+                      >V.</term> signifieth <gloss>
+                      <foreign xml:lang="la">vide</foreign>
+                    </gloss>, or <gloss rend="italic">See, C.</gloss> with his number the Chapter,
+                    and <hi rend="italic">N.</hi> with his number the Marginall Note. But if <hi
+                      rend="term">N.</hi> follow <term> V.</term> without <hi rend="italic">C</hi>;
+                    then doth it note some Note of the same Chapter.</p></lem>
+                <rdg wit="#b1609"/>
+              </app>
+              <fw type="catch"> I am</fw>
+              <pb n="A1r"/>
+              <fw type="header"> The Preface to the Reader. </fw>
+              <p>I am out of doubt that this Booke of <term rend="italic">Bees</term> will in his
+                Infancie lie hidden in obscuritie, as the Booke of <term rend="italic">Tropes</term>
+                and <term rend="italic">Figures</term> did for a while goe unregarded, without
+                friends or acquaintance:...</p>
+            </egXML>
+          </div>
+          <div xml:id="encVarMov">
+            <head>Text that has been moved from its original position in 1609</head>
+            <p>Text that has been moved from one location in 1609 to another in 1623 (akin to cut
+              and paste) is currently not marked up in any special way, the variation already beeing
+              covered by <ref target="#encVarAdd"><val>add</val></ref> and <ref target="#encVarDel"
+                  ><val>del</val></ref>. If you do find any significant variation that falls in this
+              category, make a note of its locations in both 1609 and 1623 but, for now, mark it up
+              as additions and deletions to the normal flow of text. See <ref
+                target="https://github.com/NewcastleRSE/beeing-human-tei-data/issues/32">this github
+                issue</ref> for more.</p>
+          </div>
+        </div>
       </div>
       <div xml:id="conclusion">
         <head>Conclusion</head>
@@ -771,11 +1023,11 @@
 
           <!-- required minimal header elements -->
           <moduleRef key="header"
-            include="teiHeader fileDesc titleStmt publicationStmt sourceDesc principal funder editionStmt edition authority licence revisionDesc listChange change"/>
+            include="teiHeader fileDesc titleStmt publicationStmt sourceDesc principal funder editionStmt edition authority licence revisionDesc listChange change encodingDesc"/>
 
           <!-- required core elements (p and title for use in titleStmt) -->
           <moduleRef key="core"
-            include="p title date note biblStruct bibl ref abbr list item foreign q quote graphic head pb respStmt author name resp pubPlace imprint publisher monogr hi cit lb term gloss lg l ptr cb emph"/>
+            include="p title date note biblStruct bibl ref abbr list item foreign q quote graphic head pb respStmt author name resp pubPlace imprint publisher monogr hi cit lb term gloss lg l ptr cb emph listBibl"/>
 
           <!-- required textstructure elements (TEI, text, and body) -->
           <moduleRef key="textstructure"
@@ -789,6 +1041,104 @@
           <moduleRef key="namesdates" include="persName placeName orgName"/>
           <moduleRef key="analysis" include="w s"/>
           <moduleRef key="figures" include="figure figDesc"/>
+          <moduleRef key="textcrit" include="listWit witness app lem rdg variantEncoding"/>
+
+          <!-- Element changes, definitions, schematron rules... -->
+
+          <elementSpec ident="ptr" mode="change">
+            <attList>
+              <attDef ident="target" mode="change" usage="req"/>
+            </attList>
+          </elementSpec>
+
+          <elementSpec ident="lem" mode="change">
+            <attList>
+              <attDef ident="wit" mode="change" usage="req"/>
+            </attList>
+          </elementSpec>
+
+          <elementSpec ident="rdg" mode="change">
+            <attList>
+              <attDef ident="wit" mode="change" usage="req"/>
+            </attList>
+          </elementSpec>
+
+          <elementSpec ident="witness" mode="change">
+            <attList>
+              <attDef ident="xml:id" mode="change" usage="req"/>
+            </attList>
+          </elementSpec>
+
+          <elementSpec ident="app" mode="change">
+            <constraintSpec ident="app-must-contain-lem" scheme="schematron">
+              <constraint>
+                <sch:report
+                  test="count(descendant::tei:lem)=0"
+                  role="error">An 'app' must contain one 'lem'</sch:report>
+              </constraint>
+            </constraintSpec>
+            <constraintSpec ident="app-must-contain-rdg" scheme="schematron">
+              <constraint>
+                <sch:report
+                  test="count(descendant::tei:rdg)=0"
+                  role="error">An 'app' must contain at least one 'rdg'</sch:report>
+              </constraint>
+            </constraintSpec>
+            <constraintSpec ident="app-must-contain-exactly-one-lem" scheme="schematron">
+              <constraint>
+                <sch:report
+                  test="count(descendant::tei:lem)>1"
+                  role="error">An 'app' must not contain more than one 'lem'</sch:report>
+              </constraint>
+            </constraintSpec>
+            <attList>
+              <attDef ident="type" mode="change" usage="req">
+                <valList type="closed" mode="change">
+                  <valItem ident="substantive" mode="add">
+                    <desc>A significant change between the versions beeing compared, usually
+                      comprised of more than a few words, that significantly transforms the meaning
+                      of the passage.</desc>
+                  </valItem>
+                  <valItem ident="ortographic" mode="add">
+                    <desc> A change that only affects the spelling of existing words, either to
+                      correct a spelling mistake in the earlier edition, or to update the text to a
+                      new spelling convention. </desc>
+                  </valItem>
+                  <valItem ident="vocabulary" mode="add">
+                    <desc> A small change that replaces one word for a synonym (or adds or deletes a
+                      word) without significant impact to the meaning of the passage. </desc>
+                  </valItem>
+                  <valItem ident="other" mode="add">
+                    <desc>Any other type of change not currently covered by this typology. If this
+                      happens, remember to open an inssue in <ref
+                        target="https://github.com/NewcastleRSE/beeing-human-tei-data/issues"
+                        >Github</ref> to discuss the best approach to the problem.</desc>
+                  </valItem>
+                </valList>
+              </attDef>
+              <attDef ident="subtype" mode="change" usage="req">
+                <valList type="closed" mode="change">
+                  <valItem ident="change" mode="add">
+                    <desc>The 1623 edition rewrites a portion of the 1609 text with a mixture of
+                      additions, deletions, and vocabulary changes.</desc>
+                  </valItem>
+                  <valItem ident="del" mode="add">
+                    <desc>Text that appears in 1609 but does not appear in 1623.</desc>
+                  </valItem>
+                  <valItem ident="add" mode="add">
+                    <desc> Text that has been added to 1623 that does not appear in 1609.</desc>
+                  </valItem>
+                  <valItem ident="other" mode="add">
+                    <desc>Any other type of change not currently covered by this typology. If this
+                      happens, remember to open an inssue in <ref
+                        target="https://github.com/NewcastleRSE/beeing-human-tei-data/issues"
+                        >Github</ref> to discuss the best approach to the problem.</desc>
+                  </valItem>
+                </valList>
+              </attDef>
+            </attList>
+          </elementSpec>
+
           <elementSpec ident="date" mode="change">
             <desc versionDate="2023-08-11" xml:lang="en">contains a date in any format. It must
               include a @when attribute with the date in the standard format yyyy-mm-dd. If there
@@ -802,6 +1152,7 @@
               </attDef>
             </attList>
           </elementSpec>
+
           <elementSpec ident="quote" mode="change">
             <constraintSpec ident="quote-should-contain-note" scheme="schematron">
               <constraint>
@@ -810,6 +1161,7 @@
               </constraint>
             </constraintSpec>
           </elementSpec>
+
           <elementSpec ident="fw" mode="change">
             <desc versionDate="2023-08-22" xml:lang="en">contains a running head (e.g. a header,
               footer), catchword, or similar material appearing on the current page, including other
@@ -830,6 +1182,7 @@
               </attDef>
             </attList>
           </elementSpec>
+
           <elementSpec ident="note" mode="change">
             <desc versionDate="2023-08-11" xml:lang="en">contains a note or annotation, either
               included in the original, or added by the editor. The types of notes are distinguished
@@ -897,6 +1250,7 @@
               <attDef ident="xml:id" mode="change" usage="req"/>
             </attList>
           </elementSpec>
+
           <elementSpec ident="w" mode="change">
             <desc versionDate="2023-08-11" xml:lang="en">represents a grammatical (not necessarily
               orthographic) word -- used to mark words of special meaning and interest.</desc>
@@ -931,6 +1285,7 @@
               </attDef>
             </attList>
           </elementSpec>
+
           <elementSpec ident="s" mode="change">
             <desc versionDate="2023-08-11" xml:lang="en">contains a sentence-like division of a
               text. Used to identify phrasal references to bees, sound, voice, emotion, music with
@@ -947,6 +1302,7 @@
               </attDef>
             </attList>
           </elementSpec>
+
           <elementSpec ident="foreign" mode="change">
             <content>
               <macroRef key="macro.paraContent"/>
@@ -955,7 +1311,9 @@
               <attDef ident="xml:lang" mode="change" usage="rec"/>
             </attList>
           </elementSpec>
+
           <classRef key="att.placement"/>
+
           <elementSpec ident="publicationStmt" mode="change">
             <content>
               <alternate maxOccurs="1" minOccurs="1">
@@ -968,7 +1326,9 @@
               </alternate>
             </content>
           </elementSpec>
+
           <classRef key="model.availabilityPart"/>
+
           <elementSpec ident="bibl" mode="change">
             <attList>
               <attDef ident="rend" mode="change">
@@ -980,6 +1340,7 @@
               </attDef>
             </attList>
           </elementSpec>
+
           <elementSpec ident="hi" mode="change">
             <desc versionDate="2023-08-22" xml:lang="en">marks a word or phrase as graphically
               distinct from the surrounding text, for reasons concerning which no claim is made.
@@ -1015,6 +1376,7 @@
               </attDef>
             </attList>
           </elementSpec>
+
           <elementSpec ident="cb" mode="change">
             <desc versionDate="2023-08-23" xml:lang="en">marks the beginning of a new column of a
               text on a multi-column page. The element should be placed at the start of the column,
@@ -1033,12 +1395,14 @@
               </attDef>
             </attList>
           </elementSpec>
+
           <elementSpec ident="change" mode="change">
             <attList>
               <attDef ident="when" mode="change" usage="req"/>
               <attDef ident="who" mode="change" usage="req"/>
             </attList>
           </elementSpec>
+
           <elementSpec ident="ref" mode="change">
             <constraintSpec ident="ref-sanity-check" scheme="schematron">
               <constraint>
@@ -1050,6 +1414,7 @@
               <attDef ident="target" mode="change" usage="req"/>
             </attList>
           </elementSpec>
+
         </schemaSpec>
       </div>
     </body>
