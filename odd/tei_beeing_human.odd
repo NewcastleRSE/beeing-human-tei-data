@@ -531,6 +531,18 @@
                 </note>
               </quote>
             </egXML>
+            <p>If the corresponding bibliographic note in the original is too far away from the quote (for example, in a different page or misaligned from the quote by several paragraphs), instead of moving the quote, introduce a <tag>bibl</tag> element inside the <tag>quote</tag> with a <tag>ptr</tag> targeting the <att>xml:id</att> of the corresponding bibliographic note as in the following (artificial) example:</p>
+            <egXML xmlns="http://www.tei-c.org/ns/Examples">
+              <quote>
+                <foreign xml:lang="la">(Tantus amor florum, &amp; generandi gloria mellis)</foreign>
+                <bibl><ptr target="#ch5bibln18"/></bibl>
+              </quote>
+              <p>...</p>
+              <p>...</p>
+              <note type="authorial" subtype="bibliographic" xml:id="ch5bibln18">
+                <bibl>Virg.</bibl>
+              </note>
+            </egXML>
             <p>No distinction is made between in-line and block quotations, although care should be
               taken to ensure that quotations appear within their parent <tag>p</tag> if they are
               part of a paragraph, or outside of any <tag>p</tag> if they appear without any
