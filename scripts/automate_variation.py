@@ -1,5 +1,6 @@
 def getText(string):
-    import re
+    import re, os
+    import xml.etree.ElementTree as ET
 
     # get two targets
     start_end = string.split()
@@ -9,20 +10,23 @@ def getText(string):
 
     # isolate xml:id and build full anchor
     for i, id in enumerate(start_end):
-        start_end[i] = f'<anchor xml:id=\"{id.split("#")[1]}\"/>'
+        # start_end[i] = f'<anchor xml:id=\"{id.split("#")[1]}\"/>'
+        start_end[i] = id.split("#")[1]
 
-
+        tree = ET.parse(fileName)
+        # CHECK https://stackoverflow.com/questions/47500129/extract-text-between-xml-tags-in-python
     # open file
-    with open(fileName, 'r') as file:
-        text = file.read()
+    # with open(fileName, 'r', encoding='utf-8') as file:
+    #     text = file.read()
         # NEED TO REMOVE ANY POSSIBLE EMPTY SPACES BETWEEN THE END OF THE XML:ID AND CLOSING THE TAG
         # ALTERNATIVELY FIND A WAY OF EXTRACTING TEXT BEWEEN TWO TAGS
         # find substring
-        result = re.search(f'{start_end[0]}(.*){start_end[1]}', text).group(1)
-        print(result)
+        # result = re.search(f'{start_end[0]}(.*){start_end[1]}', text).group(1)
+        # print(result)
 
 
-    return result
+
+    return 'NOTHING'
     
 
 import xml.etree.ElementTree as ET
