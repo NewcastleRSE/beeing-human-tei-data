@@ -2649,13 +2649,13 @@
                     </quote>; neither can they endure any unsavourinesse without nigh unto them. <quote>
                         <foreign xml:lang="la">Odere fœdos odores: Nulla harum assidet in loco
                             inquinato, aut eo qui malè oleat.</foreign>
-                    </quote>
-                    <note type="authorial" subtype="bibliographic" xml:id="ch1bibln61">
-                        <bibl>Hist an.l.9.c.40</bibl>
-                    </note>
-                    <note type="authorial" subtype="bibliographic" xml:id="ch1bibln62">
-                        <bibl> Var.l.3.c.15.</bibl>
-                    </note> And for their persons (which are lovely browne) though they be not long
+                        <note type="authorial" subtype="bibliographic" xml:id="ch1bibln61">
+                            <bibl>Hist an.l.9.c.40</bibl>
+                        </note>
+                        <note type="authorial" subtype="bibliographic" xml:id="ch1bibln62">
+                            <bibl> Var.l.3.c.15.</bibl>
+                        </note></quote>
+                   And for their persons (which are lovely browne) though they be not long
                     about it, yet are they curious in trimming and smoothing them from top to toe,
                     like unto sober Matrones, which love as well to goe neate as plaine: pied and
                     garish colours belong to the Waspe, which is good for nothing but to spend and
@@ -4071,9 +4071,9 @@
                     the more and greater are the swarmes; (<quote>
                         <foreign xml:lang="la">Certe quo major fuerit fucorum multitudo, eo major
                             fiet examinum proventus; v.</foreign>
-                    </quote> ) <note type="authorial" subtype="bibliographic" xml:id="ch4bibln8">
-                        <ref target="#ch5sumn4">v.c.5 n 4.</ref>
-                    </note> so where the Drones are few and late, there is small increase: and
+                        <note type="authorial" subtype="bibliographic" xml:id="ch4bibln8">
+                            <ref target="#ch5sumn4">v.c.5 n 4.</ref>
+                        </note> </quote> )  so where the Drones are few and late, there is small increase: and
                     therefore if you kill the Drones of a Hive before the Bees have done swarming
                     and breeding (as some fondly have don before Mid-sommer, to save their hony from
                     these lazie lurchers) neither will the swarmes come forth that were formerly
@@ -4423,7 +4423,7 @@
                     for the nonce <ref target="#ch4bibln23">v.</ref>
                     <note type="authorial" subtype="bibliographic" xml:id="ch4bibln23">
                         <ref target="#ch6sumn10"> V.c.6.n.10.</ref>
-                    </note> they breed the Male-bees or Drones: as was long since observed, <quote>
+                    </note> they breed the Male-bees or Drones: as was long since observed, <quote><note xml:id="ch4biblnX23" type="authorial" subtype="bibliographic"><bibl>Nat.hist.li.11.c.11.</bibl></note>
                         <foreign xml:lang="la">Sunt fuci sine aculeo velut imperfectæ apes,
                             novissemque à fessis &amp; jam emeritis inchoatæ, ferotinus
                             fœtus.</foreign>
@@ -5292,7 +5292,7 @@
                     Daughter take the Hive and carrie it in: The Wench following hir play did
                     happily forget hir mothers command: and by that meanes the Hive stood still,
                     till the unexpected swarme came, that afterward stored hir garden. It is not
-                    amisse therefore to follow the counsell of <persName>Columella:</persName>
+                    amisse therefore to follow the counsell of <bibl xml:id="ch5bibln32X2"><persName>Columella:</persName></bibl>
                     <note type="authorial" subtype="summary" xml:id="ch5sumn41"> 41. <foreign
                             xml:lang="la">Vacua alvearia stent semper parata in
                         Apiario.</foreign></note>
@@ -5301,7 +5301,7 @@
                             habere. Nam sunt nonnulla examina quæ cum processerint, statim sedem
                             sibi quærant in proximo (Seu potius prius quæsitam, lustratam, &amp;
                             paratam ad eant.v.n.39.) eandemque occupent quam vacuam
-                            reperint.</foreign>
+                            reperint.</foreign> <bibl><ptr target="#ch5bibln32X2"/></bibl>
                     </quote></p>
                 <fw type="catch">When</fw>
                 <pb n="L4r"/>
@@ -6399,7 +6399,7 @@
                     forraging, it doth them little good. For the most part of it they presentlie
                     spend: and if they save any, they halfe fill a few cels with it: which being
                     uncovered, either themselves or some other theeves quicklie devoure: according
-                    to the Proverbe, <quote>Evill gotten goods are soone spent</quote>.</p>
+                    to the <quote> <bibl>Proverbe,</bibl>Evill gotten goods are soone spent</quote>.</p>
                 <p xml:id="ch6par27"><note type="authorial" subtype="summary" xml:id="ch6sumn33">33.
                         Nectar &amp; Ambrosia made of many simples, whereof each moneth yeeldeth
                         variety.</note> This <term>Nectar</term> and <term>Ambrosia</term>, together
@@ -6938,7 +6938,7 @@
                         be loosed: and that the Roofe when it falleth, lie flat and even with the
                         Floore, lest the poore Mouse lose hir labour. </p>
                     <p xml:id="ch7par12">
-                        <quote>
+                       
                             <foreign xml:lang="la">Sed instar omnium erit hoc unum. R. Farinæ I.
                                 avenacæ novæ aridæ dulcis Drachmas IV. tere: 2. Arsenicæ albæ 3.
                                 semi-drachmam, inpulverem quam queas 4. minimum per se pertere: 5.
@@ -6977,7 +6977,6 @@
                                         nec ubi fraus semel subolverit, ullis postea decipulis
                                         facile decipientur.</item>
                                 </list></foreign>
-                        </quote>
                     </p>
                 </note>
                 <p xml:id="ch7par13"><note type="authorial" subtype="summary" xml:id="ch7sumn4"
@@ -7196,12 +7195,12 @@
                         xml:id="ch7bibln12">
                         <bibl>Hist.li.9.c.40.</bibl>
                     </note>
-                    <persName> Aristotle</persName> teacheth you an other way. <quote>
+                    <bibl xml:id="ch7biblnX12"><persName> Aristotle</persName></bibl> teacheth you an other way. <quote>
                         <foreign xml:lang="la"> Impugnantur <hi rend="opposite">(saith he)</hi> Apes
                             à vespis: quamobrem Apiarii eas venantur constitutâ ollâ, &amp; carne in
                             ca positâ. Ubi enim multæ ad carnem accesserint, apposito operculo super
                             ignem ollam ponunt.</foreign>
-                    </quote> You may also use other meanes to kil them your selfe. How to helpe and
+                        <bibl><ptr target="#ch7biblnX12"/></bibl></quote> You may also use other meanes to kil them your selfe. How to helpe and
                     defend your Bees against them, see <ref target="#ch3sumn46"> c.
                         3.n.46,</ref><ref target="#ch3sumn47">47,</ref><ref target="#ch3sumn54"
                         >54,</ref>&amp;<ref target="#ch3sumn55">55.</ref></p>
@@ -7356,10 +7355,10 @@
                     <note type="authorial" subtype="bibliographic" xml:id="ch7bibln21">
                         <bibl>Nat.hist.l.11.c.17</bibl>
                     </note> stocks, which have not sufficiently provided themselves for winter. Of
-                    which opinion was <persName> Plinie</persName> where hee said. <quote>
+                    which opinion was <bibl xml:id="ch7biblnX21"><persName> Plinie</persName></bibl> where hee said. <quote>
                         <foreign xml:lang="la">Quod si defecerit aliciuis alvei cibus, impetum in
                             proximas faciunt rapinæ proposito</foreign>
-                    </quote>. But indeed such are fitter to be robbed, as before is said, than to be
+                        <bibl><ptr target="ch7biblnX21"/></bibl></quote>. But indeed such are fitter to be robbed, as before is said, than to be
                     robbers. There is no theefe to the rich theefe: who, although he have enough,
                     and more then enough; yet by hooke or by crooke hee will have more, though the
                     poore starve for it. </p>
@@ -7783,13 +7782,13 @@
                     thus violate the <term>Muses</term> sacred Favourites. And heere, now my hand is
                     in (though it may seeme a hard digression) let me begge the like boone for those
                     other necessarie creatures, which, for their like certaine and generall profit,
-                    the Proverbe hath joyned with them in speciall commendation to the world. </p>
+                    the <bibl xml:id="ch7biblnX35">Proverbe</bibl> hath joyned with them in speciall commendation to the world. </p>
                 <quote>
                     <lg>
                         <l>Who so keepe well Sheepe and Been,</l>
                         <l>Sleepe or wake, their thrift comes in.</l>
                     </lg>
-                </quote>
+                    <bibl><ptr target="#ch7biblnX35"/></bibl></quote>
                 <p xml:id="ch7par72">They serve for mans use both without and within, not only to
                     feed the belly, but also to cloath the back: for which necessarie uses, they
                     deserve especially to be beloved and defended of all. And yet I thinke that in
@@ -8387,7 +8386,7 @@
                             xml:id="ch10p1sumn9">9. This driving of Bees unprofitable.</note> This
                         kinde of taking is much applauded at the first, because men thinke thereby
                         to save both Bees and Honie: but it falleth out with them as it is in the
-                        Proverbe, <quote>All covet, all lose.</quote>
+                        <quote> <bibl>Proverbe,</bibl>All covet, all lose.</quote>
                         <note type="authorial" subtype="summary" xml:id="ch10p1sumn10">10. The Honie
                             taken is little and naught.</note>For the Honie is neither so good, as
                         being not yet in season, and to bee corrupted with the Schadons, <ref
@@ -8564,21 +8563,21 @@
                             <note type="authorial" subtype="bibliographic" xml:id="ch10p1bibln16">
                                 <bibl> l.9. c.15</bibl>
                             </note>
-                        </quote> But <persName>Varro</persName> then requireth for their store two
+                        </quote> But <bibl xml:id="ch10p1bibln16X1"><persName>Varro</persName></bibl> then requireth for their store two
                         third parts; <quote>
                             <foreign xml:lang="la">Ut ne plus tertia pars eximatur mellis, reliquum
                                 hyemationi relinquatur</foreign>
-                        </quote>. And <persName> Aristotle</persName> because (as
+                            <bibl><ptr target="#ch10p1bibln16X1"/></bibl> </quote>. And <bibl xml:id="ch10p1bibln16X2"><persName> Aristotle</persName></bibl> because (as
                             <persName>Columella</persName> granteth) <quote>
                             <foreign xml:lang="la">hic modus non est in omnibus regionibus
                                 certus</foreign>
-                        </quote>; doth not prescribe any certaine part, but leaving it to the
+                                <bibl><ptr target="#ch10p1bibln16X2"/></bibl></quote>; doth not prescribe any certaine part, but leaving it to the
                         discretion of the Bee-master, saith, <quote>
                             <foreign xml:lang="la">Cum favos apiarii eximunt, cibi tantum
                                 relinquant, quantum per hymem sufficiat: quod si satis sit, servatur
                                 examen; sin minus, vel moritur ibidem, (sine discedat hyems obstet)
                                 vel de serit sedem, si serenum nanciscitur.</foreign>
-                            <note type="authorial" subtype="bibliographic" xml:id="ch10p1biblnX16">
+                            <note type="authorial" subtype="bibliographic" xml:id="ch10p1bibln16X3">
                                 <bibl> Hist.an.l.9.c.40.</bibl>
                             </note></quote>
                     </p>
@@ -9169,7 +9168,7 @@
                         have lost of his fatnesse and sweetnesse, and to be the worse for all uses.
                         (6.) Which may be a bason or other vessell of mettall or earth, bigger
                         upward than in the bottom. (7) Lest the Wax first poured in (which is the
-                        best) being presently cooled, lie beneath the drosse. (8.) To keepe the Wax
+                        best) being presently cooled, lie beneath the drosse. <bibl xml:id="ch10p2bibln19X1">(8.)</bibl> To keepe the Wax
                         from sticking to the sides of the mould, and consequently to helpe save the
                         Cake from cracking. For Wax shrinketh in cooling, as new walles in drying:
                         and therefore if the Cake sticke not, if shrinketh together from the sides,
@@ -9185,7 +9184,7 @@
                         yet fervent hot beneath; the vapours being violent through the inward heat,
                         must needs either cracke the Cake, or heave it make it hollow, or both,
                         specially if it be verie great: for then will the heat be both stronger and
-                        longer: but this is helped by not sticking. <ref target="#"> v. ante num.
+                        longer: but this is helped by not sticking. <ref target="#ch10p2bibln19X1"> v. ante num.
                         </ref> (8.)</note>
                     <p xml:id="ch10p2par39"><note type="authorial" subtype="summary"
                             xml:id="ch10p2sumn32">32. How to know good Wax.</note> The properties of
@@ -9238,7 +9237,7 @@
                         from putrefaction. <note type="authorial" subtype="summary"
                             xml:id="ch10p3sumn2">2. Against both outward and inward griefes.</note>
                         (18) It is a soveraigne medicament both for outward and inward maladies;
-                            (<ref target="#"> reade the note. </ref>) (19) It helpeth the griefes of
+                        (<ref target="#ch10p3bibln2X1"> reade the note. </ref>) (19) It helpeth the griefes of
                         the jawes, (20) the kernels growing within the mouth, (21) and the
                         squinancie or inflammation of the muscle of the inner gargil, for which
                         purpose it is gargarized, <note type="authorial" subtype="summary"
@@ -9313,7 +9312,7 @@
                         <bibl>hist.l.7.c.3.</bibl>(16.) <persName> Pictorius</persName> (17.)
                             <persName>Claudius Cæsar</persName> scribit hippocentaurum in Thessalia
                         natum eo dem die interijsse. Et nos principatu illius allatum illi ex Ægypto
-                        in melle vidimus. <bibl>Pl.hist.l.7.c.3</bibl> (18) <foreign xml:lang="la"
+                        in melle vidimus. <bibl>Pl.hist.l.7.c.3</bibl> <bibl xml:id="ch10p3bibln2X1">(18)</bibl> <foreign xml:lang="la"
                             >Mel calidum siccumque ordine secundo aperit putredini obsistit, siccat,
                             deterget, expurgatque meatus &amp; ulcera.</foreign>
                         <bibl>Fern.Method.lib.6,c.12.</bibl> Item, <foreign xml:lang="la">Mel &amp;
@@ -9378,7 +9377,7 @@
                             >(1)(2)<bibl> Galen.l.4.simpl.med.dist.3.c.5.</bibl><foreign
                             xml:lang="la">Item</foreign>
                         <bibl> Seth.Pictorius,&amp;Freitag.</bibl>(3)<bibl>Wikerus &amp; Freitagius
-                        </bibl> (4)<ref target="#">vide (8)&amp;supra.</ref>(5)<bibl>Lobel.</bibl>
+                        </bibl> (4)<ref target="#ch10p3bibln2X1">vide (8)&amp;(18)supra.</ref>(5)<bibl>Lobel.</bibl>
                     </note>
                     <p xml:id="ch10p3par3"><note type="authorial" subtype="summary"
                             xml:id="ch10p3sumn6">6. The different operations of raw &amp; boiled
@@ -9393,8 +9392,8 @@
                     <note type="authorial" subtype="gloss" place="inline" xml:id="ch10p3glon3"
                         >(1)(2)(3) <bibl>Freitag Pictor. &amp; Wikerus,</bibl> (4) <bibl>Freitag,
                             &amp; Wiker</bibl> (5) <bibl> Wikerus</bibl> (6) <bibl>Pictorius</bibl>
-                        (7) <bibl>Gal.&amp; Seth.&amp; Fernelius Methodi.lib.6.c.12.</bibl>
-                        <quote>
+                        (7) <bibl>Gal.</bibl>bibl>&amp; <bibl>Seth.</bibl>&amp; 
+                        <quote> <bibl>Fernelius Methodi.lib.6.c.12.</bibl>
                             <foreign xml:lang="la">Crudum cocto &amp; despumato detergentius quidem
                                 multo est &amp; mordacius: sed eo minus agglutinat.</foreign>
                         </quote>(8) ad sinuum glutinationes, Seth sinuosorum ulcerum,
@@ -9833,14 +9832,14 @@
                         to curdle in the stomach. </p>
                     <p xml:id="ch10p3par33">Moreover, it maketh the most excellent; light fit for
                         the uses of the most excellent; for cleernesse, sweetnesse, neatnesse, to be
-                        preferred before all other: Which <persName> Scaliger</persName> in his
-                            <title>Ænigmatica,</title> giving it the precedence, doth intimate.</p>
+                        preferred before all other: Which <bibl xml:id="ch10p3bibln8X1"><persName> Scaliger</persName> in his
+                            <title>Ænigmatica,</title></bibl> giving it the precedence, doth intimate.</p>
                     <quote>
                         <lg xml:lang="la">
                             <l>Aut Apis, aut Hircus, vel pinguia viscera Pini</l>
                             <l>Ostendêre diem, post simul ante diem.</l>
                         </lg>
-                    </quote>
+                        <bibl><ptr target="#ch10p3bibln8X1"/></bibl></quote>
                     <fw type="catch"> (1) Galen</fw>
                     <pb n="Z1v"/>
                     <fw type="header"> Of the fruit and profit of Bees. </fw>
@@ -9851,8 +9850,8 @@
                             <foreign xml:lang="la">Cera flava magis emollit, relaxat, dolorem
                                 solvit: eóque ill â utimur ad abscessus calefaciendos, emolliendos,
                                 concoquendos, &amp; maturandos.</foreign>
-                        </quote>
-                        <persName>Johannes Guintherius Andernacus.</persName>
+                            <bibl><persName>Johannes Guintherius Andernacus.</persName></bibl> </quote>
+                        
                         <quote>
                             <foreign xml:lang="la">Omnis cera mollit, calefacit, explet corpora:
                                 recens melior. Datur in sorbitione dysentericis, favique ipsi in
