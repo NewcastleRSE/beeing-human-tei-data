@@ -1634,7 +1634,7 @@
             <pb n="B1r"/>
             <fw type="ornament"/>
             <app type="substantive" subtype="change"> <lem wit="#b1623"><head type="title">THE FEMININE MONARCHIE, <lb/>OR <lb/>The Historie of BEES.</head></lem>
-                <div type="chapter" n="1" xml:id="ch1"><rdg wit="#b1609"><ptr target="#ch1ancs1 #ch1ance1"></rdg></app>
+                <div type="chapter" n="1" xml:id="ch1"><rdg wit="#b1609"><ptr target="#ch1ancs1 #ch1ance1"/></rdg></app>
                 <head type="chapter-number">CHAP. I.</head>
                 <head type="chapter-title" rend="italic"> Of the Nature and properties of Bees, and
                     of their Queene. </head>
