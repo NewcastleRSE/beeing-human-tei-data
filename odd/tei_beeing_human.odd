@@ -531,6 +531,33 @@
                 </note>
               </quote>
             </egXML>
+            <p>If the corresponding bibliographic note in the original is too far away from the
+              quote (for example, in a different page or misaligned from the quote by several
+              paragraphs), instead of moving the quote, introduce a <tag>bibl</tag> element inside
+              the <tag>quote</tag> with a <tag>ptr</tag> targeting the <att>xml:id</att> of the
+              corresponding bibliographic note as in the following (artificial) example:</p>
+            <egXML xmlns="http://www.tei-c.org/ns/Examples">
+              <quote>
+                <foreign xml:lang="la">(Tantus amor florum, &amp; generandi gloria mellis)</foreign>
+                <bibl><ptr target="#ch5bibln18"/></bibl>
+              </quote>
+              <p>...</p>
+              <p>...</p>
+              <note type="authorial" subtype="bibliographic" xml:id="ch5bibln18">
+                <bibl>Virg.</bibl>
+              </note>
+            </egXML>
+            <p>If there are narrative interjections within the body of the quote (i.e., like 'saith
+              he'), these should be marked with a <tag>seg</tag> and a <att>type</att> of
+                <val>interjection</val>, as in this example:</p>
+            <egXML xmlns="http://www.tei-c.org/ns/Examples">
+              <quote>
+                <foreign xml:lang="la"> Impugnantur <seg type="interjection">(saith he)</seg> Apes à
+                  vespis: quamobrem Apiarii eas venantur constitutâ ollâ, &amp; carne in ca positâ.
+                  Ubi enim multæ ad carnem accesserint, apposito operculo super ignem ollam
+                  ponunt.</foreign>
+              </quote>
+            </egXML>
             <p>No distinction is made between in-line and block quotations, although care should be
               taken to ensure that quotations appear within their parent <tag>p</tag> if they are
               part of a paragraph, or outside of any <tag>p</tag> if they appear without any
@@ -1042,8 +1069,21 @@
           <moduleRef key="analysis" include="w s"/>
           <moduleRef key="figures" include="figure figDesc"/>
           <moduleRef key="textcrit" include="listWit witness app lem rdg variantEncoding"/>
+          <moduleRef key="linking" include="seg"/>
 
           <!-- Element changes, definitions, schematron rules... -->
+
+          <elementSpec ident="seg" mode="change">
+            <attList>
+              <attDef ident="type" mode="change" usage="rec">
+                <valList type="semi" mode="change">
+                  <valItem ident="interjection" mode="add">
+                    <desc>A narrative interjection within a quotation, like 'saith he'.</desc>
+                  </valItem>
+                </valList>
+              </attDef>
+            </attList>
+          </elementSpec>
 
           <elementSpec ident="ptr" mode="change">
             <attList>
@@ -1072,23 +1112,20 @@
           <elementSpec ident="app" mode="change">
             <constraintSpec ident="app-must-contain-lem" scheme="schematron">
               <constraint>
-                <sch:report
-                  test="count(descendant::tei:lem)=0"
-                  role="error">An 'app' must contain one 'lem'</sch:report>
+                <sch:report test="count(descendant::tei:lem)=0" role="error">An 'app' must contain
+                  one 'lem'</sch:report>
               </constraint>
             </constraintSpec>
             <constraintSpec ident="app-must-contain-rdg" scheme="schematron">
               <constraint>
-                <sch:report
-                  test="count(descendant::tei:rdg)=0"
-                  role="error">An 'app' must contain at least one 'rdg'</sch:report>
+                <sch:report test="count(descendant::tei:rdg)=0" role="error">An 'app' must contain
+                  at least one 'rdg'</sch:report>
               </constraint>
             </constraintSpec>
             <constraintSpec ident="app-must-contain-exactly-one-lem" scheme="schematron">
               <constraint>
-                <sch:report
-                  test="count(descendant::tei:lem)>1"
-                  role="error">An 'app' must not contain more than one 'lem'</sch:report>
+                <sch:report test="count(descendant::tei:lem)>1" role="error">An 'app' must not
+                  contain more than one 'lem'</sch:report>
               </constraint>
             </constraintSpec>
             <attList>
