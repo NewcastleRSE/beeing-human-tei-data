@@ -1,4 +1,4 @@
-def getText(string):
+def getText(string, ns):
     import re, os
     import xml.etree.ElementTree as ET
 
@@ -13,8 +13,28 @@ def getText(string):
         # start_end[i] = f'<anchor xml:id=\"{id.split("#")[1]}\"/>'
         start_end[i] = id.split("#")[1]
 
-        tree = ET.parse(fileName)
-        # CHECK https://stackoverflow.com/questions/47500129/extract-text-between-xml-tags-in-python
+    tree = ET.parse(fileName)
+
+    parent = tree.find(f'.//TEI:anchor[@xml:id="{start_end[0]}"]/..', ns)
+    collect = False
+    tags = []
+    for el in parent.iter():
+        if el.get(f'\u007b{ns["xml"]}\u007did') == start_end[0]:
+            collect = True
+        if el.get(f'\u007b{ns["xml"]}\u007did') == start_end[1]:
+            collect = False
+        if collect:
+            tags.append(el)
+    text = ""
+    for tag in tags:
+        if tag.text:
+            text += ''.join([tag.text, tag.tail])
+        else:
+            text += tag.tail
+    print(text)
+    print ("+++++++++++++")
+
+        
     # open file
     # with open(fileName, 'r', encoding='utf-8') as file:
     #     text = file.read()
@@ -43,7 +63,7 @@ root = tree.getroot()
 
 # Find elements
 # selects the parent (..) of all ptr inside rdg (i.e., selects rdg)
-rdgs = tree.findall("//TEI:rdg/TEI:ptr/..", ns)
+rdgs = tree.findall(".//TEI:rdg/TEI:ptr/..", ns)
 
 for rdg in rdgs:
     # Find target
@@ -54,7 +74,7 @@ for rdg in rdgs:
     rdg.attrib['source'] = target
 
     # Get text from 1609
-    newText = getText(target)
+    newText = getText(target, ns)
 
     # Replace ptr with text from 1609
     rdg.remove(ptr)
