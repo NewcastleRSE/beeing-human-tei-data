@@ -1681,15 +1681,15 @@
         <body>
             <pb n="B1r"/>
             <fw type="ornament"/>
-            <app type="substantive" subtype="change"> <lem wit="#b1623"><head type="title">THE FEMININE MONARCHIE, <lb/>OR <lb/>The Historie of BEES.</head></lem>
-                <div type="chapter" n="1" xml:id="ch1"><rdg wit="#b1609"><ptr target="#ch1ancs1 #ch1ance1"/></rdg></app>
+            <head type="title"><app type="substantive" subtype="change"> <lem wit="#b1623">THE FEMININE MONARCHIE, <lb/>OR <lb/>The Historie of BEES.</lem><rdg wit="#b1609"><ptr target="#ch1ancs1 #ch1ance1"/></rdg></app></head>
+                <div type="chapter" n="1" xml:id="ch1">
                 <head type="chapter-number">CHAP. I.</head>
                 <head type="chapter-title" rend="italic"> Of the Nature and properties of Bees, and
                     of their Queene. </head>
                 <p xml:id="ch1par1"><hi rend="drop-capital">A</hi>Mong all the Creatures which our
                     bountifull God hath made for the use and service of man, in respect of great
                     profit with smal cost, of their ubiquitie or being in all Countries, and of
-                    their <app type="vocabulary"><lem wit="#b1623">continuall</lem><rdg wit="#b1609"><ptr target="#ch1ancs2 #ch1ance2"/></rdg></app> labour and comly order, the Bees are most to be admired. </p>
+                    their <app type="vocabulary" subtype="change"><lem wit="#b1623">continuall</lem><rdg wit="#b1609"><ptr target="#ch1ancs2 #ch1ance2"/></rdg></app> labour and comly order, the Bees are most to be admired. </p>
                 <p xml:id="ch1par2">
                     <note type="authorial" subtype="summary" xml:id="ch1sumn1">1. Bees yeelde great
                         profit with small cost</note> For first with the provision of a Hive and
@@ -1749,7 +1749,8 @@
                         type="authorial" subtype="bibliographic" xml:id="ch1bibln5">
                         <bibl>Arist.hist.anim.lib.9.cap.40.</bibl></note>
                     <note type="authorial" subtype="bibliographic" xml:id="ch1bibln6"
-                            ><bibl>Ambr.Hex.lib.5.ca.21.&amp; Basil.Hexam.Homil.8.</bibl></note>
+                        ><bibl>Ambr.Hex.lib.5.ca.21.<app type="substantive" subtype="add">
+                            <lem wit="#b1623">&amp; Basil.Hexam.Homil.8.</lem></app></bibl></note>
                     <quote>
                         <foreign xml:lang="la">Solæ in omni genere animantium communem omnibus
                             sobolem habent, unam omnes incolunt mansionem, unius patriæ clauduntur
@@ -1761,9 +1762,12 @@
                     Monarch, of whom above all things they have a principall care and respect,
                     loving, reverencing, and obeying her <ref target="#ch1bibln7">v:</ref> in all
                     things. <note type="authorial" subtype="bibliographic" xml:id="ch1bibln7"
-                            ><bibl>V. Præfat. Virg. Georg.</bibl>
-                        <ref target="#ch7sumn27">V.c.7.n.27.</ref>&amp;<ref target="#ch7sumn42"
-                            >42.</ref></note>
+                        ><bibl><app type="substantive" subtype="add">
+                            <lem wit="#b1623">V. Præfat.</lem></app>Virg. Georg.</bibl>
+                        <ref target="#ch7sumn27"><app type="substantive" subtype="add">
+                            <lem wit="#b1623">V.c.7.n.27.</lem></app></ref>&amp;<ref target="#ch7sumn42"
+                                ><app type="substantive" subtype="add">
+                                    <lem wit="#b1623">42.</lem></app></ref></note>
                 </p>
                 <quote>
                     <lg xml:lang="la">
@@ -1782,7 +1786,12 @@
                     </lg>
                 </quote>
                 <p xml:id="ch1par6">If she goe forth to solace her selfe, (as sometime she will)
-                    many of them attend her, guarding hir person before and behinde; they which come
+                    many of them attend <app type="substantive" subtype="del">
+                        <lem wit="#b1623"/>
+                        <rdg wit="#b1609">
+                            <ptr target="1609.xml#ch1ancs4 1609.xml#ch1ance4"/>
+                        </rdg>
+                    </app> her, guarding hir person before and behinde; they which come
                     forth before her, ever now and then returning, and looking backe, and making
                     withall an extraordinarie noise, as if they spake the language of the Knight
                     Marshals men, and so away they flye together, and anone in like manner they
@@ -1797,12 +1806,14 @@
                         <ref target="#ch1bibln9">v:</ref>, <note type="authorial"
                         subtype="bibliographic" xml:id="ch1bibln9"><ref target="#ch7sumn35">
                             Vid.c.7.n.35.</ref>
-                    </note> while she is well, they are cheerefull about their worke; if she droope
+                        </note> <app type="substantive" subtype="change"><lem wit="#b1623">while she is well, they are cheerefull about their worke; if she droope
                     and dye, they will never after enjoy their home, but either languish there till
                     they bee dead too, or yeelding the Robbers, <ref target="#ch1bibln10">v:</ref>
                     <note type="authorial" subtype="bibliographic" xml:id="ch1bibln10"><ref
                             target="#ch7sumn27"> V.c.7.n.27.</ref></note> fly away with them <ref
-                        target="#ch1bibln11">v:</ref>
+                                target="#ch1bibln11">v:</ref></lem><rdg wit="#b1609">
+                                    <ptr target="1609.xml#frontancs1 1609.xml#ch1anchs5 1609.xml#ch1anche5"/>
+                                </rdg></app>
                     <note type="authorial" subtype="bibliographic" xml:id="ch1bibln11"><ref
                             target="#ch7sumn42">V.c.7.n. 42.</ref></note>
                     <quote>

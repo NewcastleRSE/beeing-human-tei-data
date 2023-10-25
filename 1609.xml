@@ -1500,7 +1500,7 @@
                         <l>Objectant, pulchramque, petunt per vulnera mortem.</l>
                     </lg></quote>
                 <p xml:id="ch1par3">If she goe forth to solace her selfe (as sometime she will) many of them attend
-                    upon her, garding her person before and behind; they which come forth before her
+                    <anchor xml:id="ch1anchs4"/> upon<anchor xml:id="ch1anche4"/> her, garding her person before and behind; they which come forth before her
                     ever now &amp; then returning, and looking back, and making withall an
                     extraordinarie noise, as if they spake the language of the knight Marshalls men,
                     &amp; so away they fly together, &amp; anon in like man- <fw type="catch">ner</fw>
@@ -1513,10 +1513,10 @@
                     <note>Hist.an.l.9.cap.40</note> If by hir voice she bid them goe, they swarme;
                     if being abroad she dislike the weather, or lighting place, they quickly returne
                     home againe; while she cheereth them to battaile they fight
-                        <hi>v</hi>,<note>Vid.c.7.n.32.</note> when she is silent they cease, while
+                        <hi>v</hi>,<note>Vid.c.7.n.32.</note> <anchor xml:id="ch1anchs5"/>when she is silent they cease, while
                     she is well, they are cheerefull about their worke, if she droope, they faint
                     also: if she dy, they will never after prosper, but thenceforth languish till
-                    they bee dead too. <hi>Rege mortuo mæret plebs ignava, non cibos convebit, non
+                    they bee dead too.<anchor xml:id="ch1anche5"/> <hi>Rege mortuo mæret plebs ignava, non cibos convebit, non
                         procedit, tristi tantum murmure glomeratur circa corpus eius.</hi>
                     <note>Nat.hist.li.II.c.i7</note>
                     <note>7 Bees endure no government, but a Monarchie</note>But if they have many
