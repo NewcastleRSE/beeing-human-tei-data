@@ -1412,8 +1412,8 @@
         </front>
         <body>
             <pb n="A1r"/>
-            <head type="title">A TREATISE CONCER-<lb/>ning BEES, and the due<lb/>ordering of
-                them.</head>
+            <anchor xml:id="ch1anchs1"/> <head type="title">A TREATISE CONCER-<lb/>ning BEES, and the due<lb/>ordering of
+                them.</head><anchor xml:id="ch1anche1"/>
             <fw type="horizontalRule"/>
             <div type="chapter" n="1" xml:id="ch1">
                 <head type="chapter-title">
@@ -1421,9 +1421,9 @@
                 <head type="chapter-number">CHAP. I.</head>
                 <p xml:id="ch1par1">
                     <hi rend="drop-capital">A</hi>Mong all the creatures which our bountifull GOD
-                    hath made for the use and service of man, in respect of (I) great profit with
+                    hath made for the use and service of man, in respect of (1) great profit with
                     small cost (2) of their ubiquity or beeing in al countries, and (3) of their
-                    continual labour and consenting order, the Bees are most to be admired. <note>
+                    continual labour and <anchor xml:id="ch1anchs2"/>consenting<anchor xml:id="ch1anche2"/> order, the Bees are most to be admired. <note>
                         <hi>1. Bees yeelde great profit with smal cost</hi>
                     </note> For first with the provision of a hive and some little care and
                     attendance, which need be no hinderance to other busines, but rather a
@@ -1445,10 +1445,10 @@
                         <hi>2 Every country for for bees.</hi>
                     </note> Secondly whereas <hi>non omnis fert omnia tellus,</hi> some country
                     yeeldeth one fruit, some another, some beareth one graine, some an other some
-                    breedeth one kind of cattle, some an other: there is no ground of what nature
+                    breedeth one kind of cattle, some an other: <anchor xml:id="ch1anchs3"/> there is no ground of what nature
                     soever it be, whether it be hot or colde, wet or drie, hil or dale, woodland or
                     champian, meddow, pasture, or arable: in a word whether it be battle or barren,
-                    which yeeldeth not matter for the Bee to work upon. <note>
+                    which yeeldeth not matter for the Bee to work upon. <anchor xml:id="ch1anche3"/> <note>
                         <hi>3 Bees abhorre idlenesse.</hi>
                     </note> And thirdly in their labor and order at home and abroad they are so
                     admirable, that they may be a patterne unto men both of the one and of the
