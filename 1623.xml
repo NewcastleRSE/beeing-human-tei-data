@@ -1825,7 +1825,7 @@
                         <bibl>Nat.hist.li.11.c.17.</bibl></note>
                 </p>
                 <p xml:id="ch1par7"><note type="authorial" subtype="summary" xml:id="ch1sumn7">7.
-                        Bees endure no government, but a Monarchie.</note>But if they have many
+                    Bees endure no government, but a Monarchie.</note><app type="substantive" subtype="change"/> <lem wit="#b1623"> But if they have many
                     Princes, as when two flye away with one swarme, or when two swarmes are hived
                     together; they will not be quiet till one of them be cassiered: which somtime
                     they bring downe that evening to the mantle, <ref target="#ch1bibln13">v.</ref>
@@ -1833,7 +1833,10 @@
                             target="#ch5sumn46">V.c. 5.n. 46.</ref>&amp;<ref target="#ch5sumn47"
                             >47.</ref></note> where you may finde her covered with a little heape of
                     Bees: otherwise the next day they carie her forth either dead or deadly wounded.
-                    Concerning which matter, I will here relate one memorable experiment.<note
+                    Concerning which matter, I will here relate one memorable experiment.</lem>
+                    <rdg wit="#b1609">
+                        <ptr target="1609.xml#ch1ancs6 1609.xml#ch1anche6"/>
+                    </rdg></app></p><note
                         type="authorial" subtype="summary" xml:id="ch1sumn8">8. A memorable
                         experiment.</note> Two swarmes being put together, the Bees on both sides,
                     as their manner is, made a murmuring noise, as being discontented with the
