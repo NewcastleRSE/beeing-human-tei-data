@@ -1412,8 +1412,8 @@
         </front>
         <body>
             <pb n="A1r"/>
-            <anchor xml:id="ch1anchs1"/> <head type="title">A TREATISE CONCER-<lb/>ning BEES, and the due<lb/>ordering of
-                them.</head><anchor xml:id="ch1anche1"/>
+            <head type="title"><anchor xml:id="ch1anchs1"/> A TREATISE CONCER-<lb/>ning BEES, and the due<lb/>ordering of
+                them.<anchor xml:id="ch1anche1"/></head>
             <fw type="horizontalRule"/>
             <div type="chapter" n="1" xml:id="ch1">
                 <head type="chapter-title">

@@ -1825,7 +1825,7 @@
                         <bibl>Nat.hist.li.11.c.17.</bibl></note>
                 </p>
                 <p xml:id="ch1par7"><note type="authorial" subtype="summary" xml:id="ch1sumn7">7.
-                    Bees endure no government, but a Monarchie.</note><app type="substantive" subtype="change"/> <lem wit="#b1623"> But if they have many
+                    Bees endure no government, but a Monarchie.</note><app type="substantive" subtype="change"> <lem wit="#b1623"> But if they have many
                     Princes, as when two flye away with one swarme, or when two swarmes are hived
                     together; they will not be quiet till one of them be cassiered: which somtime
                     they bring downe that evening to the mantle, <ref target="#ch1bibln13">v.</ref>
@@ -1836,8 +1836,8 @@
                     Concerning which matter, I will here relate one memorable experiment.</lem>
                     <rdg wit="#b1609">
                         <ptr target="1609.xml#ch1ancs6 1609.xml#ch1anche6"/>
-                    </rdg></app></p><note
-                        type="authorial" subtype="summary" xml:id="ch1sumn8"><app type="substantive" subtype="add"><lem wit="#b1623">8. A memorable
+                    </rdg></app></p><p><app type="substantive" subtype="add"><lem wit="#b1623"><note
+                        type="authorial" subtype="summary" xml:id="ch1sumn8">8. A memorable
                         experiment.</note> Two swarmes being put together, the Bees on both sides,
                     as their manner is, made a murmuring noise, as being discontented with the
                     suddain congresse of Strangers: but knowing wel that the more the merrier, the
@@ -1845,7 +1845,7 @@
                     And having agreed which Queene should reigne, and which should die, three or
                     foure Bees brought one of them downe betweene them, pulling and haling her as if
                     they were leading her to execution: which I by chance perceiving, got hold of
-                    her by the wings, and with much adoe <fw type="catch"> tooke</fw>
+                    her by the wings, and with much adoe <fw type="catch"> tooke </fw>
                     <pb n="B2v"/>
                     <fw type="header"> Of the Nature and properties of Bees, </fw> tooke her from
                     them. After a while (to see what would come of it) I put her into the Hive
@@ -1854,16 +1854,16 @@
                     killing one another, for the space of more than an houre together: and by no
                     meanes would cease, untill the poore condemned Queene was brought forth slaine
                     and laid before the doore. Which done, the strife presently ended, and the Bees
-                    agreed well together. </p>
-                <p xml:id="ch1par8">Somtime when one swarme is put to another, though they do not
+                    agreed well together.</lem></app> </p>
+                    <p xml:id="ch1par8"><app type="substantive" subtype="add"><lem wit="#b1623">Somtime when one swarme is put to another, though they do not
                     fight, yet will they not agree of their choice in two or three daies, keeping
                     their Queenes close on both sides. But then all this while they never be at
                     quiet day nor night, nor once offer to work, untill one of them being deposed,
                     they be united in the other. <foreign xml:lang="la">Vide plura super hac
                         re</foreign>
                     <ref target="#ch5sumn74">c.5.n.74.</ref><ref target="#ch5sumn75">75.</ref><ref
-                        target="#ch5sumn76">76.</ref></p>
-                <p xml:id="ch1par9">Likewise if the old Queene bring forth many Princes (as she may
+                        target="#ch5sumn76">76.</ref></lem></app></p>
+                    <p xml:id="ch1par9"><app type="substantive" subtype="add"><lem wit="#b1623">Likewise if the old Queene bring forth many Princes (as she may
                     have six or seven, yea sometime halfe a score or more, which superfluitie nature
                     affoordeth for more suretie, in case some miscarrie) then, lest the multitude of
                     Rulers should distract the unstable Commons into factions, within two daies
@@ -1877,10 +1877,10 @@
                     <note type="editorial" subtype="other" cert="check" xml:id="check1">Greek
                         script</note>
                     <note type="authorial" subtype="bibliographic" xml:id="ch1bibln14">
-                        <bibl>Hom.II.a.9.</bibl></lem>
-                        <rdg wit="#b1609"/>
-                        </app></note></app>
-                </p>
+                        <bibl>Hom.II.a.9.</bibl></note></lem></app>
+                       
+                        </p>
+                
                 <p xml:id="ch1par10"><note type="authorial" subtype="summary" xml:id="ch1sumn9">9.
                         The description of the Queene-Bee.</note> The Queene is a faire and stately
                     Bee, differing from the vulgar both in shape and colour: hir backe is all over
