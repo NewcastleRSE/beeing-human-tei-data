@@ -1798,14 +1798,17 @@
                     </lg>
                 </quote>
                 <p xml:id="ch1par6">If she goe forth to solace her selfe, (as sometime she will)
-                    many of them attend her, <app type="substantive" subtype="change"><lem wit="#b1623">guarding hir person before and behinde; they which come
-                    forth before her, ever now and then returning, and looking backe, and making
-                    withall an extraordinarie noise, as if they spake</lem><rdg wit="#b1609"><ptr target="1609_example.xml#ch1ancs4 1609_example.xml#ch1ance4"/></rdg></app> the language of the Knight
-                    Marshals men, and so away they flye together, and anone in like manner they
-                    attend her back againe. This I may say, because I have seene it: although the
-                    Philosopher be of another minde: <quote><foreign xml:lang="la">Reges</foreign>,
-                        saith he, <foreign xml:lang="la">nunquam foris visuntur, nisi cum
-                            migratur.</foreign></quote>
+                    many of them attend her, <app type="substantive" subtype="change">
+                        <lem wit="#b1623">guarding hir person before and behinde; they which come
+                            forth before her, ever now and then returning, and looking backe, and
+                            making withall an extraordinarie noise, as if they spake</lem>
+                        <rdg wit="#b1609"><ptr
+                                target="1609_example.xml#ch1ancs4 1609_example.xml#ch1ance4"/></rdg>
+                    </app> the language of the Knight Marshals men, and so away they flye together,
+                    and anone in like manner they attend her back againe. This I may say, because I
+                    have seene it: although the Philosopher be of another minde: <quote><foreign
+                            xml:lang="la">Reges</foreign>, saith he, <foreign xml:lang="la">nunquam
+                            foris visuntur, nisi cum migratur.</foreign></quote>
                     <note type="authorial" subtype="bibliographic" xml:id="ch1bibln8">
                         <bibl>Hist.an.l.9.cap.40.</bibl></note> If by hir voyce she bid them goe,
                     they swarme; if being abroad she dislike the weather, or lighting-place, they
