@@ -1,7 +1,20 @@
+# File names
+FILE1623 = "1623_example.xml"
+FILE1609 = "1609_example.xml"
+
+# Error Return Codes
+ERROR = 0
+
+import xml.etree.ElementTree as ET
+
+
 def buildParentMap():
-    tree = ET.parse("1609_example.xml")
-    parent_map = {c: p for p in tree.iter() for c in p}
-    return parent_map, tree
+    try:
+        tree = ET.parse(FILE1609)
+        parent_map = {c: p for p in tree.iter() for c in p}
+        return parent_map, tree
+    except FileNotFoundError:
+        raise
 
 def find_common_ancestor(tree, element1, element2, ns, mapParent):
     el1 = tree.find(f'.//TEI:anchor[@xml:id="{element1}"]', ns)
@@ -21,11 +34,17 @@ def _find_common_ancestor(element1, element2, mapParent):
 def getText(string, ns, mapParent, tree):
     # get two targets
     start_end = string.split()
+    if len(start_end) != 2:
+        raise ValueError(f'Error: Expected two xml:id, instead this was found: "{string}"')
 
     # isolate xml:id and build full anchor
     for i, id in enumerate(start_end):
-        # start_end[i] = f'<anchor xml:id=\"{id.split("#")[1]}\"/>'
         start_end[i] = id.split("#")[1]
+
+    # Ensure both ids exist in 1609
+    for id in start_end:
+        if tree.find(f'.//TEI:anchor[@xml:id="{id}"]', ns) == None:
+            raise ValueError(f'Error: xml:id="{id}" does not exist in "{FILE1609}"')
 
     # Find the earliest common ancestor
     parent = find_common_ancestor(tree, start_end[0], start_end[1], ns, mapParent)
@@ -56,41 +75,59 @@ def getText(string, ns, mapParent, tree):
         
     return text
     
+def main():
 
-import xml.etree.ElementTree as ET
+    # Define namespaces dictionary to navigate the tree
+    ns = {
+        'TEI': 'http://www.tei-c.org/ns/1.0',
+        'xml': 'http://www.w3.org/XML/1998/namespace'
+    }
 
-ns = {
-    'TEI': 'http://www.tei-c.org/ns/1.0',
-    'xml': 'http://www.w3.org/XML/1998/namespace'
-}
+    # Load the 1623
+    try:
+        tree = ET.parse(FILE1623)
+    except FileNotFoundError as e:
+        print(e)
+        return ERROR
 
-# Load the document
-tree = ET.parse('./1623_example.xml')
-root = tree.getroot()
+    # Find elements
+    # selects the parent (..) of all ptr inside rdg (i.e., selects rdg)
+    try:
+        rdgs = tree.findall(".//TEI:rdg/TEI:ptr/..", ns)
+        if rdgs == []:
+            raise ValueError(f'Error: There is no apparatus in "{FILE1623}"')
+    except ValueError as e:
+        print(e)
+        return ERROR
 
+    # Built parent map and tree for 1609
+    try:
+        mapParent1609, tree1609 = buildParentMap()
+    except FileNotFoundError as e:
+        print(e)
+        return ERROR
 
-# Find elements
-# selects the parent (..) of all ptr inside rdg (i.e., selects rdg)
-rdgs = tree.findall(".//TEI:rdg/TEI:ptr/..", ns)
+    for rdg in rdgs:
+        # Find target
+        ptr = rdg.find('TEI:ptr', ns) # No need to error check this one, rdgs will always contain ptr (see findall above)
+        target = ptr.attrib['target']
+        
+        try:
+            # Get text from 1609
+            newText = getText(target, ns, mapParent1609, tree1609)
+        
+            # Record target information in the rdg
+            rdg.attrib['source'] = target
 
-# Built parent map and tree for 1609
-mapParent1609, tree1609 = buildParentMap()
+            # Replace ptr with text from 1609
+            rdg.remove(ptr)
+            rdg.text = newText
+        except ValueError as e:
+            print(e)
 
-for rdg in rdgs:
-    # Find target
-    ptr = rdg.find('TEI:ptr', ns)
+    # To write results
+    ET.register_namespace('', 'http://www.tei-c.org/ns/1.0')
+    tree.write("test_output.xml")
 
-    # Record target information in the rdg
-    target = ptr.attrib['target']
-    rdg.attrib['source'] = target
-
-    # Get text from 1609
-    newText = getText(target, ns, mapParent1609, tree1609)
-
-    # Replace ptr with text from 1609
-    rdg.remove(ptr)
-    rdg.text = newText
-
-# To write results
-ET.register_namespace('', 'http://www.tei-c.org/ns/1.0')
-tree.write("test_output.xml")
+if __name__ == "__main__":
+    main()

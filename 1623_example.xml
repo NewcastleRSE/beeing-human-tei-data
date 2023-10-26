@@ -1805,10 +1805,15 @@
                         <rdg wit="#b1609"><ptr
                                 target="1609_example.xml#ch1ancs4 1609_example.xml#ch1ance4"/></rdg>
                     </app> the language of the Knight Marshals men, and so away they flye together,
-                    and anone in like manner they attend her back againe. This I may say, because I
-                    have seene it: although the Philosopher be of another minde: <quote><foreign
-                            xml:lang="la">Reges</foreign>, saith he, <foreign xml:lang="la">nunquam
-                            foris visuntur, nisi cum migratur.</foreign></quote>
+                    and anone in like manner they attend her back againe. <app type="substantive"
+                        subtype="del">
+                        <lem wit="#b1623"/>
+                        <rdg wit="#b1609"><ptr
+                                target="1609_example.xml#ch1ancs5 1609_example.xml#ch1ance5"/></rdg>
+                    </app> This I may say, because I have seene it: although the Philosopher be of
+                    another minde: <quote><foreign xml:lang="la">Reges</foreign>, saith he, <foreign
+                            xml:lang="la">nunquam foris visuntur, nisi cum
+                        migratur.</foreign></quote>
                     <note type="authorial" subtype="bibliographic" xml:id="ch1bibln8">
                         <bibl>Hist.an.l.9.cap.40.</bibl></note> If by hir voyce she bid them goe,
                     they swarme; if being abroad she dislike the weather, or lighting-place, they
@@ -1847,10 +1852,13 @@
                     as their manner is, made a murmuring noise, as being discontented with the
                     suddain congresse of Strangers: but knowing wel that the more the merrier, the
                     safer, the warmer, yea, and the better provided; they were quickly made friends.
-                    And having agreed which Queene should reigne, and which should die, three or
-                    foure Bees brought one of them downe betweene them, pulling and haling her as if
-                    they were leading her to execution: which I by chance perceiving, got hold of
-                    her by the wings, and with much adoe <fw type="catch"> tooke</fw>
+                    And having agreed which<app type="substantive" subtype="change">
+                        <lem wit="#b1623"> Queene should reigne, and which should die, three or
+                            foure Bees brought one of them downe betweene them</lem>
+                        <rdg wit="#b1609"><ptr target="1609_example.xml#fakeid"/></rdg>
+                    </app>, pulling and haling her as if they were leading her to execution: which I
+                    by chance perceiving, got hold of her by the wings, and with much adoe <fw
+                        type="catch"> tooke</fw>
                     <pb n="B2v"/>
                     <fw type="header"> Of the Nature and properties of Bees, </fw> tooke her from
                     them. After a while (to see what would come of it) I put her into the Hive
@@ -1871,14 +1879,18 @@
                 <p xml:id="ch1par9">Likewise if the old Queene bring forth many Princes (as she may
                     have six or seven, yea sometime halfe a score or more, which superfluitie nature
                     affoordeth for more suretie, in case some miscarrie) then, lest the multitude of
-                    Rulers should distract the unstable Commons into factions, within two daies
-                    after the last swarme, yea sometime (when unkinde weather keepeth him in over
-                    long) even before he come forth, you shall finde the superfluous Princes dead
-                    before the Hive: I have taken eight of them up together brought out of one hive,
-                    when two were alreadie gone forth with their swarmes. For the Bees abhorre as
-                    well Polyarchie, as Anarchie, God having shewed in them unto men, an expresse
-                    patterne of <hi rend="smallCapitals titleCase">A PERFECT MONARCHIE, THE MOST
-                        NATURAL AND ABSOLUTE FORME OF GOVERNMENT.</hi>
+                    Rulers should distract the unstable <app type="substantive" subtype="change">
+                        <lem wit="#b1623">Commons into factions, within two daies after the last
+                            swarme, yea sometime</lem>
+                        <rdg wit="#b1609"><ptr
+                                target="1609_example.xml#ch1ancs3 1609_example.xml#fakeid"/></rdg>
+                    </app> (when unkinde weather keepeth him in over long) even before he come
+                    forth, you shall finde the superfluous <app type="substantive" subtype="change"><lem wit="#b1623">Princes dead before the Hive: I have
+                    taken eight of them up together brought out of one hive, when two were alreadie
+                    gone forth with their swarmes</lem><rdg wit="#b1609"><ptr target="1609_example.xml#fakeidstart 1609_example#ch1ance5"/></rdg></app>. For the Bees abhorre as well Polyarchie, as
+                    Anarchie, God having shewed in them unto men, an expresse patterne of <hi
+                        rend="smallCapitals titleCase">A PERFECT MONARCHIE, THE MOST NATURAL AND
+                        ABSOLUTE FORME OF GOVERNMENT.</hi>
                     <note type="editorial" subtype="other" cert="check" xml:id="check1">Greek
                         script</note>
                     <note type="authorial" subtype="bibliographic" xml:id="ch1bibln14">
