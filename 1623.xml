@@ -1863,29 +1863,35 @@
                         re</foreign>
                     <ref target="#ch5sumn74">c.5.n.74.</ref><ref target="#ch5sumn75">75.</ref><ref
                         target="#ch5sumn76">76.</ref></lem></app></p>
-                    <p xml:id="ch1par9"><app type="substantive" subtype="add"><lem wit="#b1623">Likewise if the old Queene bring forth many Princes (as she may
+                    <p xml:id="ch1par9">Likewise if the old Queene bring forth many Princes (as she may
                     have six or seven, yea sometime halfe a score or more, which superfluitie nature
                     affoordeth for more suretie, in case some miscarrie) then, lest the multitude of
                     Rulers should distract the unstable Commons into factions, within two daies
                     after the last swarme, yea sometime (when unkinde weather keepeth him in over
-                    long) even before he come forth, you shall finde the superfluous Princes dead
+                    long) even before he come forth, you shall finde <app type="vocabulary" subtype="change"><lem wit="#b1623">the superfluous Princes</lem><rdg wit="#b1609">
+                        <ptr target="1609.xml#ch1ancs7 1609.xml#ch1anche7"/>
+                    </rdg></app> dead
                     before the Hive: I have taken eight of them up together brought out of one hive,
                     when two were alreadie gone forth with their swarmes. For the Bees abhorre as
                     well Polyarchie, as Anarchie, God having shewed in them unto men, an expresse
                     patterne of <hi rend="smallCapitals titleCase">A PERFECT MONARCHIE, THE MOST
                         NATURAL AND ABSOLUTE FORME OF GOVERNMENT.</hi>
-                    <note type="editorial" subtype="other" cert="check" xml:id="check1">Greek
-                        script</note>
+                        <note type="editorial" subtype="other" cert="check" xml:id="check1"><app type="substantive" subtype="add">
+                            <lem wit="#b1623">Greek
+                                script</lem></app></note>
                     <note type="authorial" subtype="bibliographic" xml:id="ch1bibln14">
-                        <bibl>Hom.II.a.9.</bibl></note></lem></app>
+                        <bibl><app type="substantive" subtype="add">
+                            <lem wit="#b1623">Hom.II.a.9.</lem></app></bibl></note>
                        
                         </p>
                 
                 <p xml:id="ch1par10"><note type="authorial" subtype="summary" xml:id="ch1sumn9">9.
-                        The description of the Queene-Bee.</note> The Queene is a faire and stately
+                    The description of the Queene-Bee.</note> <app type="substantive" subtype="change"> <lem wit="#b1623"> The Queene is a faire and stately
                     Bee, differing from the vulgar both in shape and colour: hir backe is all over
                     of a brighter browne: hir belly even from the top of hir fangs, to the tip of
-                    hir traine, is of a sad yellow, somewhat deeper then the richest gold. Shee is
+                    hir traine, is of a sad yellow, somewhat deeper then the richest gold.</lem><rdg wit="#b1609">
+                        <ptr target="1609.xml#ch1ancs8 1609.xml#ch1anche8"/></rdg>
+                    </app> Shee is
                     longer than a hony-Bee, by one third part, that is, almost an inch long: she is
                     also bigger than a hony-Bee, but not so bigge as a Drone, although somewhat
                     longer: hir head proportionable, but <fw type="catch"> that</fw>
