@@ -17,8 +17,13 @@ def buildParentMap():
         raise
 
 def find_common_ancestor(tree, element1, element2, ns, mapParent):
-    el1 = tree.find(f'.//TEI:anchor[@xml:id="{element1}"]', ns)
-    el2 = tree.find(f'.//TEI:anchor[@xml:id="{element2}"]', ns)
+    # There will always be a common ancestor, and if both IDs exist, it's sort of pointless to error check here
+    # Testing with anchors outside the root, and direct children of the root, there is no infinite loop -- it breaks on errors
+    try:
+        el1 = tree.find(f'.//TEI:anchor[@xml:id="{element1}"]', ns)
+        el2 = tree.find(f'.//TEI:anchor[@xml:id="{element2}"]', ns)
+    except KeyError:
+        raise
     if mapParent[el1] == mapParent[el2]:
         return mapParent[el1]
     else:
@@ -47,7 +52,12 @@ def getText(string, ns, mapParent, tree):
             raise ValueError(f'Error: xml:id="{id}" does not exist in "{FILE1609}"')
 
     # Find the earliest common ancestor
-    parent = find_common_ancestor(tree, start_end[0], start_end[1], ns, mapParent)
+    try:
+        parent = find_common_ancestor(tree, start_end[0], start_end[1], ns, mapParent)
+    except KeyError:
+        # If the recursion reaches the end of the tree it will throw a key error
+        raise
+    
     collect = False
     tags = []
     
@@ -124,10 +134,17 @@ def main():
             rdg.text = newText
         except ValueError as e:
             print(e)
+        except KeyError as e:
+            print(f'Error: {target} points to elements that do not share a common ancestor')
 
     # To write results
     ET.register_namespace('', 'http://www.tei-c.org/ns/1.0')
     tree.write("test_output.xml")
+
+    # Need to append xml declaration and xml-model
+    # <?xml version="1.0" encoding="UTF-8"?>
+    # <?xml-model href="schema/tei_beeing_human.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+    # <?xml-model href="schema/tei_beeing_human.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 
 if __name__ == "__main__":
     main()
