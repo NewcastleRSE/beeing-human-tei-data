@@ -1,0 +1,12 @@
+name: Consolidate 1623 and 1609 files
+
+on: push
+
+jobs:
+    run-script:
+        runs-on: ubuntu-latest
+        steps:
+            - name: Checkout repository
+              uses: actions/checkout@v4
+            - name: Run the script
+              run: python scripts/automate_variation.py

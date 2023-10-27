@@ -1,9 +1,11 @@
 # File names
 FILE1623 = "1623_example.xml"
 FILE1609 = "1609_example.xml"
+FILEOUTPUT = "test_output.xml"
 
 # Error Return Codes
 ERROR = 0
+SUCCESS = 1
 
 import xml.etree.ElementTree as ET
 
@@ -84,7 +86,21 @@ def getText(string, ns, mapParent, tree):
 
         
     return text
+
+def append_XML_dec():
+    xml_dec = '<?xml version="1.0" encoding="UTF-8"?>\n<?xml-model href="schema/tei_beeing_human.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>\n<?xml-model href="schema/tei_beeing_human.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>\n'
+
+    with open(FILEOUTPUT, 'r') as file:
+        # reads xml
+        content = file.read()
     
+    # adds declaration
+    content = xml_dec + content
+
+    with open(FILEOUTPUT, 'w') as file:
+        # write content
+        file.write(content)
+
 def main():
 
     # Define namespaces dictionary to navigate the tree
@@ -139,12 +155,14 @@ def main():
 
     # To write results
     ET.register_namespace('', 'http://www.tei-c.org/ns/1.0')
-    tree.write("test_output.xml")
+    tree.write(FILEOUTPUT)
 
-    # Need to append xml declaration and xml-model
-    # <?xml version="1.0" encoding="UTF-8"?>
-    # <?xml-model href="schema/tei_beeing_human.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-    # <?xml-model href="schema/tei_beeing_human.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+    try:
+        append_XML_dec()
+    except FileNotFoundError:
+        print(f'Error: Could not write the output to \'{FILEOUTPUT}\'')
+        return ERROR
+    return SUCCESS
 
 if __name__ == "__main__":
     main()
