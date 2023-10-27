@@ -88,12 +88,15 @@ def getText(string, ns, mapParent, tree):
     return text
 
 def append_XML_dec():
+    import os
     xml_dec = '<?xml version="1.0" encoding="UTF-8"?>\n<?xml-model href="schema/tei_beeing_human.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>\n<?xml-model href="schema/tei_beeing_human.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>\n'
 
     with open(FILEOUTPUT, 'r') as file:
         # reads xml
         content = file.read()
     
+    # removes any old versions of the file, in case no new one has been created during the run
+    os.remove(FILEOUTPUT)
     # adds declaration
     content = xml_dec + content
 
