@@ -4,8 +4,8 @@ FILE1609 = "1609_example.xml"
 FILEOUTPUT = "test_output.xml"
 
 # Error Return Codes
-ERROR = 0
-SUCCESS = 1
+ERROR = 10
+SUCCESS = 0
 
 import xml.etree.ElementTree as ET
 
@@ -105,6 +105,7 @@ def append_XML_dec():
         file.write(content)
 
 def main():
+    import sys
 
     # Define namespaces dictionary to navigate the tree
     ns = {
@@ -117,7 +118,7 @@ def main():
         tree = ET.parse(FILE1623)
     except FileNotFoundError as e:
         print(e)
-        return ERROR
+        sys.exit(ERROR)
 
     # Find elements
     # selects the parent (..) of all ptr inside rdg (i.e., selects rdg)
@@ -127,14 +128,14 @@ def main():
             raise ValueError(f'Error: There is no apparatus in "{FILE1623}"')
     except ValueError as e:
         print(e)
-        return ERROR
+        sys.exit(ERROR)
 
     # Built parent map and tree for 1609
     try:
         mapParent1609, tree1609 = buildParentMap()
     except FileNotFoundError as e:
         print(e)
-        return ERROR
+        sys.exit(ERROR)
 
     for rdg in rdgs:
         # Find target
@@ -164,7 +165,7 @@ def main():
         append_XML_dec()
     except FileNotFoundError:
         print(f'Fatal error: Could not write the output to \'{FILEOUTPUT}\'')
-        return ERROR
+        sys.exit(ERROR)
     return SUCCESS
 
 if __name__ == "__main__":
