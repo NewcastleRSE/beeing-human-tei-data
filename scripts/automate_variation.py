@@ -1,5 +1,5 @@
 # File names
-FILE1623 = "so;ifj;saodjf.xml"
+FILE1623 = "1623.xml"
 FILE1609 = "1609.xml"
 FILEOUTPUT = "1623_consolidated.xml"
 
