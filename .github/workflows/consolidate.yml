@@ -10,8 +10,7 @@ jobs:
               uses: actions/checkout@v4
             - name: Run the script
               run: python scripts/automate_variation.py
-            - name: Save results
-              uses: actions/upload-artifact@v3
+            - name: Save and commit results
+              uses: stefanzweifel/git-auto-commit-action@v5
               with:
-                name: test-artifact
-                path: ./test_output.xml
+                commit_message: Created consolidated file based on latest changes
