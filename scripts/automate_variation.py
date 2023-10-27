@@ -1,7 +1,7 @@
 # File names
-FILE1623 = "1623_example.xml"
-FILE1609 = "1609_example.xml"
-FILEOUTPUT = "test_output.xml"
+FILE1623 = "1623.xml"
+FILE1609 = "1609.xml"
+FILEOUTPUT = "1623_consolidated.xml"
 
 # Error Return Codes
 ERROR = 10
