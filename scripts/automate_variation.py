@@ -158,7 +158,7 @@ def main():
     os.remove(FILEOUTPUT)
     # To write results
     ET.register_namespace('', 'http://www.tei-c.org/ns/1.0')
-    # tree.write(FILEOUTPUT)
+    tree.write(FILEOUTPUT)
 
     try:
         append_XML_dec()
