@@ -122,7 +122,12 @@ def main():
     try:
         rdgs = tree.findall(".//TEI:rdg/TEI:ptr/..", ns)
         if rdgs == []:
-            raise ValueError(f'Error: There is no apparatus in "{FILE1623}"')
+            app = tree.findall(".//TEI:rdg/TEI:app", ns)
+            if app == []:
+                print(f'Exiting: \'{FILE1623}\' contains no app elements.')
+                return SUCCESS
+            else:
+                raise ValueError(f'Error: There is apparatus but no pointers in \'{FILE1623}\'')
     except ValueError as e:
         print(e)
         sys.exit(ERROR)
