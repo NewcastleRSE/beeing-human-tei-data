@@ -2206,8 +2206,8 @@
                     commended for a remedie the juyce of Houseleeke, of Rue, of Mallowes, of Ivie,
                     of a Marigold <fw type="catch"> leafe</fw>
                     <pb n="C2r"/>
-                    <fw type="header"> and of their Queene. </fw> leafe, of Holyhock and Vinegar, of
-                    Salt and Vineger, and divers other things. <quote>
+                    <fw type="header"> and of their Queene. </fw> leafe, of Holyhock and Vinegar, <app type="vocabulary" subtype="add"><lem wit="#b1623">of
+                        Salt and Vineger,</lem></app> and divers other things. <app type="substantive" subtype="add"><lem wit="#b1623"><quote>
                         <foreign xml:lang="la">Id malvæ peculiare est, ut imposita ictibus vesparum
                             &amp; apum dolores levet.</foreign>
                     </quote>
@@ -2219,9 +2219,9 @@
                     <bibl> Fern.Meth.l.5.cap.27</bibl>. Rue drunken with Wine, <hi rend="italic">or
                         rather with Hydromel,</hi> or the leaves stamped with Honie and Salt, and
                     laid to the wound, is good against stinging of Bees, Waspes, Hornets, and
-                    Scorpions; <bibl> Dodoens,l.2.c.83.</bibl></p>
+                    Scorpions; <bibl> Dodoens,l.2.c.83.</bibl></lem></app></p>
                 <p xml:id="ch1par27">
-                    <foreign xml:lang="la">Verum hoc mihi præ cæteris probatur remedium. Ut primum
+                    <app type="substantive" subtype="add"><lem wit="#b1623"><foreign xml:lang="la">Verum hoc mihi præ cæteris probatur remedium. Ut primum
                         se quis ictum senserit, aculeum adhuc epidermidi inhærentem cum ipsa ape
                         instanter abstergat (nam si paulisper sinatur, dum veram cutem penetraverit;
                         vehementior inde, diuturnior, &amp; sanatu difficilior evadet tum dolor tum
@@ -2230,7 +2230,7 @@
                         Benedicti virentis contriti <hi rend="opposite">M.I.</hi> Ovi albumen quasi
                         in oleum coagitatum: misce, fiat emplastrum, quod lini retrimentis
                         impositum, vulneri linteo alligetur: ubi arverit, recens repone: sed vulnus
-                        nequaquam fricetur.</foreign>
+                        nequaquam fricetur.</foreign></lem></app>
                 </p>
                 <p xml:id="ch1par28"><note type="authorial" subtype="summary" xml:id="ch1sumn35">35.
                         What things the Bee-master must avoid.</note> But if thou wilt have the
