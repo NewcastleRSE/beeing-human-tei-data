@@ -2325,7 +2325,7 @@
                         <bibl>Arist.hist.an.l.9.c.40.</bibl>
                     </note></p>
                 <p xml:id="ch1par34"><note type="authorial" subtype="summary" xml:id="ch1sumn42">42.
-                        The Bees senses.</note> And such are the sorts of Bees, with their integrall
+                        The Bees senses.</note> <app type="substantive" subtype="del"><lem wit="#b1623"></lem><rdg wit="#b1609"><ptr target="1609.xml#ch1anchs14 1609.xml#ch1anche14"/></rdg></app>And such are the sorts of Bees, with their integrall
                     parts. Among which, though there do not appear those outward <term>
                         Organa</term> of senting which other <term>Animals</term> have, nor is seene
                     in the head that inward principall<ref target="#ch1bibln37">*</ref> part, which
@@ -2339,13 +2339,13 @@
                             invehant; esse tamen his auditum, olfactum, gustatum, eximia præterea
                             naturæ dona, solertiam, animum, artem quis facile crediderit. <note
                                 type="authorial" subtype="bibliographic" xml:id="ch1bibln38">
-                                <bibl>Nat.hist.l.11.c.4</bibl>
-                            </note> Creat Deus minima corpore acuta sensii animantia: ut majori
+                                <bibl>Nat.hist.l.11.c.4</bibl></note>
+                            <app type="substantive" subtype="add"><lem wit="#b1623">Creat Deus minima corpore acuta sensii animantia: ut majori
                             attentione stupeamus agilitatem muscæ volantis, quam magnitudinem
                             jumenti gradientis.<note type="authorial" subtype="bibliographic"
                                 xml:id="ch1bibln39">
                                 <bibl>Augustin.de Genesi ad literam.lib.3.</bibl>
-                            </note></foreign>
+                            </note></lem><rdg wit="#b1609"><ptr target="1609.xml#ch1anchs14 1609.xml#ch1anche14"/></rdg></app></foreign>
                     </quote></p>
                 <p xml:id="ch1par35">
                     <note type="authorial" subtype="summary" xml:id="ch1sumn43">43 Their sight
