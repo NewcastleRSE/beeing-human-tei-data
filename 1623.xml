@@ -2536,10 +2536,10 @@
                     bells in it; I answer, that this is as weake and simple as the former. For
                     seeing it is knowne that a Blacke-smith of <placeName>London</placeName> did
                     make a Locke and a Key so little that a flye could draw it; why should not the
-                    little Smith of <placeName> Nottingham</placeName>, which doth the worke that no
-                    man can, frame a little Chappell in a litle roome? But then perhaps they will
+                    little Smith of <placeName> Nottingham</placeName>, <app type="vocabulary" subtype="change"><lem wit="#b1623">which doth the worke that no
+                        man can,</lem><rdg wit="#b1609"><ptr target="1609.xml#ch1ancs21 1609.xml#ch1ance21"/></rdg></app> frame a little Chappell in a litle roome? But then perhaps they will
                     reply, if wee grant you this, yet how could the Bees flie about the altar in
-                    that little Chappell, seeing they are scarce able flie in so narrow a close
+                    that little Chappell, seeing they are <app type="vocabulary" subtype="change"><lem wit="#b1623">scarce</lem><rdg wit="#b1609"><ptr target="1609.xml#ch1ancs22 1609.xml#ch1ance22"/></rdg></app> able flie in so narrow a close
                     roome as the emptie hive? As for that, it may be a mistaking of a word: haply
                     the woman said they did but crawle. If they shall aske how the woman could see
                     the altar with the Host standing in the Chancell, and the Bells hanging in the
@@ -2619,7 +2619,7 @@
                             templum reportavit: quo multi accedentes ab innumeris sunt morbis
                             curati.</foreign>
                     </quote>
-                    <bibl>Tho: Bozius de signis Ecclesiæ. Lib.14.c.3.</bibl></p>
+                    <app type="other" subtype="add"><lem wit="#b1623"><bibl>Tho: Bozius de signis Ecclesiæ. Lib.14.c.3.</bibl></lem><rdg wit="#b1609"></rdg></app></p>
                 <p xml:id="ch1par49">In which Storie wee may note, besides the wonderfull knowledge
                     and devotion of the Bees, an incredible power and vertue also. For this God
                     which they kept and compassed, is said to have the gift of healing, which
@@ -2647,22 +2647,22 @@
                             </note>
                             <fw type="catch"> Et </fw>
                             <pb n="D2v"/>
-                            <fw type="header"> Of the Nature and properties of Bees, </fw> Et certe
+                            <fw type="header"> Of the Nature and properties of Bees, </fw> <app type="substantive" subtype="add"><lem wit="#b1623">Et certe
                             apes semina non coeundo concipiunt. <hi rend="opposite">Item</hi>,
-                            Omnipotens creator apibus prolem sine concubitu dedit. <lb/> Illum adeo
+                                Omnipotens creator apibus prolem sine concubitu dedit. <note xml:id="ch1bibln55x" type="authorial" subtype="bibliographic"><bibl>August.de Trinit.l.3. Idem de bono conjugali.</bibl></note></lem></app> <lb/> Illum adeo
                             placuisse apibus mirabere morem,</foreign>
                     </quote></p>
                 <p xml:id="ch1par53"><quote>
                         <foreign xml:lang="la">Quod non concubitu indulgent, &amp;c.</foreign>
                     </quote>
                     <note type="authorial" subtype="bibliographic" xml:id="ch1bibln56">
-                        <bibl>August.de Trinit.l.3. Idem de bono conjugali. Georg.</bibl>
+                       <bibl>Georg.</bibl>
                     </note> They ingender not as other living creatures: only they suffer their
-                    Drones <ref target="#ch1bibln57"> v.</ref>
+                    Drones <app type="other" subtype="add"><lem wit="#b1623"><ref target="#ch1bibln57"> v.</ref>
                     <note type="authorial" subtype="bibliographic" xml:id="ch1bibln57">
                         <ref target="#ch4sumn3">V.c. 4.n.3. &amp;c.</ref>
-                    </note> among them for a season, by whose Masculine virtue they strangely
-                    conceive and breed for the preservation of their sweet kinde. Which strange kind
+                    </note></lem><rdg wit="#b1609"></rdg></app> among them for a season, by whose Masculine virtue they strangely
+                    conceive and breed for the preservation of their sweet kinde.<app type="other" subtype="del"><lem wit="#b1623"></lem><rdg wit="#b1609 1609.xml#ch1ancs23 1609.xml#ch1ance23"/></app> Which strange kind
                     of breeding the Philosopher saith to be apparent unto sense and reason. <note
                         type="authorial" subtype="bibliographic" xml:id="ch1bibln58">
                         <bibl>Generat.an.l.3.c.10.</bibl>
