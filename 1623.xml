@@ -2737,8 +2737,8 @@
                     the Waspes, which live but five: or of the Drones, which but six.</note></lem><rdg wit="#b1609"></rdg>
                 </app>
                 <p xml:id="ch1par57">
-                    <note type="authorial" subtype="summary" xml:id="ch1sumn56">56. The difference
-                        betweene the young Bees and old.</note>
+                    <app type="substantive" subtype="add"><lem wit="#b1623"><note type="authorial" subtype="summary" xml:id="ch1sumn56">56. The difference
+                        betweene the young Bees and old.</note></lem><rdg wit="#b1609"></rdg></app>
                 </p>
                 <p xml:id="ch1par58">For the Bees of the former yeare, which until
                         <term>Gemini</term> in the next yeare doe looke so youthfully, that you
@@ -2769,11 +2769,11 @@
                     </quote>
                     <note type="authorial" subtype="bibliographic" xml:id="ch1bibln66">
                         <bibl>Virg.</bibl>
-                    </note> Sometimes as well in Summer as Winter <ref target="#ch1bibln67"
+                    </note> Sometimes as well in Summer as Winter <app type="other" subtype="add"><lem wit="#b1623"><ref target="#ch1bibln67"
                         >v.</ref><note type="authorial" subtype="bibliographic" xml:id="ch1bibln67">
                         <ref target="#ch3sumn59">V.c.3.n.59.</ref>&amp;<ref target="#ch3sumn62"
                             >62.</ref>
-                    </note> the Bees take pleasure to play abroad before the Hive, specially those
+                        </note></lem><rdg wit="#b1609"></rdg></app> the Bees take pleasure to play abroad before the Hive, specially those
                     that are in good plight, flying in and out, and about, so thicke, <note
                         type="authorial" subtype="summary" xml:id="ch1sumn59">59. Bees wont efsoones
                         to play.</note>
@@ -2792,8 +2792,8 @@
                     </note></p>
                 <p xml:id="ch1par60"><note type="authorial" subtype="summary" xml:id="ch1sumn60">60.
                         They are soone killed with cold.</note> The Bee is by nature very tender,
-                    soone chilled and killed with cold, which the Dorre the Waspe, yea the Moth, the
-                    Gnat, and other little flies can endure, and most of all then, when by reason of
+                    soone chilled and killed with cold, which the Dorre the Waspe, <app type="vocabulary" subtype="add"><lem wit="#b1623">yea the Moth, the
+                        Gnat,</lem><rdg wit="#b1609"></rdg></app>and other little flies can endure, and most of all then, when by reason of
                     long restraint their bellies are over full. The first that faileth in them, when
                     the cold beginneth to prevaile, is their wings: so that they cannot rise to
                     their Hives to helpe themselves by the heat of their fellowes. <note
@@ -2819,14 +2819,14 @@
                             <item>Chillie </item>
                         </list> as a Bee. </hi>
                 </p>
-                <p xml:id="ch1par62">
-                    <note type="authorial" subtype="summary" xml:id="ch1sumn63">63.Bees achiefe
+                <p xml:id="ch1par62"><app type="substantive" subtype="add"><lem wit="#b1623">
+                  <note type="authorial" subtype="summary" xml:id="ch1sumn63">63.Bees achiefe
                         exemplar of the divine power and wisedome.</note>
                     <note type="authorial" subtype="bibliographic" xml:id="ch1bibln69">
                         <bibl>Du Bartas.Fift day.</bibl>
                     </note> These wonderfull parts and properties of this little creature, what are
                     they but so many evident proofes of the infinite power and wisedome of the
-                    Creator? </p>
+                    Creator? </lem><rdg wit="#b1609"></rdg></app></p> <app type="substantive" subtype="add"><lem wit="#b1623">
                 <lg rend="italic">
                     <l>For, if old times admire <hi rend="opposite">Calirates</hi></l>
                     <l>For Ivorie Emmets; and <hi rend="opposite">Mermecides</hi></l>
@@ -2843,8 +2843,8 @@
                     <l> That, durst I loose the raines of my desires, </l>
                     <l> I gladly could digresse from my designe, </l>
                     <l> To sing a while their sacred discipline. </l>
-                </lg>
-            </div>
+                </lg> </lem><rdg wit="#b1609"></rdg></app>
+                </div>
             <fw type="ornament"/>
             <div type="chapter" n="2" xml:id="ch2">
                 <head type="chapter-number">CHAP. II</head>
