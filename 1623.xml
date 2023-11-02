@@ -2688,15 +2688,15 @@
                         <foreign xml:lang="la">Amoliuntur omnia è medio, nullæque inter opera
                             spurcitiæ jacent</foreign>
                     </quote>; neither can they endure any unsavourinesse without nigh unto them. <quote>
-                        <foreign xml:lang="la">Odere fœdos odores: Nulla harum assidet in loco
-                            inquinato, aut eo qui malè oleat.</foreign>
+                        <foreign xml:lang="la">Odere fœdos odores: <app type="substantive" subtype="add"><lem wit="#b1623">Nulla harum assidet in loco
+                            inquinato, aut eo qui malè oleat.<note type="authorial" subtype="bibliographic" xml:id="ch1bibln62">
+                                <bibl> Var.l.3.c.15.</bibl>
+                            </note></lem><rdg wit="#b1609"></rdg></app></foreign>
                     </quote>
                     <note type="authorial" subtype="bibliographic" xml:id="ch1bibln61">
                         <bibl>Hist an.l.9.c.40</bibl>
                     </note>
-                    <note type="authorial" subtype="bibliographic" xml:id="ch1bibln62">
-                        <bibl> Var.l.3.c.15.</bibl>
-                    </note> And for their persons (which are lovely browne) though they be not long
+                     And for their persons (which are lovely browne) though they be not long
                     about it, yet are they curious in trimming and smoothing them from top to toe,
                     like unto sober Matrones, which love as well to goe neate as plaine: pied and
                     garish colours belong to the Waspe, which is good for nothing but to spend and
@@ -2719,10 +2719,10 @@
                     continue so long, before the Bees die altogether. But this continuance is onely
                     by succession: and so might they live in <term>secula</term>, if the rottennesse
                     of their combes, the hardnesse of their Honie, &amp; the abundance of noisone
-                    stopping <ref target="#ch1bibln64"> v:</ref>
+                    stopping <app type="other" subtype="add"><lem wit="#b1623"><ref target="#ch1bibln64"> v:</ref>
                     <note type="authorial" subtype="bibliographic" xml:id="ch1bibln64">
                         <ref target="#ch6sumn20">V.c.6.n.20.</ref>
-                    </note>would suffer them to abide the Hives, <quote>
+                    </note></lem><rdg wit="#b1609"></rdg></app>would suffer them to abide the Hives, <quote>
                         <foreign xml:lang="la">Nam genus immortale manet.</foreign>
                     </quote>
                     <note type="authorial" subtype="bibliographic" xml:id="ch1bibln65">
@@ -2731,10 +2731,11 @@
                     <fw type="catch"> But</fw>
                     <pb n="D3r"/>
                     <fw type="header"> and of their Queene. </fw> But the truth is, a Bee is but
-                        <ref target="#ch1glon4">*</ref>a yeares Bird, with some advantage.</p>
-                <note type="authorial" subtype="gloss" xml:id="ch1glon4" place="inline">*Which is a
+                    <app type="other" subtype="add"><lem wit="#b1623"><ref target="#ch1glon4">*</ref></lem><rdg wit="#b1609"></rdg></app>a yeares Bird, with some advantage.</p>
+                <app type="substantive" subtype="add"><lem wit="#b1623"><note type="authorial" subtype="gloss" xml:id="ch1glon4" place="inline">*Which is a
                     long life in comparison of the Silk-wormes, which live but foure moneths; or of
-                    the Waspes, which live but five: or of the Drones, which but six.</note>
+                    the Waspes, which live but five: or of the Drones, which but six.</note></lem><rdg wit="#b1609"></rdg>
+                </app>
                 <p xml:id="ch1par57">
                     <note type="authorial" subtype="summary" xml:id="ch1sumn56">56. The difference
                         betweene the young Bees and old.</note>
