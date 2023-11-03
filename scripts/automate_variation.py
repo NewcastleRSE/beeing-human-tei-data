@@ -162,7 +162,10 @@ def main():
             print(f'Error: {target} points to elements that do not share a common ancestor')
 
     # removes any old versions of the file, in case no new one has been created during the run
-    os.remove(FILEOUTPUT)
+    try:
+        os.remove(FILEOUTPUT)
+    except FileNotFoundError:
+        print('No old consolidated file exists...')
     # To write results
     ET.register_namespace('', 'http://www.tei-c.org/ns/1.0')
     tree.write(FILEOUTPUT)
