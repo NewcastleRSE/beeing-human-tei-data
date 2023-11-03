@@ -77,13 +77,15 @@ def getText(string, ns, mapParent, tree):
     for tag in tags:
         # Text only includes inner text until the next tag (which is convienient for me). See:
         # https://docs.python.org/3/library/xml.etree.elementtree.html#xml.etree.ElementTree.Element.text
-        if tag.text:
-            text += ''.join([tag.text, tag.tail])
-            # find a way to preserve inner elements
-            # text += ''.join([f'<{tag.tag}>', tag.text, f'</{tag.tag}>', tag.tail])
-        else:
-            text += tag.tail
-
+        try:
+            if tag.text:
+                text += ''.join([tag.text, tag.tail])
+                # find a way to preserve inner elements
+                # text += ''.join([f'<{tag.tag}>', tag.text, f'</{tag.tag}>', tag.tail])
+            else:
+                text += tag.tail
+        except:
+            print(f'ERROR: Something went wrong collecting the text: check between {start_end[0]} and {start_end[1]} in 1609.xml')
         
     return text
 
