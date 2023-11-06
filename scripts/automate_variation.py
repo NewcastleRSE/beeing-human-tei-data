@@ -74,19 +74,25 @@ def getText(string, ns, mapParent, tree):
     text = ""
 
     # Go through every collected element and collect text
-    for tag in tags:
+    for i, tag in enumerate(tags):
         # Text only includes inner text until the next tag (which is convienient for me). See:
         # https://docs.python.org/3/library/xml.etree.elementtree.html#xml.etree.ElementTree.Element.text
         try:
             if tag.text:
-                text += ''.join([tag.text, tag.tail])
+                if tag.tail:
+                    text += ''.join([tag.text, tag.tail])
+                else:
+                    text += tag.text
                 # find a way to preserve inner elements
                 # text += ''.join([f'<{tag.tag}>', tag.text, f'</{tag.tag}>', tag.tail])
-            else:
+            elif tag.tail:
                 text += tag.tail
+            elif i < len(tag):
+                # falls into this case if the anchor starts with an element
+                # if it's not the last, keep going
+                pass
         except:
-            print(f'ERROR: Something went wrong collecting the text: check between {start_end[0]} and {start_end[1]} in 1609.xml')
-        
+            print(f'ERROR: Something went wrong collecting the text: check between {start_end[0]} and {start_end[1]} in 1609.xml')        
     return text
 
 def append_XML_dec():
@@ -175,6 +181,7 @@ def main():
     except FileNotFoundError:
         print(f'Fatal error: Could not write the output to \'{FILEOUTPUT}\'')
         sys.exit(ERROR)
+    print('Consolidation successful')
     return SUCCESS
 
 if __name__ == "__main__":
