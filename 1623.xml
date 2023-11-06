@@ -2352,9 +2352,9 @@
                             company few at home, they are not so apt to be quarrelling, unlesse they
                             be much provoked. Likewise at other times of the day, when the weather
                             is cold, wet, or windie, they are patient enough.</lem>
-                        <rdg wit="#b1609"><ptr target="1609.xml#ch1ancs12 1609.xml#ch1ance12"
-                            /></rdg>
-                    </app>
+                        <rdg wit="#b1609"><ptr target="1609.xml#ch1ancs12 1609.xml#ch1ance12"></ptr>
+                            </rdg>
+                    </app><app type="other" subtype="del"><lem wit="#b1623"></lem><rdg wit="#b1609"><ptr target="1609.xml#ch1anchs12x 1609.xml#ch1ance12x"/></rdg></app>
                 </p>
                 <p xml:id="ch1par31"><note type="authorial" subtype="summary" xml:id="ch1sumn39">39.
                         In the heat of the day they are most angry.</note> But about noone in hot
@@ -2410,8 +2410,12 @@
                         The Bees senses.</note>
                     <app type="substantive" subtype="del">
                         <lem wit="#b1623"/>
-                        <rdg wit="#b1609"><ptr target="1609.xml#ch1ancs14 1609.xml#ch1ance14x"
+                        <rdg wit="#b1609"><ptr target="1609.xml#ch1ancs14 1609.xml#ch1ance14"
                             /></rdg>
+                    </app> <app type="substantive" subtype="del">
+                        <lem wit="#b1623"/>
+                        <rdg wit="#b1609"><ptr target="1609.xml#ch1ancs14x 1609.xml#ch1ance14x"
+                        /></rdg>
                     </app>And such are the sorts of Bees, with their integrall parts. Among which,
                     though there do not appear those outward <term> Organa</term> of senting which
                     other <term>Animals</term> have, nor is seene in the head that inward
