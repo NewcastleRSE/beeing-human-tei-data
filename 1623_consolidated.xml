@@ -1974,10 +1974,8 @@
                     for then they will not sting, unlesse they be much provoked. They are also very
                     gentle in the evenings; but then being wearie if you stand in their way you
                     trouble their lighting, and cause them to fall, &amp; if you make them come
-                    forth when they are housed for al night, they can hardly see to get in againe.
-                        v.
-                    v.n.41</rdg>
-                    </app>
+                    forth when they are housed for al night, they can hardly see to get in againe.</rdg>
+                    </app><app type="other" subtype="del"><lem wit="#b1623" /><rdg wit="#b1609"><ptr target="1609.xml#ch1anchs12x 1609.xml#ch1ance12x" /></rdg></app>
                 </p>
                 <p xml:id="ch1par31"><note type="authorial" subtype="summary" xml:id="ch1sumn39">39.
                         In the heat of the day they are most angry.</note> But about noone in hot
@@ -2038,7 +2036,13 @@
                         The Bees senses.</note>
                     <app type="substantive" subtype="del">
                         <lem wit="#b1623" />
-                        <rdg wit="#b1609"><ptr target="1609.xml#ch1ancs14 1609.xml#ch1ance14x" /></rdg>
+                        <rdg wit="#b1609" source="1609.xml#ch1ancs14 1609.xml#ch1ance14">Nat.hist.Ii.
+                    Quamvis non sint membra qu&#230;, velunt carina, sensus invebant; esse tamen his
+                        auditum, olfactum, gustatum, exima pr&#230;terc&#230;natura dona, solertiam
+                    </rdg>
+                    </app> <app type="substantive" subtype="del">
+                        <lem wit="#b1623" />
+                        <rdg wit="#b1609"><ptr target="1609.xml#ch1ancs14x 1609.xml#ch1ance14x" /></rdg>
                     </app>And such are the sorts of Bees, with their integrall parts. Among which,
                     though there do not appear those outward <term> Organa</term> of senting which
                     other <term>Animals</term> have, nor is seene in the head that inward
