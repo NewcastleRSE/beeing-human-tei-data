@@ -940,7 +940,7 @@
               bodie; </egXML>
             <label>1623.xml</label>
             <egXML xmlns="http://www.tei-c.org/ns/Examples"> The later part of which saying,
-              although the delicate Silk-worme have <app type="substantial" subtype="change">
+              although the delicate Silk-worme have <app type="substantive" subtype="change">
                 <lem wit="#b1623"> in some hoter Climates disproved; (for in the colder countries,
                   such as is our Iland of <placeName rend="italic">Britaine</placeName>, I doubt mee
                   shee will never quit cost: and therefore is here to be entertained only of them,
@@ -967,7 +967,7 @@
             <egXML xmlns="http://www.tei-c.org/ns/Examples">
               <p>...which foot let be made of sound timber five or six inches over; and of that
                 length, that it may be set betweene fifteene and eighteene inches in the ground.<app
-                  type="substantial" subtype="del">
+                  type="substantive" subtype="del">
                   <lem wit="#b1623"/>
                   <rdg wit="#b1606"><ptr target="1609.xml#ch2ancs1 1609.xml#ch2ance1"/></rdg>
                 </app></p>
@@ -991,7 +991,7 @@
             <label>1623</label>
             <egXML xmlns="http://www.tei-c.org/ns/Examples">
               <p>...or otherwise the sense doth plainely shew that it is spoken of the whole Moneth. </p>
-              <app type="substantial" subtype="add"><lem wit="#b1623"><p xml:id="frontpar7">When you
+              <app type="substantive" subtype="add"><lem wit="#b1623"><p xml:id="frontpar7">When you
                     have once, for your satisfaction, perused this Booke, you need not afterward
                     seeke farre for anything therein, whereof you doubt: the <ref target="#contents"
                       rend="italic">Index</ref> of the Chapters or Contents of the Booke; and of the
