@@ -1350,7 +1350,7 @@
             <head type="title"><app type="substantive" subtype="change">
                     <lem wit="#b1623">THE FEMININE MONARCHIE, <lb />OR <lb />The Historie of
                         BEES.</lem>
-                    <rdg wit="#b1609" source="#ch1ancs1 #ch1ance1"> A TREATISE CONCER-ning BEES, and the dueordering of
+                    <rdg wit="#b1609" source="1609.xml#ch1ancs1 1609.xml#ch1ance1"> A TREATISE CONCER-ning BEES, and the dueordering of
                 them.</rdg>
                 </app></head>
             <div type="chapter" n="1" xml:id="ch1">
@@ -1358,11 +1358,11 @@
                 <head type="chapter-title" rend="italic"> Of the Nature and properties of Bees, and
                     of their Queene. </head>
                 <p xml:id="ch1par1"><hi rend="drop-capital">A</hi>Mong all the Creatures which our
-                    bountifull God hath made for the use and service of man, in respect of great
-                    profit with smal cost, of their ubiquitie or being in all Countries, and of
+                    bountifull God hath made for the use and service of man, in <app type="other" subtype="change"><lem wit="#b1623">respect of great
+                        profit with smal cost, of their ubiquitie or being in all Countries, and</lem><rdg wit="#b1609"><ptr target="1609.xml#ch1anchs1x 1609.xml#ch1anche1x" /></rdg></app> of
                     their <app type="vocabulary" subtype="change">
                         <lem wit="#b1623">continuall</lem>
-                        <rdg wit="#b1609" source="#ch1ancs2 #ch1ance2">consenting</rdg>
+                        <rdg wit="#b1609" source="1609.xml#ch1ancs2 1609.xml#ch1ance2">consenting</rdg>
                     </app> labour and comly order, the Bees are most to be admired. </p>
                 <p xml:id="ch1par2">
                     <note type="authorial" subtype="summary" xml:id="ch1sumn1">1. Bees yeelde great
