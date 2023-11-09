@@ -1350,7 +1350,7 @@
             <head type="title"><app type="substantive" subtype="change">
                     <lem wit="#b1623">THE FEMININE MONARCHIE, <lb />OR <lb />The Historie of
                         BEES.</lem>
-                    <rdg wit="#b1609" source="1609.xml#ch1ancs1 1609.xml#ch1ance1"> A TREATISE CONCER-ning BEES, and the dueordering of
+                    <rdg wit="#b1609" source="1609.xml#ch1ancs1 1609.xml#ch1ance1"> A TREATISE CONCER-ning BEES, and the due ordering of
                 them.</rdg>
                 </app></head>
             <div type="chapter" n="1" xml:id="ch1">
@@ -2225,10 +2225,10 @@
                 </p>
                 <p xml:id="ch1par42">And yet I have read of a greater knowledge then all this: How
                     there were Bees so wise and skilfull, as not only to descrie a certaine little
-                    God, <app type="vocabulary" subtype="add">
+                    God <app type="vocabulary" subtype="add">
                         <lem wit="#b1623">a mightie</lem>
                         <rdg wit="#b1609" />
-                    </app> though he came among them in likenesse of a Wafer-cake; but also to build
+                    </app>, though he came among them in likenesse of a Wafer-cake; but also to build
                     him an artificiall Chappell. If I should relate the Storie, all men, I know,
                     would not beleeve it: notwithstanding, because every man may make some use of
                     it, you shall have it. </p>
