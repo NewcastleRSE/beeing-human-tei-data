@@ -3038,9 +3038,9 @@
             </div>
             <fw type="ornament"/>
             <div type="chapter" n="2" xml:id="ch2">
-                <head type="chapter-number">CHAP. II</head>
-                <head type="chapter-title" rend="italic">Of the Bee-Garden, and Seats<lb/>
-                    <hi rend="opposite">for the Hives</hi>.</head>
+                <head type="chapter-number"><app type="ortographic" subtype="change"><lem wit="#b1623">CHAP. II</lem><rdg wit="#b1609"><ptr target="1609.xml#ch2ancs1 1609.xml#ch2ance1"/></rdg></app></head>
+                <head type="chapter-title" rend="italic"><app type="substantive" subtype="change"><lem wit="#b1623">Of the Bee-Garden, and Seats<lb/>
+                    <hi rend="opposite">for the Hives</hi>.</lem><rdg wit="#b1609"><ptr target="1609.xml#ch2ancs2 1609.xml#ch2ance2"/></rdg></app></head>
                 <p xml:id="ch2par1"><note type="authorial" subtype="summary" xml:id="ch2sumn1">1. Of
                         five things requisite in a Bee-garden, the first is that it be night at
                         hand.</note><hi rend="drop-capital">F</hi>Or your Bee-garden, first choose
