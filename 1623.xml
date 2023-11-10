@@ -3061,7 +3061,7 @@
                     rubbing against the Hives, and tearing the hackles in a wantonnesse, are most
                     apt to overthrow the stalls;) but also from the violence of the winds: that when
                     the Bees come laden and wearie home, they may settle quietly.<ref
-                        target="#ch2sumn5">v.n.5.</ref>
+                        target="#ch2sumn5"><app type="other" subtype="add"><lem wit="#b1623">v.n.5.</lem><rdg wit="#b1609"></rdg></app></ref>
                 </p>
                 <p xml:id="ch2par3"><note type="authorial" subtype="summary" xml:id="ch2sumn3">3.
                         The North and East fences should be high.</note> The North fence of your
@@ -3071,7 +3071,7 @@
                     <pb n="D4v"/>
                     <fw type="header"> Of the Bee-Garden, </fw> and kill many) may bee altogether
                     kept from them. And therefore, if it may be, set your Bees on the South side of
-                    your house. </p>
+                    your house.<app type="substantive" subtype="del"><lem wit="#b1623"></lem><rdg wit="#b1609"><ptr target="1609.xml#ch2ancs3 1609.xml#ch2ance3"/></rdg></app></p>
                 <p xml:id="ch2par4">The East-fence also would bee good and high to keepe from the
                     Bees as well the sunne, as the winde. For the sunne rising doth oftimes till
                     them forth, when the ayre is colder then they can endure; and the East-wind
@@ -3147,15 +3147,15 @@
                     <note type="authorial" subtype="bibliographic" xml:id="ch2bibln8">
                         <ref target="#ch5sumn19">v.c.5.n.19.</ref>
                     </note> A grassie ground therefore is best at all times: but let it be kept
-                    notte in Summer, and not wet in Winter: <note type="authorial" subtype="summary"
+                    notte in Summer, and <app type="vocabulary" subtype="change"><lem wit="#b1623">not wet</lem><rdg wit="#b1609"><ptr target="1609.xml#ch2ancs4 1609.xml#ch2ance4ß"/></rdg></app> in Winter: <note type="authorial" subtype="summary"
                         xml:id="ch2sumn8"> 8. A grassie ground is best, kept notte and drie.</note>
                     for long grasse and weeds about the Hive, doe but harbour the Bees enimies, <ref
                         target="#ch2bibln9"> v.</ref>
                     <note type="authorial" subtype="bibliographic" xml:id="ch2bibln9">
                         <ref target="#ch7sumn3"> v.c.7.n.3.</ref>
                     </note> and hinder both their passage in and out, and their rising againe when
-                    they fall short: and water if it stand, as it will be offensive to your selfe,
-                    so is it dangerous to your Bees for chilling and drowning them. And as the parts
+                    they fall short: and water if it stand, <app type="substantive" subtype="change"><lem wit="#b1623">as it will be offensive to your selfe,
+                        so is it dangerous to your Bees for chilling and drowning them.</lem><rdg wit="#b1609"><ptr target="1609.xml#ch2ancs5 1609.xml#ch2ance5"/></rdg></app> <app type="substantive" subtype="add"><lem wit="#b1623">And as the parts
                     about the hives are to be kept notte &amp; bare; so are other places also, where
                     the swarmes doe use to play and pitch, whether within or without the Garden, to
                     bee freed likewise from long grasse and weedes, much more from Beanes, Pease,
@@ -3165,7 +3165,7 @@
                     settle about such places: and then if windie or cloudie weather suffer them not
                     to goe further, they must either goe home, or light upon some other Hives:
                     where, without your present skill and diligence, they are like to be all
-                    lost.</p>
+                    lost.</lem><rdg wit="#b1609"></rdg></app></p>
                 <p xml:id="ch2par12"><note type="authorial" subtype="summary" xml:id="ch2sumn9">9.
                         Beset with trees and bushes.</note> 5 That it be conveninently beset with
                     trees and bushes fit to receive the swarmes, as Plum-trees, Cherry-trees,
