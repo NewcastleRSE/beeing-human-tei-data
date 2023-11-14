@@ -3329,8 +3329,8 @@
                     certainly know the age, and yearely increases of any stall in your Garden: and
                     so guesse whether he be fitter to kill or to keepe. <ref target="#ch10p1sumn3"
                         >V.c.10.p.1.n.3.</ref></lem><rdg wit="#b1609"></rdg></app></p>
-                <p xml:id="ch2par28"><note type="authorial" subtype="summary" xml:id="ch2sumn20"
-                        >20.The stooles height</note> Also the stooles should not stand above two
+                <p xml:id="ch2par28"><app type="vocabulary" subtype="change"><lem wit="#b1623"><note type="authorial" subtype="summary" xml:id="ch2sumn20"
+                    >20.The stooles height</note></lem><rdg wit="#b1609"><ptr target="1609.xml#ch2ancs14 1609.xml#ch2ance14"/></rdg></app> Also <app type="vocabulary" subtype="change"><lem wit="#b1623">the stooles</lem><rdg wit="#b1609"><ptr target="1609.xml#ch2ancs15 1609.xml#ch2ance15"/></rdg></app> should not stand above two
                     foot from the ground, because of the wind: nor under one foot for the dampnesse
                     of the ground in winter, which would make the Hives moist and mustie; and for
                     the heat of the ground in Summer, which in hot and dry weather would make the
@@ -3338,19 +3338,19 @@
                         target="#ch2bibln15">v.</ref>
                     <note type="authorial" subtype="bibliographic" xml:id="ch2bibln15"><ref
                             target="#ch5sumn19"> V.c.5. n.19.</ref></note></p>
-                <p xml:id="ch2par29">The best heighth is between eighteene and twentie inches. Yet
+                <p xml:id="ch2par29"><app type="substantive" subtype="change"><lem wit="#b1623">The best heighth is between eighteene and twentie inches. Yet
                     if you have many, it is convenient that the more Northward rankes should stand
                     higher, and the more South-ward lower, descending by degrees from two foot to
                     one: as if there be two rewes of stooles, let the first stand two foot from
                     ground, the next eighteene inches, &amp; the benches or swarme-stooles one foot
                     or lesse. <ref target="#ch2bibln16">v.</ref>
                     <note type="authorial" subtype="bibliographic" xml:id="ch2bibln16">
-                        <ref target="#ch2sumn12"> V.n. 12</ref>
-                    </note> If there be three rankes beside the benches, let the second be twentie
-                    inches, and the third sixteene, &amp;c. </p>
-                <p xml:id="ch2par30">This unequall heighth of rankes may as conveniently be
+                        <ref target="#ch2sumn12"> V.n. 12</ref></note>
+                   If there be three rankes beside the benches, let the second be twentie
+                   inches, and the third sixteene, &amp;c.</lem><rdg wit="#b1609"><ptr target="1609.xml#ch2ancs16 1609.xml#ch2ance16"/></rdg></app> </p>
+                <p xml:id="ch2par30"><app type="substantive" subtype="add"><lem wit="#b1623">This unequall heighth of rankes may as conveniently be
                     effected, though the stooles be all equall, by the unequall levelling of the
-                    ground: which in a great Bee-fold is best. </p>
+                    ground: which in a great Bee-fold is best. </lem><rdg wit="#b1609"></rdg></app></p>
                 <p xml:id="ch2par31">
                     <note type="authorial" subtype="summary" xml:id="ch2sumn21">21. How to be
                         footed.</note> The stone-stooles must be footed as they may: the fashion of
@@ -3361,7 +3361,7 @@
                     <fw type="header"> Of the Hives, and the Dressing of them. </fw> or to be
                     fastned to one foot with two woodden pins: which foot let be made of sound
                     timber five or six inches over; and of that length, that it may be set betweene
-                    fifteene and eighteene inches in the ground.</p>
+                    fifteene and eighteene inches in the ground.<app type="substantive" subtype="del"><lem wit="#b1623"></lem><rdg wit="#b1609"><ptr target="1609.xml#ch2ancs17 1609.xml#ch2ance17"/></rdg></app></p>
             </div>
             <fw type="ornament"/>
             <div type="chapter" n="3" xml:id="ch3">
