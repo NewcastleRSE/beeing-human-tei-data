@@ -1,7 +1,7 @@
 # File names
 FILE1623 = "1623.xml"
 FILE1609 = "1609.xml"
-FILEOUTPUT = "1623_consolidated.xml"
+# FILE OUTPUT DEFINED IN MAIN()
 
 # Error Return Codes
 ERROR = 10
@@ -95,7 +95,7 @@ def getText(string, ns, mapParent, tree):
             print(f'ERROR: Something went wrong collecting the text: check between {start_end[0]} and {start_end[1]} in 1609.xml')        
     return text
 
-def append_XML_dec():
+def append_XML_dec(FILEOUTPUT):
     xml_dec = '<?xml version="1.0" encoding="UTF-8"?>\n<?xml-model href="schema/tei_beeing_human.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>\n<?xml-model href="schema/tei_beeing_human.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>\n'
 
     with open(FILEOUTPUT, 'r') as file:
@@ -109,9 +109,14 @@ def append_XML_dec():
         # write content
         file.write(content)
 
-def main():
+def main(preview=False):
     import sys, os
 
+    FILEOUTPUT = '1623_consolidated.xml'
+
+    if (preview):
+        FILEOUTPUT = 'preview_1623_consolidated.xml'
+        
     # Define namespaces dictionary to navigate the tree
     ns = {
         'TEI': 'http://www.tei-c.org/ns/1.0',
@@ -177,7 +182,7 @@ def main():
     tree.write(FILEOUTPUT)
 
     try:
-        append_XML_dec()
+        append_XML_dec(FILEOUTPUT)
     except FileNotFoundError:
         print(f'Fatal error: Could not write the output to \'{FILEOUTPUT}\'')
         sys.exit(ERROR)
