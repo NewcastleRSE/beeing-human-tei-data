@@ -23,6 +23,11 @@
     text-align:left;
 }
 
+/* Global style */
+html, body {
+  background-color: rgb(228, 230, 238);
+}
+
 /* Choice elements */
 tei-choice tei-abbr + tei-expan:before,
 tei-choice tei-expan + tei-abbr:before,
