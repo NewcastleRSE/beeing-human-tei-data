@@ -20,3 +20,4 @@ python start_preview.py
 4. If everything worked well, your default browser should have opened with a preview of your latest changes.
 5. If your changes are not as you expected, check the terminal window: if there was a problem with any of the `<app>` it will tell you where the problem is (or where it is likely to be)
 6. If no browser window opened, let Tiago know what error message you received.
+7. Once you are finished, remember to close the terminal window that you used.
