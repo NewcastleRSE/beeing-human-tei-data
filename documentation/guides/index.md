@@ -30,4 +30,5 @@ Once you have finished a set of changes, follow these steps:
 ## Other useful stuff
 1. [Using GitHub Issues to keep track of tasks and fixes](./31_Github_issues/31_github_issues.md)
 1. [Navigate the TEI document using `XPath`](./32_XPath_guide/32_xpath_guide.md)
+1. [Preview changes as they will be displayed](./33_preview_changes/33_preview_changes.md)
 

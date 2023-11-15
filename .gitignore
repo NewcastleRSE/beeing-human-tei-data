@@ -1,3 +1,6 @@
 /env
 __pycache__/
 /scripts/__pycache__
+
+# ignore preview consolidated file
+preview/preview_1623_consolidated.xml
