@@ -12,7 +12,7 @@
     <script>
       var CETEIcean = new CETEI();
       CETEIcean.addBehaviors(teiBehaviours);
-      CETEIcean.getHTML5('../preview_1623_consolidated.xml', function(data) {
+      CETEIcean.getHTML5('preview_1623_consolidated.xml', function(data) {
         document.getElementById("TEI").innerHTML = "";
         document.getElementById("TEI").appendChild(data);
       });

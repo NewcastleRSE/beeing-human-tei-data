@@ -115,7 +115,7 @@ def main(preview=False):
     FILEOUTPUT = '1623_consolidated.xml'
 
     if (preview):
-        FILEOUTPUT = 'preview_1623_consolidated.xml'
+        FILEOUTPUT = 'preview/preview_1623_consolidated.xml'
         
     # Define namespaces dictionary to navigate the tree
     ns = {
