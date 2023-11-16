@@ -1690,9 +1690,13 @@
                 <head type="chapter-title" rend="italic"> Of the Nature and properties of Bees, and
                     of their Queene. </head>
                 <p xml:id="ch1par1"><hi rend="drop-capital">A</hi>Mong all the Creatures which our
-                    bountifull God hath made for the use and service of man, in <app type="other" subtype="change"><lem wit="#b1623">respect of great
-                        profit with smal cost, of their ubiquitie or being in all Countries, and</lem><rdg wit="#b1609"><ptr target="1609.xml#ch1ancs1x 1609.xml#ch1ance1x"/></rdg></app> of
-                    their <app type="vocabulary" subtype="change">
+                    bountifull God hath made for the use and service of man, in <app type="other"
+                        subtype="change">
+                        <lem wit="#b1623">respect of great profit with smal cost, of their ubiquitie
+                            or being in all Countries, and</lem>
+                        <rdg wit="#b1609"><ptr target="1609.xml#ch1ancs1x 1609.xml#ch1ance1x"
+                            /></rdg>
+                    </app> of their <app type="vocabulary" subtype="change">
                         <lem wit="#b1623">continuall</lem>
                         <rdg wit="#b1609"><ptr target="1609.xml#ch1ancs2 1609.xml#ch1ance2"/></rdg>
                     </app> labour and comly order, the Bees are most to be admired. </p>
@@ -2352,9 +2356,13 @@
                             company few at home, they are not so apt to be quarrelling, unlesse they
                             be much provoked. Likewise at other times of the day, when the weather
                             is cold, wet, or windie, they are patient enough.</lem>
-                        <rdg wit="#b1609"><ptr target="1609.xml#ch1ancs12 1609.xml#ch1ance12"></ptr>
-                            </rdg>
-                    </app><app type="other" subtype="del"><lem wit="#b1623"></lem><rdg wit="#b1609"><ptr target="1609.xml#ch1ancs12x 1609.xml#ch1ance12x"/></rdg></app>
+                        <rdg wit="#b1609"><ptr target="1609.xml#ch1ancs12 1609.xml#ch1ance12"/>
+                        </rdg>
+                    </app><app type="other" subtype="del">
+                        <lem wit="#b1623"/>
+                        <rdg wit="#b1609"><ptr target="1609.xml#ch1ancs12x 1609.xml#ch1ance12x"
+                            /></rdg>
+                    </app>
                 </p>
                 <p xml:id="ch1par31"><note type="authorial" subtype="summary" xml:id="ch1sumn39">39.
                         In the heat of the day they are most angry.</note> But about noone in hot
@@ -2412,10 +2420,11 @@
                         <lem wit="#b1623"/>
                         <rdg wit="#b1609"><ptr target="1609.xml#ch1ancs14 1609.xml#ch1ance14"
                             /></rdg>
-                    </app> <app type="substantive" subtype="del">
+                    </app>
+                    <app type="substantive" subtype="del">
                         <lem wit="#b1623"/>
                         <rdg wit="#b1609"><ptr target="1609.xml#ch1ancs14x 1609.xml#ch1ance14x"
-                        /></rdg>
+                            /></rdg>
                     </app>And such are the sorts of Bees, with their integrall parts. Among which,
                     though there do not appear those outward <term> Organa</term> of senting which
                     other <term>Animals</term> have, nor is seene in the head that inward
@@ -2610,10 +2619,10 @@
                     God <app type="vocabulary" subtype="add">
                         <lem wit="#b1623">a mightie</lem>
                         <rdg wit="#b1609"/>
-                    </app>, though he came among them in likenesse of a Wafer-cake; but also to build
-                    him an artificiall Chappell. If I should relate the Storie, all men, I know,
-                    would not beleeve it: notwithstanding, because every man may make some use of
-                    it, you shall have it. </p>
+                    </app>, though he came among them in likenesse of a Wafer-cake; but also to
+                    build him an artificiall Chappell. If I should relate the Storie, all men, I
+                    know, would not beleeve it: notwithstanding, because every man may make some use
+                    of it, you shall have it. </p>
                 <p xml:id="ch1par43"><note type="authorial" subtype="summary" xml:id="ch1sumn50">50.
                         A strange tale concerning the knowledge and devotion of Bees.</note> A
                     certain simple woman having some stals of Bees which yeelded not unto hir
@@ -2819,7 +2828,8 @@
                     conceive and breed for the preservation of their sweet kinde.<app type="other"
                         subtype="del">
                         <lem wit="#b1623"/>
-                        <rdg wit="#b1609"><ptr target="1609.xml#ch1ancs23 1609.xml#ch1ance23"/></rdg>
+                        <rdg wit="#b1609"><ptr target="1609.xml#ch1ancs23 1609.xml#ch1ance23"
+                            /></rdg>
                     </app> Which strange kind of breeding the Philosopher saith to be apparent unto
                     sense and reason. <note type="authorial" subtype="bibliographic"
                         xml:id="ch1bibln58">
@@ -3038,9 +3048,15 @@
             </div>
             <fw type="ornament"/>
             <div type="chapter" n="2" xml:id="ch2">
-                <head type="chapter-number"><app type="ortographic" subtype="change"><lem wit="#b1623">CHAP. II</lem><rdg wit="#b1609"><ptr target="1609.xml#ch2ancs1 1609.xml#ch2ance1"/></rdg></app></head>
-                <head type="chapter-title" rend="italic"><app type="substantive" subtype="change"><lem wit="#b1623">Of the Bee-Garden, and Seats<lb/>
-                    <hi rend="opposite">for the Hives</hi>.</lem><rdg wit="#b1609"><ptr target="1609.xml#ch2ancs2 1609.xml#ch2ance2"/></rdg></app></head>
+                <head type="chapter-number"><app type="ortographic" subtype="change">
+                        <lem wit="#b1623">CHAP. II</lem>
+                        <rdg wit="#b1609"><ptr target="1609.xml#ch2ancs1 1609.xml#ch2ance1"/></rdg>
+                    </app></head>
+                <head type="chapter-title" rend="italic"><app type="substantive" subtype="change">
+                        <lem wit="#b1623">Of the Bee-Garden, and Seats<lb/>
+                            <hi rend="opposite">for the Hives</hi>.</lem>
+                        <rdg wit="#b1609"><ptr target="1609.xml#ch2ancs2 1609.xml#ch2ance2"/></rdg>
+                    </app></head>
                 <p xml:id="ch2par1"><note type="authorial" subtype="summary" xml:id="ch2sumn1">1. Of
                         five things requisite in a Bee-garden, the first is that it be night at
                         hand.</note><hi rend="drop-capital">F</hi>Or your Bee-garden, first choose
@@ -3061,7 +3077,10 @@
                     rubbing against the Hives, and tearing the hackles in a wantonnesse, are most
                     apt to overthrow the stalls;) but also from the violence of the winds: that when
                     the Bees come laden and wearie home, they may settle quietly.<ref
-                        target="#ch2sumn5"><app type="other" subtype="add"><lem wit="#b1623">v.n.5.</lem><rdg wit="#b1609"></rdg></app></ref>
+                        target="#ch2sumn5"><app type="other" subtype="add">
+                            <lem wit="#b1623">v.n.5.</lem>
+                            <rdg wit="#b1609"/>
+                        </app></ref>
                 </p>
                 <p xml:id="ch2par3"><note type="authorial" subtype="summary" xml:id="ch2sumn3">3.
                         The North and East fences should be high.</note> The North fence of your
@@ -3071,7 +3090,10 @@
                     <pb n="D4v"/>
                     <fw type="header"> Of the Bee-Garden, </fw> and kill many) may bee altogether
                     kept from them. And therefore, if it may be, set your Bees on the South side of
-                    your house.<app type="substantive" subtype="del"><lem wit="#b1623"></lem><rdg wit="#b1609"><ptr target="1609.xml#ch2ancs3 1609.xml#ch2ance3"/></rdg></app></p>
+                    your house.<app type="substantive" subtype="del">
+                        <lem wit="#b1623"/>
+                        <rdg wit="#b1609"><ptr target="1609.xml#ch2ancs3 1609.xml#ch2ance3"/></rdg>
+                    </app></p>
                 <p xml:id="ch2par4">The East-fence also would bee good and high to keepe from the
                     Bees as well the sunne, as the winde. For the sunne rising doth oftimes till
                     them forth, when the ayre is colder then they can endure; and the East-wind
@@ -3147,34 +3169,50 @@
                     <note type="authorial" subtype="bibliographic" xml:id="ch2bibln8">
                         <ref target="#ch5sumn19">v.c.5.n.19.</ref>
                     </note> A grassie ground therefore is best at all times: but let it be kept
-                    notte in Summer, and <app type="vocabulary" subtype="change"><lem wit="#b1623">not wet</lem><rdg wit="#b1609"><ptr target="1609.xml#ch2ancs4 1609.xml#ch2ance4ß"/></rdg></app> in Winter: <note type="authorial" subtype="summary"
-                        xml:id="ch2sumn8"> 8. A grassie ground is best, kept notte and drie.</note>
-                    for long grasse and weeds about the Hive, doe but harbour the Bees enimies, <ref
-                        target="#ch2bibln9"> v.</ref>
+                    notte in Summer, and <app type="vocabulary" subtype="change">
+                        <lem wit="#b1623">not wet</lem>
+                        <rdg wit="#b1609"><ptr target="1609.xml#ch2ancs4 1609.xml#ch2ance4"/></rdg>
+                    </app> in Winter: <note type="authorial" subtype="summary" xml:id="ch2sumn8"> 8.
+                        A grassie ground is best, kept notte and drie.</note> for long grasse and
+                    weeds about the Hive, doe but harbour the Bees enimies, <ref target="#ch2bibln9"
+                        > v.</ref>
                     <note type="authorial" subtype="bibliographic" xml:id="ch2bibln9">
                         <ref target="#ch7sumn3"> v.c.7.n.3.</ref>
                     </note> and hinder both their passage in and out, and their rising againe when
-                    they fall short: and water if it stand, <app type="substantive" subtype="change"><lem wit="#b1623">as it will be offensive to your selfe,
-                        so is it dangerous to your Bees for chilling and drowning them.</lem><rdg wit="#b1609"><ptr target="1609.xml#ch2ancs5 1609.xml#ch2ance5"/></rdg></app> <app type="substantive" subtype="add"><lem wit="#b1623">And as the parts
-                    about the hives are to be kept notte &amp; bare; so are other places also, where
-                    the swarmes doe use to play and pitch, whether within or without the Garden, to
-                    bee freed likewise from long grasse and weedes, much more from Beanes, Pease,
-                    Hempe, and such high things: for the young weake Nymphs falling in those shadie
-                    places, except the weather be warme and drie, are in danger to be chilled before
-                    they can rise againe. For which cause the swarmes doe usually refuse to stay and
-                    settle about such places: and then if windie or cloudie weather suffer them not
-                    to goe further, they must either goe home, or light upon some other Hives:
-                    where, without your present skill and diligence, they are like to be all
-                    lost.</lem><rdg wit="#b1609"></rdg></app></p>
+                    they fall short: and water if it stand, <app type="substantive" subtype="change">
+                        <lem wit="#b1623">as it will be offensive to your selfe, so is it dangerous
+                            to your Bees for chilling and drowning them.</lem>
+                        <rdg wit="#b1609"><ptr target="1609.xml#ch2ancs5 1609.xml#ch2ance5"/></rdg>
+                    </app>
+                    <app type="substantive" subtype="add">
+                        <lem wit="#b1623">And as the parts about the hives are to be kept notte
+                            &amp; bare; so are other places also, where the swarmes doe use to play
+                            and pitch, whether within or without the Garden, to bee freed likewise
+                            from long grasse and weedes, much more from Beanes, Pease, Hempe, and
+                            such high things: for the young weake Nymphs falling in those shadie
+                            places, except the weather be warme and drie, are in danger to be
+                            chilled before they can rise againe. For which cause the swarmes doe
+                            usually refuse to stay and settle about such places: and then if windie
+                            or cloudie weather suffer them not to goe further, they must either goe
+                            home, or light upon some other Hives: where, without your present skill
+                            and diligence, they are like to be all lost.</lem>
+                        <rdg wit="#b1609"/>
+                    </app></p>
                 <p xml:id="ch2par12"><note type="authorial" subtype="summary" xml:id="ch2sumn9">9.
                         Beset with trees and bushes.</note> 5 That it be conveninently beset with
                     trees and bushes fit to receive the swarmes, as Plum-trees, Cherry-trees,
-                    Apple-trees, Filberds, Hazels, Thornes,<app type="vocabulary" subtype="del"><lem wit="#b1623"></lem><rdg wit="#b1609"><ptr target="1609.xml#ch2ancs6 1609.xml#ch2ance6"/></rdg></app> &amp;c. <app type="substantive" subtype="add"><lem wit="#b1623">Which they will the more delight
-                    to light upon, if, convenient boughes hanging out alone from the bodies, the
-                    twigs below standing in their way be pruned, and the weeds and grasse underneath
-                    be cut away close to the ground.</lem><rdg wit="#b1609"></rdg></app> Although, if they be willing to stay, they will
-                    not refuse a dead hedge, a Lavender Border, or the like, or sometime the bare
-                    ground. For want of trees, <fw type="catch"> some</fw>
+                    Apple-trees, Filberds, Hazels, Thornes,<app type="vocabulary" subtype="del">
+                        <lem wit="#b1623"/>
+                        <rdg wit="#b1609"><ptr target="1609.xml#ch2ancs6 1609.xml#ch2ance6"/></rdg>
+                    </app> &amp;c. <app type="substantive" subtype="add">
+                        <lem wit="#b1623">Which they will the more delight to light upon, if,
+                            convenient boughes hanging out alone from the bodies, the twigs below
+                            standing in their way be pruned, and the weeds and grasse underneath be
+                            cut away close to the ground.</lem>
+                        <rdg wit="#b1609"/>
+                    </app> Although, if they be willing to stay, they will not refuse a dead hedge,
+                    a Lavender Border, or the like, or sometime the bare ground. For want of trees,
+                        <fw type="catch"> some</fw>
                     <pb n="E1v"/>
                     <fw type="header"> Of the Bee-Garden, </fw> some have stucke up greene boughes,
                     and the Bees have lighted upon them. </p>
@@ -3184,173 +3222,280 @@
                     shelving, that the raine may neither runne into the hive, nor stay at the dore. </p>
                 <p xml:id="ch2par14"><note type="authorial" subtype="summary" xml:id="ch2sumn11">11.
                         The benches not so good as single stooles.</note> To set many stals upon a
-                    bench (as many use to do) is not <app type="vocabulary" subtype="change"><lem wit="#b1623">good</lem><rdg wit="#b1609"><ptr target="1609.xml#ch2ancs7 1609.xml#ch2ance7"/></rdg></app>: for that in Summer it may cause the Bees
-                    to fight, as having easie accesse on foot to each other, and standing so neere
-                    that they shall sometime mistake the next Hive for their owne: and in Winter the
-                    bench wil bee alwaies wet, which looseth the cloome, rotteth the bottome of the
-                    Hive, and offendeth the Bees: and the Mouse <app type="other" subtype="add"><lem wit="#b1623"><ref target="#ch2bibln10">v.</ref>
-                    <note type="authorial" subtype="bibliographic" xml:id="ch2bibln10">
-                        <ref target="#ch7sumn2"> V.c.7.n. 2.</ref>
-                    </note></lem><rdg wit="#b1609"></rdg></app> at all times hath free passage from one to an other, without feare.</p>
+                    bench (as many use to do) is not <app type="vocabulary" subtype="change">
+                        <lem wit="#b1623">good</lem>
+                        <rdg wit="#b1609"><ptr target="1609.xml#ch2ancs7 1609.xml#ch2ance7"/></rdg>
+                    </app>: for that in Summer it may cause the Bees to fight, as having easie
+                    accesse on foot to each other, and standing so neere that they shall sometime
+                    mistake the next Hive for their owne: and in Winter the bench wil bee alwaies
+                    wet, which looseth the cloome, rotteth the bottome of the Hive, and offendeth
+                    the Bees: and the Mouse <app type="other" subtype="add">
+                        <lem wit="#b1623"><ref target="#ch2bibln10">v.</ref>
+                            <note type="authorial" subtype="bibliographic" xml:id="ch2bibln10">
+                                <ref target="#ch7sumn2"> V.c.7.n. 2.</ref>
+                            </note></lem>
+                        <rdg wit="#b1609"/>
+                    </app> at all times hath free passage from one to an other, without feare.</p>
                 <p xml:id="ch2par15"><note type="authorial" subtype="summary" xml:id="ch2sumn12">12.
                         Swarmes may be set on benches.</note> The single stooles therefore are best.
-                    And yet it is not amisse to set most of your swarmes upon benches, <app type="vocabulary" subtype="change"><lem wit="#b1623">about</lem><rdg wit="#b1609"><ptr target="1609.xml#ch2ancs8 1609.xml#ch2ance8"/></rdg></app> the old
-                    stalls: from whence remove them to the stooles, when the stalls are taken: and
-                    then set up the benches till an other yeare. <app type="substantive" subtype="add"><lem wit="#b1623">Yet I preferre single stooles set
-                    two foot apart, though they bee laid flat on the ground: but it is better to
-                    reare then with foure legges, though little and short. If they be twelve or
-                    thirteene inches, three or foure inches may bee forced into the ground for their
-                    surer standing. </lem><rdg wit="#b1609"></rdg></app></p>
+                    And yet it is not amisse to set most of your swarmes upon benches, <app
+                        type="vocabulary" subtype="change">
+                        <lem wit="#b1623">about</lem>
+                        <rdg wit="#b1609"><ptr target="1609.xml#ch2ancs8 1609.xml#ch2ance8"/></rdg>
+                    </app> the old stalls: from whence remove them to the stooles, when the stalls
+                    are taken: and then set up the benches till an other yeare. <app
+                        type="substantive" subtype="add">
+                        <lem wit="#b1623">Yet I preferre single stooles set two foot apart, though
+                            they bee laid flat on the ground: but it is better to reare then with
+                            foure legges, though little and short. If they be twelve or thirteene
+                            inches, three or foure inches may bee forced into the ground for their
+                            surer standing. </lem>
+                        <rdg wit="#b1609"/>
+                    </app></p>
                 <p xml:id="ch2par16"><note type="authorial" subtype="summary" xml:id="ch2sumn13">13.
                         Woodden stooles better than they of stone.</note> The best stooles are of
                     wood: those of stone are too hot in hot weather, and (which is worse) too cold
                     in cold. </p>
                 <p xml:id="ch2par17"><note type="authorial" subtype="summary" xml:id="ch2sumn14">14.
-                    The size of stooles.</note> <app type="substantive" subtype="change"><lem wit="#b1623">For their size, they should not be above halfe
-                    an inch or an inch without the Hive: save onely before, where there needeth the
-                    space of three or foure inches, that the Bees may have roome enough to light
-                    upon: specially then, when the sight of a rainy cloud sendeth them thronging
-                    home. Which fore-part from one side to the other, is to be cut shelving that it
-                    may the better avoid the raine. And therfore if the Hive be fifteene inches
-                    over, the stoole shoulde not be above sixteene or seventeen inches one way, and
-                    nineteene or twentie at the most the other way.</lem><rdg wit="#b1609"><ptr target="1609.xml#ch2ancs9 1609.xml#ch2ance9"/></rdg></app> </p>
+                        The size of stooles.</note>
+                    <app type="substantive" subtype="change">
+                        <lem wit="#b1623">For their size, they should not be above halfe an inch or
+                            an inch without the Hive: save onely before, where there needeth the
+                            space of three or foure inches, that the Bees may have roome enough to
+                            light upon: specially then, when the sight of a rainy cloud sendeth them
+                            thronging home. Which fore-part from one side to the other, is to be cut
+                            shelving that it may the better avoid the raine. And therfore if the
+                            Hive be fifteene inches over, the stoole shoulde not be above sixteene
+                            or seventeen inches one way, and nineteene or twentie at the most the
+                            other way.</lem>
+                        <rdg wit="#b1609"><ptr target="1609.xml#ch2ancs9 1609.xml#ch2ance9"/></rdg>
+                    </app>
+                </p>
                 <p xml:id="ch2par18"><note type="authorial" subtype="summary" xml:id="ch2sumn15">15.
                         Which way the stooles should be set.</note> These stooles would be set
-                    toward the South, or rather <app type="vocabulary" subtype="change"><lem wit="#b1623">a point or two into the West:</lem><rdg wit="#b1609"><ptr target="1609.xml#ch2ancs10 1609.xml#ch2ance10"/></rdg></app> that the Hive may
-                    somewhat <fw type="catch"> breake</fw>
+                    toward the South, or rather <app type="vocabulary" subtype="change">
+                        <lem wit="#b1623">a point or two into the West:</lem>
+                        <rdg wit="#b1609"><ptr target="1609.xml#ch2ancs10 1609.xml#ch2ance10"
+                            /></rdg>
+                    </app> that the Hive may somewhat <fw type="catch"> breake</fw>
                     <pb n="E2r"/>
                     <fw type="header"> and Seats for the Hives. </fw> breake the East-winde from the
                     doore, <ref target="#ch2bibln11">v.</ref>
                     <note type="authorial" subtype="bibliographic" xml:id="ch2bibln11">
                         <ref target="#ch2sumn3">V.not.3.</ref>
                     </note> and that the doore may be lightened by the Sunne-setting when they
-                    returne late <app type="vocabulary" subtype="add"><lem wit="#b1623">and loaded</lem><rdg wit="#b1609"></rdg></app> from field, <ref target="#ch2bibln12">v.</ref>
+                    returne late <app type="vocabulary" subtype="add">
+                        <lem wit="#b1623">and loaded</lem>
+                        <rdg wit="#b1609"/>
+                    </app> from field, <ref target="#ch2bibln12">v.</ref>
                     <note type="authorial" subtype="bibliographic" xml:id="ch2bibln12">
                         <ref target="#ch2sumn4">V.not.4.</ref>
-                    </note> <app type="substantive" subtype="add"><lem wit="#b1623">and therefore it is to be wished that the Garden-fences did stand
-                        accordingly.</lem><rdg wit="#b1609"></rdg></app></p>
-                <p xml:id="ch2par19"><app type="substantive" subtype="change"><lem wit="#b1623"><note type="authorial" subtype="summary" xml:id="ch2sumn16">16.
-                        How neere to each other.</note> They should stand in straight rankes or
-                    rewes from East to West, five foot one from another (measuring from doore to
-                    doore) and from North to South, six foot one before an other.</lem><rdg wit="#b1609"><ptr target="1609.xml#ch2ancs11 1609.xml#ch2ance11"/></rdg></app></p>
-                <p xml:id="ch2par20"><app type="substantive" subtype="change"><lem wit="#b1623"><note type="authorial" subtype="summary" xml:id="ch2sumn17">17.
-                       How neere to the fences.</note> Likewise let them stand as farre from three
-                    of the fences, as they doe one from an other. And for a plot of fiftie foot
-                    square, will receive seven rankes of nine stooles a peece, with the space of
-                    eight foot before them: which if it were bigger, were so much the better.</lem><rdg wit="#b1609"><ptr target="1609.xml#ch1ancs12 1609.xml#ch1ance12"/></rdg></app> </p>
-                <p xml:id="ch2par21"><app type="substantive" subtype="change"><lem wit="#b1623">For want of roome or stooles, or wit, many doe set their stalls
-                    neerer together. But the greater distance is much better: not onely that you may
-                    have roome enough to goe round about every one, to see and mend what is amisse;
-                    but also that the Bees, when they come home in haste, specially when a swarme
-                    goeth backe againe, may be sure to flie into their own Hive. For if they stand
-                    neere together, at such time many will take the next Hive for their owne, and
-                    then they fall together by the eares; <ref target="#ch2bibln13">v.</ref>
-                    <note type="authorial" subtype="bibliographic" xml:id="ch2bibln13">
-                        <ref target="#ch5sumn79"> V.c.5.n.79.</ref>
-                    </note>and the Nymphs, when they go first abroad, wil by that occasion the
-                    sooner mistake: which if they doe, they dye. </lem><rdg wit="#b1609"><ptr target="1609.xml#ch2ancs13 1609.xml#ch2ance13"/></rdg></app></p>
-                <p xml:id="ch2par22"><app type="substantive" subtype="add"><lem wit="#b1623">The manner of placing the stooles in your Garden, with the
-                    distance of the rankes, I have here expressed.</lem><rdg wit="#b1609"></rdg></app></p>
+                    </note>
+                    <app type="substantive" subtype="add">
+                        <lem wit="#b1623">and therefore it is to be wished that the Garden-fences
+                            did stand accordingly.</lem>
+                        <rdg wit="#b1609"/>
+                    </app></p>
+                <p xml:id="ch2par19"><app type="substantive" subtype="change">
+                        <lem wit="#b1623"><note type="authorial" subtype="summary"
+                                xml:id="ch2sumn16">16. How neere to each other.</note> They should
+                            stand in straight rankes or rewes from East to West, five foot one from
+                            another (measuring from doore to doore) and from North to South, six
+                            foot one before an other.</lem>
+                        <rdg wit="#b1609"><ptr target="1609.xml#ch2ancs11 1609.xml#ch2ance11"
+                            /></rdg>
+                    </app></p>
+                <p xml:id="ch2par20"><app type="substantive" subtype="change">
+                        <lem wit="#b1623"><note type="authorial" subtype="summary"
+                                xml:id="ch2sumn17">17. How neere to the fences.</note> Likewise let
+                            them stand as farre from three of the fences, as they doe one from an
+                            other. And for a plot of fiftie foot square, will receive seven rankes
+                            of nine stooles a peece, with the space of eight foot before them: which
+                            if it were bigger, were so much the better.</lem>
+                        <rdg wit="#b1609"><ptr target="1609.xml#ch1ancs12 1609.xml#ch1ance12"
+                            /></rdg>
+                    </app>
+                </p>
+                <p xml:id="ch2par21"><app type="substantive" subtype="change">
+                        <lem wit="#b1623">For want of roome or stooles, or wit, many doe set their
+                            stalls neerer together. But the greater distance is much better: not
+                            onely that you may have roome enough to goe round about every one, to
+                            see and mend what is amisse; but also that the Bees, when they come home
+                            in haste, specially when a swarme goeth backe againe, may be sure to
+                            flie into their own Hive. For if they stand neere together, at such time
+                            many will take the next Hive for their owne, and then they fall together
+                            by the eares; <ref target="#ch2bibln13">v.</ref>
+                            <note type="authorial" subtype="bibliographic" xml:id="ch2bibln13">
+                                <ref target="#ch5sumn79"> V.c.5.n.79.</ref>
+                            </note>and the Nymphs, when they go first abroad, wil by that occasion
+                            the sooner mistake: which if they doe, they dye. </lem>
+                        <rdg wit="#b1609"><ptr target="1609.xml#ch2ancs13 1609.xml#ch2ance13"
+                            /></rdg>
+                    </app></p>
+                <p xml:id="ch2par22"><app type="substantive" subtype="add">
+                        <lem wit="#b1623">The manner of placing the stooles in your Garden, with the
+                            distance of the rankes, I have here expressed.</lem>
+                        <rdg wit="#b1609"/>
+                    </app></p>
                 <fw type="catch"> IV.</fw>
                 <pb n="E2v"/>
-                <fw type="header"> <app type="substantive" subtype="add"><lem wit="#b1623">Of the Bee-Garden,</lem><rdg wit="#b1609"></rdg></app></fw>
-                <app type="substantive" subtype="add"><lem wit="#b1623"><figure>
-                    <figDesc>DIAGRAM</figDesc>
-                    <graphic url="#"/>
-                </figure></lem><rdg wit="#b1609"></rdg></app>
-                <p xml:id="ch2par23"><app type="substantive" subtype="add"><lem wit="#b1623"><note type="authorial" subtype="summary" xml:id="ch2sumn18">18.
-                        Annus climactericus.</note> This Climactericall number of nine times seven,
-                    is a competent or rather complete store for any one Garden, though large and
-                    alone: which being well ordered, will yeeld the Bee-master the better part of a
-                    liberall maintenance: if any be so happy to attaine unto it. So that I see no
-                    evill at all in this Number: although the sixtie three yeare of mans age being
-                    likewise called <term> Climactericall</term>, (because it ariseth of nine
-                    Septenaries, as so many Climacters or Ladder-rounds) be counted of some, and
-                    those no small fooles too, a parles and ominous time: more dangerous for death,
-                    then all the </lem><rdg wit="#b1609"></rdg></app><fw type="catch"> other</fw>
+                <fw type="header">
+                    <app type="substantive" subtype="add">
+                        <lem wit="#b1623">Of the Bee-Garden,</lem>
+                        <rdg wit="#b1609"/>
+                    </app></fw>
+                <app type="substantive" subtype="add">
+                    <lem wit="#b1623"><figure>
+                            <figDesc>DIAGRAM</figDesc>
+                            <graphic url="#"/>
+                        </figure></lem>
+                    <rdg wit="#b1609"/>
+                </app>
+                <p xml:id="ch2par23"><app type="substantive" subtype="add">
+                        <lem wit="#b1623"><note type="authorial" subtype="summary"
+                                xml:id="ch2sumn18">18. Annus climactericus.</note> This
+                            Climactericall number of nine times seven, is a competent or rather
+                            complete store for any one Garden, though large and alone: which being
+                            well ordered, will yeeld the Bee-master the better part of a liberall
+                            maintenance: if any be so happy to attaine unto it. So that I see no
+                            evill at all in this Number: although the sixtie three yeare of mans age
+                            being likewise called <term> Climactericall</term>, (because it ariseth
+                            of nine Septenaries, as so many Climacters or Ladder-rounds) be counted
+                            of some, and those no small fooles too, a parles and ominous time: more
+                            dangerous for death, then all the </lem>
+                        <rdg wit="#b1609"/>
+                    </app><fw type="catch"> other</fw>
                     <pb n="E3r"/>
-                    <app type="substantive" subtype="add"><lem wit="#b1623"><fw type="header"> and Seats for the Hives. </fw> other yeares of their life<ref
-                        target="#ch2glon1">*</ref>. For which conceipt if you see no reason; thinke
-                    it is grounded upon good observations: for this is certaine, that a ladder of
-                    nine rounds hath beene fatall unto many. </lem><rdg wit="#b1609"></rdg></app></p>
-                <app type="substantive" subtype="add"><lem wit="#b1623"><note type="authorial" subtype="gloss" place="inline" xml:id="ch2glon1">*<hi
-                        rend="opposite">Ptolomæus</hi> obliquè eos notat, qui climactericus annos
-                    faciunt ex numerorum sola observatione, ut enneadicos &amp; hebdomaticos. Unde
-                    multis molesta senibus superstitio super anno sexagesimo tertio, quoniam pejus
-                    angui tigrideque formidant: sed peccat in his vulgus errore veniali, qui
-                    Philosophi esse volunt, quis excusaverit?
-                    <bibl>Pic.Miran.Lib.6.c.19.</bibl></note></lem><rdg wit="#b1609"></rdg></app>
-                <p xml:id="ch2par24"><app type="substantive" subtype="add"><lem wit="#b1623"><note type="authorial" subtype="summary" xml:id="ch2sumn19">19.
-                        The Bees Register.</note> Answerable unto this climactericall squadron it is
-                    meet you have at hand a <term> Register</term>, containing the severall ages and
-                    yearely increases of all your stalls.Whereby you may be directed every yeare,
-                    which are to be taken and which to be kept for store: <ref target="#ch2bibln14">
-                        v:</ref>
-                    <note type="authorial" subtype="bibliographic" xml:id="ch2bibln14">
-                        <ref target="#ch10p1sumn3">V.c.10.p.I.n.3</ref>
-                    </note> which is the chiefe point of a thriving Bee-master. This Register may
-                    bee a <term>Synopsis</term> or Table drawne upon a sheet, or half sheet of
-                    Paper, divided into sixtie three squares, or as many as be needfull for the
-                    stalls in your Garden: having first the foure Coasts,
-                        <term>E.</term><term>S.</term><term>W.</term> and <term>N.</term> noted in
-                    the out-sides: secondly, the middle rew of squares from <term>S</term> to
-                        <term>N.</term> distinguished by Letters, the first square being marked
-                    above with D, the second with C, and the third with B, which are Southerne: The
-                    fourth (being the chiefe and middle-most, unto which all the squares in the
-                    Table have reference) with A, the fift with B, the sixth with C, the seventh
-                    with D, which last three are Northerne: and thirdly, the first rew of squares
-                    next the Letters on both the <term> E</term> and <term>W</term> side, noted in
-                    the top or South-part with one I, the second on both sides with II, the third
-                    with III, and the fourth with IV. </lem><rdg wit="#b1609"></rdg></app></p>
-                <p xml:id="ch2par25"><app type="substantive" subtype="add"><lem wit="#b1623">The Table thus drawne, when you have set a swarme upon any
-                    stoole in the garden, marke in what letters ranke it is, what number from the
-                    Letter, and whether Eastward or Westward: and in the square answering thereto
-                    begin his Register, setting downe first the two last figures of the yeare of the
-                    Lord, then for a prime swarme, a double circle, for a castling halfe a double
-                    circle, then the day of the moneth in which he was swarmed, writing M for May,
-                        <note type="editorial" subtype="other" cert="check"
-                        ana="Should we regularise the I to J silently in this case? -- Tiago"
-                        xml:id="check3">J for June, <hi rend="italic">J</hi> for July</note>. The
-                    next line begin with the next yeare: if he did </lem><rdg wit="#b1609"></rdg></app><fw type="catch"> swarme,</fw>
+                    <app type="substantive" subtype="add">
+                        <lem wit="#b1623"><fw type="header"> and Seats for the Hives. </fw> other
+                            yeares of their life<ref target="#ch2glon1">*</ref>. For which conceipt
+                            if you see no reason; thinke it is grounded upon good observations: for
+                            this is certaine, that a ladder of nine rounds hath beene fatall unto
+                            many. </lem>
+                        <rdg wit="#b1609"/>
+                    </app></p>
+                <app type="substantive" subtype="add">
+                    <lem wit="#b1623"><note type="authorial" subtype="gloss" place="inline"
+                            xml:id="ch2glon1">*<hi rend="opposite">Ptolomæus</hi> obliquè eos notat,
+                            qui climactericus annos faciunt ex numerorum sola observatione, ut
+                            enneadicos &amp; hebdomaticos. Unde multis molesta senibus superstitio
+                            super anno sexagesimo tertio, quoniam pejus angui tigrideque formidant:
+                            sed peccat in his vulgus errore veniali, qui Philosophi esse volunt,
+                            quis excusaverit? <bibl>Pic.Miran.Lib.6.c.19.</bibl></note></lem>
+                    <rdg wit="#b1609"/>
+                </app>
+                <p xml:id="ch2par24"><app type="substantive" subtype="add">
+                        <lem wit="#b1623"><note type="authorial" subtype="summary"
+                                xml:id="ch2sumn19">19. The Bees Register.</note> Answerable unto
+                            this climactericall squadron it is meet you have at hand a <term>
+                                Register</term>, containing the severall ages and yearely increases
+                            of all your stalls.Whereby you may be directed every yeare, which are to
+                            be taken and which to be kept for store: <ref target="#ch2bibln14">
+                                v:</ref>
+                            <note type="authorial" subtype="bibliographic" xml:id="ch2bibln14">
+                                <ref target="#ch10p1sumn3">V.c.10.p.I.n.3</ref>
+                            </note> which is the chiefe point of a thriving Bee-master. This
+                            Register may bee a <term>Synopsis</term> or Table drawne upon a sheet,
+                            or half sheet of Paper, divided into sixtie three squares, or as many as
+                            be needfull for the stalls in your Garden: having first the foure
+                            Coasts, <term>E.</term><term>S.</term><term>W.</term> and
+                                <term>N.</term> noted in the out-sides: secondly, the middle rew of
+                            squares from <term>S</term> to <term>N.</term> distinguished by Letters,
+                            the first square being marked above with D, the second with C, and the
+                            third with B, which are Southerne: The fourth (being the chiefe and
+                            middle-most, unto which all the squares in the Table have reference)
+                            with A, the fift with B, the sixth with C, the seventh with D, which
+                            last three are Northerne: and thirdly, the first rew of squares next the
+                            Letters on both the <term> E</term> and <term>W</term> side, noted in
+                            the top or South-part with one I, the second on both sides with II, the
+                            third with III, and the fourth with IV. </lem>
+                        <rdg wit="#b1609"/>
+                    </app></p>
+                <p xml:id="ch2par25"><app type="substantive" subtype="add">
+                        <lem wit="#b1623">The Table thus drawne, when you have set a swarme upon any
+                            stoole in the garden, marke in what letters ranke it is, what number
+                            from the Letter, and whether Eastward or Westward: and in the square
+                            answering thereto begin his Register, setting downe first the two last
+                            figures of the yeare of the Lord, then for a prime swarme, a double
+                            circle, for a castling halfe a double circle, then the day of the moneth
+                            in which he was swarmed, writing M for May, <note type="editorial"
+                                subtype="other" cert="check"
+                                ana="Should we regularise the I to J silently in this case? -- Tiago"
+                                xml:id="check3">J for June, <hi rend="italic">J</hi> for
+                            July</note>. The next line begin with the next yeare: if he did </lem>
+                        <rdg wit="#b1609"/>
+                    </app><fw type="catch"> swarme,</fw>
                     <pb n="E3v"/>
-                    <fw type="header"> Of the Bee-Garden. </fw> <app type="substantive" subtype="add"><lem wit="#b1623">swarme, set downe a crossed circle,
-                    and the day of the moneth: if he swarmed againe, set downe in the same line a
-                    halfe circle, with a down-right stroke, and the day of the moneth: if he did not
-                    swarme, but were full to the doore, set downe a circle with a full point in it:
-                    if he did also lye out, set downe a circle with a blotted circle in it: if hee
-                    did neither lie out nor were full, set downe a void circle. </lem><rdg wit="#b1609"></rdg></app></p>
-                <app type="substantive" subtype="add"><lem wit="#b1623"><figure>
-                    <figDesc>DIAGRAM</figDesc>
-                    <graphic url="#"/>
-                </figure> </lem><rdg wit="#b1609"></rdg></app>
-                <p xml:id="ch2par26"><app type="substantive" subtype="add"><lem wit="#b1623">And then doe likewise all the yeares that this stall endureth. </lem><rdg wit="#b1609"></rdg></app></p>
-                <p xml:id="ch2par27"><app type="substantive" subtype="add"><lem wit="#b1623">When the Table waxeth full; after the vindemie make a new:
-                    taking out of the old the Register of those that live. By this meanes you may
-                    certainly know the age, and yearely increases of any stall in your Garden: and
-                    so guesse whether he be fitter to kill or to keepe. <ref target="#ch10p1sumn3"
-                        >V.c.10.p.1.n.3.</ref></lem><rdg wit="#b1609"></rdg></app></p>
-                <p xml:id="ch2par28"><app type="vocabulary" subtype="change"><lem wit="#b1623"><note type="authorial" subtype="summary" xml:id="ch2sumn20"
-                    >20.The stooles height</note></lem><rdg wit="#b1609"><ptr target="1609.xml#ch2ancs14 1609.xml#ch2ance14"/></rdg></app> Also <app type="vocabulary" subtype="change"><lem wit="#b1623">the stooles</lem><rdg wit="#b1609"><ptr target="1609.xml#ch2ancs15 1609.xml#ch2ance15"/></rdg></app> should not stand above two
-                    foot from the ground, because of the wind: nor under one foot for the dampnesse
-                    of the ground in winter, which would make the Hives moist and mustie; and for
-                    the heat of the ground in Summer, which in hot and dry weather would make the
-                    Bees lye out, and so hinder both their worke and swarming, <ref
-                        target="#ch2bibln15">v.</ref>
+                    <fw type="header"> Of the Bee-Garden. </fw>
+                    <app type="substantive" subtype="add">
+                        <lem wit="#b1623">swarme, set downe a crossed circle, and the day of the
+                            moneth: if he swarmed againe, set downe in the same line a halfe circle,
+                            with a down-right stroke, and the day of the moneth: if he did not
+                            swarme, but were full to the doore, set downe a circle with a full point
+                            in it: if he did also lye out, set downe a circle with a blotted circle
+                            in it: if hee did neither lie out nor were full, set downe a void
+                            circle. </lem>
+                        <rdg wit="#b1609"/>
+                    </app></p>
+                <app type="substantive" subtype="add">
+                    <lem wit="#b1623"><figure>
+                            <figDesc>DIAGRAM</figDesc>
+                            <graphic url="#"/>
+                        </figure>
+                    </lem>
+                    <rdg wit="#b1609"/>
+                </app>
+                <p xml:id="ch2par26"><app type="substantive" subtype="add">
+                        <lem wit="#b1623">And then doe likewise all the yeares that this stall
+                            endureth. </lem>
+                        <rdg wit="#b1609"/>
+                    </app></p>
+                <p xml:id="ch2par27"><app type="substantive" subtype="add">
+                        <lem wit="#b1623">When the Table waxeth full; after the vindemie make a new:
+                            taking out of the old the Register of those that live. By this meanes
+                            you may certainly know the age, and yearely increases of any stall in
+                            your Garden: and so guesse whether he be fitter to kill or to keepe.
+                                <ref target="#ch10p1sumn3">V.c.10.p.1.n.3.</ref></lem>
+                        <rdg wit="#b1609"/>
+                    </app></p>
+                <p xml:id="ch2par28"><app type="vocabulary" subtype="change">
+                        <lem wit="#b1623"><note type="authorial" subtype="summary"
+                                xml:id="ch2sumn20">20.The stooles height</note></lem>
+                        <rdg wit="#b1609"><ptr target="1609.xml#ch2ancs14 1609.xml#ch2ance14"
+                            /></rdg>
+                    </app> Also <app type="vocabulary" subtype="change">
+                        <lem wit="#b1623">the stooles</lem>
+                        <rdg wit="#b1609"><ptr target="1609.xml#ch2ancs15 1609.xml#ch2ance15"
+                            /></rdg>
+                    </app> should not stand above two foot from the ground, because of the wind: nor
+                    under one foot for the dampnesse of the ground in winter, which would make the
+                    Hives moist and mustie; and for the heat of the ground in Summer, which in hot
+                    and dry weather would make the Bees lye out, and so hinder both their worke and
+                    swarming, <ref target="#ch2bibln15">v.</ref>
                     <note type="authorial" subtype="bibliographic" xml:id="ch2bibln15"><ref
                             target="#ch5sumn19"> V.c.5. n.19.</ref></note></p>
-                <p xml:id="ch2par29"><app type="substantive" subtype="change"><lem wit="#b1623">The best heighth is between eighteene and twentie inches. Yet
-                    if you have many, it is convenient that the more Northward rankes should stand
-                    higher, and the more South-ward lower, descending by degrees from two foot to
-                    one: as if there be two rewes of stooles, let the first stand two foot from
-                    ground, the next eighteene inches, &amp; the benches or swarme-stooles one foot
-                    or lesse. <ref target="#ch2bibln16">v.</ref>
-                    <note type="authorial" subtype="bibliographic" xml:id="ch2bibln16">
-                        <ref target="#ch2sumn12"> V.n. 12</ref></note>
-                   If there be three rankes beside the benches, let the second be twentie
-                   inches, and the third sixteene, &amp;c.</lem><rdg wit="#b1609"><ptr target="1609.xml#ch2ancs16 1609.xml#ch2ance16"/></rdg></app> </p>
-                <p xml:id="ch2par30"><app type="substantive" subtype="add"><lem wit="#b1623">This unequall heighth of rankes may as conveniently be
-                    effected, though the stooles be all equall, by the unequall levelling of the
-                    ground: which in a great Bee-fold is best. </lem><rdg wit="#b1609"></rdg></app></p>
+                <p xml:id="ch2par29"><app type="substantive" subtype="change">
+                        <lem wit="#b1623">The best heighth is between eighteene and twentie inches.
+                            Yet if you have many, it is convenient that the more Northward rankes
+                            should stand higher, and the more South-ward lower, descending by
+                            degrees from two foot to one: as if there be two rewes of stooles, let
+                            the first stand two foot from ground, the next eighteene inches, &amp;
+                            the benches or swarme-stooles one foot or lesse. <ref
+                                target="#ch2bibln16">v.</ref>
+                            <note type="authorial" subtype="bibliographic" xml:id="ch2bibln16">
+                                <ref target="#ch2sumn12"> V.n. 12</ref></note> If there be three
+                            rankes beside the benches, let the second be twentie inches, and the
+                            third sixteene, &amp;c.</lem>
+                        <rdg wit="#b1609"><ptr target="1609.xml#ch2ancs16 1609.xml#ch2ance16"
+                            /></rdg>
+                    </app>
+                </p>
+                <p xml:id="ch2par30"><app type="substantive" subtype="add">
+                        <lem wit="#b1623">This unequall heighth of rankes may as conveniently be
+                            effected, though the stooles be all equall, by the unequall levelling of
+                            the ground: which in a great Bee-fold is best. </lem>
+                        <rdg wit="#b1609"/>
+                    </app></p>
                 <p xml:id="ch2par31">
                     <note type="authorial" subtype="summary" xml:id="ch2sumn21">21. How to be
                         footed.</note> The stone-stooles must be footed as they may: the fashion of
@@ -3361,7 +3506,12 @@
                     <fw type="header"> Of the Hives, and the Dressing of them. </fw> or to be
                     fastned to one foot with two woodden pins: which foot let be made of sound
                     timber five or six inches over; and of that length, that it may be set betweene
-                    fifteene and eighteene inches in the ground.<app type="substantive" subtype="del"><lem wit="#b1623"></lem><rdg wit="#b1609"><ptr target="1609.xml#ch2ancs17 1609.xml#ch2ance17"/></rdg></app></p>
+                    fifteene and eighteene inches in the ground.<app type="substantive"
+                        subtype="del">
+                        <lem wit="#b1623"/>
+                        <rdg wit="#b1609"><ptr target="1609.xml#ch2ancs17 1609.xml#ch2ance17"
+                            /></rdg>
+                    </app></p>
             </div>
             <fw type="ornament"/>
             <div type="chapter" n="3" xml:id="ch3">
