@@ -884,10 +884,15 @@
                 <att>subtype</att>s (<val>change</val>, <val>del</val>, <val>add</val>) are
               explained in more detail below. <att>type</att> can take one of the following values:
                 <list type="gloss">
-                <label><val>substantive</val></label>
+                <label><val>major</val></label>
                 <item>A significant change between the versions beeing compared, usually comprised
                   of more than a few words, that significantly transforms the meaning of the
                   passage. Additions and deletions are almost always <val>substantive</val>.</item>
+                <label><val>minor</val></label>
+                <item>A small change between the versions beeing compared, usually comprised of no
+                  more than a few words, that does not significantly transform the meaning of the
+                  passage, but that cannot be classified with any of the more specific types
+                  (<val>ortographic</val>, <val>vocabulary</val>, <val>reference</val>).</item>
                 <label><val>ortographic</val></label>
                 <item>A change that only affects the spelling of existing words, either to correct a
                   spelling mistake in the earlier edition, or to update the text to a new spelling
@@ -897,6 +902,8 @@
                 <label><val>vocabulary</val></label>
                 <item>A small change that replaces one word for a synonym (or adds or deletes a
                   word) without significant impact to the meaning of the passage.</item>
+                <label><val>reference</val></label>
+                  <item>A small difference, deletion, or addition to a bibliographic or cross- reference.</item>
                 <label><val>other</val></label>
                 <item>Any other type of change not currently covered by this typology. If this
                   happens, remember to open an inssue in <ref
@@ -940,7 +947,7 @@
               bodie; </egXML>
             <label>1623.xml</label>
             <egXML xmlns="http://www.tei-c.org/ns/Examples"> The later part of which saying,
-              although the delicate Silk-worme have <app type="substantive" subtype="change">
+              although the delicate Silk-worme have <app type="major" subtype="change">
                 <lem wit="#b1623"> in some hoter Climates disproved; (for in the colder countries,
                   such as is our Iland of <placeName rend="italic">Britaine</placeName>, I doubt mee
                   shee will never quit cost: and therefore is here to be entertained only of them,
@@ -967,7 +974,7 @@
             <egXML xmlns="http://www.tei-c.org/ns/Examples">
               <p>...which foot let be made of sound timber five or six inches over; and of that
                 length, that it may be set betweene fifteene and eighteene inches in the ground.<app
-                  type="substantive" subtype="del">
+                  type="major" subtype="del">
                   <lem wit="#b1623"/>
                   <rdg wit="#b1606"><ptr target="1609.xml#ch2ancs1 1609.xml#ch2ance1"/></rdg>
                 </app></p>
@@ -991,7 +998,7 @@
             <label>1623</label>
             <egXML xmlns="http://www.tei-c.org/ns/Examples">
               <p>...or otherwise the sense doth plainely shew that it is spoken of the whole Moneth. </p>
-              <app type="substantive" subtype="add"><lem wit="#b1623"><p xml:id="frontpar7">When you
+              <app type="major" subtype="add"><lem wit="#b1623"><p xml:id="frontpar7">When you
                     have once, for your satisfaction, perused this Booke, you need not afterward
                     seeke farre for anything therein, whereof you doubt: the <ref target="#contents"
                       rend="italic">Index</ref> of the Chapters or Contents of the Booke; and of the
@@ -1131,10 +1138,16 @@
             <attList>
               <attDef ident="type" mode="change" usage="req">
                 <valList type="closed" mode="change">
-                  <valItem ident="substantive" mode="add">
+                  <valItem ident="major" mode="add">
                     <desc>A significant change between the versions beeing compared, usually
                       comprised of more than a few words, that significantly transforms the meaning
                       of the passage.</desc>
+                  </valItem>
+                  <valItem ident="minor" mode="add">
+                    <desc>A small change between the versions beeing compared, usually comprised of
+                      no more than a few words, that does not significantly transform the meaning of
+                      the passage, but that cannot be classified with any of the more specific types
+                      (ortographic, vocabulary, reference).</desc>
                   </valItem>
                   <valItem ident="ortographic" mode="add">
                     <desc> A change that only affects the spelling of existing words, either to
@@ -1144,6 +1157,9 @@
                   <valItem ident="vocabulary" mode="add">
                     <desc> A small change that replaces one word for a synonym (or adds or deletes a
                       word) without significant impact to the meaning of the passage. </desc>
+                  </valItem>
+                  <valItem ident="reference" mode="add">
+                    <desc> A small difference, deletion, or addition to a reference.</desc>
                   </valItem>
                   <valItem ident="other" mode="add">
                     <desc>Any other type of change not currently covered by this typology. If this
