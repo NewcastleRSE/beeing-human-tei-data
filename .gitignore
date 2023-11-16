@@ -4,3 +4,6 @@ __pycache__/
 
 # ignore preview consolidated file
 preview/preview_1623_consolidated.xml
+
+# ignore consolidated file
+1623_consolidated.xml
