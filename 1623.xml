@@ -3047,27 +3047,24 @@
             </div>
             <fw type="ornament"/>
             <div type="chapter" n="2" xml:id="ch2">
-                <head type="chapter-number"><app type="substantive" subtype="change">
-                        <lem wit="#b1623">CHAP. II</lem>
-                        <rdg wit="#b1609"><ptr target="1609.xml#ch2ancs1 1609.xml#ch2ance1"/></rdg>
-                    </app></head>
+                <head type="chapter-number">CHAP. II</head>
                 <head type="chapter-title" rend="italic"><app type="substantive" subtype="change">
                         <lem wit="#b1623">Of the Bee-Garden, and Seats<lb/>
                             <hi rend="opposite">for the Hives</hi>.</lem>
-                        <rdg wit="#b1609"><ptr target="1609.xml#ch2ancs2 1609.xml#ch2ance2"/></rdg>
+                        <rdg wit="#b1609"><ptr target="1609.xml#ch2ancs1 1609.xml#ch2ance1"/></rdg>
                     </app></head>
                 <p xml:id="ch2par1"><note type="authorial" subtype="summary" xml:id="ch2sumn1">1. Of
                         five things requisite in a Bee-garden, the first is that it be night at
                         hand.</note><hi rend="drop-capital">F</hi>Or your Bee-garden, first choose
                     some plot nigh your home, that the Bees may be in sight and hearing; because of
                     swarming, fighting, or other suddaine hap, wherein they may neede your present
-                    helpe. While the stalls are few, your Garden of Hearbs and Flowers will serve. <quote>
+                    helpe. While the stalls are few, your Garden of Hearbs and Flowers <app type="substantive" subtype="change"><lem wit="#b1623">will serve.</lem><rdg wit="#b1609"><ptr target="1609.xml#ch2ancs2 #ch2ance2"/></rdg></app> <quote>
                         <foreign xml:lang="la">Hortis coronamentisque, maxime alvearia &amp; apes
                             conveniunt, res præcipui quæstus compendijque cum favit.</foreign>
                         <note type="authorial" subtype="bibliographic" xml:id="ch2bibln1">
                             <bibl>Nat.hist.li.21.c.12.</bibl>
-                        </note></quote> But when they are growne to a sufficient number, they
-                    require a square greene plot fitted for the purpose. <ref target="#ch2sumn8"
+                        </note></quote> <app type="substantive" subtype="add"><lem wit="#b1623">But when they are growne to a sufficient number, they
+                            require a square greene plot fitted for the purpose.</lem><rdg wit="#b1609"></rdg></app> <ref target="#ch2sumn8"
                         >v.n.8</ref>.</p>
                 <p xml:id="ch2par2"><note type="authorial" subtype="summary" xml:id="ch2sumn2">2.
                         That it be safely fenced from cattell and winds.</note> 2. See it bee safe,
