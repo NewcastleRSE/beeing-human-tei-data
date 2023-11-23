@@ -3254,18 +3254,18 @@
                     in cold. </p>
                 <p xml:id="ch2par17"><note type="authorial" subtype="summary" xml:id="ch2sumn14">14.
                         The size of stooles.</note>
-                    <app type="substantive" subtype="change">
-                        <lem wit="#b1623">For their size, they should not be above halfe an inch or
+                   For their size, they should not be above halfe an inch or
                             an inch without the Hive: save onely before, where there needeth the
-                            space of three or foure inches, that the Bees may have roome enough to
+                            space of  <app type="substantive" subtype="change">
+                                <lem wit="#b1623">three or foure inches,</lem>
+                                <rdg wit="#b1609"><ptr target="1609.xml#ch2ancs9 1609.xml#ch2ance9"/></rdg>
+                            </app> that the Bees may have roome enough to
                             light upon: specially then, when the sight of a rainy cloud sendeth them
                             thronging home. Which fore-part from one side to the other, is to be cut
                             shelving that it may the better avoid the raine. And therfore if the
                             Hive be fifteene inches over, the stoole shoulde not be above sixteene
                             or seventeen inches one way, and nineteene or twentie at the most the
-                            other way.</lem>
-                        <rdg wit="#b1609"><ptr target="1609.xml#ch2ancs9 1609.xml#ch2ance9"/></rdg>
-                    </app>
+                            other way.
                 </p>
                 <p xml:id="ch2par18"><note type="authorial" subtype="summary" xml:id="ch2sumn15">15.
                         Which way the stooles should be set.</note> These stooles would be set
