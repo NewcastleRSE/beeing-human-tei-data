@@ -3316,7 +3316,10 @@
                         <lem wit="#b1623">For want of roome or stooles, or wit, many doe set their
                             stalls neerer together. But the greater distance is much better: not
                             onely that you may have roome enough to goe round about every one, to
-                            see and mend what is amisse; but also that the Bees, when they come home
+                            see and mend what is amisse; </lem>
+                    <rdg wit="#b1609"><ptr target="1609.xml#ch2ancs13 1609.xml#ch2ance13"
+                    /></rdg>
+                </app> but also that the Bees, when they come home
                             in haste, specially when a swarme goeth backe againe, may be sure to
                             flie into their own Hive. For if they stand neere together, at such time
                             many will take the next Hive for their owne, and then they fall together
@@ -3324,10 +3327,7 @@
                             <note type="authorial" subtype="bibliographic" xml:id="ch2bibln13">
                                 <ref target="#ch5sumn79"> V.c.5.n.79.</ref>
                             </note>and the Nymphs, when they go first abroad, wil by that occasion
-                            the sooner mistake: which if they doe, they dye. </lem>
-                        <rdg wit="#b1609"><ptr target="1609.xml#ch2ancs13 1609.xml#ch2ance13"
-                            /></rdg>
-                    </app></p>
+                            the sooner mistake: which if they doe, they dye. <app type="substantive" subtype="del"><lem wit="#b1623"></lem><rdg wit="#b1609"><ptr target="1609.xml#ch2ancs12x 1609.xml#ch2ance12x"/></rdg></app></p>
                 <p xml:id="ch2par22"><app type="substantive" subtype="add">
                         <lem wit="#b1623">The manner of placing the stooles in your Garden, with the
                             distance of the rankes, I have here expressed.</lem>
