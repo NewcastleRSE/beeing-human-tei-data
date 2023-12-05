@@ -1680,7 +1680,7 @@
         <body>
             <pb n="B1r"/>
             <fw type="ornament"/>
-            <head type="title"><app type="substantive" subtype="change">
+            <head type="title"><app type="major" subtype="change">
                     <lem wit="#b1623">THE FEMININE MONARCHIE, <lb/>OR <lb/>The Historie of
                         BEES.</lem>
                     <rdg wit="#b1609"><ptr target="1609.xml#ch1ancs1 1609.xml#ch1ance1"/></rdg>
@@ -1759,7 +1759,7 @@
                         type="authorial" subtype="bibliographic" xml:id="ch1bibln5">
                         <bibl>Arist.hist.anim.lib.9.cap.40.</bibl></note>
                     <note type="authorial" subtype="bibliographic" xml:id="ch1bibln6"
-                                ><bibl>Ambr.Hex.lib.5.ca.21.<app type="substantive" subtype="add">
+                                ><bibl>Ambr.Hex.lib.5.ca.21.<app type="reference" subtype="add">
                                 <lem wit="#b1623">&amp; Basil.Hexam.Homil.8.</lem>
                                 <rdg wit="#b1609"/>
                             </app></bibl></note>
@@ -1773,11 +1773,11 @@
                     Monarch, of whom above all things they have a principall care and respect,
                     loving, reverencing, and obeying her <ref target="#ch1bibln7">v:</ref> in all
                     things. <note type="authorial" subtype="bibliographic" xml:id="ch1bibln7"
-                                ><bibl><app type="substantive" subtype="add">
+                                ><bibl><app type="reference" subtype="add">
                                 <lem wit="#b1623">V. Præfat.</lem>
                                 <rdg wit="#b1609"/>
                             </app>Virg. Georg.</bibl>
-                        <ref target="#ch7sumn27"><app type="substantive" subtype="add">
+                        <ref target="#ch7sumn27"><app type="reference" subtype="add">
                                 <lem wit="#b1623">V.c.7.n.27.</lem>
                                 <rdg wit="#b1609"/>
                             </app></ref>&amp;<ref target="#ch7sumn42"><app type="substantive"
