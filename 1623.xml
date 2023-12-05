@@ -1780,7 +1780,7 @@
                         <ref target="#ch7sumn27"><app type="reference" subtype="add">
                                 <lem wit="#b1623">V.c.7.n.27.</lem>
                                 <rdg wit="#b1609"/>
-                            </app></ref>&amp;<ref target="#ch7sumn42"><app type="substantive"
+                            </app></ref>&amp;<ref target="#ch7sumn42"><app type="reference"
                                 subtype="add">
                                 <lem wit="#b1623">42.</lem>
                                 <rdg wit="#b1609"/>
@@ -1803,7 +1803,7 @@
                     </lg>
                 </quote>
                 <p xml:id="ch1par6">If she goe forth to solace her selfe, (as sometime she will)
-                    many of them attend <app type="substantive" subtype="del">
+                    many of them attend <app type="minor" subtype="del">
                         <lem wit="#b1623"/>
                         <rdg wit="#b1609">
                             <ptr target="1609.xml#ch1ancs4 1609.xml#ch1ance4"/>
@@ -1823,7 +1823,7 @@
                         subtype="bibliographic" xml:id="ch1bibln9"><ref target="#ch7sumn35">
                             Vid.c.7.n.35.</ref>
                     </note>
-                    <app type="substantive" subtype="change">
+                    <app type="minor" subtype="change">
                         <lem wit="#b1623">while she is well, they are cheerefull about their worke;
                             if she droope and dye, they will never after enjoy their home, but
                             either languish there till they bee dead too, or yeelding the Robbers,
@@ -1846,7 +1846,7 @@
                     </quote>
                 </p>
                 <p xml:id="ch1par7"><note type="authorial" subtype="summary" xml:id="ch1sumn7">7.
-                        Bees endure no government, but a Monarchie.</note><app type="substantive"
+                        Bees endure no government, but a Monarchie.</note><app type="minor"
                         subtype="change">
                         <lem wit="#b1623"> But if they have many Princes, as when two flye away with
                             one swarme, or when two swarmes are hived together; they will not be
@@ -1861,7 +1861,7 @@
                         <rdg wit="#b1609">
                             <ptr target="1609.xml#ch1ancs6 1609.xml#ch1ance6"/>
                         </rdg>
-                    </app><app type="substantive" subtype="add">
+                    </app><app type="major" subtype="add">
                         <lem wit="#b1623"><note type="authorial" subtype="summary" xml:id="ch1sumn8"
                                 >8. A memorable experiment.</note> Two swarmes being put together,
                             the Bees on both sides, as their manner is, made a murmuring noise, as
@@ -1885,7 +1885,7 @@
                         <rdg wit="#b1609"/>
                     </app>
                 </p>
-                <p xml:id="ch1par8"><app type="substantive" subtype="add">
+                <p xml:id="ch1par8"><app type="major" subtype="add">
                         <lem wit="#b1623">Somtime when one swarme is put to another, though they do
                             not fight, yet will they not agree of their choice in two or three
                             daies, keeping their Queenes close on both sides. But then all this
@@ -1913,12 +1913,12 @@
                     expresse patterne of <hi rend="smallCapitals titleCase">A PERFECT MONARCHIE, THE
                         MOST NATURAL AND ABSOLUTE FORME OF GOVERNMENT.</hi>
                     <note type="editorial" subtype="other" cert="check" xml:id="check1"><app
-                            type="substantive" subtype="add">
+                            type="minor" subtype="add">
                             <lem wit="#b1623">Greek script</lem>
                             <rdg wit="#b1609"/>
                         </app></note>
                     <note type="authorial" subtype="bibliographic" xml:id="ch1bibln14">
-                        <bibl><app type="substantive" subtype="add">
+                        <bibl><app type="reference" subtype="add">
                                 <lem wit="#b1623">Hom.II.a.9.</lem>
                                 <rdg wit="#b1609"/>
                             </app></bibl></note>
@@ -1926,7 +1926,7 @@
 
                 <p xml:id="ch1par10"><note type="authorial" subtype="summary" xml:id="ch1sumn9">9.
                         The description of the Queene-Bee.</note>
-                    <app type="substantive" subtype="change">
+                    <app type="minor" subtype="change">
                         <lem wit="#b1623"> The Queene is a faire and stately Bee, differing from the
                             vulgar both in shape and colour: hir backe is all over of a brighter
                             browne: hir belly even from the top of hir fangs, to the tip of hir
