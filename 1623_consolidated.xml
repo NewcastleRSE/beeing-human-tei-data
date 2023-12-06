@@ -1347,7 +1347,7 @@
         <body>
             <pb n="B1r" />
             <fw type="ornament" />
-            <head type="title"><app type="substantive" subtype="change">
+            <head type="title"><app type="major" subtype="change">
                     <lem wit="#b1623">THE FEMININE MONARCHIE, <lb />OR <lb />The Historie of
                         BEES.</lem>
                     <rdg wit="#b1609" source="1609.xml#ch1ancs1 1609.xml#ch1ance1"> A TREATISE CONCER-ning BEES, and the
@@ -1420,7 +1420,7 @@
                         alveos pugnant acerrim&#232;</foreign>. Their dwelling and dyet are common to all
                     alike: they have like common care both of their wealth and young ones. <note type="authorial" subtype="bibliographic" xml:id="ch1bibln5">
                         <bibl>Arist.hist.anim.lib.9.cap.40.</bibl></note>
-                    <note type="authorial" subtype="bibliographic" xml:id="ch1bibln6"><bibl>Ambr.Hex.lib.5.ca.21.<app type="substantive" subtype="add">
+                    <note type="authorial" subtype="bibliographic" xml:id="ch1bibln6"><bibl>Ambr.Hex.lib.5.ca.21.<app type="reference" subtype="add">
                                 <lem wit="#b1623">&amp; Basil.Hexam.Homil.8.</lem>
                                 <rdg wit="#b1609" />
                             </app></bibl></note>
@@ -1433,14 +1433,14 @@
                         loyall to their Soveraigne.</note> And all this under the government of one
                     Monarch, of whom above all things they have a principall care and respect,
                     loving, reverencing, and obeying her <ref target="#ch1bibln7">v:</ref> in all
-                    things. <note type="authorial" subtype="bibliographic" xml:id="ch1bibln7"><bibl><app type="substantive" subtype="add">
+                    things. <note type="authorial" subtype="bibliographic" xml:id="ch1bibln7"><bibl><app type="reference" subtype="add">
                                 <lem wit="#b1623">V. Pr&#230;fat.</lem>
                                 <rdg wit="#b1609" />
                             </app>Virg. Georg.</bibl>
-                        <ref target="#ch7sumn27"><app type="substantive" subtype="add">
+                        <ref target="#ch7sumn27"><app type="reference" subtype="add">
                                 <lem wit="#b1623">V.c.7.n.27.</lem>
                                 <rdg wit="#b1609" />
-                            </app></ref>&amp;<ref target="#ch7sumn42"><app type="substantive" subtype="add">
+                            </app></ref>&amp;<ref target="#ch7sumn42"><app type="reference" subtype="add">
                                 <lem wit="#b1623">42.</lem>
                                 <rdg wit="#b1609" />
                             </app></ref></note>
@@ -1462,7 +1462,7 @@
                     </lg>
                 </quote>
                 <p xml:id="ch1par6">If she goe forth to solace her selfe, (as sometime she will)
-                    many of them attend <app type="substantive" subtype="del">
+                    many of them attend <app type="minor" subtype="del">
                         <lem wit="#b1623" />
                         <rdg wit="#b1609" source="1609.xml#ch1ancs4 1609.xml#ch1ance4"> upon</rdg>
                     </app> her, guarding hir person before and behinde; they which come forth before
@@ -1478,7 +1478,7 @@
                     battaile they fight, <ref target="#ch1bibln9">v:</ref>, <note type="authorial" subtype="bibliographic" xml:id="ch1bibln9"><ref target="#ch7sumn35">
                             Vid.c.7.n.35.</ref>
                     </note>
-                    <app type="substantive" subtype="change">
+                    <app type="minor" subtype="change">
                         <lem wit="#b1623">while she is well, they are cheerefull about their worke;
                             if she droope and dye, they will never after enjoy their home, but
                             either languish there till they bee dead too, or yeelding the Robbers,
@@ -1500,7 +1500,7 @@
                     </quote>
                 </p>
                 <p xml:id="ch1par7"><note type="authorial" subtype="summary" xml:id="ch1sumn7">7.
-                        Bees endure no government, but a Monarchie.</note><app type="substantive" subtype="change">
+                        Bees endure no government, but a Monarchie.</note><app type="minor" subtype="change">
                         <lem wit="#b1623"> But if they have many Princes, as when two flye away with
                             one swarme, or when two swarmes are hived together; they will not be
                             quiet till one of them be cassiered: which somtime they bring downe that
@@ -1529,7 +1529,7 @@
                     expresse patterne of a perfect monarchie, the most natural &amp; absolute form
                     of government. and of their Queene.
                     </rdg>
-                    </app><app type="substantive" subtype="add">
+                    </app><app type="major" subtype="add">
                         <lem wit="#b1623"><note type="authorial" subtype="summary" xml:id="ch1sumn8">8. A memorable experiment.</note> Two swarmes being put together,
                             the Bees on both sides, as their manner is, made a murmuring noise, as
                             being discontented with the suddain congresse of Strangers: but knowing
@@ -1552,7 +1552,7 @@
                         <rdg wit="#b1609" />
                     </app>
                 </p>
-                <p xml:id="ch1par8"><app type="substantive" subtype="add">
+                <p xml:id="ch1par8"><app type="major" subtype="add">
                         <lem wit="#b1623">Somtime when one swarme is put to another, though they do
                             not fight, yet will they not agree of their choice in two or three
                             daies, keeping their Queenes close on both sides. But then all this
@@ -1575,12 +1575,12 @@
                     abhorre as well Polyarchie, as Anarchie, God having shewed in them unto men, an
                     expresse patterne of <hi rend="smallCapitals titleCase">A PERFECT MONARCHIE, THE
                         MOST NATURAL AND ABSOLUTE FORME OF GOVERNMENT.</hi>
-                    <note type="editorial" subtype="other" cert="check" xml:id="check1"><app type="substantive" subtype="add">
+                    <note type="editorial" subtype="other" cert="check" xml:id="check1"><app type="minor" subtype="add">
                             <lem wit="#b1623">Greek script</lem>
                             <rdg wit="#b1609" />
                         </app></note>
                     <note type="authorial" subtype="bibliographic" xml:id="ch1bibln14">
-                        <bibl><app type="substantive" subtype="add">
+                        <bibl><app type="reference" subtype="add">
                                 <lem wit="#b1623">Hom.II.a.9.</lem>
                                 <rdg wit="#b1609" />
                             </app></bibl></note>
@@ -1588,7 +1588,7 @@
 
                 <p xml:id="ch1par10"><note type="authorial" subtype="summary" xml:id="ch1sumn9">9.
                         The description of the Queene-Bee.</note>
-                    <app type="substantive" subtype="change">
+                    <app type="minor" subtype="change">
                         <lem wit="#b1623"> The Queene is a faire and stately Bee, differing from the
                             vulgar both in shape and colour: hir backe is all over of a brighter
                             browne: hir belly even from the top of hir fangs, to the tip of hir
@@ -1636,7 +1636,7 @@
                             fronte macula quodam diademate candicans: Multum etiam nitore a vulgo
                             differunt.</foreign>
                     </quote>
-                    <app type="substantive" subtype="add">
+                    <app type="minor" subtype="add">
                         <lem wit="#b1623">If you desire to see this stately Prince, read <ref target="#ch5sumn34">cap.5. n.34.</ref> The breeding of her you may
                             see <ref target="#ch4sumn18">c.4. n.18.</ref></lem>
                         <rdg wit="#b1609" />
@@ -1724,14 +1724,14 @@
                         Hir hornes.</note> Hir hornes growing in the middle of hir forehead, with
                     two joynts, one close to the head, the other towards the middle, so that she can
                     put them forth at full length when shee will, and drawe them in againe close to
-                    hir head; <app type="substantive" subtype="add">
+                    hir head; <app type="major" subtype="add">
                         <lem wit="#b1623">are the proper <term>organum</term> of the sense of
                             feeling; by which, with the least touch, the Bee sodainely senteth any
                             tangible object: and therefore they </lem>
                         <rdg wit="#b1609" />
                     </app>serve to give warning in the darke, and when she is busie, of any obvious
                     thing quicke or dead that might offend her. </p>
-                <p xml:id="ch1par16"><app type="substantive" subtype="add">
+                <p xml:id="ch1par16"><app type="major" subtype="add">
                         <lem wit="#b1623"><note type="authorial" subtype="summary" xml:id="ch1sumn15">15. Hir eyes.</note> Hir two cheekes being
                             transparent, like Lanthorne, doe serve, though immoveable, in stead of
                             Eyes: through which the species of things visible are conveied to the
@@ -1892,7 +1892,7 @@
                         <app type="vocabulary" subtype="add">
                         <lem wit="#b1623">of Salt and Vineger,</lem>
                         <rdg wit="#b1609" />
-                    </app> and divers other things. <app type="substantive" subtype="add">
+                    </app> and divers other things. <app type="major" subtype="add">
                         <lem wit="#b1623"><quote>
                                 <foreign xml:lang="la">Id malv&#230; peculiare est, ut imposita ictibus
                                     vesparum &amp; apum dolores levet.</foreign>
@@ -1909,7 +1909,7 @@
                         <rdg wit="#b1609" />
                     </app></p>
                 <p xml:id="ch1par27">
-                    <app type="substantive" subtype="add">
+                    <app type="major" subtype="add">
                         <lem wit="#b1623"><foreign xml:lang="la">Verum hoc mihi pr&#230; c&#230;teris probatur
                                 remedium. Ut primum se quis ictum senserit, aculeum adhuc epidermidi
                                 inh&#230;rentem cum ipsa ape instanter abstergat (nam si paulisper
@@ -1949,7 +1949,7 @@
                     <note type="authorial" subtype="summary" xml:id="ch1sumn36">36. The six
                         properties of a Bee-master.</note>thou must be (6) no Stranger unto them. In
                     a word, thou must be chaste, cleanly, sweet, sober, quiet, and familiar: so will
-                    they love thee, and know thee from all other. <app type="substantive" subtype="del">
+                    they love thee, and know thee from all other. <app type="minor" subtype="del">
                         <lem wit="#b1623" />
                         <rdg wit="#b1609" source="1609.xml#ch1ancs9 1609.xml#ch1ance9">Not wearing any offensive apparell,
                             v.n.27</rdg>
@@ -1967,7 +1967,7 @@
                             <lem wit="#b1623" />
                             <rdg wit="#b1609" source="1609.xml#ch1ancs11 1609.xml#ch1ance11">is in the morning</rdg>
                         </app>.</note> If you have any thing to doe about your hives, the fittest
-                    time is in the morning, <app type="substantive" subtype="change">
+                    time is in the morning, <app type="major" subtype="change">
                         <lem wit="#b1623">when the Bees are new gone abroad; and in the evening
                             before they be come in: for then the weather being coole, and the
                             company few at home, they are not so apt to be quarrelling, unlesse they
@@ -1979,7 +1979,7 @@
                     you stand in their way you trouble their lighting, and cause them to fall, &amp;
                     if you make them come forth when they are housed for al night, they can hardly
                     see to get in againe. v.</rdg>
-                    </app><app type="other" subtype="del">
+                    </app><app type="major" subtype="del">
                         <lem wit="#b1623" />
                         <rdg wit="#b1609" source="1609.xml#ch1ancs12x 1609.xml#ch1ance12x">
                         v.n.41</rdg>
@@ -1991,7 +1991,7 @@
                     angrie, and very eager. </p>
                 <p xml:id="ch1par32"><note type="authorial" subtype="summary" xml:id="ch1sumn40">40.
                         How to bee armed when the Bees are angrie</note>
-                    <app type="substantive" subtype="change">
+                    <app type="major" subtype="change">
                         <lem wit="#b1623">But whensoever you have occasion to trouble their
                             presence, or to come among them being troubled, it is better to stand
                             upon your guard, then to trust to their gentlenesse. For the safeguard
@@ -2042,14 +2042,14 @@
                 </p>
                 <p xml:id="ch1par34"><note type="authorial" subtype="summary" xml:id="ch1sumn42">42.
                         The Bees senses.</note>
-                    <app type="substantive" subtype="del">
+                    <app type="major" subtype="del">
                         <lem wit="#b1623" />
                         <rdg wit="#b1609" source="1609.xml#ch1ancs14 1609.xml#ch1ance14">Nat.hist.Ii.
                     Quamvis non sint membra qu&#230;, velunt carina, sensus invebant; esse tamen his
                         auditum, olfactum, gustatum, exima pr&#230;terc&#230;natura dona, solertiam
                      animum</rdg>
                     </app>
-                    <app type="substantive" subtype="del">
+                    <app type="major" subtype="del">
                         <lem wit="#b1623" />
                         <rdg wit="#b1609" source="1609.xml#ch1ancs14x 1609.xml#ch1ance14x">animum, artem quis facile crediderit.
                     41 their sight dim.
@@ -2067,7 +2067,7 @@
                             invehant; esse tamen his auditum, olfactum, gustatum, eximia pr&#230;terea
                             natur&#230; dona, solertiam, animum, artem quis facile crediderit. <note type="authorial" subtype="bibliographic" xml:id="ch1bibln38">
                                 <bibl>Nat.hist.l.11.c.4</bibl></note>
-                            <app type="substantive" subtype="add">
+                            <app type="major" subtype="add">
                                 <lem wit="#b1623">Creat Deus minima corpore acuta sensii animantia:
                                     ut majori attentione stupeamus agilitatem musc&#230; volantis, quam
                                     magnitudinem jumenti gradientis.<note type="authorial" subtype="bibliographic" xml:id="ch1bibln39">
@@ -2125,7 +2125,7 @@
                     </note> that are shut up in the cells, not medling with an of their own Sex. </p>
                 <p xml:id="ch1par37"><note type="authorial" subtype="summary" xml:id="ch1sumn45">45.
                         Hearing and feeling.</note> Their hearing and feeling are verie quicke. If
-                    you touch their Hive but lightly, <app type="substantive" subtype="add">
+                    you touch their Hive but lightly, <app type="minor" subtype="add">
                         <lem wit="#b1623">or the stoole, or the ground neere it;</lem>
                         <rdg wit="#b1609" />
                     </app> they presentlie perceiving it, make a generall noise: <note type="authorial" subtype="bibliographic" xml:id="ch1bibln43">
@@ -2134,7 +2134,7 @@
                     not. <quote>
                         <foreign xml:lang="la">Quanquam incertum est an audiant.</foreign>
                     </quote> But if they did not heare, to what purpose is that musicke made in the
-                    Hives, before the swarming? <ref target="#ch5sumn28">v.c.5.n28</ref>. <app type="substantive" subtype="add">
+                    Hives, before the swarming? <ref target="#ch5sumn28">v.c.5.n28</ref>. <app type="minor" subtype="add">
                         <lem wit="#b1623">and in the battaile, <ref target="#ch7sumn34">
                                 vid.c.7.n.34.</ref> or his tinging of swarmes to make them come
                             downe, <ref target="#ch5sumn37"> v: &#9755; in c.5.n.37.</ref></lem>
@@ -2150,12 +2150,12 @@
                         vertues.</note> And such are their outward senses. The inward <app type="vocabulary" subtype="change">
                         <lem wit="#b1623">qualities</lem>
                         <rdg wit="#b1609" source="1609.xml#ch1ancs15 1609.xml#ch1ance15">faculties</rdg>
-                    </app> of thier minds are farre more excellent. <app type="substantive" subtype="add">
+                    </app> of thier minds are farre more excellent. <app type="minor" subtype="add">
                         <lem wit="#b1623">The curious art and workmanship to be admired rather than
                             imitated of men, See <ref target="#ch6">cap.6</ref>.</lem>
                         <rdg wit="#b1609" />
                     </app></p>
-                <p xml:id="ch1par39"><app type="substantive" subtype="add">
+                <p xml:id="ch1par39"><app type="minor" subtype="add">
                         <lem wit="#b1623">Their singular vertues are no lesse admirable.</lem>
                         <rdg wit="#b1609" />
                     </app></p>
@@ -2410,7 +2410,7 @@
                             <fw type="catch"> Et </fw>
                             <pb n="D2v" />
                             <fw type="header"> Of the Nature and properties of Bees, </fw>
-                            <app type="substantive" subtype="add">
+                            <app type="minor" subtype="add">
                                 <lem wit="#b1623">Et certe apes semina non coeundo concipiunt. <hi rend="opposite">Item</hi>, Omnipotens creator apibus prolem
                                     sine concubitu dedit. <note xml:id="ch1bibln55x" type="authorial" subtype="bibliographic"><bibl>August.de
                                             Trinit.l.3. Idem de bono conjugali.</bibl></note></lem>
@@ -2460,7 +2460,7 @@
                         <foreign xml:lang="la">Amoliuntur omnia &#232; medio, null&#230;que inter opera
                             spurciti&#230; jacent</foreign>
                     </quote>; neither can they endure any unsavourinesse without nigh unto them. <quote>
-                        <foreign xml:lang="la">Odere f&#339;dos odores: <app type="substantive" subtype="add">
+                        <foreign xml:lang="la">Odere f&#339;dos odores: <app type="minor" subtype="add">
                                 <lem wit="#b1623">Nulla harum assidet in loco inquinato, aut eo qui
                                     mal&#232; oleat.<note type="authorial" subtype="bibliographic" xml:id="ch1bibln62">
                                         <bibl> Var.l.3.c.15.</bibl>
@@ -2514,14 +2514,14 @@
                         <lem wit="#b1623"><ref target="#ch1glon4">*</ref></lem>
                         <rdg wit="#b1609" />
                     </app>a yeares Bird, with some advantage.</p>
-                <app type="substantive" subtype="add">
+                <app type="minor" subtype="add">
                     <lem wit="#b1623"><note type="authorial" subtype="gloss" xml:id="ch1glon4" place="inline">*Which is a long life in comparison of the Silk-wormes,
                             which live but foure moneths; or of the Waspes, which live but five: or
                             of the Drones, which but six.</note></lem>
                     <rdg wit="#b1609" />
                 </app>
                 <p xml:id="ch1par57">
-                    <app type="substantive" subtype="add">
+                    <app type="minor" subtype="add">
                         <lem wit="#b1623"><note type="authorial" subtype="summary" xml:id="ch1sumn56">56. The difference betweene the young Bees and
                                 old.</note></lem>
                         <rdg wit="#b1609" />
@@ -2606,7 +2606,7 @@
                             <item>Chillie </item>
                         </list> as a Bee. </hi>
                 </p>
-                <p xml:id="ch1par62"><app type="substantive" subtype="add">
+                <p xml:id="ch1par62"><app type="minor" subtype="add">
                         <lem wit="#b1623">
                             <note type="authorial" subtype="summary" xml:id="ch1sumn63">63.Bees
                                 achiefe exemplar of the divine power and wisedome.</note>
@@ -2617,7 +2617,7 @@
                             wisedome of the Creator? </lem>
                         <rdg wit="#b1609" />
                     </app></p>
-                <app type="substantive" subtype="add">
+                <app type="major" subtype="add">
                     <lem wit="#b1623">
                         <lg rend="italic">
                             <l>For, if old times admire <hi rend="opposite">Calirates</hi></l>
@@ -2643,7 +2643,7 @@
             <fw type="ornament" />
             <div type="chapter" n="2" xml:id="ch2">
                 <head type="chapter-number">CHAP. II</head>
-                <head type="chapter-title" rend="italic"><app type="substantive" subtype="change">
+                <head type="chapter-title" rend="italic"><app type="minor" subtype="change">
                         <lem wit="#b1623">Of the Bee-Garden, and Seats<lb />
                             <hi rend="opposite">for the Hives</hi>.</lem>
                         <rdg wit="#b1609" source="1609.xml#ch2ancs1 1609.xml#ch2ance1">Of the placing of your
@@ -2654,10 +2654,10 @@
                         hand.</note><hi rend="drop-capital">F</hi>Or your Bee-garden, first choose
                     some plot nigh your home, that the Bees may be in sight and hearing; because of
                     swarming, fighting, or other suddaine hap, wherein they may neede your present
-                    helpe. <app type="substantive" subtype="add">
+                    helpe. <app type="minor" subtype="add">
                         <lem wit="#b1623">While the stalls are few,</lem>
                         <rdg wit="#b1609" />
-                    </app> your Garden of Hearbs and Flowers <app type="substantive" subtype="change">
+                    </app> your Garden of Hearbs and Flowers <app type="minor" subtype="change">
                         <lem wit="#b1623">will serve.</lem>
                         <rdg wit="#b1609" source="1609.xml#ch2ancs2 #ch2ance2">is fit for the
                         purpose.</rdg>
@@ -2668,7 +2668,7 @@
                         <note type="authorial" subtype="bibliographic" xml:id="ch2bibln1">
                             <bibl>Nat.hist.li.21.c.12.</bibl>
                         </note></quote>
-                    <app type="substantive" subtype="add">
+                    <app type="minor" subtype="add">
                         <lem wit="#b1623">But when they are growne to a sufficient number, they
                             require a square greene plot fitted for the purpose.</lem>
                         <rdg wit="#b1609" />
@@ -2692,7 +2692,7 @@
                     <pb n="D4v" />
                     <fw type="header"> Of the Bee-Garden, </fw> and kill many) may bee altogether
                     kept from them. And therefore, if it may be, set your Bees on the South side of
-                    your house.<app type="substantive" subtype="del">
+                    your house.<app type="major" subtype="del">
                         <lem wit="#b1623" />
                         <rdg wit="#b1609" source="1609.xml#ch2ancs3 1609.xml#ch2ance3">which will not onlie defend them from that
                     unholesome winde, but also by reflection double the heate of the sun shining on
@@ -2729,7 +2729,7 @@
                     hurdles, or some other skreene betweene them and the weather. For though they
                     can shift abroad in the strongest winds, as a ship that has sea-roome; yet are
                     they easily overthrowne at the Hive, as a shippe is soone wrecked at the Haven. </p>
-                <p xml:id="ch2par9"><app type="substantive" subtype="add">
+                <p xml:id="ch2par9"><app type="minor" subtype="add">
                         <lem wit="#b1623">A house or wall is fittest for the North fence: and a
                             Quicke-set-hedge for any of the other three: it may serve also for the
                             first, specially if it be thicke.</lem>
@@ -2791,14 +2791,14 @@
                     <note type="authorial" subtype="bibliographic" xml:id="ch2bibln9">
                         <ref target="#ch7sumn3"> v.c.7.n.3.</ref>
                     </note> and hinder both their passage in and out, and their rising againe when
-                    they fall short: and water if it stand, <app type="substantive" subtype="change">
+                    they fall short: and water if it stand, <app type="minor" subtype="change">
                         <lem wit="#b1623">as it will be offensive to your selfe, so is it dangerous
                             to your Bees for chilling and drowning them.</lem>
                         <rdg wit="#b1609" source="1609.xml#ch2ancs5 1609.xml#ch2ance5">not only maketh the place drie and fowle, but also
                     causeth mustines within, and increaseth the colde without: both which are
                     noisome to the Bees. </rdg>
                     </app>
-                    <app type="substantive" subtype="add">
+                    <app type="major" subtype="add">
                         <lem wit="#b1623">And as the parts about the hives are to be kept notte
                             &amp; bare; so are other places also, where the swarmes doe use to play
                             and pitch, whether within or without the Garden, to bee freed likewise
@@ -2818,7 +2818,7 @@
                     Apple-trees, Filberds, Hazels, Thornes,<app type="vocabulary" subtype="del">
                         <lem wit="#b1623" />
                         <rdg wit="#b1609" source="1609.xml#ch2ancs6 1609.xml#ch2ance6">roses,</rdg>
-                    </app> &amp;c. <app type="substantive" subtype="add">
+                    </app> &amp;c. <app type="major" subtype="add">
                         <lem wit="#b1623">Which they will the more delight to light upon, if,
                             convenient boughes hanging out alone from the bodies, the twigs below
                             standing in their way be pruned, and the weeds and grasse underneath be
@@ -2856,7 +2856,7 @@
                         <lem wit="#b1623">about</lem>
                         <rdg wit="#b1609" source="1609.xml#ch2ancs8 1609.xml#ch2ance8">before</rdg>
                     </app> the old stalls: from whence remove them to the stooles, when the stalls
-                    are taken: and then set up the benches till an other yeare. <app type="substantive" subtype="add">
+                    are taken: and then set up the benches till an other yeare. <app type="major" subtype="add">
                         <lem wit="#b1623">Yet I preferre single stooles set two foot apart, though
                             they bee laid flat on the ground: but it is better to reare then with
                             foure legges, though little and short. If they be twelve or thirteene
@@ -2871,11 +2871,11 @@
                 <p xml:id="ch2par17"><note type="authorial" subtype="summary" xml:id="ch2sumn14">14.
                         The size of stooles.</note> For their size, they should not be above halfe
                     an inch or an inch without the Hive: save onely before, where there needeth the
-                    space of <app type="substantive" subtype="change">
+                    space of <app type="minor" subtype="change">
                         <lem wit="#b1623">three or foure inches,</lem>
                         <rdg wit="#b1609" source="1609.xml#ch2ancs9 1609.xml#ch2ance9">Ffive or 6. inches,</rdg>
                     </app> that the Bees may have roome enough to light upon: specially then, when
-                    the sight of a rainy cloud sendeth them thronging home. <app type="substantive" subtype="change">
+                    the sight of a rainy cloud sendeth them thronging home. <app type="major" subtype="change">
                         <lem wit="#b1623">Which fore-part from one side to the other, is to be cut
                             shelving that it may the better avoid the raine. And therfore if the
                             Hive be fifteene inches over, the stoole shoulde not be above sixteene
@@ -2909,17 +2909,17 @@
                     <note type="authorial" subtype="bibliographic" xml:id="ch2bibln12">
                         <ref target="#ch2sumn4">V.not.4.</ref>
                     </note>
-                    <app type="substantive" subtype="add">
+                    <app type="minor" subtype="add">
                         <lem wit="#b1623">and therefore it is to be wished that the Garden-fences
                             did stand accordingly.</lem>
                         <rdg wit="#b1609" />
                     </app></p>
-                <p xml:id="ch2par19"><note type="authorial" subtype="summary" xml:id="ch2sumn16"><app type="substantive" subtype="change">
+                <p xml:id="ch2par19"><note type="authorial" subtype="summary" xml:id="ch2sumn16"><app type="minor" subtype="change">
                             <lem wit="#b1623">16. How neere to each other.</lem>
                             <rdg wit="#b1609" source="1609.xml#ch2ancsX1 1609.xml#ch2anceX1">16 How neere to the fence
                         </rdg>
                         </app></note>
-                    <app type="substantive" subtype="change">
+                    <app type="minor" subtype="change">
                         <lem wit="#b1623">They should stand in straight rankes or rewes from East to
                             West, five foot one from another (measuring from doore to doore) and
                             from North to South, six foot one before an other.</lem>
@@ -2929,10 +2929,10 @@
                     without the evesdropping, lest the raine rebounding from the gutter moisten the
                         hives.</rdg>
                     </app></p>
-                <p xml:id="ch2par20"><note type="authorial" subtype="summary" xml:id="ch2sumn17"><app type="substantive" subtype="change">
+                <p xml:id="ch2par20"><note type="authorial" subtype="summary" xml:id="ch2sumn17"><app type="minor" subtype="change">
                             <lem wit="#b1623">17. How neere to the fences.</lem>
                             <rdg wit="#b1609" source="1609.xml#ch2ancsX2 1609.xml#ch2anceX2">17 How neere to each other.</rdg>
-                        </app></note><app type="substantive" subtype="change">
+                        </app></note><app type="major" subtype="change">
                         <lem wit="#b1623">Likewise let them stand as farre from three of the fences,
                             as they doe one from an other. And for a plot of fiftie foot square,
                             will receive seven rankes of nine stooles a peece, with the space of
@@ -2946,7 +2946,7 @@
                     see to get in againe. v.</rdg>
                     </app>
                 </p>
-                <p xml:id="ch2par21"><app type="substantive" subtype="change">
+                <p xml:id="ch2par21"><app type="major" subtype="change">
                         <lem wit="#b1623">For want of roome or stooles, or wit, many doe set their
                             stalls neerer together. But the greater distance is much better: not
                             onely that you may have roome enough to goe round about every one, to
@@ -2962,7 +2962,7 @@
                         <ref target="#ch5sumn79"> V.c.5.n.79.</ref>
                     </note>and the Nymphs, when they go first abroad, wil by that occasion the
                     sooner mistake: which if they doe, they dye.</p>
-                <p xml:id="ch2par22"><app type="substantive" subtype="add">
+                <p xml:id="ch2par22"><app type="major" subtype="add">
                         <lem wit="#b1623">The manner of placing the stooles in your Garden, with the
                             distance of the rankes, I have here expressed.</lem>
                         <rdg wit="#b1609" />
@@ -2970,18 +2970,18 @@
                 <fw type="catch"> IV.</fw>
                 <pb n="E2v" />
                 <fw type="header">
-                    <app type="substantive" subtype="add">
+                    <app type="major" subtype="add">
                         <lem wit="#b1623">Of the Bee-Garden,</lem>
                         <rdg wit="#b1609" />
                     </app></fw>
-                <app type="substantive" subtype="add">
+                <app type="major" subtype="add">
                     <lem wit="#b1623"><figure>
                             <figDesc>DIAGRAM</figDesc>
                             <graphic url="#" />
                         </figure></lem>
                     <rdg wit="#b1609" />
                 </app>
-                <p xml:id="ch2par23"><app type="substantive" subtype="add">
+                <p xml:id="ch2par23"><app type="major" subtype="add">
                         <lem wit="#b1623"><note type="authorial" subtype="summary" xml:id="ch2sumn18">18. Annus climactericus.</note> This
                             Climactericall number of nine times seven, is a competent or rather
                             complete store for any one Garden, though large and alone: which being
@@ -2995,7 +2995,7 @@
                         <rdg wit="#b1609" />
                     </app><fw type="catch"> other</fw>
                     <pb n="E3r" />
-                    <app type="substantive" subtype="add">
+                    <app type="major" subtype="add">
                         <lem wit="#b1623"><fw type="header"> and Seats for the Hives. </fw> other
                             yeares of their life<ref target="#ch2glon1">*</ref>. For which conceipt
                             if you see no reason; thinke it is grounded upon good observations: for
@@ -3003,7 +3003,7 @@
                             many. </lem>
                         <rdg wit="#b1609" />
                     </app></p>
-                <app type="substantive" subtype="add">
+                <app type="major" subtype="add">
                     <lem wit="#b1623"><note type="authorial" subtype="gloss" place="inline" xml:id="ch2glon1">*<hi rend="opposite">Ptolom&#230;us</hi> obliqu&#232; eos notat,
                             qui climactericus annos faciunt ex numerorum sola observatione, ut
                             enneadicos &amp; hebdomaticos. Unde multis molesta senibus superstitio
@@ -3012,7 +3012,7 @@
                             quis excusaverit? <bibl>Pic.Miran.Lib.6.c.19.</bibl></note></lem>
                     <rdg wit="#b1609" />
                 </app>
-                <p xml:id="ch2par24"><app type="substantive" subtype="add">
+                <p xml:id="ch2par24"><app type="major" subtype="add">
                         <lem wit="#b1623"><note type="authorial" subtype="summary" xml:id="ch2sumn19">19. The Bees Register.</note> Answerable unto
                             this climactericall squadron it is meet you have at hand a <term>
                                 Register</term>, containing the severall ages and yearely increases
@@ -3038,7 +3038,7 @@
                             third with III, and the fourth with IV. </lem>
                         <rdg wit="#b1609" />
                     </app></p>
-                <p xml:id="ch2par25"><app type="substantive" subtype="add">
+                <p xml:id="ch2par25"><app type="major" subtype="add">
                         <lem wit="#b1623">The Table thus drawne, when you have set a swarme upon any
                             stoole in the garden, marke in what letters ranke it is, what number
                             from the Letter, and whether Eastward or Westward: and in the square
@@ -3051,7 +3051,7 @@
                     </app><fw type="catch"> swarme,</fw>
                     <pb n="E3v" />
                     <fw type="header"> Of the Bee-Garden. </fw>
-                    <app type="substantive" subtype="add">
+                    <app type="major" subtype="add">
                         <lem wit="#b1623">swarme, set downe a crossed circle, and the day of the
                             moneth: if he swarmed againe, set downe in the same line a halfe circle,
                             with a down-right stroke, and the day of the moneth: if he did not
@@ -3061,7 +3061,7 @@
                             circle. </lem>
                         <rdg wit="#b1609" />
                     </app></p>
-                <app type="substantive" subtype="add">
+                <app type="major" subtype="add">
                     <lem wit="#b1623"><figure>
                             <figDesc>DIAGRAM</figDesc>
                             <graphic url="#" />
@@ -3069,12 +3069,12 @@
                     </lem>
                     <rdg wit="#b1609" />
                 </app>
-                <p xml:id="ch2par26"><app type="substantive" subtype="add">
+                <p xml:id="ch2par26"><app type="major" subtype="add">
                         <lem wit="#b1623">And then doe likewise all the yeares that this stall
                             endureth. </lem>
                         <rdg wit="#b1609" />
                     </app></p>
-                <p xml:id="ch2par27"><app type="substantive" subtype="add">
+                <p xml:id="ch2par27"><app type="major" subtype="add">
                         <lem wit="#b1623">When the Table waxeth full; after the vindemie make a new:
                             taking out of the old the Register of those that live. By this meanes
                             you may certainly know the age, and yearely increases of any stall in
@@ -3094,7 +3094,7 @@
                     and dry weather would make the Bees lye out, and so hinder both their worke and
                     swarming, <ref target="#ch2bibln15">v.</ref>
                     <note type="authorial" subtype="bibliographic" xml:id="ch2bibln15"><ref target="#ch5sumn19"> V.c.5. n.19.</ref></note></p>
-                <p xml:id="ch2par29"><app type="substantive" subtype="change">
+                <p xml:id="ch2par29"><app type="major" subtype="change">
                         <lem wit="#b1623">The best heighth is between eighteene and twentie inches.
                             Yet if you have many, it is convenient that the more Northward rankes
                             should stand higher, and the more South-ward lower, descending by
@@ -3114,7 +3114,7 @@
                     and the third sixteene.</rdg>
                     </app>
                 </p>
-                <p xml:id="ch2par30"><app type="substantive" subtype="add">
+                <p xml:id="ch2par30"><app type="major" subtype="add">
                         <lem wit="#b1623">This unequall heighth of rankes may as conveniently be
                             effected, though the stooles be all equall, by the unequall levelling of
                             the ground: which in a great Bee-fold is best. </lem>
@@ -3130,7 +3130,7 @@
                     <fw type="header"> Of the Hives, and the Dressing of them. </fw> or to be
                     fastned to one foot with two woodden pins: which foot let be made of sound
                     timber five or six inches over; and of that length, that it may be set betweene
-                    fifteene and eighteene inches in the ground.<app type="substantive" subtype="del">
+                    fifteene and eighteene inches in the ground.<app type="minor" subtype="del">
                         <lem wit="#b1623" />
                         <rdg wit="#b1609" source="1609.xml#ch2ancs17 1609.xml#ch2ance17"> The
                     fower feet are fittest for the higher stooles, and the single foote for the
