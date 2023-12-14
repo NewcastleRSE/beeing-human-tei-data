@@ -3606,19 +3606,19 @@
                 <pb n="F1r"/>
                 <fw type="header"> and the Dressing of them. </fw>
                 <p xml:id="ch3par9"><note type="authorial" subtype="summary" xml:id="ch3sumn6">6.
-                        The size of Hives.</note> Hives are to be made of any size betweene a
+                        The size of Hives.</note> <app type="minor" subtype="change"><lem wit="#b1623">Hives are to be made of any size betweene a
                     bushell and halfe a bushell: that any swarme, of what quantity or time soever,
                     may be fitly hived, <ref target="#ch3bibln2">v</ref>: <note type="authorial"
                         subtype="bibliographic" xml:id="ch3bibln2">
                         <ref target="#ch5sumn43">V.c.5.n.43.</ref>
                     </note> Lesse then halfe a bushell will not containe a competent stall; and more
                     then a bushell is found too bigge for any company to continue, and thrive
-                    together. </p>
-                <p xml:id="ch3par10">The midling size of three pecks, or within a pottle, under or
+                    together. </lem><rdg wit="#b1609"><ptr target="1609.xml#ch3ancs2 1609.xml#ch3ance2"/></rdg></app></p>
+                <p xml:id="ch3par10"><app type="minor" subtype="add"><lem wit="#b1623">The midling size of three pecks, or within a pottle, under or
                     over, as fitly conteining the naturall quantity of a good stall, is most
-                    profitable. </p>
-                <p xml:id="ch3par11">Have alwaies Hives enough of all sorts (but most of the midling
-                    size) in store, lest they be to seeke when you should use them.</p>
+                    profitable. </lem><rdg wit="#b1609"></rdg></app></p>
+                <p xml:id="ch3par11">Have alwaies Hives enough of all sorts <app type="minor" subtype="add"><lem wit="#b1623">(but most of the midling
+                    size) in store, lest they be to seeke when you should use them.</lem><rdg wit="#b1609"></rdg></app></p>
                 <p xml:id="ch3par12"><note type="authorial" subtype="summary" xml:id="ch3sumn7">7.
                         When Hives are to be made and provided.</note> The best time for making
                     them, whether they be Strawne or Wicker, is in the three still moneths of
