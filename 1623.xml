@@ -3620,18 +3620,18 @@
                 <p xml:id="ch3par11">Have alwaies Hives enough of all sorts <app type="minor" subtype="add"><lem wit="#b1623">(but most of the midling
                     size) in store, lest they be to seeke when you should use them.</lem><rdg wit="#b1609"></rdg></app></p>
                 <p xml:id="ch3par12"><note type="authorial" subtype="summary" xml:id="ch3sumn7">7.
-                        When Hives are to be made and provided.</note> The best time for making
-                    them, whether they be Strawne or Wicker, is in the three still moneths of
+                    When Hives are to be made <app type="vocabulary" subtype="add"><lem wit="#b1623">and provided.</lem><rdg wit="#b1609"></rdg></app></note> The best time for making
+                    them, whether they be Strawne or Wicker, is in the three <app type="vocabulary" subtype="change"><lem wit="#b1623">still</lem><rdg wit="#b1609"><ptr target="1609.xml#ch3ancs3 1609.xml#ch3ance3"/></rdg></app> moneths of
                     Winter, <term>Saggittar.</term>
                     <term> Capr.</term> and <term>Aquar.</term>
                     <ref target="#ch3bibln3">v:</ref>
                     <note type="authorial" subtype="bibliographic" xml:id="ch3bibln3">
                         <ref target="#ch3sumn54">V.n. 54.</ref>
-                    </note> for then the <ref target="#ch3glon1">*</ref>straw, briers, and twigs are
-                    best in season: and then it is best to provide them, because then they are best
-                    cheape.</p>
-                <note type="authorial" subtype="gloss" place="inline" xml:id="ch3glon1">*The best
-                    straw is most yellow without blacke spots, which is strong and tough. </note>
+                    </note> for then the <ref target="#ch3glon1"><app type="reference" subtype="add"><lem wit="#b1623">*</lem><rdg wit="#b1609"></rdg></app></ref>straw, briers, and twigs are
+                    best in season<app type="minor" subtype="add"><lem wit="#b1623">: and then it is best to provide them, because then they are best
+                        cheape.</lem><rdg wit="#b1609"></rdg></app></p>
+                <note type="authorial" subtype="gloss" place="inline" xml:id="ch3glon1"><app type="minor" subtype="add"><lem wit="#b1623">*The best
+                    straw is most yellow without blacke spots, which is strong and tough. </lem><rdg wit="#b1609"></rdg></app></note>
                 <p xml:id="ch3par13"><note type="authorial" subtype="summary" xml:id="ch3sumn8">8.
                         How Hives are to be fed before they receive the swarmes.</note> Your Hive
                     being ready is thus to be dressed. First, take away all those staring strawes,
