@@ -3580,7 +3580,7 @@
                 <fw type="catch"> The</fw>
                 <pb n="E4v"/>
                 <fw type="header"> Of the Hives, and the Dressing of them. </fw>
-                <p xml:id="ch3par6"><note type="authorial" subtype="summary" xml:id="ch3sumn5">5.
+                <p xml:id="ch3par6"><app type="major" subtype="add"><lem wit="#b1623"><note type="authorial" subtype="summary" xml:id="ch3sumn5">5.
                         The fashion of Hives.</note>The Bees do best defend themselves from cold,
                     when they hang round together in manner of a Sphære or Globe (which the
                     Philosophers account the most perfect figure) and therefore the neerer the Hive
@@ -3592,16 +3592,16 @@
                     necessary. Otherwise let your Hives vary no more from this round figure, then
                     needs must: as where it is within from the top to the skirts seventeene inches,
                     in the middle or widest place through the center fifteene inches, and at the
-                    skirts thirteene, after this forme. </p>
-                <figure>
+                    skirts thirteene, after this forme. </lem><rdg wit="#b1609"></rdg></app></p>
+                <app type="major" subtype="add"><lem wit="#b1623"><figure>
                     <graphic url="#"/>
                     <figDesc>DIAGRAM</figDesc>
-                </figure>
-                <p xml:id="ch3par7">This forme with his dimensions wil conteine three pecks: and the
-                    abating of one inch in each dimension, abateth a gawne in the content. </p>
-                <p xml:id="ch3par8">The best that I have seene are wrought by <persName>Thomas
+                </figure></lem><rdg wit="#b1609"></rdg></app>
+                <p xml:id="ch3par7"><app type="major" subtype="add"><lem wit="#b1623">This forme with his dimensions wil conteine three pecks: and the
+                    abating of one inch in each dimension, abateth a gawne in the content. </lem><rdg wit="#b1609"></rdg></app></p>
+                <p xml:id="ch3par8"><app type="major" subtype="add"><lem wit="#b1623">The best that I have seene are wrought by <persName>Thomas
                         May</persName> of <placeName> Sunning,</placeName> about one mile from
-                        <placeName>Redding.</placeName></p>
+                    <placeName>Redding.</placeName></lem><rdg wit="#b1609"></rdg></app></p>
                 <fw type="catch"> Hives</fw>
                 <pb n="F1r"/>
                 <fw type="header"> and the Dressing of them. </fw>
