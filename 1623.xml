@@ -3718,7 +3718,7 @@
                 <p xml:id="ch3par21"><note type="authorial" subtype="summary" xml:id="ch3sumn14">14.
                         How Hives are to be ordered when the Bees are in them.</note> And thus are
                     the Hives to be prepared and Dressed, before they receive the Bees. Now will I
-                    shew you how they are afterward to be fitted and furnished.</p>
+                    shew you how they are afterward to be <app type="minor" subtype="change"><lem wit="#b1623">fitted and furnished.</lem><rdg wit="#b1609"><ptr target="1609.xml#ch3ancs11 1609.xml#ch3ance11"/></rdg></app></p>
                 <p xml:id="ch3par22"><note type="authorial" subtype="summary" xml:id="ch3sumn15">15.
                         The Hives alwaies well hackled.</note> 1. First, let them be alwaies be well
                     covered, that they may be safe in Summer from heat, lest, the wax melting, the
@@ -3733,8 +3733,8 @@
                     the Combes, and at last the Bees also.<ref target="#ch3bibln7">v.</ref>
                     <note type="authorial" subtype="bibliographic" xml:id="ch3bibln7">
                         <ref target="#ch7sumn58">V.c. 7..n58.</ref>
-                    </note> In some places (where the stalls are not many) they use earthen covers:
-                    but these doe not defend the lower part, and in Summer are too hot. <note
+                    </note> <app type="minor" subtype="add"><lem wit="#b1623">In some places (where the stalls are not many) they use earthen covers:
+                        but these doe not defend the lower part, and in Summer are too hot.</lem><rdg wit="#b1609"></rdg></app> <note
                         type="authorial" subtype="bibliographic" xml:id="ch3bibln8">
                         <bibl> Nat.hist.li.21.c.14.</bibl>
                     </note></p>
@@ -3742,17 +3742,17 @@
                     <note type="authorial" subtype="summary" xml:id="ch3sumn16">16. How to make a
                         hackle.</note> The best cover for Hives is a thicke hackle: <foreign
                         xml:lang="la">Alvearia stramento operiri utilissimum.</foreign> Which is
-                    thus to be made. Take foure or five handfulls of <ref target="#ch3glon5">*</ref>
-                    <note type="authorial" subtype="gloss" xml:id="ch3glon5">* <hi rend="italic">In
+                    thus to be made. Take foure or five handfulls of <ref target="#ch3glon5"><app type="reference" subtype="add"><lem wit="#b1623">*</lem><rdg wit="#b1609"></rdg></app></ref>
+                    <note type="authorial" subtype="gloss" xml:id="ch3glon5"><app type="reference" subtype="add"><lem wit="#b1623">* <hi rend="italic">In
                             want of such straw, Wood-benet, or Sedge, or Rushes may
-                        serve.</hi></note> Wheat or Rie leased out of the sheafe: which being bound
+                            serve.</hi></lem><rdg wit="#b1609"></rdg></app></note> Wheat or Rie leased out of the sheafe: which being bound
                     up severally, beat out the corne; and then casting away their bands, draw out
                     the eares of each handfull longer on the one side than on the other: and putting
-                    the long sides together (so to make the Head in forme of a Pyramis or
-                    Suger-loafe, for shooting the raine) <fw type="catch"> binde</fw>
+                    the long sides together (so to make the <app type="minor" subtype="change"><lem wit="#b1623">Head in forme of a Pyramis or
+                        Suger-loafe,</lem><rdg wit="#b1609"><ptr target="1609.xml#ch3ancs12 1609.xml#ch3ance12"/></rdg></app> for shooting the raine) <fw type="catch"> binde</fw>
                     <pb n="F2r"/>
                     <fw type="header"> Of the Hives, </fw> binde them all in one under the eares, as
-                    hard as you can. </p>
+                    <app type="vocabulary" subtype="change"><lem wit="#b1623">hard</lem><rdg wit="#b1609"><ptr target="1609.xml#ch3ancs13 1609.xml#ch3ance13"/></rdg></app> as you can. </p>
                 <p xml:id="ch3par24"><note type="authorial" subtype="summary" xml:id="ch3sumn17">17.
                         The Cap of two sorts.</note> The Head is to be covered or bound fast with a
                     Cap: of which there be two good fashions, the one wreathed, the other
