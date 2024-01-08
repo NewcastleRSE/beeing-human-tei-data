@@ -3753,13 +3753,13 @@
                     <pb n="F2r"/>
                     <fw type="header"> Of the Hives, </fw> binde them all in one under the eares, as
                     <app type="vocabulary" subtype="change"><lem wit="#b1623">hard</lem><rdg wit="#b1609"><ptr target="1609.xml#ch3ancs13 1609.xml#ch3ance13"/></rdg></app> as you can. </p>
-                <p xml:id="ch3par24"><note type="authorial" subtype="summary" xml:id="ch3sumn17">17.
+                <p xml:id="ch3par24"><app type="minor" subtype="add"><lem wit="#b1623"><note type="authorial" subtype="summary" xml:id="ch3sumn17">17.
                         The Cap of two sorts.</note> The Head is to be covered or bound fast with a
                     Cap: of which there be two good fashions, the one wreathed, the other
-                    platted.</p>
+                    platted.</lem><rdg wit="#b1609"></rdg></app></p>
                 <p xml:id="ch3par25"><note type="authorial" subtype="summary" xml:id="ch3sumn18">18.
-                        The wreathed Cap.</note> The wreathed Cap is thus made; having bound the
-                    bundles all fast together with a thong, cord, or other strong string, lease out
+                        The wreathed Cap.</note> <app type="minor" subtype="change"><lem wit="#b1623">The wreathed Cap is thus made; having bound the
+                            bundles all fast together with a thong, cord, or other strong string,</lem><rdg wit="#b1609"><ptr target="1609.xml#ch3ancs13 1609.xml#ch3ance13"/></rdg></app> lease out
                     the sheafe almost a handfull of the strongest straw, and lay it in soake about a
                     quarter of an houre. Being thus prepared, take out of that wet bundle a litche
                     of 40. or 50. reedes or strawes; and laying halfe of them one way, and halfe the
