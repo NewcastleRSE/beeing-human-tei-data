@@ -3819,14 +3819,14 @@
                     crooke or bout in the <app type="vocabulary" subtype="change"><lem wit="#b1623">Belt</lem><rdg wit="#b1609"><ptr target="1609.xml#ch3ancs24 1609.xml#ch3ance24"/></rdg></app>, set that before, that the hackle, bearing in that
                     place farther out, may shoot the water from the doore: otherwise, for that
                     purpose, set the Belt somewhat higher before, then behinde.</p>
-                <note type="authorial" subtype="gloss" place="inline" xml:id="ch3glon6">* In the
+                <note type="authorial" subtype="gloss" place="inline" xml:id="ch3glon6"><app type="minor" subtype="add"><lem wit="#b1623">* In the
                     Winter, place the Belt below the middle or biggest part of the Hive, to keepe it
                     warme in extremity of cold. In Summer above, that the nether part of the hackle
                     hanging out from the Hive, the Hive may be the cooler: and then because the Belt
-                    will be apt to rise, it would be held <fw type="catch"> downe</fw>
+                    will be apt to rise, it would be held <fw type="catch"> downe</fw></lem><rdg wit="#b1609"></rdg></app>
                     <pb n="F3v"/>
-                    <fw type="header"> Of the Hives, </fw> downe to the place with two forked
-                    stickes, the fork resting upon the Belt, and the other end under the Cap.</note>
+                    <fw type="header"> Of the Hives, </fw> <app type="minor" subtype="add"><lem wit="#b1623">downe to the place with two forked
+                        stickes, the fork resting upon the Belt, and the other end under the Cap.</lem><rdg wit="#b1609"></rdg></app></note>
                 <p xml:id="ch3par31"><note type="authorial" subtype="summary" xml:id="ch3sumn23">23.
                         The hackle now and then to be taken off.</note> The Hackle thus fitted and
                     placed, is now and then to be removed, not onely to meet with Mise, Moths,
