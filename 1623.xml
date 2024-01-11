@@ -3806,16 +3806,16 @@
                         The bignesse of the hackle.</note> The hackle thus made of foure or five
                     handfulls will conteine in compasse <app type="minor" subtype="add"><lem wit="#b1623">about the necke,</lem><rdg wit="#b1609"></rdg></app> close under the Cap,
                     betweene <app type="minor" subtype="change"><lem wit="#b1623">sixteene and twenty</lem><rdg wit="#b1609"></rdg></app> inches: <app type="minor" subtype="change"><lem wit="#b1623">sixteene</lem><rdg wit="#b1609"><ptr target="1609.xml#ch3ancs19 1609.xml#ch3ance19"/></rdg></app> will serve for the smaller Hives,
-                    and twenty for the greatest, although they be five feet about. </p>
+                    and <app type="minor" subtype="change"><lem wit="#b1623">twenty</lem><rdg wit="#b1609"><ptr target="1609.xml#ch3ancs20 1609.xml#ch3ance20"/></rdg></app> for the greatest, although they be five foot about. </p>
                 <p xml:id="ch3par29"><note type="authorial" subtype="summary" xml:id="ch3sumn21">21.
                         The length of it.</note> For the length of the hackles, each one is to be
                     fitted to his Hive, so that the skirts thereof may reach to the stoole, or
-                    within halfe an inch of it round about; save onely before, where it must be
+                    within halfe an inch of it round about; save onely <app type="minor" subtype="change"><lem wit="#b1623">before</lem><rdg wit="#b1609"><ptr target="1609.xml#ch3ancs21 1609.xml#ch3ance21"/></rdg></app>, where it must be
                     pared somewhat shorter, that the Bees passage be not hindered. </p>
                 <p xml:id="ch3par30"><note type="authorial" subtype="summary" xml:id="ch3sumn22">22.
-                        The belt or garth.</note> And then with a small pliant Garth or Belt of
-                    Bethwyn, Bramble, Brier, or the like, gird the hackle close to the Hive<ref
-                        target="#ch3glon6">*</ref>, least the wind disorder it. If there be any
+                    The belt or garth.</note> And then with a small pliant <app type="vocabulary" subtype="change"><lem wit="#b1623">Garth or Belt</lem><rdg wit="#b1609"><ptr target="1609.xml#ch3ancs22 1609.xml#ch3ance22"/></rdg></app> of
+                    Bethwyn, <app type="vocabulary" subtype="add"><lem wit="#b1623">Bramble, Brier,</lem><rdg wit="#b1609"></rdg></app> or the like, gird the hackle close to the Hive<ref
+                        target="#ch3glon6"><app type="reference" subtype="add"><lem wit="#b1623">*</lem><rdg wit="#b1609"></rdg></app></ref><app type="minor" subtype="del"><lem wit="#b1623"></lem><rdg wit="#b1609"><ptr target="1609.xml#ch3ancs23 1609.xml#ch3ance23"/></rdg></app>, least the wind disorder it. If there be any
                     crooke or bout in the Belt, set that before, that the hackle, bearing in that
                     place farther out, may shoot the water from the doore: otherwise, for that
                     purpose, set the Belt somewhat higher before, then behinde.</p>
