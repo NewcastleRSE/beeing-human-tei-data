@@ -3827,12 +3827,12 @@
                     <pb n="F3v"/>
                     <fw type="header"> Of the Hives, </fw> <app type="minor" subtype="add"><lem wit="#b1623">downe to the place with two forked
                         stickes, the fork resting upon the Belt, and the other end under the Cap.</lem><rdg wit="#b1609"></rdg></app></note>
-                <p xml:id="ch3par31"><note type="authorial" subtype="summary" xml:id="ch3sumn23">23.
+                <p xml:id="ch3par31"><app type="major" subtype="add"><lem wit="#b1623"><note type="authorial" subtype="summary" xml:id="ch3sumn23">23.
                         The hackle now and then to be taken off.</note> The Hackle thus fitted and
                     placed, is now and then to be removed, not onely to meet with Mise, Moths,
                     Spiders, Erewigs, &amp;c. which harbour under it, and to see what breaches the
                     Mouse and Tit-mouse have made; but also to ayre the moist Hive: and this in a
-                    warme and windy day after much wet. </p>
+                    warme and windy day after much wet.</lem><rdg wit="#b1609"></rdg></app> </p>
                 <p xml:id="ch3par32"><note type="authorial" subtype="summary" xml:id="ch3sumn24">24.
                         The Hives alwaies close cloomed.</note> Next keepe the Hives alwaies close
                     for defence of the Bees against their enimies. The best cloome for that purpose
@@ -3840,8 +3840,8 @@
                         <foreign xml:lang="la">circumlini alveos fimo bubulo utilissimum</foreign>
                         <note type="authorial" subtype="bibliographic" xml:id="ch3bibln9">
                             <bibl>Nat hist.li 21.cap.14.</bibl>
-                        </note></quote> : but to harden it, temper it with Lime or Ashes, with sand
-                    or gravell, which are also good against the gnawing of Mise. With this cloome
+                        </note></quote>: <app type="minor" subtype="change"><lem wit="#b1623">but to harden it, temper it with Lime or Ashes, with sand
+                            or gravell, which are also good against the gnawing of Mise. </lem><rdg wit="#b1609"><ptr target="1609.xml#ch3ancs26 1609.xml#ch3ance26"/></rdg></app>With this cloome
                     close up the skirts &amp; brackes of your Hives: that there be no way into them,
                     but onely by the doores.</p>
                 <p xml:id="ch3par33"><note type="authorial" subtype="summary" xml:id="ch3sumn25">25.
