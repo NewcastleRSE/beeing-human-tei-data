@@ -3894,11 +3894,11 @@
                     requisite: which may serve also at other times. A moveable Post is an
                     inch-square peece of wood, with a shouldering above to rest against the Hive:
                     and another in the inside of the doore to fit the wicket: the forme is this. </lem><rdg wit="#b1609"></rdg></app></p>
-                <figure>
+                <app type="major" subtype="add"><lem wit="#b1623"><figure>
                     <graphic url="#"/>
-                    <app type="major" subtype="add"><lem wit="#b1623"><figDesc>DIAGRAM</figDesc></lem><rdg wit="#b1609"></rdg></app>
-                </figure>
-                <p xml:id="ch3par41"><note type="authorial" subtype="summary" xml:id="ch3sumn30"><app type="major" subtype="add"><lem wit="#b1623">30.
+                    <figDesc>DIAGRAM</figDesc>
+                </figure></lem><rdg wit="#b1609"></rdg></app>
+                <p xml:id="ch3par41"><app type="major" subtype="add"><lem wit="#b1623"><note type="authorial" subtype="summary" xml:id="ch3sumn30">30.
                         The Winter-doore, or Wicket.</note> The Winter-doore or Wicket is made of a
                     peece of wood, an inch and a quarter thicke, almost an inch high, and five
                     inches long. At each end whereof cut away halfe an inch all save before, where
@@ -3907,16 +3907,16 @@
                     through the thicknesse, a hollownesse or passage, almost halfe an inch high, and
                     three inches long: and then there will remaine at each end of the hollownesse
                     halfe an inch uncut, besides the two extreme halfe inches leaft a quarter
-                    thicke, and fitted to the Posts.</lem><rdg wit="#b1609"></app></p>
+                    thicke, and fitted to the Posts.</lem><rdg wit="#b1609"></rdg></app></p>
                 <p xml:id="ch3par42"><app type="major" subtype="add"><lem wit="#b1623">The fashion of which wicket you may see in this figure.</lem><rdg wit="#b1609"></rdg></app></p>
                 <fw type="catch"> The</fw>
                 <pb n="F4v"/>
                 <fw type="header"> Of the Hives, </fw>
-                <figure>
+                <app type="major" subtype="add"><lem wit="#b1623"><figure>
                     <graphic url="#"/>
-                    <app type="major" subtype="add"><lem wit="#b1623"><figDesc>DIAGRAM</figDesc></lem><rdg wit="#b1609"></rdg></app>
-                </figure>
-                <p xml:id="ch3par43"><note type="authorial" subtype="summary" xml:id="ch3sumn31"><app type="major" subtype="add"><lem wit="#b1623">31.
+                    <figDesc>DIAGRAM</figDesc>
+                </figure></lem><rdg wit="#b1609"></rdg></app>
+                <p xml:id="ch3par43"><app type="major" subtype="add"><lem wit="#b1623"><note type="authorial" subtype="summary" xml:id="ch3sumn31">31.
                         The use of it.</note> The use of the Winter-doore is to straighten the
                     passage when there needeth not so much roome, that the Bees may the better keepe
                     out the Robbers, that the Cold may have the lesse force, and that the Mice may
@@ -3942,8 +3942,8 @@
                         The use of it.</note> <app type="major" subtype="change"><lem wit="#b1623">this Barre you may shut or halfe shut the Wicket,
                     as you shall see cause; to defend the Bees in the more dangerous times from
                     Frost, Snow, Titmise, and Robbers. </lem><rdg wit="#b1609"><ptr target="1609.xml#ch3ancs32 1609.xml#ch3ance32"/></rdg></app></p>
-                <p xml:id="ch3par47">For small stalls, the Gate, Wicket, and Barre, may be all of a
-                    lesse size. </p>
+                <p xml:id="ch3par47"><app type="minor" subtype="add"><lem wit="#b1623">For small stalls, the Gate, Wicket, and Barre, may be all of a
+                    lesse size. </lem><rdg wit="#b1609"></rdg></app></p>
                 <p xml:id="ch3par48"><note type="authorial" subtype="summary" xml:id="ch3sumn34">34.
                         The Settle.</note> It is also convenient for each hive to have his Settle
                     before him: which may be a planke of the bredth of the stoole, and of that
