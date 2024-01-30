@@ -3963,7 +3963,7 @@
                     How to order the Bee-hives <app type="minor" subtype="change"><lem wit="#b1623">throughout the yeare.</lem><rdg wit="#b1609"><ptr target="1609.xml#ch3ancs39 1609.xml#ch3ance39"/></rdg></app></note>
                     <hi rend="drop-capital">B</hi>Ee-hives being thus fitted with all necessaries,
                     are afterward at divers times of the yeare to be diversly ordered. </p>
-                <p xml:id="ch3par50"><note type="authorial" subtype="summary" xml:id="ch3sumn36">36.
+                <p xml:id="ch3par50"><app type="major" subtype="add"><lem wit="#b1623"><note type="authorial" subtype="summary" xml:id="ch3sumn36">36.
                         The moneths and quarters of the <term> Melissæan</term> yeare</note> The
                         <term>Melissæen</term> yeare is most fitly measured by the Astronomicall
                     monthes (which begin with the Sunnes entrance into the severall signes of the
@@ -3975,8 +3975,8 @@
                     quarters of the yeare, Spring, Summer, Autumne and Winter take their beginnings;
                     so the most notable alterations about Bees, in things either to be observed in
                     them, or to be done for them, doe likewise fall out in the beginnings of these
-                    moneths.</p>
-                <p xml:id="ch3par51">But the foure Quarters the Bees begin one moneth sooner than
+                    moneths.</lem><rdg wit="#b1609"></rdg></app></p>
+                <p xml:id="ch3par51"><app type="major" subtype="add"><lem wit="#b1623">But the foure Quarters the Bees begin one moneth sooner than
                     the Astronomers. For their Spring or first quarter beginneth with
                         <term>Pisces,</term> when the Sunne beginneth by his quickning heat to
                     revive the flowers, which all the dead of Winter lay buried in the ground; and
@@ -3987,15 +3987,15 @@
                     </note> and to increase their companies for the fruits of ensuing Summer, which
                     from the former Summer hitherto have daily decreased: the other Spring moneths
                     are <term> Aries</term> and <term> Taurus</term>,<ref target="#ch3sumn63"
-                        >v.n.63. &amp;c.</ref></p>
-                <p xml:id="ch3par52">Their Summer likewise containeth <term>Gemini</term>,
+                        >v.n.63. &amp;c.</ref></lem><rdg wit="#b1609"></rdg></app></p>
+                <p xml:id="ch3par52"><app type="major" subtype="add"><lem wit="#b1623">Their Summer likewise containeth <term>Gemini</term>,
                         <term>Cancer</term>, and <term> Leo</term>, most rich and plentifull in
                     flowers and dewes, <ref target="#ch3bibln14">v:</ref>
                     <note type="authorial" subtype="bibliographic" xml:id="ch3bibln14">
                         <ref target="#ch6sumn38">V.c.6.n. 38. &amp;c.</ref>
                     </note> wherewith the multiplied Bees doe now store their Cells against the
-                    penurie of Winter. <ref target="#ch3sumn37"> v.n.37.</ref></p>
-                <p xml:id="ch3par53">Their Autumne or Harvest, hath <term>Virgo</term>,
+                    penurie of Winter. <ref target="#ch3sumn37"> v.n.37.</ref></lem><rdg wit="#b1609"></rdg></app></p>
+                <p xml:id="ch3par53"><app type="major" subtype="add"><lem wit="#b1623">Their Autumne or Harvest, hath <term>Virgo</term>,
                         <term>Libra</term>, and <term> Scorpio</term>: in which the Bee-masters <ref
                         target="#ch3bibln15">v:</ref>
                     <note type="authorial" subtype="bibliographic" xml:id="ch3bibln15">
@@ -4005,14 +4005,14 @@
                         <ref target="#ch7sumn25">V.c.7.n.25.</ref> &amp;<ref target="#ch7sumn28"
                             >28.</ref>
                     </note> doe reape the reape the ripe fruits of many Bees labours. <ref
-                        target="#ch3sumn44"> v:n.44.</ref></p>
-                <p xml:id="ch3par54">And their Winter consisteth of the three <hi rend="italic"
+                        target="#ch3sumn44"> v:n.44.</ref></lem><rdg wit="#b1609"></rdg></app></p>
+                <p xml:id="ch3par54"><app type="major" subtype="add"><lem wit="#b1623">And their Winter consisteth of the three <hi rend="italic"
                         >still</hi> moneths: <ref target="#ch3bibln17">v.</ref>
                     <note type="authorial" subtype="bibliographic" xml:id="ch3bibln17">
                         <ref target="#ch3sumn59"> v.n.59</ref>
                     </note>.in which the Bees live altogether upon thsir Summer-store, and get
-                        nothing.<ref target="#ch3sumn58">v.n.58.</ref></p>
-                <p xml:id="ch3par55">Heere note, that although Winter and Summer doe pro- <fw
+                    nothing.<ref target="#ch3sumn58">v.n.58.</ref></lem><rdg wit="#b1609"></rdg></app></p>
+                <p xml:id="ch3par55"><app type="major" subtype="add"><lem wit="#b1623">Heere note, that although Winter and Summer doe pro- <fw
                         type="catch">perly</fw>
                     <pb n="G1v"/>
                     <fw type="header"> Of the Hives, </fw> perly betoken two of the 4. quarters of
@@ -4023,8 +4023,8 @@
                     </note> for two halfe parts or moities thereof: the one containing the warmer
                     season, as from the end of <term> Aries</term> to the end of <term>Libra,</term>
                     the other the colder, as from the end of <term>Libra</term> to the end of
-                        <term>Aries.</term></p>
-                <note type="authorial" subtype="gloss" place="inline" xml:id="ch3glon8">*Namely,
+                    <term>Aries.</term></lem><rdg wit="#b1609"></rdg></app></p>
+                <app type="major" subtype="add"><lem wit="#b1623"><note type="authorial" subtype="gloss" place="inline" xml:id="ch3glon8">*Namely,
                     when they are mentioned together in a kind of opposition: as <ref
                         target="#ch2sumn7"> c. 2. n.7.</ref> where you reade, neither very cold in
                     Winter, nor very hot in Summer. <foreign xml:lang="la">Locus æstate non
@@ -4041,8 +4041,8 @@
                             xml:id="ch3bibln19">
                             <bibl>Georg.lib.3</bibl>
                         </note></quote>
-                </note>
-                <p xml:id="ch3par56"><note type="authorial" subtype="bibliographic"
+                </note></lem><rdg wit="#b1609"></rdg></app>
+                <p xml:id="ch3par56"><app type="major" subtype="add"><lem wit="#b1623"><note type="authorial" subtype="bibliographic"
                         xml:id="ch3bibln20">
                         <bibl>Metam.lib.6.</bibl>
                     </note> But they are more certainly notified by the comming of the Fieldfare,
@@ -4053,8 +4053,8 @@
                         <term> Aries,</term> though it bee then cold and winterly weather: whereas
                         <persName> Progne</persName> stayeth after that untill she finde it warme
                     abroad. If some foolish one or other chance to start out of hir Dormitorie
-                    sooner, the Proverbe then is verified, One Swallow makes not a Summer. </p>
-                <p xml:id="ch3par57"><note type="authorial" subtype="summary" xml:id="ch3sumn37">37.
+                    sooner, the Proverbe then is verified, One Swallow makes not a Summer. </lem><rdg wit="#b1609"></rdg></app></p>
+                <p xml:id="ch3par57"><app type="major" subtype="add"><lem wit="#b1623"><note type="authorial" subtype="summary" xml:id="ch3sumn37">37.
                         SUMMER.</note>The Spring having replenished the Hives with plentie of Bees,
                     the Summer is readie with his plentie of Honie to entertaine them. During which
                     season the Hives must have their largest entrance. <ref target="#ch3bibln21"
@@ -4064,7 +4064,7 @@
                     </note> lest the thronged multitudes be pestered for want of aire, or doe let
                     one an other as they goe and come earnest in their worke, or bee stayed in
                     swarming when they should passe at pleasure. Neither can the opennesse of the
-                    Hives be hurtfull unto them, seeing now there is no feare of enemies.</p>
+                    Hives be hurtfull unto them, seeing now there is no feare of enemies.</lem><rdg wit="#b1609"></rdg></app></p>
                 <p xml:id="ch3par58"><note type="authorial" subtype="summary" xml:id="ch3sumn38">38.
                         In <term>GEMINI</term> set the doores wide open.</note> At
                         <term>Gemini</term> therefore set the doores <ref target="#ch3bibln22"
