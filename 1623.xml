@@ -4081,8 +4081,8 @@
                 <p xml:id="ch3par60"><note type="authorial" subtype="summary" xml:id="ch3sumn39">39.
                             <term>CANCER</term>.</note>
                     <note type="authorial" subtype="summary" xml:id="ch3sumn40">40. To make the Bees
-                        swarme.</note> At mid-<term> Cancer</term> double the stalls that lie
-                        out.<ref target="#ch5sumn22">v.c.5.n.22.</ref><ref target="#ch5sumn23"
+                        swarme.</note> <app type="minor" subtype="add"><lem wit="#b1623">At mid-<term> Cancer</term> double the stalls that lie
+                            out.<ref target="#ch5sumn22">v.c.5.n.22.</ref></lem><rdg wit="#b1609"></rdg></app><ref target="#ch5sumn23"
                         >23.</ref>
                     <fw type="catch"> When</fw>
                     <pb n="G2r"/>
@@ -4094,11 +4094,11 @@
                         <ref target="#ch5sumn11"> V.c.5.n11.</ref>
                     </note> which is commonly within a seven night after Midsummer, set up those
                     Hives that are full with three Tile-shards, or other things of like thicknesse,
-                    and cloome up the space betweene the hive and the stoole: If yet they chance to
+                    and cloome up the space betweene the hive and the stoole: <app type="minor" subtype="change"><lem wit="#b1623">If yet they chance to
                     swarme, as soone as they are hived, put them backe to the stocke, <ref
-                        target="#ch5sumn11"> v.c.5.n.11.</ref></p>
-                <p xml:id="ch3par61">Also reare the swarmes that being under-hived doe lie forth,
-                    with bolsters of that thicknesse that may but let in the Bees. </p>
+                        target="#ch5sumn11"> v.c.5.n.11.</ref></lem><rdg wit="#b1609"><ptr target="1609.xml#ch3ancs43 1609.xml#ch3ance43"/></rdg></app></p><app type="minor" subtype="del"><lem wit="#b1623"></lem><rdg wit="#b1609"><ptr target="1609.xml#ch3ancs42x 1609.xml#ch3ance42x"/></rdg></app>
+                <p xml:id="ch3par61"><app type="minor" subtype="add"><lem wit="#b1623">Also reare the swarmes that being under-hived doe lie forth,
+                    with bolsters of that thicknesse that may but let in the Bees.</lem><rdg wit="#b1609"></rdg></app> </p>
                 <p xml:id="ch3par62"><note type="authorial" subtype="summary" xml:id="ch3sumn42">42.
                             <term>LEO</term>.</note> In <term> Leo</term>, or presently after the
                     last swarme, kill the Drones, of those stalls you meane to take, with a
