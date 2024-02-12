@@ -4128,7 +4128,7 @@
                         <ref target="ch7sumn47">47.</ref>
                     </note> and see that the Hives bee close in all places. (Those that have lien
                     forth or otherwise be verie full, you may let alone and not straighten their
-                    entrance till the weather bee colder, for such as are safe enough.)</lem><rdg wit="#b1609"><ptr target="1609.xml#ch3ancs46 1609.xml#ch3ance46"/></rdg></app></p><app type="major" subtype="cut"><lem wit="#b1623"></lem><rdg wit="#b1609"><ptr target="1609.xml#ch3ancs47 1609.xml#ch3ance47"/></rdg></app>
+                    entrance till the weather bee colder, for such as are safe enough.)</lem><rdg wit="#b1609"><ptr target="1609.xml#ch3ancs46 1609.xml#ch3ance46"/></rdg></app></p><app type="major" subtype="del"><lem wit="#b1623"></lem><rdg wit="#b1609"><ptr target="1609.xml#ch3ancs47 1609.xml#ch3ance47"/></rdg></app>
                 <p xml:id="ch3par66"><note type="authorial" subtype="summary" xml:id="ch3sumn47">47.
                         Set up the Winter-doores.</note> <app type="minor" subtype="add"><lem wit="#b1623">But first view your swarmes whether they
                             fit their Hives:</lem><rdg wit="#b1609"></rdg></app> <app type="minor" subtype="del"><lem wit="#b1623"></lem><rdg wit="#b1609"><ptr target="1609.xml#ch3ancs48 1609/xml#ch3ance48"/></rdg></app>those<app type="minor" subtype="del"><lem wit="#b1623"></lem><rdg wit="#b1609"><ptr target="1609.xml#ch3ancs49 1609.xml#ch3ance49"/></rdg></app> that have not now wrought downe within a handfull of the
@@ -4149,7 +4149,7 @@
                             <bibl>Hist.l.9.c.40.</bibl>
                         </note></quote>
                 </p>
-                <p xml:id="ch3par67"><note type="authorial" subtype="summary" xml:id="ch3sumn48">48.
+                <p xml:id="ch3par67"><app type="major" subtype="add"><lem wit="#b1623"><note type="authorial" subtype="summary" xml:id="ch3sumn48">48.
                         And keepe them shut til they offer to go abroad.</note> Moreover, because
                     the Waspes and robbing Bees will be stealing betimes, before the true Bees be
                     stirring; it is good in the evening, when the Bees are all in, to barre up the
@@ -4160,10 +4160,10 @@
                         target="#ch3bibln28">v.</ref>
                     <note type="authorial" subtype="bibliographic" xml:id="ch3bibln28">
                         <ref target="#ch3sumn33">V.n. 33.</ref>
-                    </note></p>
+                    </note></lem><rdg wit="#b1609"></rdg></app></p>
                 <p xml:id="ch3par68"><note type="authorial" subtype="summary" xml:id="ch3sumn49">49.
                         The reared stalls now to be set downe againe.</note> The stalls which you
-                    reared in the end of <term> Cancer</term> for feare of swarming or want of
+                    reared in the end of <term> Cancer</term> for feare of <app type="minor" subtype="change"><lem wit="#b1623">swarming or want of
                     roome, <ref target="#ch3bibln29">v:</ref> (now that the death of the old Bees
                         <ref target="#ch3bibln29">v:</ref><note type="authorial"
                         subtype="bibliographic" xml:id="ch3bibln29">
@@ -4176,8 +4176,8 @@
                     <note type="authorial" subtype="bibliographic" xml:id="ch3bibln31">
                         <ref target="#ch4sumn25"> V.c.4.n. 25.</ref>&amp;<ref target="#ch4sumn26"
                             >c.V.n.26.</ref>
-                    </note>lest their swarming be hindred the next yeare: unlesse they be swarmes
-                    that have wrought downe to the stoole. </p>
+                    </note>lest their swarming be hindred the next yeare: </lem><rdg wit="#b1609"><ptr target="1609.xml#ch3ancs51 1609.xml#ch3ance51"/></rdg></app>unlesse they be swarmes
+                    that have wrought downe to the stoole.<app type="minor" subtype="del"><lem wit="#b1623"></lem><rdg wit="#b1609"><ptr target="1609.xml#ch3ancs52 1609.xml#ch3ancs52"/></rdg></app> </p>
                 <p xml:id="ch3par69"><note type="authorial" subtype="summary" xml:id="ch3sumn50">50
                         In Virgo try whether the Bees will live.</note> Also in this moneth, about
                     the middle, those Hives which you deeme to be weake because the Bees are gone up
@@ -4196,14 +4196,14 @@
                     </note> either presently take them, or make the entrance so narrow, that but one
                     Bee may passe at once: and before <term>Libra</term> bee sure to take them. For
                     though they escape this robbing-time through your care and diligence; yet at the
-                    Spring they will surely yeeld, or die of themselves, or flie away. Note yet,
-                    that those stalls which are very full, will make but a little noise when you
-                    knocke them, (but different from the other, as being quicke, smart, <fw
+                    Spring they will surely yeeld, or die of themselves, or flie away. <app type="minor" subtype="change"><lem wit="#b1623">Note yet,
+                        that</lem><rdg wit="#b1609"><ptr target="1609.xml#ch3ancs53 1609.xml#ch3ance53"/></rdg></app> those stalls which are very full, will make <app type="minor" subtype="change"><lem wit="#b1623">but a little</lem><rdg wit="#b1609"><ptr target="1609.xml#ch3ancs54 1609.xml#ch3ance54"/></rdg></app> noise when you
+                    knocke them, <app type="minor" subtype="add"><lem wit="#b1623">(but different from the other, as being quicke, smart, <fw
                         type="catch"> and</fw>
                     <pb n="G3r"/>
-                    <fw type="header"> and the Dressing of them. </fw> and all over the Hive) untill
-                    toward the end of this moneth, when they be gone up from the doore, and their
-                    number is somewhat diminished. </p>
+                        <fw type="header"> and the Dressing of them. </fw> and all over the Hive)</lem><rdg wit="#b1609"><ptr target="1609.xml#ch3ancs54 1609.xml#ch3ance54"/></rdg></app> untill
+                    toward the end of this moneth, when they be gone up from the doore, <app type="minor" subtype="add"><lem wit="#b1623">and their
+                        number is somewhat diminished.</lem><rdg wit="#b1609"><ptr target="1609.xml#ch3ancs54 1609.xml#ch3ance54"/></rdg></app> </p>
                 <p xml:id="ch3par71"><note type="authorial" subtype="summary" xml:id="ch3sumn51">51.
                         Now take the Combes.</note> In the end of this moneth is the time to kill
                     and drive Bees,<ref target="#ch10p1sumn2"> v.c.10.part.1.n.2.</ref>&amp;<ref
