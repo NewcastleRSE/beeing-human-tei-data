@@ -4111,14 +4111,14 @@
                 <p xml:id="ch3par64"><app type="minor" subtype="add"><lem wit="#b1623"><note type="authorial" subtype="summary" xml:id="ch3sumn44">44.
                     HARVEST</note> To the plentifull Summer succeedeth wastfull Autumne. </lem><rdg wit="#b1609"></rdg></app></p>
                 <p xml:id="ch3par65"><note type="authorial" subtype="summary" xml:id="ch3sumn45">45.
-                            <term>VIRGO</term>.</note> At <term> Virgo</term> therefore, or a little
+                    <term>VIRGO</term>.</note> At <term> Virgo</term> <app type="vocabulary" subtype="add"><lem wit="#b1623">therefore,</lem><rdg wit="#b1609"></rdg></app> or a little
                     before, (which is the most dangerous time for Bees, because of the Waspes that
                     then, if not sooner, learne the way into the Hives, but chiefely of robbing
                     Bees, which then begin to spoile) <ref target="#ch3bibln24">v.</ref>
                     <note type="authorial" subtype="bibliographic" xml:id="ch3bibln24">
                         <ref target="#ch7sumn28"> V.c.7.n.28.</ref>
                     </note>
-                    <note type="authorial" subtype="summary" xml:id="ch3sumn46">46. To keepe the
+                    <app type="major" subtype="change"><lem wit="#b1623"><note type="authorial" subtype="summary" xml:id="ch3sumn46">46. To keepe the
                         weaker hives from robbing.</note>To the Gates of the weaker stalls, (whether
                     they be small swarmes, or stocks that have cast twice and late) set up the
                     Winter-doores, and fasten them with good cloome, <ref target="#ch3bibln25"
@@ -4128,7 +4128,7 @@
                         <ref target="ch7sumn47">47.</ref>
                     </note> and see that the Hives bee close in all places. (Those that have lien
                     forth or otherwise be verie full, you may let alone and not straighten their
-                    entrance till the weather bee colder, for such as are safe enough.)</p>
+                    entrance till the weather bee colder, for such as are safe enough.)</lem><rdg wit="#b1609"><ptr target="1609.xml#ch3ancs46 1609.xml#ch3ance46"/></rdg></app></p>
                 <p xml:id="ch3par66"><note type="authorial" subtype="summary" xml:id="ch3sumn47">47.
                         Set up the Winter-doores.</note> But first view your swarmes whether they
                     fit their Hives: those that have not now wrought downe within a handfull of the
