@@ -4254,16 +4254,16 @@
                     faults about them: and where the hackles be worne, set new in their steads, that
                     may keepe <fw type="catch"> the</fw>
                     <pb n="G3v"/>
-                    <fw type="header"> Of the Hives, </fw> the Hives dry and warme. And now remember
-                    also to shut the wickets of them all. </p>
+                    <fw type="header"> Of the Hives, </fw> the Hives dry and warme. <app type="minor" subtype="add"><lem wit="#b1623">And now remember
+                        also to shut the wickets of them all. </lem><rdg wit="#b1609"></rdg></app></p>
                 <p xml:id="ch3par76"><note type="authorial" subtype="summary" xml:id="ch3sumn58">58.
-                        WINTER.</note> After Autumne, the Sunne drawing neere the Winter Tropicke,
+                    <app type="minor" subtype="add"><lem wit="#b1623"> WINTER.</lem><rdg wit="#b1609"></rdg></app></note> <app type="minor" subtype="add"><lem wit="#b1623">After Autumne, the Sunne drawing neere the Winter Tropicke,
                     with a short and low course above our <term> Horison,</term> there follow three
                         <term>still</term> moneths, <term>Saggitarius</term> ,
-                        <term>Capricornus</term>, and <term>Aquarius</term>: <note type="authorial"
+                        <term>Capricornus</term>, and <term>Aquarius</term>: </lem><rdg wit="#b1609"></rdg></app><note type="authorial"
                         subtype="summary" xml:id="ch3sumn59"
                             >59.<term>SAGIT</term>.<term>CAPRIC</term>.<term>AQUAR</term>. three
-                            <term>still</term> moneths.</note>in which as the plants lie still in
+                            <term><app type="vocabulary" subtype="change"><lem wit="#b1623">still</lem><rdg wit="#b1609"><ptr target="1609.xml#ch3ancs62 1609.xml#ch3ance62"/></rdg></app></term> moneths.</note><app type="major" subtype="change"><lem wit="#b1623">in which as the plants lie still in
                     the earth waiting the Sunnes returne to revive them; so the Bees lie
                         <term>still</term> in their Hives, passing this fruitlesse time in sleepe
                     and slumber. <note type="authorial" subtype="summary" xml:id="ch3sumn60">60. How
@@ -4277,8 +4277,8 @@
                     themselves, at their returne, they take their repast, and then betake them
                     againe to their rest. But many such daies, specially in time of scarcity, are
                     dangerous, as causing them to spend much of their store, which in <term>
-                        still</term> frosts they would spare.</p>
-                <p xml:id="ch3par77"><note type="authorial" subtype="summary" xml:id="ch3sumn61">61.
+                        still</term> frosts they would spare.</lem><rdg wit="#b1609"><ptr target="1609.xml#ch3ancs63 1609.xml#ch3ance63"/></rdg></app></p>
+                <p xml:id="ch3par77"><app type="major" subtype="change"><lem wit="#b1623"><note type="authorial" subtype="summary" xml:id="ch3sumn61">61.
                         The first sharpe weather in Capr. shut the Bees in.</note> The first foule
                     and cold weather in <term> Capricorne</term> shut the Wickets close, to save the
                     Bees from the Tit-mouse, <ref target="#ch3bibln34"> v.</ref>
@@ -4313,21 +4313,21 @@
                     untill the weather alter: and when <term>Aquarius</term> is halfe spent, if, for
                     feare of a piercing night-frost, you barre them up in the evening; let them goe
                     againe in the morning, unlesse either snow or boysterous windes forbid you. In
-                    winter provide your Hives.<ref target="#ch3sumn7">v.n.7.</ref></p>
-                <p xml:id="ch3par78"><note type="authorial" subtype="summary" xml:id="ch3sumn63">63.
+                    winter provide your Hives.<ref target="#ch3sumn7">v.n.7.</ref></lem><rdg wit="#b1609"><ptr target="1609.xml#ch3ancs63 1609.xml#ch3ance63"/></rdg></app></p>
+                <p xml:id="ch3par78"><app type="minor" subtype="add"><lem wit="#b1623"><note type="authorial" subtype="summary" xml:id="ch3sumn63">63.
                         The SPRING.</note> The still Moneths of Winter being past, the new yeere
                     entreth with <term>Pisces</term>, the first moneth of the Spring: when the
-                    Plants begin to sprout, and the Bees to breed againe. </p>
+                    Plants begin to sprout, and the Bees to breed againe. </lem><rdg wit="#b1609"></rdg></app></p>
                 <p xml:id="ch3par79">
                     <note type="authorial" subtype="summary" xml:id="ch3sumn64">64.
                             <term>PISCES</term>.</note>
-                    <note type="authorial" subtype="summary" xml:id="ch3sumn65">65. The first faire
+                    <app type="minor" subtype="change"><lem wit="#b1623"><note type="authorial" subtype="summary" xml:id="ch3sumn65">65. The first faire
                         day in Pisces, set the Bees at libertie.</note> Now therefore, if not
                     sooner, the weather being faire, halfe open the wickets of the better sort, and
                     so let them stand day and night. For the night-cold, being now shorter and
                     weaker, is not dangerous to such: and the day-cold doth them more good then
                     hurt, causing them to lie still and spare their store, untill it be fit time to
-                    goe abroad. But for the weaker swarmes (which are more subject to cold, and
+                    goe abroad. </lem><rdg wit="#b1609"><ptr target="1609.xml#ch3ancs64 1609.xml#ch3ance64"/></rdg></app><app type="major" subtype="add"><lem wit="#b1623">But for the weaker swarmes (which are more subject to cold, and
                     robbing that now beginneth afresh, <ref target="#ch3bibln36">v.</ref>) <note
                         type="authorial" subtype="bibliographic" xml:id="ch3bibln36">
                         <ref target="#ch7sumn27">v.c.7. n.27.</ref>
@@ -4335,15 +4335,15 @@
                     untill it be warme: and then give them but roome for a Bee or two to passe,
                     specially those that stand most warme in the Sunneshine, which maketh the
                     robbers able to endure the siege, whom otherwise the aires chilnesse would
-                    quickly discourage. </p>
-                <p xml:id="ch3par80"><note type="authorial" subtype="summary" xml:id="ch3sumn66">66.
+                    quickly discourage. </lem><rdg wit="#b1609"></rdg></app></p>
+                <p xml:id="ch3par80"><app type="minor" subtype="add"><lem wit="#b1623"><note type="authorial" subtype="summary" xml:id="ch3sumn66">66.
                         Now dresse their Troughes.</note> And now (the Bees beginning to breed, <ref
                         target="#ch3bibln37">v.</ref>
                     <note type="authorial" subtype="bibliographic" xml:id="ch3bibln37">
                         <ref target="#ch4sumn12">V.c.4.n. 12.</ref>&amp;<ref target="#ch6sumn53"
                             >c.6.n. 53.</ref>
                     </note> is the time to dresse and fill their Troughs, which all the winter lay
-                    neglected. </p>
+                    neglected. </lem><rdg wit="#b1609"></rdg></app></p>
                 <p xml:id="ch3par81"><note type="authorial" subtype="summary" xml:id="ch3sumn67">67.
                         Clense the stools.</note> At this time, in a morning before the Bees come
                     much abroad, lift up your Hives: and quickly sweeping the dead Bees and other
@@ -4365,9 +4365,9 @@
                     necessarie, and specially for the better stalls.</p>
                 <p xml:id="ch3par83"><note type="authorial" subtype="summary" xml:id="ch3sumn68">68.
                         And feede or drive light stalls.</note> Those that by their lightnesse you
-                    perceive to lack honey, you may now save by feeding, <ref target="#ch8sumn11"
-                        >v.c. 8. n.11.</ref> or driving them into others that have store. <ref
-                        target="#ch10p1n15">v.c.10. p. 1.n.15.</ref></p>
+                    perceive to lack honey, you may now save <app type="minor" subtype="add"><lem wit="#b1623">by feeding, <ref target="#ch8sumn11"
+                        >v.c. 8. n.11.</ref></lem><rdg wit="#b1609"></rdg></app> or driving them into others that have store. <ref
+                            target="#ch10p1n15">v.<app type="reference" subtype="add"><lem wit="#b1623">c.10. p. 1.n.15.</lem><rdg wit="#b1609"></rdg></app></ref></p>
                 <p xml:id="ch3par84">
                     <note type="authorial" subtype="summary" xml:id="ch3sumn69">69.
                             <term>ARIES</term>.</note>
@@ -4375,15 +4375,15 @@
                         chiefe robbing time.</note>
                     <term> Aries</term> is almost as dangerous a moneth, for robbing, as
                         <term>Virgo:</term> and therefore you must have a care in the evenings to
-                    shut the Wickets, &amp; in the mornings not, before it be warm, to halfe-open
-                    them againe: and where the drie winds and hot sunne have shrunke the cloome, be
-                    carefull to fill up the chinkes againe. </p>
+                    shut the <app type="vocabulary" subtype="change"><lem wit="#b1623">Wickets</lem><rdg wit="#b1609"><ptr target="1609.xml#ch3ancs65 1609.xml#ch3ance65"/></rdg></app>, &amp; in the mornings not, before it be warm, to <app type="vocabulary" subtype="add"><lem wit="#b1623">halfe-</lem><rdg wit="#b1609"></rdg></app>open
+                    them againe: <app type="minor" subtype="add"><lem wit="#b1623">and where the drie winds and hot sunne have shrunke the cloome, be
+                        carefull to fill up the chinkes againe. </lem><rdg wit="#b1609"></rdg></app></p>
                 <p xml:id="ch3par85">The poore stalls this moneth would be halfe-shut all the day,
                     as in <term>Virgo</term> and <term>Libra.</term></p>
                 <p xml:id="ch3par86"><note type="authorial" subtype="summary" xml:id="ch3sumn71">71.
                         In <term>TAURUS</term> remove the bars.</note> At <term>Taurus</term>, and
-                    sooner, if sooner you see<ref target="#ch3glon10">*</ref> cause, removing the
-                    Barres from the better stalls, set the Wickets open: and for the weaker sort,
+                    sooner, if sooner you see<ref target="#ch3glon10">*</ref> cause, <app type="minor" subtype="change"><lem wit="#b1623">removing the
+                        Barres from the better stalls, set the Wickets open:</lem><rdg wit="#b1609"><ptr target="1609.xml#ch3ancs66 1609.xml#ch3ance66"/></rdg></app> and for the weaker sort,
                     let them all this moneth be shut in the evenings: and in the mornings, as soone
                     as it is warme, be but halfe-opened. </p>
                 <note type="authorial" subtype="gloss" place="inline" xml:id="ch3glon10">*That is,
