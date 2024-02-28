@@ -3638,12 +3638,12 @@
                             most profitable. </lem>
                         <rdg wit="#b1609"/>
                     </app></p>
-                <p xml:id="ch3par11">Have alwaies Hives enough of all sorts <app type="minor"
+                <p xml:id="ch3par11">Have alwaies Hives enough of <app type="vocabulary" subtype="change"><lem wit="#b1623">all sorts</lem><rdg wit="#b1609"><ptr target="1609.xml#ch3ancs2x 1609.xml#ch3ance2x"/></rdg></app> <app type="minor"
                         subtype="add">
-                        <lem wit="#b1623">(but most of the midling size) in store, lest they be to
-                            seeke when you should use them.</lem>
-                        <rdg wit="#b1609"/>
-                    </app></p>
+                    <lem wit="#b1623">(but most of the midling size)</lem>
+                    <rdg wit="#b1609"/>
+                </app> in store, lest they be to
+                            seeke when you should use them.</p>
                 <p xml:id="ch3par12"><note type="authorial" subtype="summary" xml:id="ch3sumn7">7.
                         When Hives are to be made <app type="vocabulary" subtype="add">
                             <lem wit="#b1623">and provided.</lem>
