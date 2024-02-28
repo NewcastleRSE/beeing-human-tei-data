@@ -3648,7 +3648,7 @@
                         When Hives are to be made <app type="vocabulary" subtype="add">
                             <lem wit="#b1623">and provided.</lem>
                             <rdg wit="#b1609"/>
-                        </app></note> The best time for making them, whether they be Strawne or
+                        </app></note> The best time for making <app type="vocabulary" subtype="del"><lem wit="#b1623"></lem><rdg wit="#b1609"><ptr target="1609.xml#ch3ancs2xx 1609.xml#ch3ance2xx"/></rdg></app> them, whether they be Strawne or
                     Wicker, is in the three <app type="vocabulary" subtype="change">
                         <lem wit="#b1623">still</lem>
                         <rdg wit="#b1609"><ptr target="1609.xml#ch3ancs3 1609.xml#ch3ance3"/></rdg>
@@ -3682,14 +3682,14 @@
                         type="vocabulary" subtype="change">
                         <lem wit="#b1623">jagges</lem>
                         <rdg wit="#b1609"><ptr target="1609.xml#ch3ancs5 1609.xml#ch3ance5"/></rdg>
-                    </app> that are fast in the Hive, making the in-side as smooth as may be: <app
-                        type="major" subtype="change">
-                        <lem wit="#b1623">for these obstacles being many, if they cause not the Bees
+                    </app> that are fast in the Hive, making the in-side as smooth as may be: <app type="minor" subtype="del"><lem wit="#b1623"></lem><rdg wit="#b1609"><ptr target="1609.xml#ch3ancs6 1609.xml#ch3ance6"/></rdg></app>for these obstacles <app
+                        type="minor" subtype="change">
+                        <lem wit="#b1623">being many, if they cause not the Bees
                             to forsake the Hive, yet will they much trouble and hinder them: you may
                             heare them (specially in the night) scraping and gnawing three or foure
                             daies after they be hived, yea sometime a weeke together, as though
                             there were mise in the Hive: and in strawne Hives a long time after. </lem>
-                        <rdg wit="#b1609"><ptr target="1609.xml#ch3ancs6 1609.xml#ch3ance6"/></rdg>
+                        <rdg wit="#b1609"><ptr target="1609.xml#ch3ancs7 1609.xml#ch3ance7"/></rdg>
                     </app></p>
                 <p xml:id="ch3par14"><app type="major" subtype="change">
                         <lem wit="#b1623"><note type="authorial" subtype="summary" xml:id="ch3sumn9"
