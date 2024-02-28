@@ -3682,27 +3682,23 @@
                         type="vocabulary" subtype="change">
                         <lem wit="#b1623">jagges</lem>
                         <rdg wit="#b1609"><ptr target="1609.xml#ch3ancs5 1609.xml#ch3ance5"/></rdg>
-                    </app> that are fast in the Hive, making the in-side as smooth as may be: <app type="minor" subtype="del"><lem wit="#b1623"></lem><rdg wit="#b1609"><ptr target="1609.xml#ch3ancs6 1609.xml#ch3ance6"/></rdg></app>for these obstacles <app
-                        type="minor" subtype="change">
-                        <lem wit="#b1623">being many, if they cause not the Bees
+                    </app> that are fast in the Hive, making the in-side as smooth as may be: <app type="minor" subtype="del"><lem wit="#b1623"></lem><rdg wit="#b1609"><ptr target="1609.xml#ch3ancs6 1609.xml#ch3ance6"/></rdg></app>for these obstacles being many, if they cause not the Bees
                             to forsake the Hive, yet will they much trouble and hinder them: you may
                             heare them (specially in the night) scraping and gnawing three or foure
                             daies after they be hived, yea sometime a weeke together, as though
-                            there were mise in the Hive: and in strawne Hives a long time after. </lem>
-                        <rdg wit="#b1609"><ptr target="1609.xml#ch3ancs7 1609.xml#ch3ance7"/></rdg>
-                    </app></p>
-                <p xml:id="ch3par14"><app type="major" subtype="change">
-                        <lem wit="#b1623"><note type="authorial" subtype="summary" xml:id="ch3sumn9"
-                                >9. The pruning of Hives.</note> If you need but few Hives you may
+                            there were mise in the Hive: and in strawne Hives a long time after. <note type="authorial" subtype="summary" xml:id="ch3sumn9"
+                                >9. The pruning of Hives.</note></p>
+                <p xml:id="ch3par14"><app type="major" subtype="add">
+                    <lem wit="#b1623"> If you need but few Hives you may
                             prune them cleane with your knife: if you must use many, then, having
                             wet the skirts with a cloth, singe or sweale the in-side: but first and
                             last rub it well with a Rubber, which is a peece of rough grind-stone or
                             sand-stone, as great as your hand can hold.</lem>
-                        <rdg wit="#b1609"><ptr target="1609.xml#ch3ancs7 1609.xml#ch3ancs7"/></rdg>
+                        <rdg wit="#b1609"></rdg>
                     </app></p>
                 <p xml:id="ch3par15"><note type="authorial" subtype="summary" xml:id="ch3sumn10">10.
                         The spraying or spleeting of them.</note>
-                    <app type="major" subtype="change">
+                    <app type="major" subtype="add">
                         <lem wit="#b1623">2. The Hive being pruned, put Spleetes in it, <ref
                                 target="#ch3glon2" rend="superscript">a</ref> three or foure, as the
                             largenesse of the Hive shall require: the upper ends whereof set
@@ -3715,8 +3711,7 @@
                             strawne Hive, set the upper ends together in a Cop, and the nether ends
                             against the briars or threads, between the third &amp; fourth
                             roule.</lem>
-                        <rdg wit="#b1609"><ptr target="1609.xml#ch3ancs8 1609.xml#ch3ance8"
-                            /></rdg>
+                        <rdg wit="#b1609"></rdg>
                     </app></p>
                 <p xml:id="ch3par16"><app type="major" subtype="add">
                         <lem wit="#b1623"><note type="authorial" subtype="summary"
@@ -3727,7 +3722,7 @@
                             convex, turned or hewed fit to the concavitie of the top of the Hive. </lem>
                         <rdg wit="#b1609"/>
                     </app></p>
-                <p xml:id="ch3par17"><app type="major" subtype="add">
+                <p xml:id="ch3par17"><app type="major" subtype="change">
                         <lem wit="#b1623">And for the Spleets, take a streight hazel or
                             willow-sticke, quarter it if it be bigge enough, else slit it: then
                             shave and smooth the clefts, and having brought them to a convenient
@@ -3737,13 +3732,13 @@
                             joyne in the Cop or middle of the staffe, with their backs leaning <ref
                                 target="#ch3glon4" rend="superscript">c</ref> hard and fast against
                             one another. </lem>
-                        <rdg wit="#b1609"/>
+                        <rdg wit="#b1609"><ptr target="1609.xml#ch3ancs8 1609.xml#ch3ance8"/></rdg>
                     </app></p>
-                <app type="major" subtype="add">
-                    <lem wit="#b1623"><note type="authorial" subtype="gloss" place="inline"
-                            xml:id="ch3glon2">(a) If the Hive conteine above three peckes, it may
-                            well receive foure Spleets: otherwise three will suffice. </note>
-                        <note type="authorial" subtype="gloss" place="inline" xml:id="ch3glon3">(b)
+                
+                    <note type="authorial" subtype="gloss" place="inline"
+                            xml:id="ch3glon2"><app type="minor" subtype="change"><lem wit="#b1623">(a) If the Hive conteine above three peckes, it may
+                                well receive foure Spleets: otherwise three will suffice. </lem><rdg wit="#b1609"><ptr target="1609.xml#ch3ancs8x 1609.xml#ch3ance8x"/></rdg></app></note>
+                         <app type="major" subtype="add"><lem wit="#b1623"><note type="authorial" subtype="gloss" place="inline" xml:id="ch3glon3">(b)
                             Stiffe enough to keepe up the Strawne Hives from sinking, specially when
                             they are turned. <ref target="#ch5sumn22">v.c.5.n.22.</ref>&amp;<ref
                                 target="#ch5sumn23">23.</ref></note>
@@ -3754,17 +3749,13 @@
                             circle: (you may readily try them, before you put them in, by Moulds
                             made just of those formes) and so will they stand close and firme
                             together. The first two of three, and the first three of foure are
-                            loose: it is the last that makes all fast.</note></lem>
-                    <rdg wit="#b1609"/>
-                </app>
-                <p xml:id="ch3par18"><app type="major" subtype="add">
-                        <lem wit="#b1623">And this is a handsome, easie, and sure way of spleeting:
+                            loose: it is the last that makes all fast.</note></lem><rdg wit="#b1609"></rdg></app>
+                <p xml:id="ch3par18"> <app type="minor" subtype="change"><lem wit="#b1623">And this is a handsome, easie, and sure way of spleeting:
                             it is also good for drawing the Combes without breaking, and for keeping
                             the Hive from sinking and from tearing at the top. Besides which there
                             are divers sorts of spleeting, needlesse to be rehearsed: for every
                             Countrey hath his fashion.</lem>
-                        <rdg wit="#b1609"/>
-                    </app></p>
+                    <rdg wit="#b1609"><ptr target="1609.xml#ch3ancs8xx 1609.xml#ch3ance8xx"/></rdg></app></p>
                 <p xml:id="ch3par19"><note type="authorial" subtype="summary" xml:id="ch3sumn12">12.
                         The seasoning of them.</note> 3 Lastly, in swarming time season the Hives
                     that you meane to use, rubbing them with sweet herbes such as the Bees love, as
