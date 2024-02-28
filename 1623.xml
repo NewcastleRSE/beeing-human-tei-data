@@ -3858,12 +3858,11 @@
                     </app></p>
                 <p xml:id="ch3par25"><note type="authorial" subtype="summary" xml:id="ch3sumn18">18.
                         The wreathed Cap.</note>
-                    <app type="minor" subtype="change">
+                    <app type="minor" subtype="add">
                         <lem wit="#b1623">The wreathed Cap is thus made; having bound the bundles
-                            all fast together with a thong, cord, or other strong string,</lem>
-                        <rdg wit="#b1609"><ptr target="1609.xml#ch3ancs13 1609.xml#ch3ance13"
-                            /></rdg>
-                    </app> lease out the sheafe almost a handfull of the strongest straw, and lay it
+                            all fast together </lem><rdg wit="#b1609"></rdg>
+                    </app>with a thong, cord, or other strong string,
+                        <app type="minor" subtype="del"><lem wit="#b1623"></lem><rdg wit="#b1609"><ptr target="1609.xml#ch3ancs13x 1609.xml#ch3ance13x"/></rdg></app> lease out the sheafe almost a handfull of the strongest straw, and lay it
                     in soake about a quarter of an houre. Being thus prepared, take out of that wet
                     bundle <app type="vocabulary" subtype="change">
                         <lem wit="#b1623">a litche of</lem>
