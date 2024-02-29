@@ -3755,7 +3755,7 @@
                     and but one quarter of an inch high, leaving the space betweene the two passages
                     a quarter of an inche. The forme of which barres both single &amp; double you
                     may see in these figures. 
-                        DIAGRAM
+                        DIAGRAM 
                         
                     </rdg>
                     </app></p>
@@ -4133,19 +4133,8 @@
                          and cloome it fast.v.25
                     </rdg>
                     </app></p>
-                <app type="major" subtype="del">
-                    <lem wit="#b1623" />
-                    <rdg wit="#b1609" source="1609.xml#ch3ancs47 1609.xml#ch3ance47">40  Moreover because the waspes and robbing Bees wilbe stealing betimes,
-                    before the true Bees are stirring; it is good in the evening when the Bees are
-                    all in, to shut the porch of those that are weake, that a Bee cannot passe:
-                    &amp; not to open the same the next day till the weather be warme, and the Bees
-                    offer to come abroad, though it be not before 9. 0r 10. 0r 11. a clock: and then
-                    you may ether open it or halfe-open it, according to the flight of your Bees.
-                        And keepe them shut til they offer to goe abroad.
-                    v.
-                    
-                        v.n.25</rdg>
-                </app>
+                
+             
                 <p xml:id="ch3par66"><note type="authorial" subtype="summary" xml:id="ch3sumn47">47.
                         Set up the Winter-doores.</note>
                     <app type="minor" subtype="add">
@@ -4200,7 +4189,7 @@
                         <lem wit="#b1623"><note type="authorial" subtype="summary" xml:id="ch3sumn48">48. And keepe them shut til they offer to go
                                 abroad.</note> Moreover, because the Waspes and robbing Bees will be
                             stealing betimes, before the true Bees be stirring; it is good in the
-                            evening, when the Bees are all in, to barre up the Wickets of those that
+                            evening, when the Bees are all in, to <app type="vocabulary" subtype="change"><lem wit="#b1623">barre up the Wickets</lem><rdg wit="#b1609" source="1609.xml#ch3ancs47 1609.xml#ch3ance47">shut the porch</rdg></app> of those that
                             are weake, that a Bee cannot passe: and not to open the same the next
                             day till the weather be warme, and the Bees offer to come abroad, though
                             it be not before nine, or ten, or eleven a clock: and then you may
@@ -4252,7 +4241,7 @@
                     Spring they will surely yeeld, or die of themselves, or flie away. <app type="minor" subtype="change">
                         <lem wit="#b1623">Note yet, that</lem>
                         <rdg wit="#b1609" source="1609.xml#ch3ancs53 1609.xml#ch3ance53">But</rdg>
-                    </app> those stalls which are very full, will make <app type="minor" subtype="change">
+                    </app> those stalls <app type="vocabulary" subtype="change"><lem wit="#b1623">which</lem><rdg wit="#b1609" source="1609.xml#ch3ancs53x 1609.xml#ch3ance53x">that</rdg></app> are very full, will make <app type="minor" subtype="change">
                         <lem wit="#b1623">but a little</lem>
                         <rdg wit="#b1609" source="1609.xml#ch3ancs54 1609.xml#ch3ance54">little or no</rdg>
                     </app> noise when you knocke them, <app type="minor" subtype="add">
@@ -4260,11 +4249,11 @@
                             <pb n="G3r" />
                             <fw type="header"> and the Dressing of them. </fw> and all over the
                             Hive)</lem>
-                        <rdg wit="#b1609" source="1609.xml#ch3ancs54 1609.xml#ch3ance54">little or no</rdg>
+                        <rdg wit="#b1609" />
                     </app> untill toward the end of this moneth, when they be gone up from the
                     doore, <app type="minor" subtype="add">
                         <lem wit="#b1623">and their number is somewhat diminished.</lem>
-                        <rdg wit="#b1609" source="1609.xml#ch3ancs54 1609.xml#ch3ance54">little or no</rdg>
+                        <rdg wit="#b1609" />
                     </app>
                 </p>
                 <p xml:id="ch3par71"><note type="authorial" subtype="summary" xml:id="ch3sumn51">51.
