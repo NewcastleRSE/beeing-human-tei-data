@@ -3542,8 +3542,8 @@
                         <rdg wit="#b1609" source="1609.xml#ch3ancs21 1609.xml#ch3ance21">the space of fowre or five inches on each side the dore</rdg>
                     </app>, where it must be pared somewhat shorter, that the Bees passage be not
                     hindered. </p>
-                <p xml:id="ch3par30"><note type="authorial" subtype="summary" xml:id="ch3sumn22">22.
-                        The belt or garth.</note> And then with a small pliant <app type="vocabulary" subtype="change">
+                <p xml:id="ch3par30"><note type="authorial" subtype="summary" xml:id="ch3sumn22"><app type="vocabulary" subtype="change"><lem wit="#b1623">22.
+                    The belt or garth.</lem><rdg wit="#b1609"><ptr target="1609.xml#ch3ancs21x 1609.xml#ch3ance21x" /></rdg></app></note> And then with a small pliant <app type="vocabulary" subtype="change">
                         <lem wit="#b1623">Garth or Belt</lem>
                         <rdg wit="#b1609" source="1609.xml#ch3ancs22 1609.xml#ch3ance22">girdle</rdg>
                     </app> of Bethwyn, <app type="vocabulary" subtype="add">
@@ -3559,7 +3559,7 @@
                         <lem wit="#b1623">Belt</lem>
                         <rdg wit="#b1609" source="1609.xml#ch3ancs24 1609.xml#ch3ance24">girdle</rdg>
                     </app>, set that before, that the hackle, bearing in that place farther out, may
-                    shoot the water from the doore: otherwise, for that purpose, set the Belt
+                    shoot the water from the doore: otherwise, for that purpose, set the <app type="vocabulary" subtype="change"><lem wit="#b1623">Belt</lem><rdg wit="#b1609" source="1609.xml#ch3ancs25 1609.xml#ch3ance25">girdle</rdg></app>
                     somewhat higher before, then behinde.</p>
                 <note type="authorial" subtype="gloss" place="inline" xml:id="ch3glon6"><app type="minor" subtype="add">
                         <lem wit="#b1623">* In the Winter, place the Belt below the middle or
