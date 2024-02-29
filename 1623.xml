@@ -4141,7 +4141,7 @@
                         </figure></lem>
                     <rdg wit="#b1609"/>
                 </app>
-                <p xml:id="ch3par43"><app type="major" subtype="add">
+                <p xml:id="ch3par43"><app type="major" subtype="change">
                         <lem wit="#b1623"><note type="authorial" subtype="summary"
                                 xml:id="ch3sumn31">31. The use of it.</note> The use of the
                             Winter-doore is to straighten the passage when there needeth not so much
@@ -4149,12 +4149,12 @@
                             may have the lesse force, and that the Mice may not enter, which in
                             winter are wont to make much spoile. <ref target="#ch7sumn3">
                                 v.c.7.n.3.</ref></lem>
-                        <rdg wit="#b1609"/>
+                        <rdg wit="#b1609"><ptr target="1609.xml#ch3ancs32 1609.xml#ch3ance32"/></rdg>
                     </app></p>
                 <p xml:id="ch3par44"><note type="authorial" subtype="summary" xml:id="ch3sumn32">32.
                         The <app type="minor" subtype="del">
                             <lem wit="#b1623"/>
-                            <rdg wit="#b1609"/>
+                            <rdg wit="#b1609"><ptr target="1609.xml#ch3ancs30 1609.xml#ch3ance30"/></rdg>
                         </app>Barre.</note>
                     <app type="major" subtype="change">
                         <lem wit="#b1623">The Barre or shutting is to be made foure square of some
@@ -4176,17 +4176,16 @@
                             inch.</note></lem>
                     <rdg wit="1609.xml#ch3ancs31 1609.xml#ch3ance31"/>
                 </app>
-                <p xml:id="ch3par45"><app type="major" subtype="change">
+                <p xml:id="ch3par45"><app type="major" subtype="add">
                         <lem wit="#b1623">For want of Lead or other mettall, you may with a hammer
                             and grind-stone fit a Tile-shard: but let that be somewhat broad, that
                             it may lie the faster on the stoole. </lem>
-                        <rdg wit="#b1609"><ptr target="1609.xml#ch3ancs31 1609.xml#ch3ance31"
-                            /></rdg>
+                        <rdg wit="#b1609"></rdg>
                     </app></p>
                 <p xml:id="ch3par46"><note type="authorial" subtype="summary" xml:id="ch3sumn33">33.
                         The use of it.</note>
                     <app type="major" subtype="change">
-                        <lem wit="#b1623">this Barre you may shut or halfe shut the Wicket, as you
+                        <lem wit="#b1623">With this Barre you may shut or halfe shut the Wicket, as you
                             shall see cause; to defend the Bees in the more dangerous times from
                             Frost, Snow, Titmise, and Robbers. </lem>
                         <rdg wit="#b1609"><ptr target="1609.xml#ch3ancs32 1609.xml#ch3ance32"
@@ -4203,7 +4202,7 @@
                 </app>
 
                 <p xml:id="ch3par48"><note type="authorial" subtype="summary" xml:id="ch3sumn34">34.
-                            <app type="minor" subtype="change">
+                            <app type="vocabulary" subtype="change">
                             <lem wit="#b1623">The Settle.</lem>
                             <rdg wit="#b1609"><ptr target="1609.xml#ch3ancs34 1609.xml#ch3ance34"
                                 /></rdg>
@@ -4241,8 +4240,8 @@
                             <rdg wit="#b1609"><ptr target="1609.xml#ch3ancs39 1609.xml#ch3ance39"
                                 /></rdg>
                         </app></note>
-                    <hi rend="drop-capital">B</hi>Ee-hives being thus fitted with all necessaries,
-                    are afterward at divers times of the yeare to be diversly ordered. </p>
+                    <app type="major" subtype="add"><lem wit="#b1623"><hi rend="drop-capital">B</hi>Ee-hives being thus fitted with all necessaries,
+                        are afterward at divers times of the yeare to be diversly ordered.</lem><rdg wit="#b1609"></rdg></app> </p>
                 <p xml:id="ch3par50"><app type="major" subtype="add">
                         <lem wit="#b1623"><note type="authorial" subtype="summary"
                                 xml:id="ch3sumn36">36. The moneths and quarters of the <term>
@@ -4405,7 +4404,7 @@
                                 target="#ch5sumn21">&amp;c.v.c.5.n. 21.</ref></lem>
                         <rdg wit="#b1609"><ptr target="1609.xml#ch3ancs42 1609.xml#ch3ance42"
                             /></rdg>
-                    </app></p>
+                    </app><app type="major" subtype="del"><lem wit="#b1623"></lem><rdg wit="#b1609"><ptr target="1609.xml#ch3ancs42x 1609.xml#ch3ance42x"/></rdg></app></p>
                 <p xml:id="ch3par60"><note type="authorial" subtype="summary" xml:id="ch3sumn39">39.
                             <term>CANCER</term>.</note>
                     <note type="authorial" subtype="summary" xml:id="ch3sumn40">40. To make the Bees
