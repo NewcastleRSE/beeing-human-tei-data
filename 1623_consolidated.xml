@@ -3450,8 +3450,8 @@
                             fashions, the one wreathed, the other platted.</lem>
                         <rdg wit="#b1609" />
                     </app></p>
-                <p xml:id="ch3par25"><note type="authorial" subtype="summary" xml:id="ch3sumn18">18.
-                        The wreathed Cap.</note>
+                <p xml:id="ch3par25"><note type="authorial" subtype="summary" xml:id="ch3sumn18"><app type="minor" subtype="add"><lem wit="#b1623">18.
+                    The wreathed Cap.</lem><rdg wit="#b1609" /></app></note>
                     <app type="minor" subtype="add">
                         <lem wit="#b1623">The wreathed Cap is thus made; having bound the bundles
                             all fast together </lem><rdg wit="#b1609" />
@@ -3526,7 +3526,7 @@
                         <rdg wit="#b1609" />
                     </app> close under the Cap, betweene <app type="minor" subtype="change">
                         <lem wit="#b1623">sixteene and twenty</lem>
-                        <rdg wit="#b1609" />
+                        <rdg wit="#b1609" source="1609.xml#ch3ancs18 1609.xml#ch3ance18">14. and 18.</rdg>
                     </app> inches: <app type="minor" subtype="change">
                         <lem wit="#b1623">sixteene</lem>
                         <rdg wit="#b1609" source="1609.xml#ch3ancs19 1609.xml#ch3ance19">fourteene</rdg>
@@ -3633,7 +3633,7 @@
                     </app><app type="minor" subtype="add">
                         <lem wit="#b1623" />
                         <rdg wit="#b1609" source="1609.xml#ch3ancs29 1609.xml#ch3ance29">Unto the hive-dore there belong a barre, a 
-                        porch
+                       
                     
                     
                          porch, and a porch-dore: which for the safety of the Bees are to be used
@@ -3712,12 +3712,12 @@
                 <fw type="catch"> The</fw>
                 <pb n="F4v" />
                 <fw type="header"> Of the Hives, </fw>
-                <app type="major" subtype="add">
+                <app type="major" subtype="change">
                     <lem wit="#b1623"><figure>
                             <graphic url="#" />
                             <figDesc>DIAGRAM</figDesc>
                         </figure></lem>
-                    <rdg wit="#b1609" />
+                    <rdg wit="#b1609"><ptr target="1609.xml#ch3ancs30x 1609.xml#ch3ance30x" /></rdg>
                 </app>
                 <p xml:id="ch3par43"><app type="major" subtype="change">
                         <lem wit="#b1623"><note type="authorial" subtype="summary" xml:id="ch3sumn31">31. The use of it.</note> The use of the
