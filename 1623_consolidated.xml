@@ -3543,7 +3543,7 @@
                     </app>, where it must be pared somewhat shorter, that the Bees passage be not
                     hindered. </p>
                 <p xml:id="ch3par30"><note type="authorial" subtype="summary" xml:id="ch3sumn22"><app type="vocabulary" subtype="change"><lem wit="#b1623">22.
-                    The belt or garth.</lem><rdg wit="#b1609"><ptr target="1609.xml#ch3ancs21x 1609.xml#ch3ance21x" /></rdg></app></note> And then with a small pliant <app type="vocabulary" subtype="change">
+                    The belt or garth.</lem><rdg wit="#b1609" source="1609.xml#ch3ancs21x 1609.xml#ch3ance21x">The girdle.</rdg></app></note> And then with a small pliant <app type="vocabulary" subtype="change">
                         <lem wit="#b1623">Garth or Belt</lem>
                         <rdg wit="#b1609" source="1609.xml#ch3ancs22 1609.xml#ch3ance22">girdle</rdg>
                     </app> of Bethwyn, <app type="vocabulary" subtype="add">
@@ -3719,19 +3719,23 @@
                         </figure></lem>
                     <rdg wit="#b1609" />
                 </app>
-                <p xml:id="ch3par43"><app type="major" subtype="add">
+                <p xml:id="ch3par43"><app type="major" subtype="change">
                         <lem wit="#b1623"><note type="authorial" subtype="summary" xml:id="ch3sumn31">31. The use of it.</note> The use of the
                             Winter-doore is to straighten the passage when there needeth not so much
                             roome, that the Bees may the better keepe out the Robbers, that the Cold
                             may have the lesse force, and that the Mice may not enter, which in
                             winter are wont to make much spoile. <ref target="#ch7sumn3">
                                 v.c.7.n.3.</ref></lem>
-                        <rdg wit="#b1609" />
+                        <rdg wit="#b1609" source="1609.xml#ch3ancs32 1609.xml#ch3ance32"> The use of the barre is to streighten the passage where there needeth
+                    not so much roome, &amp; to keep out the enimie when the porch is from it.
+                        v.
+                    
+                        V.n.33</rdg>
                     </app></p>
                 <p xml:id="ch3par44"><note type="authorial" subtype="summary" xml:id="ch3sumn32">32.
                         The <app type="minor" subtype="del">
                             <lem wit="#b1623" />
-                            <rdg wit="#b1609" />
+                            <rdg wit="#b1609"><ptr target="1609.xml#ch3ancs30 1609.xml#ch3ance30" /></rdg>
                         </app>Barre.</note>
                     <app type="major" subtype="change">
                         <lem wit="#b1623">The Barre or shutting is to be made foure square of some
@@ -3762,27 +3766,16 @@
                             inch.</note></lem>
                     <rdg wit="1609.xml#ch3ancs31 1609.xml#ch3ance31" />
                 </app>
-                <p xml:id="ch3par45"><app type="major" subtype="change">
+                <p xml:id="ch3par45"><app type="major" subtype="add">
                         <lem wit="#b1623">For want of Lead or other mettall, you may with a hammer
                             and grind-stone fit a Tile-shard: but let that be somewhat broad, that
                             it may lie the faster on the stoole. </lem>
-                        <rdg wit="#b1609" source="1609.xml#ch3ancs31 1609.xml#ch3ance31">The barre is to be made of a piece of lath, trencher, or other thin wood
-                    an inch broad, &amp; fowre inches long: in the nether edge whereof you must cut
-                    a holownes 3 inches long &amp; almost halfe an inch high, so leaving halfe an
-                    inch at each ende uncut. And this will serve for most stalls: but if you have
-                    any so good, that they can not, easilie or without let, passe through this
-                    single barre; then for them cut an other holownesse above, of the former length,
-                    and but one quarter of an inch high, leaving the space betweene the two passages
-                    a quarter of an inche. The forme of which barres both single &amp; double you
-                    may see in these figures. 
-                        DIAGRAM
-                        
-                    </rdg>
+                        <rdg wit="#b1609" />
                     </app></p>
                 <p xml:id="ch3par46"><note type="authorial" subtype="summary" xml:id="ch3sumn33">33.
                         The use of it.</note>
                     <app type="major" subtype="change">
-                        <lem wit="#b1623">this Barre you may shut or halfe shut the Wicket, as you
+                        <lem wit="#b1623">With this Barre you may shut or halfe shut the Wicket, as you
                             shall see cause; to defend the Bees in the more dangerous times from
                             Frost, Snow, Titmise, and Robbers. </lem>
                         <rdg wit="#b1609" source="1609.xml#ch3ancs32 1609.xml#ch3ance32"> The use of the barre is to streighten the passage where there needeth
@@ -3844,7 +3837,7 @@
                 </app>
 
                 <p xml:id="ch3par48"><note type="authorial" subtype="summary" xml:id="ch3sumn34">34.
-                            <app type="minor" subtype="change">
+                            <app type="vocabulary" subtype="change">
                             <lem wit="#b1623">The Settle.</lem>
                             <rdg wit="#b1609" source="1609.xml#ch3ancs34 1609.xml#ch3ance34">The greese.</rdg>
                         </app></note>
@@ -3879,8 +3872,8 @@
                             <rdg wit="#b1609" source="1609.xml#ch3ancs39 1609.xml#ch3ance39">in every month, &amp; first in
                             GEMINI.</rdg>
                         </app></note>
-                    <hi rend="drop-capital">B</hi>Ee-hives being thus fitted with all necessaries,
-                    are afterward at divers times of the yeare to be diversly ordered. </p>
+                    <app type="major" subtype="add"><lem wit="#b1623"><hi rend="drop-capital">B</hi>Ee-hives being thus fitted with all necessaries,
+                        are afterward at divers times of the yeare to be diversly ordered.</lem><rdg wit="#b1609" /></app> </p>
                 <p xml:id="ch3par50"><app type="major" subtype="add">
                         <lem wit="#b1623"><note type="authorial" subtype="summary" xml:id="ch3sumn36">36. The moneths and quarters of the <term>
                                     Meliss&#230;an</term> yeare</note> The <term>Meliss&#230;en</term> yeare
@@ -4036,7 +4029,10 @@
                     hives, and to put in the Bees which will then lie forth. v.
                     
                         v.c. 5 n. 20.</rdg>
-                    </app></p>
+                    </app><app type="major" subtype="del"><lem wit="#b1623" /><rdg wit="#b1609" source="1609.xml#ch3ancs42x 1609.xml#ch3ance42x">If you then desire that any of your two-yeere stalls, which
+                    have not yet swarmed, should swarme, see whether the combs reach within an inch
+                    of the stoole: if they doe not, make a false bottome to reach to that scantlet.
+                        v.n.41.</rdg></app></p>
                 <p xml:id="ch3par60"><note type="authorial" subtype="summary" xml:id="ch3sumn39">39.
                             <term>CANCER</term>.</note>
                     <note type="authorial" subtype="summary" xml:id="ch3sumn40">40. To make the Bees
