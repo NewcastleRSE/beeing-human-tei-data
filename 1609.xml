@@ -2806,8 +2806,8 @@
                     single barre; then for them cut an other holownesse above, of the former length,
                     and but one quarter of an inch high, leaving the space betweene the two passages
                     a quarter of an inche. The forme of which barres both single &amp; double you
-                    may see in these figures. <figure>
-                        <figDesc>DIAGRAM</figDesc> 
+                    may see in these figures. <anchor xml:id="ch3ancs30x"/><figure>
+                        <figDesc>DIAGRAM</figDesc><anchor xml:id="ch3anc30x"/>
                         <graphic url="#"/>
                     </figure><anchor xml:id="ch3ance31"/>
                    <note>24 <hi>The use of it</hi>
@@ -2832,10 +2832,10 @@
                     there must be a chanel cut in the upper part, in which the dore is to slide to
                     and fro. The fashion of which porch you may best understand by the figure of one
                     ende, thus represented. </p>
-                <figure>
+                <anchor xml:id="ch3ancs33x"/><figure>
                     <figDesc>DIAGRAM</figDesc>
                     <graphic url="#"/>
-                </figure>
+                </figure><anchor xml:id="ch3ance33x"/>
                 <p xml:id="ch3par25">Out of one square sticke, an inch one way and two inches the
                     other &amp; twenty in length, you may cut halfe a skore. For great swarmes and
                     full stalls, which cannot easily passe through these porches, make them an inch
