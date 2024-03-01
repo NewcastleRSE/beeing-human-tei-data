@@ -3835,7 +3835,7 @@
                     cause. The use of it
                     </rdg>
                 </app>
-
+<app type="other" subtype="del"><lem wit="#b1623" /><rdg wit="#b1609"><ptr target="1609.xml#ch3ancs33x 1609.xml#ch3ance33x" /></rdg></app>
                 <p xml:id="ch3par48"><note type="authorial" subtype="summary" xml:id="ch3sumn34">34.
                             <app type="vocabulary" subtype="change">
                             <lem wit="#b1623">The Settle.</lem>
@@ -4185,8 +4185,8 @@
                             <bibl>Hist.l.9.c.40.</bibl>
                         </note></quote>
                 </p>
-                <p xml:id="ch3par67"><app type="major" subtype="add">
-                        <lem wit="#b1623"><note type="authorial" subtype="summary" xml:id="ch3sumn48">48. And keepe them shut til they offer to go
+                <p xml:id="ch3par67">
+                       <note type="authorial" subtype="summary" xml:id="ch3sumn48">48. And keepe them shut til they offer to go
                                 abroad.</note> Moreover, because the Waspes and robbing Bees will be
                             stealing betimes, before the true Bees be stirring; it is good in the
                             evening, when the Bees are all in, to <app type="vocabulary" subtype="change"><lem wit="#b1623">barre up the Wickets</lem><rdg wit="#b1609" source="1609.xml#ch3ancs47 1609.xml#ch3ance47">shut the porch</rdg></app> of those that
@@ -4197,9 +4197,8 @@
                                 <ref target="#ch3bibln28">v.</ref>
                             <note type="authorial" subtype="bibliographic" xml:id="ch3bibln28">
                                 <ref target="#ch3sumn33">V.n. 33.</ref>
-                            </note></lem>
-                        <rdg wit="#b1609" />
-                    </app></p>
+                            </note>
+                    </p>
                 <p xml:id="ch3par68"><note type="authorial" subtype="summary" xml:id="ch3sumn49">49.
                         The reared stalls now to be set downe againe.</note> The stalls which you
                     reared in the end of <term> Cancer</term> for feare of <app type="minor" subtype="change">
