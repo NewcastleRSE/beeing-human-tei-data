@@ -4200,7 +4200,7 @@
                     <lem wit="#b1623"/>
                     <rdg wit="#b1609"><ptr target="1609.xml#ch3ancs33 1609.xml#ch3ance33"/></rdg>
                 </app>
-
+<app type="other" subtype="del"><lem wit="#b1623"></lem><rdg wit="#b1609"><ptr target="1609.xml#ch3ancs33x 1609.xml#ch3ance33x"/></rdg></app>
                 <p xml:id="ch3par48"><note type="authorial" subtype="summary" xml:id="ch3sumn34">34.
                             <app type="vocabulary" subtype="change">
                             <lem wit="#b1623">The Settle.</lem>
@@ -4540,7 +4540,7 @@
                         </note></quote>
                 </p>
                 <p xml:id="ch3par67">
-                        <lem wit="#b1623"><note type="authorial" subtype="summary"
+                       <note type="authorial" subtype="summary"
                                 xml:id="ch3sumn48">48. And keepe them shut til they offer to go
                                 abroad.</note> Moreover, because the Waspes and robbing Bees will be
                             stealing betimes, before the true Bees be stirring; it is good in the
