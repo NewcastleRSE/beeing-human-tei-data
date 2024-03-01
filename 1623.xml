@@ -4539,7 +4539,7 @@
                             <bibl>Hist.l.9.c.40.</bibl>
                         </note></quote>
                 </p>
-                <p xml:id="ch3par67"><app type="major" subtype="add">
+                <p xml:id="ch3par67">
                         <lem wit="#b1623"><note type="authorial" subtype="summary"
                                 xml:id="ch3sumn48">48. And keepe them shut til they offer to go
                                 abroad.</note> Moreover, because the Waspes and robbing Bees will be
@@ -4552,9 +4552,8 @@
                                 <ref target="#ch3bibln28">v.</ref>
                             <note type="authorial" subtype="bibliographic" xml:id="ch3bibln28">
                                 <ref target="#ch3sumn33">V.n. 33.</ref>
-                            </note></lem>
-                        <rdg wit="#b1609"/>
-                    </app></p>
+                            </note>
+                    </p>
                 <p xml:id="ch3par68"><note type="authorial" subtype="summary" xml:id="ch3sumn49">49.
                         The reared stalls now to be set downe againe.</note> The stalls which you
                     reared in the end of <term> Cancer</term> for feare of <app type="minor"
