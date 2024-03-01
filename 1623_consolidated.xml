@@ -3755,7 +3755,7 @@
                     and but one quarter of an inch high, leaving the space betweene the two passages
                     a quarter of an inche. The forme of which barres both single &amp; double you
                     may see in these figures. 
-                        DIAGRAM 
+                        DIAGRAM
                         
                     </rdg>
                     </app></p>
@@ -3802,9 +3802,9 @@
                     and fro. The fashion of which porch you may best understand by the figure of one
                     ende, thus represented. The making of the porch.
                     
+                    DIAGRAM
                     
-                DIAGRAM
-                    
+                
                 Out of one square sticke, an inch one way and two inches the
                     other &amp; twenty in length, you may cut halfe a skore. For great swarmes and
                     full stalls, which cannot easily passe through these porches, make them an inch
@@ -3835,7 +3835,10 @@
                     cause. The use of it
                     </rdg>
                 </app>
-<app type="other" subtype="del"><lem wit="#b1623" /><rdg wit="#b1609"><ptr target="1609.xml#ch3ancs33x 1609.xml#ch3ance33x" /></rdg></app>
+<app type="other" subtype="del"><lem wit="#b1623" /><rdg wit="#b1609" source="1609.xml#ch3ancs33x 1609.xml#ch3ance33x">
+                    DIAGRAM
+                    
+                </rdg></app>
                 <p xml:id="ch3par48"><note type="authorial" subtype="summary" xml:id="ch3sumn34">34.
                             <app type="vocabulary" subtype="change">
                             <lem wit="#b1623">The Settle.</lem>
