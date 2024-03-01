@@ -3717,7 +3717,10 @@
                             <graphic url="#" />
                             <figDesc>DIAGRAM</figDesc>
                         </figure></lem>
-                    <rdg wit="#b1609"><ptr target="1609.xml#ch3ancs30x 1609.xml#ch3ance30x" /></rdg>
+                    <rdg wit="#b1609" source="1609.xml#ch3ancs30x 1609.xml#ch3ance30x">
+                        DIAGRAM
+                        
+                    </rdg>
                 </app>
                 <p xml:id="ch3par43"><app type="major" subtype="change">
                         <lem wit="#b1623"><note type="authorial" subtype="summary" xml:id="ch3sumn31">31. The use of it.</note> The use of the
@@ -3735,7 +3738,7 @@
                 <p xml:id="ch3par44"><note type="authorial" subtype="summary" xml:id="ch3sumn32">32.
                         The <app type="minor" subtype="del">
                             <lem wit="#b1623" />
-                            <rdg wit="#b1609"><ptr target="1609.xml#ch3ancs30 1609.xml#ch3ance30" /></rdg>
+                            <rdg wit="#b1609" source="1609.xml#ch3ancs30 1609.xml#ch3ance30">The making of the</rdg>
                         </app>Barre.</note>
                     <app type="major" subtype="change">
                         <lem wit="#b1623">The Barre or shutting is to be made foure square of some
