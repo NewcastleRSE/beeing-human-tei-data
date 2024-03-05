@@ -3293,7 +3293,7 @@
                             to forsake the Hive, yet will they much trouble and hinder them: you may
                             heare them (specially in the night) scraping and gnawing three or foure
                             daies after they be hived, yea sometime a weeke together, as though
-                            there were mise in the Hive: and in strawne Hives <app type="minor" subtype="del"><lem wit="#b1623" /><rdg wit="#b1609"><ptr target="1609.xml#ch3ancs7 1609.xml#ch3ance7" /></rdg></app> a long time after. <note type="authorial" subtype="summary" xml:id="ch3sumn9">9. The pruning of Hives.</note></p>
+                            there were mise in the Hive: and in strawne Hives <app type="minor" subtype="del"><lem wit="#b1623" /><rdg wit="#b1609" source="1609.xml#ch3ancs7 1609.xml#ch3ance7">, if you help them not,</rdg></app> a long time after. <note type="authorial" subtype="summary" xml:id="ch3sumn9">9. The pruning of Hives.</note></p>
                 <p xml:id="ch3par14"><app type="major" subtype="add">
                     <lem wit="#b1623"> If you need but few Hives you may
                             prune them cleane with your knife: if you must use many, then, having
@@ -3310,7 +3310,7 @@
                             together at the top of the Hive, and the nether ends fasten below in
                             equall distance, about a handfull <fw type="catch"> above</fw>
                             <pb n="F1v" />
-                            <fw type="header"> Of the Hives, </fw> above the skirt. In a wicker Hive
+                            <fw type="header"> Of the Hives, </fw> above the skirt. In a wicker-Hive
                             let the upper ends rest against the middle of the staffe, &amp; the
                             nether ends against the parts of it betweene the Wickers; and in a
                             strawne Hive, set the upper ends together in a Cop, and the nether ends
@@ -3326,25 +3326,27 @@
                             convex, turned or hewed fit to the concavitie of the top of the Hive. </lem>
                         <rdg wit="#b1609" />
                     </app></p>
-                <p xml:id="ch3par17"><app type="major" subtype="change">
-                        <lem wit="#b1623">And for the Spleets, take a streight hazel or
-                            willow-sticke, quarter it if it be bigge enough, else slit it: then
-                            shave and smooth the clefts, and having brought them to a convenient
+                <p xml:id="ch3par17"><app type="minor" subtype="add">
+                    <lem wit="#b1623">And for the Spleets,</lem>
+                    <rdg wit="#b1609" />
+                </app> take a streight hazel or
+                    willow-sticke, <app type="vocabulary" subtype="del"><lem wit="#b1623" /><rdg wit="#b1609" source="1609.xml#ch3ancs8 1609.xml#ch3ance8">and</rdg></app>quarter it if it be bigge enough, <app type="vocabulary" subtype="change"><lem wit="#b1623">else</lem><rdg wit="#b1609" source="1609.xml#ch3ancs8x 1609.xml#ch3ance8x">otherwise</rdg></app> slit it: <app type="vocabulary" subtype="del"><lem wit="#b1623" /><rdg wit="#b1609" source="1609.xml#ch3ancs8xx 1609.xml#ch3ance8xx">andAnd
+                    this is the easiest &amp; quickest way of spleeting a hive: it is also strong
+                    enough for bearing the combs, and best for taking them forth without breaking.
+                    Besides which there are divers sortes of spleeting, needlesse to be rehearsed:
+                    for every country hath his fashion.</rdg></app>then
+                    shave and smooth the clefts, <app type="minor" subtype="change"><lem wit="#b1623">and having brought them to a</lem><rdg wit="#b1609" source="1609.xml#ch3ancs8xxx 1609.xml#ch3ance8xxx">which
+                    being of a </rdg></app> convenient
                                 <ref target="#ch3glon3" rend="superscript">b</ref> strength &amp;
-                            length, cut the lower ends forked, to stay against the Hives sides, and
+                            length, <app type="minor" subtype="change"><lem wit="#b1623">cut the lower ends forked, to stay against the Hives sides, and
                             the upper ends somwhat picked, and of that bignesse that they may fitly
                             joyne in the Cop or middle of the staffe, with their backs leaning <ref target="#ch3glon4" rend="superscript">c</ref> hard and fast against
-                            one another. </lem>
-                        <rdg wit="#b1609" source="1609.xml#ch3ancs8 1609.xml#ch3ance8">9  2. Then take a straight hazel or willow-stick and quarter it, if it be
-                    big enough, otherwise slit it: and then shave and smooth the cleaftes; which
-                    being of a convenient strength &amp; length put three of them in a hive, setting
+                                one another. </lem><rdg wit="#b1609" source="1609.xml#ch3ancs8xxxx 1609.xml#ch3ance8xxxx">put three of them in a hive, setting
                     the upper endes together in the top of the hive, and the nether ends equally
-                    distant one from an other within a handfull of the bottome.The spraying or spleeting of them.
-                    </rdg>
-                    </app></p>
+                    distant one from an other within a handfull of the bottome. </rdg></app></p>
                 
                     <note type="authorial" subtype="gloss" place="inline" xml:id="ch3glon2"><app type="minor" subtype="change"><lem wit="#b1623">(a) If the Hive conteine above three peckes, it may
-                                well receive foure Spleets: otherwise three will suffice. </lem><rdg wit="#b1609" source="1609.xml#ch3ancs8x 1609.xml#ch3ance8x">But if the hive be
+                                well receive foure Spleets: otherwise three will suffice. </lem><rdg wit="#b1609" source="1609.xml#ch3ancs8xxxxx 1609.xml#ch3ance8xxxxx">But if the hive be
                     more then fourteene inches over within, it may wel receive foure spleets.</rdg></app></note>
                          <app type="major" subtype="add"><lem wit="#b1623"><note type="authorial" subtype="gloss" place="inline" xml:id="ch3glon3">(b)
                             Stiffe enough to keepe up the Strawne Hives from sinking, specially when
@@ -3362,7 +3364,7 @@
                             the Hive from sinking and from tearing at the top. Besides which there
                             are divers sorts of spleeting, needlesse to be rehearsed: for every
                             Countrey hath his fashion.</lem>
-                    <rdg wit="#b1609" source="1609.xml#ch3ancs8xx 1609.xml#ch3ance8xx">And
+                    <rdg wit="#b1609" source="1609.xml#ch3ancs8xx 1609.xml#ch3ance8xx">andAnd
                     this is the easiest &amp; quickest way of spleeting a hive: it is also strong
                     enough for bearing the combs, and best for taking them forth without breaking.
                     Besides which there are divers sortes of spleeting, needlesse to be rehearsed:
