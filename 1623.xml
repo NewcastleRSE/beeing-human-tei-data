@@ -3554,8 +3554,8 @@
                     <app type="major" subtype="change">
                         <lem wit="#b1623">The strawne Hives when they are olde and loded, do usually
                             sinke on the one side, (specially if they take wet) and so break the
-                            combes and let out the hony: for which cause, first see that they be hard
-                            wrought, and then spleet them strong with a Cop, <ref
+                            combes and let out the hony: for which cause, first see that they be
+                            hard wrought, and then spleet them strong with a Cop, <ref
                                 target="#ch3bibln1"> v.</ref>
                             <note type="authorial" subtype="bibliographic" xml:id="ch3bibln1">
                                 <ref target="#ch3sumn11">V.n.11.</ref>
@@ -3611,9 +3611,10 @@
                         <rdg wit="#b1609"/>
                     </app></p>
                 <p xml:id="ch3par8"><app type="major" subtype="add">
-                        <lem wit="#b1623">The best that I have seene are wrought by <hi><persName>Thomas
-                                May</persName> of <placeName> Sunning,</placeName> about one mile
-                            from <placeName>Redding.</placeName></hi></lem>
+                        <lem wit="#b1623">The best that I have seene are wrought by
+                                    <hi><persName>Thomas May</persName> of <placeName>
+                                    Sunning,</placeName> about one mile from
+                                    <placeName>Redding.</placeName></hi></lem>
                         <rdg wit="#b1609"/>
                     </app></p>
                 <fw type="catch"> Hives</fw>
@@ -3638,18 +3639,26 @@
                             most profitable. </lem>
                         <rdg wit="#b1609"/>
                     </app></p>
-                <p xml:id="ch3par11">Have alwaies Hives enough of <app type="vocabulary" subtype="change"><lem wit="#b1623">all sorts</lem><rdg wit="#b1609"><ptr target="1609.xml#ch3ancs2x 1609.xml#ch3ance2x"/></rdg></app> <app type="minor"
-                        subtype="add">
-                    <lem wit="#b1623">(but most of the midling size)</lem>
-                    <rdg wit="#b1609"/>
-                </app> in store, lest they be to
-                            seeke when you should use them.</p>
+                <p xml:id="ch3par11">Have alwaies Hives enough of <app type="vocabulary"
+                        subtype="change">
+                        <lem wit="#b1623">all sorts</lem>
+                        <rdg wit="#b1609"><ptr target="1609.xml#ch3ancs2x 1609.xml#ch3ance2x"
+                            /></rdg>
+                    </app>
+                    <app type="minor" subtype="add">
+                        <lem wit="#b1623">(but most of the midling size)</lem>
+                        <rdg wit="#b1609"/>
+                    </app> in store, lest they be to seeke when you should use them.</p>
                 <p xml:id="ch3par12"><note type="authorial" subtype="summary" xml:id="ch3sumn7">7.
                         When Hives are to be made <app type="vocabulary" subtype="add">
                             <lem wit="#b1623">and provided.</lem>
                             <rdg wit="#b1609"/>
-                        </app></note> The best time for making <app type="vocabulary" subtype="del"><lem wit="#b1623"></lem><rdg wit="#b1609"><ptr target="1609.xml#ch3ancs2xx 1609.xml#ch3ance2xx"/></rdg></app> them, whether they be Strawne or
-                    Wicker, is in the three <app type="vocabulary" subtype="change">
+                        </app></note> The best time for making <app type="vocabulary" subtype="del">
+                        <lem wit="#b1623"/>
+                        <rdg wit="#b1609"><ptr target="1609.xml#ch3ancs2xx 1609.xml#ch3ance2xx"
+                            /></rdg>
+                    </app> them, whether they be Strawne or Wicker, is in the three <app
+                        type="vocabulary" subtype="change">
                         <lem wit="#b1623">still</lem>
                         <rdg wit="#b1609"><ptr target="1609.xml#ch3ancs3 1609.xml#ch3ance3"/></rdg>
                     </app> moneths of Winter, <hi><term>Saggittar.</term>
@@ -3673,8 +3682,8 @@
                         <rdg wit="#b1609"/>
                     </app></note>
                 <p xml:id="ch3par13"><note type="authorial" subtype="summary" xml:id="ch3sumn8">8.
-                        How Hives are to be dressed before they receive the swarmes.</note> Your Hive
-                    being ready is thus to be dressed. First, <app type="vocabulary"
+                        How Hives are to be dressed before they receive the swarmes.</note> Your
+                    Hive being ready is thus to be dressed. First, <app type="vocabulary"
                         subtype="change">
                         <lem wit="#b1623">take</lem>
                         <rdg wit="#b1609"><ptr target="1609.xml#ch3ancs4 1609.xml#ch3ance4"/></rdg>
@@ -3682,19 +3691,29 @@
                         type="vocabulary" subtype="change">
                         <lem wit="#b1623">jagges</lem>
                         <rdg wit="#b1609"><ptr target="1609.xml#ch3ancs5 1609.xml#ch3ance5"/></rdg>
-                    </app> that are fast in the Hive, making the in-side as smooth as may be: <app type="minor" subtype="del"><lem wit="#b1623"></lem><rdg wit="#b1609"><ptr target="1609.xml#ch3ancs6 1609.xml#ch3ance6"/></rdg></app>for these obstacles <app type="minor" subtype="add"><lem wit="#b1623">being many</lem><rdg wit="#b1609"></rdg></app>, if they cause not the Bees
-                            to forsake the Hive, yet will they much trouble and hinder them: you may
-                            heare them (specially in the night) scraping and gnawing three or foure
-                            daies after they be hived, yea sometime a weeke together, as though
-                            there were mise in the Hive: and in strawne Hives <app type="minor" subtype="del"><lem wit="#b1623"></lem><rdg wit="#b1609"><ptr target="1609.xml#ch3ancs7 1609.xml#ch3ance7"/></rdg></app> a long time after. <note type="authorial" subtype="summary" xml:id="ch3sumn9"
-                                >9. The pruning of Hives.</note></p>
+                    </app> that are fast in the Hive, making the in-side as smooth as may be: <app
+                        type="minor" subtype="del">
+                        <lem wit="#b1623"/>
+                        <rdg wit="#b1609"><ptr target="1609.xml#ch3ancs6 1609.xml#ch3ance6"/></rdg>
+                    </app>for these obstacles <app type="minor" subtype="add">
+                        <lem wit="#b1623">being many</lem>
+                        <rdg wit="#b1609"/>
+                    </app>, if they cause not the Bees to forsake the Hive, yet will they much
+                    trouble and hinder them: you may heare them (specially in the night) scraping
+                    and gnawing three or foure daies after they be hived, yea sometime a weeke
+                    together, as though there were mise in the Hive: and in strawne Hives <app
+                        type="minor" subtype="del">
+                        <lem wit="#b1623"/>
+                        <rdg wit="#b1609"><ptr target="1609.xml#ch3ancs7 1609.xml#ch3ance7"/></rdg>
+                    </app> a long time after. <note type="authorial" subtype="summary"
+                        xml:id="ch3sumn9">9. The pruning of Hives.</note></p>
                 <p xml:id="ch3par14"><app type="major" subtype="add">
-                    <lem wit="#b1623"> If you need but few Hives you may
-                            prune them cleane with your knife: if you must use many, then, having
-                            wet the skirts with a cloth, singe or sweale the in-side: but first and
-                            last rub it well with a Rubber, which is a peece of rough grind-stone or
-                            sand-stone, as great as your hand can hold.</lem>
-                        <rdg wit="#b1609"></rdg>
+                        <lem wit="#b1623"> If you need but few Hives you may prune them cleane with
+                            your knife: if you must use many, then, having wet the skirts with a
+                            cloth, singe or sweale the in-side: but first and last rub it well with
+                            a Rubber, which is a peece of rough grind-stone or sand-stone, as great
+                            as your hand can hold.</lem>
+                        <rdg wit="#b1609"/>
                     </app></p>
                 <p xml:id="ch3par15"><note type="authorial" subtype="summary" xml:id="ch3sumn10">10.
                         The spraying or spleeting of them.</note>
@@ -3711,7 +3730,7 @@
                             strawne Hive, set the upper ends together in a Cop, and the nether ends
                             against the briars or threads, between the third &amp; fourth
                             roule.</lem>
-                        <rdg wit="#b1609"></rdg>
+                        <rdg wit="#b1609"/>
                     </app></p>
                 <p xml:id="ch3par16"><app type="major" subtype="add">
                         <lem wit="#b1623"><note type="authorial" subtype="summary"
@@ -3723,25 +3742,47 @@
                         <rdg wit="#b1609"/>
                     </app></p>
                 <p xml:id="ch3par17"><app type="minor" subtype="add">
-                    <lem wit="#b1623">And for the Spleets,</lem>
-                    <rdg wit="#b1609"></rdg>
-                </app> take a streight hazel or
-                    willow-sticke, <app type="vocabulary" subtype="del"><lem wit="#b1623"></lem><rdg wit="#b1609"><ptr target="1609.xml#ch3ancs8 1609.xml#ch3ance8"/></rdg></app>quarter it if it be bigge enough, <app type="vocabulary" subtype="change"><lem wit="#b1623">else</lem><rdg wit="#b1609"><ptr target="1609.xml#ch3ancs8x 1609.xml#ch3ance8x"/></rdg></app> slit it: <app type="vocabulary" subtype="del"><lem wit="#b1623"></lem><rdg wit="#b1609"><ptr target="1609.xml#ch3ancs8xx 1609.xml#ch3ance8xx"/></rdg></app>then
-                    shave and smooth the clefts, <app type="minor" subtype="change"><lem wit="#b1623">and having brought them to a</lem><rdg wit="#b1609"><ptr target="1609.xml#ch3ancs8xxx 1609.xml#ch3ance8xxx"/></rdg></app> convenient
-                                <ref target="#ch3glon3" rend="superscript">b</ref> strength &amp;
-                            length, <app type="minor" subtype="change"><lem wit="#b1623">cut the lower ends forked, to stay against the Hives sides, and
-                            the upper ends somwhat picked, and of that bignesse that they may fitly
-                            joyne in the Cop or middle of the staffe, with their backs leaning <ref
-                                target="#ch3glon4" rend="superscript">c</ref> hard and fast against
-                                one another. </lem><rdg wit="#b1609"><ptr target="1609.xml#ch3ancs8xxxx 1609.xml#ch3ance8xxxx"/></rdg></app></p>
-                
-                    <note type="authorial" subtype="gloss" place="inline"
-                            xml:id="ch3glon2"><app type="minor" subtype="change"><lem wit="#b1623">(a) If the Hive conteine above three peckes, it may
-                                well receive foure Spleets: otherwise three will suffice. </lem><rdg wit="#b1609"><ptr target="1609.xml#ch3ancs8v 1609.xml#ch3ance8v"/></rdg></app></note>
-                         <app type="major" subtype="add"><lem wit="#b1623"><note type="authorial" subtype="gloss" place="inline" xml:id="ch3glon3">(b)
-                            Stiffe enough to keepe up the Strawne Hives from sinking, specially when
-                            they are turned. <ref target="#ch5sumn22">v.c.5.n.22.</ref>&amp;<ref
-                                target="#ch5sumn23">23.</ref></note>
+                        <lem wit="#b1623">And for the Spleets,</lem>
+                        <rdg wit="#b1609"/>
+                    </app> take a streight hazel or willow-sticke, <app type="vocabulary"
+                        subtype="del">
+                        <lem wit="#b1623"/>
+                        <rdg wit="#b1609"><ptr target="1609.xml#ch3ancs8 1609.xml#ch3ance8"/></rdg>
+                    </app>quarter it if it be bigge enough, <app type="vocabulary" subtype="change">
+                        <lem wit="#b1623">else</lem>
+                        <rdg wit="#b1609"><ptr target="1609.xml#ch3ancs8x 1609.xml#ch3ance8x"
+                            /></rdg>
+                    </app> slit it: <app type="vocabulary" subtype="del">
+                        <lem wit="#b1623"/>
+                        <rdg wit="#b1609"><ptr target="1609.xml#ch3ancs8xx 1609.xml#ch3ance8xx"
+                            /></rdg>
+                    </app>then shave and smooth the clefts, <app type="minor" subtype="change">
+                        <lem wit="#b1623">and having brought them to a</lem>
+                        <rdg wit="#b1609"><ptr target="1609.xml#ch3ancs8xxx 1609.xml#ch3ance8xxx"
+                            /></rdg>
+                    </app> convenient <ref target="#ch3glon3" rend="superscript">b</ref> strength
+                    &amp; length, <app type="minor" subtype="change">
+                        <lem wit="#b1623">cut the lower ends forked, to stay against the Hives
+                            sides, and the upper ends somwhat picked, and of that bignesse that they
+                            may fitly joyne in the Cop or middle of the staffe, with their backs
+                            leaning <ref target="#ch3glon4" rend="superscript">c</ref> hard and fast
+                            against one another. </lem>
+                        <rdg wit="#b1609"><ptr target="1609.xml#ch3ancs8xxxx 1609.xml#ch3ance8xxxx"
+                            /></rdg>
+                    </app></p>
+
+                <note type="authorial" subtype="gloss" place="inline" xml:id="ch3glon2"><app
+                        type="minor" subtype="change">
+                        <lem wit="#b1623">(a) If the Hive conteine above three peckes, it may well
+                            receive foure Spleets: otherwise three will suffice. </lem>
+                        <rdg wit="#b1609"><ptr target="1609.xml#ch3ancs8v 1609.xml#ch3ance8v"
+                            /></rdg>
+                    </app></note>
+                <app type="major" subtype="add">
+                    <lem wit="#b1623"><note type="authorial" subtype="gloss" place="inline"
+                            xml:id="ch3glon3">(b) Stiffe enough to keepe up the Strawne Hives from
+                            sinking, specially when they are turned. <ref target="#ch5sumn22"
+                                >v.c.5.n.22.</ref>&amp;<ref target="#ch5sumn23">23.</ref></note>
                         <note type="authorial" subtype="gloss" place="inline" xml:id="ch3glon4">(c)
                             If you put foure Spleets in a Hive, then cut their backes, where they
                             must leane one against another, to square angles, such as be foure in a
@@ -3749,13 +3790,19 @@
                             circle: (you may readily try them, before you put them in, by Moulds
                             made just of those formes) and so will they stand close and firme
                             together. The first two of three, and the first three of foure are
-                            loose: it is the last that makes all fast.</note></lem><rdg wit="#b1609"></rdg></app>
-                <p xml:id="ch3par18"> <app type="minor" subtype="change"><lem wit="#b1623">And this is a handsome, easie, and sure way of spleeting:
+                            loose: it is the last that makes all fast.</note></lem>
+                    <rdg wit="#b1609"/>
+                </app>
+                <p xml:id="ch3par18">
+                    <app type="minor" subtype="change">
+                        <lem wit="#b1623">And this is a handsome, easie, and sure way of spleeting:
                             it is also good for drawing the Combes without breaking, and for keeping
                             the Hive from sinking and from tearing at the top. Besides which there
                             are divers sorts of spleeting, needlesse to be rehearsed: for every
                             Countrey hath his fashion.</lem>
-                    <rdg wit="#b1609"><ptr target="1609.xml#ch3ancs8vi 1609.xml#ch3ance8vi"/></rdg></app></p>
+                        <rdg wit="#b1609"><ptr target="1609.xml#ch3ancs8vi 1609.xml#ch3ance8vi"
+                            /></rdg>
+                    </app></p>
                 <p xml:id="ch3par19"><note type="authorial" subtype="summary" xml:id="ch3sumn12">12.
                         The seasoning of them.</note> 3 Lastly, in swarming time season the Hives
                     that you meane to use, rubbing them with sweet herbes such as the Bees love, as
@@ -3772,7 +3819,8 @@
                     </note> and with a branch of Hazell, Oake, Willow, or any of the foresaid herbs,
                     but chiefly with a sprig of that tree whereon the swarme lighted, wipe the Hive
                     cleane; and then dipping it into Meth, or faire water mixed with a little hony,
-                    or with milke and salt, or, for a need, with salt onely, besprinkle the same.</p>
+                    or with milke and salt, or, for a need, with salt onely, besprinkle the
+                    same.</p>
                 <p xml:id="ch3par20"><note type="authorial" subtype="summary" xml:id="ch3sumn13">13.
                         The seasoning of an old Hive.</note> But if the Hive have beene used before,
                     after you have pared away the wax as cleane as may be, if you thinke the former
@@ -3784,7 +3832,7 @@
                         subtype="del">
                         <lem wit="#b1623"/>
                         <rdg wit="#b1609"><ptr target="1609.xml#ch3ancs10 1609.xml#ch3ance10"
-                        /></rdg>
+                            /></rdg>
                     </app> besprinkle it also, when you doe use it, as is shewed before. And so
                     serve a new Hive when the Bees are so froward, that they will not otherwise
                     abide. </p>
@@ -3811,7 +3859,7 @@
                     <note type="authorial" subtype="bibliographic" xml:id="ch3bibln7">
                         <ref target="#ch7sumn58">V.c. 7..n58.</ref>
                     </note></p>
-                    <p><app type="minor" subtype="add">
+                <p><app type="minor" subtype="add">
                         <lem wit="#b1623">In some places (where the stalls are not many) they use
                             earthen covers: but these doe not defend the lower part, and in Summer
                             are too hot.</lem>
@@ -3856,13 +3904,21 @@
                             fashions, the one wreathed, the other platted.</lem>
                         <rdg wit="#b1609"/>
                     </app></p>
-                <p xml:id="ch3par25"><note type="authorial" subtype="summary" xml:id="ch3sumn18"><app type="minor" subtype="add"><lem wit="#b1623">18.
-                    The wreathed Cap.</lem><rdg wit="#b1609"></rdg></app></note>
+                <p xml:id="ch3par25"><note type="authorial" subtype="summary" xml:id="ch3sumn18"
+                            ><app type="minor" subtype="add">
+                            <lem wit="#b1623">18. The wreathed Cap.</lem>
+                            <rdg wit="#b1609"/>
+                        </app></note>
                     <app type="minor" subtype="add">
                         <lem wit="#b1623">The wreathed Cap is thus made; having bound the bundles
-                            all fast together </lem><rdg wit="#b1609"></rdg>
-                    </app>with a thong, cord, or other strong string,
-                        <app type="minor" subtype="del"><lem wit="#b1623"></lem><rdg wit="#b1609"><ptr target="1609.xml#ch3ancs13x 1609.xml#ch3ance13x"/></rdg></app> lease out the sheafe almost a handfull of the strongest straw, and lay it
+                            all fast together </lem>
+                        <rdg wit="#b1609"/>
+                    </app>with a thong, cord, or other strong string, <app type="minor"
+                        subtype="del">
+                        <lem wit="#b1623"/>
+                        <rdg wit="#b1609"><ptr target="1609.xml#ch3ancs13x 1609.xml#ch3ance13x"
+                            /></rdg>
+                    </app> lease out the sheafe almost a handfull of the strongest straw, and lay it
                     in soake about a quarter of an houre. Being thus prepared, take out of that wet
                     bundle <app type="vocabulary" subtype="change">
                         <lem wit="#b1623">a litche of</lem>
@@ -3938,7 +3994,8 @@
                         <rdg wit="#b1609"/>
                     </app> close under the Cap, betweene <app type="minor" subtype="change">
                         <lem wit="#b1623">sixteene and twenty</lem>
-                        <rdg wit="#b1609"><ptr target="1609.xml#ch3ancs18 1609.xml#ch3ance18"/></rdg>
+                        <rdg wit="#b1609"><ptr target="1609.xml#ch3ancs18 1609.xml#ch3ance18"
+                            /></rdg>
                     </app> inches: <app type="minor" subtype="change">
                         <lem wit="#b1623">sixteene</lem>
                         <rdg wit="#b1609"><ptr target="1609.xml#ch3ancs19 1609.xml#ch3ance19"
@@ -3958,9 +4015,13 @@
                             /></rdg>
                     </app>, where it must be pared somewhat shorter, that the Bees passage be not
                     hindered. </p>
-                <p xml:id="ch3par30"><note type="authorial" subtype="summary" xml:id="ch3sumn22"><app type="vocabulary" subtype="change"><lem wit="#b1623">22.
-                    The belt or garth.</lem><rdg wit="#b1609"><ptr target="1609.xml#ch3ancs21x 1609.xml#ch3ance21x"/></rdg></app></note> And then with a small pliant <app
-                        type="vocabulary" subtype="change">
+                <p xml:id="ch3par30"><note type="authorial" subtype="summary" xml:id="ch3sumn22"
+                            ><app type="vocabulary" subtype="change">
+                            <lem wit="#b1623">22. The belt or garth.</lem>
+                            <rdg wit="#b1609"><ptr target="1609.xml#ch3ancs21x 1609.xml#ch3ance21x"
+                                /></rdg>
+                        </app></note> And then with a small pliant <app type="vocabulary"
+                        subtype="change">
                         <lem wit="#b1623">Garth or Belt</lem>
                         <rdg wit="#b1609"><ptr target="1609.xml#ch3ancs22 1609.xml#ch3ance22"
                             /></rdg>
@@ -3981,8 +4042,12 @@
                         <rdg wit="#b1609"><ptr target="1609.xml#ch3ancs24 1609.xml#ch3ance24"
                             /></rdg>
                     </app>, set that before, that the hackle, bearing in that place farther out, may
-                    shoot the water from the doore: otherwise, for that purpose, set the <app type="vocabulary" subtype="change"><lem wit="#b1623">Belt</lem><rdg wit="#b1609"><ptr target="1609.xml#ch3ancs25 1609.xml#ch3ance25"/></rdg></app>
-                    somewhat higher before, than behinde.</p>
+                    shoot the water from the doore: otherwise, for that purpose, set the <app
+                        type="vocabulary" subtype="change">
+                        <lem wit="#b1623">Belt</lem>
+                        <rdg wit="#b1609"><ptr target="1609.xml#ch3ancs25 1609.xml#ch3ance25"
+                            /></rdg>
+                    </app> somewhat higher before, than behinde.</p>
                 <note type="authorial" subtype="gloss" place="inline" xml:id="ch3glon6"><app
                         type="minor" subtype="add">
                         <lem wit="#b1623">* In the Winter, place the Belt below the middle or
@@ -4149,12 +4214,14 @@
                             may have the lesse force, and that the Mice may not enter, which in
                             winter are wont to make much spoile. <ref target="#ch7sumn3">
                                 v.c.7.n.3.</ref></lem>
-                        <rdg wit="#b1609"><ptr target="1609.xml#ch3ancs32 1609.xml#ch3ance32"/></rdg>
+                        <rdg wit="#b1609"><ptr target="1609.xml#ch3ancs32 1609.xml#ch3ance32"
+                            /></rdg>
                     </app></p>
                 <p xml:id="ch3par44"><note type="authorial" subtype="summary" xml:id="ch3sumn32">32.
                         The <app type="minor" subtype="del">
                             <lem wit="#b1623"/>
-                            <rdg wit="#b1609"><ptr target="1609.xml#ch3ancs30 1609.xml#ch3ance30"/></rdg>
+                            <rdg wit="#b1609"><ptr target="1609.xml#ch3ancs30 1609.xml#ch3ance30"
+                                /></rdg>
                         </app>Barre.</note>
                     <app type="major" subtype="change">
                         <lem wit="#b1623">The Barre or shutting is to be made foure square of some
@@ -4180,13 +4247,13 @@
                         <lem wit="#b1623">For want of Lead or other mettall, you may with a hammer
                             and grind-stone fit a Tile-shard: but let that be somewhat broad, that
                             it may lie the faster on the stoole. </lem>
-                        <rdg wit="#b1609"></rdg>
+                        <rdg wit="#b1609"/>
                     </app></p>
                 <p xml:id="ch3par46"><note type="authorial" subtype="summary" xml:id="ch3sumn33">33.
                         The use of it.</note>
                     <app type="major" subtype="change">
-                        <lem wit="#b1623">With this Barre you may shut or halfe shut the Wicket, as you
-                            shall see cause; to defend the Bees in the more dangerous times from
+                        <lem wit="#b1623">With this Barre you may shut or halfe shut the Wicket, as
+                            you shall see cause; to defend the Bees in the more dangerous times from
                             Frost, Snow, Titmise, and Robbers. </lem>
                         <rdg wit="#b1609"><ptr target="1609.xml#ch3ancs32 1609.xml#ch3ance32"
                             /></rdg>
@@ -4200,7 +4267,10 @@
                     <lem wit="#b1623"/>
                     <rdg wit="#b1609"><ptr target="1609.xml#ch3ancs33 1609.xml#ch3ance33"/></rdg>
                 </app>
-<app type="other" subtype="del"><lem wit="#b1623"></lem><rdg wit="#b1609"><ptr target="1609.xml#ch3ancs33x 1609.xml#ch3ance33x"/></rdg></app>
+                <app type="other" subtype="del">
+                    <lem wit="#b1623"/>
+                    <rdg wit="#b1609"><ptr target="1609.xml#ch3ancs33x 1609.xml#ch3ance33x"/></rdg>
+                </app>
                 <p xml:id="ch3par48"><note type="authorial" subtype="summary" xml:id="ch3sumn34">34.
                             <app type="vocabulary" subtype="change">
                             <lem wit="#b1623">The Settle.</lem>
@@ -4240,8 +4310,13 @@
                             <rdg wit="#b1609"><ptr target="1609.xml#ch3ancs39 1609.xml#ch3ance39"
                                 /></rdg>
                         </app></note>
-                    <app type="major" subtype="add"><lem wit="#b1623"><hi rend="drop-capital">B</hi>Ee-hives being thus fitted with all necessaries,
-                        are afterward at divers times of the yeare to be diversly ordered.</lem><rdg wit="#b1609"></rdg></app> </p>
+                    <app type="major" subtype="add">
+                        <lem wit="#b1623"><hi rend="drop-capital">B</hi>Ee-hives being thus fitted
+                            with all necessaries, are afterward at divers times of the yeare to be
+                            diversly ordered.</lem>
+                        <rdg wit="#b1609"/>
+                    </app>
+                </p>
                 <p xml:id="ch3par50"><app type="major" subtype="add">
                         <lem wit="#b1623"><note type="authorial" subtype="summary"
                                 xml:id="ch3sumn36">36. The moneths and quarters of the <term>
@@ -4404,7 +4479,11 @@
                                 target="#ch5sumn21">&amp;c.v.c.5.n. 21.</ref></lem>
                         <rdg wit="#b1609"><ptr target="1609.xml#ch3ancs42 1609.xml#ch3ance42"
                             /></rdg>
-                    </app><app type="major" subtype="del"><lem wit="#b1623"></lem><rdg wit="#b1609"><ptr target="1609.xml#ch3ancs42x 1609.xml#ch3ance42x"/></rdg></app></p>
+                    </app><app type="major" subtype="del">
+                        <lem wit="#b1623"/>
+                        <rdg wit="#b1609"><ptr target="1609.xml#ch3ancs42x 1609.xml#ch3ance42x"
+                            /></rdg>
+                    </app></p>
                 <p xml:id="ch3par60"><note type="authorial" subtype="summary" xml:id="ch3sumn39">39.
                             <term>CANCER</term>.</note>
                     <note type="authorial" subtype="summary" xml:id="ch3sumn40">40. To make the Bees
@@ -4497,8 +4576,8 @@
                         <rdg wit="#b1609"><ptr target="1609.xml#ch3ancs46 1609.xml#ch3ance46"
                             /></rdg>
                     </app></p>
-                
-             
+
+
                 <p xml:id="ch3par66"><note type="authorial" subtype="summary" xml:id="ch3sumn47">47.
                         Set up the Winter-doores.</note>
                     <app type="minor" subtype="add">
@@ -4540,20 +4619,23 @@
                         </note></quote>
                 </p>
                 <p xml:id="ch3par67">
-                       <note type="authorial" subtype="summary"
-                                xml:id="ch3sumn48">48. And keepe them shut til they offer to go
-                                abroad.</note> Moreover, because the Waspes and robbing Bees will be
-                            stealing betimes, before the true Bees be stirring; it is good in the
-                            evening, when the Bees are all in, to <app type="vocabulary" subtype="change"><lem wit="#b1623">barre up the Wickets</lem><rdg wit="#b1609"><ptr target="1609.xml#ch3ancs47 1609.xml#ch3ance47"/></rdg></app> of those that
-                            are weake, that a Bee cannot passe: and not to open the same the next
-                            day till the weather be warme, and the Bees offer to come abroad, though
-                            it be not before nine, or ten, or eleven a clock: and then you may
-                            either open it, or halfe-open it, according to the flight of your Bees,
-                                <ref target="#ch3bibln28">v.</ref>
-                            <note type="authorial" subtype="bibliographic" xml:id="ch3bibln28">
-                                <ref target="#ch3sumn33">V.n. 33.</ref>
-                            </note>
-                    </p>
+                    <note type="authorial" subtype="summary" xml:id="ch3sumn48">48. And keepe them
+                        shut til they offer to go abroad.</note> Moreover, because the Waspes and
+                    robbing Bees will be stealing betimes, before the true Bees be stirring; it is
+                    good in the evening, when the Bees are all in, to <app type="vocabulary"
+                        subtype="change">
+                        <lem wit="#b1623">barre up the Wickets</lem>
+                        <rdg wit="#b1609"><ptr target="1609.xml#ch3ancs47 1609.xml#ch3ance47"
+                            /></rdg>
+                    </app> of those that are weake, that a Bee cannot passe: and not to open the
+                    same the next day till the weather be warme, and the Bees offer to come abroad,
+                    though it be not before nine, or ten, or eleven a clock: and then you may either
+                    open it, or halfe-open it, according to the flight of your Bees, <ref
+                        target="#ch3bibln28">v.</ref>
+                    <note type="authorial" subtype="bibliographic" xml:id="ch3bibln28">
+                        <ref target="#ch3sumn33">V.n. 33.</ref>
+                    </note>
+                </p>
                 <p xml:id="ch3par68"><note type="authorial" subtype="summary" xml:id="ch3sumn49">49.
                         The reared stalls now to be set downe againe.</note> The stalls which you
                     reared in the end of <term> Cancer</term> for feare of <app type="minor"
@@ -4604,8 +4686,11 @@
                         <lem wit="#b1623">Note yet, that</lem>
                         <rdg wit="#b1609"><ptr target="1609.xml#ch3ancs53 1609.xml#ch3ance53"
                             /></rdg>
-                    </app> those stalls <app type="vocabulary" subtype="change"><lem wit="#b1623">which</lem><rdg wit="#b1609"><ptr target="1609.xml#ch3ancs53x 1609.xml#ch3ance53x"/></rdg></app> are very full, will make <app type="minor"
-                        subtype="change">
+                    </app> those stalls <app type="vocabulary" subtype="change">
+                        <lem wit="#b1623">which</lem>
+                        <rdg wit="#b1609"><ptr target="1609.xml#ch3ancs53x 1609.xml#ch3ance53x"
+                            /></rdg>
+                    </app> are very full, will make <app type="minor" subtype="change">
                         <lem wit="#b1623">but a little</lem>
                         <rdg wit="#b1609"><ptr target="1609.xml#ch3ancs54 1609.xml#ch3ance54"
                             /></rdg>
@@ -4615,11 +4700,11 @@
                             <pb n="G3r"/>
                             <fw type="header"> and the Dressing of them. </fw> and all over the
                             Hive)</lem>
-                        <rdg wit="#b1609"></rdg>
+                        <rdg wit="#b1609"/>
                     </app> untill toward the end of this moneth, when they be gone up from the
                     doore, <app type="minor" subtype="add">
                         <lem wit="#b1623">and their number is somewhat diminished.</lem>
-                        <rdg wit="#b1609"></rdg>
+                        <rdg wit="#b1609"/>
                     </app>
                 </p>
                 <p xml:id="ch3par71"><note type="authorial" subtype="summary" xml:id="ch3sumn51">51.
@@ -4737,82 +4822,136 @@
                             <lem wit="#b1623"> WINTER.</lem>
                             <rdg wit="#b1609"/>
                         </app></note>
-                    <app type="minor" subtype="add">
+                    <app type="major" subtype="add">
                         <lem wit="#b1623">After Autumne, the Sunne drawing neere the Winter
                             Tropicke, with a short and low course above our <term> Horison,</term>
-                            there follow three <term>still</term> moneths, <term>Saggitarius</term>
-                            , <term>Capricornus</term>, and <term>Aquarius</term>: </lem>
+                            there follow three <term>still</term> moneths, </lem>
                         <rdg wit="#b1609"/>
+                    </app><term>Saggitarius</term> , <term>Capricornus</term>, and
+                        <term>Aquarius</term><app type="minor" subtype="del">
+                        <lem wit="#b1623"/>
+                        <rdg wit="#b1609"><ptr target="1609.xml#ch3ancsX1 1609.xml#ch3anceX1"
+                            /></rdg>
                     </app><note type="authorial" subtype="summary" xml:id="ch3sumn59"
                             >59.<term>SAGIT</term>.<term>CAPRIC</term>.<term>AQUAR</term>. three
                                 <term><app type="vocabulary" subtype="change">
                                 <lem wit="#b1623">still</lem>
                                 <rdg wit="#b1609"><ptr
                                         target="1609.xml#ch3ancs62 1609.xml#ch3ance62"/></rdg>
-                            </app></term> moneths.</note><app type="major" subtype="change">
+                            </app></term> moneths.</note>: <app type="minor" subtype="change">
                         <lem wit="#b1623">in which as the plants lie still in the earth waiting the
-                            Sunnes returne to revive them; so the Bees lie <term>still</term> in
-                            their Hives, passing this fruitlesse time in sleepe and slumber. <note
-                                type="authorial" subtype="summary" xml:id="ch3sumn60">60. How the
-                                Bees spend their time in them.</note>Yet so, that if there happen a
-                            milde and warme houre, they presently perceiving it awake out of their
-                            swivet, and hye them out of doores with all alacrity: that they may take
-                            the fresh aire, recreate themselves, drinke, exercise their wings, carry
-                            out their dead and other noysomenesse, and lighten their little bellies,
-                            which are oft times so stuffed, when the wether suffreth them not to goe
-                            abroad, that they can hold no more: so loth are they to defile their
-                            nests. And having thus refreshed themselves, at their returne, they take
-                            their repast, and then betake them againe to their rest. But many such
-                            daies, specially in time of scarcity, are dangerous, as causing them to
-                            spend much of their store, which in <term> still</term> frosts they
-                            would spare.</lem>
-                        <rdg wit="#b1609"><ptr target="1609.xml#ch3ancs63 1609.xml#ch3ance63"
+                            Sunnes returne to revive them; so the</lem>
+                        <rdg wit="#b1609"><ptr target="1609.xml#ch3ancsX2 1609.xml#ch3anceX2"
                             /></rdg>
-                    </app></p>
-                <p xml:id="ch3par77"><app type="major" subtype="change">
-                        <lem wit="#b1623"><note type="authorial" subtype="summary"
-                                xml:id="ch3sumn61">61. The first sharpe weather in Capr. shut the
-                                Bees in.</note> The first foule and cold weather in <term>
-                                Capricorne</term> shut the Wickets close, to save the Bees from the
-                            Tit-mouse, <ref target="#ch3bibln34"> v.</ref>
+                    </app> Bees lie <term>still</term>
+                    <app type="minor" subtype="change">
+                        <lem wit="#b1623">in their Hives, passing this fruitlesse time in sleepe and
+                            slumber.</lem>
+                        <rdg wit="#b1609"><ptr target="1609.xml#ch3ancsX3 1609.xml#ch3anceX3"
+                            /></rdg>
+                    </app>
+                    <note type="authorial" subtype="summary" xml:id="ch3sumn60">60. How the Bees
+                        spend their time in them.</note><app type="minor" subtype="change">
+                        <lem wit="#b1623">Yet so, that if there happen a milde and warme houre, they
+                            presently perceiving it awake out of their swivet, and hye them out of
+                            doores with all alacrity:</lem>
+                        <rdg wit="#b1609"><ptr target="1609.xml#ch3ancsX4 1609.xml#ch3anceX4"
+                            /></rdg>
+                    </app> that they may take the fresh aire, recreate themselves, drinke, exercise
+                    their wings, <app type="major" subtype="add">
+                        <lem wit="#b1623">carry out their dead and other noysomenesse,</lem>
+                        <rdg wit="#b1609"/>
+                    </app> and lighten their little bellies, which are oft times so stuffed, when
+                    the wether suffreth them not to <app type="vocabulary" subtype="change">
+                        <lem wit="#b1623">goe</lem>
+                        <rdg wit="#b1609"><ptr target="1609.xml#ch3ancsX5 1609.xml#ch3anceX5"
+                            /></rdg>
+                    </app> abroad, that they can hold no more: so <app type="ortographic"
+                        subtype="change">
+                        <lem wit="#b1623">loth</lem>
+                        <rdg wit="#b1609"><ptr target="1609.xml#ch3ancsX6 1609.xml#ch3anceX6"
+                            /></rdg>
+                    </app> are they to defile their <app type="ortographic" subtype="change">
+                        <lem wit="#b1623">nests</lem>
+                        <rdg wit="#b1609"><ptr target="1609.xml#ch3ancsX7 1609.xml#ch3anceX7"
+                            /></rdg>
+                    </app>. <app type="major" subtype="add">
+                        <lem wit="#b1623">And having thus refreshed themselves, at their returne,
+                            they take their repast, and then betake them againe to their rest. But
+                            many such daies, specially in time of scarcity, are dangerous, as
+                            causing them to spend much of their store, which in <term> still</term>
+                            frosts they would spare.</lem>
+                        <rdg wit="#b1609"/>
+                    </app>
+                </p>
+                <p xml:id="ch3par77">
+                    <note type="authorial" subtype="summary" xml:id="ch3sumn61">61. The first sharpe
+                        weather in Capr. shut the Bees in.</note>
+                    <app type="minor" subtype="del">
+                        <lem wit="#b1623"/>
+                        <rdg wit="#b1609"><ptr target="1609.xml#ch3ancsX8 1609.xml#ch3anceX8"
+                            /></rdg>
+                    </app>The first foule and cold weather in <term> Capricorne</term> shut the <app
+                        type="minor" subtype="change">
+                        <lem wit="#b1623">Wickets close</lem>
+                        <rdg wit="#b1609"><ptr target="1609.xml#ch3ancsX9 1609.xml#ch3anceX9"
+                            /></rdg>
+                    </app>, to save <app type="minor" subtype="change">
+                        <lem wit="#b1623">the Bees</lem>
+                        <rdg wit="#b1609"><ptr target="1609.xml#ch3ancsX10 1609.xml#ch3anceX10"
+                            /></rdg>
+                    </app>
+                    <app type="major" subtype="add">
+                        <lem wit="#b1623">from the Tit-mouse, <ref target="#ch3bibln34"> v.</ref>
                             <note type="authorial" subtype="bibliographic" xml:id="ch3bibln34">
                                 <ref target="#ch7sumn6">V.c.7.n.6.</ref>
-                            </note> and from the cold, as well within the Hive as without. For as
-                            the frost and snow and cold winds, yea and the ordinary disposition of
-                            the aire doth chill many of them, whom the flattering sun-shine enticeth
-                            abroad; so the great frosts, striking through the doore doe freeze the
-                            nethermost in the Hive to death: so that by little and little many
-                            stalls in some winters have been thereby wholly destroyed: the which, by
-                            keeping them warme, might have beene preserved. But when you shut them
-                            in, be sure the Hives be alwaies close and sure: <note type="authorial"
-                                subtype="summary" xml:id="ch3sumn62">62. And in pleasant weather let
-                                them loose, if it may be, once a fortnight.</note> for the Bees when
-                            they awake will strive by all meanes to come forth, though they never
-                            finde the way in againe. Yet when there happenenth any pleasant day
-                            (namely when the sunne shineth, the winde is still, or bloweth mildly
-                            out of the South or West, and the earth is without frost &amp; snow) is
-                            it is very behovefull to give them leave to play, <ref
-                                target="#ch3bibln35">v.</ref>
-                            <note type="authorial" subtype="bibliographic" xml:id="ch3bibln35">
-                                <ref target="#ch3sumn59"> V.n. 59.</ref>&amp;<ref
-                                    target="#ch1sumn59">c.1.n.59.</ref>
-                            </note> and to refresh <fw type="sig">them-</fw>
-                            <pb n="G4r"/>
-                            <fw type="header"> and the Dressing of them. </fw> themselves: once in a
-                            fortnight or three weekes is to be wished, specially after <term>
-                                Capricorne</term> is past: but if you or the weather shut them in
-                            much longer, they will be so faint and feeble through their long
-                            restraint, that without very pleasant weather at their comming abroad, a
-                            number of them will be chilled while they rest themselves but a little
-                            in the open aire. And therefore as often as, for this purpose, the doore
-                            is a little opened; alter it not, untill the weather alter: and when
-                                <term>Aquarius</term> is halfe spent, if, for feare of a piercing
-                            night-frost, you barre them up in the evening; let them goe againe in
-                            the morning, unlesse either snow or boysterous windes forbid you. In
-                            winter provide your Hives.<ref target="#ch3sumn7">v.n.7.</ref></lem>
-                        <rdg wit="#b1609"><ptr target="1609.xml#ch3ancs63 1609.xml#ch3ance63"
+                            </note> and </lem>
+                        <rdg wit="#b1609"/>
+                    </app>from the cold, as well within the Hive as without. For as the frost and
+                    snow and cold winds, yea and the ordinary disposition of the aire doth <app
+                        type="ortographic" subtype="change">
+                        <lem wit="#b1623">chill</lem>
+                        <rdg wit="#b1609">
+                            <ptr target="1609.xml#ch3ancsX11 1609.xml#ch3anceX11"/></rdg>
+                    </app> many of them, whom the flattering <app type="ortographic"
+                        subtype="change">
+                        <lem wit="#b1623">sun-shine</lem>
+                        <rdg wit="#b1609"><ptr target="1609.xml#ch3ancsX12 1609.xml#ch3anceX12"
                             /></rdg>
-                    </app></p>
+                    </app> enticeth abroad; so the great frosts, striking through the <app
+                        type="ortographic" subtype="change">
+                        <lem wit="#b1623">doore</lem>
+                        <rdg wit="#b1609"><ptr target="1609.xml#ch3ancsX13 1609.xml#ch3anceX13"
+                            /></rdg>
+                    </app> doe freeze the nethermost in the Hive to death: so that by little and
+                    little many stalls in some winters have been thereby wholly destroyed: the
+                    which, by keeping them warme, might have beene preserved. But when you shut them
+                    in, be sure the Hives be alwaies close and sure: <note type="authorial"
+                        subtype="summary" xml:id="ch3sumn62">62. And in pleasant weather let them
+                        loose, if it may be, once a fortnight.</note> for the Bees <app type="minor"
+                        subtype="add"><lem wit="#b1623">when they awake</lem><rdg wit="#b1609"/></app> will strive by all meanes to come forth,
+                    though they never finde the way in againe. Yet when there happenenth any
+                    pleasant day (namely when the sunne shineth, the winde is still, or bloweth
+                    mildly out of the South or West, and the earth is without frost &amp; snow) is
+                    it is very behovefull to give them leave to play, <ref target="#ch3bibln35"
+                        >v.</ref>
+                    <note type="authorial" subtype="bibliographic" xml:id="ch3bibln35">
+                        <ref target="#ch3sumn59"> V.n. 59.</ref>&amp;<ref target="#ch1sumn59"
+                            >c.1.n.59.</ref>
+                    </note> and to refresh <fw type="sig">them-</fw>
+                    <pb n="G4r"/>
+                    <fw type="header"> and the Dressing of them. </fw> themselves: once in a
+                    fortnight or three weekes is to be wished, specially after <term>
+                        Capricorne</term> is past: but if you or the weather shut them in much
+                    longer, they will be so faint and feeble through their long restraint, that
+                    without very pleasant weather at their comming abroad, a number of them will be
+                    chilled while they rest themselves but a little in the open aire. And therefore
+                    as often as, for this purpose, the doore is a little opened; alter it not,
+                    untill the weather alter: and when <term>Aquarius</term> is halfe spent, if, for
+                    feare of a piercing night-frost, you barre them up in the evening; let them goe
+                    againe in the morning, unlesse either snow or boysterous windes forbid you. In
+                    winter provide your Hives.<ref target="#ch3sumn7">v.n.7.</ref>
+                </p>
                 <p xml:id="ch3par78"><app type="minor" subtype="add">
                         <lem wit="#b1623"><note type="authorial" subtype="summary"
                                 xml:id="ch3sumn63">63. The SPRING.</note> The still Moneths of
