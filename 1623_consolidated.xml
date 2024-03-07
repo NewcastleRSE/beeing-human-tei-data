@@ -3460,7 +3460,8 @@
                         <lem wit="#b1623">The wreathed Cap is thus made; having bound the bundles
                             all fast together </lem><rdg wit="#b1609" />
                     </app>with a thong, cord, or other strong string,
-                        <app type="minor" subtype="del"><lem wit="#b1623" /><rdg wit="#b1609" source="1609.xml#ch3ancs13x 1609.xml#ch3ance13x">And then, to make a band or cap for this pyramis or head of your hacle,</rdg></app> lease out the sheafe almost a handfull of the strongest straw, and lay it
+                        <app type="minor" subtype="del"><lem wit="#b1623" /><rdg wit="#b1609" source="1609.xml#ch3ancs13x 1609.xml#ch3ance13x">15  And then, to make a band or cap for this pyramis or head of your hacle,The working of the cap
+                    </rdg></app> lease out the sheafe almost a handfull of the strongest straw, and lay it
                     in soake about a quarter of an houre. Being thus prepared, take out of that wet
                     bundle <app type="vocabulary" subtype="change">
                         <lem wit="#b1623">a litche of</lem>
@@ -3623,35 +3624,35 @@
                             <lem wit="#b1623" />
                             <rdg wit="#b1609" source="1609.xml#ch3ancs27 1609.xml#ch3ance27">bignes of the</rdg>
                         </app>Hive-doore.</note>
-                    <app type="major" subtype="change">
+                    <app type="major" subtype="add">
                         <lem wit="#b1623">The Bees entrance, as anon in this Chapter is shewed, must
                             be sometime larger, sometime lesse, sometime nothing at all. And
                             therefore every Bee-Hive must have his Gate or Summer-doore, a
                             Winter-doore or wicket, a Barre or shutting of the wicket.</lem>
-                        <rdg wit="#b1609" source="1609.xml#ch3ancs28 1609.xml#ch3ance28">The hive-dore must be made as little as may be, the Bees having easie
+                        <rdg wit="#b1609" />
+                    </app></p>
+                <p xml:id="ch3par36"><app type="major" subtype="change">
+                        <lem wit="#b1623"><note type="authorial" subtype="summary" xml:id="ch3sumn28">28. The Gate or Summer-doore.</note> The Gate or
+                            Summer-doore must be made of that size, that the Bees in Summer, when
+                            their number is greatest, may have aire enough, with free egresse and
+                            regresse, not letting one another. The space of foure square inches is
+                            sufficient for any stall.</lem>
+                    <rdg wit="#b1609" source="1609.xml#ch3ancs28 1609.xml#ch3ance28">The hive-dore must be made as little as may be, the Bees having easie
                     passage to &amp; fro, not letting one an other: and therfore great flights must
                     have the greater dores, and little flightes the lesse. The greater dores may
                     contein about 4. square inches, as being 4. inches wide, &amp; one inch, or at
                     the least three quarters of an inch high: the lesse need be but 3. inches
                     wide.</rdg>
-                    </app><app type="minor" subtype="add">
-                        <lem wit="#b1623" />
-                        <rdg wit="#b1609" source="1609.xml#ch3ancs29 1609.xml#ch3ance29">Unto the hive-dore there belong a barre, a 
+                </app><app type="minor" subtype="del">
+                    <lem wit="#b1623" />
+                    <rdg wit="#b1609" source="1609.xml#ch3ancs29 1609.xml#ch3ance29">Unto the hive-dore there belong a barre, a 
                        
                     
                     
                          porch, and a porch-dore: which for the safety of the Bees are to be used
                     in their times, as anon in this chapter shal be shewed.and the dressing of them.
                     </rdg>
-                    </app></p>
-                <p xml:id="ch3par36"><app type="major" subtype="add">
-                        <lem wit="#b1623"><note type="authorial" subtype="summary" xml:id="ch3sumn28">28. The Gate or Summer-doore.</note> The Gate or
-                            Summer-doore must be made of that size, that the Bees in Summer, when
-                            their number is greatest, may have aire enough, with free egresse and
-                            regresse, not letting one another. The space of foure square inches is
-                            sufficient for any stall.</lem>
-                        <rdg wit="#b1609" />
-                    </app></p>
+                </app></p>
                 <p xml:id="ch3par37"><app type="major" subtype="add">
                         <lem wit="b1623">This Summer-doore is made thus: First cut away the lowest
                             roule the space of five inches: and, with the Briar or Thred which bound
@@ -3708,20 +3709,21 @@
                             leaft a quarter thicke, and fitted to the Posts.</lem>
                         <rdg wit="#b1609" />
                     </app></p>
-                <p xml:id="ch3par42"><app type="major" subtype="add">
+                <p xml:id="ch3par42"><app type="minor" subtype="change">
                         <lem wit="#b1623">The fashion of which wicket you may see in this
                             figure.</lem>
-                        <rdg wit="#b1609" />
+                    <rdg wit="#b1609" source="1609.xml#ch3ancs30x 1609.xml#ch3ance30x">The forme of which barres both single &amp; double you
+                    may see in these figures.</rdg>
                     </app></p>
                 <fw type="catch"> The</fw>
                 <pb n="F4v" />
                 <fw type="header"> Of the Hives, </fw>
-                <app type="major" subtype="change">
+                <app type="minor" subtype="change">
                     <lem wit="#b1623"><figure>
                             <graphic url="#" />
                             <figDesc>DIAGRAM</figDesc>
                         </figure></lem>
-                    <rdg wit="#b1609" source="1609.xml#ch3ancs30x 1609.xml#ch3ance30x">
+                    <rdg wit="#b1609" source="1609.xml#ch3ancs31x 1609.xml#ch3ance31x">
                         DIAGRAM
                         
                     </rdg>
@@ -3753,18 +3755,7 @@
                             </note> may remove it) in <ref target="#ch3glon7">*</ref>length, depth,
                             and thicknesse fitting to the wicket: with some little hollownesse next
                             the stoole, that may let in the aire, and not let out the Bees.</lem>
-                        <rdg wit="#b1609" source="1609.xml#ch3ancs31 1609.xml#ch3ance31">The barre is to be made of a piece of lath, trencher, or other thin wood
-                    an inch broad, &amp; fowre inches long: in the nether edge whereof you must cut
-                    a holownes 3 inches long &amp; almost halfe an inch high, so leaving halfe an
-                    inch at each ende uncut. And this will serve for most stalls: but if you have
-                    any so good, that they can not, easilie or without let, passe through this
-                    single barre; then for them cut an other holownesse above, of the former length,
-                    and but one quarter of an inch high, leaving the space betweene the two passages
-                    a quarter of an inche. The forme of which barres both single &amp; double you
-                    may see in these figures. 
-                        DIAGRAM
-                        
-                    </rdg>
+                        <rdg wit="#b1609"><ptr target="1609.xml#ch3ancs31 1609.xml#ch3ance31" /></rdg>
                     </app></p>
                 <app type="major" subtype="change">
                     <lem wit="#b1623"><note type="authorial" subtype="gloss" place="inline" xml:id="ch3glon7">*The length may be three inches and an halfe, the
