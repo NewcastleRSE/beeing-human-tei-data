@@ -4141,7 +4141,8 @@
                         </figure></lem>
                     <rdg wit="#b1609"><ptr target="1609.xml#ch3ancs31x 1609.xml#ch3ance31x"/></rdg>
                 </app>
-                <p xml:id="ch3par43"><app type="major" subtype="change">
+                <p xml:id="ch3par43"><app type="major" subtype="del"><lem wit="#b1623"></lem><rdg wit="#b1609"><ptr target="1609.xml#ch3ancs32 1609.xml#ch3ance32"/></rdg></app><app type="major" subtype="del"><lem wit="#b1623"></lem><rdg wit="#b1609"><ptr target="1609.xml#ch3ancs33 1609.xml#ch3ance33"/></rdg></app>
+                    <app type="major" subtype="change">
                         <lem wit="#b1623"><note type="authorial" subtype="summary"
                                 xml:id="ch3sumn31">31. The use of it.</note> The use of the
                             Winter-doore is to straighten the passage when there needeth not so much
@@ -4149,7 +4150,7 @@
                             may have the lesse force, and that the Mice may not enter, which in
                             winter are wont to make much spoile. <ref target="#ch7sumn3">
                                 v.c.7.n.3.</ref></lem>
-                        <rdg wit="#b1609"><ptr target="1609.xml#ch3ancs32 1609.xml#ch3ance32"/></rdg>
+                        <rdg wit="#b1609"><ptr target="1609.xml#ch3ancs33x 1609.xml#ch3ance33x"/></rdg>
                     </app></p>
                 <p xml:id="ch3par44"><note type="authorial" subtype="summary" xml:id="ch3sumn32">32.
                         The <app type="minor" subtype="del">
@@ -4168,7 +4169,7 @@
                         <rdg wit="#b1609"><ptr target="1609.xml#ch3ancs31 1609.xml#ch3ance31"
                             /></rdg>
                     </app></p>
-                <app type="major" subtype="change">
+                <app type="major" subtype="add">
                     <lem wit="#b1623"><note type="authorial" subtype="gloss" place="inline"
                             xml:id="ch3glon7">*The length may be three inches and an halfe, the
                             thicknesse three quarters, the depth halfe an inch: and the length of
@@ -4431,11 +4432,8 @@
                                 v.c.5.n.11.</ref></lem>
                         <rdg wit="#b1609"><ptr target="1609.xml#ch3ancs43 1609.xml#ch3ance43"
                             /></rdg>
-                    </app></p>
-                <app type="minor" subtype="del">
-                    <lem wit="#b1623"/>
-                    <rdg wit="#b1609"><ptr target="1609.xml#ch3ancs42x 1609.xml#ch3ance42x"/></rdg>
-                </app>
+                    </app><app type="reference" subtype="del"><lem wit="#b1623"></lem><rdg wit="#b1609"><ptr target="1609.xml#ch3ancs42xx 1609.xml#42xx"/></rdg></app></p>
+               
                 <p xml:id="ch3par61"><app type="minor" subtype="add">
                         <lem wit="#b1623">Also reare the swarmes that being under-hived doe lie
                             forth, with bolsters of that thicknesse that may but let in the
@@ -4449,17 +4447,17 @@
                         <lem wit="#b1623">In <term>Leo</term>, or presently after the last swarme,
                             kill the Drones, of those stalls you meane to take, with a Drone-pot
                             cloomed to the doore. <ref target="#ch4sumn35"> V.c.4.n.35.</ref></lem>
-                        <rdg wit="#b1609"><ptr target="1609.xml#ch3ancs44 1609.xml#ch3ance44"
+                        <rdg wit="#b1609"><ptr target="1609.xml#ch3ancs43 1609.xml#ch3ance43"
                             /></rdg>
                     </app></p>
-                <p xml:id="ch3par63"><app type="minor" subtype="change">
-                        <lem wit="#b1623"><note type="authorial" subtype="summary"
-                                xml:id="ch3sumn43">43. How and when to kill the Drones.</note> And
+                <p xml:id="ch3par63"><app type="reference" subtype="del"><lem wit="#b1623"></lem><rdg wit="#b1609"><ptr target="1609.xml#ch3ancs44x 1609.xml#ch3ance44x"/></rdg></app><app type="reference" subtype="add"><lem wit="#b1623"><note type="authorial" subtype="summary"
+                    xml:id="ch3sumn43">43. How and when to kill the Drones.</note></lem><rdg wit="#b1609"></rdg></app><app type="minor" subtype="change">
+                        <lem wit="#b1623">And
                             if you see any other so pestered with multitudes, that they are loath to
                             meddle with them; you shall doe well to helpe them some warme
                             afternoone, and then will they take the worke out of your hand, and
                             spend the lesse time about it.</lem>
-                        <rdg wit="#b1609"><ptr target="1609.xml#ch3ancs45 1609.xml#ch3ance45"
+                        <rdg wit="#b1609"><ptr target="1609.xml#ch3ancs44 1609.xml#ch3ance44"
                             /></rdg>
                     </app></p>
                 <p xml:id="ch3par64"><app type="minor" subtype="add">
@@ -4484,23 +4482,23 @@
                         <lem wit="#b1623"><note type="authorial" subtype="summary"
                                 xml:id="ch3sumn46">46. To keepe the weaker hives from
                                 robbing.</note>To the Gates of the weaker stalls, (whether they be
-                            small swarmes, or stocks that have cast twice and late) set up the
+                            small swarmes, or stocks that have cast twice and late)</lem>
+                        <rdg wit="#b1609"><ptr target="1609.xml#ch3ancs46 1609.xml#ch3ance46"
+                        /></rdg>
+                    </app><app type="major" subtype="change"><lem wit="#b1623"><note type="authorial" subtype="summary" xml:id="ch3sumn47">47.
+                        Set up the Winter-doores.</note> set up the
                             Winter-doores, and fasten them with good cloome, <ref
                                 target="#ch3bibln25">v.</ref>
                             <note type="authorial" subtype="bibliographic" xml:id="ch3bibln25"><ref
                                     target="#ch7sumn28">V.c.7.n.28.</ref>
                                 <ref target="ch7sumn47">47.</ref>
-                            </note> and see that the Hives bee close in all places. (Those that have
+                            </note> and see that the Hives bee close in all places.</lem><rdg wit="#b1609"><ptr target="1609.xml#ch3ancs46x 1609.xml#ch3ance46x"/></rdg></app> <app type="minor" subtype="add"><lem wit="#b1623">(Those that have
                             lien forth or otherwise be verie full, you may let alone and not
                             straighten their entrance till the weather bee colder, for such as are
-                            safe enough.)</lem>
-                        <rdg wit="#b1609"><ptr target="1609.xml#ch3ancs46 1609.xml#ch3ance46"
-                            /></rdg>
-                    </app></p>
+                            safe enough.)</lem><rdg wit="#b1609"></rdg></app></p>
                 
              
-                <p xml:id="ch3par66"><note type="authorial" subtype="summary" xml:id="ch3sumn47">47.
-                        Set up the Winter-doores.</note>
+                <p xml:id="ch3par66">
                     <app type="minor" subtype="add">
                         <lem wit="#b1623">But first view your swarmes whether they fit their
                             Hives:</lem>
@@ -4540,7 +4538,7 @@
                         </note></quote>
                 </p>
                 <p xml:id="ch3par67">
-                       <note type="authorial" subtype="summary"
+                       <app type="other" subtype="change"><lem wit="#b1623"><note type="authorial" subtype="summary"
                                 xml:id="ch3sumn48">48. And keepe them shut til they offer to go
                                 abroad.</note> Moreover, because the Waspes and robbing Bees will be
                             stealing betimes, before the true Bees be stirring; it is good in the
@@ -4552,7 +4550,7 @@
                                 <ref target="#ch3bibln28">v.</ref>
                             <note type="authorial" subtype="bibliographic" xml:id="ch3bibln28">
                                 <ref target="#ch3sumn33">V.n. 33.</ref>
-                            </note>
+                            </note></lem><rdg wit="#b1609"><ptr target="1609.xml#ch3ancs46x 1609.xml#ch3ance46x"/></rdg></app>
                     </p>
                 <p xml:id="ch3par68"><note type="authorial" subtype="summary" xml:id="ch3sumn49">49.
                         The reared stalls now to be set downe againe.</note> The stalls which you

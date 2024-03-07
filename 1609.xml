@@ -2832,17 +2832,17 @@
                     there must be a chanel cut in the upper part, in which the dore is to slide to
                     and fro. The fashion of which porch you may best understand by the figure of one
                     ende, thus represented. </p>
-                <anchor xml:id="ch3ancs33x"/><figure>
+                <figure>
                     <figDesc>DIAGRAM</figDesc>
                     <graphic url="#"/>
-                </figure><anchor xml:id="ch3ance33x"/>
+                </figure>
                 <p xml:id="ch3par25">Out of one square sticke, an inch one way and two inches the
                     other &amp; twenty in length, you may cut halfe a skore. For great swarmes and
                     full stalls, which cannot easily passe through these porches, make them an inch
-                    and a halfe wide, and then the wood must bee two inches and a halfe long.</p>
+                    and a halfe wide, and then the wood must bee two inches and a halfe long.<anchor xml:id="ch3ance33"/></p>
                 <p xml:id="ch3par26">
                     <note>26 <hi>The use of it.</hi>
-                    </note> The porch having this long and streight passage, the theife will not be
+                    </note> <anchor xml:id="ch3ancs33x"/>The porch having this long and streight passage, the theife will not be
                     so hasty to enter, &amp; if she doe, ten to one shee is met with before she can
                     get through, and sent back againe with <fw type="catch"> a</fw>
                     <pb n="C8r"/>
@@ -2853,7 +2853,7 @@
                     withall keepeth out the mise, which in winter wont to make most spoile.
                         <hi>v</hi>
                     <note>
-                        <hi>v.c.</hi>7.<hi>n.</hi>4.</note>
+                        <hi>v.c.</hi>7.<hi>n.</hi>4.</note><anchor xml:id="ch3ance33x"/>
                 </p>
                 <p xml:id="ch3par27">
                     <note>27 <hi>The making of the porch-dore.</hi>
@@ -2864,7 +2864,7 @@
                     so long as the widenesse of the porch, and so narrow that a Bee cannot passe.
                         <note>28 <hi>The use of it</hi>
                     </note> With this dore you may shut or halfe-shut the porch as you shall see
-                    cause. </p><anchor xml:id="ch3ance33"/>
+                    cause. </p>
                 <p xml:id="ch3par28">
                     <note>29 <hi><anchor xml:id="ch3ancs34"/>The greese.<anchor xml:id="ch3ance34"/></hi>
                     </note><anchor xml:id="ch3ancs35"/>Unto these may be added a greese or ascent,<anchor xml:id="ch3ance35"/> which may be a planck <anchor xml:id="ch3ancs36"/>or bord<anchor xml:id="ch3ance36"/>
@@ -2909,9 +2909,9 @@
                         <hi>v.c.</hi>5.<hi>n</hi> 11.</note> which is commonly within a sevennight
                     after Midsommer, set up those hives that are full with three tile-shards, or
                     other thinges of like thicknes, &amp; cloome up the space betweene the hive
-                    &amp; the stoole: <note>34 <hi>How to keepe full stalls from killing their
+                    &amp; the stoole: <anchor xml:id="ch3ancs42xx"/><note>34 <hi>How to keepe full stalls from killing their
                             yong.</hi>
-                    </note> <anchor xml:id="ch3ancs43"/>whereby you shall not only stay the Bees from swarming, but also keepe
+                    </note><anchor xml:id="ch3ance42xx"/> <anchor xml:id="ch3ancs43"/>whereby you shall not only stay the Bees from swarming, but also keepe
                     them from killing their yong. <anchor xml:id="ch3ance43"/></p>
                 <p xml:id="ch3par33">
                     <note>35 LEO</note> <anchor xml:id="ch3ancs44"/>For in <hi>Leo</hi> those that are already very full of
@@ -2927,8 +2927,8 @@
                     <hi>and the dressing of them.</hi>
                 </fw>
                 <p xml:id="ch3par34">
-                    <anchor xml:id="ch3ancs45"/><note>36 <hi>Fasten the barre to the dore.</hi>
-                    </note> At <hi>Leo</hi>, when swarming is past, to the dores of the weaker
+                    <anchor xml:id="ch3ancs44x"/><note>36 <hi>Fasten the barre to the dore.</hi><anchor xml:id="ch3ance44x"/>
+                    </note> <anchor xml:id="ch3ancs45"/>At <hi>Leo</hi>, when swarming is past, to the dores of the weaker
                     stalles (whether they be small swarmes, or stockes that have twise swarmed)
                     fasten the barre <hi>v.</hi> with good cloome. <note>
                         <hi>v.n.</hi> 23.</note><anchor xml:id="ch3ance45"/>
@@ -2940,16 +2940,16 @@
                         <hi>v.</hi>
                     <note>
                         <hi>v.c.7.n.26.</hi> 
-                    </note><anchor xml:id="ch3ancs46"/>first bee sure that the hives be close in all places: then fasten the
+                    </note><anchor xml:id="ch3ancs46"/> <note>38 <hi>To keepe the hives from robbing.</hi>
+                    </note>first bee sure that the hives be close in all places: then fasten the
                     barrs either single or double, as you shall see cause, to such hives as are full
-                    of Bees: and to the weaker sort, which were barred in <hi>Leo</hi>, set up the
+                    of Bees: and to the weaker sort, which were barred in <hi>Leo</hi>,<anchor xml:id="ch3ance46"/><anchor xml:id="ch3ancs46x"/> set up the
                     porch <hi>v.</hi>
                     <note>
                         <hi>v.25</hi>
-                    </note> and cloome it fast.<anchor xml:id="ch3ance46"/></p>
+                    </note> and cloome it fast.</p>
                 <p xml:id="ch3par36">
-                    <note>38 <hi>To keepe the hives from robbing.</hi>
-                    </note>
+                    
                     <note>
                         <hi>v.c.7.n.26.</hi>
                     </note>
@@ -2959,7 +2959,7 @@
                     </note>
                     <note>
                         <hi>v.25</hi>
-                    </note>
+                    </note><anchor xml:id="ch3ancs46x"/>
                 </p>
                 <p xml:id="ch3par38">
                     <note>40 <hi>And keepe them shut til they offer to goe abroad.</hi>
@@ -2971,7 +2971,7 @@
                     you may ether open it or halfe-open it, according to the flight of your Bees.
                         <hi>v.</hi>
                     <note>
-                        <hi>v.n.</hi>25</note>
+                        <hi>v.n.</hi>25</note><anchor xml:id="ch3ancs46x"/>
                 </p>
                 <p xml:id="ch3par39">
                     <note>41 <hi>How hives not full ar to be used against colde &amp; robbers.</hi>
