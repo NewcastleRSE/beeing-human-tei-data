@@ -4046,27 +4046,27 @@
                             <rdg wit="#b1609"><ptr target="1609.xml#ch3ancs27 1609.xml#ch3ance27"
                                 /></rdg>
                         </app>Hive-doore.</note>
-                    <app type="major" subtype="change">
+                    <app type="major" subtype="add">
                         <lem wit="#b1623">The Bees entrance, as anon in this Chapter is shewed, must
                             be sometime larger, sometime lesse, sometime nothing at all. And
                             therefore every Bee-Hive must have his Gate or Summer-doore, a
                             Winter-doore or wicket, a Barre or shutting of the wicket.</lem>
-                        <rdg wit="#b1609"><ptr target="1609.xml#ch3ancs28 1609.xml#ch3ance28"
-                            /></rdg>
-                    </app><app type="minor" subtype="add">
-                        <lem wit="#b1623"/>
-                        <rdg wit="#b1609"><ptr target="1609.xml#ch3ancs29 1609.xml#ch3ance29"
-                            /></rdg>
+                        <rdg wit="#b1609"></rdg>
                     </app></p>
-                <p xml:id="ch3par36"><app type="major" subtype="add">
+                <p xml:id="ch3par36"><app type="major" subtype="change">
                         <lem wit="#b1623"><note type="authorial" subtype="summary"
                                 xml:id="ch3sumn28">28. The Gate or Summer-doore.</note> The Gate or
                             Summer-doore must be made of that size, that the Bees in Summer, when
                             their number is greatest, may have aire enough, with free egresse and
                             regresse, not letting one another. The space of foure square inches is
                             sufficient for any stall.</lem>
-                        <rdg wit="#b1609"/>
-                    </app></p>
+                    <rdg wit="#b1609"><ptr target="1609.xml#ch3ancs28 1609.xml#ch3ance28"
+                    /></rdg>
+                </app><app type="minor" subtype="del">
+                    <lem wit="#b1623"/>
+                    <rdg wit="#b1609"><ptr target="1609.xml#ch3ancs29 1609.xml#ch3ance29"
+                    /></rdg>
+                </app></p>
                 <p xml:id="ch3par37"><app type="major" subtype="add">
                         <lem wit="b1623">This Summer-doore is made thus: First cut away the lowest
                             roule the space of five inches: and, with the Briar or Thred which bound
@@ -4126,20 +4126,20 @@
                             leaft a quarter thicke, and fitted to the Posts.</lem>
                         <rdg wit="#b1609"/>
                     </app></p>
-                <p xml:id="ch3par42"><app type="major" subtype="add">
+                <p xml:id="ch3par42"><app type="minor" subtype="change">
                         <lem wit="#b1623">The fashion of which wicket you may see in this
                             figure.</lem>
-                        <rdg wit="#b1609"/>
+                    <rdg wit="#b1609"><ptr target="1609.xml#ch3ancs30x 1609.xml#ch3ance30x"/></rdg>
                     </app></p>
                 <fw type="catch"> The</fw>
                 <pb n="F4v"/>
                 <fw type="header"> Of the Hives, </fw>
-                <app type="major" subtype="change">
+                <app type="minor" subtype="change">
                     <lem wit="#b1623"><figure>
                             <graphic url="#"/>
                             <figDesc>DIAGRAM</figDesc>
                         </figure></lem>
-                    <rdg wit="#b1609"><ptr target="1609.xml#ch3ancs30x 1609.xml#ch3ance30x"/></rdg>
+                    <rdg wit="#b1609"><ptr target="1609.xml#ch3ancs31x 1609.xml#ch3ance31x"/></rdg>
                 </app>
                 <p xml:id="ch3par43"><app type="major" subtype="change">
                         <lem wit="#b1623"><note type="authorial" subtype="summary"
