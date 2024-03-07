@@ -3149,23 +3149,22 @@
                     with Cow-cloome tempered with gravelly dust, or sand, or ashes.</p>
                 <p xml:id="ch3par2"><note type="authorial" subtype="summary" xml:id="ch3sumn2">2.
                         Strawne Hives with their inconveniencies and remedies.</note>
-                    <app type="major" subtype="change">
-                        <lem wit="#b1623">The strawne Hives when they are olde and loded, do usually
+                    The strawne Hives when they are olde and loded, <app type="minor" subtype="del">
+                        <lem wit="#b1623" />
+                        <rdg wit="#b1609" source="1609.xml#ch3ancs1 1609.xml#ch3ance1">unlesse they be very
+                    hard wrought,</rdg>
+                    </app>do usually
                             sinke on the one side, (specially if they take wet) and so break the
-                            combes and let out the hony: for which cause, first see that they be hard
+                            combes and let out the hony: <app type="minor" subtype="del"><lem wit="#b1623" /><rdg wit="#b1609" source="1609.xml#ch3ancs1x 1609.xml#ch3ance1x">and the nether part of them is apt to be
+                    rotted with the moisture of the stoole:</rdg></app>for which cause<app type="minor" subtype="add"><lem wit="#b1623">, first see that they be hard
                             wrought, and then spleet them strong with a Cop, <ref target="#ch3bibln1"> v.</ref>
                             <note type="authorial" subtype="bibliographic" xml:id="ch3bibln1">
                                 <ref target="#ch3sumn11">V.n.11.</ref>
-                            </note> fitted to the top of the Hive.</lem>
-                        <rdg wit="#b1609" source="1609.xml#ch3ancs1 1609.xml#ch3ance1">The strawne hives when they are olde and loded, unlesse they be very
-                    hard wrought, doe usually sinke on one side, specially if they take wet, and so
-                    breake the combes and let out the hony: and the nether part of them is apt to be
-                    rotted with the moisture of the stoole: For which cause it is good to reare them
+                            </note> fitted to the top of the Hive.</lem><rdg wit="#b1609" /></app><app type="major" subtype="del"><lem wit="#b1623" /><rdg wit="#b1609" source="1609.xml#ch3ancs1xx 1609.xml#ch3ance1xx">it is good to reare them
                     an inch from the stoole with three strong spleetes, equally distant, and thrust
                     into the bottome toward the top as high as you can, alwaies keeping them in the
                     middle of the rowles: and so shal you also prevent that other inconvenience,
-                    &amp; keepe the hives upright. </rdg>
-                    </app>
+                    &amp; keepe the hives upright. </rdg></app>
                 </p>
                 <p xml:id="ch3par3"><note type="authorial" subtype="summary" xml:id="ch3sumn3">3.
                         Wicker-Hives with their inconveninecies and remedies.</note> The Wicker
@@ -3242,7 +3241,7 @@
                             most profitable. </lem>
                         <rdg wit="#b1609" />
                     </app></p>
-                <p xml:id="ch3par11">Have alwaies Hives enough of <app type="vocabulary" subtype="change"><lem wit="#b1623">all sorts</lem><rdg wit="#b1609" source="1609.xml#ch3ancs2x 1609.xml#ch3ance2x">al sizes</rdg></app> <app type="minor" subtype="add">
+                <p xml:id="ch3par11">Have alwaies Hives enough of all<app type="vocabulary" subtype="change"><lem wit="#b1623"> sorts</lem><rdg wit="#b1609" source="1609.xml#ch3ancs2x 1609.xml#ch3ance2x"> sizes</rdg></app> <app type="minor" subtype="add">
                     <lem wit="#b1623">(but most of the midling size)</lem>
                     <rdg wit="#b1609" />
                 </app> in store, lest they be to
