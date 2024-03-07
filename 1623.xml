@@ -4929,28 +4929,58 @@
                     in, be sure the Hives be alwaies close and sure: <note type="authorial"
                         subtype="summary" xml:id="ch3sumn62">62. And in pleasant weather let them
                         loose, if it may be, once a fortnight.</note> for the Bees <app type="minor"
-                        subtype="add"><lem wit="#b1623">when they awake</lem><rdg wit="#b1609"/></app> will strive by all meanes to come forth,
-                    though they never finde the way in againe. Yet when there happenenth any
-                    pleasant day (namely when the sunne shineth, the winde is still, or bloweth
-                    mildly out of the South or West, and the earth is without frost &amp; snow) is
-                    it is very behovefull to give them leave to play, <ref target="#ch3bibln35"
-                        >v.</ref>
+                        subtype="add">
+                        <lem wit="#b1623">when they awake</lem>
+                        <rdg wit="#b1609"/>
+                    </app> will strive by all meanes to come forth, though they never finde the way
+                    in againe. Yet <app type="minor" subtype="change">
+                        <lem wit="#b1623">when</lem>
+                        <rdg wit="#b1609"><ptr target="1609.xml#ch3ancsX14 1609.xml#ch3anceX14"
+                            /></rdg>
+                    </app> there <app type="ortographic" subtype="change">
+                        <lem wit="#b1623">happenenth</lem>
+                        <rdg wit="#b1609"><ptr target="1609.xml#ch3ancsX15 1609.xml#ch3anceX15"
+                            /></rdg>
+                    </app> any pleasant day (namely when the sunne shineth, the winde is still, or
+                    bloweth mildly out of the South or West, <app type="ortographic"
+                        subtype="change">
+                        <lem wit="#b1623">and</lem>
+                        <rdg wit="#b1609"><ptr target="1609.xml#ch3ancsX16 1609.xml#ch3anceX16"
+                            /></rdg>
+                    </app> the earth is without frost &amp; snow) is it is very behovefull to give
+                    them leave to play, <ref target="#ch3bibln35">v.</ref>
                     <note type="authorial" subtype="bibliographic" xml:id="ch3bibln35">
                         <ref target="#ch3sumn59"> V.n. 59.</ref>&amp;<ref target="#ch1sumn59"
                             >c.1.n.59.</ref>
                     </note> and to refresh <fw type="sig">them-</fw>
                     <pb n="G4r"/>
-                    <fw type="header"> and the Dressing of them. </fw> themselves: once in a
-                    fortnight or three weekes is to be wished, specially after <term>
-                        Capricorne</term> is past: but if you or the weather shut them in much
-                    longer, they will be so faint and feeble through their long restraint, that
-                    without very pleasant weather at their comming abroad, a number of them will be
-                    chilled while they rest themselves but a little in the open aire. And therefore
-                    as often as, for this purpose, the doore is a little opened; alter it not,
-                    untill the weather alter: and when <term>Aquarius</term> is halfe spent, if, for
-                    feare of a piercing night-frost, you barre them up in the evening; let them goe
-                    againe in the morning, unlesse either snow or boysterous windes forbid you. In
-                    winter provide your Hives.<ref target="#ch3sumn7">v.n.7.</ref>
+                    <fw type="header"> and the Dressing of them. </fw> themselves:<app type="minor"
+                        subtype="del">
+                        <lem wit="#b1623"/>
+                        <rdg wit="#b1609"><ptr target="1609.xml#ch3ancsX17 1609.xml#ch3anceX17"
+                            /></rdg>
+                    </app> once in a fortnight or three weekes is to be wished<app type="major"
+                        subtype="add">
+                        <lem wit="#b1623">, specially after <term> Capricorne</term> is past:</lem>
+                        <rdg wit="#b1609"/>
+                    </app> but if you or the weather shut them in much longer, they will be so faint
+                    and feeble through their long restraint, that without very pleasant weather at
+                    their comming abroad, a number of them will be chilled while they rest
+                    themselves but a little in the open aire. And therefore as often as<app
+                        type="major" subtype="change">
+                        <lem wit="#b1623">, for this purpose, the doore is a little opened; alter it
+                            not, untill the weather alter:</lem>
+                        <rdg wit="#b1609"><ptr target="1609.xml#ch3ancsX18 1609.xml#ch3anceX18"
+                            /></rdg>
+                    </app>
+                    <app type="major" subtype="change">
+                        <lem wit="#b1623">and when <term>Aquarius</term> is halfe spent, if, for
+                            feare of a piercing night-frost, you barre them up in the evening; let
+                            them goe againe in the morning, unlesse either snow or boysterous windes
+                            forbid you.</lem>
+                        <rdg wit="#b1609"><ptr target="1609.xml#ch3ancsX19 1609.xml#ch3anceX19"
+                            /></rdg>
+                    </app> In winter provide your Hives.<ref target="#ch3sumn7">v.n.7.</ref>
                 </p>
                 <p xml:id="ch3par78"><app type="minor" subtype="add">
                         <lem wit="#b1623"><note type="authorial" subtype="summary"
