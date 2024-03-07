@@ -3728,18 +3728,30 @@
                         
                     </rdg>
                 </app>
-                <p xml:id="ch3par43"><app type="major" subtype="change">
+                <p xml:id="ch3par43"><app type="major" subtype="del"><lem wit="#b1623" /><rdg wit="#b1609" source="1609.xml#ch3ancs32 1609.xml#ch3ance32"> The use of the barre is to streighten the passage where there needeth
+                    not so much roome, &amp; to keep out the enimie when the porch is from it.
+                        v.
+                    
+                        V.n.33</rdg></app><app type="major" subtype="del"><lem wit="#b1623" /><rdg wit="#b1609"><ptr target="1609.xml#ch3ancs33 1609.xml#ch3ance33" /></rdg></app>
+                    <app type="major" subtype="change">
                         <lem wit="#b1623"><note type="authorial" subtype="summary" xml:id="ch3sumn31">31. The use of it.</note> The use of the
                             Winter-doore is to straighten the passage when there needeth not so much
                             roome, that the Bees may the better keepe out the Robbers, that the Cold
                             may have the lesse force, and that the Mice may not enter, which in
                             winter are wont to make much spoile. <ref target="#ch7sumn3">
                                 v.c.7.n.3.</ref></lem>
-                        <rdg wit="#b1609" source="1609.xml#ch3ancs32 1609.xml#ch3ance32"> The use of the barre is to streighten the passage where there needeth
-                    not so much roome, &amp; to keep out the enimie when the porch is from it.
-                        v.
+                        <rdg wit="#b1609" source="1609.xml#ch3ancs33x 1609.xml#ch3ance33x">The porch having this long and streight passage, the theife will not be
+                    so hasty to enter, &amp; if she doe, ten to one shee is met with before she can
+                    get through, and sent back againe with  a
                     
-                        V.n.33</rdg>
+                    
+                         a flea in her eare. 2. The porch serveth also to breake the force of the
+                    cold winde and frost in winter, which is very hurtfull unto the Bees. 3. and
+                    withall keepeth out the mise, which in winter wont to make most spoile.
+                        and the dressing of them
+                    v
+                    
+                        v.c.7.n.4.</rdg>
                     </app></p>
                 <p xml:id="ch3par44"><note type="authorial" subtype="summary" xml:id="ch3sumn32">32.
                         The <app type="minor" subtype="del">
@@ -3757,7 +3769,7 @@
                             the stoole, that may let in the aire, and not let out the Bees.</lem>
                         <rdg wit="#b1609"><ptr target="1609.xml#ch3ancs31 1609.xml#ch3ance31" /></rdg>
                     </app></p>
-                <app type="major" subtype="change">
+                <app type="major" subtype="add">
                     <lem wit="#b1623"><note type="authorial" subtype="gloss" place="inline" xml:id="ch3glon7">*The length may be three inches and an halfe, the
                             thicknesse three quarters, the depth halfe an inch: and the length of
                             the hollownesse two inches and an halfe, the depth halfe a quarter of an
@@ -3789,30 +3801,11 @@
                     </app></p>
                 <app type="major" subtype="del">
                     <lem wit="#b1623" />
-                    <rdg wit="#b1609" source="1609.xml#ch3ancs33 1609.xml#ch3ance33"> 
-                25  The concavitie or holownesse of the porch must be an inch in length or
-                    widenes from east to west, almost halfe an inch in heighth, and an inch and a
-                    halfe and better in thicknes from the hive outward. And it is to be made of a
-                    piece of wood two inches long, one inch high, &amp; two inches thicke: of the
-                    which two inches, an inch and a halfe and a litle more must serve for the
-                    thicknesse of the concavitie: and the nether part of the rest being taken away,
-                    there must be a chanel cut in the upper part, in which the dore is to slide to
-                    and fro. The fashion of which porch you may best understand by the figure of one
-                    ende, thus represented. The making of the porch.
-                    
-                    DIAGRAM
-                    
-                
-                Out of one square sticke, an inch one way and two inches the
-                    other &amp; twenty in length, you may cut halfe a skore. For great swarmes and
-                    full stalls, which cannot easily passe through these porches, make them an inch
-                    and a halfe wide, and then the wood must bee two inches and a halfe long.
-                
-                    
-                26  The porch having this long and streight passage, the theife will not be
+                    <rdg wit="#b1609"><ptr target="1609.xml#ch3ancs33 1609.xml#ch3ance33" /></rdg>
+                </app>
+<app type="other" subtype="del"><lem wit="#b1623" /><rdg wit="#b1609" source="1609.xml#ch3ancs33x 1609.xml#ch3ance33x">The porch having this long and streight passage, the theife will not be
                     so hasty to enter, &amp; if she doe, ten to one shee is met with before she can
-                    get through, and sent back againe with The use of it.
-                     a
+                    get through, and sent back againe with  a
                     
                     
                          a flea in her eare. 2. The porch serveth also to breake the force of the
@@ -3821,22 +3814,7 @@
                         and the dressing of them
                     v
                     
-                        
-                v.c.7.n.4.
-                    27  The porch-dore is to be made of a peice of thin wood, as a lath,
-                    trencher, chip, or the like: of the length of the porch, of that thicknesse that
-                    it may slide to and fro in the chanell, and of that breadth that it may reach
-                    from the stoole to the top of the chanell. In the middle cut a breathing place,
-                    so long as the widenesse of the porch, and so narrow that a Bee cannot passe.
-                        The making of the porch-dore.
-                    28  With this dore you may shut or halfe-shut the porch as you shall see
-                    cause. The use of it
-                    </rdg>
-                </app>
-<app type="other" subtype="del"><lem wit="#b1623" /><rdg wit="#b1609" source="1609.xml#ch3ancs33x 1609.xml#ch3ance33x">
-                    DIAGRAM
-                    
-                </rdg></app>
+                        v.c.7.n.4.</rdg></app>
                 <p xml:id="ch3par48"><note type="authorial" subtype="summary" xml:id="ch3sumn34">34.
                             <app type="vocabulary" subtype="change">
                             <lem wit="#b1623">The Settle.</lem>
@@ -4059,14 +4037,8 @@
                                 v.c.5.n.11.</ref></lem>
                         <rdg wit="#b1609" source="1609.xml#ch3ancs43 1609.xml#ch3ance43">whereby you shall not only stay the Bees from swarming, but also keepe
                     them from killing their yong. </rdg>
-                    </app></p>
-                <app type="minor" subtype="del">
-                    <lem wit="#b1623" />
-                    <rdg wit="#b1609" source="1609.xml#ch3ancs42x 1609.xml#ch3ance42x">If you then desire that any of your two-yeere stalls, which
-                    have not yet swarmed, should swarme, see whether the combs reach within an inch
-                    of the stoole: if they doe not, make a false bottome to reach to that scantlet.
-                        v.n.41.</rdg>
-                </app>
+                    </app><app type="reference" subtype="del"><lem wit="#b1623" /><rdg wit="#b1609"><ptr target="1609.xml#ch3ancs42xx 1609.xml#42xx" /></rdg></app></p>
+               
                 <p xml:id="ch3par61"><app type="minor" subtype="add">
                         <lem wit="#b1623">Also reare the swarmes that being under-hived doe lie
                             forth, with bolsters of that thicknesse that may but let in the
@@ -4080,24 +4052,21 @@
                         <lem wit="#b1623">In <term>Leo</term>, or presently after the last swarme,
                             kill the Drones, of those stalls you meane to take, with a Drone-pot
                             cloomed to the doore. <ref target="#ch4sumn35"> V.c.4.n.35.</ref></lem>
+                        <rdg wit="#b1609" source="1609.xml#ch3ancs43 1609.xml#ch3ance43">whereby you shall not only stay the Bees from swarming, but also keepe
+                    them from killing their yong. </rdg>
+                    </app></p>
+                <p xml:id="ch3par63"><app type="reference" subtype="del"><lem wit="#b1623" /><rdg wit="#b1609"><ptr target="1609.xml#ch3ancs44x 1609.xml#ch3ance44x" /></rdg></app><app type="reference" subtype="add"><lem wit="#b1623"><note type="authorial" subtype="summary" xml:id="ch3sumn43">43. How and when to kill the Drones.</note></lem><rdg wit="#b1609" /></app><app type="minor" subtype="change">
+                        <lem wit="#b1623">And
+                            if you see any other so pestered with multitudes, that they are loath to
+                            meddle with them; you shall doe well to helpe them some warme
+                            afternoone, and then will they take the worke out of your hand, and
+                            spend the lesse time about it.</lem>
                         <rdg wit="#b1609" source="1609.xml#ch3ancs44 1609.xml#ch3ance44">For in Leo those that are already very full of
                     Bees, whether they be good swarmes or stockes, doe oftimes kill their later
                     brood, some fledge, some before they can fly, lest they should be thronged for
                     want of roome, knowing that then it is to late for them to goe forth in swarmes.
                         At
                 </rdg>
-                    </app></p>
-                <p xml:id="ch3par63"><app type="minor" subtype="change">
-                        <lem wit="#b1623"><note type="authorial" subtype="summary" xml:id="ch3sumn43">43. How and when to kill the Drones.</note> And
-                            if you see any other so pestered with multitudes, that they are loath to
-                            meddle with them; you shall doe well to helpe them some warme
-                            afternoone, and then will they take the worke out of your hand, and
-                            spend the lesse time about it.</lem>
-                        <rdg wit="#b1609" source="1609.xml#ch3ancs45 1609.xml#ch3ance45">36  At Fasten the barre to the dore.
-                    Leo, when swarming is past, to the dores of the weaker
-                    stalles (whether they be small swarmes, or stockes that have twise swarmed)
-                    fasten the barre v. with good cloome. 
-                        v.n. 23.</rdg>
                     </app></p>
                 <p xml:id="ch3par64"><app type="minor" subtype="add">
                         <lem wit="#b1623"><note type="authorial" subtype="summary" xml:id="ch3sumn44">44. HARVEST</note> To the plentifull Summer
@@ -4118,26 +4087,23 @@
                     <app type="major" subtype="change">
                         <lem wit="#b1623"><note type="authorial" subtype="summary" xml:id="ch3sumn46">46. To keepe the weaker hives from
                                 robbing.</note>To the Gates of the weaker stalls, (whether they be
-                            small swarmes, or stocks that have cast twice and late) set up the
+                            small swarmes, or stocks that have cast twice and late)</lem>
+                        <rdg wit="#b1609" source="1609.xml#ch3ancs46 1609.xml#ch3ance46"> 38 first bee sure that the hives be close in all places: then fasten the
+                    barrs either single or double, as you shall see cause, to such hives as are full
+                    of Bees: and to the weaker sort, which were barred in To keepe the hives from robbing.
+                    Leo,</rdg>
+                    </app><app type="major" subtype="change"><lem wit="#b1623"><note type="authorial" subtype="summary" xml:id="ch3sumn47">47.
+                        Set up the Winter-doores.</note> set up the
                             Winter-doores, and fasten them with good cloome, <ref target="#ch3bibln25">v.</ref>
                             <note type="authorial" subtype="bibliographic" xml:id="ch3bibln25"><ref target="#ch7sumn28">V.c.7.n.28.</ref>
                                 <ref target="ch7sumn47">47.</ref>
-                            </note> and see that the Hives bee close in all places. (Those that have
+                            </note> and see that the Hives bee close in all places.</lem><rdg wit="#b1609"><ptr target="1609.xml#ch3ancs46x 1609.xml#ch3ance46x" /></rdg></app> <app type="minor" subtype="add"><lem wit="#b1623">(Those that have
                             lien forth or otherwise be verie full, you may let alone and not
                             straighten their entrance till the weather bee colder, for such as are
-                            safe enough.)</lem>
-                        <rdg wit="#b1609" source="1609.xml#ch3ancs46 1609.xml#ch3ance46">first bee sure that the hives be close in all places: then fasten the
-                    barrs either single or double, as you shall see cause, to such hives as are full
-                    of Bees: and to the weaker sort, which were barred in Leo, set up the
-                    porch v.
-                    
-                         and cloome it fast.v.25
-                    </rdg>
-                    </app></p>
+                            safe enough.)</lem><rdg wit="#b1609" /></app></p>
                 
              
-                <p xml:id="ch3par66"><note type="authorial" subtype="summary" xml:id="ch3sumn47">47.
-                        Set up the Winter-doores.</note>
+                <p xml:id="ch3par66">
                     <app type="minor" subtype="add">
                         <lem wit="#b1623">But first view your swarmes whether they fit their
                             Hives:</lem>
@@ -4187,7 +4153,7 @@
                         </note></quote>
                 </p>
                 <p xml:id="ch3par67">
-                       <note type="authorial" subtype="summary" xml:id="ch3sumn48">48. And keepe them shut til they offer to go
+                       <app type="other" subtype="change"><lem wit="#b1623"><note type="authorial" subtype="summary" xml:id="ch3sumn48">48. And keepe them shut til they offer to go
                                 abroad.</note> Moreover, because the Waspes and robbing Bees will be
                             stealing betimes, before the true Bees be stirring; it is good in the
                             evening, when the Bees are all in, to <app type="vocabulary" subtype="change"><lem wit="#b1623">barre up the Wickets</lem><rdg wit="#b1609" source="1609.xml#ch3ancs47 1609.xml#ch3ance47">shut the porch</rdg></app> of those that
@@ -4198,7 +4164,7 @@
                                 <ref target="#ch3bibln28">v.</ref>
                             <note type="authorial" subtype="bibliographic" xml:id="ch3bibln28">
                                 <ref target="#ch3sumn33">V.n. 33.</ref>
-                            </note>
+                            </note></lem><rdg wit="#b1609"><ptr target="1609.xml#ch3ancs46x 1609.xml#ch3ance46x" /></rdg></app>
                     </p>
                 <p xml:id="ch3par68"><note type="authorial" subtype="summary" xml:id="ch3sumn49">49.
                         The reared stalls now to be set downe againe.</note> The stalls which you
