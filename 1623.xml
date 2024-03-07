@@ -4980,7 +4980,12 @@
                             forbid you.</lem>
                         <rdg wit="#b1609"><ptr target="1609.xml#ch3ancsX19 1609.xml#ch3anceX19"
                             /></rdg>
-                    </app> In winter provide your Hives.<ref target="#ch3sumn7">v.n.7.</ref>
+                    </app>
+                    <app type="minor" subtype="add">
+                        <lem wit="#b1623">In winter provide your Hives.<ref target="#ch3sumn7"
+                                >v.n.7.</ref></lem>
+                        <rdg wit="#b1609"/>
+                    </app>
                 </p>
                 <p xml:id="ch3par78"><app type="minor" subtype="add">
                         <lem wit="#b1623"><note type="authorial" subtype="summary"
