@@ -4054,8 +4054,8 @@
                     xml:id="ch3sumn28">28. The Gate or Summer-doore.</note></lem><rdg wit="#b1609"></rdg></app> <app type="minor" subtype="change"><lem wit="#b1623">The Gate or
                         Summer-doore</lem><rdg wit="#b1609"><ptr target="1609.xml#ch3ancs18 1609.xml#ch3ance18"/></rdg></app> must be made <app type="minor" subtype="change"><lem wit="#b1623">of that size, that the Bees in Summer, when
                             their number is greatest, may have aire enough, with free egresse and
-                            regresse, not letting one another.</lem><rdg wit="#b1609"><ptr target="1609.xml#ch3ancs18x 1609.xml#ch3ance18x"/></rdg></app> The space of foure square inches is
-                            sufficient for any stall.
+                            regresse, not letting one another.</lem><rdg wit="#b1609"><ptr target="1609.xml#ch3ancs18x 1609.xml#ch3ance18x"/></rdg></app> <app type="minor" subtype="change"><lem wit="#b1623">The space of foure square inches is
+                                sufficient for any stall.</lem><rdg wit="#b1609"><ptr target="1609.xml#ch3ancs18xx 1609.xml#ch3ance18xx"/></rdg></app>
                     <app type="minor" subtype="del">
                     <lem wit="#b1623"/>
                     <rdg wit="#b1609"><ptr target="1609.xml#ch3ancs29 1609.xml#ch3ance29"
@@ -4106,10 +4106,9 @@
                         </figure></lem>
                     <rdg wit="#b1609"/>
                 </app>
-                <p xml:id="ch3par41"><app type="major" subtype="add">
-                        <lem wit="#b1623"><note type="authorial" subtype="summary"
-                                xml:id="ch3sumn30">30. The Winter-doore, or Wicket.</note> The
-                            Winter-doore or Wicket is made of a peece of wood, an inch and a quarter
+                <p xml:id="ch3par41"><note type="authorial" subtype="summary"
+                    xml:id="ch3sumn30"><app type="reference" subtype="change"><lem wit="#b1623">30. The Winter-doore, or Wicket.</lem><rdg wit="#b1609"><ptr target="1609.xml#ch3ancs31 1609.xml#ch3ance31"/></rdg></app></note> <app type="vocabulary" subtype="change"><lem wit="#b1623">The
+                        Winter-doore or Wicket</lem><rdg wit="#b1609"><ptr target="1609.xml#ch3ancs31xx 1609.xml#ch3ance31xx"/></rdg></app> is<app type="vocabulary" subtype="del"><lem wit="#b1623"></lem><rdg wit="#b1609"><ptr target="1609.xml#ch3ancs31xxx 1609.xml#ch3ance31xxx"/></rdg></app> made of a peece of<app type="vocabulary" subtype="del"><lem wit="#b1623"></lem><rdg wit="#b1609"><ptr target="1609.xml#ch3ancs31xxxx 1609.xml#ch3ance31xxxx"/></rdg></app> wood, an inch <app type="major" subtype="change"><lem wit="#b1623">and a quarter
                             thicke, almost an inch high, and five inches long. At each end whereof
                             cut away halfe an inch all save before, where that halfe inch in length
                             must be at least a quarter thicke, with his full heighth to fit the
@@ -4117,9 +4116,7 @@
                             thicknesse, a hollownesse or passage, almost halfe an inch high, and
                             three inches long: and then there will remaine at each end of the
                             hollownesse halfe an inch uncut, besides the two extreme halfe inches
-                            leaft a quarter thicke, and fitted to the Posts.</lem>
-                        <rdg wit="#b1609"/>
-                    </app></p>
+                            leaft a quarter thicke, and fitted to the Posts.</lem><rdg wit="#b1609"><ptr target="1609.xml#ch3ancs31v 1609.xml#ch3ance31v"/></rdg></app></p>
                 <p xml:id="ch3par42"><app type="minor" subtype="change">
                         <lem wit="#b1623">The fashion of which wicket you may see in this
                             figure.</lem>
