@@ -4133,65 +4133,50 @@
                     <rdg wit="#b1609"><ptr target="1609.xml#ch3ancs31x 1609.xml#ch3ance31x"/></rdg>
                 </app>
                 <p xml:id="ch3par43"><app type="major" subtype="del"><lem wit="#b1623"></lem><rdg wit="#b1609"><ptr target="1609.xml#ch3ancs32 1609.xml#ch3ance32"/></rdg></app><app type="major" subtype="del"><lem wit="#b1623"></lem><rdg wit="#b1609"><ptr target="1609.xml#ch3ancs33 1609.xml#ch3ance33"/></rdg></app>
-                    <app type="major" subtype="change">
-                        <lem wit="#b1623"><note type="authorial" subtype="summary"
+                    <note type="authorial" subtype="summary"
                                 xml:id="ch3sumn31">31. The use of it.</note> The use of the
-                            Winter-doore is to straighten the passage when there needeth not so much
-                            roome, that the Bees may the better keepe out the Robbers, that the Cold
+                    <app type="vocabulary" subtype="change">
+                        <lem wit="#b1623">Winter-doore</lem>
+                        <rdg wit="#b1609"><ptr target="1609.xml#ch3ancs33x 1609.xml#ch3ance33x"/></rdg>
+                    </app> is to straighten the passage when there needeth not so much
+                    roome, <app type="minor" subtype="change"><lem wit="#b1623">that the Bees may the better keepe out the Robbers,</lem><rdg wit="#b1609"><ptr target="1609.xml#ch3ancs32 1609.xml#ch3ance32"/></rdg></app><app type="major" subtype="del"><lem wit="#b1623"></lem><rdg wit="#b1609"><ptr target="1609.xml#ch3ancs33 1609.xml#ch3ance33"/></rdg></app> <app type="minor" subtype="change"><lem wit="#b1609">that the Cold
                             may have the lesse force, and that the Mice may not enter, which in
                             winter are wont to make much spoile. <ref target="#ch7sumn3">
-                                v.c.7.n.3.</ref></lem>
-                        <rdg wit="#b1609"><ptr target="1609.xml#ch3ancs33x 1609.xml#ch3ance33x"/></rdg>
-                    </app></p>
+                                v.c.7.n.3.</ref></lem><rdg wit="#b1609"><ptr target="1609.xml#ch3ancs34x 1609.xml#ch3ance34x"/></rdg></app></p>
                 <p xml:id="ch3par44"><note type="authorial" subtype="summary" xml:id="ch3sumn32">32.
-                        The <app type="minor" subtype="del">
-                            <lem wit="#b1623"/>
-                            <rdg wit="#b1609"><ptr target="1609.xml#ch3ancs30 1609.xml#ch3ance30"/></rdg>
-                        </app>Barre.</note>
-                    <app type="major" subtype="change">
-                        <lem wit="#b1623">The Barre or shutting is to be made foure square of some
+                        The Barre.</note>
+                    <app type="major" subtype="add"><lem wit="#b1623">The Barre or shutting is to be made foure square of some
                             heavy matter, as namely of Lead (that neither the rough wind nor craftie
                             Titmouse <ref target="#ch3bibln12">v.</ref>
                             <note type="authorial" subtype="bibliographic" xml:id="ch3bibln12">
                                 <ref target="#ch7sumn4">V.c.7.n.6.</ref>
                             </note> may remove it) in <ref target="#ch3glon7">*</ref>length, depth,
                             and thicknesse fitting to the wicket: with some little hollownesse next
-                            the stoole, that may let in the aire, and not let out the Bees.</lem>
-                        <rdg wit="#b1609"><ptr target="1609.xml#ch3ancs31 1609.xml#ch3ance31"
-                            /></rdg>
-                    </app></p>
+                            the stoole, that may let in the aire, and not let out the Bees.</lem><rdg wit="#b1609"></rdg></app></p>
                 <app type="major" subtype="add">
                     <lem wit="#b1623"><note type="authorial" subtype="gloss" place="inline"
                             xml:id="ch3glon7">*The length may be three inches and an halfe, the
                             thicknesse three quarters, the depth halfe an inch: and the length of
                             the hollownesse two inches and an halfe, the depth halfe a quarter of an
-                            inch.</note></lem>
-                    <rdg wit="1609.xml#ch3ancs31 1609.xml#ch3ance31"/>
-                </app>
+                            inch.</note></lem><rdg wit="#b1609"></rdg></app>
                 <p xml:id="ch3par45"><app type="major" subtype="add">
                         <lem wit="#b1623">For want of Lead or other mettall, you may with a hammer
                             and grind-stone fit a Tile-shard: but let that be somewhat broad, that
                             it may lie the faster on the stoole. </lem>
                         <rdg wit="#b1609"></rdg>
-                    </app></p>
+                    </app></p><app type="major" subtype="del"><lem wit="#b1623"></lem><rdg wit="#b1609"><ptr target="1609.xml#ch3ancs34xx 1609.xml#ch3ance34xx"/></rdg></app>
                 <p xml:id="ch3par46"><note type="authorial" subtype="summary" xml:id="ch3sumn33">33.
                         The use of it.</note>
-                    <app type="major" subtype="change">
-                        <lem wit="#b1623">With this Barre you may shut or halfe shut the Wicket, as you
-                            shall see cause; to defend the Bees in the more dangerous times from
-                            Frost, Snow, Titmise, and Robbers. </lem>
-                        <rdg wit="#b1609"><ptr target="1609.xml#ch3ancs32 1609.xml#ch3ance32"
-                            /></rdg>
-                    </app></p>
+                    With this  <app type="vocabulary" subtype="change">
+                        <lem wit="#b1623">Barre</lem><rdg wit="#b1609"><ptr target="1609.xml#ch3ancs34xxx 1609.xml#ch3ance34xxx"/></rdg></app> you may shut or halfe shut the <app type="vocabulary" subtype="change"><lem wit="#b1623">Wicket</lem><rdg wit="#b1609"><ptr target="1609.xml#ch3ancs34xxxx 1609.xml#ch3ance34xxxx"/></rdg></app>, as you
+                            shall see cause; <app type="minor" subtype="add"><lem wit="#b1623">to defend the Bees in the more dangerous times from
+                                Frost, Snow, Titmise, and Robbers.</lem><rdg wit="#b1609"></rdg></app> </p>
                 <p xml:id="ch3par47"><app type="minor" subtype="add">
                         <lem wit="#b1623">For small stalls, the Gate, Wicket, and Barre, may be all
                             of a lesse size. </lem>
                         <rdg wit="#b1609"/>
                     </app></p>
-                <app type="major" subtype="del">
-                    <lem wit="#b1623"/>
-                    <rdg wit="#b1609"><ptr target="1609.xml#ch3ancs33 1609.xml#ch3ance33"/></rdg>
-                </app>
+                
 <app type="other" subtype="del"><lem wit="#b1623"></lem><rdg wit="#b1609"><ptr target="1609.xml#ch3ancs33x 1609.xml#ch3ance33x"/></rdg></app>
                 <p xml:id="ch3par48"><note type="authorial" subtype="summary" xml:id="ch3sumn34">34.
                             <app type="vocabulary" subtype="change">
