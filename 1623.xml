@@ -4359,16 +4359,16 @@
                             <lem wit="#b1623">set the doores wide open.</lem>
                             <rdg wit="#b1609"/>
                         </app></note>
-                    <app type="minor" subtype="change">
-                        <lem wit="#b1623">At <term>Gemini</term> therefore set the doores <ref
+                    
+                    <app type="minor" subtype="change"><lem wit="#b1623">At <term>Gemini</term> therefore set</lem><rdg wit="#b1609"><ptr target="1609.xml#ch3ancs39x 1609.xml#ch3ance39x"/></rdg></app> the doores <ref
                                 target="#ch3bibln22">v:</ref>
                             <note type="authorial" subtype="bibliographic" xml:id="ch3bibln22">
                                 <ref target="#ch3sumn28">V.n.28.</ref>
-                            </note> wide open, without Barre or Wicket: and so let them stand all
-                            this quarter. </lem>
-                        <rdg wit="#b1609"><ptr target="1609.xml#ch3ancs40 1609.xml#ch3ance40"
-                            /></rdg>
-                    </app></p>
+                            </note> wide open, <app type="minor" subtype="change"><lem wit="#b1623">without Barre or Wicket: and so let them stand all
+                            this quarter. 
+                            </lem><rdg wit="#b1609"><ptr target="1609.xml#ch3ancs40 1609.xml#ch3ance40"></ptr>
+                            </rdg></app>
+                    </p>
                 <p xml:id="ch3par59"><term>Gemini</term> being past, if the weather be usually <app
                         type="vocabulary" subtype="change">
                         <lem wit="#b1623">coole</lem>
@@ -4402,13 +4402,13 @@
                     </note> which is commonly within a seven night after Midsummer: set up those
                     Hives that are full with three Tile-shards, or other things of like thicknesse,
                     and cloome up the space betweene the hive and the stoole: <app type="minor"
-                        subtype="change">
+                        subtype="add">
                         <lem wit="#b1623">If yet they chance to swarme, as soone as they are hived,
                             put them backe to the stocke, <ref target="#ch5sumn11">
                                 v.c.5.n.11.</ref></lem>
-                        <rdg wit="#b1609"><ptr target="1609.xml#ch3ancs43 1609.xml#ch3ance43"
-                            /></rdg>
-                    </app><app type="reference" subtype="del"><lem wit="#b1623"></lem><rdg wit="#b1609"><ptr target="1609.xml#ch3ancs42xx 1609.xml#42xx"/></rdg></app></p>
+                        <rdg wit="#b1609"></rdg></app><app type="minor" subtype="del"><lem wit="#b1623"></lem><rdg wit="#b1609"><ptr target="1609.xml#ch3ancs43 1609.xml#ch3ance43"/></rdg>
+                    </app>
+                    <app type="reference" subtype="del"><lem wit="#b1623"></lem><rdg wit="#b1609"><ptr target="1609.xml#ch3ancs42xx 1609.xml#42xx"/></rdg></app></p>
                
                 <p xml:id="ch3par61"><app type="minor" subtype="add">
                         <lem wit="#b1623">Also reare the swarmes that being under-hived doe lie
@@ -4418,24 +4418,27 @@
                     </app>
                 </p>
                 <p xml:id="ch3par62"><note type="authorial" subtype="summary" xml:id="ch3sumn42">42.
-                            <term>LEO</term>.</note>
-                    <app type="minor" subtype="change">
-                        <lem wit="#b1623">In <term>Leo</term>, or presently after the last swarme,
+                            <term>LEO</term>.</note></p>
+                <listTranspose wit="#b1623">
+                    <transpose>
+                       
+                        <ptr target="#Bp2"/>
+                        <ptr target="#Bp1"/>
+                    </transpose>
+                </listTranspose>
+                <p xml:id="Ap1"><app type="minor" subtype="change"><lem wit="#b1623">In <term>Leo</term>, or presently after the last swarme,
                             kill the Drones, of those stalls you meane to take, with a Drone-pot
-                            cloomed to the doore. <ref target="#ch4sumn35"> V.c.4.n.35.</ref></lem>
-                        <rdg wit="#b1609"><ptr target="1609.xml#ch3ancs43 1609.xml#ch3ance43"
-                            /></rdg>
-                    </app></p>
+                            cloomed to the doore. <ref target="#ch4sumn35"> V.c.4.n.35.</ref></lem><rdg wit="#b1609"><ptr target="1609.xml#ch3ancs44 1609.xml#ch3ance44"/></rdg></app>
+                   </p>
                 <p xml:id="ch3par63"><app type="reference" subtype="del"><lem wit="#b1623"></lem><rdg wit="#b1609"><ptr target="1609.xml#ch3ancs44x 1609.xml#ch3ance44x"/></rdg></app><app type="reference" subtype="add"><lem wit="#b1623"><note type="authorial" subtype="summary"
-                    xml:id="ch3sumn43">43. How and when to kill the Drones.</note></lem><rdg wit="#b1609"></rdg></app><app type="minor" subtype="change">
-                        <lem wit="#b1623">And
+                    xml:id="ch3sumn43">43. How and when to kill the Drones.</note></lem><rdg wit="#b1609"></rdg></app></p>
+                       <p xml:id="Ap2"><app type="minor" subtype="change"><lem wit="#b1623">And
                             if you see any other so pestered with multitudes, that they are loath to
                             meddle with them; you shall doe well to helpe them some warme
                             afternoone, and then will they take the worke out of your hand, and
-                            spend the lesse time about it.</lem>
-                        <rdg wit="#b1609"><ptr target="1609.xml#ch3ancs44 1609.xml#ch3ance44"
-                            /></rdg>
-                    </app></p>
+                            spend the lesse time about it.</lem><rdg wit="#b1609"><ptr target="1609.xml#ch3ancs43 1609.xml#ch3ance43"/></rdg></app>
+                    </p>
+                
                 <p xml:id="ch3par64"><app type="minor" subtype="add">
                         <lem wit="#b1623"><note type="authorial" subtype="summary"
                                 xml:id="ch3sumn44">44. HARVEST</note> To the plentifull Summer
