@@ -3698,21 +3698,21 @@
                     </app></p>
                 <p xml:id="ch3par15"><note type="authorial" subtype="summary" xml:id="ch3sumn10">10.
                         The spraying or spleeting of them.</note>
-                    <app type="major" subtype="add">
+                    <app type="minor" subtype="add">
                         <lem wit="#b1623">2. The Hive being pruned, put Spleetes in it, <ref
                                 target="#ch3glon2" rend="superscript">a</ref> three or foure, as the
-                            largenesse of the Hive shall require: the upper ends whereof set
+                            largenesse of the Hive shall require:</lem>
+                        <rdg wit="#b1609"></rdg>
+                    </app> <app type="minor" subtype="change"><lem wit="#b1623">the upper ends whereof set
                             together at the top of the Hive, and the nether ends fasten below in
                             equall distance, about a handfull <fw type="catch"> above</fw>
                             <pb n="F1v"/>
-                            <fw type="header"> Of the Hives, </fw> above the skirt. In a wicker-Hive
+                        <fw type="header"> Of the Hives, </fw> above the skirt.</lem><rdg wit="#b1609"><ptr target="1609.xml#ch3ancs8vii 1609.xml#ch3ance8vii"/></rdg></app> In a wicker-Hive
                             let the upper ends rest against the middle of the staffe, &amp; the
                             nether ends against the parts of it betweene the Wickers; and in a
                             strawne Hive, set the upper ends together in a Cop, and the nether ends
                             against the briars or threads, between the third &amp; fourth
-                            roule.</lem>
-                        <rdg wit="#b1609"></rdg>
-                    </app></p>
+                            roule.</p>
                 <p xml:id="ch3par16"><app type="major" subtype="add">
                         <lem wit="#b1623"><note type="authorial" subtype="summary"
                                 xml:id="ch3sumn11">11. The making of the Cop, and of the
@@ -3729,11 +3729,11 @@
                     willow-sticke, <app type="vocabulary" subtype="del"><lem wit="#b1623"></lem><rdg wit="#b1609"><ptr target="1609.xml#ch3ancs8 1609.xml#ch3ance8"/></rdg></app>quarter it if it be bigge enough, <app type="vocabulary" subtype="change"><lem wit="#b1623">else</lem><rdg wit="#b1609"><ptr target="1609.xml#ch3ancs8x 1609.xml#ch3ance8x"/></rdg></app> slit it: <app type="vocabulary" subtype="del"><lem wit="#b1623"></lem><rdg wit="#b1609"><ptr target="1609.xml#ch3ancs8xx 1609.xml#ch3ance8xx"/></rdg></app>then
                     shave and smooth the clefts, <app type="minor" subtype="change"><lem wit="#b1623">and having brought them to a</lem><rdg wit="#b1609"><ptr target="1609.xml#ch3ancs8xxx 1609.xml#ch3ance8xxx"/></rdg></app> convenient
                                 <ref target="#ch3glon3" rend="superscript">b</ref> strength &amp;
-                            length, <app type="minor" subtype="change"><lem wit="#b1623">cut the lower ends forked, to stay against the Hives sides, and
+                            length, <app type="minor" subtype="add"><lem wit="#b1623">cut the lower ends forked, to stay against the Hives sides, and
                             the upper ends somwhat picked, and of that bignesse that they may fitly
                             joyne in the Cop or middle of the staffe, with their backs leaning <ref
                                 target="#ch3glon4" rend="superscript">c</ref> hard and fast against
-                                one another. </lem><rdg wit="#b1609"><ptr target="1609.xml#ch3ancs8xxxx 1609.xml#ch3ance8xxxx"/></rdg></app></p>
+                                one another.</lem><rdg wit="#b1609"></rdg></app></p>
                 
                     <note type="authorial" subtype="gloss" place="inline"
                             xml:id="ch3glon2"><app type="minor" subtype="change"><lem wit="#b1623">(a) If the Hive conteine above three peckes, it may
@@ -3752,10 +3752,10 @@
                             loose: it is the last that makes all fast.</note></lem><rdg wit="#b1609"></rdg></app>
                 <p xml:id="ch3par18"> <app type="minor" subtype="change"><lem wit="#b1623">And this is a handsome, easie, and sure way of spleeting:
                             it is also good for drawing the Combes without breaking, and for keeping
-                            the Hive from sinking and from tearing at the top. Besides which there
+                            the Hive from sinking and from tearing at the top. </lem>
+                    <rdg wit="#b1609"><ptr target="1609.xml#ch3ancs8vi 1609.xml#ch3ance8vi"/></rdg></app>Besides which there
                             are divers sorts of spleeting, needlesse to be rehearsed: for every
-                            Countrey hath his fashion.</lem>
-                    <rdg wit="#b1609"><ptr target="1609.xml#ch3ancs8vi 1609.xml#ch3ance8vi"/></rdg></app></p>
+                            Countrey hath his fashion.</p>
                 <p xml:id="ch3par19"><note type="authorial" subtype="summary" xml:id="ch3sumn12">12.
                         The seasoning of them.</note> 3 Lastly, in swarming time season the Hives
                     that you meane to use, rubbing them with sweet herbes such as the Bees love, as
@@ -3801,15 +3801,15 @@
                     covered, that they may be safe in Summer from heat, lest, the wax melting, the
                     Combes fall downe; <ref target="#ch3bibln5">v.</ref>
                     <note type="authorial" subtype="bibliographic" xml:id="ch3bibln5">
-                        <ref target="#ch7sumn53">V.c.7.n. 53.</ref>
+                        <ref target="#ch7sumn53">V.c.7.n.53.</ref>
                     </note> in Winter from cold, lest it kill the Bees; <ref target="#ch3bibln6"
                         >v.</ref>
                     <note type="authorial" subtype="bibliographic" xml:id="ch3bibln6">
-                        <ref target="#ch7sumn54">V.c. 7. n. 54.</ref>
+                        <ref target="#ch7sumn54">V.c.7.n.54.</ref>
                     </note> and at all times from raine, lest it corrupt first the Hive, afterward
                     the Combes, and at last the Bees also.<ref target="#ch3bibln7">v.</ref>
                     <note type="authorial" subtype="bibliographic" xml:id="ch3bibln7">
-                        <ref target="#ch7sumn58">V.c. 7..n58.</ref>
+                        <ref target="#ch7sumn58">V.c.7.n.58.</ref>
                     </note></p>
                     <p><app type="minor" subtype="add">
                         <lem wit="#b1623">In some places (where the stalls are not many) they use
@@ -4045,24 +4045,18 @@
                             <lem wit="#b1623"/>
                             <rdg wit="#b1609"><ptr target="1609.xml#ch3ancs27 1609.xml#ch3ance27"
                                 /></rdg>
-                        </app>Hive-doore.</note>
-                    <app type="major" subtype="add">
-                        <lem wit="#b1623">The Bees entrance, as anon in this Chapter is shewed, must
+                        </app>Hive-doore.</note><app type="major" subtype="add"><lem wit="#b1623">
+                  The Bees entrance, as anon in this Chapter is shewed, must
                             be sometime larger, sometime lesse, sometime nothing at all. And
                             therefore every Bee-Hive must have his Gate or Summer-doore, a
-                            Winter-doore or wicket, a Barre or shutting of the wicket.</lem>
-                        <rdg wit="#b1609"></rdg>
-                    </app></p>
-                <p xml:id="ch3par36"><app type="major" subtype="change">
-                        <lem wit="#b1623"><note type="authorial" subtype="summary"
-                                xml:id="ch3sumn28">28. The Gate or Summer-doore.</note> The Gate or
-                            Summer-doore must be made of that size, that the Bees in Summer, when
+                            Winter-doore or wicket, a Barre or shutting of the wicket.</lem><rdg wit="#b1609"></rdg></app></p>
+                <p xml:id="ch3par36"><app type="reference" subtype="add"><lem wit="#b1623"><note type="authorial" subtype="summary"
+                    xml:id="ch3sumn28">28. The Gate or Summer-doore.</note></lem><rdg wit="#b1609"></rdg></app> <app type="minor" subtype="change"><lem wit="#b1623">The Gate or
+                        Summer-doore</lem><rdg wit="#b1609"><ptr target="1609.xml#ch3ancs18 1609.xml#ch3ance18"/></rdg></app> must be made <app type="minor" subtype="change"><lem wit="#b1623">of that size, that the Bees in Summer, when
                             their number is greatest, may have aire enough, with free egresse and
-                            regresse, not letting one another. The space of foure square inches is
-                            sufficient for any stall.</lem>
-                    <rdg wit="#b1609"><ptr target="1609.xml#ch3ancs28 1609.xml#ch3ance28"
-                    /></rdg>
-                </app><app type="minor" subtype="del">
+                            regresse, not letting one another.</lem><rdg wit="#b1609"><ptr target="1609.xml#ch3ancs18x 1609.xml#ch3ance18x"/></rdg></app> The space of foure square inches is
+                            sufficient for any stall.
+                    <app type="minor" subtype="del">
                     <lem wit="#b1623"/>
                     <rdg wit="#b1609"><ptr target="1609.xml#ch3ancs29 1609.xml#ch3ance29"
                     /></rdg>
