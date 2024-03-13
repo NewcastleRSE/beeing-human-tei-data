@@ -3631,8 +3631,11 @@
                             their number is greatest, may have aire enough, with free egresse and
                             regresse, not letting one another.</lem><rdg wit="#b1609" source="1609.xml#ch3ancs18x 1609.xml#ch3ance18x">as little as may be, the Bees having easie
                     passage to &amp; fro, not letting one an other: and therfore great flights must
-                    have the greater dores, and little flightes the lesse.</rdg></app> The space of foure square inches is
-                            sufficient for any stall.
+                    have the greater dores, and little flightes the lesse.</rdg></app> <app type="minor" subtype="change"><lem wit="#b1623">The space of foure square inches is
+                                sufficient for any stall.</lem><rdg wit="#b1609" source="1609.xml#ch3ancs18xx 1609.xml#ch3ance18xx">The greater dores may
+                    contein about 4. square inches, as being 4. inches wide, &amp; one inch, or at
+                    the least three quarters of an inch high: the lesse need be but 3. inches
+                    wide.</rdg></app>
                     <app type="minor" subtype="del">
                     <lem wit="#b1623" />
                     <rdg wit="#b1609" source="1609.xml#ch3ancs29 1609.xml#ch3ance29">Unto the hive-dore there belong a barre, a 
@@ -3686,9 +3689,8 @@
                         </figure></lem>
                     <rdg wit="#b1609" />
                 </app>
-                <p xml:id="ch3par41"><app type="major" subtype="add">
-                        <lem wit="#b1623"><note type="authorial" subtype="summary" xml:id="ch3sumn30">30. The Winter-doore, or Wicket.</note> The
-                            Winter-doore or Wicket is made of a peece of wood, an inch and a quarter
+                <p xml:id="ch3par41"><note type="authorial" subtype="summary" xml:id="ch3sumn30"><app type="reference" subtype="change"><lem wit="#b1623">30. The Winter-doore, or Wicket.</lem><rdg wit="#b1609" source="1609.xml#ch3ancs31 1609.xml#ch3ance31">The making of the barre.</rdg></app></note> <app type="vocabulary" subtype="change"><lem wit="#b1623">The
+                        Winter-doore or Wicket</lem><rdg wit="#b1609" source="1609.xml#ch3ancs31xx 1609.xml#ch3ance31xx">The barre</rdg></app> is<app type="vocabulary" subtype="del"><lem wit="#b1623" /><rdg wit="#b1609" source="1609.xml#ch3ancs31xxx 1609.xml#ch3ance31xxx">to</rdg></app> made of a peece of<app type="vocabulary" subtype="del"><lem wit="#b1623" /><rdg wit="#b1609" source="1609.xml#ch3ancs31xxxx 1609.xml#ch3ance31xxxx">a piece of lath, trencher, or other thin</rdg></app> wood, an inch <app type="major" subtype="change"><lem wit="#b1623">and a quarter
                             thicke, almost an inch high, and five inches long. At each end whereof
                             cut away halfe an inch all save before, where that halfe inch in length
                             must be at least a quarter thicke, with his full heighth to fit the
@@ -3696,9 +3698,13 @@
                             thicknesse, a hollownesse or passage, almost halfe an inch high, and
                             three inches long: and then there will remaine at each end of the
                             hollownesse halfe an inch uncut, besides the two extreme halfe inches
-                            leaft a quarter thicke, and fitted to the Posts.</lem>
-                        <rdg wit="#b1609" />
-                    </app></p>
+                            leaft a quarter thicke, and fitted to the Posts.</lem><rdg wit="#b1609" source="1609.xml#ch3ancs31v 1609.xml#ch3ance31v">broad, &amp; fowre inches long: in the nether edge whereof you must cut
+                    a holownes 3 inches long &amp; almost halfe an inch high, so leaving halfe an
+                    inch at each ende uncut. And this will serve for most stalls: but if you have
+                    any so good, that they can not, easilie or without let, passe through this
+                    single barre; then for them cut an other holownesse above, of the former length,
+                    and but one quarter of an inch high, leaving the space betweene the two passages
+                    a quarter of an inche.</rdg></app></p>
                 <p xml:id="ch3par42"><app type="minor" subtype="change">
                         <lem wit="#b1623">The fashion of which wicket you may see in this
                             figure.</lem>
@@ -3746,7 +3752,7 @@
                 <p xml:id="ch3par44"><note type="authorial" subtype="summary" xml:id="ch3sumn32">32.
                         The <app type="minor" subtype="del">
                             <lem wit="#b1623" />
-                            <rdg wit="#b1609" source="1609.xml#ch3ancs30 1609.xml#ch3ance30">The making of the</rdg>
+                            <rdg wit="#b1609"><ptr target="1609.xml#ch3ancs30 1609.xml#ch3ance30" /></rdg>
                         </app>Barre.</note>
                     <app type="major" subtype="change">
                         <lem wit="#b1623">The Barre or shutting is to be made foure square of some
@@ -3757,7 +3763,7 @@
                             </note> may remove it) in <ref target="#ch3glon7">*</ref>length, depth,
                             and thicknesse fitting to the wicket: with some little hollownesse next
                             the stoole, that may let in the aire, and not let out the Bees.</lem>
-                        <rdg wit="#b1609"><ptr target="1609.xml#ch3ancs31 1609.xml#ch3ance31" /></rdg>
+                        <rdg wit="#b1609" source="1609.xml#ch3ancs31 1609.xml#ch3ance31">The making of the barre.</rdg>
                     </app></p>
                 <app type="major" subtype="add">
                     <lem wit="#b1623"><note type="authorial" subtype="gloss" place="inline" xml:id="ch3glon7">*The length may be three inches and an halfe, the
