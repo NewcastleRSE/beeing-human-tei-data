@@ -4206,20 +4206,18 @@
                 </listTranspose>
                 <p xml:id="ch3par68"><note type="authorial" subtype="summary" xml:id="ch3sumn49">49.
                         The reared stalls now to be set downe againe.</note> The stalls which you
-                    reared in the end of <term> Cancer</term> for feare of <app type="minor" subtype="change">
-                        <lem wit="#b1623">swarming or want of roome, <ref target="#ch3bibln29">v:</ref> (now that the death of the old Bees <ref target="#ch3bibln29">v:</ref><note type="authorial" subtype="bibliographic" xml:id="ch3bibln29">
+                    reared in the end of <term> Cancer</term> for feare of swarming or<app type="minor" subtype="change">
+                        <lem wit="#b1623"> want of roome, </lem>
+                        <rdg wit="#b1609" source="1609.xml#ch3ancs51 1609.xml#ch3ance51">killing their yong</rdg>
+                    </app><app type="minor" subtype="add"><lem wit="#b1623"><ref target="#ch3bibln29">v:</ref> (now that the death of the old Bees <ref target="#ch3bibln29">v:</ref><note type="authorial" subtype="bibliographic" xml:id="ch3bibln29">
                                 <ref target="#ch3sumn41"> V.n. 41.</ref>
                             </note> and of the Drones <ref target="#ch3bibln30"> v:</ref>
                             <note type="authorial" subtype="bibliographic" xml:id="ch3bibln30">
                                 <ref target="#ch1sumn55">V.c.1.n. 55.</ref>
-                            </note> hath made roome) are to be set downe againe, <ref target="#ch3bibln31">v:</ref>
+                            </note> hath made roome) </lem><rdg wit="#b1609" /></app>are to be set downe againe, <ref target="#ch3bibln31">v:</ref>
                             <note type="authorial" subtype="bibliographic" xml:id="ch3bibln31">
                                 <ref target="#ch4sumn25"> V.c.4.n. 25.</ref>&amp;<ref target="#ch4sumn26">c.V.n.26.</ref>
-                            </note>lest their swarming be hindred the next yeare: </lem>
-                        <rdg wit="#b1609" source="1609.xml#ch3ancs51 1609.xml#ch3ance51">killing their yong are to be set downe againe, v.
-                    
-                        v.n.21</rdg>
-                    </app>unlesse they be swarmes that have wrought downe to the stoole.<app type="minor" subtype="del">
+                            </note><app type="minor" subtype="add"><lem wit="#b1623">lest their swarming be hindred the next yeare:</lem><rdg wit="#b1609" /></app> unlesse they be swarmes<app type="minor" subtype="del"><lem wit="#b1623" /><rdg wit="#b1609" source="1609.xml#ch3ancs51x 1609.xml#ch3ance51x">or yearelings</rdg></app> that have wrought downe to the stoole.<app type="minor" subtype="del">
                         <lem wit="#b1623" />
                         <rdg wit="#b1609" source="1609.xml#ch3ancs52 1609.xml#ch3ance52">for after the second sommer wel: they may build new
                     combs, but they will never enlarge the old.</rdg>
@@ -4269,16 +4267,16 @@
                     </app> Some Bees <app type="minor" subtype="del">
                         <lem wit="#b1623" />
                         <rdg wit="#b1609" source="1609.xml#ch3ancs55 1609.xml#ch3ance55">begin to</rdg>
-                    </app>faile after <term>Virgo:</term> and therefore it is good to make triall of
-                    them in <term>Libra</term> also,<note type="authorial" subtype="summary" xml:id="ch3sumn52">52. LIBRA</note> by poysing and knocking the Hives;<app type="major" subtype="change">
+                    </app>faile after <term>Virgo:</term> <app type="minor" subtype="change"><lem wit="#b1623">and therefore it is good to make triall of
+                    them in <term>Libra</term> also,<note type="authorial" subtype="summary" xml:id="ch3sumn52">52. LIBRA</note> by poysing and knocking the Hives;</lem>
+                    <rdg wit="#b1609" source="1609.xml#ch3ancs56 1609.xml#ch3ancs56" />
+                    </app><app type="major" subtype="add">
                         <lem wit="#b1623"> for as they that then make<ref target="#ch3glon9">*</ref>
                             a little noise will die for lacke of company; so thet that are light
                             will die for lack of meat. <note type="authorial" subtype="summary" xml:id="ch3sumn53">53. Try them again in Libra also.</note> And
                             alwaies have an eye to those that the Robbers doe eagerly haunt: which
                             is a signe that they perceive in them some defect or other: and
-                            therefore will not be answered without their errand.</lem>
-                        <rdg wit="#b1609" source="1609.xml#ch3ancs56 1609.xml#ch3ancs56" />
-                    </app></p>
+                            therefore will not be answered without their errand.</lem><rdg wit="#b1609" /></app></p>
                 <app type="minor" subtype="add">
                     <lem wit="#b1623"><note type="authorial" subtype="gloss" place="inline" xml:id="ch3glon9">*A little short noise above in the Hive, specially
                             when in the end some few single Bees endeavour by their earnest and
@@ -4286,23 +4284,11 @@
                             decaying.</note></lem>
                     <rdg wit="#b1609" />
                 </app>
-                <p xml:id="ch3par72"><app type="minor" subtype="change">
+                <p xml:id="ch3par72"><app type="minor" subtype="add">
                         <lem wit="#b1623">Such as by these meanes you finde unlikely to live, take
                             or drive: those that you suspect, and yet are willing to keep; marke
-                            them, feed them in due time, and prove them againe in
-                                <term>Pisces</term> and <term>Aries.</term></lem>
-                        <rdg wit="#b1609" source="1609.xml#ch3ancs56 1609.xml#ch3ance56">by poising and knocking the hives,
-                    and by looking into them (if need bee) in Libra also, 45 and likewise in Try
-                            them againe in Libra, &amp;c.
-                    Pisces and Aries. But whensoever for
-                    this purpose, or upon any other occasion you lift a hive from his stoole, (which
-                    is spare- ing
-                    
-                    
-                         ingly to he done) take heede how you let it downe againe.
-                    Of the hives
-                    v.n.21.</rdg>
-                    </app>
+                            them, feed them in due time, </lem><rdg wit="#b1609" /></app><app type="minor" subtype="change"><lem wit="#b1623">and prove them againe in
+                                <term>Pisces</term> and <term>Aries.</term></lem><rdg wit="#b1609" source="1609.xml#ch3ancs56x 1609.xml#ch3ance56x">and likewise in Pisces and Aries.</rdg></app>
                 </p>
                 <p xml:id="ch3par73"><note type="authorial" subtype="summary" xml:id="ch3sumn54">54.
                         Now set up the wickets to the best, and keep the rest shut till the Bees
