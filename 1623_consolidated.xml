@@ -4090,11 +4090,11 @@
                         v.25
                     
                 
-                    
-                40  Moreover because the waspes and robbing Bees wilbe stealing betimes,
+                     40  And keepe them shut til they offer to goe abroad.
+                    Moreover because the waspes and robbing Bees wilbe stealing betimes,
                     before the true Bees are stirring; it is good in the evening when the Bees are
-                    all in, to And keepe them shut til they offer to goe abroad.
-                    shut the porch of those that are weake, that a Bee cannot passe:
+                    all in, to 
+                shut the porch of those that are weake, that a Bee cannot passe:
                     &amp; not to open the same the next day till the weather be warme, and the Bees
                     offer to come abroad, though it be not before 9. 0r 10. 0r 11. a clock: and then
                     you may ether open it or halfe-open it, according to the flight of your Bees.
@@ -4115,10 +4115,10 @@
                     <app type="minor" subtype="del">
                         <lem wit="#b1623" />
                         <rdg wit="#b1609" source="1609.xml#ch3ancs48 1609/xml#ch3ance48">And for</rdg>
-                    </app>those<app type="minor" subtype="del">
+                    </app> </p><p xml:id="Ap3">&gt;those<app type="minor" subtype="del">
                         <lem wit="#b1623" />
                         <rdg wit="#b1609" source="1609.xml#ch3ancs49 1609.xml#ch3ance49">swarmes</rdg>
-                    </app> that have not now wrought downe within a handfull of the stoole, <app type="minor" subtype="add">
+                   </app> that have not now wrought downe within a handfull of the stoole, <app type="minor" subtype="add">
                         <lem wit="#b1623">if you meane to keepe them</lem>
                         <rdg wit="#b1609" />
                     </app> (to the end they may lye warme the Winter following, and be ready at the
@@ -4144,10 +4144,11 @@
                     round bord and the combes: or else leave away from the new bottom downe to the
                     old dore, through halfe a greate cane or some other stick cut holow for the
                     nonce, to keepe the stuffing from the side of the hive. </rdg>
-                    </app>Without such help the cold will kill many, and weaken all, whereby they
+                    </app>Without such help <app type="vocabulary" subtype="change"><lem wit="#b1623">the</lem><rdg wit="#b1609" source="1609.xml#ch3ancs50x 1609.xml#ch3ance50x">extreame</rdg></app> cold will kill many, and weaken all, whereby they
                         <fw type="catch"> become</fw>
                     <pb n="G2v" />
-                    <fw type="header"> Of the Hives, </fw> become unlustie in all their doings: as
+                    <fw type="header"> Of the Hives, </fw> <app type="vocabulary" subtype="change"><lem wit="#b1623">become</lem><rdg wit="#b1609"><ptr target="1609.xml#ch3ancs50xx 1609.xml#ch3ance55xx" /></rdg></app> unlustie <app type="minor" subtype="change"><lem wit="#b1623">in all their doings:</lem><rdg wit="#b1609" source="1609.xml#ch3ancs50xxx 1609.xml#ch3ance50xxx">to
+                    worke,</rdg></app> as
                     the Philosopher well noted, <quote>
                         <foreign xml:lang="la">Si alveus justo amplior sit, desidiosiores
                             redduntur.</foreign>
@@ -4157,7 +4158,7 @@
                 </p>
                 <p xml:id="ch3par67">
                       <note type="authorial" subtype="summary" xml:id="ch3sumn48">48. And keepe them shut til they offer to go
-                                abroad.</note> Moreover, because the Waspes and robbing Bees will be
+                                abroad.</note> </p><p xml:id="Ap4">Moreover, because the Waspes and robbing Bees will be
                             stealing betimes, before the true Bees be stirring; it is good in the
                             evening, when the Bees are all in, to <app type="vocabulary" subtype="change"><lem wit="#b1623">barre up the Wickets of those that
                             are weake, that a Bee cannot passe: and not to open the same the next
@@ -4185,11 +4186,11 @@
                         v.25
                     
                 
-                    
-                40  Moreover because the waspes and robbing Bees wilbe stealing betimes,
+                     40  And keepe them shut til they offer to goe abroad.
+                    Moreover because the waspes and robbing Bees wilbe stealing betimes,
                     before the true Bees are stirring; it is good in the evening when the Bees are
-                    all in, to And keepe them shut til they offer to goe abroad.
-                    shut the porch of those that are weake, that a Bee cannot passe:
+                    all in, to 
+                shut the porch of those that are weake, that a Bee cannot passe:
                     &amp; not to open the same the next day till the weather be warme, and the Bees
                     offer to come abroad, though it be not before 9. 0r 10. 0r 11. a clock: and then
                     you may ether open it or halfe-open it, according to the flight of your Bees.
@@ -4197,6 +4198,12 @@
                     
                         v.n.25</rdg></app>
                     </p>
+                <listTranspose wit="#b1623">
+                    <transpose>
+                        <ptr target="#Bp4" />
+                        <ptr target="#Bp3" />
+                    </transpose>
+                </listTranspose>
                 <p xml:id="ch3par68"><note type="authorial" subtype="summary" xml:id="ch3sumn49">49.
                         The reared stalls now to be set downe againe.</note> The stalls which you
                     reared in the end of <term> Cancer</term> for feare of <app type="minor" subtype="change">
