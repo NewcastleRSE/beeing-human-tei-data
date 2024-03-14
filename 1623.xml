@@ -4487,11 +4487,11 @@
                         <lem wit="#b1623"/>
                         <rdg wit="#b1609"><ptr target="1609.xml#ch3ancs48 1609/xml#ch3ance48"
                             /></rdg>
-                    </app>those<app type="minor" subtype="del">
+                    </app> </p><p xml:id="Ap3">>those<app type="minor" subtype="del">
                         <lem wit="#b1623"/>
                         <rdg wit="#b1609"><ptr target="1609.xml#ch3ancs49 1609.xml#ch3ance49"
-                            /></rdg>
-                    </app> that have not now wrought downe within a handfull of the stoole, <app
+                        /></rdg>
+                   </app> that have not now wrought downe within a handfull of the stoole, <app
                         type="minor" subtype="add">
                         <lem wit="#b1623">if you meane to keepe them</lem>
                         <rdg wit="#b1609"/>
@@ -4505,10 +4505,10 @@
                             </note> in the skirt, and put to the Winter-doore. </lem>
                         <rdg wit="#b1609"><ptr target="1609.xml#ch3ancs50 1609.xml#ch3ance50"
                             /></rdg>
-                    </app>Without such help the cold will kill many, and weaken all, whereby they
+                    </app>Without such help <app type="vocabulary" subtype="change"><lem wit="#b1623">the</lem><rdg wit="#b1609"><ptr target="1609.xml#ch3ancs50x 1609.xml#ch3ance50x"/></rdg></app> cold will kill many, and weaken all, whereby they
                         <fw type="catch"> become</fw>
                     <pb n="G2v"/>
-                    <fw type="header"> Of the Hives, </fw> become unlustie in all their doings: as
+                    <fw type="header"> Of the Hives, </fw> <app type="vocabulary" subtype="change"><lem wit="#b1623">become</lem><rdg wit="#b1609"><ptr target="1609.xml#ch3ancs50xx 1609.xml#ch3ance55xx"/></rdg></app> unlustie <app type="minor" subtype="change"><lem wit="#b1623">in all their doings:</lem><rdg wit="#b1609"><ptr target="1609.xml#ch3ancs50xxx 1609.xml#ch3ance50xxx"/></rdg></app> as
                     the Philosopher well noted, <quote>
                         <foreign xml:lang="la">Si alveus justo amplior sit, desidiosiores
                             redduntur.</foreign>
@@ -4519,7 +4519,7 @@
                 <p xml:id="ch3par67">
                       <note type="authorial" subtype="summary"
                                 xml:id="ch3sumn48">48. And keepe them shut til they offer to go
-                                abroad.</note> Moreover, because the Waspes and robbing Bees will be
+                                abroad.</note> </p><p xml:id="Ap4">Moreover, because the Waspes and robbing Bees will be
                             stealing betimes, before the true Bees be stirring; it is good in the
                             evening, when the Bees are all in, to <app type="vocabulary" subtype="change"><lem wit="#b1623">barre up the Wickets of those that
                             are weake, that a Bee cannot passe: and not to open the same the next
@@ -4531,6 +4531,12 @@
                                 <ref target="#ch3sumn33">V.n. 33.</ref>
                             </note></lem><rdg wit="#b1609"><ptr target="1609.xml#ch3ancs46x 1609.xml#ch3ance46x"/></rdg></app>
                     </p>
+                <listTranspose wit="#b1623">
+                    <transpose>
+                        <ptr target="#Bp4"></ptr>
+                        <ptr target="#Bp3"></ptr>
+                    </transpose>
+                </listTranspose>
                 <p xml:id="ch3par68"><note type="authorial" subtype="summary" xml:id="ch3sumn49">49.
                         The reared stalls now to be set downe againe.</note> The stalls which you
                     reared in the end of <term> Cancer</term> for feare of <app type="minor"
