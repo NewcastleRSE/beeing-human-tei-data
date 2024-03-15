@@ -4087,9 +4087,9 @@
                 39 
                     Set up the porch to the weaker.
                     
-                        v.25
+                        
+                v.25
                     
-                
                      40  And keepe them shut til they offer to goe abroad.
                     Moreover because the waspes and robbing Bees wilbe stealing betimes,
                     before the true Bees are stirring; it is good in the evening when the Bees are
@@ -4183,9 +4183,9 @@
                 39 
                     Set up the porch to the weaker.
                     
-                        v.25
+                        
+                v.25
                     
-                
                      40  And keepe them shut til they offer to goe abroad.
                     Moreover because the waspes and robbing Bees wilbe stealing betimes,
                     before the true Bees are stirring; it is good in the evening when the Bees are
@@ -4349,86 +4349,43 @@
                             <app type="minor" subtype="add">
                             <lem wit="#b1623"> WINTER.</lem>
                             <rdg wit="#b1609" />
-                        </app></note>
-                    <app type="minor" subtype="add">
+                            </app></note><note type="authorial" subtype="summary" xml:id="ch3sumn59">59.<term>SAGIT</term>.<term>CAPRIC</term>.<term>AQUAR</term>. three
+                                <term><app type="vocabulary" subtype="change">
+                                    <lem wit="#b1623">still</lem>
+                                    <rdg wit="#b1609" source="1609.xml#ch3ancs62 1609.xml#ch3ance62">dead</rdg>
+                                </app></term> moneths.</note>
+                    <app type="minor" subtype="change">
                         <lem wit="#b1623">After Autumne, the Sunne drawing neere the Winter
                             Tropicke, with a short and low course above our <term> Horison,</term>
                             there follow three <term>still</term> moneths, <term>Saggitarius</term>
-                            , <term>Capricornus</term>, and <term>Aquarius</term>: </lem>
-                        <rdg wit="#b1609" />
-                    </app><note type="authorial" subtype="summary" xml:id="ch3sumn59">59.<term>SAGIT</term>.<term>CAPRIC</term>.<term>AQUAR</term>. three
-                                <term><app type="vocabulary" subtype="change">
-                                <lem wit="#b1623">still</lem>
-                                <rdg wit="#b1609" source="1609.xml#ch3ancs62 1609.xml#ch3ance62">dead</rdg>
-                            </app></term> moneths.</note><app type="major" subtype="change">
+                            , <term>Capricornus</term>, and <term>Aquarius</term></lem>
+                        <rdg wit="#b1609" source="1609.xml#ch3ancs62x 1609.xml#ch3ance62x">Saggitarius, Capricorn, and Aquarius are the three dead months
+                    of the yeere</rdg></app>: 
+                    <app type="minor" subtype="add">
                         <lem wit="#b1623">in which as the plants lie still in the earth waiting the
-                            Sunnes returne to revive them; so the Bees lie <term>still</term> in
-                            their Hives, passing this fruitlesse time in sleepe and slumber. <note type="authorial" subtype="summary" xml:id="ch3sumn60">60. How the
-                                Bees spend their time in them.</note>Yet so, that if there happen a
-                            milde and warme houre, they presently perceiving it awake out of their
-                            swivet, and hye them out of doores with all alacrity: that they may take
-                            the fresh aire, recreate themselves, drinke, exercise their wings, carry
+                            Sunnes returne to revive them;</lem><rdg wit="#b1609" /></app> <app type="minor" subtype="change"><lem wit="#b1623">so the Bees lie <term>still</term> in
+                                their Hives, passing this fruitlesse time in sleepe and slumber. </lem><rdg wit="#b1609" source="1609.xml#ch3ancs62xx 1609.xml#ch3ance62xx">in which for the most part Bees lie stil spending their time in
+                    eating and sleeping.</rdg></app><note type="authorial" subtype="summary" xml:id="ch3sumn60">60. How the
+                                Bees spend their time in them.</note><app type="minor" subtype="change"><lem wit="#b1623">Yet so, that if</lem><rdg wit="#b1609" source="1609.xml#ch3ancs62xxx 1609.xml#ch3ance62xxx">But if any time</rdg></app> there happen a
+                    <app type="vocabulary" subtype="change"><lem wit="#b1623">milde and warme</lem><rdg wit="#b1609" source="1609.xml#ch3ancs63 1609.xml#ch3ance63">faire</rdg></app> houre, they presently perceiving it <app type="minor" subtype="add"><lem wit="#b1623">awake out of their
+                        swivet,</lem><rdg wit="#b1609" /></app> <app type="minor" subtype="change"><lem wit="#b1623">and hye them out of doores with all alacrity:</lem><rdg wit="#b1609" source="1609.xml#ch3ancs63x 1609.xml#ch3ance63x">and it doth them much
+                    good to flie abroade</rdg></app> that they may take
+                    the fresh aire, <app type="minor" subtype="add"><lem wit="#b1623">recreate themselves,</lem><rdg wit="#b1609" /></app> drinke, exercise their wings, carry
                             out their dead and other noysomenesse, and lighten their little bellies,
-                            which are oft times so stuffed, when the wether suffreth them not to goe
+                            which are oft times so stuffed, when the wether suffreth them not to <app type="vocabulary" subtype="change"><lem wit="#b1623">goe</lem><rdg wit="#b1609" source="1609.xml#ch3ancs63xx 1609.xml#ch3ance63xx">flie</rdg></app>
                             abroad, that they can hold no more: so loth are they to defile their
-                            nests. And having thus refreshed themselves, at their returne, they take
+                            nests. <app type="minor" subtype="add"><lem wit="#b1623">nd having thus refreshed themselves, at their returne, they take
                             their repast, and then betake them againe to their rest. But many such
                             daies, specially in time of scarcity, are dangerous, as causing them to
                             spend much of their store, which in <term> still</term> frosts they
-                            would spare.</lem>
-                        <rdg wit="#b1609" source="1609.xml#ch3ancs63 1609.xml#ch3ance63">Saggitarius, Capricorn, and Aquarius are the three dead months
-                    of the yeere: in which for the most part Bees lie stil spending their time in
-                    eating and sleeping. 52  But if any time there How the bees spend their time in them
-                     hap-
-                    
-                    
-                         happen a faire howre, they presently perceive it: and it doth them much
-                    good to flie abroade that they may take the fresh aire, drinke, exercise their
-                    wings, and lighten their little bellies, which are oft times so stuffed, when
-                    the wether suffreth them not to flie abroad, that they can hold no more: so
-                    loath are they to defile their neasts. Neverthelesse, the first fowle and colde
-                    wether in and the dressing of them.
-                    Capricorne shut the porch dore, to save them from the cold as
-                    well within the hive as without. 53  For as the frost and snow and colde windes, yea and the ordinary
-                    disposition of the aire doth chil many of them, whom the flattering sunshine
-                    enticeth abroad, so the great frosts striking through the dore doe freeze the
-                    nethermost in the hive to death: so that little &amp; little many stals in some
-                    winters have been therby wholly destroied, the which by keeping them warme might
-                    have beene preserved. But when you shut them in, be sure the hives bee alwaies
-                    close and sure: The first sharp weather in Capr.
-                            shut the Bees in.
-                    54  for the Bees will strive by all meanes to come forth, though they never
-                    finde the way in againe. Yet whensoever in these three months there happen any
-                    pleasant day (namely when the sunne shineth, the winde is stil, or bloweth
-                    mildly out of the south or west, &amp; the earth is without frost and snow) is
-                    it is very behoveful to give them leave to play, And in pleasant weather let them loose, if it may
-                            bee once a fortnight or 3 weekes.
-                    v.
-                    
-                         and to refresh themselves: the oftner
-                    the better: once in a fortnight or three weekes is to be wished but v c.1.n.57. if
-                    
-                    
-                         if you or the wether shut them in much longer, they wil bee so faint and
-                    feeble through their long restraint, that without very pleasant weather at their
-                    comming abroad, a number of them wil bee chilled while they rest themselves but
-                    a little in the open aire. And therefore as often as any pleasant day causeth
-                    you to set the hives open, let them alwaies so stand until the frost or snow
-                    keepe the Bees in againe. And after Saint Pauls day or mid-Of the hives
-                    aquarius
-                    shut them not, unles the snow lie, or the frost hold two or three daies
-                    togither. And if the faire wether, that let them out, continue, so that they use
-                    daily to play abroad; you may nowe also clense the stooles, which otherwise is
-                    not to bee done before Pisces</rdg>
-                    </app></p>
-                <p xml:id="ch3par77"><app type="major" subtype="change">
-                        <lem wit="#b1623"><note type="authorial" subtype="summary" xml:id="ch3sumn61">61. The first sharpe weather in Capr. shut the
-                                Bees in.</note> The first foule and cold weather in <term>
-                                Capricorne</term> shut the Wickets close, to save the Bees from the
-                            Tit-mouse, <ref target="#ch3bibln34"> v.</ref>
+                                would spare.</lem><rdg wit="#b1609" /></app>A</p>
+                <p xml:id="ch3par77"><note type="authorial" subtype="summary" xml:id="ch3sumn61">61. The first sharpe weather in Capr. shut the
+                                Bees in.</note><app type="vocabulary" subtype="del"><lem wit="#b1623" /><rdg wit="#b1609" source="1609.xml#ch3ancs63xxx 1609.xml#ch3ance63xxx">Neverthelesse,</rdg></app> The first foule and cold weather in <term>
+                                    Capricorne</term> shut the <app type="vocabulary" subtype="change"><lem wit="#b1623">Wickets close</lem><rdg wit="#b1609" source="1609.xml#ch3ancs63v 1609.xml#ch3ance63v">porch dore</rdg></app>, to save <app type="vocabulary" subtype="change"><lem wit="#b1623">the Bees</lem><rdg wit="#b1609" source="1609.xml#ch3ancs63vi 1609.xml#ch3ance63vi">them</rdg></app> from the
+                            <app type="minor" subtype="add"><lem wit="#b1623">Tit-mouse, <ref target="#ch3bibln34"> v.</ref>
                             <note type="authorial" subtype="bibliographic" xml:id="ch3bibln34">
                                 <ref target="#ch7sumn6">V.c.7.n.6.</ref>
-                            </note> and from the cold, as well within the Hive as without. For as
+                            </note> and from the</lem><rdg wit="#b1609" /></app> cold, as well within the Hive as without. For as
                             the frost and snow and cold winds, yea and the ordinary disposition of
                             the aire doth chill many of them, whom the flattering sun-shine enticeth
                             abroad; so the great frosts, striking through the doore doe freeze the
@@ -4436,9 +4393,9 @@
                             stalls in some winters have been thereby wholly destroyed: the which, by
                             keeping them warme, might have beene preserved. But when you shut them
                             in, be sure the Hives be alwaies close and sure: <note type="authorial" subtype="summary" xml:id="ch3sumn62">62. And in pleasant weather let
-                                them loose, if it may be, once a fortnight.</note> for the Bees when
-                            they awake will strive by all meanes to come forth, though they never
-                            finde the way in againe. Yet when there happenenth any pleasant day
+                                them loose, if it may be, once a fortnight.</note> for the Bees <app type="minor" subtype="add"><lem wit="#b1623">when
+                                    they awake </lem><rdg wit="#b1609" /></app>will strive by all meanes to come forth, though they never
+                            finde the way in againe. Yet <app type="ortographic" subtype="change"><lem wit="#b1623">when</lem><rdg wit="#b1609"><ptr target="1609.xml#ch3ancs63viii 1609.xml#ch3ande63viii" /></rdg></app><app type="minor" subtype="del"><lem wit="#b1623" /><rdg wit="#b1609" source="1609.xml#ch3ancs63vii 1609.xml#ch3ance63vii">in these three months</rdg></app>there <app type="ortographic" subtype="change"><lem wit="#b1623">happenenth</lem><rdg wit="#b1609" source="1609.xml#ch3ancs64x 1609.xml#ch3ance64x">happen</rdg></app> any pleasant day
                             (namely when the sunne shineth, the winde is still, or bloweth mildly
                             out of the South or West, and the earth is without frost &amp; snow) is
                             it is very behovefull to give them leave to play, <ref target="#ch3bibln35">v.</ref>
@@ -4446,63 +4403,23 @@
                                 <ref target="#ch3sumn59"> V.n. 59.</ref>&amp;<ref target="#ch1sumn59">c.1.n.59.</ref>
                             </note> and to refresh <fw type="sig">them-</fw>
                             <pb n="G4r" />
-                            <fw type="header"> and the Dressing of them. </fw> themselves: once in a
-                            fortnight or three weekes is to be wished, specially after <term>
-                                Capricorne</term> is past: but if you or the weather shut them in
+                            <fw type="header"> and the Dressing of them. </fw> themselves:<app type="minor" subtype="del"><lem wit="#b1623" /><rdg wit="#b1609" source="1609.xml#ch3ancs64xx 1609.xml#ch3ancs64xx" /></app> once in a
+                            fortnight or three weekes is to be wished<app type="minor" subtype="add"><lem wit="#b1623">, specially after <term>
+                                Capricorne</term> is past</lem><rdg wit="#b1609" /></app>: but if you or the weather shut them in
                             much longer, they will be so faint and feeble through their long
                             restraint, that without very pleasant weather at their comming abroad, a
                             number of them will be chilled while they rest themselves but a little
-                            in the open aire. And therefore as often as, for this purpose, the doore
-                            is a little opened; alter it not, untill the weather alter: and when
+                            in the open aire. And therefore as often as<app type="minor" subtype="change"><lem wit="#b1623">, for this purpose, the doore
+                                is a little opened; alter it not, untill the weather alter:</lem><rdg wit="#b1609" source="1609.xml#ch3ancs64xxx 1609.xml#ch3ance64xxx"> any pleasant day causeth
+                    you to set the hives open, let them alwaies so stand until the frost or snow
+                    keepe the Bees in againe.</rdg></app> <app type="minor" subtype="change"><lem wit="#b1623">and when
                                 <term>Aquarius</term> is halfe spent, if, for feare of a piercing
                             night-frost, you barre them up in the evening; let them goe againe in
-                            the morning, unlesse either snow or boysterous windes forbid you. In
-                            winter provide your Hives.<ref target="#ch3sumn7">v.n.7.</ref></lem>
-                        <rdg wit="#b1609" source="1609.xml#ch3ancs63 1609.xml#ch3ance63">Saggitarius, Capricorn, and Aquarius are the three dead months
-                    of the yeere: in which for the most part Bees lie stil spending their time in
-                    eating and sleeping. 52  But if any time there How the bees spend their time in them
-                     hap-
-                    
-                    
-                         happen a faire howre, they presently perceive it: and it doth them much
-                    good to flie abroade that they may take the fresh aire, drinke, exercise their
-                    wings, and lighten their little bellies, which are oft times so stuffed, when
-                    the wether suffreth them not to flie abroad, that they can hold no more: so
-                    loath are they to defile their neasts. Neverthelesse, the first fowle and colde
-                    wether in and the dressing of them.
-                    Capricorne shut the porch dore, to save them from the cold as
-                    well within the hive as without. 53  For as the frost and snow and colde windes, yea and the ordinary
-                    disposition of the aire doth chil many of them, whom the flattering sunshine
-                    enticeth abroad, so the great frosts striking through the dore doe freeze the
-                    nethermost in the hive to death: so that little &amp; little many stals in some
-                    winters have been therby wholly destroied, the which by keeping them warme might
-                    have beene preserved. But when you shut them in, be sure the hives bee alwaies
-                    close and sure: The first sharp weather in Capr.
-                            shut the Bees in.
-                    54  for the Bees will strive by all meanes to come forth, though they never
-                    finde the way in againe. Yet whensoever in these three months there happen any
-                    pleasant day (namely when the sunne shineth, the winde is stil, or bloweth
-                    mildly out of the south or west, &amp; the earth is without frost and snow) is
-                    it is very behoveful to give them leave to play, And in pleasant weather let them loose, if it may
-                            bee once a fortnight or 3 weekes.
-                    v.
-                    
-                         and to refresh themselves: the oftner
-                    the better: once in a fortnight or three weekes is to be wished but v c.1.n.57. if
-                    
-                    
-                         if you or the wether shut them in much longer, they wil bee so faint and
-                    feeble through their long restraint, that without very pleasant weather at their
-                    comming abroad, a number of them wil bee chilled while they rest themselves but
-                    a little in the open aire. And therefore as often as any pleasant day causeth
-                    you to set the hives open, let them alwaies so stand until the frost or snow
-                    keepe the Bees in againe. And after Saint Pauls day or mid-Of the hives
-                    aquarius
+                            the morning, unlesse either snow or boysterous windes forbid you.</lem><rdg wit="#b1609" source="1609.xml#ch3ancs64xxxx 1609.xml#ch3ance64xxxx">And after Saint Pauls day or mid-aquarius
                     shut them not, unles the snow lie, or the frost hold two or three daies
                     togither. And if the faire wether, that let them out, continue, so that they use
-                    daily to play abroad; you may nowe also clense the stooles, which otherwise is
-                    not to bee done before Pisces</rdg>
-                    </app></p>
+                    daily to play abroad;</rdg></app> <app type="minor" subtype="add"><lem wit="#b1623">In
+                            winter provide your Hives.<ref target="#ch3sumn7">v.n.7.</ref></lem><rdg wit="#b1609" /></app></p>
                 <p xml:id="ch3par78"><app type="minor" subtype="add">
                         <lem wit="#b1623"><note type="authorial" subtype="summary" xml:id="ch3sumn63">63. The SPRING.</note> The still Moneths of
                             Winter being past, the new yeere entreth with <term>Pisces</term>, the
@@ -4513,15 +4430,14 @@
                 <p xml:id="ch3par79">
                     <note type="authorial" subtype="summary" xml:id="ch3sumn64">64.
                             <term>PISCES</term>.</note>
-                    <app type="minor" subtype="change">
-                        <lem wit="#b1623"><note type="authorial" subtype="summary" xml:id="ch3sumn65">65. The first faire day in Pisces, set the Bees
-                                at libertie.</note> Now therefore, if not sooner, the weather being
+                    <note type="authorial" subtype="summary" xml:id="ch3sumn65">65. The first faire day in Pisces, set the Bees
+                            at libertie.</note> <app type="vocabulary" subtype="change"><lem wit="#b1623">Now therefore</lem><rdg wit="#b1609" source="1609.xml#ch3ancs64xxxxx 1609.xml#ch3ance64xxxxx">In Pisces</rdg></app>, if not sooner, <app type="minor" subtype="change"><lem wit="#b1623">the weather being
                             faire, halfe open the wickets of the better sort, and so let them stand
                             day and night. For the night-cold, being now shorter and weaker, is not
                             dangerous to such: and the day-cold doth them more good then hurt,
                             causing them to lie still and spare their store, untill it be fit time
                             to goe abroad. </lem>
-                        <rdg wit="#b1609" source="1609.xml#ch3ancs64 1609.xml#ch3ance64">In Pisces, if not sooner, when the wether is
+                        <rdg wit="#b1609" source="1609.xml#ch3ancs64 1609.xml#ch3ance64">when the wether is
                     pleasant, set them at liberty to go when they wil: for warme daies or howres
                     growing then more frequent, 56  they will not go abroad at every sunshine, unlesse they finde the aire
                     somwhat pleasant withall. The 1. faire day in Pisces set your
@@ -4565,15 +4481,15 @@
                         <term>Aquarius,</term> when the Bees have beene much abroad, is not so
                     necessarie, and specially for the better stalls.</p>
                 <p xml:id="ch3par83"><note type="authorial" subtype="summary" xml:id="ch3sumn68">68.
-                        And feede or drive light stalls.</note> Those that by their lightnesse you
-                    perceive to lack honey, you may now save <app type="minor" subtype="add">
-                        <lem wit="#b1623">by feeding, <ref target="#ch8sumn11">v.c. 8.
+                        And feede or drive light stalls.</note> Those<app type="vocabulary" subtype="del"><lem wit="#b1623" /><rdg wit="#b1609"><ptr target="1609.xml#ch3ancs65x 1609.xml#ch3anc65x" /></rdg></app> that by their lightnesse you
+                    perceive to lack honey, you may now save by<app type="minor" subtype="add">
+                        <lem wit="#b1623"> feeding, <ref target="#ch8sumn11">v.c. 8.
                             n.11.</ref></lem>
                         <rdg wit="#b1609" />
-                    </app> or driving them into others that have store. <ref target="#ch10p1n15">v.<app type="reference" subtype="add">
-                            <lem wit="#b1623">c.10. p. 1.n.15.</lem>
-                            <rdg wit="#b1609" />
-                        </app></ref></p>
+                    </app> or driving them into others that have store. <ref target="#ch10p1n15">v.
+                           c.10. p. 1.n.15.
+                            
+                        </ref></p>
                 <p xml:id="ch3par84">
                     <note type="authorial" subtype="summary" xml:id="ch3sumn69">69.
                             <term>ARIES</term>.</note>
@@ -4596,10 +4512,10 @@
                     as in <term>Virgo</term> and <term>Libra.</term></p>
                 <p xml:id="ch3par86"><note type="authorial" subtype="summary" xml:id="ch3sumn71">71.
                         In <term>TAURUS</term> remove the bars.</note> At <term>Taurus</term>, and
-                    sooner, if sooner you see<ref target="#ch3glon10">*</ref> cause, <app type="minor" subtype="change">
-                        <lem wit="#b1623">removing the Barres from the better stalls, set the
+                    sooner, if sooner you see<ref target="#ch3glon10">*</ref> cause, <app type="minor" subtype="add"><lem wit="#b1623">removing the Barres</lem><rdg wit="#b1609" /></app> from the better stalls<app type="minor" subtype="change">
+                        <lem wit="#b1623">, set the
                             Wickets open</lem>
-                        <rdg wit="#b1609" source="1609.xml#ch3ancs66 1609.xml#ch3ance66">from the better stals let the porches be taken away</rdg>
+                        <rdg wit="#b1609" source="1609.xml#ch3ancs66 1609.xml#ch3ance66"> let the porches be taken away</rdg>
                     </app>: and for the weaker sort, let them all this moneth be shut in the
                     evenings: and in the mornings, as soone as it is warme, be <app type="minor" subtype="change">
                         <lem wit="#b1623">but halfe-opened</lem>
@@ -4618,7 +4534,7 @@
                     </app> from the better, &amp; the <app type="vocabulary" subtype="change">
                         <lem wit="#b1623">Barres</lem>
                         <rdg wit="#b1609" source="1609.xml#ch3ancs69 1609.xml#ch3ance69">porches</rdg>
-                    </app> from the weaker stalls: and when this moneth is halfe past, make them all
+                    </app> from the weaker <app type="vocabulary" subtype="add"><lem wit="#b1623">stalls</lem><rdg wit="#b1609" /></app>: and when this moneth is halfe past, make them all
                     alike: leaving the doores as they were in <term> Gemini</term> before. <ref target="#ch3sumn38">v.n.38.</ref><app type="minor" subtype="del">
                         <lem wit="#b1623" />
                         <rdg wit="#b1609" source="1609.xml#ch3ancs70 1609.xml#ch3ance70">some three, some fowre inches wide, and one inch
