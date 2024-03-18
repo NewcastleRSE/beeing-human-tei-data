@@ -3303,21 +3303,20 @@
                     </app></p>
                 <p xml:id="ch3par15"><note type="authorial" subtype="summary" xml:id="ch3sumn10">10.
                         The spraying or spleeting of them.</note>
-                    <app type="minor" subtype="add">
+                    <app type="major" subtype="add">
                         <lem wit="#b1623">2. The Hive being pruned, put Spleetes in it, <ref target="#ch3glon2" rend="superscript">a</ref> three or foure, as the
                             largenesse of the Hive shall require:</lem>
                         <rdg wit="#b1609" />
-                    </app> <app type="minor" subtype="change"><lem wit="#b1623">the upper ends whereof set
+                    </app> <app type="minor" subtype="add"><lem wit="#b1623">the upper ends whereof set
                             together at the top of the Hive, and the nether ends fasten below in
                             equall distance, about a handfull <fw type="catch"> above</fw>
                             <pb n="F1v" />
-                        <fw type="header"> Of the Hives, </fw> above the skirt.</lem><rdg wit="#b1609" source="1609.xml#ch3ancs8vii 1609.xml#ch3ance8vii">the upper endes together in the top of the hive, and the nether ends equally
-                    distant one from an other within a handfull of the bottome.</rdg></app> In a wicker-Hive
+                        <fw type="header"> Of the Hives, </fw> above the skirt. In a wicker-Hive
                             let the upper ends rest against the middle of the staffe, &amp; the
                             nether ends against the parts of it betweene the Wickers; and in a
                             strawne Hive, set the upper ends together in a Cop, and the nether ends
                             against the briars or threads, between the third &amp; fourth
-                            roule.</p>
+                            roule.</lem><rdg wit="#b1609" /></app></p>
                 <p xml:id="ch3par16"><app type="major" subtype="add">
                         <lem wit="#b1623"><note type="authorial" subtype="summary" xml:id="ch3sumn11">11. The making of the Cop, and of the
                                 Spleets.</note>The Coppe is a round peece of wood an inch or two
