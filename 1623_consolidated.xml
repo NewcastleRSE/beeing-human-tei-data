@@ -4120,13 +4120,13 @@
                         <lem wit="#b1623">if you meane to keepe them</lem>
                         <rdg wit="#b1609" />
                     </app> (to the end they may lye warme the Winter following, and be ready at the
-                    doores to keepe out robbers) <app type="major" subtype="change">
+                    doores to keepe out robbers) <app type="major" subtype="add">
                         <lem wit="#b1623">cut off so much of the skirts as will serve the turne (the
                             bigger the Hive is, the more you may lessen him) and so set him downe,
                             cut a Summer-doore <ref target="#ch3bibln26">v:</ref><note type="authorial" subtype="bibliographic" xml:id="ch3bibln26">
                                 <ref target="#ch3sumn28"> V.n. 28.</ref>
                             </note> in the skirt, and put to the Winter-doore. </lem>
-                        <rdg wit="#b1609" source="1609.xml#ch3ancs50 1609.xml#ch3ance50">at Virgo (for after this
+                        <rdg wit="#b1609" /></app><app type="major" subtype="del"><lem wit="#b1623" /><rdg wit="#1609" source="1609.xml#ch3ancs50 1609.xml#ch3ance50">at Virgo (for after this
                     time they gather no more wax to enlarge their  combs
                     
                     
@@ -4141,8 +4141,8 @@
                     downe to the stoole: and make a little new dore through the hive betweene the
                     round bord and the combes: or else leave away from the new bottom downe to the
                     old dore, through halfe a greate cane or some other stick cut holow for the
-                    nonce, to keepe the stuffing from the side of the hive. </rdg>
-                    </app>Without such help <app type="vocabulary" subtype="change"><lem wit="#b1623">the</lem><rdg wit="#b1609" source="1609.xml#ch3ancs50x 1609.xml#ch3ance50x">extreame</rdg></app> cold will kill many, and weaken all, whereby they
+                    nonce, to keepe the stuffing from the side of the hive. </rdg></app>
+                    Without such help <app type="vocabulary" subtype="change"><lem wit="#b1623">the</lem><rdg wit="#b1609" source="1609.xml#ch3ancs50x 1609.xml#ch3ance50x">extreame</rdg></app> cold will kill many, and weaken all, whereby they
                         <fw type="catch"> become</fw>
                     <pb n="G2v" />
                     <fw type="header"> Of the Hives, </fw> <app type="vocabulary" subtype="change"><lem wit="#b1623">become</lem><rdg wit="#b1609" source="1609.xml#ch3ancs50xx 1609.xml#ch3ance50xx">they are made</rdg></app> unlustie <app type="minor" subtype="change"><lem wit="#b1623">in all their doings:</lem><rdg wit="#b1609" source="1609.xml#ch3ancs50xxx 1609.xml#ch3ance50xxx">to
