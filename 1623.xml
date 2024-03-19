@@ -4502,9 +4502,9 @@
                                 type="authorial" subtype="bibliographic" xml:id="ch3bibln26">
                                 <ref target="#ch3sumn28"> V.n. 28.</ref>
                             </note> in the skirt, and put to the Winter-doore. </lem>
-                        <rdg wit="#b1609"></rdg></app><app type="major" subtype="del"><lem wit="#b1623"></lem><rdg wit="#1609"></rdg><ptr target="1609.xml#ch3ancs50 1609.xml#ch3ance50"
+                        <rdg wit="#b1609"></rdg></app><app type="major" subtype="del"><lem wit="#b1623"></lem><rdg wit="#1609"><ptr target="1609.xml#ch3ancs50 1609.xml#ch3ance50"
                         /></rdg></app>
-                    </app>Without such help <app type="vocabulary" subtype="change"><lem wit="#b1623">the</lem><rdg wit="#b1609"><ptr target="1609.xml#ch3ancs50x 1609.xml#ch3ance50x"/></rdg></app> cold will kill many, and weaken all, whereby they
+                    Without such help <app type="vocabulary" subtype="change"><lem wit="#b1623">the</lem><rdg wit="#b1609"><ptr target="1609.xml#ch3ancs50x 1609.xml#ch3ance50x"/></rdg></app> cold will kill many, and weaken all, whereby they
                         <fw type="catch"> become</fw>
                     <pb n="G2v"/>
                     <fw type="header"> Of the Hives, </fw> <app type="vocabulary" subtype="change"><lem wit="#b1623">become</lem><rdg wit="#b1609"><ptr target="1609.xml#ch3ancs50xx 1609.xml#ch3ance50xx"/></rdg></app> unlustie <app type="minor" subtype="change"><lem wit="#b1623">in all their doings:</lem><rdg wit="#b1609"><ptr target="1609.xml#ch3ancs50xxx 1609.xml#ch3ance50xxx"/></rdg></app> as
