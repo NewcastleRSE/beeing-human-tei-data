@@ -4495,15 +4495,15 @@
                         <lem wit="#b1623">if you meane to keepe them</lem>
                         <rdg wit="#b1609"/>
                     </app> (to the end they may lye warme the Winter following, and be ready at the
-                    doores to keepe out robbers) <app type="major" subtype="change">
+                    doores to keepe out robbers) <app type="major" subtype="add">
                         <lem wit="#b1623">cut off so much of the skirts as will serve the turne (the
                             bigger the Hive is, the more you may lessen him) and so set him downe,
                             cut a Summer-doore <ref target="#ch3bibln26">v:</ref><note
                                 type="authorial" subtype="bibliographic" xml:id="ch3bibln26">
                                 <ref target="#ch3sumn28"> V.n. 28.</ref>
                             </note> in the skirt, and put to the Winter-doore. </lem>
-                        <rdg wit="#b1609"><ptr target="1609.xml#ch3ancs50 1609.xml#ch3ance50"
-                            /></rdg>
+                        <rdg wit="#b1609"></rdg></app><app type="major" subtype="del"><lem wit="#b1623"></lem><rdg wit="#1609"></rdg><ptr target="1609.xml#ch3ancs50 1609.xml#ch3ance50"
+                        /></rdg></app>
                     </app>Without such help <app type="vocabulary" subtype="change"><lem wit="#b1623">the</lem><rdg wit="#b1609"><ptr target="1609.xml#ch3ancs50x 1609.xml#ch3ance50x"/></rdg></app> cold will kill many, and weaken all, whereby they
                         <fw type="catch"> become</fw>
                     <pb n="G2v"/>
