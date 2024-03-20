@@ -4405,16 +4405,16 @@
                     <hi rend="opposite">of the Drone.</hi></head>
                 <p xml:id="ch4par1"><note type="authorial" subtype="summary" xml:id="ch4sumn1">1.
                         The Drone no labourer</note><hi rend="drop-capital">T</hi>HE Drone, which is
-                    a grosse Hive-Bee without sting, hath been alwaies reputed a greedy lozell: (and
+                    a grosse Hive-Bee without sting, hath been alwaies reputed<app type="vocabulary" subtype="add"><lem wit="#b1623"></lem><rdg wit="#b1609"><ptr target="1609.xml#ch4ancs1 1609.xml#ch4ance1"/></rdg></app> a <app type="vocabulary" subtype="change"><lem wit="#b1623">greedy lozell</lem><rdg wit="#b1609"><ptr target="1609.xml#ch4ancs2 1609.xml#ch4ance2"/></rdg></app><app type="minor" subtype="change"><lem wit="#b1623">: (and
                     therefore hee that is quicke at meat and slow at worke is fitted with this
-                    title) for howsoever he brave it with his round velvet cap, his side gowne, his
-                    full panch, and his lowd voice; yet is he but an idle companion, living by the
+                    title)</lem><rdg wit="#b1609"><ptr target="1609.xml#ch4ancs3 1609.xml#ch4ance3"/></rdg></app> for howsoever he brave it with his round velvet cap, his side gowne, his
+                    full panch, and his lowd voice; yet is he but an idle <app type="vocabulary" subtype="change"><lem wit="#b1623">companion,</lem><rdg wit="#b1609"><ptr target="1609.xml#ch4ancs4 1609.xml#ch4ance4"/></rdg></app> living by the
                     sweat of others brows. For hee worketh not at all, either at home or abroad, and
                     yet spendeth as much as two labourers: you shall never find his maw without a
                     good drop of the purest <term> nectar</term>. In the heat of the day he flieth
                     abroad, aloft, and about, and that with no small noise, as though he would doe
                     some great act: but it is onely for his pleasure, and to get him a stomach, and
-                    then returnes he presently to his cheere. <quote>
+                    then <app type="ortographic" subtype="change"><lem wit="#b1623">returnes</lem><rdg wit="#b1609"><ptr target="1609.xml#ch4ancs5 1609.xml#ch4ance5"/></rdg></app> he presently to his cheere. <quote>
                         <foreign xml:lang="la">Fuci cum exeunt efferunt sese fusium in sublimi
                             gyroque volitant: quod ubi satis jam fecerint, redeunt domum, &amp;
                             epulis perfruuntur.</foreign>
@@ -4423,7 +4423,7 @@
                         </note>
                     </quote> But for all this there is such necessary use of him, that he may not be
                     spared, as without whom the Bee cannot bee.</p>
-                <p xml:id="ch4par2"><note type="authorial" subtype="summary" xml:id="ch4sumn2">2.
+                <p xml:id="ch4par2"><app type="major" subtype="add"><lem wit="#b1623"><note type="authorial" subtype="summary" xml:id="ch4sumn2">2.
                         Divers opinions of the Drones originall.</note> The generall opinion anent
                     the Drone is, that he is made of a hony-Bee, that hath hir sting: which is even
                     as likelie, as that a dwarfe having his guts pulled out, should become a gyant.
@@ -4436,7 +4436,7 @@
                     <fw type="header"> Of the breeding of Bees, </fw> former. These opinions then,
                     being one as likely as the other, let them goe together. The truth is, they are
                     of the same <term>species</term> with the hony-Bee, but of a different
-                        <term>Sex.</term></p>
+                    <term>Sex.</term></lem><rdg wit="#b1609"></rdg></app></p>
                 <p xml:id="ch4par3"><note type="authorial" subtype="summary" xml:id="ch4sumn3">3.
                         The Drone is the Male-Bee.</note> For albeit he be not seene to ingender
                     with the hony-bee, <ref target="#ch4bibln2">v.</ref>
