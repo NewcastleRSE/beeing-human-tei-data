@@ -3688,7 +3688,7 @@
                     <rdg wit="#b1609" />
                 </app>
                 <p xml:id="ch3par41"><note type="authorial" subtype="summary" xml:id="ch3sumn30"><app type="reference" subtype="change"><lem wit="#b1623">30. The Winter-doore, or Wicket.</lem><rdg wit="#b1609" source="1609.xml#ch3ancs31 1609.xml#ch3ance31">The making of the barre.</rdg></app></note> <app type="vocabulary" subtype="change"><lem wit="#b1623">The
-                        Winter-doore or Wicket</lem><rdg wit="#b1609" source="1609.xml#ch3ancs31xx 1609.xml#ch3ance31xx">The barre</rdg></app> is<app type="vocabulary" subtype="del"><lem wit="#b1623" /><rdg wit="#b1609" source="1609.xml#ch3ancs31xxx 1609.xml#ch3ance31xxx">to</rdg></app> made of a peece of<app type="vocabulary" subtype="del"><lem wit="#b1623" /><rdg wit="#b1609" source="1609.xml#ch3ancs31xxxx 1609.xml#ch3ance31xxxx">a piece of lath, trencher, or other thin</rdg></app> wood, an inch <app type="major" subtype="change"><lem wit="#b1623">and a quarter
+                        Winter-doore or Wicket</lem><rdg wit="#b1609" source="1609.xml#ch3ancs31xx 1609.xml#ch3ance31xx">The barre</rdg></app> is<app type="vocabulary" subtype="del"><lem wit="#b1623" /><rdg wit="#b1609" source="1609.xml#ch3ancs31xxx 1609.xml#ch3ance31xxx">to be</rdg></app> made of a peece of<app type="vocabulary" subtype="del"><lem wit="#b1623" /><rdg wit="#b1609" source="1609.xml#ch3ancs31xxxx 1609.xml#ch3ance31xxxx"> lath, trencher, or other thin</rdg></app> wood, an inch <app type="major" subtype="change"><lem wit="#b1623">and a quarter
                             thicke, almost an inch high, and five inches long. At each end whereof
                             cut away halfe an inch all save before, where that halfe inch in length
                             must be at least a quarter thicke, with his full heighth to fit the
@@ -4139,7 +4139,7 @@
                     not offend the Bees, set it upon the stoole: and then having laid thereon a
                     thinne round bord as broad as may easily go into the hive, set the hive over it
                     downe to the stoole: and make a little new dore through the hive betweene the
-                    round bord and the combes: or else leave away from the new bottom downe to the
+                    round bord and the combes: or else leave away from the new bottome downe to the
                     old dore, through halfe a greate cane or some other stick cut holow for the
                     nonce, to keepe the stuffing from the side of the hive. </rdg></app>
                     Without such help <app type="vocabulary" subtype="change"><lem wit="#b1623">the</lem><rdg wit="#b1609" source="1609.xml#ch3ancs50x 1609.xml#ch3ance50x">extreame</rdg></app> cold will kill many, and weaken all, whereby they
@@ -4202,6 +4202,7 @@
                         <ptr target="#Bp3" />
                     </transpose>
                 </listTranspose>
+               
                 <p xml:id="ch3par68"><note type="authorial" subtype="summary" xml:id="ch3sumn49">49.
                         The reared stalls now to be set downe againe.</note> The stalls which you
                     reared in the end of <term> Cancer</term> for feare of swarming or<app type="minor" subtype="change">
