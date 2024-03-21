@@ -4675,9 +4675,9 @@
                     thou wilt say with me, that the Drone is the male-Bee: Whereof if some curious
                     Chirurgion would make an Anotomie, he should easily discerne <foreign
                         xml:lang="la">Duos amplos &amp; candidos testes</foreign>, two lawfull
-                    witnesses of his Masculine Sex.</p>
+                    <app type="vocabulary" subtype="change"><lem wit="#b1623">witnesses</lem><rdg wit="#b1609"><ptr target="1609.xml#ch4ancs21 1609.xml#ch4ance21"/></rdg></app> of his Masculine Sex.</p>
                 <p xml:id="ch4par12"><note type="authorial" subtype="summary" xml:id="ch4sumn11">11.
-                            <persName>Aristotles</persName> Objection answered.</note> This truth
+                            <persName>Aristotles</persName> Objection answered.</note> <app type="minor" subtype="del"><lem wit="#b1623"></lem><rdg wit="#b1609"><ptr target="1609.xml#ch4ancs22 1609.xml#ch4ance22"/></rdg></app>This truth
                     began to appeare many yeares agoe, even in <persName> Aristotles</persName>
                     time. <quote>
                         <note type="authorial" subtype="bibliographic" xml:id="ch4bibln16">
@@ -4695,22 +4695,22 @@
                                 ><bibl>Generat.l.3.c.10.</bibl></note>
                         <foreign xml:lang="la">Arma ad pugnam viresque exercendas nulli fœminæ à
                             natura tribuunutur.</foreign>
-                    </quote> Nature hath armed no female for fight and force against the male: but
-                    the Bees have power and weapon to chastice the Drones: <ref target="#ch4bibln18"
+                    </quote> Nature hath armed <app type="minor" subtype="del"><lem wit="#b1623"></lem><rdg wit="#b1609"><ptr target="1609.xml#ch4ancs23 1609.xml#ch4ance23"/></rdg></app><app type="minor" subtype="add"><lem wit="#b1623">no female for fight and force against the male: but
+                        the Bees have power and weapon </lem><rdg wit="#b1609"></rdg></app>to chastice the Drones: <ref target="#ch4bibln18"
                         >v.</ref>
                     <note type="authorial" subtype="bibliographic" xml:id="ch4bibln18">
                         <ref target="#ch4sumn22">v.n.22.</ref>
                     </note> and therefore the Drones cannot be their males. </p>
                 <p xml:id="ch4par13">The weaknesse of which reason I marvaile he did not see, seeing
-                    in all the kinde of <ref target="#ch4glon3">*</ref>Hawkes the female doth
+                    in all the kinde of <ref target="#ch4glon3"><app type="reference" subtype="add"><lem wit="#b1623">*</lem><rdg wit="#b1609"></rdg></app></ref>Hawkes the female doth
                     command the male, as being both stronger and better armed. Whereunto may bee
                     added the example of the <orgName> Amazons</orgName> reigning in his time: who
                     by force of armes subdued many kingdomes of men, and held them in subjection:
                     like unto <fw type="catch"> which,</fw>
                     <pb n="H4r"/>
                     <fw type="header"> and of the Drone. </fw> which, it is marvaile but there were
-                    then some mankind Viragoes in <placeName>Greece</placeName>, as well as there be
-                    now in other Countries. Which thing, if nothing else, the experience of his
+                    then some <app type="vocabulary" subtype="change"><lem wit="#b1623">mankind</lem><rdg wit="#b1609"><ptr target="1609.xml#ch4ancs24 1609.xml#ch4ance24"/></rdg></app> Viragoes in <placeName>Greece</placeName>, as well as there be
+                    now in other Countries. <app type="major" subtype="add"><lem wit="#b1623">Which thing, if nothing else, the experience of his
                     Masters <ref target="#ch4glon4">†</ref> Master might have taught him.</p>
                 <note type="authorial" subtype="gloss" xml:id="ch4glon3">*The first instance is
                     beyond exception: neither doe I see how the other can be answered, unlesse
@@ -4728,10 +4728,10 @@
                             maledicta ingessisset, postea vero &amp; sordidis aquis perfudisset,
                             Nonne (inquit) dicebam Xantippen tonantem quandoque pluituram?</foreign>
                         <bibl>Laertius lib: 2. in vita Socratis.</bibl></quote>
-                </note>
-                <p xml:id="ch4par14">But you must understand that the Philsopher speaketh thus, not
+                </note></lem><rdg wit="#b1609"></rdg></app>
+                <p xml:id="ch4par14"><app type="minor" subtype="add"><lem wit="#b1623">But you must understand that the Philsopher speaketh thus, not
                         <term>dogmaticè</term> but <term> disputativè</term>, onely by way of
-                    reasoning: for in the end of the same chapter he yeeldeth himselfe to have no
+                    reasoning: for </lem><rdg wit="#b1609"></rdg></app><app type="minor" subtype="del"><lem wit="#b1623"></lem><rdg wit="#b1609"><ptr target="1609.xml#ch4ancs25 1609.xml#ch4ance25"/></rdg></app>in the end of the same chapter he yeeldeth himselfe to have no
                     certaine knowledge thereof. <foreign xml:lang="la">Non tamen satis ad huc
                         explorata quæ eveniant habemus.</foreign></p>
                 <p xml:id="ch4par15"><note type="authorial" subtype="summary" xml:id="ch4sumn12">12.
