@@ -4519,15 +4519,15 @@
                         The third reason is, that they are bred by the Bees.</note> Thirdly, because
                         <foreign xml:lang="la">omne simile generat sibi simile</foreign>, Every
                     living thing doth breed Male, or Female of his kinde, and experience doth teach
-                    us that the Bees doe yeerely breed, as well Drones as honi-bees; <ref
+                    us that the Bees doe <app type="vocabulary" subtype="add"><lem wit="#b1623">yeerely</lem><rdg wit="#b1609"></rdg></app> breed, as well Drones as honi-bees; <ref
                         target="#ch4bibln12">v.</ref>
                     <note type="authorial" subtype="bibliographic" xml:id="ch4bibln12">
                         <ref target="#ch4glon1">V* in annot.</ref>&amp;<ref target="#ch4sumn12">n.
                             12,</ref>&amp;c. </note> seeing the honi-bees are females, it followeth
-                    necessarily that the Drones are the Males of the same kind. And therefore in the
+                    necessarily that the Drones are the Males of the same kind. And therefore <app type="minor" subtype="change"><lem wit="#b1623">in the
                     learned Languages the Drone hath his <ref target="#ch4glon1">*</ref> Masculine
-                    appellation, as the Honi-bee hir feminine. </p>
-                <note type="authorial" subtype="gloss" place="inline" xml:id="ch4glon1">*<foreign
+                        appellation, as the Honi-bee hir feminine.</lem><rdg wit="#b1609"><ptr target="1609.xml#ch4ancs12 1609.xml#ch4ance12"/></rdg></app> </p>
+                <app type="minor" subtype="change"><lem wit="#b1623"><note type="authorial" subtype="gloss" place="inline" xml:id="ch4glon1">*<foreign
                         xml:lang="la">Hic fucus <note type="editorial" subtype="certainty"
                             cert="check" xml:id="check2">
                             <fw type="sig">greek</fw>
@@ -4540,8 +4540,8 @@
                         </note> cum <note type="editorial" subtype="certainty" cert="check"
                             xml:id="check6">
                             <fw type="sig">hebrew</fw>
-                        </note> fœminino.</foreign>
-                    <persName> Melissa</persName> the daughter of <persName>Meissus</persName> King
+                        </note> fœminina.</foreign></lem><rdg wit="#b1609"><ptr target="ch4ance13"/></rdg></app>
+                   <app type="major" subtype="add"><lem wit="#b1623"> <persName> Melissa</persName> the daughter of <persName>Meissus</persName> King
                     of Crete, being one of <persName> Jupiters</persName> nurces, is said to have
                     beene by him transformed into the Honi-Bee: which retaineth still her gender,
                     sex, and name. <quote>
@@ -4556,7 +4556,7 @@
                             convertit.</foreign>
                         <bibl> Columella.lib.10.c.2.</bibl>
                     </quote>
-                </note>
+                    </note></lem><rdg wit="#b1609"></rdg></app>
                 <p xml:id="ch4par7"><note type="authorial" subtype="summary" xml:id="ch4sumn7">7.
                         The fourth reason is, that the wasps and dorres have drones, which are their
                         males.</note> Fourthly, wee see the like in the likest <term> insecta</term>
@@ -4566,8 +4566,8 @@
                         breeding of wasps by drones.</note> The Waspes neast is begun by one great
                     Waspe, which you may therefore call the Mother-waspe: the which in <term>
                         Cancer</term> (or in hot and dry springs somewhat rather) within some hole,
-                    usually made in the ground by a Moale, Mouse, or other meanes, worketh a Comb of
-                    the utter drix of pales, or other timber, in forme of a round tent hanging by
+                    usually made in the ground by a Moale, Mouse, or other meanes, worketh a Comb <app type="minor" subtype="add"><lem wit="#b1623">of
+                        the utter drix of pales, or other timber</lem><rdg wit="#b1609"></rdg></app>, in forme of a round tent hanging by
                     the top to the over-part of the hole. This combe containeth about six Cells, of
                     the bignesse and fashion of the Bees cells, wherein she breedeth so many young
                     ones: which, when they are fledge, doe breed as well as their dam: and so
@@ -4584,8 +4584,8 @@
                         <foreign xml:lang="la">Missio, ut apum, nulla vel crabronum vel vesparum
                             fieri solet: sed qui subinde oriantur novelli ibidem manent, &amp;
                             alveum terrâ egestâ faciunt ampliorem.</foreign>
-                    </quote> When their breeding draweth toward an end, namely in <term>Virgo</term>
-                    and after, (besides the small or ordinary Waspes, which lie in all the upper
+                    </quote> <app type="minor" subtype="change"><lem wit="#b1623">When their breeding draweth toward an end, namely in <term>Virgo</term>
+                        and after,</lem><rdg wit="#b1609"><ptr target="1609.xml#ch4ancs14 1609.xml#ch4ance14"/></rdg></app> (besides the small or ordinary Waspes, which lie in all the upper
                     combes) in the last or lowest combe, made for the nonce with larger cells fit
                     for larger bodies, they breed also two other sorts, Drones or Male-waspes (which
                     are somewhat bigger and longer than the small Waspes, and without stings as the
