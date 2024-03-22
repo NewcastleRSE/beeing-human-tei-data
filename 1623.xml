@@ -4789,11 +4789,11 @@
                         <bibl>Hist.an.l.5.c.22.</bibl>
                     </note>
                     <term>
-                        <foreign xml:lang="la">Foetu posito incubant, exclusis inde vermiculus, dum
+                        <p xml:id="Bp5"> <foreign xml:lang="la">Foetu posito incubant, exclusis inde vermiculus, dum
                             parvus est, jacet in favo obliquus: postea sua ipse facultate se erigit,
                             cibumque capit. Foetus apum &amp; fucorum candidus est: ex quo vermiculi
-                            fiunt, qui in apes fucosque transeunt.</foreign>
-                    </term> And all this within the space of a moneth. Yea in swarming-time, when
+                            fiunt, qui in apes fucosque transeunt.</foreign></p>
+                    </term> <p xml:id="Bp6">And all this within the space of a moneth.</p> Yea in swarming-time, when
                     the Hives have more heat, partly from the aire, and partly from the multitude of
                     Bees; when also the <term>Schadans</term> never want their fill of
                         <term>Nectar</term>, <term> Ambrosia,</term> and faire water continually
