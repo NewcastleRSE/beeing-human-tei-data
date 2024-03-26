@@ -3567,13 +3567,11 @@
                             biggest part of the Hive, to keepe it warme in extremity of cold. In
                             Summer above, that the nether part of the hackle hanging out from the
                             Hive, the Hive may be the cooler: and then because the Belt will be apt
-                            to rise, it would be held <fw type="catch"> downe</fw></lem>
-                        <rdg wit="#b1609" />
-                    </app>
+                            to rise, it would be held <fw type="catch"> downe</fw>
+                    
                     <pb n="F3v" />
                     <fw type="header"> Of the Hives, </fw>
-                    <app type="minor" subtype="add">
-                        <lem wit="#b1623">downe to the place with two forked stickes, the fork
+                  downe to the place with two forked stickes, the fork
                             resting upon the Belt, and the other end under the Cap.</lem>
                         <rdg wit="#b1609" />
                     </app></note>
@@ -4005,7 +4003,9 @@
                     brood, some fledge, some before they can fly, lest they should be thronged for
                     want of roome, knowing that then it is to late for them to goe forth in swarmes.</rdg>
                     </app>
-                    <app type="reference" subtype="del"><lem wit="#b1623" /><rdg wit="#b1609"><ptr target="1609.xml#ch3ancs42xx 1609.xml#ch3ance42xx" /></rdg></app></p>
+                    <app type="reference" subtype="del"><lem wit="#b1623" /><rdg wit="#b1609" source="1609.xml#ch3ancs42xx 1609.xml#ch3ance42xx">34 How to keepe full stalls from killing their
+                        yong.
+                    </rdg></app></p>
                
                 <p xml:id="ch3par61"><app type="minor" subtype="add">
                         <lem wit="#b1623">Also reare the swarmes that being under-hived doe lie
@@ -4030,7 +4030,7 @@
                     fasten the barre v. with good cloome. 
                         v.n. 23.</rdg></app>
                    </p>
-                <p xml:id="ch3par63"><app type="reference" subtype="del"><lem wit="#b1623" /><rdg wit="#b1609"><ptr target="1609.xml#ch3ancs44x 1609.xml#ch3ance44x" /></rdg></app><app type="reference" subtype="add"><lem wit="#b1623"><note type="authorial" subtype="summary" xml:id="ch3sumn43">43. How and when to kill the Drones.</note></lem><rdg wit="#b1609" /></app></p>
+                <p xml:id="ch3par63"><app type="reference" subtype="del"><lem wit="#b1623" /><rdg wit="#b1609" source="1609.xml#ch3ancs44x 1609.xml#ch3ance44x">36 Fasten the barre to the dore.</rdg></app><app type="reference" subtype="add"><lem wit="#b1623"><note type="authorial" subtype="summary" xml:id="ch3sumn43">43. How and when to kill the Drones.</note></lem><rdg wit="#b1609" /></app></p>
                        <p xml:id="Ap2"><app type="minor" subtype="change"><lem wit="#b1623">And
                             if you see any other so pestered with multitudes, that they are loath to
                             meddle with them; you shall doe well to helpe them some warme
@@ -4373,7 +4373,7 @@
                             out their dead and other noysomenesse, and lighten their little bellies,
                             which are oft times so stuffed, when the wether suffreth them not to <app type="vocabulary" subtype="change"><lem wit="#b1623">goe</lem><rdg wit="#b1609" source="1609.xml#ch3ancs63xx 1609.xml#ch3ance63xx">flie</rdg></app>
                             abroad, that they can hold no more: so loth are they to defile their
-                            nests. <app type="minor" subtype="add"><lem wit="#b1623">nd having thus refreshed themselves, at their returne, they take
+                            nests. <app type="minor" subtype="add"><lem wit="#b1623">And having thus refreshed themselves, at their returne, they take
                             their repast, and then betake them againe to their rest. But many such
                             daies, specially in time of scarcity, are dangerous, as causing them to
                             spend much of their store, which in <term> still</term> frosts they
