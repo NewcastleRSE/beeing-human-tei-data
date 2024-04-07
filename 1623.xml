@@ -4783,7 +4783,7 @@
                 <p xml:id="ch4par19"><app type="minor" subtype="change"><lem wit="#b1623">The uniforme shape and white colour of the Worme,</lem><rdg wit="#b1609"><ptr target="1609.xml#ch4ancs31 1609.xml#ch4ance31"/></rdg></app> <app type="minor" subtype="change"><lem wit="#b1623">being thus
                     altered into the proportioned shape and brownish colour of a Bee,</lem><rdg wit="#b1609"><ptr target="1609.xml#ch4ancs41 1609.xml#ch4ance41"/></rdg></app> <app type="minor" subtype="change"><lem wit="#b1623">she beginneth</lem><rdg wit="#b1609"><ptr target="1609.xml#ch4ancs33 1609.xml#ch4ance33"/></rdg></app>
                     to move againe, and to live her second life:<app type="minor" subtype="del"><lem wit="#b1623"></lem><rdg wit="#b1609"><ptr target="1609.xml#ch4ancs34 1609.xml#ch4ance34"/></rdg></app><app type="minor" subtype="change"><lem wit="#b1623"> and then breaking the cover
-                        wherewith she was inclosed in the Cell, she commeth forth a flying Bird.</lem><rdg wit="#b1609"><ptr target="1609.xml#ch4ancs35 1609.xml#ch4ance35"/></rdg></app></p>
+                        wherewith she was inclosed in the Cell, she commeth forth a flying Bird.</lem><rdg wit="#b1609"><ptr target="1609.xml#ch4ancs35 1609.xml#ch4ance35"/></rdg></app><app type="minor" subtype="del"><lem wit="#b1623"></lem><rdg wit="#b1609"><ptr target="1609.xml#ch4ancs35x 1609.xml#ch5ance35x"/></rdg></app></p>
                 <p xml:id="ch4par20">
                     <note type="authorial" subtype="bibliographic" xml:id="ch4bibln19">
                         <bibl>Hist.an.l.5.c.22.</bibl>
@@ -4794,7 +4794,7 @@
                             parvus est, jacet in favo obliquus: postea sua ipse facultate se erigit,
                             cibumque capit. Foetus apum &amp; fucorum candidus est: ex quo vermiculi
                             fiunt, qui in apes fucosque transeunt.</foreign>
-                    </term> And all this within the space of a moneth. <app type="major" subtype="add"><lem wit="#b1623">Yea in swarming-time, when
+                    </term> <app type="major" subtype="add"><lem wit="#b1623">And all this within the space of a moneth. Yea in swarming-time, when
                     the Hives have more heat, partly from the aire, and partly from the multitude of
                     Bees; when also the <term>Schadans</term> never want their fill of
                         <term>Nectar</term>, <term> Ambrosia,</term> and faire water continually
