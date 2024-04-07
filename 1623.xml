@@ -4527,7 +4527,7 @@
                     necessarily that the Drones are the Males of the same kind. And therefore <app type="minor" subtype="change"><lem wit="#b1623">in the
                     learned Languages the Drone hath his <ref target="#ch4glon1">*</ref> Masculine
                         appellation, as the Honi-bee hir feminine.</lem><rdg wit="#b1609"><ptr target="1609.xml#ch4ancs12 1609.xml#ch4ance12"/></rdg></app> </p>
-                <app type="minor" subtype="change"><lem wit="#b1623"><note type="authorial" subtype="gloss" place="inline" xml:id="ch4glon1">*<foreign
+                <app type="minor" subtype="change"><lem wit="#b1623"><note type="authorial" subtype="gloss" place="inline" xml:id="ch4glon1">*</note><foreign
                         xml:lang="la">Hic fucus <note type="editorial" subtype="certainty"
                             cert="check" xml:id="check2">
                             <fw type="sig">greek</fw>
@@ -4540,7 +4540,7 @@
                         </note> cum <note type="editorial" subtype="certainty" cert="check"
                             xml:id="check6">
                             <fw type="sig">hebrew</fw>
-                        </note> fœminina.</foreign></lem><rdg wit="#b1609"><ptr target="ch4ance13"/></rdg></app>
+                        </note> fœminina.</foreign></lem><rdg wit="#b1609"><ptr target="1609.xml#ch4ancs13 1609.xml#ch4ance13"/></rdg></app>
                    <app type="major" subtype="add"><lem wit="#b1623"> <persName> Melissa</persName> the daughter of <persName>Meissus</persName> King
                     of Crete, being one of <persName> Jupiters</persName> nurces, is said to have
                     beene by him transformed into the Honi-Bee: which retaineth still her gender,
@@ -4556,7 +4556,7 @@
                             convertit.</foreign>
                         <bibl> Columella.lib.10.c.2.</bibl>
                     </quote>
-                    </note></lem><rdg wit="#b1609"></rdg></app>
+                    </note></lem><rdg wit="#b1609"/></app>
                 <p xml:id="ch4par7"><note type="authorial" subtype="summary" xml:id="ch4sumn7">7.
                         The fourth reason is, that the wasps and dorres have drones, which are their
                         males.</note> Fourthly, wee see the like in the likest <term> insecta</term>
@@ -4789,17 +4789,12 @@
                         <bibl>Hist.an.l.5.c.22.</bibl>
                     </note>
                     <term>
-                        <ListTranspose wit="b1623">
-                        <transpose>
-                            <ptr target="#Bp6"></ptr>
-                            <ptr target="#Bp5"></ptr>
-                        </transpose>
-                        </ListTranspose>
-                        <p xml:id="Ap5"> <foreign xml:lang="la">Foetu posito incubant, exclusis inde vermiculus, dum
+                      
+                         <foreign xml:lang="la">Foetu posito incubant, exclusis inde vermiculus, dum
                             parvus est, jacet in favo obliquus: postea sua ipse facultate se erigit,
                             cibumque capit. Foetus apum &amp; fucorum candidus est: ex quo vermiculi
-                            fiunt, qui in apes fucosque transeunt.</foreign></p>
-                    </term> <p xml:id="Ap6">And all this within the space of a moneth.</p> <app type="major" subtype="add"><lem wit="#b1623">Yea in swarming-time, when
+                            fiunt, qui in apes fucosque transeunt.</foreign>
+                    </term> And all this within the space of a moneth. <app type="major" subtype="add"><lem wit="#b1623">Yea in swarming-time, when
                     the Hives have more heat, partly from the aire, and partly from the multitude of
                     Bees; when also the <term>Schadans</term> never want their fill of
                         <term>Nectar</term>, <term> Ambrosia,</term> and faire water continually
