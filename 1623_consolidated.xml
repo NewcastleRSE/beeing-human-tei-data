@@ -134,12 +134,12 @@
     <standOff>
         <listTranspose wit="#b1609">
             <transpose>
-                <ptr target="#xml:id=ch3par34" />
-                <ptr target="#xml:id=ch3par33" />
+                <ptr target="#xml:id=ch3par63" />
+                <ptr target="#xml:id=ch3par62" />
             </transpose>
             <transpose>
-                <ptr target="#xml:id=ch3par39" />
-                <ptr target="#xml:id=ch3par38" />
+                <ptr target="#xml:id=ch3par67" />
+                <ptr target="#xml:id=ch3par66b" />
             </transpose>
         </listTranspose>
     </standOff>
@@ -3018,7 +3018,7 @@
                 <app type="major" subtype="add">
                     <lem wit="#b1623"><note type="authorial" subtype="gloss" place="inline" xml:id="ch2glon1">*<hi rend="opposite">Ptolom&#230;us</hi> obliqu&#232; eos notat,
                             qui climactericus annos faciunt ex numerorum sola observatione, ut
-                            enneadicos &amp; hebdomaticos. Unde multis molesta senibus superstitio
+                            enneadicos &amp; hebdomaticos. Unde multis molesta senilus superstitio
                             super anno sexagesimo tertio, quoniam pejus angui tigrideque formidant:
                             sed peccat in his vulgus errore veniali, qui Philosophi esse volunt,
                             quis excusaverit? <bibl>Pic.Miran.Lib.6.c.19.</bibl></note></lem>
@@ -3028,7 +3028,7 @@
                         <lem wit="#b1623"><note type="authorial" subtype="summary" xml:id="ch2sumn19">19. The Bees Register.</note> Answerable unto
                             this climactericall squadron it is meet you have at hand a <term>
                                 Register</term>, containing the severall ages and yearely increases
-                            of all your stalls.Whereby you may be directed every yeare, which are to
+                            of all your stalls. Whereby you may be directed every yeare, which are to
                             be taken and which to be kept for store: <ref target="#ch2bibln14">
                                 v:</ref>
                             <note type="authorial" subtype="bibliographic" xml:id="ch2bibln14">
@@ -4015,17 +4015,17 @@
                     </app>
                 </p>
                 <p xml:id="ch3par62"><note type="authorial" subtype="summary" xml:id="ch3sumn42">42.
-                            <term>LEO</term>.</note></p>
+                            <term>LEO</term>.</note>
               
-                <p xml:id="Ap1"><app type="minor" subtype="change"><lem wit="#b1623">In <term>Leo</term>, or presently after the last swarme,
+                <app type="minor" subtype="change"><lem wit="#b1623">In <term>Leo</term>, or presently after the last swarme,
                             kill the Drones, of those stalls you meane to take, with a Drone-pot
                             cloomed to the doore. <ref target="#ch4sumn35"> V.c.4.n.35.</ref></lem><rdg wit="#b1609" source="1609.xml#ch3ancs44 1609.xml#ch3ance44">At Leo, when swarming is past, to the dores of the weaker
                     stalles (whether they be small swarmes, or stockes that have twise swarmed)
                     fasten the barre v. with good cloome. 
                         v.n. 23.</rdg></app>
                    </p>
-                <p xml:id="ch3par63"><app type="reference" subtype="del"><lem wit="#b1623" /><rdg wit="#b1609" source="1609.xml#ch3ancs44x 1609.xml#ch3ance44x">36 Fasten the barre to the dore.</rdg></app><app type="reference" subtype="add"><lem wit="#b1623"><note type="authorial" subtype="summary" xml:id="ch3sumn43">43. How and when to kill the Drones.</note></lem><rdg wit="#b1609" /></app></p>
-                       <p xml:id="Ap2"><app type="minor" subtype="change"><lem wit="#b1623">And
+                <p xml:id="ch3par63"><app type="reference" subtype="del"><lem wit="#b1623" /><rdg wit="#b1609" source="1609.xml#ch3ancs44x 1609.xml#ch3ance44x">36 Fasten the barre to the dore.</rdg></app><app type="reference" subtype="add"><lem wit="#b1623"><note type="authorial" subtype="summary" xml:id="ch3sumn43">43. How and when to kill the Drones.</note></lem><rdg wit="#b1609" /></app>
+                       <app type="minor" subtype="change"><lem wit="#b1623">And
                             if you see any other so pestered with multitudes, that they are loath to
                             meddle with them; you shall doe well to helpe them some warme
                             afternoone, and then will they take the worke out of your hand, and
@@ -4107,7 +4107,7 @@
                     <app type="minor" subtype="del">
                         <lem wit="#b1623" />
                         <rdg wit="#b1609" source="1609.xml#ch3ancs48 1609/xml#ch3ance48">And for</rdg>
-                    </app> </p><p xml:id="Ap3">those<app type="minor" subtype="del">
+                    </app> </p><p xml:id="ch3par66b">those<app type="minor" subtype="del">
                         <lem wit="#b1623" />
                         <rdg wit="#b1609" source="1609.xml#ch3ancs49 1609.xml#ch3ance49">swarmes</rdg>
                    </app> that have not now wrought downe within a handfull of the stoole, <app type="minor" subtype="add">
@@ -4150,7 +4150,7 @@
                 </p>
                 <p xml:id="ch3par67">
                       <note type="authorial" subtype="summary" xml:id="ch3sumn48">48. And keepe them shut til they offer to go
-                                abroad.</note> </p><p xml:id="Ap4">Moreover, because the Waspes and robbing Bees will be
+                                abroad.</note> Moreover, because the Waspes and robbing Bees will be
                             stealing betimes, before the true Bees be stirring; it is good in the
                             evening, when the Bees are all in, to <app type="vocabulary" subtype="change"><lem wit="#b1623">barre up the Wickets of those that
                             are weake, that a Bee cannot passe: and not to open the same the next
