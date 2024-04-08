@@ -134,6 +134,18 @@
             </listChange>
         </revisionDesc>
     </teiHeader>
+    <standOff>
+        <listTranspose wit="#b1623">
+            <transpose>
+                <ptr target="#xml:id=ch3par34"></ptr>
+                <ptr target="#xml:id=ch3par33"></ptr>
+            </transpose>
+            <transpose>
+                <ptr target="#xml:id=ch3par39"></ptr>
+                <ptr target="#xml:id=ch3par38"></ptr>
+            </transpose>
+        </listTranspose>
+    </standOff>
     <text>
         <front>
             <!-- FRONTISPIECE NEEDS TO BE ENCODED -->
@@ -4129,17 +4141,14 @@
                         </figure></lem>
                     <rdg wit="#b1609"><ptr target="1609.xml#ch3ancs31x 1609.xml#ch3ance31x"/></rdg>
                 </app>
-                <p xml:id="ch3par43"><app type="major" subtype="del"><lem wit="#b1623"></lem><rdg wit="#b1609"><ptr target="1609.xml#ch3ancs32 1609.xml#ch3ance32"/></rdg></app><app type="major" subtype="del"><lem wit="#b1623"></lem><rdg wit="#b1609"><ptr target="1609.xml#ch3ancs33 1609.xml#ch3ance33"/></rdg></app>
+                <p xml:id="ch3par43">
                     <note type="authorial" subtype="summary"
                                 xml:id="ch3sumn31">31. The use of it.</note> The use of the
-                    <app type="vocabulary" subtype="change">
-                        <lem wit="#b1623">Winter-doore</lem>
-                        <rdg wit="#b1609"><ptr target="1609.xml#ch3ancs33x 1609.xml#ch3ance33x"/></rdg>
-                    </app> is to straighten the passage when there needeth not so much
-                    roome, <app type="minor" subtype="change"><lem wit="#b1623">that the Bees may the better keepe out the Robbers,</lem><rdg wit="#b1609"><ptr target="1609.xml#ch3ancs32 1609.xml#ch3ance32"/></rdg></app><app type="major" subtype="del"><lem wit="#b1623"></lem><rdg wit="#b1609"><ptr target="1609.xml#ch3ancs33 1609.xml#ch3ance33"/></rdg></app> <app type="minor" subtype="change"><lem wit="#b1609">that the Cold
-                            may have the lesse force, and that the Mice may not enter, which in
-                            winter are wont to make much spoile. <ref target="#ch7sumn3">
-                                v.c.7.n.3.</ref></lem><rdg wit="#b1609"><ptr target="1609.xml#ch3ancs34x 1609.xml#ch3ance34x"/></rdg></app></p>
+                    <app type="vocabulary" subtype="change"><lem wit="#b1623">Winter-doore</lem><rdg wit="#b1609"><ptr target="1609.xml#ch3ancs32 1609.xml#ch3ance32"/></rdg></app> is to straighten the passage <app type="vocabulary" subtype="change"><lem wit="#b1623">when</lem><rdg wit="#b1609"><ptr target="1609.xml#ch3ancs32x 1609.xml#ch3ance32x"/></rdg></app> there needeth not so much
+                    roome, <app type="minor" subtype="change"><lem wit="#b1623">that the Bees may the better keepe out the Robbers,</lem><rdg wit="#b1609"><ptr target="1609.xml#ch3ancs32x 1609.xml#ch3ance32xx"/></rdg></app><app type="major" subtype="del"><lem wit="#b1623"></lem><rdg wit="#b1609"><ptr target="1609.xml#ch3ancs33 1609.xml#ch3ance33"/></rdg></app> <app type="minor" subtype="change"><lem wit="#b1623">that the Cold
+                        may have the lesse force,</lem><rdg wit="#b1609"><ptr target="1609.xml#ch3ancs34x 16909.xml#ch3ance34x"/></rdg></app> and<app type="minor" subtype="change"><lem wit="#b1623">that the Mice may not enter,</lem><rdg wit="#b1609"><ptr target="1609.xml#ch3ancs34v 1609.xml#ance43v"/></rdg></app> which in
+                    winter <app type="vocabulary" subtype="add"><lem wit="#b1623">are</lem><rdg wit="#b1609"></rdg></app> wont to make <app type="vocabulary" subtype="change"><lem wit="#b1623">much</lem><rdg wit="#b1609"><ptr target="1609.xml#ch3ancs34vi 1609.xml#ch3ance34vi"/></rdg></app> spoile. <ref target="#ch7sumn3">
+                                v.c.7.n.3.</ref></p>
                 <p xml:id="ch3par44"><note type="authorial" subtype="summary" xml:id="ch3sumn32">32.
                         The Barre.</note>
                     <app type="major" subtype="add"><lem wit="#b1623">The Barre or shutting is to be made foure square of some
@@ -4416,13 +4425,7 @@
                 </p>
                 <p xml:id="ch3par62"><note type="authorial" subtype="summary" xml:id="ch3sumn42">42.
                             <term>LEO</term>.</note></p>
-                <listTranspose wit="#b1623">
-                    <transpose>
-                       
-                        <ptr target="#Bp2"/>
-                        <ptr target="#Bp1"/>
-                    </transpose>
-                </listTranspose>
+              
                 <p xml:id="Ap1"><app type="minor" subtype="change"><lem wit="#b1623">In <term>Leo</term>, or presently after the last swarme,
                             kill the Drones, of those stalls you meane to take, with a Drone-pot
                             cloomed to the doore. <ref target="#ch4sumn35"> V.c.4.n.35.</ref></lem><rdg wit="#b1609"><ptr target="1609.xml#ch3ancs44 1609.xml#ch3ance44"/></rdg></app>
@@ -4528,12 +4531,7 @@
                                 <ref target="#ch3sumn33">V.n. 33.</ref>
                             </note></lem><rdg wit="#b1609"><ptr target="1609.xml#ch3ancs46x 1609.xml#ch3ance46x"/></rdg></app>
                     </p>
-                <listTranspose wit="#b1623">
-                    <transpose>
-                        <ptr target="#Bp4"></ptr>
-                        <ptr target="#Bp3"></ptr>
-                    </transpose>
-                </listTranspose>
+              
                
                 <p xml:id="ch3par68"><note type="authorial" subtype="summary" xml:id="ch3sumn49">49.
                         The reared stalls now to be set downe againe.</note> The stalls which you
