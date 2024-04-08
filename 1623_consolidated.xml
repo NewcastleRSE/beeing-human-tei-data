@@ -132,7 +132,7 @@
         </revisionDesc>
     </teiHeader>
     <standOff>
-        <listTranspose wit="#b1623">
+        <listTranspose wit="#b1609">
             <transpose>
                 <ptr target="#xml:id=ch3par34" />
                 <ptr target="#xml:id=ch3par33" />
@@ -2706,13 +2706,13 @@
                     kept from them. And therefore, if it may be, set your Bees on the South side of
                     your house.<app type="major" subtype="del">
                         <lem wit="#b1623" />
-                        <rdg wit="#b1609" source="1609.xml#ch2ancs3 1609.xml#ch2ance3">which will not onlie defend them from that
+                        <rdg wit="#b1609" source="1609.xml#ch2ancs3 1609.xml#ch2ance3">; which will not onlie defend them from that
                     unholesome winde, but also by reflection double the heate of the sun shining on
                     the wal, &amp; so comfort them much, speciallie in the winter and spring.</rdg>
                     </app></p>
                 <p xml:id="ch2par4">The East-fence also would bee good and high to keepe from the
                     Bees as well the sunne, as the winde. For the sunne rising doth oftimes till
-                    them forth, when the ayre is colder then they can endure; and the East-wind
+                    them forth, when the ayre is colder than they can endure; and the East-wind
                     being cold &amp; sharp is very unkinde for Bees, specially in the Spring. </p>
                 <p xml:id="ch2par5"><note type="authorial" subtype="summary" xml:id="ch2sumn4">4.
                         The South and West fence must be also good but not so high as to hide the
@@ -2804,7 +2804,7 @@
                         <ref target="#ch7sumn3"> v.c.7.n.3.</ref>
                     </note> and hinder both their passage in and out, and their rising againe when
                     they fall short: and water if it stand, <app type="minor" subtype="change">
-                        <lem wit="#b1623">as it will be offensive to your selfe, so is it dangerous
+                        <lem wit="#b1623">as it will bee offensive to your selfe, so is it dangerous
                             to your Bees for chilling and drowning them.</lem>
                         <rdg wit="#b1609" source="1609.xml#ch2ancs5 1609.xml#ch2ance5">not only maketh the place drie and fowle, but also
                     causeth mustines within, and increaseth the colde without: both which are
@@ -2845,10 +2845,10 @@
                 <p xml:id="ch2par13"><note type="authorial" subtype="summary" xml:id="ch2sumn10">10.
                         Two sorts of seats.</note> The place being thus fitted, the seates are to be
                     provided: which, whether they be stooles or benches, must be set a little
-                    shelving, that the raine may neither runne into the hive, nor stay at the dore. </p>
+                    shelving, that the raine may neither runne into the hive, nor stay at the doore. </p>
                 <p xml:id="ch2par14"><note type="authorial" subtype="summary" xml:id="ch2sumn11">11.
                         The benches not so good as single stooles.</note> To set many stals upon a
-                    bench (as many use to do) is not <app type="vocabulary" subtype="change">
+                    bench (as many use to doe) is not <app type="vocabulary" subtype="change">
                         <lem wit="#b1623">good</lem>
                         <rdg wit="#b1609" source="1609.xml#ch2ancs7 1609.xml#ch2ance7">best</rdg>
                     </app>: for that in Summer it may cause the Bees to fight, as having easie
@@ -2885,11 +2885,11 @@
                     an inch or an inch without the Hive: save onely before, where there needeth the
                     space of <app type="minor" subtype="change">
                         <lem wit="#b1623">three or foure inches,</lem>
-                        <rdg wit="#b1609" source="1609.xml#ch2ancs9 1609.xml#ch2ance9">Ffive or 6. inches,</rdg>
+                        <rdg wit="#b1609" source="1609.xml#ch2ancs9 1609.xml#ch2ance9">five or 6. inches,</rdg>
                     </app> that the Bees may have roome enough to light upon: specially then, when
                     the sight of a rainy cloud sendeth them thronging home. <app type="major" subtype="change">
                         <lem wit="#b1623">Which fore-part from one side to the other, is to be cut
-                            shelving that it may the better avoid the raine. And therfore if the
+                            shelving that it may the better avoid the raine. And therefore if the
                             Hive be fifteene inches over, the stoole shoulde not be above sixteene
                             or seventeen inches one way, and nineteene or twentie at the most the
                             other way.</lem>
@@ -2898,7 +2898,7 @@
                     upon v.
                     v.c.3.n.25 the rest is to be cut shelving that it may the better
                     avoid the raine. And therfore if the hive be 15. inches over, the stoole shoulde
-                    not be abive 16. or 17. inches one way, and 21. or 22. at the most the other
+                    not be above 16. or 17. inches one way, and 21. or 22. at the most the other
                         way.</rdg>
                     </app>
                 </p>
