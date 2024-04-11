@@ -137,12 +137,16 @@
     <standOff>
         <listTranspose wit="#b1609">
             <transpose>
-                <ptr target="#xml:id=ch3par63"></ptr>
-                <ptr target="#xml:id=ch3par62"></ptr>
+                <ptr target="#ch3par63"></ptr>
+                <ptr target="#ch3par62"></ptr>
             </transpose>
             <transpose>
-                <ptr target="#xml:id=ch3par67"></ptr>
-                <ptr target="#xml:id=ch3par66b"></ptr>
+                <ptr target="#ch3par67"></ptr>
+                <ptr target="#ch3par66b"></ptr>
+            </transpose>
+            <transpose>
+                <ptr target="#ch2par20"></ptr>
+                <ptr target="#ch2par19"></ptr>
             </transpose>
         </listTranspose>
     </standOff>
@@ -3329,48 +3333,36 @@
                         <rdg wit="#b1609"/>
                     </app></p>
                 <p xml:id="ch2par19"><note type="authorial" subtype="summary" xml:id="ch2sumn16"
-                            ><app type="minor" subtype="change">
-                            <lem wit="#b1623">16. How neere to each other.</lem>
-                            <rdg wit="#b1609"><ptr target="1609.xml#ch2ancsX1 1609.xml#ch2anceX1"
-                                /></rdg>
-                        </app></note>
-                    <app type="minor" subtype="change">
-                        <lem wit="#b1623">They should stand in straight rankes or rewes from East to
-                            West, five foot one from another (measuring from doore to doore) and
-                            from North to South, six foot one before an other.</lem>
-                        <rdg wit="#b1609"><ptr target="1609.xml#ch2ancs11 1609.xml#ch2ance11"
-                            /></rdg>
-                    </app></p>
+                            >16. How neere to each other.</note>
+                    They should <app type="vocabulary" subtype="del"><lem wit="#b1623"></lem><rdg wit="#b1609"><ptr target="1609.xml#ch2ancsX3 1609.xml#ch2anceX3"/></rdg></app>stand in straight rankes or rewes from East to
+                    West<app type="minor" subtype="change"><lem wit="#b1623">, five foot </lem><rdg wit="#b1609"><ptr target="1609.xml#ch2ancsX4 1609.xml#ch2anceX4"/></rdg></app>one from another (measuring from doore to doore) <app type="minor" subtype="add"><lem wit="#b1623">and
+                        from North to South, six foot one before an other.</lem><rdg wit="#b1609"></rdg></app></p>
                 <p xml:id="ch2par20"><note type="authorial" subtype="summary" xml:id="ch2sumn17"
-                            ><app type="minor" subtype="change">
-                            <lem wit="#b1623">17. How neere to the fences.</lem>
+                    >17. How neere to the <app type="vocabulary" subtype="change">
+                        <lem wit="#b1623">fences.</lem>
                             <rdg wit="#b1609"><ptr target="1609.xml#ch2ancsX2 1609.xml#ch2anceX2"
                                 /></rdg>
-                        </app></note><app type="major" subtype="change">
-                        <lem wit="#b1623">Likewise let them stand as farre from three of the fences,
+                        </app></note>
+                       <app type="major" subtype="del"><lem wit="#b1623"></lem><rdg wit="#b1609"><ptr target="1609.xml#ch2ancsX5 1609.xml#ch2anceX5"/></rdg></app><app type="major" subtype="add"><lem wit="#b1623">Likewise let them stand as farre from three of the fences,
                             as they doe one from an other. And for a plot of fiftie foot square,
                             will receive seven rankes of nine stooles a peece, with the space of
                             eight foot before them: which if it were bigger, were so much the
-                            better.</lem>
-                        <rdg wit="#b1609"><ptr target="1609.xml#ch1ancs12 1609.xml#ch1ance12"
-                            /></rdg>
-                    </app>
+                            better.</lem><rdg wit="#b1609"></rdg></app>
+                        
                 </p>
-                <p xml:id="ch2par21"><app type="major" subtype="change">
-                        <lem wit="#b1623">For want of roome or stooles, or wit, many doe set their
-                            stalls neerer together. But the greater distance is much better: not
-                            onely that you may have roome enough to goe round about every one, to
-                            see and mend what is amisse; </lem>
-                        <rdg wit="#b1609"><ptr target="1609.xml#ch2ancs13 1609.xml#ch2ance13"
-                            /></rdg>
-                    </app> but also that the Bees, when they come home in haste, specially when a
-                    swarme goeth backe againe, may be sure to flie into their own Hive. For if they
-                    stand neere together, at such time many will take the next Hive for their owne,
+                <p xml:id="ch2par21">
+                        <app type="minor" subtype="add"><lem wit="#b1623">For want of roome or stooles, or wit, many doe set their
+                            stalls neerer together. But the greater distance is much better:</lem><rdg wit="#b1609"></rdg></app> not
+                            onely that you may have roome enough to goe round about every one, <app type="minor" subtype="add"><lem wit="#b1623">to
+                                see and mend what is amisse;</lem><rdg wit="#b1609"></rdg></app> but also that the Bees, when they come home in haste, specially when a swarme goeth back againe, 
+                        
+                   may be sure to flie into their own Hive. For if they
+                    stand neere together, at such <app type="vocabulary" subtype="del"><lem wit="#b1623"></lem><rdg wit="#b1609"><ptr target="1609.xml#ch2ancsX6 1609.xml#ch3anceX6"/></rdg></app>time many will take the next Hive for their owne,
                     and then they fall together by the eares; <ref target="#ch2bibln13">v.</ref>
                     <note type="authorial" subtype="bibliographic" xml:id="ch2bibln13">
                         <ref target="#ch5sumn79"> V.c.5.n.79.</ref>
                     </note>and the Nymphs, when they go first abroad, wil by that occasion the
-                    sooner mistake: which if they doe, they dye.</p>
+                    sooner mistake: which if they doe, they dye.</p><app type="minor" subtype="del"><lem wit="#b1623"></lem><rdg wit="#b1609"><ptr target="1609.xml#ch2ancs12x 1609.xml#ch2ance12x"/></rdg></app><app type="minor" subtype="del"><lem wit="#b1623"></lem><rdg wit="#b1609"><ptr target="1609.xml#ch2ancs13 1609.xml#ch2ance13"/></rdg></app>
                 <p xml:id="ch2par22"><app type="major" subtype="add">
                         <lem wit="#b1623">The manner of placing the stooles in your Garden, with the
                             distance of the rankes, I have here expressed.</lem>
@@ -3435,7 +3427,7 @@
                                 <ref target="#ch10p1sumn3">V.c.10.p.I.n.3</ref>
                             </note> which is the chiefe point of a thriving Bee-master. This
                             Register may bee a <term>Synopsis</term> or Table drawne upon a sheet,
-                            or half sheet of Paper, divided into sixtie three squares, or as many as
+                            or halfe-sheet of Paper, divided into sixtie three squares, or as many as
                             be needfull for the stalls in your Garden: having first the foure
                             Coasts, <term>E.</term><term>S.</term><term>W.</term> and
                                 <term>N.</term> noted in the out-sides: secondly, the middle rew of
@@ -3469,7 +3461,7 @@
                     <app type="major" subtype="add">
                         <lem wit="#b1623">swarme, set downe a crossed circle, and the day of the
                             moneth: if he swarmed againe, set downe in the same line a halfe circle,
-                            with a down-right stroke, and the day of the moneth: if he did not
+                            with a downe-right stroke, and the day of the moneth: if he did not
                             swarme, but were full to the doore, set downe a circle with a full point
                             in it: if he did also lye out, set downe a circle with a blotted circle
                             in it: if hee did neither lie out nor were full, set downe a void
@@ -3515,7 +3507,7 @@
                             target="#ch5sumn19"> V.c.5. n.19.</ref></note></p>
                 <p xml:id="ch2par29"><app type="major" subtype="change">
                         <lem wit="#b1623">The best heighth is between eighteene and twentie inches.
-                            Yet if you have many, it is convenient that the more Northward rankes
+                            Yet if you have many, it is convenient that the more North-ward rankes
                             should stand higher, and the more South-ward lower, descending by
                             degrees from two foot to one: as if there be two rewes of stooles, let
                             the first stand two foot from ground, the next eighteene inches, &amp;
@@ -3568,7 +3560,7 @@
                         <rdg wit="#b1609"><ptr target="1609.xml#ch3ancs1 1609.xml#ch3ance1"/></rdg>
                     </app>do usually
                             sinke on the one side, (specially if they take wet) and so break the
-                            combes and let out the hony: <app type="minor" subtype="del"><lem wit="#b1623"></lem><rdg wit="#b1609"><ptr target="1609.xml#ch3ancs1x 1609.xml#ch3ance1x"/></rdg></app>for which cause<app type="minor" subtype="add"><lem wit="#b1623">, first see that they be hard
+                            combes and let out the hony: <app type="minor" subtype="del"><lem wit="#b1623"></lem><rdg wit="#b1609"><ptr target="1609.xml#ch3ancs1x 1609.xml#ch3ance1x"/></rdg></app>for which cause,<app type="minor" subtype="add"><lem wit="#b1623"> first see that they be hard
                             wrought, and then spleet them strong with a Cop, <ref
                                 target="#ch3bibln1"> v.</ref>
                             <note type="authorial" subtype="bibliographic" xml:id="ch3bibln1">
@@ -4776,7 +4768,7 @@
                             much longer, they will be so faint and feeble through their long
                             restraint, that without very pleasant weather at their comming abroad, a
                             number of them will be chilled while they rest themselves but a little
-                            in the open aire. And therefore as often as<app type="minor" subtype="change"><lem wit="#b1623">, for this purpose, the doore
+                            in the open aire. And therfore as often as<app type="minor" subtype="change"><lem wit="#b1623">, for this purpose, the doore
                                 is a little opened; alter it not, untill the weather alter:</lem><rdg wit="#b1609"><ptr target="1609.xml#ch3ancs64xxx 1609.xml#ch3ance64xxx"/></rdg></app> <app type="minor" subtype="change"><lem wit="#b1623">and when
                                 <term>Aquarius</term> is halfe spent, if, for feare of a piercing
                             night-frost, you barre them up in the evening; let them goe againe in
@@ -4819,7 +4811,7 @@
                 <p xml:id="ch3par80"><app type="minor" subtype="add">
                         <lem wit="#b1623"><note type="authorial" subtype="summary"
                                 xml:id="ch3sumn66">66. Now dresse their Troughes.</note> And now
-                            (the Bees beginning to breed, <ref target="#ch3bibln37">v.</ref>
+                            (the Bees beginning to breed, <ref target="#ch3bibln37">v.</ref>)
                             <note type="authorial" subtype="bibliographic" xml:id="ch3bibln37">
                                 <ref target="#ch4sumn12">V.c.4.n. 12.</ref>&amp;<ref
                                     target="#ch6sumn53">c.6.n. 53.</ref>
