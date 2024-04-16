@@ -3971,7 +3971,7 @@
                         <rdg wit="#b1609" source="1609.xml#ch4ancs3 1609.xml#ch4ance3">, &amp; that
                         worthily:</rdg>
                     </app> for howsoever he brave it with his round velvet cap, his side gowne, his
-                    full panch, and his lowd voice; yet is he but an idle <app type="vocabulary" subtype="change">
+                    <app type="vocabulary" subtype="change"><lem wit="#b1623">full</lem><rdg wit="#b1609" source="1609.xml#ch4ancs3x 1609.xml#ch4ance3x">great</rdg></app> panch, and his lowd voice; yet is he but an idle <app type="vocabulary" subtype="change">
                         <lem wit="#b1623">companion,</lem>
                         <rdg wit="#b1609" source="1609.xml#ch4ancs4 1609.xml#ch4ance4">person</rdg>
                     </app> living by the sweat of others brows. For hee worketh not at all, either
@@ -4096,7 +4096,7 @@
                     </app> together in the same Hive, and sucking the same hony, away they goe with
                     them to their Drones. But every faire day they will returne to fetch that they
                     leaft behinde them: you may see them flie so thicke to and fro that hive, as if
-                    it were full of Bees: but when night is come, they are all gone. </p>
+                    it were full of Bees: but when night <app type="vocabulary" subtype="change"><lem wit="#b1623">is come</lem><rdg wit="#b1609" source="1609.xml#ch4ancs11x 1609.xml#ch4ance11x">night comes</rdg></app>, they are all gone. </p>
                 <p xml:id="ch4par6"><note type="authorial" subtype="summary" xml:id="ch4sumn6">6.
                         The third reason is, that they are bred by the Bees.</note> Thirdly, because
                         <foreign xml:lang="la">omne simile generat sibi simile</foreign>, Every
