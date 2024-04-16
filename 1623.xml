@@ -2324,8 +2324,7 @@
                     <note type="authorial" subtype="summary" xml:id="ch1sumn36">36. The six
                         properties of a Bee-master.</note>thou must be (6) no Stranger unto them. In
                     a word, thou must be chaste, cleanly, sweet, sober, quiet, and familiar: so will
-                    they love thee, and know thee from all other. <app type="minor"
-                        subtype="del">
+                    they love thee, and know thee from all other. <app type="minor" subtype="del">
                         <lem wit="#b1623"/>
                         <rdg wit="#b1609">
                             <ptr target="1609.xml#ch1ancs9 1609.xml#ch1ance9"/>
@@ -2526,8 +2525,7 @@
                         <lem wit="#b1623">qualities</lem>
                         <rdg wit="#b1609"><ptr target="1609.xml#ch1ancs15 1609.xml#ch1ance15"
                             /></rdg>
-                    </app> of thier minds are farre more excellent. <app type="minor"
-                        subtype="add">
+                    </app> of thier minds are farre more excellent. <app type="minor" subtype="add">
                         <lem wit="#b1623">The curious art and workmanship to be admired rather than
                             imitated of men, See <ref target="#ch6">cap.6</ref>.</lem>
                         <rdg wit="#b1609"/>
@@ -2854,8 +2852,7 @@
                         <foreign xml:lang="la">Amoliuntur omnia è medio, nullæque inter opera
                             spurcitiæ jacent</foreign>
                     </quote>; neither can they endure any unsavourinesse without nigh unto them. <quote>
-                        <foreign xml:lang="la">Odere fœdos odores: <app type="minor"
-                                subtype="add">
+                        <foreign xml:lang="la">Odere fœdos odores: <app type="minor" subtype="add">
                                 <lem wit="#b1623">Nulla harum assidet in loco inquinato, aut eo qui
                                     malè oleat.<note type="authorial" subtype="bibliographic"
                                         xml:id="ch1bibln62">
@@ -3061,8 +3058,7 @@
                     helpe. <app type="minor" subtype="add">
                         <lem wit="#b1623">While the stalls are few,</lem>
                         <rdg wit="#b1609"/>
-                    </app> your Garden of Hearbs and Flowers <app type="minor"
-                        subtype="change">
+                    </app> your Garden of Hearbs and Flowers <app type="minor" subtype="change">
                         <lem wit="#b1623">will serve.</lem>
                         <rdg wit="#b1609"><ptr target="1609.xml#ch2ancs2 #ch2ance2"/></rdg>
                     </app>
@@ -3264,8 +3260,8 @@
                         <lem wit="#b1623">about</lem>
                         <rdg wit="#b1609"><ptr target="1609.xml#ch2ancs8 1609.xml#ch2ance8"/></rdg>
                     </app> the old stalls: from whence remove them to the stooles, when the stalls
-                    are taken: and then set up the benches till an other yeare. <app
-                        type="major" subtype="add">
+                    are taken: and then set up the benches till an other yeare. <app type="major"
+                        subtype="add">
                         <lem wit="#b1623">Yet I preferre single stooles set two foot apart, though
                             they bee laid flat on the ground: but it is better to reare then with
                             foure legges, though little and short. If they be twelve or thirteene
@@ -3537,8 +3533,7 @@
                     <fw type="header"> Of the Hives, and the Dressing of them. </fw> or to be
                     fastned to one foot with two woodden pins: which foot let be made of sound
                     timber five or six inches over; and of that length, that it may be set betweene
-                    fifteene and eighteene inches in the ground.<app type="minor"
-                        subtype="del">
+                    fifteene and eighteene inches in the ground.<app type="minor" subtype="del">
                         <lem wit="#b1623"/>
                         <rdg wit="#b1609"><ptr target="1609.xml#ch2ancs17 1609.xml#ch2ance17"
                             /></rdg>
@@ -3555,14 +3550,18 @@
                     briar: in some wicker Hives made of Privet, Withy, or Hazell, dawbed usually
                     with Cow-cloome tempered with gravelly dust, or sand, or ashes.</p>
                 <p xml:id="ch3par2"><note type="authorial" subtype="summary" xml:id="ch3sumn2">2.
-                        Strawne Hives with their inconveniencies and remedies.</note> The strawne
-                    Hives when they are olde and loded, do usually sinke on the one side, (specially
-                    if they take wet) and so break the combes and let out the hony: for which cause
-                    first see that they be hard wrought, and then spleet them strong with a Cop,
-                        <ref target="#ch3bibln1"> v.</ref>
-                    <note type="authorial" subtype="bibliographic" xml:id="ch3bibln1">
-                        <ref target="#ch3sumn11">V.n.11.</ref>
-                    </note> fitted to the top of the Hive. </p>
+                        Strawne Hives with their inconveniencies and remedies.</note>
+                    <app type="major" subtype="change">
+                        <lem wit="#b1623">The strawne Hives when they are olde and loded, do usually
+                            sinke on the one side, (specially if they take wet) and so break the
+                            combes and let out the hony: for which cause first see that they be hard
+                            wrought, and then spleet them strong with a Cop, <ref
+                                target="#ch3bibln1"> v.</ref>
+                            <note type="authorial" subtype="bibliographic" xml:id="ch3bibln1">
+                                <ref target="#ch3sumn11">V.n.11.</ref>
+                            </note> fitted to the top of the Hive. </lem>
+                        <rdg wit="#b1609"><ptr target="1609.xml#ch3ancs1 1609.xml#ch3ance1"/></rdg>
+                    </app></p>
                 <p xml:id="ch3par3"><note type="authorial" subtype="summary" xml:id="ch3sumn3">3.
                         Wicker-Hives with their inconveninecies and remedies.</note> The Wicker
                     Hives will still be at fault, and lie open, (if they be not often repaired) unto
@@ -4405,16 +4404,31 @@
                     <hi rend="opposite">of the Drone.</hi></head>
                 <p xml:id="ch4par1"><note type="authorial" subtype="summary" xml:id="ch4sumn1">1.
                         The Drone no labourer</note><hi rend="drop-capital">T</hi>HE Drone, which is
-                    a grosse Hive-Bee without sting, hath been alwaies reputed a greedy lozell: (and
-                    therefore hee that is quicke at meat and slow at worke is fitted with this
-                    title) for howsoever he brave it with his round velvet cap, his side gowne, his
-                    full panch, and his lowd voice; yet is he but an idle companion, living by the
-                    sweat of others brows. For hee worketh not at all, either at home or abroad, and
-                    yet spendeth as much as two labourers: you shall never find his maw without a
-                    good drop of the purest <term> nectar</term>. In the heat of the day he flieth
-                    abroad, aloft, and about, and that with no small noise, as though he would doe
-                    some great act: but it is onely for his pleasure, and to get him a stomach, and
-                    then returnes he presently to his cheere. <quote>
+                    a grosse Hive-Bee without sting, hath been alwaies reputed<app type="vocabulary"
+                        subtype="add">
+                        <lem wit="#b1623"/>
+                        <rdg wit="#b1609"><ptr target="1609.xml#ch4ancs1 1609.xml#ch4ance1"/></rdg>
+                    </app> a <app type="vocabulary" subtype="change">
+                        <lem wit="#b1623">greedy lozell</lem>
+                        <rdg wit="#b1609"><ptr target="1609.xml#ch4ancs2 1609.xml#ch4ance2"/></rdg>
+                    </app><app type="minor" subtype="change">
+                        <lem wit="#b1623">: (and therefore hee that is quicke at meat and slow at
+                            worke is fitted with this title)</lem>
+                        <rdg wit="#b1609"><ptr target="1609.xml#ch4ancs3 1609.xml#ch4ance3"/></rdg>
+                    </app> for howsoever he brave it with his round velvet cap, his side gowne, his
+                    <app type="vocabulary" subtype="change"><lem wit="#b1623">full</lem><rdg wit="#b1609"><ptr target="1609.xml#ch4ancs3x 1609.xml#ch4ance3x"/></rdg></app> panch, and his lowd voice; yet is he but an idle <app type="vocabulary"
+                        subtype="change">
+                        <lem wit="#b1623">companion,</lem>
+                        <rdg wit="#b1609"><ptr target="1609.xml#ch4ancs4 1609.xml#ch4ance4"/></rdg>
+                    </app> living by the sweat of others brows. For hee worketh not at all, either
+                    at home or abroad, and yet spendeth as much as two labourers: you shall never
+                    find his maw without a good drop of the purest <term> nectar</term>. In the heat
+                    of the day he flieth abroad, aloft, and about, and that with no small noise, as
+                    though he would doe some great act: but it is onely for his pleasure, and to get
+                    him a stomach, and then <app type="ortographic" subtype="change">
+                        <lem wit="#b1623">returnes</lem>
+                        <rdg wit="#b1609"><ptr target="1609.xml#ch4ancs5 1609.xml#ch4ance5"/></rdg>
+                    </app> he presently to his cheere. <quote>
                         <foreign xml:lang="la">Fuci cum exeunt efferunt sese fusium in sublimi
                             gyroque volitant: quod ubi satis jam fecerint, redeunt domum, &amp;
                             epulis perfruuntur.</foreign>
@@ -4423,20 +4437,25 @@
                         </note>
                     </quote> But for all this there is such necessary use of him, that he may not be
                     spared, as without whom the Bee cannot bee.</p>
-                <p xml:id="ch4par2"><note type="authorial" subtype="summary" xml:id="ch4sumn2">2.
-                        Divers opinions of the Drones originall.</note> The generall opinion anent
-                    the Drone is, that he is made of a hony-Bee, that hath hir sting: which is even
-                    as likelie, as that a dwarfe having his guts pulled out, should become a gyant.
-                    Others seeing the fondnesse of this opinion, have thought and taught that the
-                    Drone is a different <term> species,</term> and that as Bees breed Bees, so
-                    Drones breed Drones: which conceit (if the Author had observed, that at the time
-                    of their breeding and many moneths before, there is not a Drone left alive to
-                    breed them) hee would have liked as well as the <fw type="catch"> former.</fw>
-                    <pb n="H1v"/>
-                    <fw type="header"> Of the breeding of Bees, </fw> former. These opinions then,
-                    being one as likely as the other, let them goe together. The truth is, they are
-                    of the same <term>species</term> with the hony-Bee, but of a different
-                        <term>Sex.</term></p>
+                <p xml:id="ch4par2"><app type="major" subtype="add">
+                        <lem wit="#b1623"><note type="authorial" subtype="summary" xml:id="ch4sumn2"
+                                >2. Divers opinions of the Drones originall.</note> The generall
+                            opinion anent the Drone is, that he is made of a hony-Bee, that hath hir
+                            sting: which is even as likelie, as that a dwarfe having his guts pulled
+                            out, should become a gyant. Others seeing the fondnesse of this opinion,
+                            have thought and taught that the Drone is a different <term>
+                                species,</term> and that as Bees breed Bees, so Drones breed Drones:
+                            which conceit (if the Author had observed, that at the time of their
+                            breeding and many moneths before, there is not a Drone left alive to
+                            breed them) hee would have liked as well as the <fw type="catch">
+                                former.</fw>
+                            <pb n="H1v"/>
+                            <fw type="header"> Of the breeding of Bees, </fw> former. These opinions
+                            then, being one as likely as the other, let them goe together. The truth
+                            is, they are of the same <term>species</term> with the hony-Bee, but of
+                            a different <term>Sex.</term></lem>
+                        <rdg wit="#b1609"/>
+                    </app></p>
                 <p xml:id="ch4par3"><note type="authorial" subtype="summary" xml:id="ch4sumn3">3.
                         The Drone is the Male-Bee.</note> For albeit he be not seene to ingender
                     with the hony-bee, <ref target="#ch4bibln2">v.</ref>
@@ -4461,9 +4480,12 @@
                     Bees store, yet until they begin to leave breeding, and have conceived for the
                     next yeere, (which some do about <term>Leo</term>, most before <term>
                         Virgo</term>) they suffer them: afterward they begin to beat them away.
-                    Which if some doe not, before <term> Scorpio</term> they die naturally: and from
-                    thenceforth all the Winter, untill the Bees breed new againe, <ref
-                        target="#ch4bibln5">v.</ref>
+                    Which if some doe <app type="vocabulary" subtype="del">
+                        <lem wit="#b1623"/>
+                        <rdg wit="#b1609"><ptr target="1609.xml#ch4ancs7 1609.xml#ch4ance7"/></rdg>
+                    </app>not, before <term> Scorpio</term> they die naturally: and from thenceforth
+                    all the Winter, untill the Bees breed new againe, <ref target="#ch4bibln5"
+                        >v.</ref>
                     <note type="authorial" subtype="bibliographic" xml:id="ch4bibln5">
                         <ref target="#ch4sumn18">V.n.18.</ref>&amp;<ref target="#ch4sumn19"
                             >19.</ref>
@@ -4488,14 +4510,23 @@
                     </quote> ) so where the Drones are few and late, there is small increase: and
                     therefore if you kill the Drones of a Hive before the Bees have done swarming
                     and breeding (as some fondly have don before Mid-sommer, to save their hony from
-                    these lazie lurchers) neither will the swarmes come forth that were formerly
-                    bred, nor the stocke thenceforth breed any more. After which time bringing in
+                    these <app type="vocabulary" subtype="change">
+                        <lem wit="#b1623">lazie</lem>
+                        <rdg wit="#b1609"><ptr target="1609.xml#ch4ancs8 1609.xml#ch4ance8"/></rdg>
+                    </app> lurchers) neither will the swarmes come forth that were formerly bred,
+                    nor the stocke thenceforth breed any more. After which time bringing in
                         <term>Ambrosia v.</term>
                     <note type="authorial" subtype="bibliographic" xml:id="ch4bibln9">
                         <ref target="#ch6sumn18"> V.c.6.n.18.</ref>
-                    </note> as much as before, and having no young ones to spend part, they lay it
-                    up carelesly in their cells, where it corrupteth and turneth to stinking
-                    stopping <ref target="#ch4bibln10">v.</ref>
+                    </note> as much as before, and having no young ones to spend part<app
+                        type="minor" subtype="del">
+                        <lem wit="#b1623"/>
+                        <rdg wit="#b1609"><ptr target="1609.xml#ch4ancs9 1609.xml#ch4ance9"/></rdg>
+                    </app>, they lay it up carelesly in their cells, where it corrupteth and turneth
+                    to <app type="vocabulary" subtype="add">
+                        <lem wit="#b1623">stinking</lem>
+                        <rdg wit="#b1609"/>
+                    </app> stopping <ref target="#ch4bibln10">v.</ref>
                     <note type="authorial" subtype="bibliographic" xml:id="ch4bibln10">
                         <ref target="#ch6sumn19"> V.c.6.n19.</ref>&amp;<ref target="#ch6sumn20"
                             >20.</ref>
@@ -4505,58 +4536,81 @@
                     <note type="authorial" subtype="bibliographic" xml:id="ch4bibln11">
                         <ref target="#ch7sumn25"> V.c.7.n.25.</ref>
                     </note> And if by your industry they be then preserved; in <term>Pisces,</term>
-                    when breeding time is, finding their wombes barren, and therefore loathing even
-                    themselves and all, they yeeld their goods to them that will take it: and <fw
-                        type="catch"> after</fw>
+                    when breeding time is, finding <app type="vocabulary" subtype="change">
+                        <lem wit="#b1623">their wombes</lem>
+                        <rdg wit="#b1609"><ptr target="1609.xml#ch4ancs10 1609.xml#ch4ance10"
+                            /></rdg>
+                    </app> barren, and therefore loathing even themselves and all, they yeeld their
+                    goods to them that will take it: and <fw type="catch"> after</fw>
                     <pb n="H2r"/>
                     <fw type="header"> and of the Drones. </fw> after a while, when the strange Bees
-                    and they smell all alike, by conversing together in the same Hive, and sucking
-                    the same hony, away they goe with them to their Drones. But every faire day they
-                    will returne to fetch that they leaft behinde them: you may see them flie so
-                    thicke to and fro that hive, as if it were full of Bees: but when night is come,
-                    they are all gone. </p>
+                    and they smell all alike, by <app type="vocabulary" subtype="change">
+                        <lem wit="#b1623">conversing</lem>
+                        <rdg wit="#b1609"><ptr target="1609.xml#ch4ancs11 1609.xml#ch4ance11"
+                            /></rdg>
+                    </app> together in the same Hive, and sucking the same hony, away they goe with
+                    them to their Drones. But every faire day they will returne to fetch that they
+                    leaft behinde them: you may see them flie so thicke to and fro that hive, as if
+                    it were full of Bees: but when night <app type="vocabulary" subtype="change"><lem wit="#b1623">is come</lem><rdg wit="#b1609"><ptr target="1609.xml#ch4ancs11x 1609.xml#ch4ance11x"/></rdg></app>, they are all gone. </p>
                 <p xml:id="ch4par6"><note type="authorial" subtype="summary" xml:id="ch4sumn6">6.
                         The third reason is, that they are bred by the Bees.</note> Thirdly, because
                         <foreign xml:lang="la">omne simile generat sibi simile</foreign>, Every
                     living thing doth breed Male, or Female of his kinde, and experience doth teach
-                    us that the Bees doe yeerely breed, as well Drones as honi-bees; <ref
-                        target="#ch4bibln12">v.</ref>
+                    us that the Bees doe <app type="vocabulary" subtype="add">
+                        <lem wit="#b1623">yeerely</lem>
+                        <rdg wit="#b1609"/>
+                    </app> breed, as well Drones as honi-bees; <ref target="#ch4bibln12">v.</ref>
                     <note type="authorial" subtype="bibliographic" xml:id="ch4bibln12">
                         <ref target="#ch4glon1">V* in annot.</ref>&amp;<ref target="#ch4sumn12">n.
                             12,</ref>&amp;c. </note> seeing the honi-bees are females, it followeth
-                    necessarily that the Drones are the Males of the same kind. And therefore in the
-                    learned Languages the Drone hath his <ref target="#ch4glon1">*</ref> Masculine
-                    appellation, as the Honi-bee hir feminine. </p>
-                <note type="authorial" subtype="gloss" place="inline" xml:id="ch4glon1">*<foreign
-                        xml:lang="la">Hic fucus <note type="editorial" subtype="certainty"
-                            cert="check" xml:id="check2">
-                            <fw type="sig">greek</fw>
-                        </note>: Ac hæc apis, <note type="editorial" subtype="certainty"
-                            cert="check" xml:id="check4">
-                            <fw type="sig">greek</fw>
-                        </note>
-                        <note type="editorial" subtype="certainty" cert="check" xml:id="check5">
-                            <fw type="sig">hebrew</fw>
-                        </note> cum <note type="editorial" subtype="certainty" cert="check"
-                            xml:id="check6">
-                            <fw type="sig">hebrew</fw>
-                        </note> fœminino.</foreign>
-                    <persName> Melissa</persName> the daughter of <persName>Meissus</persName> King
-                    of Crete, being one of <persName> Jupiters</persName> nurces, is said to have
-                    beene by him transformed into the Honi-Bee: which retaineth still her gender,
-                    sex, and name. <quote>
-                        <foreign xml:lang="la">Didymus aijt duas Melissi fuisse filias, Almatheum
-                            &amp; Melissam, quæ Jovem puerum caprino lacte &amp; melle
-                            nutrierant.</foreign>
-                        <bibl>Lact.lib.1.instit.c.22.</bibl>
-                    </quote>
-                    <quote>
-                        <foreign xml:lang="la">Nec sane rustico dignum est sciscitari, fueritne
-                            mulier pulcherrima specie Melissa, quam Jupiter in Apem
-                            convertit.</foreign>
-                        <bibl> Columella.lib.10.c.2.</bibl>
-                    </quote>
-                </note>
+                    necessarily that the Drones are the Males of the same kind. And therefore <app
+                        type="minor" subtype="change">
+                        <lem wit="#b1623">in the learned Languages the Drone hath his <ref
+                                target="#ch4glon1">*</ref> Masculine appellation, as the Honi-bee
+                            hir feminine.</lem>
+                        <rdg wit="#b1609"><ptr target="1609.xml#ch4ancs12 1609.xml#ch4ance12"
+                            /></rdg>
+                    </app>
+                </p>
+                <note type="authorial" subtype="gloss" place="inline" xml:id="ch4glon1"><app
+                        type="minor" subtype="change">
+                        <lem wit="#b1623">*<foreign xml:lang="la">Hic fucus <note type="editorial"
+                                    subtype="certainty" cert="check" xml:id="check2">
+                                    <fw type="sig">greek</fw>
+                                </note>: Ac hæc apis, <note type="editorial" subtype="certainty"
+                                    cert="check" xml:id="check4">
+                                    <fw type="sig">greek</fw>
+                                </note>
+                                <note type="editorial" subtype="certainty" cert="check"
+                                    xml:id="check5">
+                                    <fw type="sig">hebrew</fw>
+                                </note> cum <note type="editorial" subtype="certainty" cert="check"
+                                    xml:id="check6">
+                                    <fw type="sig">hebrew</fw>
+                                </note> fœminina.</foreign></lem>
+                        <rdg wit="#b1609"><ptr target="1609.xml#ch4ancs13 1609.xml#ch4ance13"
+                            /></rdg>
+                    </app>
+                    <app type="major" subtype="add">
+                        <lem wit="#b1623">
+                            <persName> Melissa</persName> the daughter of
+                                <persName>Meissus</persName> King of Crete, being one of <persName>
+                                Jupiters</persName> nurces, is said to have beene by him transformed
+                            into the Honi-Bee: which retaineth still her gender, sex, and name. <quote>
+                                <foreign xml:lang="la">Didymus aijt duas Melissi fuisse filias,
+                                    Almatheum &amp; Melissam, quæ Jovem puerum caprino lacte &amp;
+                                    melle nutrierant.</foreign>
+                                <bibl>Lact.lib.1.instit.c.22.</bibl>
+                            </quote>
+                            <quote>
+                                <foreign xml:lang="la">Nec sane rustico dignum est sciscitari,
+                                    fueritne mulier pulcherrima specie Melissa, quam Jupiter in Apem
+                                    convertit.</foreign>
+                                <bibl> Columella.lib.10.c.2.</bibl>
+                            </quote>
+                        </lem>
+                        <rdg wit="#b1609"/>
+                    </app></note>
                 <p xml:id="ch4par7"><note type="authorial" subtype="summary" xml:id="ch4sumn7">7.
                         The fourth reason is, that the wasps and dorres have drones, which are their
                         males.</note> Fourthly, wee see the like in the likest <term> insecta</term>
@@ -4566,14 +4620,17 @@
                         breeding of wasps by drones.</note> The Waspes neast is begun by one great
                     Waspe, which you may therefore call the Mother-waspe: the which in <term>
                         Cancer</term> (or in hot and dry springs somewhat rather) within some hole,
-                    usually made in the ground by a Moale, Mouse, or other meanes, worketh a Comb of
-                    the utter drix of pales, or other timber, in forme of a round tent hanging by
-                    the top to the over-part of the hole. This combe containeth about six Cells, of
-                    the bignesse and fashion of the Bees cells, wherein she breedeth so many young
-                    ones: which, when they are fledge, doe breed as well as their dam: and so
-                    enlarge the combe to some eight inches over. Then, making more room beneath by
-                    moining and carrying out the earth, they hang an other combe under the first, by
-                    little pinns, and so an other, <fw type="catch"> and</fw>
+                    usually made in the ground by a Moale, Mouse, or other meanes, worketh a Comb
+                        <app type="minor" subtype="add">
+                        <lem wit="#b1623">of the utter drix of pales, or other timber</lem>
+                        <rdg wit="#b1609"/>
+                    </app>, in forme of a round tent hanging by the top to the over-part of the
+                    hole. This combe containeth about six Cells, of the bignesse and fashion of the
+                    Bees cells, wherein she breedeth so many young ones: which, when they are
+                    fledge, doe breed as well as their dam: and so enlarge the combe to some eight
+                    inches over. Then, making more room beneath by moining and carrying out the
+                    earth, they hang an other combe under the first, by little pinns, and so an
+                    other, <fw type="catch"> and</fw>
                     <pb n="H2v"/>
                     <fw type="header"> Of the Breeding of Bees, </fw> and an other, increasing still
                     in the same place till Summer be done. For they goe not forth in swarmes as Bees
@@ -4584,34 +4641,70 @@
                         <foreign xml:lang="la">Missio, ut apum, nulla vel crabronum vel vesparum
                             fieri solet: sed qui subinde oriantur novelli ibidem manent, &amp;
                             alveum terrâ egestâ faciunt ampliorem.</foreign>
-                    </quote> When their breeding draweth toward an end, namely in <term>Virgo</term>
-                    and after, (besides the small or ordinary Waspes, which lie in all the upper
-                    combes) in the last or lowest combe, made for the nonce with larger cells fit
-                    for larger bodies, they breed also two other sorts, Drones or Male-waspes (which
-                    are somewhat bigger and longer than the small Waspes, and without stings as the
-                    Drone-bees) and Mother-Waspes, which are like the small ones in all respects
-                    save that they are twice so bigge. These when they are fledge having conceived,
-                    as the Bees, by the Drones; in <term>Libra,</term> and sometime sooner, doe flie
-                    abroad (as their Drones also doe) gathering information for themselves, and
-                    searching and prying into every corner as they goe, for their Winter-lodging:
-                    and after a while, when the aire waxeth cold, leaving both Drones and small
-                    Waspes to the mercy of Winter (which with his first cold-wet wether chilleth and
-                    killeth them as they flie abroad) do forthwith betake themselves to some warme
-                    place, as the thatch of an house, a mortice in a post, an auger-hole, or the
-                    like; but specially into hollow trees, (which is the cause, why in grounds
-                    adjoyning to Woods their neasts will be most rife) where they abide till the
-                    next spring without any meat, as it were in a dead sleepe: out of the which
-                    neverthelesse a little warmth of the fire, or of your hand will awake them at
-                    any time. At the blowing of Palme, if the weather be warme, they flie abroad for
-                    food: and in <term> Cancer</term> or <term>Gemini</term>, as I have said, they
-                    begin to nestle and breed. He that killeth one of them killeth a whole neast of
-                    Waspes. *</p>
-                <note type="authorial" subtype="gloss" place="inline" xml:id="ch4glon2">*When the
-                    old Mother-Waspe hath done breeding, and hir wings are so worne, that she is not
-                    able to helpe her selfe, the little ones keepe her so long as they live
-                    together. Before the young Mother-Waspes are bred, you may easily fine her among
-                    the little ones: but when they are fledge, you cannot know her from one of them,
-                    but by hir ragged wings.</note>
+                    </quote>
+                    <app type="minor" subtype="change">
+                        <lem wit="#b1623">When their breeding draweth toward an end, namely in
+                                <term>Virgo</term> and after,</lem>
+                        <rdg wit="#b1609"><ptr target="1609.xml#ch4ancs14 1609.xml#ch4ance14"
+                            /></rdg>
+                    </app> (besides the small or ordinary Waspes, <app type="minor" subtype="add">
+                        <lem wit="#b1623">which lie in all the upper combes) in the last or lowest
+                            combe, made for the nonce with larger cells fit for larger bodies,</lem>
+                        <rdg wit="#b1609"/>
+                    </app>
+                    <app type="vocabulary" subtype="change">
+                        <lem wit="#b1623">they breed</lem>
+                        <rdg wit="#b1609"><ptr target="1609.xml#ch4ancs15 1609.xml#ch4ance15"
+                            /></rdg>
+                    </app> also two other sorts, Drones or Male-waspes (which are somewhat bigger
+                        <app type="minor" subtype="add">
+                        <lem wit="#b1623">and longer</lem>
+                        <rdg wit="#b1609"/>
+                    </app> than the small Waspes, and without stings as the Drone-bees) and
+                    Mother-Waspes, which are like the small ones in all respects save that they are
+                    twice so bigge. These when they are fledge having conceived, as the Bees, by the
+                        Drones<app type="minor" subtype="add">
+                        <lem wit="#b1623">; in <term>Libra,</term> and sometime sooner, doe flie
+                            abroad (as their Drones also doe) gathering information for themselves,
+                            and searching and prying into every corner as they goe, for their
+                            Winter-lodging: and after a while, when the aire waxeth cold, </lem>
+                        <rdg wit="#b1609"/>
+                    </app>leaving both Drones and small Waspes to the mercy of Winter (which with
+                        <app type="vocabulary" subtype="change">
+                        <lem wit="#b1623">his first</lem>
+                        <rdg wit="#b1609"><ptr target="1609.xml#ch4ancs16 1609.xml#ch4ance16"
+                            /></rdg>
+                    </app> cold-wet wether chilleth and killeth them as they flie abroad) do
+                    forthwith betake themselves to some warme place, as the thatch of an house, a
+                    mortice in a post, an auger-hole, or the like; <app type="minor" subtype="add">
+                        <lem wit="#b1623">but specially into hollow trees, (which is the cause, why
+                            in grounds adjoyning to Woods their neasts will be most rife)</lem>
+                        <rdg wit="#b1609"/>
+                    </app> where they abide till the next spring without any meat, as it were in a
+                    dead sleepe: out of the which neverthelesse a little warmth of the fire, or of
+                    your hand will awake them at any time. At the blowing of Palme, if the weather
+                    be warme, they flie abroad for food: and <app type="vocabulary" subtype="change">
+                        <lem wit="#b1623">in</lem>
+                        <rdg wit="#b1609"><ptr target="1609.xml#ch4ancs17 1609.xml#ch4ance17"
+                            /></rdg>
+                    </app>
+                    <term> Cancer</term>
+                    <app type="minor" subtype="add">
+                        <lem wit="#b1623">or <term>Gemini</term></lem>
+                        <rdg wit="#b1609"/>
+                    </app>, as I have said, they begin to nestle and breed. He that killeth one of
+                    them killeth a whole neast of Waspes. *</p>
+                <app type="major" subtype="add">
+                    <lem wit="#b1623">
+                        <note type="authorial" subtype="gloss" place="inline" xml:id="ch4glon2"
+                            >*When the old Mother-Waspe hath done breeding, and hir wings are so
+                            worne, that she is not able to helpe her selfe, the little ones keepe
+                            her so long as they live together. Before the young Mother-Waspes are
+                            bred, you may easily fine her among the little ones: but when they are
+                            fledge, you cannot know her from one of them, but by hir ragged
+                            wings.</note></lem>
+                    <rdg wit="#b1609"/>
+                </app>
                 <fw type="catch"> And</fw>
                 <pb n="H3r"/>
                 <fw type="header"> and of the Drone. </fw>
@@ -4644,23 +4737,38 @@
                     manner, and the void open Cells they fill with Honie, wherewith they feed both
                     themselves and their young, when the weather suffreth them not to flie abroad.
                     All this neast is covered with a little Mosse like a Birds-neast. Untill
-                        <term>Leo</term> they breed females onely as the Waspes doe: and then last
-                    of all, for propagation of their kind, they breed their Drones, being likewise,
-                    as the Drones of Bees and Waspes, without stings. And these, to put the matter
-                    out of doubt, within a moneth after when they are ripe, doe openly engender with
-                    their females, as the chaffers doe, but their mates they choose in the neast,
-                    and are carried away by them. After which time the females breed no more till
-                    the next Summer, <fw type="catch"> though</fw>
+                            <term><app type="vocabulary" subtype="change">
+                            <lem wit="#b1623"> Leo</lem>
+                            <rdg wit="#b1609"><ptr target="1609.xml#ch4ancs18 1609.xml#ch4ance18"
+                                /></rdg>
+                        </app></term> they breed females onely as the Waspes doe: and then last of
+                    all, for propagation of their kind, they breed their Drones, being likewise, as
+                    the Drones of Bees and Waspes, without stings. And these, to put the matter out
+                    of doubt, within a <app type="minor" subtype="change">
+                        <lem wit="#b1623">moneth after when they are ripe,</lem>
+                        <rdg wit="#b1609"><ptr target="1609.xml#ch4ancs19 1609.xml#ch4ance19"
+                            /></rdg>
+                    </app> doe openly engender with their females, as the chaffers doe, <app
+                        type="minor" subtype="add">
+                        <lem wit="#b1623">but their mates they choose in the neast, and are carried
+                            away by them.</lem>
+                        <rdg wit="#b1609"/>
+                    </app> After which time the females breed no more till the next Summer, <fw
+                        type="catch"> though</fw>
                     <pb n="H3v"/>
                     <fw type="header"> Of the breeding of Bees, </fw> though you may see them
                     gathering, and flying about somewhat longer then the Waspes. In <term>
                         Saggitarius</term> they betake themselves to their Winter-rest, where they
                     lie single as the Mother-Waspe in a sleepe or swivet. But the Drone-dorres, as
                     the Drone-waspes, are destroyed by the weather: not one afterward to be seene
-                    till next <term> Leo</term>, when the females breed new againe. But one thing in
-                    the Dorres and Waspes is more strange, then in the Bees. For whereas the Bees
-                    assone as they have bred their first brood of females, doe presently breede
-                    Drones, <ref target="#ch4bibln15">v.</ref>
+                    till <app type="minor" subtype="change">
+                        <lem wit="#b1623">next <term>Leo</term></lem>
+                        <rdg wit="#b1609"><ptr target="1609.xml#ch4ancs20 1609.xml#ch4ance20"
+                            /></rdg>
+                    </app>, when the females breed new againe. But one thing in the Dorres and
+                    Waspes is more strange, then in the Bees. For whereas the Bees assone as they
+                    have bred their first brood of females, doe presently breede Drones, <ref
+                        target="#ch4bibln15">v.</ref>
                     <note type="authorial" subtype="bibliographic" xml:id="ch4bibln15">
                         <ref target="#ch4sumn19"> V.n. 19.</ref>
                     </note> (both which, when they are ripe, multiply together) the young Dorres and
@@ -4673,12 +4781,20 @@
                         The fift reason is the apparent signes of their Sex.</note> By this time
                     thou wilt say with me, that the Drone is the male-Bee: Whereof if some curious
                     Chirurgion would make an Anotomie, he should easily discerne <foreign
-                        xml:lang="la">Duos amplos &amp; candidos testes</foreign>, two lawfull
-                    witnesses of his Masculine Sex.</p>
+                        xml:lang="la">Duos amplos &amp; candidos testes</foreign>, two lawfull <app
+                        type="vocabulary" subtype="change">
+                        <lem wit="#b1623">witnesses</lem>
+                        <rdg wit="#b1609"><ptr target="1609.xml#ch4ancs21 1609.xml#ch4ance21"
+                            /></rdg>
+                    </app> of his Masculine Sex.</p>
                 <p xml:id="ch4par12"><note type="authorial" subtype="summary" xml:id="ch4sumn11">11.
-                            <persName>Aristotles</persName> Objection answered.</note> This truth
-                    began to appeare many yeares agoe, even in <persName> Aristotles</persName>
-                    time. <quote>
+                            <persName>Aristotles</persName> Objection answered.</note>
+                    <app type="minor" subtype="del">
+                        <lem wit="#b1623"/>
+                        <rdg wit="#b1609"><ptr target="1609.xml#ch4ancs22 1609.xml#ch4ance22"
+                            /></rdg>
+                    </app>This truth began to appeare many yeares agoe, even in <persName>
+                        Aristotles</persName> time. <quote>
                         <note type="authorial" subtype="bibliographic" xml:id="ch4bibln16">
                             <bibl> His.l.5.c.21.</bibl>
                         </note>
@@ -4694,95 +4810,186 @@
                                 ><bibl>Generat.l.3.c.10.</bibl></note>
                         <foreign xml:lang="la">Arma ad pugnam viresque exercendas nulli fœminæ à
                             natura tribuunutur.</foreign>
-                    </quote> Nature hath armed no female for fight and force against the male: but
-                    the Bees have power and weapon to chastice the Drones: <ref target="#ch4bibln18"
-                        >v.</ref>
+                    </quote> Nature hath armed <app type="minor" subtype="del">
+                        <lem wit="#b1623"/>
+                        <rdg wit="#b1609"><ptr target="1609.xml#ch4ancs23 1609.xml#ch4ance23"
+                            /></rdg>
+                    </app><app type="minor" subtype="add">
+                        <lem wit="#b1623">no female for fight and force against the male: but the
+                            Bees have power and weapon </lem>
+                        <rdg wit="#b1609"/>
+                    </app>to chastice the Drones: <ref target="#ch4bibln18">v.</ref>
                     <note type="authorial" subtype="bibliographic" xml:id="ch4bibln18">
                         <ref target="#ch4sumn22">v.n.22.</ref>
                     </note> and therefore the Drones cannot be their males. </p>
                 <p xml:id="ch4par13">The weaknesse of which reason I marvaile he did not see, seeing
-                    in all the kinde of <ref target="#ch4glon3">*</ref>Hawkes the female doth
-                    command the male, as being both stronger and better armed. Whereunto may bee
-                    added the example of the <orgName> Amazons</orgName> reigning in his time: who
-                    by force of armes subdued many kingdomes of men, and held them in subjection:
-                    like unto <fw type="catch"> which,</fw>
+                    in all the kinde of <ref target="#ch4glon3"><app type="reference" subtype="add">
+                            <lem wit="#b1623">*</lem>
+                            <rdg wit="#b1609"/>
+                        </app></ref>Hawkes the female doth command the male, as being both stronger
+                    and better armed. Whereunto may bee added the example of the <orgName>
+                        Amazons</orgName> reigning in his time: who by force of armes subdued many
+                    kingdomes of men, and held them in subjection: like unto <fw type="catch">
+                        which,</fw>
                     <pb n="H4r"/>
                     <fw type="header"> and of the Drone. </fw> which, it is marvaile but there were
-                    then some mankind Viragoes in <placeName>Greece</placeName>, as well as there be
-                    now in other Countries. Which thing, if nothing else, the experience of his
-                    Masters <ref target="#ch4glon4">†</ref> Master might have taught him.</p>
-                <note type="authorial" subtype="gloss" xml:id="ch4glon3">*The first instance is
-                    beyond exception: neither doe I see how the other can be answered, unlesse
-                    peradventure it be replayed that such rule is against Nature. </note>
-                <note type="authorial" subtype="gloss" xml:id="ch4glon4"
-                        >†<persName>Aristotle</persName> his Master was <persName>Plato,</persName>
-                    whose Master was <persName>Socrates</persName>, whose Master was
-                        <persName>Xantippe</persName> that thundring showring Queene of Shrewes. <quote>
-                        <foreign xml:lang="la">Xantippe Socratis Philosophi uxor morosa admodum
-                            fuisse fertur &amp; jurgiosa: irarumque, &amp; molestiarum muliebrium
-                            per diem perque noctem scatebat.</foreign>
-                        <bibl>A Gellius l.1.c.17.</bibl></quote>
-                    <quote>
-                        <foreign xml:lang="la">Socrates, cum in eum Xantippe prius convitia &amp;
-                            maledicta ingessisset, postea vero &amp; sordidis aquis perfudisset,
-                            Nonne (inquit) dicebam Xantippen tonantem quandoque pluituram?</foreign>
-                        <bibl>Laertius lib: 2. in vita Socratis.</bibl></quote>
-                </note>
-                <p xml:id="ch4par14">But you must understand that the Philsopher speaketh thus, not
-                        <term>dogmaticè</term> but <term> disputativè</term>, onely by way of
-                    reasoning: for in the end of the same chapter he yeeldeth himselfe to have no
-                    certaine knowledge thereof. <foreign xml:lang="la">Non tamen satis ad huc
-                        explorata quæ eveniant habemus.</foreign></p>
+                    then some <app type="vocabulary" subtype="change">
+                        <lem wit="#b1623">mankind</lem>
+                        <rdg wit="#b1609"><ptr target="1609.xml#ch4ancs24 1609.xml#ch4ance24"
+                            /></rdg>
+                    </app> Viragoes in <placeName>Greece</placeName>, as well as there be now in
+                    other Countries. <app type="major" subtype="add">
+                        <lem wit="#b1623">Which thing, if nothing else, the experience of his
+                            Masters <ref target="#ch4glon4">†</ref> Master might have taught
+                            him.</lem>
+                        <rdg wit="#b1609"/>
+                    </app></p>
+                <app type="major" subtype="add">
+                    <lem wit="#b1623">
+                        <note type="authorial" subtype="gloss" xml:id="ch4glon3">*The first instance
+                            is beyond exception: neither doe I see how the other can be answered,
+                            unlesse peradventure it be replayed that such rule is against Nature. </note>
+                        <note type="authorial" subtype="gloss" xml:id="ch4glon4"
+                                >†<persName>Aristotle</persName> his Master was
+                                <persName>Plato,</persName> whose Master was
+                                <persName>Socrates</persName>, whose Master was
+                                <persName>Xantippe</persName> that thundring showring Queene of
+                            Shrewes. <quote>
+                                <foreign xml:lang="la">Xantippe Socratis Philosophi uxor morosa
+                                    admodum fuisse fertur &amp; jurgiosa: irarumque, &amp;
+                                    molestiarum muliebrium per diem perque noctem
+                                    scatebat.</foreign>
+                                <bibl>A Gellius l.1.c.17.</bibl></quote>
+                            <quote>
+                                <foreign xml:lang="la">Socrates, cum in eum Xantippe prius convitia
+                                    &amp; maledicta ingessisset, postea vero &amp; sordidis aquis
+                                    perfudisset, Nonne (inquit) dicebam Xantippen tonantem quandoque
+                                    pluituram?</foreign>
+                                <bibl>Laertius lib: 2. in vita Socratis.</bibl></quote>
+                        </note></lem>
+                    <rdg wit="#b1609"/>
+                </app>
+                <p xml:id="ch4par14"><app type="minor" subtype="add">
+                        <lem wit="#b1623">But you must understand that the Philsopher speaketh thus,
+                            not <term>dogmaticè</term> but <term> disputativè</term>, onely by way
+                            of reasoning: for </lem>
+                        <rdg wit="#b1609"/>
+                    </app><app type="minor" subtype="del">
+                        <lem wit="#b1623"/>
+                        <rdg wit="#b1609"><ptr target="1609.xml#ch4ancs25 1609.xml#ch4ance25"
+                            /></rdg>
+                    </app>in the end of the same chapter he yeeldeth himselfe to have no certaine
+                    knowledge thereof. <foreign xml:lang="la">Non tamen satis ad huc explorata quæ
+                        eveniant habemus.</foreign></p>
                 <p xml:id="ch4par15"><note type="authorial" subtype="summary" xml:id="ch4sumn12">12.
                         When the Bees begin to breed.</note> To returne therefore to our purpose,
                     the Hony-Bees having, as those other <term> insecta</term>, conceived by the
                     Drones; the best about <term>Pisces</term> when they first gather upon flowers,
-                    others in <term>Aries,</term> and the weaker later, begin their breeding: which
-                    is continued all the Summer, even to the end of <term>Virgo.</term> But the
-                    chiefe time is in <term>Aries</term>, <term> Taurus,</term> and
-                        <term>Gemini:</term> which moneths yeeld <term>Ambrosia</term> the <term>
-                        Schadons</term> food, in greatest plentie, varietie and vertue. <note
-                        type="authorial" subtype="summary" xml:id="ch4sumn13">13. The chiefe time of
-                        breeding.</note>
+                    others in <term>Aries,</term> and the weaker later, begin <app type="minor"
+                        subtype="change">
+                        <lem wit="#b1623">their breeding:</lem>
+                        <rdg wit="#b1609"><ptr target="1609.xml#ch4ancs27 1609.xml#ch4ance27"
+                            /></rdg>
+                    </app>
+                    <app type="minor" subtype="add">
+                        <lem wit="#b1623">which is continued all the Summer, even to the end of
+                                <term>Virgo.</term> But the chiefe time is in <term>Aries</term>,
+                                <term> Taurus,</term> and <term>Gemini:</term> which moneths yeeld
+                                <term>Ambrosia</term> the <term> Schadons</term> food, in greatest
+                            plentie, varietie and vertue.</lem>
+                        <rdg wit="#b1609"/>
+                    </app>
+                    <note type="authorial" subtype="summary" xml:id="ch4sumn13">13. The chiefe time
+                        of breeding.</note>
                 </p>
                 <p xml:id="ch4par16"><note type="authorial" subtype="summary" xml:id="ch4sumn14">14.
-                        The first breed are females.</note> The Bees will be sure to serve
-                    themselves first, their first generation being alwaies females: which they breed
-                    after this manner. </p>
+                        The first breed are females.</note>
+                    <app type="minor" subtype="add">
+                        <lem wit="#b1623">The Bees will be sure to serve themselves first, their
+                            first generation being alwaies females: which they breed after this
+                            manner. </lem>
+                        <rdg wit="#b1609"/>
+                    </app></p>
                 <p xml:id="ch4par17"><note type="authorial" subtype="summary" xml:id="ch4sumn15">15.
-                        The manner of their breeding.</note>Close under the Honie (which is that
-                    time altogether in the upper parts of the Combs) in the middle of the bottomes
-                    of the void Cels, as the Waspes doe on the one side, they lay their seedes,
-                    about the bignesse of those which the Butter-flie leaves upon the Cabage-leaves:
-                    but of different colour, the Bees being white like Wasp-seedes, and the
-                    Butter-flies yellow. And so they descend by degrees toward the neather part of
-                    the Combes, filling one Cell after an other. Although when the chiefe breeding
-                    is past, <fw type="catch"> they</fw>
+                        The manner of their breeding.</note><app type="minor" subtype="del">
+                        <lem wit="#b1623"/>
+                        <rdg wit="#b1609"><ptr target="1609.xml#ch4ancs28 1609.xml#ch4ance28"
+                            /></rdg>
+                    </app>Close under the Honie (which is that time altogether in the upper parts of
+                    the Combs) in the middle of the bottomes of the void Cels, as the Waspes doe on
+                    the one side, they lay their seedes, about the bignesse of those which the
+                    Butter-flie leaves upon the Cabage-leaves: but of different colour, the Bees
+                    being white like Wasp-seedes, and the Butter-flies yellow. And so they descend
+                    by degrees toward the neather part of the Combes, filling one Cell after an
+                    other. Although when the chiefe breeding is past, <fw type="catch"> they</fw>
                     <pb n="H4v"/>
                     <fw type="header"> Of the breeding of Bees, </fw> they doe not precisely observe
-                    this order, but lay up their Honie promiscuously among the yong Bees, where they
-                    finde the Cells void. <note type="authorial" subtype="summary"
-                        xml:id="ch4sumn16">16. The Bee-seed is first turned into a Worme.</note> The
-                    Bee-seed at the first sticketh upon one end untill it be a live Worme or Grub:
-                    as soone as it liveth it is loose, and lyeth in the bottome of the Cell round
-                    like a ring, one end touching the other, till so the bottome can no longer
-                    containe it: after that, it lieth along in the Cell til it be growen to the full
-                    bignesse of a Bee: and then doth the Worme die and becommeth void of all motion
-                    and sense: and so is shut up in the Cell, the Bees covering the top close with
-                    wax. </p>
+                    this order, but lay up their Honie <app type="vocabulary" subtype="add">
+                        <lem wit="#b1623">promiscuously</lem>
+                        <rdg wit="#b1609"/>
+                    </app> among the yong Bees, where they finde the Cells void. <note
+                        type="authorial" subtype="summary" xml:id="ch4sumn16">16. The Bee-seed is
+                        first turned into a Worme.</note> The Bee-seed at the first sticketh upon
+                    one end untill it be a live Worme or Grub: as soone as it liveth it is loose,
+                    and lyeth in the bottome of the Cell round like a ring, one end touching the
+                    other, till so the bottome can no longer containe it: after that, it lieth along
+                    in the Cell til it be growen to the full bignesse of a Bee: and then doth the
+                    Worme die and becommeth void of all motion and sense: and so is shut up in the
+                    Cell, the Bees covering the top close with wax. </p>
                 <p xml:id="ch4par18"><note type="authorial" subtype="summary" xml:id="ch4sumn17">17.
-                        The Worme being dead groweth to the shape of a Bee and then liveth
-                        againe.</note> The Grub being now dead, presently beginneth the alteration
-                    from a Worme to a Bee: which, is two-fold, in shape and in colour: the first
-                    alteration in shape, is the division in the middle; then the other division
-                    betweene the head and shoulders, whence it is called an <term>insectum:</term>
-                    after that, the growth of the head, legges, wings, and other parts into their
-                    shape and fashion. The first that altereth in colour from white to browne is the
-                    upper part, and of the upper part the head, and of the head the eyes. </p>
-                <p xml:id="ch4par19">The uniforme shape and white colour of the Worme, being thus
-                    altered into the proportioned shape and brownish colour of a Bee, she beginneth
-                    to move agine, and to live her second life: and then breaking the cover
-                    wherewith she was inclosed in the Cell, she commeth forth a flying Bird.</p>
+                        The Grub being now dead groweth to the shape of a Bee and then liveth
+                        againe.</note>
+                    <app type="minor" subtype="change">
+                        <lem wit="#b1623">The Grub being now</lem>
+                        <rdg wit="#b1609"><ptr target="1609.xml#ch4ancs29 1609.xml#ch4ance29"
+                            /></rdg>
+                    </app> dead<app type="minor" subtype="change">
+                        <lem wit="#b1623">, presently beginneth the alteration from a Worme to a
+                            Bee:</lem>
+                        <rdg wit="#b1609"><ptr target="1609.xml#ch4ancs30 1609.xml#ch4ance30"
+                            /></rdg>
+                    </app>
+                    <app type="major" subtype="add">
+                        <lem wit="#b1623">which, is two-fold, in shape and in colour: the first
+                            alteration in shape, is the division in the middle; then the other
+                            division betweene the head and shoulders, whence it is called an
+                                <term>insectum:</term> after that, the growth of the head, legges,
+                            wings, and other parts into their shape and fashion. The first that
+                            altereth in colour from white to browne is the upper part, and of the
+                            upper part the head, and of the head the eyes.</lem>
+                        <rdg wit="#b1609"/>
+                    </app>
+                </p>
+                <p xml:id="ch4par19"><app type="minor" subtype="change">
+                        <lem wit="#b1623">The uniforme shape and white colour of the Worme,</lem>
+                        <rdg wit="#b1609"><ptr target="1609.xml#ch4ancs31 1609.xml#ch4ance31"
+                            /></rdg>
+                    </app>
+                    <app type="minor" subtype="change">
+                        <lem wit="#b1623">being thus altered into the proportioned shape and
+                            brownish colour of a Bee,</lem>
+                        <rdg wit="#b1609"><ptr target="1609.xml#ch4ancs41 1609.xml#ch4ance41"
+                            /></rdg>
+                    </app>
+                    <app type="minor" subtype="change">
+                        <lem wit="#b1623">she beginneth</lem>
+                        <rdg wit="#b1609"><ptr target="1609.xml#ch4ancs33 1609.xml#ch4ance33"
+                            /></rdg>
+                    </app> to move againe, and to live her second life:<app type="minor"
+                        subtype="del">
+                        <lem wit="#b1623"/>
+                        <rdg wit="#b1609"><ptr target="1609.xml#ch4ancs34 1609.xml#ch4ance34"
+                            /></rdg>
+                    </app><app type="minor" subtype="change">
+                        <lem wit="#b1623"> and then breaking the cover wherewith she was inclosed in
+                            the Cell, she commeth forth a flying Bird.</lem>
+                        <rdg wit="#b1609"><ptr target="1609.xml#ch4ancs35 1609.xml#ch4ance35"
+                            /></rdg>
+                    </app><app type="minor" subtype="del">
+                        <lem wit="#b1623"/>
+                        <rdg wit="#b1609"><ptr target="1609.xml#ch4ancs35x 1609.xml#ch4ance35x"
+                            /></rdg>
+                    </app></p>
                 <p xml:id="ch4par20">
                     <note type="authorial" subtype="bibliographic" xml:id="ch4bibln19">
                         <bibl>Hist.an.l.5.c.22.</bibl>
@@ -4792,16 +4999,21 @@
                             parvus est, jacet in favo obliquus: postea sua ipse facultate se erigit,
                             cibumque capit. Foetus apum &amp; fucorum candidus est: ex quo vermiculi
                             fiunt, qui in apes fucosque transeunt.</foreign>
-                    </term> And all this within the space of a moneth. Yea in swarming-time, when
-                    the Hives have more heat, partly from the aire, and partly from the multitude of
-                    Bees; when also the <term>Schadans</term> never want their fill of
-                        <term>Nectar</term>, <term> Ambrosia,</term> and faire water continually
-                    brought in fresh and fresh unto them; I have knowne this effected in three
-                    weekes: although <bibl xml:id="ch4biblnX19">
-                        <persName>Plinie</persName></bibl> speakes of more then twice so long a
-                    time. <quote><bibl><ptr target="#ch4biblnX19"/></bibl>
-                        <foreign xml:lang="la">Foetus intra 45. diem peragitur.</foreign>
-                    </quote></p>
+                    </term>
+                    <app type="major" subtype="add">
+                        <lem wit="#b1623">And all this within the space of a moneth. Yea in
+                            swarming-time, when the Hives have more heat, partly from the aire, and
+                            partly from the multitude of Bees; when also the <term>Schadans</term>
+                            never want their fill of <term>Nectar</term>, <term> Ambrosia,</term>
+                            and faire water continually brought in fresh and fresh unto them; I have
+                            knowne this effected in three weekes: although <bibl
+                                xml:id="ch4biblnX19">
+                                <persName>Plinie</persName></bibl> speakes of more then twice so
+                            long a time. <quote><bibl><ptr target="#ch4biblnX19"/></bibl>
+                                <foreign xml:lang="la">Foetus intra 45. diem peragitur.</foreign>
+                            </quote></lem>
+                        <rdg wit="#b1609"/>
+                    </app></p>
                 <p xml:id="ch4par21"><note type="authorial" subtype="summary" xml:id="ch4sumn18">18.
                         The breeding of the Lady-Bees</note> But the Lady-bees are bred in the
                     severall Palaces of the <fw type="catch"> Queene,</fw>
@@ -4905,12 +5117,27 @@
                         particulare non est syllogizare,</foreign> &amp; he that made these to
                     command their males, commanded them to be commanded. But if they would so fain
                     to have it so, let them first imitate their singular virtues, their continuall
-                    industry in gathering, their diligent watchfulnesse in keeping, their
-                    temperance, chastitie, cleanlinesse, and discreet œconomie, &amp;c. And then, if
-                    they meete with such dull Lubbers as these Drones are; they may with lesse blame
-                    borrow a point of the Law, and enjoy their longing. Yet when they have it, let
-                    them use poore Skimmington as gently as they may; especially in publike, to hide
-                    his shame. </p>
+                    industry in gathering, their diligent watchfulnesse in keeping, <app
+                        type="minor" subtype="add">
+                        <lem wit="#b1623">their temperance,</lem>
+                        <rdg wit="#b1609"/>
+                    </app>
+                    <app type="vocabulary" subtype="del">
+                        <lem wit="#b1623"/>
+                        <rdg wit="#b1609"><ptr target="1609.xml#ch4ancs36 1609.xml#ch4ance36"
+                            /></rdg>
+                    </app>chastitie, cleanlinesse, and discreet œconomie, &amp;c. And then, if they
+                    meete with such <app type="vocabulary" subtype="change">
+                        <lem wit="#b1623">dull Lubbers</lem>
+                        <rdg wit="#b1609"><ptr target="1609.xml#ch4ancs37 1609.xml#ch4ance37"
+                            /></rdg>
+                    </app> as these Drones are; they may with lesse blame borrow a point of the Law,
+                    and enjoy their longing. <app type="minor" subtype="add">
+                        <lem wit="#b1623">Yet when they have it, let them use poore Skimmington as
+                            gently as they may; especially in publike, to hide his shame.</lem>
+                        <rdg wit="#b1609"/>
+                    </app>
+                </p>
                 <p xml:id="ch4par25">And this they may note by the way, that albeit the females in
                     this kinde have the Soveraigntie, yet have the males the lowder voice, as it is
                     in other living things, Doves, Owsils, Thrushes, &amp;c. the males being knowne
@@ -4922,15 +5149,28 @@
                     breeding or laying of seeds beginneth to cease, in some by <term>Leterm</term>,
                     in some not before <term> Virgo</term>. After which time these<ref
                         target="#ch4glon6">*</ref>
-                    <term> Amazonian</term> Dames, having conceived for the next yeere, begin to wax
-                    wearie of their mates, and to like their <fw type="catch"> roome</fw>
-                    <pb n="I2r"/>
-                    <fw type="header"> and of the Drone. </fw> roome better then their company. At
-                    first not quite forgetting their old familiaritie, they gently give them Tom
-                    Drums entertainment: they that will not take that for a warning, but presume to
-                    force in againe among them, are more shrewdly handled. You may sometime see a
-                    handfull or two before a Hive, which they had killed within: but the greatest
-                    part flyeth away, and dieth abroad. </p>
+                    <term> Amazonian</term> Dames, having conceived for the next yeere, begin to
+                        <app type="minor" subtype="change">
+                        <lem wit="#b1623">wax wearie of </lem>
+                        <rdg wit="#b1609"><ptr target="1609.xml#ch4ancs38 1609.xml#ch4ance38"
+                            /></rdg>
+                    </app>their mates, and<app type="minor" subtype="del">
+                        <lem wit="#b1623"/>
+                        <rdg wit="#b1609"><ptr target="1609.xml#ch4ancs39 1609.xml#ch4ance39"
+                            /></rdg>
+                    </app>
+                    <app type="major" subtype="add">
+                        <lem wit="#b1623">to like their <fw type="catch"> roome</fw>
+                            <pb n="I2r"/>
+                            <fw type="header"> and of the Drone. </fw> roome better then their
+                            company. At first not quite forgetting their old familiaritie, they
+                            gently give them Tom Drums entertainment: they that will not take that
+                            for a warning, but presume to force in againe among them, are more
+                            shrewdly handled. You may sometime see a handfull or two before a Hive,
+                            which they had killed within: but the greatest part flyeth away, and
+                            dieth abroad. </lem>
+                        <rdg wit="#b1609"/>
+                    </app></p>
                 <note type="authorial" subtype="gloss" place="inline" xml:id="ch4glon6">
                     <note type="authorial" subtype="summary" xml:id="ch4sumn25">25. The Bees
                         compared to the Amazons.</note>
@@ -4971,11 +5211,18 @@
                         When forward stalls begin.</note> The forward stockes, that have cast their
                     last swarme in <term>Gemini</term> or soone after, begin at <term>Leo</term> :
                         <note type="authorial" subtype="summary" xml:id="ch4sumn28"> 28. When the
-                        backward.</note> yea of those in the beginning of <term> Gemini</term> some
-                    somewhat sooner, the backward, that cast not their last swarme much before
-                        <term> Leo</term> may stay till the end of the same moneth: but usually
-                    about <term> Virgo,</term> or a weeke after, they make a cleane riddance of
-                    them. </p>
+                        backward.</note>
+                    <app type="minor" subtype="add">
+                        <lem wit="#b1623">yea of those in the beginning of <term> Gemini</term> some
+                            somewhat sooner,</lem>
+                        <rdg wit="#b1609"/>
+                    </app> the backward <app type="vocabulary" subtype="del">
+                        <lem wit="#b1623"/>
+                        <rdg wit="#b1609"><ptr target="1609.xml#ch4ancs40 1609.xml#ch4ance40"
+                            /></rdg>
+                    </app>, that cast not their last swarme much before <term> Leo</term> may stay
+                    till the end of the same moneth: but usually about <term> Virgo,</term> or a
+                    weeke after, they make a cleane riddance of them. </p>
                 <fw type="catch"> Those</fw>
                 <pb n="I2v"/>
                 <fw type="header"> Of the Breeding of Bees, </fw>
@@ -4984,44 +5231,79 @@
                     full have not swarmed at all, because they are rich and feare no want, use to
                     suffer them so long and sometime longer, even to the ende of this moneth. </p>
                 <p xml:id="ch4par30"><note type="authorial" subtype="summary" xml:id="ch4sumn30">30.
-                        When those that are overswarmed.</note> Those that have over-swarmed
-                    themselves, finding their paucitie and weaknesse, wax desperate and carelesse of
-                    their estate: and therefore sometime keepe their Drones till toward the end of
-                        <term> Virgo</term>, sometime kill them not at all: but let them alone,
-                    untill they die by nature: which is not long after. For few of them can live
-                    till <term>Libra</term>, and the youngest not to the end of that moneth. <ref
-                        target="#ch4bibln28">v.</ref>
+                        When those that are overswarmed.</note> Those<app type="vocabulary"
+                        subtype="del">
+                        <lem wit="#b1623"/>
+                        <rdg wit="#b1609"><ptr target="1609.xml#ch4ancs41 1609.xml#ch4ance41"
+                            /></rdg>
+                    </app> that have over-swarmed themselves, <app type="minor" subtype="del">
+                        <lem wit="#b1623"/>
+                        <rdg wit="#b1609"><ptr target="1609.xml#ch4ancs42 1609.xml#ch4ance42"
+                            /></rdg>
+                    </app><app type="minor" subtype="add">
+                        <lem wit="#b1623">finding their paucitie and weaknesse, wax desperate and
+                            carelesse of their estate:</lem>
+                        <rdg wit="#b1609"/>
+                    </app>
+                    <app type="minor" subtype="add">
+                        <lem wit="#b1623">and therefore</lem>
+                        <rdg wit="#b1609"/>
+                    </app> sometime keepe <app type="vocabulary" subtype="change">
+                        <lem wit="#b1623">their Drones</lem>
+                        <rdg wit="#b1609"><ptr target="1609.xml#ch4ancs43 1609.xml#ch4ance43"
+                            /></rdg>
+                    </app> till toward the end of <term> Virgo</term>, sometime kill them not at
+                    all: but let them alone, untill they die by nature: which is not long after. For
+                    few of them can live till <term>Libra</term>, and the youngest not to the end of
+                    that moneth. <ref target="#ch4bibln28">v.</ref>
                     <note type="authorial" subtype="bibliographic" xml:id="ch4bibln28">
                         <ref target="#ch4sumn4"> V.n.4.</ref>
                     </note> Take heed to such stalls, for they are likely to die.</p>
+                <app type="major" subtype="del">
+                    <lem wit="#b1623"/>
+                    <rdg wit="#b1609"><ptr target="1609.xml#ch4ancs44 1609.xml#ch4ance44"/></rdg>
+                </app>
                 <p xml:id="ch4par31"><note type="authorial" subtype="summary" xml:id="ch4sumn31">31.
-                        Sometime the Bees cast out even the white Cephens.</note> Some are so
-                    provident, that, to prevent this trouble and save their Honie, they draw the
-                    poore Cephens out of their Cells before they be ripe, or come to their second
-                    life. Such you may safely trust.</p>
+                        Sometime the Bees cast out even the white Cephens.</note>
+                    <app type="minor" subtype="change">
+                        <lem wit="#b1623">Some are so provident, that, to prevent this trouble and
+                            save their Honie, they draw the poore Cephens out of their Cells before
+                            they be ripe, or come to their second life. Such you may safely
+                            trust.</lem>
+                        <rdg wit="#b1609"><ptr target="1609.xml#ch4ancs45 1609.xml#ch4ance45"
+                            /></rdg>
+                    </app></p>
                 <p xml:id="ch4par32"><note type="authorial" subtype="summary" xml:id="ch4sumn32">32.
                         Timely ridding of Drones a good signe.</note>Those that soonest rid their
                     Drones, are likely to be forwardest the next yeare.</p>
                 <p xml:id="ch4par33"><note type="authorial" subtype="summary" xml:id="ch4sumn33">33.
                         Sometime they rid their Drones in the Spring.</note> Sometimes the Drones
-                    are beaten away in the Spring. For when forward stalls (which in their heat are
-                    bold to fly abroad while others dare not wagge) have lost many of their Nymphes
-                    in a tempestuous and stormie Spring; they will therefore destroy their Drones
-                    also. <note type="authorial" subtype="summary" xml:id="ch4sumn34"> 34. And
+                    are <app type="vocabulary" subtype="change">
+                        <lem wit="#b1623">beaten away</lem>
+                        <rdg wit="#b1609"><ptr target="1609.xml#ch4ancs46 1609.xml#ch4ance46"
+                            /></rdg>
+                    </app> in the Spring. For when forward stalls (which in their heat are bold to
+                    fly abroad while others dare not wagge) have lost many of their Nymphes in a
+                    tempestuous and stormie Spring; they will therefore destroy their Drones also.
+                        <note type="authorial" subtype="summary" xml:id="ch4sumn34"> 34. And
                         afterward breed new againe.</note> But having formerly conceived by them,
                     they then begin the world anew as after an other Winter: and first breeding
                     Nymphs, in the end they breed Cephens againe. Which if they can compasse before
                     swarming time be past, they will swarme that yeare; otherwise they will be fat
                     and full, and excellent good either to keepe or kill.</p>
-                <p xml:id="ch4par34"><note type="authorial" subtype="summary" xml:id="ch4sumn35">35
-                        Sometime it is good to helpe the Bees in this work.</note> Because the
-                    stockes that have cast often, doe beare with their Drones so long, although
-                    there be twise so many as bee needfull for the Bees that are leaft; therefore
-                    (to save the Honie which those Wolmores would devoure) it is not amisse to
-                    prevent the Bees, and presently after the last swarme to diminish their number,
-                    with a Drone-pot cloomed to the doore: specially of them you meane to take, or
-                    see much opprest with superfluous multitude, <ref target="#ch3sumn43">v.c.3.n.
-                        43.</ref></p>
+                <p xml:id="ch4par34"><app type="major" subtype="add">
+                        <lem wit="#b1623"><note type="authorial" subtype="summary"
+                                xml:id="ch4sumn35">35 Sometime it is good to helpe the Bees in this
+                                work.</note> Because the stockes that have cast often, doe beare
+                            with their Drones so long, although there be twise so many as bee
+                            needfull for the Bees that are leaft; therefore (to save the Honie which
+                            those Wolmores would devoure) it is not amisse to prevent the Bees, and
+                            presently after the last swarme to diminish their number, with a
+                            Drone-pot cloomed to the doore: specially of them you meane to take, or
+                            see much opprest with superfluous multitude, <ref target="#ch3sumn43"
+                                >v.c.3.n. 43.</ref></lem>
+                        <rdg wit="#b1609"/>
+                    </app></p>
             </div>
             <fw type="catch"> CHAP.</fw>
             <pb n="I3r"/>
