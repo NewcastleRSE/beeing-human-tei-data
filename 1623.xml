@@ -5327,8 +5327,8 @@
                     <note type="authorial" subtype="bibliographic" xml:id="ch5bibln2">
                         <ref target="#ch5sumn35">v.n.35.</ref>
                     </note> and also when many meet in one swarme. <ref target="#ch1sumn7"
-                        >v.c.1.n7</ref>. But then, being dead and shrunke together by the force of
-                    the poison, they lose much of their stature and comlinesse. </p>
+                        >v.c.1.n7</ref>. <app type="minor" subtype="add"><lem wit="#b1623">But then, being dead and shrunke together by the force of
+                            the poison, they lose much of their stature and comlinesse.</lem><rdg wit="#b1609"></rdg></app> </p>
                 <p xml:id="ch5par3"><note type="authorial" subtype="summary" xml:id="ch5sumn3">3.
                         The swarme no younger then the stocke.</note> Men thinke that the swarme
                     consisteth onely of young Bees, and that the old Bees only tarrie behinde: but
@@ -5354,18 +5354,18 @@
                         kinde spring for swarmes.</note> A warme, calme, and showring spring causeth
                     many and <fw type="catch"> rathe</fw>
                     <pb n="I3v"/>
-                    <fw type="header"> Of the Swarming of Bees, </fw> rathe swarmes, though sudden
+                    <fw type="header"> Of the Swarming of Bees, </fw> rathe swarmes<app type="minor" subtype="add"><lem wit="#b1623">, though sudden
                     stormes doe hinder them. <ref target="#ch5bibln5">v.</ref>
                     <note type="authorial" subtype="bibliographic" xml:id="ch5bibln5">
                         <ref target="#ch7sumn60">V.c. 7.n. 60.</ref>
-                    </note></p>
+                    </note></lem><rdg wit="#b1609"></rdg></app><app type="major" subtype="del"><lem wit="#b1623"></lem><rdg wit="#b1609"><ptr target="1609.xml#ch5ancs1 1609.xml#ch5ance1"/></rdg></app></p>
                 <quote>
-                    <foreign xml:lang="la">Augent mella siccitates, sobolem imbres.</foreign>
+                    <foreign xml:lang="la">Augent mella siccitates, sobolem imbres.<app type="minor" subtype="del"><lem wit="#b1623"></lem><rdg wit="#b1609"><ptr target="1609.xml#ch5ancs2 1609.xml#ch5ance2"/></rdg></app></foreign>
                     <note type="authorial" subtype="bibliographic" xml:id="ch5bibln6">
                         <bibl>Hist.l.4.c.22.</bibl>
                     </note>
                 </quote>
-                <p xml:id="ch5par6"><ref target="#ch4glon6">*</ref>Dry weather makes plenty of hony,
+                <p xml:id="ch5par6"><app type="major" subtype="add"><lem wit="#b1623"><ref target="#ch4glon6">*</ref>Dry weather makes plenty of hony,
                     and <ref target="#ch5glon2">†</ref> moist of swarms. But note that the chiefe
                     time for breeding swarmes is the Spring, <ref target="#ch5bibln7">v.</ref>
                     <note type="authorial" subtype="bibliographic" xml:id="ch5bibln7">
@@ -5391,23 +5391,23 @@
                     <note type="authorial" subtype="bibliographic" xml:id="ch5bibln10">
                         <ref target="#ch8sumn5">V.c.8.n.5.</ref>
                     </note> and be sure they be not over-hived.<ref target="#ch5sumn45">
-                        v.n.45.</ref></p>
-                <note type="authorial" subtype="gloss" place="inline" xml:id="ch5glon1">*The reason
+                        v.n.45.</ref></lem><rdg wit="#b1609"></rdg></app></p>
+                <note type="authorial" subtype="gloss" place="inline" xml:id="ch5glon1"><app type="major" subtype="add"><lem wit="#b1623">*The reason
                     is, that in hot and drie weather the hony dewes are raised, and the adventitious
                     moisture is drained from the flowers, the pure naturall juice onely being leaft
-                    in them: of both which they gather all the day long without interruption. </note>
-                <note type="authorial" subtype="gloss" place="inline" xml:id="ch5glon2">†The reason
+                    in them: of both which they gather all the day long without interruption. </lem><rdg wit="#b1609"></rdg></app></note>
+                <note type="authorial" subtype="gloss" place="inline" xml:id="ch5glon2"><app type="major" subtype="add"><lem wit="#b1623">†The reason
                     is, that the weather keeping them in, they can doe nothing but breed and hatch
                     their schadons: and when they goe abroad, they bring in grosse Bee meat, <term>
                         Ambrosia</term> and water, wherewith to feed them; but can finde nothing fit
                     to lay up in store. So that moist weather gives them two causes of swarming,
                     plenty of Bees, and penury of hony: the one makes them able, the other willing:
                     and then neither winde, nor cloud, nor raine can stay them. Whereas in times of
-                    plenty it is other-wise. <ref target="#ch5sumn20">v.n.20.</ref></note>
+                    plenty it is other-wise. <ref target="#ch5sumn20">v.n.20.</ref></lem><rdg wit="#b1609"></rdg></app></note>
                 <p xml:id="ch5par7"><note type="authorial" subtype="summary" xml:id="ch5sumn6">6.
                         Swarming weather.</note> Likewise, in warme and calme weather the swarmes
-                    delight to arise, but specially in a heat-gleame, after that a showre or gloomie
-                    cloud hath sent them home together: in extreme hot and dry weather not so: <ref
+                    delight to arise, but specially in a <app type="minor" subtype="change"><lem wit="#b1623">heat-gleame, after that a showre or gloomie
+                        cloud hath sent them home together:</lem><rdg wit="#b1609"><ptr target="1609.xml#ch5ancs3 169.xml#ch5ance3"/></rdg></app> in extreme hot and dry weather not so: <ref
                         target="#ch5bibln11"> v</ref>
                     <note type="authorial" subtype="bibliographic" xml:id="ch5bibln11">
                         <ref target="#ch5sumn20">V.n.20</ref>
@@ -5419,16 +5419,16 @@
                         swarming houres.</note>The swarmes use to come forth betweene the houres of
                         <fw type="catch"> nine</fw>
                     <pb n="I4r"/>
-                    <fw type="header"> and the Hiving of them. </fw> nine and three, and sometime an
-                    houre sooner or later: but chiefly betweene eleven and one. They choose rather
+                    <fw type="header"> and the Hiving of them. </fw> nine and three, <app type="minor" subtype="add"><lem wit="#b1623">and sometime an
+                        houre sooner or later:</lem><rdg wit="#b1609"></rdg></app> but chiefly betweene eleven and one. They choose rather
                     the fore-noone, if the weather please them: otherwise they will stay for a faire
                     houre in the after-noone. This time of the day therefore, in the swarming
                     months, your Bees must continually be attended.</p>
                 <p xml:id="ch5par9"><note type="authorial" subtype="summary" xml:id="ch5sumn8">8.
                         The two swarming moneths.</note> The swarming moneths are two, <term>
                         Gemini</term> and <term>Cancer</term>: one moneth before the longest day,
-                    and an other after. </p>
-                <note type="authorial" subtype="gloss" place="inline" xml:id="ch5glon3">In some very
+                    and an other after. </p><app type="minor" subtype="del"><lem wit="#b1623"></lem><rdg wit="#b1609"><ptr target="1609.xml#ch5ancs4 1609xml#ch5ance4"/></rdg></app>
+                <note type="authorial" subtype="gloss" place="inline" xml:id="ch5glon3"><app type="major" subtype="add"><lem wit="#b1623">In some very
                     backward yeres, such as was <date when="1621">1621.</date>&amp; <date
                         when="1622">1622.</date> there have bin swarmes a weeke in <term>Leo</term>,
                     which did well, (the Bramble, that was wont to be a fortnight or three weekes
@@ -5437,7 +5437,7 @@
                         <ref target="#ch6sumn39">V.c.6.n.39.</ref>
                     </note> not blowing before that time:) Likewise in warme Countries in a kinde
                     Spring, some have come somewhat before <term>Gemini</term>, but this also is
-                    rare. </note>
+                    rare. </lem><rdg wit="#b1609"></rdg></app></note>
                 <p xml:id="ch5par10"><note type="authorial" subtype="summary" xml:id="ch5sumn9">9.
                         Rathe swarmes.</note> Those that come before the Solstice, in the ascending
                     of the Sunne, are rathe swarmes. <note type="authorial" subtype="summary"
