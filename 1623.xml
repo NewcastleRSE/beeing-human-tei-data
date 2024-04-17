@@ -5546,21 +5546,21 @@
                     <note type="authorial" subtype="bibliographic" xml:id="ch5bibln17">
                         <ref target="#ch5sumn34">v.n.34.</ref>
                     </note> above the Hive; then doe they hastilie issue forth and swarme.</lem><rdg wit="#b1609"></rdg></app></p>
-                <p xml:id="ch5par18">But heere you must note, that as to fill the Doore, or to lie
+                <p xml:id="ch5par18">But heere you must note, that as to fill the<app type="vocabulary" subtype="del"><lem wit="#b1623"></lem><rdg wit="#b1609"><ptr target="1609.xml#ch5ancs25 1609.xml#ch5ance25"/></rdg></app> Doore, or to lie
                     forth a little now and then in foggie or sultrie mornings and evenings, (which
                     is because then they are most offended by heat within, and can best indure the
                     aire abroad) and otherwise to go in againe, is a signe that the Hive is full,
-                    and therefore ready to swarme; <note type="authorial" subtype="summary"
+                    <app type="minor" subtype="change"><lem wit="#b1623">and therefore ready to swarme</lem><rdg wit="#b1609"><ptr target="1609.xml#ch5ancs26 1609.xml#ch5ance26"/></rdg></app>; <note type="authorial" subtype="summary"
                         xml:id="ch5sumn19"> 19. To lie forth continually is a signe they will not
                         swarme.</note> so to lie forth continually (as in extreme hot and and dry
                     summers they use to doe) under the stock or behind the hive &amp;c. (specially
-                    after <term>Cancer</term> is come in) is a signe and cause of not swarming. For
+                    after <term>Cancer</term> is come in) <app type="minor" subtype="change"><lem wit="#b1623">is a signe and cause of not swarming</lem><rdg wit="#b1609"><ptr target="1609.xml#ch5ancs27 1609.xml#ch5ance27"/></rdg></app>. For
                     the Bees, knowing by nature that the greatest companies doe prosper best, until
                     they finde themselves so pestred with heate and throng of multitudes, that the
                     Hive can scarce hold any more, will have no mind to swarme: and when they have
                     once taken to lie forth, the hive will alwaies seem empty, as though they wanted
                     company. </p>
-                <p xml:id="ch5par19"><note type="authorial" subtype="summary" xml:id="ch5sumn20">20.
+                <p xml:id="ch5par19"><app type="major" subtype="add"><lem wit="#b1623"><note type="authorial" subtype="summary" xml:id="ch5sumn20">20.
                         The causes of their lying forth.</note> One cause of their lying forth, is
                     stormie and windie wea- <fw type="catch"> ther</fw>
                     <pb n="K1v"/>
@@ -5569,8 +5569,8 @@
                     their continuall breeding, that the Hive cannot hold them, seeing they may not
                     swarme, they must needs, for want of aire &amp; roome within, lie without: which
                     when they have once caught, they will hardlie leave: and the longer they lie
-                    out, the lother they are to swarme. </p>
-                <p xml:id="ch5par20">An other cause of their lying forth, is continuall hot and drie
+                    out, the lother they are to swarme. </lem><rdg wit="#b1609"></rdg></app></p>
+                <p xml:id="ch5par20"><app type="major" subtype="add"><lem wit="#b1623">An other cause of their lying forth, is continuall hot and drie
                     weather, specially after the Solstice: which causing plentie of hony both in
                     plants and dewes, their mindes are so set upon that their chiefe delight; <quote>
                         <foreign xml:lang="la">(Tantus amor florum, &amp; generandi gloria
@@ -5580,8 +5580,8 @@
                         </note>
                     </quote> that they have no leisure to swarme: although they might most safelie
                     come abroad in such weather, which would not suffer the weakest Nymph to
-                    fall.</p>
-                <p xml:id="ch5par21">And when by continuance of such honie-weather they are once
+                    fall.</lem><rdg wit="#b1609"></rdg></app></p>
+                <p xml:id="ch5par21"><app type="major" subtype="add"><lem wit="#b1623">And when by continuance of such honie-weather they are once
                     sufficientlie provided, they will then be loth to leave the sweet fruits of
                     their labours, and to change their full store-houses for that which makes giddie
                     House-wives. But if they have once begun a combe without where they lie, the
@@ -5597,7 +5597,7 @@
                     stocks, that have the summer before them, prove alwaies good. <note
                         type="authorial" subtype="gloss" xml:id="ch5glonX1">* By having faire and
                         fat young stockes, in a good standing, not over-hived, and well
-                    kept.</note></p>
+                        kept.</note></lem><rdg wit="#b1609"></rdg></app></p>
                 <p xml:id="ch5par22"><note type="authorial" subtype="summary" xml:id="ch5sumn21">21.
                         The remedy and meanes to make them swarme.</note> First keep the Hive as
                     cool as may be, by watering and shadowing both it, and the place where it
