@@ -5470,17 +5470,17 @@
                 <pb n="I4v"/>
                 <fw type="header"> Of the Swarming of Bees, </fw>
                 <p xml:id="ch5par12"><note type="authorial" subtype="summary" xml:id="ch5sumn12">12.
-                        A prime swarme and an after-Swarme.</note> A good stocke doth naturally and
-                    usually cast twise; a prime swarme, and an after-swarme: specially if the prime
+                    A prime swarme and an after-Swarme.</note> <app type="vocabulary" subtype="change"><lem wit="#b1623">A good stocke</lem><rdg wit="#b1609"><ptr target="1609.xml#ch5ancs15 1609.xml#ch5ance15"/></rdg></app> doth naturally and
+                    usually cast twise; a prime swarme, and an after-swarme: <app type="minor" subtype="add"><lem wit="#b1623">specially if the prime
                     swarme be so rathe, that the castling may come before the bramble-buds be open:
                     yea and rathe prime swarmes not over-hived, <note type="authorial"
                         subtype="summary" xml:id="ch5sumn13">13. A stall may cast foure
-                        times.</note>in a plentifull yeere may swarme once or twice: although some
+                        times.</note>in a plentifull yeere may swarme once or twice: </lem><rdg wit="#b1609"></rdg></app>although some
                     full stalls doe not cast once, some but once, and some having many princes
                     (specially when the prime-swarm is broken) doe cast three or foure times. <note
                         type="authorial" subtype="summary" xml:id="ch5sumn14">14. Divers causes of
                         breaking the prime swarme.</note> For sometime it happeneth that, in the
-                    swarming, a blacke cloud rising stayeth part of them that are alreadie come
+                    <app type="vocabulary" subtype="change"><lem wit="#b1623">swarming,</lem><rdg wit="#b1609"><ptr target="1609.xml#ch5ancs16 1609.xml#ch5ance16"/></rdg></app> a blacke cloud rising stayeth part of them that are alreadie come
                     forth, and lie about the hives-doore: sometime when they are all up, either
                     fearing a cloud, or disliking the lighting-place, or being troubled in the
                     hiving, part doth returne.</p>
@@ -5489,12 +5489,12 @@
                     worth two or three after-swarmes, except it be broken: and then if the residue
                     come forth in one entire swarme, that after-swarme may bee the better of the
                     twaine: but if it be divided into two or three, then will they all be but
-                    indifferent: such, except they be timely, or united, <ref target="#ch5bibln14"
+                    indifferent<app type="minor" subtype="add"><lem wit="#b1623">: such, except they be timely, or united, <ref target="#ch5bibln14"
                         >v.</ref>
                     <note type="authorial" subtype="bibliographic" xml:id="ch5bibln14">
                         <ref target="#ch5sumn67"> V.n. 67.</ref>&amp;<ref target="#ch5sumn68"
                             >68.</ref>
-                    </note> can hardly live till the next Summer. </p>
+                    </note></lem><rdg wit="#b1609"></rdg></app> <app type="vocabulary" subtype="del"><lem wit="#b1623"></lem><rdg wit="#b1609"><ptr target="1609.xml#ch5ancs17 1609.xml#ch5ance17"/></rdg></app>can hardly live till the next Summer.<app type="minor" subtype="del"><lem wit="#b1623"></lem><rdg wit="#b1609"><ptr target="1609.xml#ch5ancs18 1609.xml#ch5ance18"/></rdg></app> </p>
                 <p xml:id="ch5par14"><note type="authorial" subtype="summary" xml:id="ch5sumn16">16.
                         The vulgar Bees appoint the rising of the fore-Swarmes, &amp; that upon 4.
                         grounds.</note> The choice of the time when the first colonies, or
@@ -5514,8 +5514,8 @@
                         <term>Orythia</term>. Without likewise they will see, first that the flowers
                     be in state presentlie to furnish them with store of wax and hony: then that the
                     weather do please them, as being warme and calme, &amp; moist: unlesse, being
-                    continually unseasonable, they have no choice. <ref target="#ch5glon2"> v. +.in
-                        n.5. </ref></p>
+                    continually unseasonable, they have no choice. <app type="reference" subtype="add"><lem wit="#b1623"><ref target="#ch5glon2"> v. +.in
+                        n.5. </ref></lem><rdg wit="#b1609"></rdg></app></p>
                 <p xml:id="ch5par15"><note type="authorial" subtype="summary" xml:id="ch5sumn17">17.
                         Five signes of the first swarming.</note> When the Hives begin to be full,
                     they will dronie, or yeeld forth fledge-drones: <ref target="#ch5bibln16"
