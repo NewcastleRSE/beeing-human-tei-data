@@ -5744,12 +5744,12 @@
                     <note type="authorial" subtype="bibliographic" xml:id="ch5bibln25">
                         <ref target="#ch5sumn36">V.n.36</ref>
                     </note></lem><rdg wit="#b1609"><ptr target="1609.xml#ch5ancs52 1609.xml#ch5ance52"/></rdg></app> <app type="minor" subtype="add"><lem wit="#b1623">you may assuredly</lem><rdg wit="#b1609"></rdg></app><app type="vocabulary" subtype="del"><lem wit="#b1623"></lem><rdg wit="#b1609"><ptr target="1609.xmlch5ancs53 1609.xml#ch5ance53"/></rdg></app> looke for a swarme. Which seldome ariseth the next
-                    day, although the weather be verie pleasant; or the next day, unlesse the
-                    weather bee verie pleasant: but after the third nights warning, they will accept
-                    indifferent weather, such as the prime swarmes will not come abroad in. And as
+                    day, <app type="vocabulary" subtype="change"><lem wit="#b1623">although</lem><rdg wit="#b1609"><ptr target="1609.xml#ch5ancs54 1609.xml#ch5ance54"/></rdg></app> the weather be verie pleasant<app type="minor" subtype="add"><lem wit="#b1623">; or the next day, unlesse the
+                        weather bee verie pleasant</lem><rdg wit="#b1609"></rdg></app>: <app type="minor" subtype="change"><lem wit="#b1623">but after the third nights warning,</lem><rdg wit="#b1609"><ptr target="1609.xml#ch5ancs55 1609.xml#ch5ance55"/></rdg></app> they will accept
+                    indifferent weather,<app type="minor" subtype="add"><lem wit="#b1623"> such as the prime swarmes will not come abroad in. And as
                     the Queenes voice is a grant, so hir silence is a flat deniall: the Proverbe
                     heere hath no place, <foreign xml:lang="la">Qui tacet consentire
-                        videtur:</foreign> For without this Concent there is no Consent. </p>
+                        videtur:</foreign> For without this Concent there is no Consent.</lem><rdg wit="#b1609"></rdg></app><app type="minor" subtype="del"><lem wit="#b1623"></lem><rdg wit="#b1609"><ptr target="1609.xml#ch5ancs56 1609.xml#ch5ance56"/></rdg></app> </p>
                 <p xml:id="ch5par33"><note type="authorial" subtype="summary" xml:id="ch5sumn29">29.
                         The Princes part.</note> This song being contained within the compasse of an
                         <term>Eight</term> from <term> C-sol-fa-ut</term> to <term>C-sol-fa</term>,
