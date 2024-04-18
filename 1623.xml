@@ -5907,7 +5907,7 @@
                         <ref target="#ch5sumn34">V.n.34</ref>
                     </note></lem><rdg wit="#b1609"></rdg></app>it is a common <app type="vocabulary" subtype="change"><lem wit="#b1623">use,</lem><rdg wit="#b1609"><ptr target="1609.xml#ch5ancs64 1609.xml#ch5ance64"/></rdg></app> <app type="minor" subtype="add"><lem wit="#b1623">for want of other Musicke,</lem><rdg wit="#b1609"></rdg></app> <app type="minor" subtype="change"><lem wit="#b1623">to play them a fit of
                         mirth</lem><rdg wit="#b1609"><ptr target="1609.xml#ch5ancs65 1609.xml#ch5ance65"/></rdg></app> with a Pan, Kettle, Bason, <app type="vocabulary" subtype="add"><lem wit="#b1623">Candlesticke,</lem><rdg wit="#b1609"></rdg></app> or other like <app type="vocabulary" subtype="change"><lem wit="#b1623">Instrument</lem><rdg wit="#b1609"><ptr target="1609.xml#ch5ancs66 1609.xml#ch5ance66"/></rdg></app>, <app type="vocabulary" subtype="change"><lem wit="#b1623">so</lem><rdg wit="#b1609"><ptr target="1609.xml#ch5ancs67 1609.xml#ch5ance67"/></rdg></app> to
-                    stay them, <app type="vocabulary" subtype="add"><lem wit="#b1623">forsooth,</lem><rdg wit="#b1609"></rdg></app> from flying away. Indeed where other Bee-folds are not
+                    stay them, <app type="vocabulary" subtype="add"><lem wit="#b1623">forsooth,</lem><rdg wit="#b1609"></rdg></app> from flying away. <app type="major" subtype="add"><lem wit="#b1623">Indeed where other Bee-folds are not
                     farre off, this use hath a good use: for thereby the place and time of their
                     rising is publikely notified, and so a just and open claime laid unto the
                     Swarme, that otherwise some false neighbour might challenge for his: which
@@ -5921,9 +5921,9 @@
                         </lg>
                         <note type="authorial" subtype="bibliographic" xml:id="ch5bibln31">
                             <bibl>De 6.consolatu.Honorii.</bibl>
-                        </note></quote>
+                        </note></quote></lem><rdg wit="#b1609"></rdg></app>
                 </p>
-                <p xml:id="ch5par48">And before him <persName>Virgil,</persName>
+                <p xml:id="ch5par48"><app type="major" subtype="add"><lem wit="#b1623">And before him <persName>Virgil,</persName>
                     <quote>
                         <lg xml:lang="la">
                             <l> Hinc ubi jam emissum cave is ad sidera cœti </l>
@@ -5934,33 +5934,33 @@
                         </lg>
                         <note type="authorial" subtype="bibliographic" xml:id="ch5bibln32">
                             <bibl>Georg.4.</bibl>
-                        </note></quote>
+                        </note></quote></lem><rdg wit="#b1609"></rdg></app>
                 </p>
-                <p xml:id="ch5par49">And before him old <bibl xml:id="ch5bibln32X1"
-                            ><persName>Aristotle</persName></bibl>, <quote><bibl><ptr
+                <p xml:id="ch5par49"><app type="minor" subtype="change"><lem wit="#b1623">And before him old <bibl xml:id="ch5bibln32X1"
+                    ><persName>Aristotle</persName></bibl>,</lem><rdg wit="#b1609"><ptr target="1609.xml#ch5ancs68 1609.xml#ch5ance68"/></rdg></app> <quote><bibl><ptr
                                 target="#ch5bibln32X1"/></bibl>
                         <foreign xml:lang="la">Gaudere etiam plausu, &amp; sonitu apes videntur.
                             Quapropter tinnitu æris aut Fictilis convocari eas in alveum aiunt.
                         </foreign>
-                    </quote>
+                    </quote><app type="minor" subtype="del"><lem wit="#b1623"></lem><rdg wit="#b1609"><ptr target="1609.xml#ch5ancs69 1609.xml#ch5ance69"/></rdg></app>
                 </p>
                 <p xml:id="ch5par50"><note type="authorial" subtype="summary" xml:id="ch5sumn38">38.
                         What to doe if a swarme be way-ward.</note> If you see them begin to flie
                     aloft (which is a token they would be gone) cast dust among them to make them
-                    come downe. If they be not stayed, but, hasting on still, goe beyond your
-                    bounds; the ancient Law of Christendome <fw type="catch">permitteth</fw>
+                    come downe. <app type="major" subtype="add"><lem wit="#b1623">If they be not stayed, but, hasting on still, goe beyond your
+                        bounds; the ancient Law of Christendome <fw type="catch">permitteth</fw>
                     <pb n="L3v"/>
                     <fw type="header"> Of the Swarming of Bees, </fw> permitteth you to pursue them
-                    withersoever, for the recoverie of your owne.</p>
-                <note type="authorial" subtype="gloss" place="inline" xml:id="ch5glon8">
+                            withersoever, for the recoverie of your owne.</lem><rdg wit="#b1609"></rdg></app></p>
+                <app type="major" subtype="add"><lem wit="#b1623"><note type="authorial" subtype="gloss" place="inline" xml:id="ch5glon8">
                     <foreign xml:lang="la">Fugientes persequi possum in fundum alienum alienum vel
                         invite Domino at vetante <hi rend="opposite">Lege Thesaurus § ad
                             exhibendum</hi>. Quia ius cuique acquisitum ei conservari debet. <hi
                             rend="opposite">Lege Patre. § de ijs qui sunt.</hi> Secus si apes feras
                         novè in alievo prædio captarem. <hi rend="opposite">§ Apium, in fine de
                             rerum divisione.</hi></foreign>
-                </note>
-                <p xml:id="ch5par51">But sometime they flye so fast and so farre before they pitch,
+                </note></lem><rdg wit="#b1609"></rdg></app>
+                <p xml:id="ch5par51"> <app type="minor" subtype="change"><lem wit="#b1623">But sometime they flye so fast and so farre before they pitch,</lem><rdg wit="#b1609"><ptr target="1609.xml#ch5ancs70 1609.xml#ch5ance70"/></rdg></app>
                     that though you follow them never so fast, you must be content to leave them,
                     happily to the happy finder. For when you have lost the sight and hearing of
                     them, you have lost al right and propertie in them. </p>
@@ -5978,7 +5978,7 @@
                     thither. <note type="authorial" subtype="summary" xml:id="ch5sumn40"> 40. And
                         then they fly away directly to the place.</note> Unto which place they will
                     flie, not, as at other times, uncertainely this way and that way: but as
-                    directly as they can guesse. </p>
+                    directly as they can guesse. <app type="minor" subtype="del"><lem wit="#b1623"></lem><rdg wit="#b1609"><ptr target="1609.xml#ch5ancs71 1609.xml#ch5ance71"/></rdg></app></p>
                 <p xml:id="ch5par53">A poore Woman having taken a poore swarme to keepe for halfe,
                     by New-yeares-tide lost hir owne part and hir Partners: and being carelesse of
                     the Hive when the Bees were dead, she let it stand abroad till she had forgotten
