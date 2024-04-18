@@ -5790,16 +5790,16 @@
                     the Queene granteth unasked, beginning first hir selfe; so sometime by hir
                     silence she denieth, though mournfully intreated: and then the swarme tarieth,
                     and the poore Ladie must die. </lem><rdg wit="#b1609"><ptr target="1609.xml#ch5ancs59 1609.xml#ch5ance59"/></rdg></app></p>
-                <p xml:id="ch5par36"><app type="major" subtype="add"><lem wit="#b1623">With these various and harmonious notes, answering one an
+                <p xml:id="ch5par36">With these <app type="vocabulary" subtype="change"><lem wit="#b1623">various and harmonious notes,</lem><rdg wit="#b1609"><ptr target="1609.xml#ch5ancs60 1609.xml#ch5ance60"/></rdg></app> answering one an
                     other, and some pawses betweene, they goe solemnly round about the Hive, so to
                     give warning unto all the company. This they continue daily untill their
-                    swarming: but you may heare them best evenings and mornings. </lem><rdg wit="#b1609"></rdg></app>Which Musicke as it
+                    swarming: but you may heare them best evenings and mornings.<app type="major" subtype="del"><lem wit="#b1623"></lem><rdg wit="#b1609"><ptr target="1609.xml#ch5ancs61 1609.xml#ch5ance61"/></rdg></app> <app type="major" subtype="add"><lem wit="#b1623">Which Musicke as it
                     cannot please and delight them that listen to it; so must it be most sweet and
                     pleasant to the young Prince hir selfe, unto whom therby is proclaimed a
                     Warrant, not onely of hir life, but of a Kingdome also: both which otherwise she
-                    were sure to lose.</p>
+                    were sure to lose.</lem><rdg wit="#b1609"></rdg></app></p>
                 <p xml:id="ch5par37"><note type="authorial" subtype="summary" xml:id="ch5sumn32">32.
-                        In the Bees song are the grounds of Musicke.</note> In this <term>
+                        In the Bees song are the grounds of Musicke.</note> <app type="major" subtype="add"><lem wit="#b1623">In this <term>
                         Melissomelos,</term> or Bees Madrigall, Musicians may see the grounds of
                     their Art: first their <term>Moodes</term>, sometime the <term>triple</term> or
                         <term> imperfect</term> of the more, sometimes the <term>duple</term> or
@@ -5821,8 +5821,8 @@
                         <bibl>*Var.l.3.c.15</bibl>
                     </note><note type="authorial" subtype="bibliographic" xml:id="ch5bibln28"
                             >V.<note type="editorial" subtype="certainty" cert="check"
-                            xml:id="check7"><ref target="#frontpar8"/>V. Præfat.</note></note></p>
-                <p xml:id="ch5par38">The severall parts of whole Song comprizing these mentioned
+                                xml:id="check7"><ref target="#frontpar8"/>V. Præfat.</note></note></lem><rdg wit="#b1609"></rdg></app></p>
+                <p xml:id="ch5par38"><app type="major" subtype="add"><lem wit="#b1623">The severall parts of whole Song comprizing these mentioned
                     notes, with pauses interposed (as I have at severall times by a
                     Winde-instrument, whose notes can neither rise nor fall, attentively observed) I
                     thought good heere to prick downe, that you may see them in all these
@@ -5830,7 +5830,7 @@
                     Conclusion: because in that confused noise, which the buzzing Bees in the busie
                     time of their departing doe make, my dull hearing could not perfectly apprehend
                     it: so that I was faine to make up that, as I could. But I am sure, if I misse,
-                    I misse but a little. </p>
+                    I misse but a little. </lem><rdg wit="#b1609"></rdg></app></p>
                 <pb n="K4v"/>
                 <!--
                 <hi rend="drop-capital">MUSIC PAGES</hi> -->
@@ -5847,7 +5847,7 @@
                 <fw type="header"> Of the Swarming of Bees, </fw>
                 <p xml:id="ch5par39"><note type="authorial" subtype="summary" xml:id="ch5sumn33">33.
                         Before swarming the voices come downe to the stoole.</note> In the morning
-                    before the swarme come abroad, these Ladies come downe neerer the stoole: and
+                    before the swarme come abroad, these <app type="vocabulary" subtype="change"><lem wit="#b1623">Ladies</lem><rdg wit="#b1609"><ptr target="1609.xml#ch5ancs62 1609.xml#ch5ance62"/></rdg></app> come downe neerer the stoole: and
                     there they hold on their melodie somewhat longer, singing sometimes above
                     twentie notes together, and with shorter pauses.</p>
                 <p xml:id="ch5par40"><note type="authorial" subtype="summary" xml:id="ch5sumn34">34.
@@ -5857,17 +5857,17 @@
                     for haste, and buzzing with their winges in great jolitie.</p>
                 <p xml:id="ch5par41">As soone as those gallant Nymphs are aloft, they doe most
                     nimbly bestirre themselves, sporting and playing in and out as if they were
-                    dancing the Hey; in this manner waiting for the comming of their Prince. Now
+                    dancing the <app type="ortographic" subtype="change"><lem wit="#b1623">Hey</lem><rdg wit="#b1609"><ptr target="1609.xml#ch5ancs63 1609.xml#ch5ance63"/></rdg></app>; in this manner waiting for the comming of their Prince. Now
                     when some two third parts or three fourth parts of the swarme is passed, the
-                    Musick ceaseth, and <ref target="#ch5glon6">*</ref>then commeth forth this
+                    Musick ceaseth, and <ref target="#ch5glon6"><app type="reference" subtype="add"><lem wit="#b1623">*</lem><rdg wit="#b1609"></rdg></app></ref>then commeth forth this
                     stately Dame <persName> Orythia</persName>: who walking a turne or two before
                     the doore (of purpose, you would thinke, to be seene) she takes hir leave,
                     leaving but a small traine to follow her: which high them after as fast as they
                     can. </p>
-                <note type="authorial" subtype="gloss" place="inline" xml:id="ch5glon6">*Sometime
+                <note type="authorial" subtype="gloss" place="inline" xml:id="ch5glon6"><app type="minor" subtype="add"><lem wit="#b1623">*Sometime
                     when ill weather hath kept in the swarme over long, shee will come forth before
                     them, as it were checking their slacknesse and timiditie: but then returning in,
-                    she commeth forth afterward in hir due place.</note>
+                    she commeth forth afterward in hir due place.</lem><rdg wit="#b1609"></rdg></app></note>
                 <p xml:id="ch5par42">This decent order the great Lords of the earth seeme to have
                     learned of this little Ladie: who in their Country progresses, goings to
                     Parliament, and other solemne processions, doe send the greatest and fairest
@@ -5881,11 +5881,11 @@
                 <p xml:id="ch5par44">But all within a fortnight after the prime swarme.</p>
                 <note type="authorial" subtype="gloss" place="inline" xml:id="ch5glon7"><note
                         type="authorial" subtype="summary" xml:id="ch5sumn36">36. All the swarmes of
-                        one hive come within a fortnight.</note> Except in some extraordinarie
+                        one hive come within a fortnight.</note> <app type="minor" subtype="add"><lem wit="#b1623">Except in some extraordinarie
                     plentifull yeares both for Breed and Honie. Such was 1616. wherein not onely
                     many swarmes did swarme as old stockes; but also old stockes having betimes
                     swarmed twice, about six weekes after began to swarme a fresh, as in an other
-                    yeare: and so had, in effect, two Summers in one. </note>
+                    yeare: and so had, in effect, two Summers in one.</lem><rdg wit="#b1609"></rdg></app> </note>
                 <fw type="catch"> After</fw>
                 <pb n="L3r"/>
                 <fw type="header"> and the Hiving of them. </fw>
@@ -5896,18 +5896,18 @@
                     <note type="authorial" subtype="bibliographic" xml:id="ch5bibln29">
                         <ref target="#ch1sumn7">V.c.1. n. 7.</ref>
                     </note></p>
-                <p xml:id="ch5par46">Sometime though the Queene give consent to a third or fourth,
+                <p xml:id="ch5par46"><app type="minor" subtype="add"><lem wit="#b1623">Sometime though the Queene give consent to a third or fourth,
                     the Bees seeing the stock little enough to live, shew themselves loth to goe:
-                    and then also there is no way with her, but one. </p>
+                    and then also there is no way with her, but one.</lem><rdg wit="#b1609"></rdg></app> </p>
                 <p xml:id="ch5par47">
                     <note type="authorial" subtype="summary" xml:id="ch5sumn37">37. What use there
-                        is of tinging the swarme.</note> When the swarme is up, and busie in their
-                    dance, <ref target="#ch5bibln30">v:</ref>
+                        is of tinging the swarme.</note> When the swarme is up, <app type="minor" subtype="add"><lem wit="#b1623">and busie in their
+                            dance, <ref target="#ch5bibln30">v:</ref>
                     <note type="authorial" subtype="bibliographic" xml:id="ch5bibln30">
                         <ref target="#ch5sumn34">V.n.34</ref>
-                    </note>it is a common use, for want of other Musicke, to play them a fit of
-                    mirth with a Pan, Kettle, Bason, Candlesticke, or other like Instrument, so to
-                    stay them, forsooth, from flying away. Indeed where other Bee-folds are not
+                    </note></lem><rdg wit="#b1609"></rdg></app>it is a common <app type="vocabulary" subtype="change"><lem wit="#b1623">use,</lem><rdg wit="#b1609"><ptr target="1609.xml#ch5ancs64 1609.xml#ch5ance64"/></rdg></app> <app type="minor" subtype="add"><lem wit="#b1623">for want of other Musicke,</lem><rdg wit="#b1609"></rdg></app> <app type="minor" subtype="change"><lem wit="#b1623">to play them a fit of
+                        mirth</lem><rdg wit="#b1609"><ptr target="1609.xml#ch5ancs65 1609.xml#ch5ance65"/></rdg></app> with a Pan, Kettle, Bason, <app type="vocabulary" subtype="add"><lem wit="#b1623">Candlesticke,</lem><rdg wit="#b1609"></rdg></app> or other like <app type="vocabulary" subtype="change"><lem wit="#b1623">Instrument</lem><rdg wit="#b1609"><ptr target="1609.xml#ch5ancs66 1609.xml#ch5ance66"/></rdg></app>, <app type="vocabulary" subtype="change"><lem wit="#b1623">so</lem><rdg wit="#b1609"><ptr target="1609.xml#ch5ancs67 1609.xml#ch5ance67"/></rdg></app> to
+                    stay them, <app type="vocabulary" subtype="add"><lem wit="#b1623">forsooth,</lem><rdg wit="#b1609"></rdg></app> from flying away. Indeed where other Bee-folds are not
                     farre off, this use hath a good use: for thereby the place and time of their
                     rising is publikely notified, and so a just and open claime laid unto the
                     Swarme, that otherwise some false neighbour might challenge for his: which
