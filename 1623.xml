@@ -134,6 +134,15 @@
             </listChange>
         </revisionDesc>
     </teiHeader>
+    <standOff>
+        <listTranspose wit="#b1609">
+            <transpose>
+                <ptr target="#ch5par78"></ptr>
+                <ptr target="#ch5par79"></ptr>
+                <ptr target="#ch5par77"></ptr>
+            </transpose>
+        </listTranspose>
+    </standOff>
     <text>
         <front>
             <!-- FRONTISPIECE NEEDS TO BE ENCODED -->
@@ -6209,9 +6218,9 @@
                     is to be hived by 1.shaking, or 2.cutting the bough whereon it hangeth, or by
                     3.wiping the Bees down, or 4.driving them up into the Hive. </lem><rdg wit="#b1609"></rdg></app></p>
                 <p xml:id="ch5par76"><note type="authorial" subtype="summary" xml:id="ch5sumn55">55.
-                        How to Hive a Swarme that lighteth upon a bough.</note> <app type="minor" subtype="change"><lem wit="#b1623">If your swarme
+                        How to Hive a Swarme that lighteth upon a bough.</note> If your swarme
                     lighteth upon a bough; first spread the Mantle under it, and lay the Rest or
-                    Rests in the middle thereof, with the ends toward two corners of the Mantle.</lem><rdg wit="#b1609"><ptr target="1609.xml#ch5ancs87 1609.xml#ch5ance87"/></rdg></app> </p>
+                    Rests in the middle thereof, with the ends toward two corners of the Mantle. </p>
                 <p xml:id="ch5par77"><note type="authorial" subtype="summary" xml:id="ch5sumn56">56.
                         Either high.</note>Then if the swarme be so high, that you or some assistant
                     may conveniently put the Hive under it; having first removed the twigs round
