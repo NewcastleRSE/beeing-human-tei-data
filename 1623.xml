@@ -6670,13 +6670,13 @@
             <fw type="ornament"/>
             <div type="chapter" n="6" xml:id="ch6">
                 <head type="chapter-number">CHAP. VI</head>
-                <head type="chapter-title">Of the Bees Worke.</head>
+                <head type="chapter-title">Of the Bees Worke<app type="minor" subtype="del"><lem wit="#b1623"></lem><rdg wit="#b1609"><ptr target="1609.xml#ch6ancs1 1609.xml#ch6ance1"/></rdg></app>.</head>
                 <p xml:id="ch6par1">
                     <note type="authorial" subtype="summary" xml:id="ch6sumn1">1 Bees most
                         industrious creatures.</note>
                     <hi rend="drop-capital"> U</hi>Nto the industrious nature of Bees nothing is
                     more odious then sloth and idleness: while there is matter to worke upon
-                    (unlesse they be let by unkinde weather) their worke never ceaseth: yea the old
+                    (unlesse they be let by unkinde weather) their <app type="vocabulary" subtype="change"><lem wit="#b1623">worke</lem><rdg wit="#b1609"><ptr target="1609.xml#ch6ancs2 1609.xml#ch6ance2"/></rdg></app> never ceaseth: yea the old
                     Bees, which have spent their daies in continuall labour, will not at the last
                     allow themselves any immunitie or rest in their Hives, as a recompence <fw
                         type="catch"> for</fw>

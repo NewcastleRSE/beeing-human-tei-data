@@ -4492,7 +4492,7 @@
             <div type="chapter" n="6" xml:id="ch6">
 
                 <head type="chapter-title">
-                    <hi> Of the Bees worke, and labour.</hi>
+                    <hi> Of the Bees worke<anchor xml:id="ch6ancs1"/>, and labour<anchor xml:id="ch6ance1"/>.</hi>
                 </head>
 
                 <head type="chapter-number">CHAP. 6</head>
@@ -4501,7 +4501,7 @@
                     </note>
                     <hi rend="drop-capital">U</hi>Nto the industrious nature of Bees nothing is more
                     odious then sloth and idleness: while there is matter to worke upon, unles they
-                    be let by unkinde weather, their labour never ceaseth: yea the old Bees, which
+                    be let by unkinde weather, their <anchor xml:id="ch6ancs2"/>labour<anchor xml:id="ch6ance2"/> never ceaseth: yea the old Bees, which
                     have spent their daies in continual labour, wil not at the last alow themselves
                     any immunity or rest in their hives, as a recompence for their paines past, but
                     continue stil their travaile unto death, <hi>v.</hi>
