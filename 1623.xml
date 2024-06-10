@@ -6693,7 +6693,7 @@
                     not: (yet when a faire day or houre commeth<app type="minor" subtype="add"><lem wit="#b1623">, as wearie of rest,</lem><rdg wit="#b1609"></rdg></app> they <app type="vocabulary" subtype="change"><lem wit="#b1623">will</lem><rdg wit="#b1609"><ptr target="1609.xml#ch6ancs3 1609.xml#ch6ance3"/></rdg></app>
                     abroad, <app type="minor" subtype="change"><lem wit="#b1623">imploying themselves in divers necessarie offices: <ref
                         target="#ch6bibln2">v.</ref>) <note type="authorial" subtype="bibliographic"
-                        xml:id="ch6bibln2">
+                        xml:id="ch6bibln2"> 
                         <ref target="#ch3sumn60">v.c.3.n60</ref><ref target="#ch3sumn61">61.</ref>
                         </note></lem><rdg wit="#b1609"><ptr target="1609.xml#ch6ancs4 1609.xml#ch6ance4"/></rdg></app> but so long as any good flowers grow, even from <term>Pisces</term> or a
                     litle before unto <term> Sagittarius</term> and, some yeares, somewhat after,
@@ -6703,15 +6703,15 @@
                             <bibl>Nat.hist.l.11.cap.6.</bibl>
                         </note></quote> ) <note type="authorial" subtype="summary" xml:id="ch6sumn3"
                         > 3. All the yeare after they lose no time.</note> but follow their
-                    businesse tooth and naile. <note type="authorial" subtype="summary"
-                        xml:id="ch6sumn4">4. Three fruits of Bees labour.</note> Which incessant
+                    <app type="vocabulary" subtype="change"><lem wit="#b1623">businesse</lem><rdg wit="#b1609"><ptr target="1609.xml#ch6ancs5 1609.xml#ch6ance5"/></rdg></app> tooth and naile. <note type="authorial" subtype="summary"
+                        xml:id="ch6sumn4">4. Three fruits of Bees labour.</note> <app type="major" subtype="add"><lem wit="#b1623">Which incessant
                     labour while the time permitteth, with the three singular effects thereof, the
                     (1) working of Wax, the (2) making of Honie, and the (3) feeding of their young
                         <ref target="#ch6bibln4"> v:</ref>
                     <note type="authorial" subtype="bibliographic" xml:id="ch6bibln4">
                         <ref target="#ch6sumn53"> V.n.53. </ref>
-                    </note> the Poet in few words hath elegantly expressed all together. </p>
-                <quote>
+                    </note> the Poet in few words hath elegantly expressed all together. </lem><rdg wit="#b1609"></rdg></app></p>
+                <app type="major" subtype="change"><lem wit="#b1623"><quote>
                     <lg xml:lang="la">
                         <l>Quod superest, ubi pulsam hyemem sol aureus egit</l>
                         <l>Sub terras, cœlumque, œstiva luce reclusit;</l>
@@ -6725,7 +6725,7 @@
                     </lg>
                     <note type="authorial" subtype="bibliographic" xml:id="ch6bibln5">
                         <bibl>Virg.</bibl>
-                    </note></quote>
+                    </note></quote></lem><rdg wit="#b1609"><ptr target="1609.xml#ch6ancs6 1609.xml#ch6ance6"/></rdg></app>
                 <p xml:id="ch6par3"><note type="authorial" subtype="summary" xml:id="ch6sumn5">5.The
                         first, and ground of all, is Wax.</note>
                     <hi rend="drop-capital">T</hi>heir first worke is the ground of the other two,
