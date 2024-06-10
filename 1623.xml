@@ -6727,10 +6727,10 @@
                         <bibl>Virg.</bibl>
                     </note></quote></lem><rdg wit="#b1609"><ptr target="1609.xml#ch6ancs6 1609.xml#ch6ance6"/></rdg></app>
                 <p xml:id="ch6par3"><note type="authorial" subtype="summary" xml:id="ch6sumn5">5.The
-                        first, and ground of all, is Wax.</note>
-                    <hi rend="drop-capital">T</hi>heir first worke is the ground of the other two,
+                        first, and ground of all, is Wax.</note><app type="minor" subtype="del"><lem wit="#b1623"></lem><rdg wit="#b1609"><ptr target="1609.xml#ch6ancs7 1609.xml#ch6ance7"/></rdg></app>
+                    <app type="minor" subtype="add"><lem wit="#b1623"><hi rend="drop-capital">T</hi>heir first worke is the ground of the other two,
                     the Artificiall Cells serving both for Coffers to lay their sweet measure in,
-                    and for neasts and nurseries to breed their young in. <note type="authorial"
+                    and for neasts and nurseries to breed their young in.</lem><rdg wit="#b1609"></rdg></app> <note type="authorial"
                         subtype="summary" xml:id="ch6sumn6">6. How Wax is gathered and
                         wrought.</note>The matter thereof they gather from flowers with their Fangs:
                     which, being kept soft with the heat of their little bodies, of the Aire, and of
