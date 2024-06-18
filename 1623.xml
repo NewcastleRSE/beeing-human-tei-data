@@ -6786,7 +6786,7 @@
                     of that doubt. </p>
                 <p xml:id="ch6par5"><note type="authorial" subtype="summary" xml:id="ch6sumn9">9.
                         The admirable Architecture of their combs and cells.</note> The Bees combes
-                    are placed otherwise then the Waspes: for the Waspes hang theirs one under
+                    are placed otherwise then the Waspes: for the Waspes hang theirs one <app type="vocabulary" subtype="change"><lem wit="#b1623">under</lem><rdg wit="#b1609"><ptr target="1609.xml#ch6ancs10 1609.xml#ch6ance10"/></rdg></app>
                     another, and the Bees theirs one <app type="vocabulary" subtype="change"><lem wit="#b1623">beside</lem><rdg wit="#b1609"><ptr target="1609.xml#ch6ancs9 1609.xml#ch6ance9"/></rdg></app> another; beginning them in the top of
                     the hive, at that distance that a Bee may reach from one to another. </p>
                 <p xml:id="ch6par6">Their cells or little holes are made six square, according to
@@ -6807,7 +6807,8 @@
                             ac tenues inter domorum septa ceras suspendere, stipare mella, intexta
                             floribus horrea nectare quodam distendere?</foreign>
                     </quote></p>
-                <p xml:id="ch6par7">But heerein their Art is yet more exquisite, that whereas there
+                <p xml:id="ch6par7"><app type="minor" subtype="del"><lem wit="#b1623"></lem><rdg wit="#b1609"><ptr target="1609.xml#ch6ancs11 1609.xml#ch6ance11"/></rdg></app>
+                    <app type="major" subtype="add"><lem wit="#b1623">But heerein their Art is yet more exquisite, that whereas there
                     are two courses of cells in the two sides of every comb, the cel-bottoms in
                     these two sides are never opposite one to an other: but each hexagonial bottom
                     of one side answereth to three third parts of the hexagonial bases of three
@@ -6817,7 +6818,7 @@
                         <figDesc>DIAGRAM</figDesc>
                     </figure> which is so articiall, as well for strength as beauty; that no
                     schadon, though the thin bottome of his cell should faile, can breake through
-                    into a cell of the other side. Hee that sees this, sees not a wonder? </p>
+                    into a cell of the other side. Hee that sees this, sees not a wonder? </lem><rdg wit="#b1609"></rdg></app></p>
                 <p xml:id="ch6par8"><note type="authorial" subtype="summary" xml:id="ch6sumn10">10.
                         The Drone-combe.</note> Besides these ordinary combes, there is commonly one
                     Drone-comb in a hive, wherein the Cephens are bred, made for the nonce with
