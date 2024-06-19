@@ -6835,9 +6835,9 @@
                     like an old wives thrumbd cap: which afterward, when the Drones are bred, they
                     take away. And when those cells are void of Cephens, they fill them as they doe
                     the other with hony: yea and after swarming-time, if they want upper cells for
-                    their hony, they wil not tarry til their Cephens come forth themselves, but
+                    their hony, they wil not tarry til <app type="vocabulary" subtype="change"><lem wit="#b1623">their Cephens</lem><rdg wit="#b1609"><ptr target="1609.xml#ch6ancs12 1609.xml#ch6ance12"/></rdg></app> come forth themselves, but
                     liking better their roome then their company, they draw them out of their
-                    seminaries before they be ripe. <ref target="#ch4sumn31"> v.c.4.n.31.</ref>
+                    seminaries before they be ripe. <app type="reference" subtype="add"><lem wit="#b1623"><ref target="#ch4sumn31"> v.c.4.n.31.</ref></lem><rdg wit="#b1609"></rdg></app>
                 </p>
                 <p xml:id="ch6par9"><note type="authorial" subtype="summary" xml:id="ch6sumn11">11.
                         The Queenes cels are built single in divers places.</note> But the Queenes
@@ -6867,16 +6867,16 @@
                     </quote>
                     <note type="authorial" subtype="summary" xml:id="ch6sumn13">13. The common error
                         anent these celles.</note> The common people, finding them alwaies in those
-                    stalls that die, take them for certaine signes of death, and call them pipes, or
+                    stalls that die, take them for certaine signes of death, and call them pipes<app type="vocabulary" subtype="del"><lem wit="#b1623"></lem><rdg wit="#b1609"><ptr target="1609.xml#ch6ancs13 1609.xml#ch6ance13"/></rdg></app>, or
                     taps: and therefore when they see them in a stal that they take, they say, This
                     was taken in good time, for it is piped: and therefore would have stood no
                     longer. But seeing none are without, no not the yongest swarms; ordinary reason
                     might teach them to forgoe that fond conceipt. </p>
                 <p xml:id="ch6par10"><note type="authorial" subtype="summary" xml:id="ch6sumn14">14.
-                        The combes doe often change their hue.</note> The Combes have successively
-                    sundry colours: white, yellow, browne, blacke. <note type="authorial"
-                        subtype="summary" xml:id="ch6sumnX1">Virgin wax and ordinary.</note> Their
-                    first colour white, by the end of the Summer is turned to a light yellow. Those
+                        The combes doe often change their hue.</note> <app type="minor" subtype="add"><lem wit="#b1623">The Combes have successively
+                            sundry colours: white, yellow, browne, blacke.</lem><rdg wit="#b1609"></rdg></app> <app type="minor" subtype="add"><lem wit="#b1623"><note type="authorial"
+                        subtype="summary" xml:id="ch6sumnX1">Virgin wax and ordinary.</note></lem><rdg wit="#b1609"></rdg></app> <app type="minor" subtype="change"><lem wit="#b1623">Their
+                            first colour white,</lem><rdg wit="#b1609"><ptr target="1609.xml#ch6ancs14 1609.xml#ch6ance14"/></rdg></app><app type="minor" subtype="del"><lem wit="#b1623"></lem><rdg wit="#b1609"><ptr target="1609.xml#ch6ancs14 1609.xml#ch6ance14"/></rdg></app> <app type="minor" subtype="change"><lem wit="#b1623">by the end of the Summer is turned to a light yellow.</lem><rdg wit="#b1609"><ptr target="1609.xml#ch6ancs15 1609.xml#ch6ance15"/></rdg></app> Those
                     that are taken and tried this first yeere, are called Virgin-wax, but the whiter
                     the purer: and the rest are ordinarie. The second Summer this light yellow is
                     changed to a sad. The third this sad yellow into a browne: which afterward, as
