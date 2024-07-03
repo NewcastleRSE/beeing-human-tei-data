@@ -109,6 +109,23 @@ def append_XML_dec(FILEOUTPUT):
         # write content
         file.write(content)
 
+def append_hi_summary_notes(tree, ns): 
+    sum_notes = tree.findall(".//TEI:note[@subtype='summary']", ns)
+    for el in sum_notes:
+        if el.text:
+            correctEl = el
+        else:
+            # note contains app, need to find the lem
+            correctEl = el.find('.//TEI:lem', ns)
+        # removing any unecessary whitespace characters
+        text = " ".join(correctEl.text.split())
+        text = text.split('. ', 1)
+        if len(text) > 1:
+            print(text)
+            correctEl.text = f'{text[0]}. '
+            italicsEl = ET.SubElement(correctEl, 'seg', {'rend': 'italic'})
+            italicsEl.text = text[1]
+
 def main(preview=False):
     import sys, os
 
@@ -171,6 +188,9 @@ def main(preview=False):
             print(e)
         except KeyError as e:
             print(f'Error: {target} points to elements that do not share a common ancestor')
+    
+    # add hi to all the summary notes in the correct places
+    append_hi_summary_notes(tree, ns)
 
     # removes any old versions of the file, in case no new one has been created during the run
     try:
