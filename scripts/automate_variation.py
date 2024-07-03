@@ -110,6 +110,7 @@ def append_XML_dec(FILEOUTPUT):
         file.write(content)
 
 def append_hi_summary_notes(tree, ns): 
+    # marginal notes
     sum_notes = tree.findall(".//TEI:note[@subtype='summary']", ns)
     for el in sum_notes:
         if el.text:
@@ -121,10 +122,24 @@ def append_hi_summary_notes(tree, ns):
         text = " ".join(correctEl.text.split())
         text = text.split('. ', 1)
         if len(text) > 1:
-            print(text)
             correctEl.text = f'{text[0]}. '
             italicsEl = ET.SubElement(correctEl, 'seg', {'rend': 'italic'})
             italicsEl.text = text[1]
+    # refs
+    refs = tree.findall(".//TEI:ref", ns)
+    for el in refs:
+        text = el.text
+        el.text = ''
+        if text:
+            for char in text:
+                if char.isdigit():
+                    digitEl = ET.SubElement(el, 'seg', {'rend': 'normal'})
+                    digitEl.text = char
+                else:
+                    alphaEl = ET.SubElement(el, 'seg', {'rend': 'italic'})
+                    alphaEl.text = char
+    
+    
 
 def main(preview=False):
     import sys, os
