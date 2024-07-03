@@ -205,6 +205,7 @@ def main(preview=False):
             print(f'Error: {target} points to elements that do not share a common ancestor')
     
     # add hi to all the summary notes in the correct places
+    # need to do error catching for this function
     append_hi_summary_notes(tree, ns)
 
     # removes any old versions of the file, in case no new one has been created during the run
