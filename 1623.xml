@@ -6883,32 +6883,32 @@ c                            first colour white,</lem><rdg wit="#b1609"><ptr tar
                     they wax old and <app type="minor" subtype="del"><lem wit="#b1623"></lem><rdg wit="#b1609"><ptr target="1609.xml#ch6ancs19 1609.xml#ch6ance19"/></rdg></app>corrupt, <app type="vocabulary" subtype=""><lem wit="#b1623">altereth</lem><rdg wit="#b1609"><ptr target="1609.xml#ch6ancs20 1609.xml#ch6ance20"/></rdg></app> againe <app type="vocabulary" subtype="change"><lem wit="#b1623">into</lem><rdg wit="#b1609"><ptr target="1609.xml#ch6ancs21 1609.xml#ch6ance21"/></rdg></app> a blackish and durtie colour: <app type="minor" subtype="add"><lem wit="#b1623">but
                         these being tried will returne to yellow. </lem><rdg wit="#b1609"></rdg></app></p>
                 <p xml:id="ch6par11"><note type="authorial" subtype="summary" xml:id="ch6sumn15">15.
-                        Wax is gathered onely in foure months.</note> The time when Bees gather wax,
+                    Wax is gathered onely in foure months.</note> The time when <app type="vocabulary" subtype="change"><lem wit="#b1623">Bees</lem><rdg wit="#b1609"><ptr target="1609.xml#ch6ancs22 1609.xml#ch6ance22"/></rdg></app> gather wax,
                     is onely betweene <term> Taurus</term> and <term>Virgo</term> (unlesse <term>
-                        Aries</term> be milde and warme:) for then they may begin in that month. </p>
+                        Aries</term> be <app type="minor" subtype="change"><lem wit="#b1623">milde and warme:</lem><rdg wit="#b1609"><ptr target="1609.xml#ch6ancs23 1609.xml#ch6ance23"/></rdg></app>) for then they may begin in that month. </p>
                 <lb/>
                 <p xml:id="ch6par12"><note type="authorial" subtype="summary" xml:id="ch6sumn16">16.
                         Hony the second fruit is gathered in 9. moneths.</note>
                     <hi rend="drop-capital">B</hi>Ut Hony they gather all the yeere: save only in
-                    those 3 <hi rend="italic">still</hi> moneths, when the weather keepeth in both
-                    Bees and flowers, <ref target="#ch6bibln13">v.</ref>
+                    those 3 <hi rend="italic"><app type="vocabulary" subtype="change"><lem wit="#b1623">still</lem><rdg wit="#b1609"><ptr target="1609.xml#ch6ancs24 1609.xml#ch6ance24"/></rdg></app></hi> moneths, when the weather keepeth in both
+                    Bees and flowers, <app type="reference" subtype="add"><lem wit="#b1623"><ref target="#ch6bibln13">v.</ref>
                     <note type="authorial" subtype="bibliographic" xml:id="ch6bibln13">
                         <ref target="#ch3sumn59">V.c. 3. n. 59.</ref>
-                    </note>
+                    </note></lem><rdg wit="#b1609"></rdg></app>
                     <note type="authorial" subtype="summary" xml:id="ch6sumn17">17. Two sorts of
                         Hony.</note> And it is of two sorts: the one pure and liquid, which is
                     called <term>Nectar</term>, the other grosse and solid, which we may by like by
-                    reason tearme<ref target="#ch6glon1">*</ref>
+                    reason tearme<ref target="#ch6glon1"><app type="reference" subtype="add"><lem wit="#b1623">*</lem><rdg wit="#b1609"></rdg></app></ref>
                     <term>Ambrosia.</term> For both serve for the food of these divine
                     creatures.</p>
-                <note type="authorial" subtype="gloss" place="inline" xml:id="ch6glon1">*Yea rather
+                <note type="authorial" subtype="gloss" place="inline" xml:id="ch6glon1"><app type="reference" subtype="add"><lem wit="#b1623">*Yea rather
                     this is the true <term>Nectar</term> &amp; <term>Ambrosia</term> wherwith <term>
                         Jupiter</term> was first nourished in the Ile of Crete, <ref
                         target="#ch4sumn6">v.c. 4.n.6.</ref> while the <term> Curetes</term> hid him
                     from Saturn. Which gave occassion to the Poets of this fiction, that the Bees
-                    were his <fw type="catch"> nurses.</fw>
+                    were his </lem><rdg wit="#b1609"></rdg></app><fw type="catch"> nurses.</fw>
                     <pb n="O2r"/>
-                    <fw type="header"> Of the Bees Worke. </fw> nurses. <quote>
+                    <fw type="header"> Of the Bees Worke. </fw> <app type="reference" subtype="add"><lem wit="#b1623">nurses. <quote>
                         <foreign xml:lang="la">Dicteo cæll regem pavêre sub antro.</foreign>
                         <bibl> Virg.Geor.4.</bibl>
                     </quote> And afterward, when they would make him immortal; because of the
@@ -6917,7 +6917,7 @@ c                            first colour white,</lem><rdg wit="#b1609"><ptr tar
                         <foreign xml:lang="la">Jupiter Ambrosia satur est &amp; nectare
                             vivit.</foreign>
                         <bibl> Mart.l. 11.Ep.58.</bibl>
-                    </quote>
+                        </quote></lem><rdg wit="#b1609"></rdg></app>
                 </note>
                 <p xml:id="ch6par13"><note type="authorial" subtype="summary" xml:id="ch6sumn18">18.
                         How Ambrosia or grosse hony is gathered.</note> The grosse hony is gathered
