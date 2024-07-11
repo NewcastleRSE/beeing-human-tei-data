@@ -6992,8 +6992,8 @@ c                            first colour white,</lem><rdg wit="#b1609"><ptr tar
                     the weather serve them, will have halfe filled their hives with combes: and yet
                     in all this space shall you scarce see one carry any of this. If you would know
                     the reason why the stocks gather so much, and the new swarmes so little; it is
-                    because the stockes have <term>schadons</term> which they feed with it, and the
-                    new swarmes have none. And if any foolish Bee do carry in <term>Ambrosia,</term>
+                    because the stockes have <term>schadons</term> which they feed with <app type="vocabulary" subtype="change"><lem wit="#b1623">it</lem><rdg wit="#b1609"><ptr target="1609.xml#ch6ancs29 1609.xml#ch6ance29"></ptr></rdg></app>, and the
+                    new swarmes have none. <app type="minor" subtype="del"><lem wit="#b1623"></lem><rdg wit="#b1609"><ptr target="1609.xml#ch6ancs30 1609.xml#ch6ance30"/></rdg></app>And if any foolish Bee do carry in <term>Ambrosia,</term>
                     it is put a dry cell where it turneth to Stopping, <ref target="#ch6bibln17">
                         v.</ref>
                     <note type="authorial" subtype="bibliographic" xml:id="ch6bibln17">
@@ -7009,11 +7009,11 @@ c                            first colour white,</lem><rdg wit="#b1609"><ptr tar
                             erithace, quam aliqui sandaracham, alij cerinthum vocant. Hic erit apum
                             dum operantur cibus: qui sæpe invenitur in favorum inanitatibus
                             sepositus; &amp; ipse amari saporis.</foreign>
-                    </quote> Speaking in the last words of that which is corrupted <ref
+                    </quote> Speaking in the last words of that which is corrupted <app type="reference" subtype="add"><lem wit="#b1623"><ref
                         target="#ch6bibln19">v</ref>
                     <note type="authorial" subtype="bibliographic" xml:id="ch6bibln19">
                         <ref target="#ch6sumn21"> V.n.21.</ref>
-                    </note>. And before him <persName> Aristotle</persName> himselfe thus. <quote>
+                    </note></lem><rdg wit="#b1609"></rdg></app>. And before him <persName> Aristotle</persName> himselfe thus. <quote>
                         <note type="authorial" subtype="bibliographic" xml:id="ch6bibln20">
                             <bibl> Hist.l.9.c.40.</bibl>
                         </note>
