@@ -6934,12 +6934,12 @@ c                            first colour white,</lem><rdg wit="#b1609"><ptr tar
                 <p xml:id="ch6par14">This worke may best be seene in the spring, when they gather
                     upon the blackthorne: for then by reason of the cold they are not so quicke.</p>
                 <p xml:id="ch6par15"><note type="authorial" subtype="summary" xml:id="ch6sumn19">19.
-                        Ambrosia, is the Schadons food, as water their drinke.</note> When they have
-                    brought these burdens home; they unload them into the dry cells for their young
-                    to feed on, which are not yet able to flie abroad. And in the beginning and
+                        Ambrosia, is the Schadons food, as water their drinke.</note> <app type="minor" subtype="del"><lem wit="#b1623"></lem><rdg wit="#b1609"><ptr target="1609.xml#ch6ancs25 1609.xml#ch6ance25"/></rdg></app>When they have
+                    brought these burdens home; <app type="vocabulary" subtype="change"><lem wit="#b1623">they</lem><rdg wit="#b1609"><ptr target="1609.xml#ch6ancs26 1609.xml#ch6ance26"/></rdg></app> unload them into the dry cells for their young
+                    to feed on, which are not yet able to flie abroad.<app type="minor" subtype="del"><lem wit="#b1623"></lem><rdg wit="#b1609"><ptr target="1609.xml#ch6ancs27 1609.xml#ch6ance27"/></rdg></app> And in the beginning and
                     ending of the yeere, looke what they save when the weather is faire, they lay up
                     for themselves against a rainy day. Which, while it is good, they will feed on,
-                    to save their <term> Nectar</term> as much as may bee. <note type="authorial"
+                    to save their <term> <app type="vocabulary" subtype="change"><lem wit="#b1623">Nectar</lem><rdg wit="#b1609"><ptr target="1609.xml#ch6ancs28 1609.xml#ch6ance28"/></rdg></app></term> as much as may bee. <note type="authorial"
                         subtype="summary" xml:id="ch6sumn20">20. Being kept it is soone
                         corrupted.</note> But this kinde of hony is like unto fresh fish: it must
                     not long be kept. <note type="authorial" subtype="summary" xml:id="ch6sumn21"
@@ -6947,7 +6947,7 @@ c                            first colour white,</lem><rdg wit="#b1609"><ptr tar
                     in the cells, by reason of plenty that comes in fresh and fresh, it lye unspent;
                     after a while it corrupteth, and of sweet becommeth the sowrest and the most
                     unsavory of all things both to taste and smell: which then they commonly call
-                    Stopping or Coome. <note type="authorial" subtype="summary" xml:id="ch6sumn22"
+                    Stopping <app type="vocabulary" subtype="add"><lem wit="#b1623">or Coome.</lem><rdg wit="#b1609"></rdg></app> <note type="authorial" subtype="summary" xml:id="ch6sumn22"
                         >22. Much stopping maketh the Bees forsake their hives.</note> Where there
                     is any store of this stuffe, it doth so offend the Bees, that oft times it
                     maketh them to forsake all. Most of them will that yeere goe forth in swarmes:
@@ -6971,7 +6971,7 @@ c                            first colour white,</lem><rdg wit="#b1609"><ptr tar
                     <pb n="O2v"/>
                     <fw type="header"> Of the Bees Worke. </fw> fingers, it muttereth apart, where
                     wax sticketh fast together. If you put it to the fire, it melteth not, as wax
-                    doth. And whereas wax is all of one colour, <hi rend="italic"> i.</hi> white at
+                    doth. And whereas wax is all of one colour, <hi rend="italic"> <app type="reference" subtype="add"><lem wit="#b1623">i.</lem><rdg wit="#b1609"></rdg></app></hi> white at
                     the first, <ref target="#ch6bibln16">v.</ref>
                     <note type="authorial" subtype="bibliographic" xml:id="ch6bibln16">
                         <ref target="#ch6sumn14">v.n.14.</ref>
