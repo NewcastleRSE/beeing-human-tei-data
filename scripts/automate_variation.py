@@ -125,6 +125,18 @@ def append_hi_summary_notes(tree, ns):
             correctEl.text = f'{text[0]}. '
             italicsEl = ET.SubElement(correctEl, 'seg', {'rend': 'italic'})
             italicsEl.text = text[1]
+            # checks if there are any digits in the note text, if there are, does character by character formatting
+            if (any(char.isdigit() for char in italicsEl.text)):
+                text = italicsEl.text
+                italicsEl.text = ''
+                if text:
+                    for char in text:
+                        if char.isdigit():
+                            digitEl = ET.SubElement(italicsEl, 'seg', {'rend': 'normal'})
+                            digitEl.text = char
+                        else:
+                            alphaEl = ET.SubElement(italicsEl, 'seg', {'rend': 'italic'})
+                            alphaEl.text = char
     # refs
     refs = tree.findall(".//TEI:ref", ns)
     for el in refs:
