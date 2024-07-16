@@ -115,9 +115,12 @@ def append_hi_summary_notes(tree, ns):
     for el in sum_notes:
         if el.text:
             correctEl = el
-        else:
+        elif len(el.findall('.//TEI:app', ns)) > 0:
             # note contains app, need to find the lem
             correctEl = el.find('.//TEI:lem', ns)
+        else:
+            # note contains only a single element that should have its own rendering information
+            text = ''
         # removing any unecessary whitespace characters
         text = " ".join(correctEl.text.split())
         # add a trailing space to account for elements inside notes
