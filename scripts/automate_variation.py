@@ -120,6 +120,8 @@ def append_hi_summary_notes(tree, ns):
             correctEl = el.find('.//TEI:lem', ns)
         # removing any unecessary whitespace characters
         text = " ".join(correctEl.text.split())
+        # add a trailing space to account for elements inside notes
+        text += " "
         text = text.split('. ', 1)
         if len(text) > 1:
             correctEl.text = f'{text[0]}. '
