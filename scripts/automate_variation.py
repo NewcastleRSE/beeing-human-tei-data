@@ -113,6 +113,8 @@ def append_hi_summary_notes(tree, ns):
     # marginal notes
     sum_notes = tree.findall(".//TEI:note[@subtype='summary']", ns)
     for el in sum_notes:
+        correctEl = None
+        text = None
         if el.text:
             correctEl = el
         elif len(el.findall('.//TEI:app', ns)) > 0:
@@ -120,13 +122,15 @@ def append_hi_summary_notes(tree, ns):
             correctEl = el.find('.//TEI:lem', ns)
         else:
             # note contains only a single element that should have its own rendering information
+            correctEl = None
             text = ''
-        # removing any unecessary whitespace characters
-        text = " ".join(correctEl.text.split())
-        # add a trailing space to account for elements inside notes
-        text += " "
-        text = text.split('. ', 1)
-        if len(text) > 1:
+        if correctEl:
+            # removing any unecessary whitespace characters
+            text = " ".join(correctEl.text.split())
+            # add a trailing space to account for elements inside notes
+            text += " "
+            text = text.split('. ', 1)
+        if text and len(text) > 1 and correctEl:
             correctEl.text = f'{text[0]}. '
             italicsEl = ET.SubElement(correctEl, 'seg', {'rend': 'italic'})
             italicsEl.text = text[1]
