@@ -125,6 +125,18 @@ def append_hi_summary_notes(tree, ns):
             correctEl.text = f'{text[0]}. '
             italicsEl = ET.SubElement(correctEl, 'seg', {'rend': 'italic'})
             italicsEl.text = text[1]
+            # find out if the note element has children (i.e.,  a <term> for example)
+            if len([elem.tag for elem in correctEl.iter() if elem is not correctEl and elem is not italicsEl]) > 0:
+                toRemove = []
+                # places elements in the correct order
+                for child in correctEl:
+                    if child is not italicsEl:
+                        toRemove.append(child.tag)
+                        italicsEl.append(child)
+                # removes elements that have been moved
+                for tag in toRemove:
+                    for el in correctEl.findall(tag):
+                        correctEl.remove(el)                        
             # checks if there are any digits in the note text, if there are, does character by character formatting
             if (any(char.isdigit() for char in italicsEl.text)):
                 text = italicsEl.text
