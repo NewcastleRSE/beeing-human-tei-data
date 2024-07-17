@@ -7294,14 +7294,14 @@ c                            first colour white,</lem><rdg wit="#b1609"><ptr tar
                     Honie-dewes made fat stalls.</lem><rdg wit="#b1609"></rdg></app></note>
                 <p xml:id="ch6par39"><note type="authorial" subtype="summary" xml:id="ch6sumn45">45
                         What Leo yeeldeth.</note> In <term> Leo</term> Vetches, Malowes, Tyme,
-                    Knap-weede, Blacke-berie, white Honie-suckle, Redweed, Thistle, Melone, &amp;c. </p>
-                <p xml:id="ch6par40">Now also doe they gather on the Lavender, if their hastie Dames
-                    doe not gather it from them before it be readie.</p>
+                    Knap-weede, Blacke-berie, white Honie-suckle, Redweed, Thistle, <app type="minor" subtype="add"><lem wit="#b1623">Melone,</lem><rdg wit="#b1609"></rdg></app> &amp;c. </p>
+                <p xml:id="ch6par40"><app type="minor" subtype="add"><lem wit="#b1623">Now also doe they gather on the Lavender, if their hastie Dames
+                    doe not gather it from them before it be readie.</lem><rdg wit="#b1609"></rdg></app></p>
                 <p xml:id="ch6par41"><note type="authorial" subtype="summary" xml:id="ch6sumn46">46.
                         Virgo.</note> In <term> Virgo</term> Knap-weed, Black-berie, Redweed,
-                    Dandelion, Malowes, Borage, &amp;c. and the ample Heath, which yeeldeth Honie
+                    Dandelion, Malowes, <app type="minor" subtype="add"><lem wit="#b1623">Borage,</lem><rdg wit="#b1609"></rdg></app><app type="minor" subtype="del"><lem wit="#b1623"></lem><rdg wit="#b1609"><ptr target="1609.xml#ch6ancs45 1609.xml#ch6ance45"/></rdg></app> &amp;c. <app type="minor" subtype="add"><lem wit="#b1623">and the ample Heath, which yeeldeth Honie
                     like unto their Wooll. <ref target="#ch6sumn31">V.n.31.</ref>and <ref
-                        target="#ch10p2sumn12">c.10.p.2. n.12. </ref></p>
+                        target="#ch10p2sumn12">c.10.p.2. n.12. </ref></lem><rdg wit="#b1609"></rdg></app></p>
                 <p xml:id="ch6par42"><note type="authorial" subtype="summary" xml:id="ch6sumn47">47.
                         Libra.</note> In <term> Libra</term> Dandelion, Heath, Ivie, &amp;c.</p>
                 <p xml:id="ch6par43"><note type="authorial" subtype="summary" xml:id="ch6sumn48">48.
@@ -7330,7 +7330,7 @@ c                            first colour white,</lem><rdg wit="#b1609"><ptr tar
                         xml:id="ch6glon3">*Mathers or May-weed, <foreign xml:lang="la">Cotula
                             fœtida</foreign></note> Henbane, and the like, they gather most sweet
                     and holesome Honie: and yet regard not the best and sweetest Hearbs and Flowers,
-                    as the Rose, the Prim-rose, Clove-Giliflowers; Wheat, Barley, Pease, &amp;c.</p>
+                    as the Rose, the Prim-rose, Clove-Giliflowers; <app type="minor" subtype="del"><lem wit="#b1623"></lem><rdg wit="#b1609"><ptr target="1609.xml#ch6ancs46 1609.xml#ch6ance46"/></rdg></app>Wheat, Barley, Pease, <app type="minor" subtype="change"><lem wit="#b1623">&amp;c.</lem><rdg wit="#b1609"><ptr target="1609.xml#ch6ancs47 1609.xml#ch6ance47"/></rdg></app></p>
                 <p xml:id="ch6par46"><note type="authorial" subtype="summary" xml:id="ch6sumn51">51.
                         What store of Honie a stall may have.</note> What store of Wax and Honie a
                     stall may gather, is uncertaine: some having more, some lesse, according to the
