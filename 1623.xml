@@ -7150,7 +7150,7 @@ c                            first colour white,</lem><rdg wit="#b1609"><ptr tar
                     prime) and the rest </lem><rdg wit="#b1609"></rdg></app>forenamed; Beanes <app type="vocabulary" subtype="add"><lem wit="#b1623">also</lem><rdg wit="#b1609"></rdg></app>, which <app type="vocabulary" subtype="change"><lem wit="#b1623">with</lem><rdg wit="#b1609"><ptr target="1609.xml#ch6ancs39 1609.xml#ch6ance39"/></rdg></app> their flowers have also
                     blacke spotted leaves like Vetches, on which sometime they gather, Arch-angell,
                     Barberie, Fumitorie, <app type="vocabulary" subtype="change"><lem wit="#b1623">Ribwort a kinde of</lem><rdg wit="#b1609"><ptr target="1609.xml#ch6ancs40 1609.xml#ch6ance40"/></rdg></app> Plantanie, Holme or Hollie, Hawthorne,
-                    Elder, red Honie-suckle, Red-weede, white Honie-suckle, which they like much
+                    <app type="vocabulary" subtype="add"><lem wit="#b1623">Elder,</lem><rdg wit="#b1609"></rdg></app> red Honie-suckle, Red-weede, white Honie-suckle, which they like much
                     better than the red. &amp;c. </p>
                 <p xml:id="ch6par33">
                     <note type="authorial" subtype="summary" xml:id="ch6sumn39">39. Cancer.</note>
@@ -7181,9 +7181,10 @@ c                            first colour white,</lem><rdg wit="#b1609"><ptr tar
                         </note>
                         <foreign xml:lang="la">Propter hoc Siculum mel fert palmam, quod ibi Thymum
                             bonum &amp; frequens est.</foreign>
-                    </quote> The Knap-weed flourisheth about the middle of this moneth, and the
-                    Blackberie about a weeke after: Both which, as sweet and plentifull, the Bees
-                    much haunt.</p>
+                    </quote> <app type="minor" subtype="change"><lem wit="#b1623">The Knap-weed flourisheth about the middle of this moneth, and the
+                        Blackberie about a weeke after:</lem><rdg wit="#b1609"><ptr target="1609.xml#ch6ancs41 1609.xml#ch6ance41"/></rdg></app> <app type="minor" subtype="add"><lem wit="#b1623">
+                       Both which, as sweet and plentifull, the Bees
+                       much haunt.</lem><rdg wit="#b1609"></rdg></app></p>
                 <p xml:id="ch6par35"><note type="authorial" subtype="summary" xml:id="ch6sumn40">40.
                         Of Honie-dewes.</note> But the greatest plentie of the purest <term>
                         Nectar</term> commeth from above: which Almightie God doth miraculously
@@ -7193,11 +7194,11 @@ c                            first colour white,</lem><rdg wit="#b1609"><ptr tar
                         </note>
                         <foreign xml:lang="la">aerei mellis cœlestia dona</foreign>
                     </quote>) and hath appointed the <term>Oake</term> among all the trees of the
-                    Wood, to receive and keepe the same upon his smooth and solide leaves, (<quote>
+                    Wood, to receive and keepe the same upon his smooth and solide leaves, <app type="minor" subtype="add"><lem wit="#b1609">(<quote>
                         <foreign xml:lang="la">Et quercus sudabunt roscida mella</foreign>
                         <note type="authorial" subtype="bibliographic" xml:id="ch6bibln34">
                             <bibl>Virg.Pollio.</bibl>
-                        </note></quote> ) untill either the Bees tongue, or the heat of the Sunne
+                        </note></quote> )</lem></app> untill either the Bees tongue, or the heat of the Sunne
                     have drawne it away. <note type="authorial" subtype="summary" xml:id="ch6sumn41"
                         >41. The Bees worke most earnestly in a Honie-dew.</note> When there is a
                     Honie-dew, you may perceive by the Bees: for, as if they smelled it <ref
@@ -7236,12 +7237,12 @@ c                            first colour white,</lem><rdg wit="#b1609"><ptr tar
                         </note>
                     </quote> Which opinion is the more probable for these reasons. First because
                     that when the yeare is backward in his fruits, the Honie-dewes are also
-                    backward: comming onely at such time as the flowers have the most solid and best
+                    backward: comming onely at such time as the <app type="vocabulary" subtype="change"><lem wit="#b1623">flowers</lem><rdg wit="#b1609"><ptr target="1609.xml#ch6ancs42 1609.xml#ch6ance42"/></rdg></app> have the most solid and best
                     juyce. Before, when the juyce is weake and waterish, and afterward, when it is
-                    dryed and wasted, they are not. <ref target="#ch6bibln38">v:</ref>
+                    dryed and wasted, they are not. <ref target="#ch6bibln38"><app type="reference" subtype="add"><lem wit="#b1623">v:</lem><rdg wit="#b1609"></rdg></app></ref>
                     <note type="authorial" subtype="bibliographic" xml:id="ch6bibln38">
-                        <ref target="#ch6glon2"> V.*in 43.</ref>
-                    </note> Secondly, because that in more hot &amp; Southernly climats, where the
+                        <ref target="#ch6glon2"><app type="reference" subtype="add"><lem wit="#b1623"> V.*in 43.</lem><rdg wit="#b1609"></rdg></app></ref>
+                    </note> <app type="minor" subtype="change"><lem wit="#b1623">Secondly, because</lem><rdg wit="#b1609"><ptr target="1609.xml#ch6amcs42 1609.xml#ch6amnce42"/></rdg></app> that in more hot &amp; Southernly climats, where the
                     fruits are more forward, the Hony-dewes also are more timely: as in <placeName>
                         Italy</placeName> before <quote>
                         <note type="authorial" subtype="bibliographic" xml:id="ch6bibln39">
