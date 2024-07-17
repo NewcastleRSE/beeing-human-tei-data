@@ -7271,7 +7271,7 @@ c                            first colour white,</lem><rdg wit="#b1609"><ptr tar
                     usually betweene the first and last daies of this moneth: although the
                     continuance of hot and dry weather may cause them come somewhat rather, or last
                     somewhat longer, even untill mid-<term>Leo</term> or<ref target="#ch6glon2"
-                        >*</ref> after. They may happen at any time of the day: but for the most
+                        ><app type="reference" subtype="add"><lem wit="#b1623">*</lem><rdg wit="#b1609"></rdg></app></ref> after. They may happen at any time of the day: but for the most
                     part in the morning before it be light: <quote>
                         <foreign xml:lang="la">Sub lucanis temporibus. Itaque tum prima aurora folia
                             arborum melle roscida inveniuntur.</foreign>
@@ -7279,9 +7279,9 @@ c                            first colour white,</lem><rdg wit="#b1609"><ptr tar
                             <bibl>Nat.Hist.li.11.c.12.</bibl>
                         </note>
                     </quote> And then shall you have the Bees up in a morning as soone as they can
-                    see, making such a shrill noise where they goe, that as merrie Gossips when they
-                    meet, a man may heare them farther than see them. </p>
-                <note type="authorial" subtype="gloss" place="inline" xml:id="ch6glon2">*In the
+                    see, making such a shrill noise where they goe, that<app type="minor" subtype="add"><lem wit="#b1623">, as merrie Gossips when they
+                        meet,</lem><rdg wit="#b1609"></rdg></app> a man may heare them farther than see them. </p>
+                <note type="authorial" subtype="gloss" place="inline" xml:id="ch6glon2"><app type="major" subtype="add"><lem wit="#b1623">*In the
                     yeare <date when="1613">1613</date>, almost two moneths after the usuall time,
                     namely in the later part of <term>Virgo,</term> there fell divers Honie-dewes:
                     which came to passe by reason that continuall wet kept them backe in their due
@@ -7291,7 +7291,7 @@ c                            first colour white,</lem><rdg wit="#b1609"><ptr tar
                     that were taken, proved light: and most of the swarmes and stocks, that were
                     kept for store, died for want before the end of Winter. Except onely in the
                     Heath Countries, where the Heath-flower being then in his prime, those late
-                    Honie-dewes made fat stalls.</note>
+                    Honie-dewes made fat stalls.</lem><rdg wit="#b1609"></rdg></app></note>
                 <p xml:id="ch6par39"><note type="authorial" subtype="summary" xml:id="ch6sumn45">45
                         What Leo yeeldeth.</note> In <term> Leo</term> Vetches, Malowes, Tyme,
                     Knap-weede, Blacke-berie, white Honie-suckle, Redweed, Thistle, Melone, &amp;c. </p>
