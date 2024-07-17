@@ -7376,14 +7376,14 @@ c                            first colour white,</lem><rdg wit="#b1609"><ptr tar
                     the Aire, together with their cholerike Complexion, which their very colour
                     bewrayeth, doth cause them much to desire cold Water. <note type="authorial"
                         subtype="summary" xml:id="ch6sumn53"> 53. Chiefly for their breed</note>
-                    Some thinke it serveth onely to feede their Schadons: (<quote>
+                    Some thinke it serveth <app type="vocabulary" subtype="change"><lem wit="#b1623">onely</lem><rdg wit="#b1609"><ptr target="1609.xml#ch6ancs48 1609.xml#ch6ance48"/></rdg></app> to feede their Schadons: (<quote>
                         <foreign xml:lang="la">Aquam tum portant, cum prolem nutriunt)</foreign>
                         <note type="authorial" subtype="bibliographic" xml:id="ch6bibln45">
                             <bibl>Hist.an.l.9.c.40.</bibl>
                         </note></quote>
-                    <ref target="#ch7sumn24">v:</ref>
+                    <ref target="#ch7sumn24"><app type="reference" subtype="add"><lem wit="#b1623">v:</lem><rdg wit="#b1609"></rdg></app></ref>
                     <note type="authorial" subtype="bibliographic" xml:id="ch6bibln46"><ref
-                            target="#ch7sumn24">V.c.7.n.24.</ref></note> and that not without
+                        target="#ch7sumn24"><app type="reference" subtype="add"><lem wit="#b1623">V.c.7.n.24.</lem><rdg wit="#b1609"></rdg></app></ref></note> and that not without
                     reason, seeing that <term>Ambrosia</term> their daily food is hot and dry: and
                     indeed when the Drones are done away, and breeding is ended, the Bees are
                     nothing so frequent at the watring-places. But <persName>Columella</persName>
@@ -7392,18 +7392,18 @@ c                            first colour white,</lem><rdg wit="#b1609"><ptr tar
                             figurari queunt.</foreign>
                         <note type="authorial" subtype="bibliographic" xml:id="ch6bibln47">
                             <bibl>De re rust. l.9.c.5.</bibl>
-                        </note></quote> Unto whom the Poet, in the place first cited in this
+                        </note></quote> <app type="minor" subtype="add"><lem wit="#b1623">Unto whom the Poet, in the place first cited in this
                     Chapter, seemeth to assent; making water and flowers the common matter of their
-                    three workes.</p>
+                    three workes.</lem><rdg wit="#b1609"></rdg></app></p>
                 <p xml:id="ch6par48"><note type="authorial" subtype="summary" xml:id="ch6sumn54">54.
                         The making of the Watering place.</note> The Watring-place should<ref
                         target="#ch6sumn55" rend="superscript">a</ref> not be farre from your
                         Garden,<ref target="#ch6glon5" rend="superscript">b</ref> in the next side
                     of a Pond or Brooke,<ref target="#ch6glon6" rend="superscript">c</ref> made
-                    shelving, not very steepe, in manner of a Foord, and <ref target="#ch6glon7"
+                    shelving, not <app type="vocabulary" subtype="add"><lem wit="#b1623">very</lem><rdg wit="#b1609"></rdg></app> steepe, in manner of a Foord, and <ref target="#ch6glon7"
                         rend="superscript">d</ref> defended from Beasts, Geese, Duckes, and such
-                    like: and especially young Ducklings.<ref target="#ch6sumn59">v.¶ 3.
-                        in.n.59.</ref></p>
+                    like: <app type="minor" subtype="add"><lem wit="#b1623">and especially young Ducklings.<ref target="#ch6sumn59">v.¶ 3.
+                        in.n.59.</ref></lem><rdg wit="#b1609"></rdg></app></p>
                 <note type="authorial" subtype="gloss" place="inline" xml:id="ch6glon4"><note
                         type="authorial" subtype="summary" xml:id="ch6sumn55">55. How to finde wilde
                         Bees.</note>
@@ -7456,8 +7456,8 @@ c                            first colour white,</lem><rdg wit="#b1609"><ptr tar
                         rend="superscript">d</hi>Which otherwise will be the death of many for they
                     are so earnest in their businesse, that though you offer to tread upon them,
                     they will not move. </note>
-                <p xml:id="ch6par49"><note type="authorial" subtype="summary" xml:id="ch6sumn56">56.
-                        Bee-troughes in Gardens profitable.</note> But because in the cold windie
+                <p xml:id="ch6par49"><app type="major" subtype="del"><lem wit="#b1623"></lem><rdg wit="#b1609"><ptr target="1609.xml#ch6ancs51 1609.xml#ch6ance51"/></rdg></app><note type="authorial" subtype="summary" xml:id="ch6sumn56">56.
+                        Bee-troughes in Gardens profitable.</note> <app type="major" subtype="add"><lem wit="#b1623">But because in the cold windie
                     weather of the Spring, (at which time of the yeare the Bees have most use of
                     water, <ref target="#ch6bibln50">v.</ref>) <note type="authorial"
                         subtype="bibliographic" xml:id="ch6bibln50">
@@ -7467,15 +7467,15 @@ c                            first colour white,</lem><rdg wit="#b1609"><ptr tar
                     so chilled, when they have filled themselves with cold water; that they are not
                     able to endure the wind, but faile and fall by the way) therefore it is
                     behoveful to have Troughes in your gardens, made for the nonce: whence the Bees
-                    may both sooner and safer fetch their water. </p>
+                    may both sooner and safer fetch their water. </lem><rdg wit="#b1609"></rdg></app></p>
                 <p xml:id="ch6par50"><note type="authorial" subtype="summary" xml:id="ch6sumn57">57.
-                        The forme and size of a Bee-trough.</note> For the forme and size of a
+                        The forme and size of a Bee-trough.</note> <app type="major" subtype="add"><lem wit="#b1623">For the forme and size of a
                     Trough, let his hollownesse be two foot in length, seven or eight inches in
                     breadth, and foure in depth; the bottome foure inches thicke; the ends six or
                     seven; and the sides halfe so much. Moreover, let the hollownesse be divided
                     into foure equall parts, by one partition of inch-board, in the middle from side
                     to side; and by two partitions of halfe-inch-board, from each end unto the
-                    middle partition: after this fashion.</p>
+                    middle partition: after this fashion.</lem></app></p>
                 <pb n="P3r"/>
                 <fw type="header"> Of the Bees Worke. </fw>
                 <figure>
@@ -7483,38 +7483,38 @@ c                            first colour white,</lem><rdg wit="#b1609"><ptr tar
                     <figDesc>DIAGRAM</figDesc>
                 </figure>
                 <p xml:id="ch6par51"><note type="authorial" subtype="summary" xml:id="ch6sumn58">58.
-                        The trough-cover, and the use of it.</note> And to keepe the Bees from
+                        The trough-cover, and the use of it.</note> <app type="major" subtype="add"><lem wit="#b1609">And to keepe the Bees from
                     danger of drowning, unto which they are very obnoxious, for it they but touch
                     the water with their wings, they cannot rise from it) let each Quarter of the
                     Trough have his Cover, in thicknesse about halfe an inch, in bredth and length
                     fitting to his Quarter; but so, that without let it may rise and fall without
-                    the water. </p>
-                <p xml:id="ch6par52">The matter of this Cover must be corke, which must as well have
+                    the water. </lem><rdg wit="#b1609"></rdg></app></p>
+                <p xml:id="ch6par52"><app type="major" subtype="add"><lem wit="#b1623">The matter of this Cover must be corke, which must as well have
                     open spaces for the water to take aire; as places for the Bees to light on: lest
                     it being covered too close, doe corrupt and become unsavourie. It is best to
                     divide each cover into two equall parts: and in the edges on both sides to cut
-                    little nickes. And so this may be the forme of it. </p>
+                    little nickes. And so this may be the forme of it. </lem><rdg wit="#b1609"></rdg></app></p>
                 <figure>
                     <graphic url="#"/>
                     <figDesc>DIAGRAM</figDesc>
                 </figure>
-                <p xml:id="ch6par53">Other fashions both of their Troughes, and of their Covers, may
-                    be devised: but these have seemed to me in all respects most fitting. </p>
+                <p xml:id="ch6par53"><app type="major" subtype="add"><lem wit="#b1623">Other fashions both of their Troughes, and of their Covers, may
+                    be devised: but these have seemed to me in all respects most fitting.</lem><rdg wit="#b1609"></rdg></app> </p>
                 <p xml:id="ch6par54"><note type="authorial" subtype="summary" xml:id="ch6sumn59">59.
-                        The seasoning and ordering of the Bee-trough.</note> A new Trough thus
+                        The seasoning and ordering of the Bee-trough.</note> <app type="major" subtype="add"><lem wit="#b1623">A new Trough thus
                     framed and fitted, is to be seasoned before it be used, by often scalding it,
                     and changing the foule water; untill, having stood a day or two, it remaineth
                     cleare, and without a glittering slime: afterward the older and more earthie it
-                    is, the better they like it. </p>
-                <p xml:id="ch6par55">The Trough being seasoned, set in some convenient place, about
-                    a pearch from the Bees; having a moveable plancke, <fw type="catch"> or</fw>
+                    is, the better they like it. </lem><rdg wit="#b1609"></rdg></app></p>
+                <p xml:id="ch6par55"><app type="major" subtype="add"><lem wit="#b1623">The Trough being seasoned, set in some convenient place, about
+                    a pearch from the Bees; having a moveable plancke,</lem><rdg wit="#b1609"></rdg></app> <fw type="catch"> or</fw>
                     <pb n="P3v"/>
-                    <fw type="header"> Of the Bees Worke. </fw> or the like, to defend it from cold
+                    <fw type="header"> Of the Bees Worke. </fw> <app type="major" subtype="add"><lem wit="#b1623">or the like, to defend it from cold
                     rough winds in the spring, and from the Sunne when it is hot. At which time
                     keepe the Trough full, lest the water be soone over-heated: and in cold weather
                     let the water be shallow, that the Bees may drinke safely below, out of the
-                    chilling wind. </p>
-                <list>
+                    chilling wind. </lem><rdg wit="#b1609"></rdg></app></p>
+               <app type="major" subtype="add"><lem wit="#b1623"> <list>
                     <item>¶ 1. Bespread the ends of the Trough with cow-cloome, to keep them from
                         chapping. </item>
                     <item>¶ 2. In frostie nights cover all the Trough, to keepe the water from
@@ -7525,21 +7525,21 @@ c                            first colour white,</lem><rdg wit="#b1609"><ptr tar
                         stinging their chicken: and so will Ducklings also at the first, taking them
                         for flies; which when they have tasted, they will afterwards let alone.
                     </item>
-                </list>
+               </list></lem><rdg wit="#b1609"></rdg></app>
                 <p xml:id="ch6par56"><note type="authorial" subtype="summary" xml:id="ch6sumn60">60.
-                        Bee-troughes of stone.</note> You may also make good Troughes of Free-stone,
+                        Bee-troughes of stone.</note> <app type="minor" subtype="add"><lem wit="#b1623">You may also make good Troughes of Free-stone,
                     with woodden partitions let into the stone: but they are more apt to chill the
-                    Bees in cold weather, until they be mossie.</p>
+                    Bees in cold weather, until they be mossie.</lem><rdg wit="#b1609"></rdg></app></p>
                 <p xml:id="ch6par57"><note type="authorial" subtype="summary" xml:id="ch6sumn61">61.
-                        Sometime they water in the streets.</note> Sometime they will lie sucking at
+                        Sometime they water in the streets.</note> <app type="minor" subtype="change"><lem wit="#b1623">Sometime they will lie sucking at
                     the neere plashes, puddles, and mire in the streets: where many are trod under
-                    foot of men and beasts. See therefore that such places be kept cleane and drie. </p>
+                    foot of men and beasts. See therefore that such places be kept cleane and drie.</lem><rdg wit="#b1609"><ptr target="1609.xml#ch6ancs50 1609.xml#ch6ance50"/></rdg></app> </p>
                 <p xml:id="ch6par58"><note type="authorial" subtype="summary" xml:id="ch6sumn62">62.
                         And after a showre, all about the garden.</note> After a showre they water
                     for the most part in your Garden upon the bare earth, the grasse, and
                     wheresoever they finde it wet from above. In the chiefe breeding months
-                        <term>Aries,</term>
-                    <term> Taurus,</term> and <term>Gemini</term>, <ref target="#ch6bibln51"
+                        <term>Aries,</term><app type="vocabulary" subtype="del"><lem wit="#b1623"></lem><rdg wit="#b1609"><ptr target="1609.xml#ch6ancs49 1609.xml#ch6ance49"/></rdg></app>
+                    <term> Taurus,</term> <app type="vocabulary" subtype="add"><lem wit="#b1623">and <term>Gemini</term>,</lem><rdg wit="#b1609"></rdg></app> <ref target="#ch6bibln51"
                         >v.</ref>
                     <note type="authorial" subtype="bibliographic" xml:id="ch6bibln51">
                         <ref target="#ch4sumn13">V.c.4.n. 13.</ref>
