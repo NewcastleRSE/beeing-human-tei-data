@@ -8626,26 +8626,26 @@
                     out: but he doth more harme to Wood-Bees then Garden-Bees.</p>
                 <p xml:id="ch7par14"><note type="authorial" subtype="summary" xml:id="ch7sumn5">5.
                         The Tit-mouse.</note> Of Titmise, there are three sorts. The great Titmouse
-                    (which of his colly head and breast some call a Colemouse) is a very harmefull
+                    <app type="minor" subtype="add"><lem wit="#b1623">(which of his colly head and breast some call a Colemouse)</lem><rdg wit="#b1609"></rdg></app> is a very harmefull
                     Bird. For although sometime hee seeme content with dead Bees, yet is hee a great
                     devourer of the quicke also. <note type="authorial" subtype="summary"
                         xml:id="ch7sumn6">6. The subtill practice of the Tit-mouse.</note> In winter
-                    hee taketh them at the Hive as they come forth: when the cold makes them keepe
-                    in, hee will stand at the doore, and there never leave knocking till one come to
+                    hee taketh them at the Hive as they come forth: <app type="minor" subtype="change"><lem wit="#b1623">when the cold makes them keepe
+                        in,</lem><rdg wit="#b1609"><ptr target="1609.xml#ch7ancs5 1609.xml#ch7ance5"/></rdg></app> hee will stand at the doore, and there never leave knocking till one come to
                     see who is there: and then suddenly catching her, away he flies with her: and
                     when he hath eaten her, he comes againe for more: eight or nine will scarce
-                    serve his turne at once. If the doore be shut that none can come forth, hee
+                    serve his turne at once. <app type="major" subtype="add"><lem wit="#b1623">If the doore be shut that none can come forth, hee
                     labours to remove the Barre: if that be too heavie, he falls to <fw type="catch"
                         > moining</fw>
                     <pb n="Q1v"/>
                     <fw type="header"> Of the Bees Enemies. </fw> moining about the doore for a new
                     way: and when these devices cannot get them out; some have the skill to breake
                     the wals of the daubed Hives above, over against the place where they lie: and
-                    there they are sure to have their purpose. But in the spring, when the Bees come
+                    there they are sure to have their purpose.</lem><rdg wit="#b1609"></rdg></app> But in the spring, when the Bees come
                     to the palme, hee standeth there watching for them; and while they are busie at
                     their worke he devoureth many. The little Russet one in Winter feedeth only on
                     dead Bees; but in the Spring he will take part with the great one. The little
-                    greene Titmouse I cannot accuse. </p>
+                    greene Titmouse I cannot accuse: <app type="minor" subtype="add"><lem wit="#b1623">except it be only for eating a few dead Bees and that but seldome in some hungrie time.</lem><rdg wit="#b1609"></rdg></app></p>
                 <p xml:id="ch7par15">
                     <note type="authorial" subtype="summary" xml:id="ch7sumn7">7. The
                         Swallow.</note> The Swallow taketh them as they flie, <foreign xml:lang="la"
@@ -8668,8 +8668,8 @@
                     </quote></p>
                 <p xml:id="ch7par16"><note type="authorial" subtype="summary" xml:id="ch7sumn8">8.
                         Remedie against the Titmouse and Swallow.</note> Let boyes destroy their
-                    neasts in Summer, and catch the Titmouse in Winter, with<ref target="#ch7glon2"
-                        >*</ref> Traps baited with dead Bees, Oats, or Tallow.
+                    neasts in Summer, and catch the Titmouse in Winter, <app type="minor" subtype="del"><lem wit="#b1623"></lem><rdg wit="#b1609"><ptr target="1609.xml#ch7ancs6 1609.xml#ch7ance6"/></rdg></app>with<ref target="#ch7glon2"
+                        ><app type="reference" subtype="add"><lem wit="#b1623">*</lem><rdg wit="#b1609"></rdg></app></ref> Traps<app type="minor" subtype="del"><lem wit="#b1623"></lem><rdg wit="#b1609"><ptr target="1609.xml#ch7ancs7 1609.xml#ch7ance7"/></rdg></app> baited with <app type="minor" subtype="add"><lem wit="#b1623">dead Bees,</lem><rdg wit="#b1609"></rdg></app> Oats, or Tallow.
                         <persName>Aristotle</persName> joyneth the Waspe, the little Titmouse, the
                     Swallow, and the great Titmouse together. <quote>
                         <note type="authorial" subtype="bibliographic" xml:id="ch7bibln6">
