@@ -8680,10 +8680,10 @@
                             apiaster est. Quamobrem apiarii vesparum latibula &amp; hirundinum ac
                             meropum nidos propinquos alveis tollunt.</foreign>
                     </quote></p>
-                <note type="authorial" subtype="gloss" place="inline" xml:id="ch7glon2">*As Cage
+                <note type="authorial" subtype="gloss" place="inline" xml:id="ch7glon2"><app type="minor" subtype="add"><lem wit="#b1623">*As Cage
                     traps, Pit-falls, and Samsons-Posts (<ref target="#ch7glon1">v.* in n.3</ref>)
                     But then set a Lath before the Prop, leaning from the Floore to the Roofe, lest
-                    the busie Bird throw it downe for nothing. </note>
+                    the busie Bird throw it downe for nothing.</lem><rdg wit="#b1609"></rdg></app> </note>
                 <p xml:id="ch7par17"><note type="authorial" subtype="summary" xml:id="ch7sumn9">9.
                         The Hornet.</note> The Hornet also devoureth Bees: being so much too strong
                     for them, that they can make no resistance. Which the Poet meant where he said <lb/>
@@ -8702,7 +8702,7 @@
                 <fw type="header"> Of the Bees Enemies. </fw>
                 <p xml:id="ch7par19"><note type="authorial" subtype="summary" xml:id="ch7sumn10">10.
                         The Hornets sting is dangerous.</note> In destroying the Hornets you must
-                    bee warie: for one stinging doth ofttimes cause a Fever, and lesse than thirtie,
+                    bee warie: for one stinging doth ofttimes cause a <app type="vocabulary" subtype="change"><lem wit="#b1623">Fever</lem><rdg wit="#b1609"><ptr target="1609.xml#ch7ancs8 1609.xml#ch7ance8"/></rdg></app>, and lesse than thirtie,
                     as some say, will kill a man. <quote>
                         <note type="authorial" subtype="bibliographic" xml:id="ch7bibln8">
                             <bibl> Nat.hist.li.11.c.21.</bibl>
@@ -8723,28 +8723,28 @@
                     from two or three of them, though they have all hold of her at once: and perhaps
                     killeth one of them out of hand. <note type="authorial" subtype="summary"
                         xml:id="ch7sumn12">12. When she feeds upon Bees.</note> At
-                        <term>Cancer,</term> or, the Spring being hot and drie, in the later part of
-                    the former moneth, the Waspe beginneth to bee bred: <ref target="#ch7bibln10">
+                        <term>Cancer,</term> <app type="minor" subtype="add"><lem wit="#b1623">or, the Spring being hot and drie, in the later part of
+                            the former moneth,</lem><rdg wit="#b1609"></rdg></app> <app type="vocabulary" subtype="change"><lem wit="#b1623">the Waspe</lem><rdg wit="#b1609"><ptr target="1609.xml#ch7ancs9 1609.xml#ch7ance9"/></rdg></app> beginneth to bee bred: <ref target="#ch7bibln10">
                         v.</ref>
                     <note type="authorial" subtype="bibliographic" xml:id="ch7bibln10">
                         <ref target="#ch4sumn8">v.c.4.n.8.</ref>
-                    </note> within a moneth after shee first appeareth: and in a while she beginneth
+                    </note> <app type="minor" subtype="change"><lem wit="#b1623">within a moneth after</lem><rdg wit="#b1609"><ptr target="1609.xml#ch7ancs10 1609.xml#ch7ance10"/></rdg></app> shee first appeareth: and in a while she beginneth
                     to feed upon dead and weake Bees: which she quickly cutting of in the middle
                     with hir Fangs, first carrieth away the neather-part; and anon fetcheth the
-                    other, when she hath bitten off the wings (for easier carriage) not farre from
+                    <app type="vocabulary" subtype="change"><lem wit="#b1623">other</lem><rdg wit="#b1609"><ptr target="1609.xml#ch7ancs11 1609.xml#ch7ance11"/></rdg></app>, when she hath bitten off the wings (for easier carriage) not farre from
                     the place where she took it up. </p>
                 <p xml:id="ch7par21"><note type="authorial" subtype="summary" xml:id="ch7sumn13">13.
-                        When she stealeth Honie.</note> Within a moneth after hir comming abroad,
+                    When she stealeth Honie.</note> <app type="minor" subtype="change"><lem wit="#b1623">Within a moneth after hir comming abroad,</lem><rdg wit="#b1609"><ptr target="1609.xml#ch7ancs12 1609.xml#ch7ance12"/></rdg></app>
                     shee waxeth bold, and adventureth into the Hives for honie: but, by reason of
                     the strangenesse of hir voice and habit, shee is descried before shee come
                     neere: And at the first (while the weather is warme, and the Bees both early and
                     late keepe watch and ward at the Hives doore) comming single against many, she
-                    is commonly repulsed, and sent backe againe with a Flea in hir eare: and if by
+                    is commonly <app type="vocabulary" subtype="change"><lem wit="#b1623">repulsed,</lem><rdg wit="#b1609"><ptr target="1609.xml#ch7ancs13 1609.xml#ch7ance13"/></rdg></app> and sent backe againe with a Flea in hir eare: and if by
                     chance she slip in, she doth not alwaies escape. Sometime she is killed in the
                     Hive, and brought forth dead: and sometime without doore, when she hath got hir
                     prey. But afterwards, the weather waxing cold, and specially in mornings and
                     evenings, and the Bees therefore retiring from the doore higher into the Hive;
-                    the Waspes make great spoile, specially among them that are weake. And this they
+                    the Waspes make great spoile, <app type="minor" subtype="change"><lem wit="#b1623">specially among them that are weake</lem><rdg wit="#b1609"><ptr target="1609.xml#ch7ancs14 1609.xml#ch7ance14"/></rdg></app>. And this they
                     continue untill <term> Scorpio:</term> after which time they begin to weare.
                         <note type="authorial" subtype="summary" xml:id="ch7sumn14">14. When they
                         weare away.</note> Neverthelesse while they live, that is until <fw
@@ -8755,9 +8755,10 @@
                     <fw type="header"> Of the Bees Enemies. </fw>
                     <term>Sagittarius</term> (if abundance of cold and wet rid them not a little
                     rather) they will be filching: and one Waspe will carrie out as much as two Bees
-                    bring in. </p>
+                    bring in. </p><app type="major" subtype="del"><lem wit="#b1609"></lem><rdg wit="#b1609"><ptr target="1609.xml#ch7ancs15 1609.xml#ch7ance15
+                        "/></rdg></app>
                 <p xml:id="ch7par22"><note type="authorial" subtype="summary" xml:id="ch7sumn15">15.
-                        In what yere the Waspes are few.</note> The Winter wet and cold, killeth
+                        In what yere the Waspes are few.</note> <app type="major" subtype="add"><lem wit="#b1609">The Winter wet and cold, killeth
                     many of the Mother-Waspes <ref target="#ch7bibln11">v.</ref>
                     <note type="authorial" subtype="bibliographic" xml:id="ch7bibln11">
                         <ref target="#ch4sumn8"> V.c.4.n.8. </ref>
@@ -8772,14 +8773,14 @@
                     1613, though, the former Summer being exceeding dry, the Waspes were multiplied,
                     and the Winter being milde, the Mother-Waspes were many at first; yet the Rainie
                     Spring and Summer, did so spill their nests, that there were no small Waspes
-                    seene till <term> Libra</term>, and then verie few. </p>
+                    seene till <term> Libra</term>, and then verie few. </lem><rdg wit="#b1609"></rdg></app></p>
                 <p xml:id="ch7par23"><note type="authorial" subtype="summary" xml:id="ch7sumn16">16.
-                        In what yeere they abound.</note> But the Winter being milde, and the Spring
+                        In what yeere they abound.</note> <app type="major" subtype="add"><lem wit="#b1623">But the Winter being milde, and the Spring
                     and Summer continuing warme and dry, they live and breed in everie place: that,
                     without continuall and diligent attendance, you shall be sure of great losse
                     among your Bees, though the former yeere there were but few: For one nest
-                    yeeldeth breeders enough, if they should all live, to store a whole countrey. </p>
-                <note type="authorial" subtype="gloss" place="inline" xml:id="ch7glon3">For these
+                    yeeldeth breeders enough, if they should all live, to store a whole countrey. </lem><rdg wit="#b1609"></rdg></app></p>
+                <note type="authorial" subtype="gloss" place="inline" xml:id="ch7glon3"><app type="major" subtype="add"><lem wit="#b1623">For these
                     causes, <date when="1611"><hi rend="italic">Ann.</hi> 1611.</date> there were
                     every where such multitudes that the like I thinke was not knowne before in our
                     memorie: insomuch that within two or three Furlongs of my Garden, were killed
@@ -8787,11 +8788,11 @@
                     knew we had not all) besides 22. Mother-Waspes killed in the Spring at our
                     Bee-trough, which would have made so many nests. And <date when="1620"
                         >1620.</date> for the same causes the number was as great or greater: and
-                    yet the exceeding wet Summer following I saw not one small Waspe. </note>
+                    yet the exceeding wet Summer following I saw not one small Waspe. </lem><rdg wit="#b1609"></rdg></app></note>
                 <p xml:id="ch7par24"><note type="authorial" subtype="summary" xml:id="ch7sumn17">
                         17. Remedies against the Waspes.</note> Wherefore, if you love your Bees,
                     suffer not a Waspes nest about you. </p>
-                <p xml:id="ch7par25">The ready way to rid them is, If they be in a Tree above <fw
+                <p xml:id="ch7par25">The <app type="vocabulary" subtype="change"><lem wit="#b1623">ready</lem><rdg wit="#b1609"><ptr target="1609.xml#ch7ancs16 1609.xml#ch7ance16"/></rdg></app> way to rid them is, If they be in a Tree above <fw
                         type="catch"> the</fw>
                     <pb n="Q3r"/>
                     <fw type="header"> Of the Bees Enemies. </fw> the hoal, to smother them with
