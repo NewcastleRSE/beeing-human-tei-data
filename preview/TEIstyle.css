@@ -23,11 +23,6 @@
     text-align:left;
 }
 
-/* Global style */
-html, body {
-  background-color: rgb(228, 230, 238);
-}
-
 /* Choice elements */
 tei-choice tei-abbr + tei-expan:before,
 tei-choice tei-expan + tei-abbr:before,
@@ -149,6 +144,9 @@ tei-bibl[data-tei-rend~="block"], bibl[data-tei-rendition~="#block"] {
   display: block;
   padding-left: 2em;
   text-indent: -2em;
+}
+tei-quote tei-bibl {
+  font-style: normal;
 }
 tei-biblFull {
   display: block;
@@ -323,7 +321,6 @@ tei-figure {
   margin-left: auto;
   margin-right: auto;
 }
-
 tei-foreign {
   font-style: italic;
 }
@@ -903,6 +900,10 @@ tei-textclass {
 tei-textdesc {
   display: none;
 }
+
+tei-term {
+  font-style: italic;
+}
 /* title */
 tei-tei tei-title {
   display: inline;
@@ -1009,6 +1010,14 @@ tei-fw[type="catch"] {
   font-size: 0.7rem;
 }
 
+tei-note {
+  float: left;
+  margin-left: -50%;
+  max-width: 20rem;
+  clear: both;
+  font-size: small;
+}
+
 tei-note[type="authorial"] {
   float: left;
   margin-left: -50%;
@@ -1016,11 +1025,26 @@ tei-note[type="authorial"] {
   clear:both;
 }
 
+tei-note[place="inline"] {
+  float:unset;
+  margin-left: unset;
+  max-width: unset;
+  clear: unset;
+}
+
 tei-note[subtype="bibliographic"] {
   float:right;
   margin-left: unset;
   max-width: 20rem;
   margin-right: -50%;
+}
+
+tei-hi {
+  font-style: italic;
+}
+
+tei-hi[rend="bold"] {
+  font-weight: bold;
 }
 
 tei-hi[rend="drop-capital"] {
@@ -1044,4 +1068,34 @@ tei-head[type="chapter-title"] {
   width: 100%;
   text-align: center;
   font-style: italic;
+}
+
+/* Additional classes */
+
+tei-hi[rend="opposite"], tei-seg[rend="normal"] {
+  font-style: normal;
+}
+
+/* for form italics in marginal notes and refs */
+tei-seg[rend="italic"] {
+  font-style: italic;
+}
+
+/* running headers */
+tei-fw[type="header"] {
+  font-style: italic;
+}
+
+/* hide editorial notes at this stage */
+tei-note[type="editorial"] {
+  visibility: hidden;
+}
+
+/* terms / foreign inside notes */
+tei-seg[rend="italic"] > tei-term ,
+tei-note[subtype="summary"] > tei-term,
+tei-seg[rend="italic"] > tei-persname,
+tei-note > tei-foreign,
+tei-seg[rend="italic"] > tei-foreign {
+  font-style: normal;
 }
