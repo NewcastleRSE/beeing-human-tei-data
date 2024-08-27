@@ -9489,19 +9489,19 @@
             <fw type="ornament"/>
             <div type="chapter" n="8" xml:id="ch8">
                 <head type="chapter-number">CHAP. VIII</head>
-                <head type="chapter-title">Of the Feeding of Bees.</head>
+                <head type="chapter-title">Of the Feeding of Bees.</head><app type="major" subtype="del"><lem wit="#b1623"></lem><rdg wit="#b1609"><ptr target="1609.xml#ch9ancs1 1609.xml#ch9ance1"/></rdg></app>
                 <p xml:id="ch8par1"><hi rend="drop-capital">T</hi>Hree moneths of the twelve are
                     rich and plentifull (in which the Bees gather abundantly, and store themselves
                     for all the yeere) <term> Gemini</term>, Cancer, <term>Leo</term>; but
-                        <term>Cancer</term> is better than both the other. In <term> Virgo</term>
+                        <term>Cancer</term> is better than both the other. <app type="major" subtype="change"><lem wit="#b1623">In <term> Virgo</term>
                     and <term>Libra</term> they live of their daily labour from hand to mouth:
                     little increasing or diminishing their store; unlesse they fall into the hands
-                    of Robbers, and then, without reskue, they lose all. <note type="authorial"
+                    of Robbers, and then, without reskue, they lose all.</lem><rdg wit="#b1609"><ptr target="1609.xml#ch9ancs2 1609.xml#ch9ance2"/></rdg></app> <note type="authorial"
                         subtype="summary" xml:id="ch8sumn1">1. In seven moneths the Bees spend of
-                        the stocke.</note> But in the other seven, either wholly or partly they feed
-                    upon that store, which the three rich moneths did afford them. For <term>
+                        the stocke.</note><app type="minor" subtype="add"><lem wit="#b1623"> But in the other seven, either wholly or partly they feed
+                            upon that store, which the three rich moneths did afford them. </lem><rdg wit="#b1609"></rdg></app><app type="minor" subtype="change"><lem wit="#b1623">For <term>
                         Scorpio</term> hath but the poore gleanings of decaying plants: the three
-                    still moneths nothing at all. <term>Pisces</term> beginneth to put forth fresh
+                                still moneths nothing at all.</lem><rdg wit="#b1609"><ptr target="1609.xml#ch9ancs3 1609.xml#ch9ance3/></rdg></app> <term>Pisces</term> beginneth to put forth fresh
                     plants, which in <term>Aries</term> and <term>Taurus</term> are well increased:
                     but this breeding time the mouths are multiplied more often than the meat, which
                         <note type="authorial" subtype="gloss" xml:id="ch8glon1"> *<seg rend="italic">Rainie, cold, and
