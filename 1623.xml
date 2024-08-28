@@ -9500,21 +9500,21 @@
                         subtype="summary" xml:id="ch8sumn1">1. In seven moneths the Bees spend of
                         the stocke.</note><app type="minor" subtype="add"><lem wit="#b1623"> But in the other seven, either wholly or partly they feed
                             upon that store, which the three rich moneths did afford them. </lem><rdg wit="#b1609"></rdg></app><app type="minor" subtype="change"><lem wit="#b1623">For <term>
-                        Scorpio</term> hath but the poore gleanings of decaying plants: the three
-                                still moneths nothing at all.</lem><rdg wit="#b1609"><ptr target="1609.xml#ch9ancs3 1609.xml#ch9ance3/></rdg></app> <term>Pisces</term> beginneth to put forth fresh
-                    plants, which in <term>Aries</term> and <term>Taurus</term> are well increased:
-                    but this breeding time the mouths are multiplied more often than the meat, which
+                                Scorpio</term> hath but the poore gleanings of decaying plants: </lem><rdg wit="#b1609"><ptr target="1609.xml#ch9ancs3 1609.xml#ch9ance3"/></rdg></app><app type="minor" subtype="change"><lem wit="#b1623">the three
+                                    still moneths</lem><rdg wit="#b1609"><ptr target="1609.xml#ch9ancs4 1609.xml#ch9ance4"/></rdg></app> nothing at all. <app type="minor" subtype="change"><lem wit="#b1623"><term>Pisces</term> beginneth to put forth fresh
+                                        plants, which in <term>Aries</term> and <term>Taurus</term> are well increased:</lem><rdg wit="#b1609"><ptr target="1609.xml#ch9ancs5 1609.xml#ch9ance5"/></rdg></app>
+                    <app type="minor" subtype="change"><lem wit="#b1623">but this breeding time the mouths are multiplied more often than the meat,</lem><rdg wit="#b1609"><ptr target="1609.xml#ch9ancs6 1609.xml#ch9ance6"/></rdg></app> <app type="vocabulary" subtype="change"><lem wit="#b1623">which</lem><rdg wit="#b1609"><ptr target="1609.xml#ch9ancs7 1609.xml#ch9ance7"/></rdg></app>
                         <note type="authorial" subtype="gloss" xml:id="ch8glon1"> *<seg rend="italic">Rainie, cold, and
                         windie.</seg> </note>
                     <ref target="#ch8glon1">*</ref>unkinde weather oftentimes suffereth them not to
-                    fetch in. So that all this while, they, more or lesse, spend upon the stocke:
-                    yea the weaker stalls somewhat longer, being not so well able to indure the
-                    sharpe aire: and therefore, for want of some store to feed on betweene whiles at
+                    <app type="minor" subtype="change"><lem wit="#b1623">fetch in.</lem><rdg wit="#b1609"><ptr target="1609.xml#ch9ancs8 1609.xml#ch9ance8"/></rdg></app> So that all this while<app type="other" subtype="add"><lem wit="#b1623">,</lem><rdg wit="#b1609"></rdg></app> they<app type="minor" subtype="add"><lem wit="#b1623">, more or lesse,</lem><rdg wit="#b1609"></rdg></app> <app type="vocabulary" subtype="change"><lem wit="#b1623">spend</lem><rdg wit="#b1609"><ptr target="1609.xml#ch9ancs9 1609.xml#ch9ance9"/></rdg></app> upon the stocke:
+                    yea the weaker stalls somewhat longer, being not so well able to <app type="vocabulary" subtype="change"><lem wit="#b1623">indure</lem><rdg wit="#b1609"><ptr target="1609.xml#ch9ancs10 1609.xml#ch9ance10"/></rdg></app> the
+                    <app type="vocabulary" subtype="change"><lem wit="#b1623">sharpe</lem><rdg wit="#b1609"><ptr target="1609.xml#ch9ancs11 1609.xml#ch9ance11"/></rdg></app> aire: and therefore, for want of some store to feed on betweene whiles at
                     home, I have knowne some die after Mid-<term> Gemini.</term>
                 </p>
                 <p xml:id="ch8par2"><note type="authorial" subtype="summary" xml:id="ch8sumn2">2.
-                        Three sorts of swarmes diversely provided.</note> For which seven spending
-                    moneths, some swarmes are sufficiently provided: which you may reckon as Jewels,
+                    Three sorts of swarmes diversely provided.</note> <app type="vocabulary" subtype="change"><lem wit="#b1623">For</lem><rdg wit="#b1609"><ptr target="1609.xml#ch9ancs12 1609.xml#ch9ance12"/></rdg></app> which seven <app type="vocabulary" subtype="add"><lem wit="#b1623">spending</lem><rdg wit="#b1609"></rdg></app>
+                    moneths, <app type="major" subtype="del"><lem wit="#b1623"></lem><rdg wit="#b1609"><ptr target="1609.xml#ch9ancs13 1609.xml#ch9ance13"/></rdg></app><app type="major" subtype="add"><lem wit="#b1623">some swarmes are sufficiently provided: which you may reckon as Jewels,
                     the verie <foreign xml:lang="la">Spes gregis</foreign>; whose increase the next
                     yeere is certaine, if they be not over-hived. Some are not provided for halfe
                     the time: and these, as desperately poore, are not worth the <fw type="catch">
@@ -9616,8 +9616,8 @@
                 <lb/>
                 <p xml:id="ch8par9"><note type="authorial" subtype="summary" xml:id="ch8sumn10">10.
                         The Bees food.</note>
-                    <hi rend="drop-capital">T</hi>HE naturall food of Bees is Honie: for want, or
-                    sparing whereof, many other things have beene devised.
+                        </lem></app><app type="minor" subtype="change"><lem wit="#b1623"><hi rend="drop-capital">T</hi>HE naturall food of Bees is Honie: for want, or
+                            sparing whereof, many other things have beene devised.</lem><rdg wit="#b1609"><ptr target="1609.xml#ch9ancs14 1609.xml#ch9ance14"/></rdg></app>
                         <persName>Aristotle</persName> mentioneth Figs, and all such sweet things. <quote>
                         <foreign xml:lang="la">Apiarii ficus ac reliqua ad genus dulcia cibum
                             apponnut.</foreign>
@@ -9625,7 +9625,7 @@
                             <bibl>Hist.li.9.c.40.</bibl>
                         </note>
                     </quote> and <persName> Plinie,</persName> speaking more particularly,
-                    commendeth Raysings, and Figs, and teased Wooll, wet in sweet Wine made of
+                    commendeth Raysings, and Figs, and teased Wooll, wet<app type="minor" subtype="del"><lem wit="#b1623"></lem><rdg wit="#b1609"><ptr target="1609.xml#ch9ancs15 1609.xml#ch9ance15"/></rdg></app> in sweet Wine made of
                     Raisings, or new Wine boiled, or Hony-water. <quote>
                         <note type="authorial" subtype="bibliographic" xml:id="ch8bibln10">
                             <bibl>Nat hist.li.21.c.14.</bibl>
@@ -9633,12 +9633,12 @@
                         <foreign xml:lang="la">Si cibus deesse censeatur apibus, avas passas
                             siccasue, sicosque, tusas ad fores earum posuisse conveniet, item lanas
                             tractas madentes passo aut defruto, aut aqua mulsa.</foreign>
-                    </quote> And some of our Country-men have practised to give them Bay-salt,
-                    Bean-flower, Ground-mault, rosted Wardens, and Apples, and sweet Wort. All <fw
+                    </quote> And some of our Country-men have practised to give them Bay-salt,<app type="vocabulary" subtype="del"><lem wit="#b1623"></lem><rdg wit="#b1609"><ptr target="1609.xml#ch9ancs16 1609.xml#ch9ance16"/></rdg></app>
+                    Bean-flower, <app type="minor" subtype="add"><lem wit="#b1623">Ground-mault, rosted Wardens, and Apples,</lem><rdg wit="#b1609"></rdg></app> and sweet Wort. All <fw
                         type="catch"> which</fw>
                     <pb n="S3v"/>
                     <fw type="header"> Of the Feeding of Bees. </fw> which things, though they will
-                    spend; yet cannot they be preseved by them without Honie. </p>
+                    spend; yet cannot <app type="vocabulary" subtype="change"><lem wit="#b1623">they</lem><rdg wit="#b1609"><ptr target="1609.xml#ch9ancs17 1609.xml#ch9ance17"/></rdg></app> be preseved by them without Honie. </p>
                 <note type="authorial" subtype="gloss" place="inline" xml:id="ch8glon4">Touching the
                     counsell of <persName> Plinie.</persName> this is to be noted, that if you place
                     their food <foreign xml:lang="la">ad fores</foreign> before the doore, it will
