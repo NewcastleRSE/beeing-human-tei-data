@@ -9747,23 +9747,23 @@
                         Hony-combe, </lem><rdg wit="#b1609"><ptr target="1609.xml#ch9ancs22 1609.xml#ch9ance22"/></rdg></app>take a <app type="vocabulary" subtype="change"><lem wit="#b1623">drie</lem><rdg wit="#b1609"><ptr target="1609.xml#ch9ancs22 1609.xml#ch9ance22"/></rdg></app> Combe, <app type="minor" subtype="add"><lem wit="#b1623">reserved for the purpose,</lem><rdg wit="#b1609"></rdg></app> and poure thereon so
                     much Honie as it may receive. If you thinke it be not liquid enough; then either
                     warme it first <app type="minor" subtype="del"><lem wit="#b1623"></lem><rdg wit="#b1609"><ptr target="1609.xml#ch9ancs24 1609.xml#ch9ance24/></rdg></app>over the fire, or else spread it all over the Combe with your
-                    finger, that it may sinke into the Cells: (for which purpose Live-hony is best)
-                    then use this honied combe as the Hony-combe. <ref target="#ch8sumn11"> v.n.
-                        11.</ref></p>
+                    <app type="vocabulary" subtype="change"><lem wit="#b1623">finger</lem><rdg wit="#b1609"><ptr target="1609.xml#ch9ancs25 1609.xml#ch9ance25"/></rdg></app>, that it may sinke into the Cells: (for which purpose Live-hony is <app type="vocabulary" subtype="del"><lem wit="#b1623"></lem><rdg wit="#b1609"><ptr target="1609.xml#ch9ancs26 1609.xml#ch9ance26"/></rdg></app>best)
+                    <app type="minor" subtype="add"><lem wit="#b1623">then use this honied combe as the Hony-combe. <ref target="#ch8sumn11"> v.n.
+                        11.</ref></lem><rdg wit="#b1609"></rdg></app></p><app type="major" subtype="del"><lem wit="#b1623"></lem><rdg wit="#b1609"><ptr target="1609.xml#ch9ancs27 1609.xml#ch9ance29"/></rdg></app>
                 <p xml:id="ch8par17"><note type="authorial" subtype="summary" xml:id="ch8sumn16">16.
-                        The third time of feeding.</note> If either these fed Bees, or any other,
+                        The third time of feeding.</note> <app type="major" subtype="add"><lem wit="#b1623">If either these fed Bees, or any other,
                     chance afterward to lacke (namely in <term> Taurus</term>, or somwhat before or
                     after) then feed them daily untill mid-<term> Gemini</term>, giving them, everie
                     evening or morning betimes, a spoonefull of Honie; and taking away the Combe
                     againe before other Bees be at worke. But this is to be done without
                     intermission: for the Bees will duly looke for it, and languish, if once or
-                    twice they lacke it. </p>
+                    twice they lacke it. </lem><rdg wit="#b1609"></rdg></app></p>
                 <note type="authorial" subtype="gloss" place="inline" xml:id="ch8glon6">If you use
                     to knocke the Hive, when you put in the Honie; they will come downe together,
                     like sheepe to a call, when they are to be fodered. </note>
-                <p xml:id="ch8par18">By this meanes I have saved swarmes that forsooke their Hives
+                <p xml:id="ch8par18"><app type="major" subtype="add"><lem wit="#b1623">By this meanes I have saved swarmes that forsooke their Hives
                     for hunger, hiving them againe in their owne Hives: which proved good the same
-                    yeere. </p>
+                    yeere. </lem><rdg wit="#b1609"></rdg></app></p>
             </div>
             <fw type="catch"> CHAP</fw>
             <pb n="T1r"/>
