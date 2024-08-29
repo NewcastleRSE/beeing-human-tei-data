@@ -9713,40 +9713,40 @@
                 <p xml:id="ch8par14"><note type="authorial" subtype="summary" xml:id="ch8sumn14">14.
                     The first time of feeding.</note> <app type="minor" subtype="change"><lem wit="#b1623">It is good</lem><rdg wit="#b1609"><ptr target="1609.xml#ch9ancs18 1609.xml#ch9ance18"/></rdg></app> to feed Bees before they need:
                     (that they may save their store, which they have shut up in their Cells, until
-                    the spring) namely, in the later part of <term> Virgo,</term> when the Combes
+                    the spring) namely, in <app type="major" subtype="del"><lem wit="#b1623"></lem><rdg wit="#b1609"><ptr target="1609.xml#ch9ancs19 1609.xml#ch9ance19"/></rdg></app><app type="minor" subtype="add"><lem wit="#b1623">the later part of <term> Virgo,</term> when the Combes
                     are taken, <ref target="#ch8bibln14">v.</ref>
                     <note type="authorial" subtype="bibliographic" xml:id="ch8bibln14">
                         <ref target="#ch10p1sumn2">V.c. 10.p.1.n. 2.</ref>
                     </note> or in <term> Libra.</term> For those that have spent their owne store,
                     and have little or nothing leaft in the end of Winter, as so discouraged and so
                     feeble with fasting; that knowing their thin bodies can beare out no cold, they
-                    wil not come abroad, but when they are fed: unlesse the weather be exceeding
+                    wil not come abroad, but when they are fed: </lem><rdg wit="#b1609"></rdg></app>unlesse the weather be exceeding
                     warme and calme: and the more they keepe in, the <fw type="catch"> weaker</fw>
                     <pb n="S4v"/>
-                    <fw type="header"> Of the Feeding of Bees. </fw> weaker still they are, and
-                    lesse apt to breed. But those whose rathe feeding hath caused them to spare
+                    <fw type="header"> Of the Feeding of Bees. </fw> weaker still they are<app type="minor" subtype="add"><lem wit="#b1623">, and
+                        lesse apt to breed.</lem><rdg wit="#b1609"></rdg></app> But those whose rathe feeding hath caused them to spare
                     their store till the Spring, will be as cheerefull as the best: in any
                     reasonable weather they will abroad, and fetch in that fruitfull <term>
-                        Ambrosia,</term> which causeth them presently to increase and multiply. <ref
-                        target="#ch4sumn12"> v.c. 4.n.12.</ref></p>
-                <p xml:id="ch8par15">At this first time therefore first finish the publike feeding:
+                        Ambrosia,</term> which causeth them presently to <app type="vocabulary" subtype="change"><lem wit="#b1623">increase and multiply</lem><rdg wit="#b1609"><ptr target="1609.xml#ch9ancs20 1609.xml#ch9ance20"/></rdg></app>. <ref
+                        target="#ch4sumn12"> v.c. 4.n.12.</ref></p><app type="major" subtype="del"><lem wit="#b1623"></lem><rdg wit="#b1609"><ptr target="1609.xml#ch9ancs21 1609.xml#ch9ance21"/></rdg></app>
+                <p xml:id="ch8par15"><app type="major" subtype="add"><lem wit="#b1623">At this first time therefore first finish the publike feeding:
                     and then begin the private, specially of those that are under eighteene pound:
                     to which if you give now the better part of their<ref target="#ch8glon5">*</ref>
                     due allowance; you may supply the defects of them, as also the rest, at the
-                    second feeding-time, when their need will better appeare. </p>
-                <note type="authorial" subtype="gloss" place="inline" xml:id="ch8glon5">*Their due
+                    second feeding-time, when their need will better appeare. </lem><rdg wit="#b1609"></rdg></app></p>
+                <note type="authorial" subtype="gloss" place="inline" xml:id="ch8glon5"><app type="reference" subtype="add"><lem wit="#b1623">*Their due
                     allowance, first and last to be given them, is so much at least, as the swarme
                     with his store lacketh of twentie pound. <ref target="#ch8sumn8">v.n.8.</ref>
-                </note>
+                </lem><rdg wit="#b1609"></rdg></app></note>
                 <p xml:id="ch8par16"><note type="authorial" subtype="summary" xml:id="ch8sumn15">15.
-                        The second time of feeding.</note> In <term>Pisces</term> or <term>
+                        The second time of feeding.</note> <app type="major" subtype="add"><lem wit="#b1623">In <term>Pisces</term> or <term>
                         Aries</term>, as soone as the weather is warme (not before, lest the cold
                     chill them in their worke) if you feare they will lacke, (which you may perceive
                     by their lightnesse &amp; unwillingnesse to come abroad) supply their want
-                    againe, and againe, if need be. But in this second feeding, for lacke of a
-                    Hony-combe, take a drie Combe, reserved for the purpose, and poure thereon so
+                    againe, and againe, if need be.</lem><rdg wit="#b1609"></rdg></app> <app type="minor" subtype="change"><lem wit="#b1623">But in this second feeding, for lacke of a
+                        Hony-combe, </lem><rdg wit="#b1609"><ptr target="1609.xml#ch9ancs22 1609.xml#ch9ance22"/></rdg></app>take a <app type="vocabulary" subtype="change"><lem wit="#b1623">drie</lem><rdg wit="#b1609"><ptr target="1609.xml#ch9ancs22 1609.xml#ch9ance22"/></rdg></app> Combe, <app type="minor" subtype="add"><lem wit="#b1623">reserved for the purpose,</lem><rdg wit="#b1609"></rdg></app> and poure thereon so
                     much Honie as it may receive. If you thinke it be not liquid enough; then either
-                    warme it first over the fire, or else spread it all over the Combe with your
+                    warme it first <app type="minor" subtype="del"><lem wit="#b1623"></lem><rdg wit="#b1609"><ptr target="1609.xml#ch9ancs24 1609.xml#ch9ance24/></rdg></app>over the fire, or else spread it all over the Combe with your
                     finger, that it may sinke into the Cells: (for which purpose Live-hony is best)
                     then use this honied combe as the Hony-combe. <ref target="#ch8sumn11"> v.n.
                         11.</ref></p>
