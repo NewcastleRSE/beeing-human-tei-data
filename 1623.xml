@@ -141,6 +141,10 @@
                 <ptr target="#ch5par79"/>
                 <ptr target="#ch5par77"/>
             </transpose>
+            <transpose>
+                <ptr target="#ch9par4"></ptr>
+                <ptr target="#ch9par3"></ptr>
+            </transpose>
         </listTranspose>
     </standOff>
     <text>
@@ -9773,38 +9777,38 @@
                 <head type="chapter-title">Of the removing of Bees.</head>
                 <p xml:id="ch9par1"><note type="authorial" subtype="summary" xml:id="ch9sumn1">1.
                         Five things to be avoided in removing Bees.</note>
-                    <hi rend="drop-capital">I</hi>N removing of Bees be carefull to avoid these five
+                    <app type="major" subtype="add"><lem wit="#b1623"><hi rend="drop-capital">I</hi>N removing of Bees be carefull to avoid these five
                     evills: 1. hindering of their swarming: 2. and of their Hony-gathering: 3.
-                    breaking of their Combes: 4. robbing: 5. and losse of Bees. </p>
+                    breaking of their Combes: 4. robbing: 5. and losse of Bees. </lem><rdg wit="#b1609"></rdg></app></p>
                 <p xml:id="ch9par2"><note type="authorial" subtype="summary" xml:id="ch9sumn2">2.
                         Remove alwaies in faire weather</note> Remove alwaies in a faire day, and,
                     as neere as you can guesse, in setled weather. For when they are moved to
                     another place, if it be within their circuit or walke; they will flie to their
-                    old standing as soone as they are let goe, and hanker about it three or foure
-                    daies, and sometime longer: where if the cold wet catch them, many lose their
+                    old standing as soone as they are let goe, and hanker about it <app type="vocabulary" subtype="del"><lem wit="#b1623"></lem><rdg wit="#b1609"><ptr target="1609.xml#ch8ancs1 1609.xml#ch8ance1"/></rdg></app><app type="minor" subtype="change"><lem wit="#b1623">three or foure</lem><rdg wit="#b1609"><ptr target="1609.xml#ch8ancs2 1609.xml#ch8ance2"/></rdg></app>
+                    daies<app type="minor" subtype="add"><lem wit="#b1623">, and sometime longer</lem><rdg wit="#b1609"></rdg></app>: where if the cold wet catch them, many lose their
                     lives. And if you remove them out of their knowledge, then, as amazed in an
                     uncouth place, they flie about for a while viewing the countrie, and searching
                     for their old home: when they are wearie, they rest wheresoever: and if foule
                     weather come upon them, they are in like danger. </p>
                 <p xml:id="ch9par3"><note type="authorial" subtype="summary" xml:id="ch9sumn3">3.
-                        Not in Winter.</note> For the time of the yeere, remove not in the three
-                    still moneths, or in a fortnight afore or after, for losing the Bees. For if
+                        Not in Winter.</note> <app type="minor" subtype="change"><lem wit="#b1623">For the time of the yeere, remove not in the three
+                            still moneths, or in a fortnight afore or after,</lem><rdg wit="#b1609"><ptr target="1609.xml#ch8ancs3 1609.xml#ch8ance3"/></rdg></app> for losing the Bees. For if
                     foule weather fall not, the very still cold will kill many, while they are
                     straying abroad: and of those that returne, being not yet acquainted with the
                     Hive doore, some will fall short, some upon the Hive: where, while they rest
                     panting, the cold chilleth them. </p>
                 <p xml:id="ch9par4"><note type="authorial" subtype="summary" xml:id="ch9sumn4">4.
                         Nor in Summer.</note>
-                    <term> Taurus</term>, <term>Gemini</term>, and especially <term> Cancer,</term>
-                    are naught, for hindering the swarming, as well as their hony-gathering: and
-                        <term>Cancer</term> for danger also of breaking their soft Combes. </p>
-                <p xml:id="ch9par5">In <term>Leo</term> though the swarming time be past, and
+                    <app type="minor" subtype="change"><lem wit="#b1623"><term> Taurus</term>, <term>Gemini</term>, and especially <term> Cancer,</term>
+                        are naught, for hindering the swarming, as well as their</lem><rdg wit="#b1609"><ptr target="1609.xml#ch8ancs4 1609.xml#ch8ance4"/></rdg></app> hony-gathering: <app type="minor" subtype="add"><lem wit="#b1623">and
+                            <term>Cancer</term> for danger also of breaking their soft Combes.</lem><rdg wit="#b1609"></rdg></app> </p>
+                <p xml:id="ch9par5"><app type="major" subtype="add"><lem wit="#b1623">In <term>Leo</term> though the swarming time be past, and
                     robbing time not yet come; yet there remaineth some honie-gathe- <fw
                         type="catch"> ring,</fw>
                     <pb n="T1v"/>
                     <fw type="header"> Of the Removing of Bees. </fw> ring, and the Combes being
-                    then most weightie and most weake, the danger of breaking them is greatest. </p>
-                <p xml:id="ch9par6">To remove in <term>Virgo</term> (when the Bees doe ever use to
+                    then most weightie and most weake, the danger of breaking them is greatest. </lem><rdg wit="#b1609"></rdg></app></p>
+                <p xml:id="ch9par6"><app type="major" subtype="add"><lem wit="#b1623">To remove in <term>Virgo</term> (when the Bees doe ever use to
                     be trying of masteries) <ref target="#ch9bibln1"> v.</ref>
                     <note type="authorial" subtype="bibliographic" xml:id="ch9bibln1">
                         <ref target="#ch7sumn31"> V.c.7.n.31. </ref>
@@ -9815,7 +9819,7 @@
                     bring the rest such cheere to their house-warming, as shall haply make the house
                     too hot for them. And then they must be faine to goe along with them, and helpe
                     to carrie their owne goods after them. <ref target="#ch7sumn42"> v.c.7.n.42.
-                    </ref></p>
+                    </ref></lem><rdg wit="#b1609"></rdg></app></p>
                 <p xml:id="ch9par7"><note type="authorial" subtype="summary" xml:id="ch9sumn5">5.
                         The Autumne and Spring are fit times for removing.</note> The fittest time
                     is either in <term> Libra</term> and the fore-part of <term>Scorpio</term>, that
@@ -9823,24 +9827,24 @@
                     in <term> Aries</term> and the later part of <term>Pisces,</term> that they may
                     be acquainted with it before much gathering of Honie. </p>
                 <p xml:id="ch9par8">Neverthelesse, if you have Bees in other mens keeping, whose
-                    care and skill you mistrust; you were better to remove them unseasonably with
-                    some losse, than to hazard all by their ignorance and negligence.</p>
+                    care and skill you mistrust; you were better to remove them <app type="minor" subtype="add"><lem wit="#b1623">unseasonably with
+                        some losse,</lem><rdg wit="#b1609"></rdg></app><app type="minor" subtype="del"><lem wit="#b1623"></lem><rdg wit="#b1609"><ptr target="1609.xml#ch8ancs5 1609.xml#ch8ance5"/></rdg></app> than to hazard all by their ignorance and negligence.</p>
                 <p xml:id="ch9par9"><note type="authorial" subtype="summary" xml:id="ch9sumn6">6.
                         Libra, the best moneth in all the yeere.</note> But if you may choose,
                     remove in <term>Libra</term> onely, which is simply the best.</p>
                 <p xml:id="ch9par10"><note type="authorial" subtype="summary" xml:id="ch9sumn7">7.
-                        When to remove a swarme.</note> And for the removing of a Swarme into an
+                        When to remove a swarme.</note> <app type="major" subtype="add"><lem wit="#b1623">And for the removing of a Swarme into an
                     other Garden, (whether it be neere or far off) the only time is the evening or
                     night next after the hiving: that he may be at his new standing, readie to
                     worke, in the morning; and so lose no time, nor breake his first Combe in the
-                    carriage.</p>
+                    carriage.</lem><rdg wit="#b1609"></rdg></app></p>
                 <lb/>
                 <p xml:id="ch9par11"><note type="authorial" subtype="summary" xml:id="ch9sumn8">8.
                         The time of the day, and manner of removing.</note>
                     <hi rend="drop-capital">I</hi>N the evening, when you meane to remove, an houre
                     before sun-set prop up the Hive from the Stoole, with three Bolsters two or
                     three inches thicke, that the Bees may ascend from the stoole. About halfe an
-                    houre after, having prepared an other stoole of the same height, and covered it
+                    houre after, having prepared an other stoole of the same height,<app type="minor" subtype="del"><lem wit="#b1623"></lem><rdg wit="#b1609"><ptr target="1609.xml#ch8ancs6 1609.xml#ch9ance6"/></rdg></app> and covered it
                     with your Mantle, so, that the middle of the mantle be over the middle of the
                     stoole; move the stall with his stoole, if you may, a little aside; and set the
                     covered stoole close <fw type="catch"> to</fw>

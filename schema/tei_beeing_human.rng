@@ -2653,7 +2653,7 @@ The element indicated by @spanTo (<sch:value-of select="@spanTo"/>) must follow 
       </optional>
    </define>
    <define name="tei_p">
-      <element name="p">
+
          <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">(paragraph) marks paragraphs in prose. [3.1. Paragraphs 7.2.5. Speech Contents]</a:documentation>
          <ref name="tei_macro.paraContent"/>
          <pattern xmlns="http://purl.oclc.org/dsdl/schematron"
@@ -2683,7 +2683,6 @@ The element indicated by @spanTo (<sch:value-of select="@spanTo"/>) must follow 
          <ref name="tei_att.fragmentable.attributes"/>
          <ref name="tei_att.written.attributes"/>
          <empty/>
-      </element>
    </define>
    <define name="tei_foreign">
       <element name="foreign">
