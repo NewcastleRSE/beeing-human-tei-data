@@ -9894,16 +9894,16 @@
                 <head type="chapter-title">Of the fruit and profit of Bees.</head>
                 <p xml:id="ch10par1">Wherein is shewed first the <term>Vindemiation</term> or taking
                     of the Combes: secondly the trying of the <term>Wax</term> and
-                        <term>Honie</term>, with the making of <term> Meth</term> or
-                        <term>Hydromel</term>: and thirdly, the singular vertues of them, for the
+                        <term>Honie</term>, with the making of <term> Meth</term> <app type="vocabulary" subtype="add"><lem wit="#b1623">or
+                            <term>Hydromel</term></lem><rdg wit="#b1609"></rdg></app>: and thirdly, the singular vertues of them, for the
                     use and comfort of man. </p>
                 <div type="section" n="1" xml:id="ch10p1">
                     <head type="section-title">The first part of this Chapter sheweth the taking of
                         the Combes.</head>
                     <p xml:id="ch10p1par1"><note type="authorial" subtype="summary"
                             xml:id="ch10p1sumn1">1. The first kind of Vindemiation</note>
-                        <hi rend="drop-capital"> T</hi>He most usuall, and generally most usefull
-                        manner of taking of the Combes, is by killing the Bees. For which the
+                        <app type="minor" subtype="change"><lem wit="#b1623"><hi rend="drop-capital"> T</hi>He most usuall, and generally most usefull
+                        manner of taking the Combes,</lem><rdg wit="#b1623"><ptr target="1609.xml#ch10ancs1 1609.xml#ch10ance1"/></rdg></app> is by killing the Bees. For which the
                         naturall and seasonable time is the latter part of <term> Virgo</term>, from
                         the end of the <term>Dog-daies</term> unto <term> Libra</term>: because till
                         then the Combes are full of Schadons, which deceive the Honi-men, making the
