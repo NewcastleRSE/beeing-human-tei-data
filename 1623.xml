@@ -9916,16 +9916,16 @@
                             <note type="authorial" subtype="bibliographic" xml:id="ch10p1bibln1">
                                 <bibl> Col.l.9.c.15</bibl>
                             </note>
-                        </quote> and after that time, the weather waxeth colder, not so fit for the
+                        </quote><app type="major" subtype="del"><lem wit="#b1623"></lem><rdg wit="#b1609"><ptr target="1609.xml#ch10ancs4 1609.xml#ch10ance4"/></rdg></app><app type="major" subtype="add"><lem wit="#b1623">and after that time, the weather waxeth colder, not so fit for the
                         running and working of the Honie: and the Honie is likely to decrease,
                         either by their owne spending or by the spoiling of Robbers. Except in the
                         heath-countries, where their gathering lasteth longer: for there they defer
-                        their taking untill Mid-<term>Libra.</term></p>
+                        their taking untill Mid-<term>Libra.</term></lem><rdg wit="#b1609"></rdg></app></p>
                     <p xml:id="ch10p1par2"><note type="authorial" subtype="summary"
                             xml:id="ch10p1sumn3">3. What Stalls are to be taken.</note> At this time
                         therefore consider with your selfe what Stalls you wil kill. Swarmes that
-                        may live, yeerlings, and two yeerlings that are in proofe, keepe for store.
-                        Likewise those that rid their Drones betimes, and specially those that draw
+                        may live, yeerlings, and two yeerlings <app type="minor" subtype="add"><lem wit="#b1623">that are in proofe,</lem><rdg wit="#b1609"></rdg></app> <app type="minor" subtype="del"><lem wit="#b1623"></lem><rdg wit="#b1609"><ptr target="1609.xml#ch10ancs5 1609.xml#ch10ance5"/></rdg></app>keepe for store.<app type="major" subtype="del"><lem wit="#b1623"></lem><rdg wit="#b1609"><ptr target="1609.xml#ch10ancs6 1609.xml#ch10ance6"/></rdg></app>
+                        <app type="major" subtype="add"><lem wit="#b1623">Likewise those that rid their Drones betimes, and specially those that draw
                         out their young Cephens. <ref target="#ch10p1bibln2">v.</ref>
                         <note type="authorial" subtype="bibliographic" xml:id="ch10p1bibln2">
                             <ref target="#ch4sumn31"> V.c.4.n.31.&amp;32. </ref>
@@ -9937,12 +9937,12 @@
                         store, unlesse the frequent Honi-dewes have made them over fat. But those of
                         that age which have cast twice (except they were very forward and had beat
                         away their Drones betimes) are they not likely to<ref target="#ch10p1glon1"
-                            >*</ref> continue, and therefore are to be taken. </p>
-                    <note type="authorial" subtype="gloss" place="inline" xml:id="ch10p1glon1">*If
+                            >*</ref> continue, and therefore are to be taken. </lem><rdg wit="#b1609"></rdg></app></p>
+                    <note type="authorial" subtype="gloss" place="inline" xml:id="ch10p1glon1"><app type="major" subtype="add"><lem wit="#b1623">*If
                         you would have any such to stand an other yeere, and not to bee weakened by
                         his late castling; put it backe into the stocke againe, <ref
-                            target="#ch5sumn11"> v.c.5.n.11. </ref></note>
-                    <p xml:id="ch10p1par3">Likewise all poore swarms unworthy to be fed, <ref
+                            target="#ch5sumn11"> v.c.5.n.11. </ref></lem><rdg wit="#b1609"></rdg></app></note>
+                    <p xml:id="ch10p1par3"><app type="major" subtype="add"><lem wit="#b1623">Likewise all poore swarms unworthy to be fed, <ref
                             target="#ch10p1bibln3">v.</ref>
                         <note type="authorial" subtype="bibliographic" xml:id="ch10p1bibln3">
                             <ref target="#ch8sumn4">v.c. 8.n. 4.</ref>
@@ -9966,15 +9966,15 @@
                         full of Honie) they will decay by little and little, and consume to nothing.
                         And therefore, as in a wet hungry yeere you must keepe the best, so in a
                         drie yeere, rich and plentifull in Honie-dewes, the worst are like to prove
-                        best for store. </p>
-                    <p xml:id="ch10p1par4">But generally take the best, and the worst. <foreign
+                        best for store. </lem><rdg wit="#b1609"></rdg></app></p>
+                    <p xml:id="ch10p1par4"><app type="major" subtype="add"><lem wit="#b1623">But generally take the best, and the worst. <foreign
                             xml:lang="la">In medio virtus.</foreign> And ever suspect those that rid
                         not their Drones in time, <ref target="#ch10p1bibln5">v.</ref>
                         <note type="authorial" subtype="bibliographic" xml:id="ch10p1bibln5">
                             <ref target="#ch4sumn30"> V.c.4.n.30. </ref>
                         </note>
-                    </p>
-                    <p xml:id="ch10p1par5">Also those which the Robbers doe eagerly assault, <ref
+                    </lem><rdg wit="#b1609"></rdg></app> </p>
+                    <p xml:id="ch10p1par5"><app type="major" subtype="add"><lem wit="#b1623">Also those which the Robbers doe eagerly assault, <ref
                             target="#ch10p1bibln6"> v.</ref>
                         <note type="authorial" subtype="bibliographic" xml:id="ch10p1bibln6">
                             <ref target="#ch3sumn50"> V.c.3.n.50. </ref>
@@ -9982,22 +9982,22 @@
                             v.</ref> delay not their taking. <note type="authorial"
                             subtype="bibliographic" xml:id="ch10p1bibln7"><ref target="#ch7sumn46"
                                 >V.c.7.n.46</ref></note>
-                    </p>
+                    </lem><rdg wit="#b1609"></rdg></app></p>
                     <p xml:id="ch10p1par6"><note type="authorial" subtype="summary"
                             xml:id="ch10p1sumn4">4. The manner of killing Bees</note> Having made
-                        choice of your Stall to be taken, some two or three houres before <ref
-                            target="#ch10p1glon2">*</ref> Sun-set dig a hole in the ground, as neere
-                        the Stoole as may bee, about eight or nine inches <fw type="catch">
+                        choice of your Stall to be <app type="vocabulary" subtype="change"><lem wit="#b1623">taken</lem><rdg wit="#b1609"><ptr target="1609.xml#ch10ancs7 1609.xml#ch10ance7"/></rdg></app><app type="minor" subtype="del"><lem wit="#b1623"></lem><rdg wit="#b1609"><ptr target="1609.xml#ch10ancs8 1609.xml#ch10ance8"/></rdg></app>, <app type="minor" subtype="change"><lem wit="#b1623">some two or three houres before <ref
+                            target="#ch10p1glon2">*</ref> Sun-set </lem><rdg wit="#b1609"><ptr target="1609.xml#ch10ancs9 1609.xml#ch10ance9"/></rdg></app>dig a hole in the ground, as neere
+                        the Stoole as may bee, about <app type="minor" subtype="change"><lem wit="#b1623">eight or nine</lem><rdg wit="#b1609"><ptr target="1609.xml#ch10ancs10 1609.xml#ch10ance10"/></rdg></app> inches <fw type="catch">
                             deepe</fw>
                         <pb n="T3v"/>
                         <fw type="header"> Of the fruit and profit of Bees. </fw> deepe and almost
-                        as wide as the Hive-skirts: laying the small earth round about the brims.
-                        Then having a litte-sticke slit in one end, &amp; shript at the other, take
+                        as wide as the Hive-skirts: <app type="minor" subtype="add"><lem wit="#b1623">laying the small earth round about the brims</lem><rdg wit="#b1609"></rdg></app>.
+                        Then having a litte-sticke <app type="minor" subtype="change"><lem wit="#b1623">slit in one end, &amp; shript at the other, take
                         a <ref target="ch10p1glon2">†</ref> Brimstone-match 5. or 6. inches long,
                         and about the bignesse of your little finger, and making it fast in the
                         slit, sticke the sticke in the middle or side of the hoale; so that the top
                         of the Match may stand even with the brim of the pit: and then set another
-                        by him drest after the same manner, if that bee not sufficient. When you
+                        by him drest after the same manner, if that bee not sufficient.</lem><rdg wit="#b1609"><ptr target="1609.xml#ch10ancs11 1609.xml#ch10ance11"/></rdg></app> When you
                         have fired these Matches at the upper ends, set over the Hive: and presently
                         shut it so close at the Skirts, that none of the smoake may come forth. So
                         shall you have the Bees dead and downe in lesse than a quarter of an houre. </p>
