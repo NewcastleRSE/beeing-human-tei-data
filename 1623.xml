@@ -10052,9 +10052,9 @@
                         the full Hive <app type="minor" subtype="add"><lem wit="#b1623">or <term> Remover</term></lem><rdg wit="#b1609"></rdg></app> round about a good many times,
                         pawsing now and then a little betweene, that the Bees may ascend into the
                         void Hive. And when you thinke that most of them are driven up (which will
-                        bee about half an houre after) set the upper Hive or <term>Receiver</term>
-                        upon the old stoole: BUT bee sure &amp;c. <ref target="#ch10p1sumn15">as it
-                            followeth note 15.</ref></p>
+                        bee about half an houre after) set the upper Hive <app type="minor" subtype="add"><lem wit="#b1623">or <term>Receiver</term></lem><rdg wit="#b1609"></rdg></app>
+                        upon the old stoole: <app type="minor" subtype="add"><lem wit="#b1623">BUT bee sure &amp;c. <ref target="#ch10p1sumn15">as it
+                            followeth note 15.</ref></lem><rdg wit="#b1609"></rdg></app></p><app type="major" subtype="del"><lem wit="#b1623"></lem><rdg wit="#b1609"><ptr target="1609.xml#ch10ancs22 1609.xml#ch10ance22"/></rdg></app>
                     <p xml:id="ch10p1par10">Provided alwaies, before you goe about this businesse,
                         that all the Stalls in your Garden be first shut up, lest they trouble you
                         and your poore Bees. </p>
@@ -10070,7 +10070,7 @@
                         <note type="authorial" subtype="bibliographic" xml:id="ch10p1bibln10">
                             <ref target="#ch10p1sumn2"> V.n.2. </ref>
                         </note> which can hardly be cleane taken from it; neither so much by almost
-                        the one halfe, sith there remaine yet six or seven weekes of
+                        the one halfe, sith there remaine yet six or seven weekes of <app type="minor" subtype="del"><lem wit="#b1623"></lem><rdg wit="#b1609"><ptr target="1609.xml#ch10ancs23 1609.xml#ch10ance23"/></rdg></app>
                         Honie-gathering. </p>
                     <p xml:id="ch10p1par12"><note type="authorial" subtype="summary"
                             xml:id="ch10p1sumn11">11. And the Bees driven, few and poore.</note> And
@@ -10081,7 +10081,7 @@
                         as for those that have not cast, they might after that time yeeld a swarme,
                         which would be better than the whole stall being driven: and if they did not
                         swarme at all, they would they bee so much the better, either to take for
-                        Honie, or to keepe for store. <ref target="#ch5sumn22"> v.c.5.n.22. </ref>
+                        Honie, or to keepe for store. <ref target="#ch5sumn22"><app type="reference" subtype="add"><lem wit="#b1623"> v.c.5.n.22.</lem><rdg wit="#b1609"></rdg></app> </ref>
                     </p>
                     <p xml:id="ch10p1par13"><note type="authorial" subtype="summary"
                             xml:id="ch10p1sumn12">12. Another kinde of driving</note> This Driving
@@ -10093,21 +10093,21 @@
                         lives of both are saved together. </p>
                     <p xml:id="ch10p1par14"><note type="authorial" subtype="summary"
                             xml:id="ch10p1sumn13">13. At two times.</note> And thus some are to be
-                        driven in the latter part of <term>Virgo,</term> when they have done
+                        driven in <app type="minor" subtype="change"><lem wit="#b1623">the latter part of <term>Virgo,</term> when they have done
                         breeding, <ref target="#ch10p1bibln11">v.</ref>
                         <note type="authorial" subtype="bibliographic" xml:id="ch10p1bibln11">
                             <ref target="#ch10p1sumn2"> V.n.2. </ref>
-                        </note> and some in <term>Aquarius</term> or <term> Pisces,</term> before
-                        they begin to breed againe. <ref target="#ch4sumn12"> v.c.4.n.12. </ref>
+                        </note> </lem><rdg wit="#b1609"><ptr target="1609.xml#ch10ancs24 1609.xml#ch10ance24"/></rdg></app>and some in <term>Aquarius</term> or <term> Pisces,</term> before
+                        they begin to breed <app type="minor" subtype="add"><lem wit="#b1623">againe.</lem><rdg wit="#b1609"></rdg></app> <app type="reference" subtype="add"><lem wit="#b1623"><ref target="#ch4sumn12"> v.c.4.n.12. </ref></lem><rdg wit="#b1609"></rdg></app>
                     </p>
                     <p xml:id="ch10p1par15"><note type="authorial" subtype="summary"
-                            xml:id="ch10p1sumn14">14. Driving in Virgo.</note> In <term>Virgo</term>
+                        xml:id="ch10p1sumn14">14. Driving in Virgo.</note> In <app type="vocabulary" subtype="change"><lem wit="#b1623"><term>Virgo</term></lem><rdg wit="#b1609"></rdg></app>
                         such stalls onely are to be driven, as are fit to bee killed. <ref
                             target="#ch10p1bibln12">v.</ref>
                         <note type="authorial" subtype="bibliographic" xml:id="ch10p1bibln12">
                             <ref target="#ch10p1sumn3"> V.n.3. </ref>
                         </note> and that into yeerlings or two-yeerlings, which that yeere have cast
-                        twice, and therefore have few Bees leaft in them; but yet have Honie enough. </p>
+                        twice, and therefore have few Bees leaft in them;<app type="minor" subtype="del"><lem wit="#b1623"></lem><rdg wit="#b1609"><ptr target="1609.xml#ch10ancs26 1609.xml#ch10ance26"/></rdg></app> <app type="minor" subtype="add"><lem wit="#b1623">but yet have Honie enough.</lem><rdg wit="#b1609"></rdg></app></p>
                     <p xml:id="ch10p1par16"><note type="authorial" subtype="summary"
                             xml:id="ch10p1sumn15">15. The manner of driving in <term>Virgo</term>.</note> The
                         manner of it is this. Having first placed these two stalles, the
