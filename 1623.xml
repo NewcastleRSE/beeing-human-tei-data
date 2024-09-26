@@ -6875,12 +6875,21 @@
                 <p xml:id="ch6par10"><note type="authorial" subtype="summary" xml:id="ch6sumn14">14.
                         The combes doe often change their hue.</note> <app type="minor" subtype="add"><lem wit="#b1623">The Combes have successively
                             sundry colours: white, yellow, browne, blacke.</lem><rdg wit="#b1609"></rdg></app> <app type="minor" subtype="add"><lem wit="#b1623"><note type="authorial"
-                        subtype="summary" xml:id="ch6sumnX1">Virgin wax and ordinary.</note></lem><rdg wit="#b1609"></rdg></app> <app type="minor" subtype="change"><lem wit="#b1623">Their
-c                            first colour white,</lem><rdg wit="#b1609"><ptr target="1609.xml#ch6ancs14 1609.xml#ch6ance14"/></rdg></app><app type="minor" subtype="del"><lem wit="#b1623"></lem><rdg wit="#b1609"><ptr target="1609.xml#ch6ancs15 1609.xml#ch6ance15"/></rdg></app> <app type="minor" subtype="change"><lem wit="#b1623">by the end of the Summer is turned to a light yellow.</lem><rdg wit="#b1609"><ptr target="1609.xml#ch6ancs16 1609.xml#ch6ance16"/></rdg></app> <app type="minor" subtype="add"><lem wit="#b1623">Those
+                        subtype="summary" xml:id="ch6sumnX1">Virgin wax and ordinary.</note></lem><rdg wit="#b1609"></rdg></app> <app type="minor" subtype="change"><lem wit="#b1623">Their first colour white,</lem><rdg wit="#b1609"><ptr target="1609.xml#ch6ancs14 1609.xml#ch6ance14"/></rdg></app>
+                    <app type="minor" subtype="del">
+                        <lem wit="#b1623"/>
+                        <rdg wit="#b1609"><ptr target="1609.xml#ch6ancs15 1609.xml#ch6ance15"
+                            /></rdg>
+                    </app> <app type="minor" subtype="change"><lem wit="#b1623">by the end of the Summer is turned to a light yellow.</lem><rdg wit="#b1609"><ptr target="1609.xml#ch6ancs16 1609.xml#ch6ance16"/></rdg></app> <app type="minor" subtype="add"><lem wit="#b1623">Those
                     that are taken and tried this first yeere, are called Virgin-wax, but the whiter
                     the purer: and the rest are ordinarie. The second Summer this light yellow is
                     changed to a sad. The third this sad yellow into a browne:</lem><rdg wit="#b1609"></rdg></app> <app type="minor" subtype="change"><lem wit="#b1623">which afterward</lem><rdg wit="#b1609"><ptr target="1609.xml#ch6ancs17 1609.xml#ch6ance17"/></rdg></app>, <app type="vocabulary" subtype="change"><lem wit="#b1623">as</lem><rdg wit="#b1609"><ptr target="1609.xml#ch6ancs18 1609.xml#ch6ance18"/></rdg></app>
-                    they wax old and <app type="minor" subtype="del"><lem wit="#b1623"></lem><rdg wit="#b1609"><ptr target="1609.xml#ch6ancs19 1609.xml#ch6ance19"/></rdg></app>corrupt, <app type="vocabulary" subtype=""><lem wit="#b1623">altereth</lem><rdg wit="#b1609"><ptr target="1609.xml#ch6ancs20 1609.xml#ch6ance20"/></rdg></app> againe <app type="vocabulary" subtype="change"><lem wit="#b1623">into</lem><rdg wit="#b1609"><ptr target="1609.xml#ch6ancs21 1609.xml#ch6ance21"/></rdg></app> a blackish and durtie colour: <app type="minor" subtype="add"><lem wit="#b1623">but
+                    they wax old and <app type="minor" subtype="del"><lem wit="#b1623"></lem><rdg wit="#b1609"><ptr target="1609.xml#ch6ancs19 1609.xml#ch6ance19"/></rdg></app>corrupt, 
+                    <app type="vocabulary" subtype="change">
+                        <lem wit="#b1623">altereth</lem>
+                        <rdg wit="#b1609"><ptr target="1609.xml#ch6ancs20 1609.xml#ch6ance20"
+                            /></rdg>
+                    </app> againe <app type="vocabulary" subtype="change"><lem wit="#b1623">into</lem><rdg wit="#b1609"><ptr target="1609.xml#ch6ancs21 1609.xml#ch6ance21"/></rdg></app> a blackish and durtie colour: <app type="minor" subtype="add"><lem wit="#b1623">but
                         these being tried will returne to yellow. </lem><rdg wit="#b1609"></rdg></app></p>
                 <p xml:id="ch6par11"><note type="authorial" subtype="summary" xml:id="ch6sumn15">15.
                     Wax is gathered onely in foure months.</note> The time when <app type="vocabulary" subtype="change"><lem wit="#b1623">Bees</lem><rdg wit="#b1609"><ptr target="1609.xml#ch6ancs22 1609.xml#ch6ance22"/></rdg></app> gather wax,
@@ -7198,7 +7207,7 @@ c                            first colour white,</lem><rdg wit="#b1609"><ptr tar
                         <foreign xml:lang="la">Et quercus sudabunt roscida mella</foreign>
                         <note type="authorial" subtype="bibliographic" xml:id="ch6bibln34">
                             <bibl>Virg.Pollio.</bibl>
-                        </note></quote> )</lem></app> untill either the Bees tongue, or the heat of the Sunne
+                        </note></quote> )</lem><rdg wit="#b1609"/></app> untill either the Bees tongue, or the heat of the Sunne
                     have drawne it away. <note type="authorial" subtype="summary" xml:id="ch6sumn41"
                         >41. The Bees worke most earnestly in a Honie-dew.</note> When there is a
                     Honie-dew, you may perceive by the Bees: for, as if they smelled it <ref
@@ -7475,7 +7484,7 @@ c                            first colour white,</lem><rdg wit="#b1609"><ptr tar
                     seven; and the sides halfe so much. Moreover, let the hollownesse be divided
                     into foure equall parts, by one partition of inch-board, in the middle from side
                     to side; and by two partitions of halfe-inch-board, from each end unto the
-                    middle partition: after this fashion.</lem></app></p>
+                    middle partition: after this fashion.</lem><rdg wit="#b1609"/></app></p>
                 <pb n="P3r"/>
                 <fw type="header"> Of the Bees Worke. </fw>
                 <figure>
