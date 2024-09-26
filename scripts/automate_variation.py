@@ -109,6 +109,75 @@ def append_XML_dec(FILEOUTPUT):
         # write content
         file.write(content)
 
+def append_hi_summary_notes(tree, ns): 
+    # marginal notes
+    sum_notes = tree.findall(".//TEI:note[@subtype='summary']", ns)
+    for el in sum_notes:
+        correctEl = None
+        text = None
+        # Checks if element contains text and is not all whitespace
+        if el.text and not el.text.isspace():
+            correctEl = el
+        elif len(el.findall('.//TEI:lem', ns)) > 0:
+            # note contains app, need to find the lem
+            correctEl = el.find('.//TEI:lem', ns)
+            print(el.find('.//TEI:lem', ns).text)
+        else:
+            # note contains only a single element that should have its own rendering information
+            correctEl = None
+            text = ''
+            
+        if correctEl != None:
+            # removing any unecessary whitespace characters
+            text = " ".join(correctEl.text.split())
+            # add a trailing space to account for elements inside notes
+            text += " "
+            text = text.split('. ', 1)
+
+        if text != None and len(text) > 1 and correctEl != None:
+            correctEl.text = f'{text[0]}. '
+            italicsEl = ET.SubElement(correctEl, 'seg', {'rend': 'italic'})
+            italicsEl.text = text[1]
+            # find out if the note element has children (i.e.,  a <term> for example)
+            if len([elem.tag for elem in correctEl.iter() if elem is not correctEl and elem is not italicsEl]) > 0:
+                toRemove = []
+                # places elements in the correct order
+                for child in correctEl:
+                    if child is not italicsEl:
+                        toRemove.append(child.tag)
+                        italicsEl.append(child)
+                # removes elements that have been moved
+                for tag in toRemove:
+                    for el in correctEl.findall(tag):
+                        correctEl.remove(el)                        
+            # checks if there are any digits in the note text, if there are, does character by character formatting
+            if (any(char.isdigit() for char in italicsEl.text)):
+                text = italicsEl.text
+                italicsEl.text = ''
+                if text:
+                    for char in text:
+                        if char.isdigit():
+                            digitEl = ET.SubElement(italicsEl, 'seg', {'rend': 'normal'})
+                            digitEl.text = char
+                        else:
+                            alphaEl = ET.SubElement(italicsEl, 'seg', {'rend': 'italic'})
+                            alphaEl.text = char
+    # refs
+    refs = tree.findall(".//TEI:ref", ns)
+    for el in refs:
+        text = el.text
+        el.text = ''
+        if text:
+            for char in text:
+                if char.isdigit():
+                    digitEl = ET.SubElement(el, 'seg', {'rend': 'normal'})
+                    digitEl.text = char
+                else:
+                    alphaEl = ET.SubElement(el, 'seg', {'rend': 'italic'})
+                    alphaEl.text = char
+    
+    
+
 def main(preview=False):
     import sys, os
 
@@ -171,6 +240,10 @@ def main(preview=False):
             print(e)
         except KeyError as e:
             print(f'Error: {target} points to elements that do not share a common ancestor')
+    
+    # add hi to all the summary notes in the correct places
+    # need to do error catching for this function
+    append_hi_summary_notes(tree, ns)
 
     # removes any old versions of the file, in case no new one has been created during the run
     try:
