@@ -115,22 +115,26 @@ def append_hi_summary_notes(tree, ns):
     for el in sum_notes:
         correctEl = None
         text = None
-        if el.text:
+        # Checks if element contains text and is not all whitespace
+        if el.text and not el.text.isspace():
             correctEl = el
-        elif len(el.findall('.//TEI:app', ns)) > 0:
+        elif len(el.findall('.//TEI:lem', ns)) > 0:
             # note contains app, need to find the lem
             correctEl = el.find('.//TEI:lem', ns)
+            print(el.find('.//TEI:lem', ns).text)
         else:
             # note contains only a single element that should have its own rendering information
             correctEl = None
             text = ''
-        if correctEl:
+            
+        if correctEl != None:
             # removing any unecessary whitespace characters
             text = " ".join(correctEl.text.split())
             # add a trailing space to account for elements inside notes
             text += " "
             text = text.split('. ', 1)
-        if text and len(text) > 1 and correctEl:
+
+        if text != None and len(text) > 1 and correctEl != None:
             correctEl.text = f'{text[0]}. '
             italicsEl = ET.SubElement(correctEl, 'seg', {'rend': 'italic'})
             italicsEl.text = text[1]

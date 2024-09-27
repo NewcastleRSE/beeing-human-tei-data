@@ -97,9 +97,9 @@ tei-address[data-tei-rend~="block"], addresss[data-tei-rendition~="#block"] {
 tei-adminInfo {
   display: block;
 }
-/* tei-app tei-note {
-  display: none;
-} */
+tei-app {
+  position: relative;
+}
 tei-appInfo {
   display: block;
 }
@@ -144,6 +144,9 @@ tei-bibl[data-tei-rend~="block"], bibl[data-tei-rendition~="#block"] {
   display: block;
   padding-left: 2em;
   text-indent: -2em;
+}
+tei-quote tei-bibl {
+  font-style: normal;
 }
 tei-biblFull {
   display: block;
@@ -688,6 +691,7 @@ tei-rdg {
   border-radius: 5px;
   border: black solid 1px;
   background-color: rgba(255, 255, 255, 0.95);
+  z-index: 1;
 }
 tei-rdg.var-del {
   text-decoration: line-through;
@@ -1022,6 +1026,13 @@ tei-note[type="authorial"] {
   clear:both;
 }
 
+tei-note[place="inline"] {
+  float:unset;
+  margin-left: unset;
+  max-width: unset;
+  clear: unset;
+}
+
 tei-note[subtype="bibliographic"] {
   float:right;
   margin-left: unset;
@@ -1060,6 +1071,32 @@ tei-head[type="chapter-title"] {
   font-style: italic;
 }
 
+/* Additional classes */
+
+tei-hi[rend="opposite"], tei-seg[rend="normal"] {
+  font-style: normal;
+}
+
+/* for form italics in marginal notes and refs */
 tei-seg[rend="italic"] {
   font-style: italic;
+}
+
+/* running headers */
+tei-fw[type="header"] {
+  font-style: italic;
+}
+
+/* hide editorial notes at this stage */
+tei-note[type="editorial"] {
+  visibility: hidden;
+}
+
+/* terms / foreign inside notes */
+tei-seg[rend="italic"] > tei-term ,
+tei-note[subtype="summary"] > tei-term,
+tei-seg[rend="italic"] > tei-persname,
+tei-note > tei-foreign,
+tei-seg[rend="italic"] > tei-foreign {
+  font-style: normal;
 }
