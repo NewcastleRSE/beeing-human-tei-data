@@ -10149,7 +10149,7 @@
                         <term><app type="vocabulary" subtype="change"><lem wit="#b1623">Remover</lem><rdg wit="#b1609"><ptr target="1609.xml#ch10ancs39 1609.xml#ch10ance39"/></rdg></app></term> and goe directly to the <term>Receiver,</term> and
                         a little beyond: for the Bees will follow you, and thereby the sooner
                         recover the Hive. </p><app type="minor" subtype="del"><lem wit="#b1623"></lem><rdg wit="#b1609"><ptr target="1609.xml#ch10ancs41 1609.xml#ch10ance41"/></rdg></app>
-                    <p xml:id="ch10p1par18">After this, having removed the <term>Receiver</term>
+                    <p xml:id="ch10p1par18"><app type="major" subtype="add"><lem wit="#b1623">After this, having removed the <term>Receiver</term>
                         againe, and laid him with the Combes edglong as before; stay till you see
                         the Bees ascended to the highest part of the Combes in the Skirt of the
                         Hive: and then resting it on the edge of a Kiver, and turning the Bees
@@ -10164,10 +10164,10 @@
                         have taken out a Combe, wipe off the Bees with a fether of a Goose wing into
                         the Kiver, and send it in, out of their sight. When the Combes are all gone,
                         set the Hive and Kiver before the <term>Receiver,</term> that the Bees may
-                        take up your leavings. As soone as <app type="minor" subtype="del"><lem wit="#b1623"></lem><rdg wit="#b1609"><ptr target="1609.xml#ch10ancs42 1609.xml#ch10ance42"/></rdg></app><app type="vocabulary" subtype="change"><lem wit="#b1623">they</lem><rdg wit="#b1609"><ptr target="1609.xml#ch10ancs43 1609.xml#ch10ance43"/></rdg></app> begin to bee quiet, take away the
-                        Bolsters, and cloome up the Hive very close, leaving the doore no wider than
-                        must needs bee. And when all is done, set open your other stalls: and carry
-                        the Hive and Kiver from among the Bees.</p>
+                        take up your leavings.</lem><rdg wit="#b1609"></rdg></app> As soone as <app type="minor" subtype="del"><lem wit="#b1623"></lem><rdg wit="#b1609"><ptr target="1609.xml#ch10ancs42 1609.xml#ch10ance42"/></rdg></app><app type="vocabulary" subtype="change"><lem wit="#b1623">they</lem><rdg wit="#b1609"><ptr target="1609.xml#ch10ancs43 1609.xml#ch10ance43"/></rdg></app> begin to bee quiet, take away the
+                        Bolsters, and cloome up the <app type="vocabulary" subtype="change"><lem wit="#b1623">Hive</lem><rdg wit="#b1609"><ptr target="1609.xml#ch10ancs44 1609.xml#ch10ance44"/></rdg></app> very close, leaving the doore no wider than
+                        must needs bee. And when <app type="minor" subtype="change"><lem wit="#b1623">all is done, set open your other stalls: and carry
+                            the Hive and Kiver from among the Bees.</lem><rdg wit="#b1609"><ptr target="1609.xml#ch10ancs45 1609.xml#ch10ance45"/></rdg></app></p><app type="major" subtype="del"><lem wit="#b1623"></lem><rdg wit="#b1609"><ptr target="1609.xml#ch10ancs46 1609.xml#ch10ance46"/></rdg></app>
                     <p xml:id="ch10p1par19"><note type="authorial" subtype="summary"
                             xml:id="ch10p1sumn16">16. How to help those driven Bees that
                             want.</note> If you thinke there be not sufficient provision for this
