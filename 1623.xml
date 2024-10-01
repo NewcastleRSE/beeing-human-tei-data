@@ -10965,7 +10965,7 @@
                         &amp; longam prorogat senectam. Plant.loco-supra citato. <fw type="catch">
                             Exempla</fw>
                         <pb n="X4v"/>
-                        <fw type="header"> Of the fruit and profit of Bees. </fw> Exampla citat
+                        <fw type="header"> Of the fruit and profit of Bees. </fw> <app type="major" subtype="add"><lem wit="#b1623">Exampla citat
                             <persName>Franciscus Valeriola</persName>
                         <bibl>Medicus locorum com.lib.3.cap.13.</bibl>
                         <foreign xml:lang="la">Antiochus Medicus, &amp; Telephus Grammaticus annosi
@@ -10989,14 +10989,14 @@
                             urinam cleat, thoracem pulonesque: juvet, tonsillis &amp; uvae medeatur.
                             Quae cum tanta possit, vel Dioscoridis &amp; Galeni testimonio haud
                             immerito producendae aetati vitaeque prorogandae idoneum esse
-                            medicamentum asserimus.</foreign> (15) Seth &amp;
+                            medicamentum asserimus.</foreign> </lem><rdg wit="#b1609"></rdg></app>(15) Seth &amp;
                             <persName>Plin.</persName>
                         <bibl>hist.l.7.c.3.</bibl>(16.) <persName> Pictorius</persName> (17.)
                             <persName>Claudius Caesar</persName> scribit hippocentaurum in Thessalia
                         natum eo dem die interijsse. Et nos principatu illius allatum illi ex
                         aegypto in melle vidimus. <bibl>Pl.hist.l.7.c.3</bibl>
                         <bibl xml:id="ch10p3bibln2X1">(18)</bibl>
-                        <foreign xml:lang="la">Mel calidum siccumque ordine secundo aperit putredini
+                        <app type="major" subtype="add"><lem wit="#b1623"><foreign xml:lang="la">Mel calidum siccumque ordine secundo aperit putredini
                             obsistit, siccat, deterget, expurgatque meatus &amp; ulcera.</foreign>
                         <bibl>Fern.Method.lib.6,c.12.</bibl> Item, <foreign xml:lang="la">Mel &amp;
                             saccharum potionibus admista vires naturales in morbis sopitas &amp;
@@ -11016,7 +11016,7 @@
                             callidum assumitur, adversus venena fungorum &amp; rabiosi canis morsus
                             linctum aut potum proficit: crudum tamen alvum inflat, tussim lacessit:
                             &amp; ea de re despumato utendum.</foreign>
-                        <bibl>Dioscorid. lib.2, cap.101.</bibl>(19)(20)(21)(22)(23)(24)(25)
+                            <bibl>Dioscorid. lib.2, cap.101.</bibl></lem><rdg wit="#b1609"></rdg></app>(19)(20)(21)(22)(23)(24)(25)
                             <persName>Pictorius</persName>.Mellis natura talis est, ut putrescere
                         corpora non sinat; Faucibus, tonsillis, anginae, omnibusque oris desiderijs
                         utilissimum, arescentique in febribus
@@ -11048,21 +11048,21 @@
                                 aciei oculorum prodesse putatur.</foreign>
                         </quote> So that he seemeth to say, that our honie is hurtfull to none;
                         because it purgeth that evill humour, which other Hony, in some bodies, is
-                        thought to breed. But the Proverb saith, <quote>Too much of one thing is
+                        thought to breed. <app type="minor" subtype="add"><lem wit="#b1623">But the Proverb saith, <quote>Too much of one thing is
                             good for nothing:<bibl>Prov.25.</bibl></quote> and the Wis-man in his
                         Proverbs, <quote><bibl>27.</bibl>It is not good to eat much Honie.</quote>
                         and in the <quote><bibl>16, 6. </bibl>Hast thou found Honie? eat so much as
                             is sufficient for thee:</quote>&amp;c. <note type="authorial"
                             subtype="summary" xml:id="ch10p3sumn5"> 5. Too much Hony
-                            unholsome.</note> For all Hony often and immoderately taken (3) causeth
-                        obstruction, (4) contrarie to his naturall qualitie, and so in time (5)
+                                unholsome.</note> </lem><rdg wit="#b1609"></rdg></app><app type="vocabulary" subtype="change"><lem wit="#b1623">For</lem><rdg wit="#b1609"><ptr target="1609.xml#ch10ancs52 1609.xml#ch10ance52"/></rdg></app> all Hony often and immoderately taken (3) causeth
+                        obstruction, <app type="minor" subtype="add"><lem wit="#b1623">(4) contrarie to his naturall qualitie,</lem><rdg wit="#b1609"></rdg></app> and so in time (5)
                         breedeth the scab. </p>
                     <note type="authorial" subtype="gloss" place="inline" xml:id="ch10p3glon2"
                             >(1)(2)<bibl> Galen.l.4.simpl.med.dist.3.c.5.</bibl><foreign
                             xml:lang="la">Item</foreign>
                         <bibl> Seth.Pictorius,&amp;Freitag.</bibl>(3)<bibl>Wikerus &amp; Freitagius
-                        </bibl> (4)<ref target="#ch10p3bibln2X1">vide
-                            (8)&amp;(18)supra.</ref>(5)<bibl>Lobel.</bibl>
+                        </bibl> <app type="minor" subtype="add"><lem wit="#b1623">(4)<ref target="#ch10p3bibln2X1">vide
+                            (8)&amp;(18)supra.</ref></lem><rdg wit="#b1609"></rdg></app>(5)<bibl>Lobel.</bibl>
                     </note>
                     <p xml:id="ch10p3par3"><note type="authorial" subtype="summary"
                             xml:id="ch10p3sumn6">6. The different operations of raw &amp; boiled
