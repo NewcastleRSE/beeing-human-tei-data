@@ -11085,41 +11085,41 @@
                             <bibl>Galen.</bibl>(9)(10)(11) <bibl> Pictorius.</bibl>
                     </note>
                     <p xml:id="ch10p3par4"><note type="authorial" subtype="summary"
-                            xml:id="ch10p3sumn7">7. Two waies to clarifie Hony.</note> Honie is
+                            xml:id="ch10p3sumn7">7. Two waies to clarifie Hony.</note> <app type="minor" subtype="change"><lem wit="#b1623">Honie is
                         clarified by boiling: and that either by it selfe, or else with a fourth
-                        part of water, or other liquor. But alwaies in boiling skim it, that it may
+                        part of water, </lem><rdg wit="#b1609"><ptr target="1609.xml#ch10ancs53 1609.xml#ch10ance53"/></rdg></app>or other liquor. But alwaies in boiling skim it, that it may
                         be pure. </p>
                     <p xml:id="ch10p3par5">By it selfe you must boile it untill it will yeeld no
-                        more <ref target="#ch10p3glon4">*</ref> skum, (which will be about halfe an
+                        more <ref target="#ch10p3glon4">*</ref> skum, <app type="minor" subtype="del"><lem wit="#b1623"></lem><rdg wit="#b1609"><ptr target="1609.xml#ch10ancs54 1609.xml#ch10ance54"/></rdg></app>(which will be about halfe an
                         houre) and that with a very soft fire, or in a <ref target="#ch10p3glon5"
-                            >†</ref> double vessell; lest, by over-heating, it get a bitter taste,
+                            ><app type="reference" subtype="add"><lem wit="#b1623">†</lem><rdg wit="#b1609"></rdg></app></ref> double vessell; lest, by over-heating, it get a bitter taste,
                         and lest it suddainly run over and flame.</p>
                     <fw type="sig">The</fw>
                     <pb n="Y1r"/>
                     <fw type="header"> Of the fruit and profit of Bees. </fw>
-                    <note type="authorial" subtype="gloss" place="inline" xml:id="ch10p3glon4">*The
+                    <note type="authorial" subtype="gloss" place="inline" xml:id="ch10p3glon4"><app type="minor" subtype="add"><lem wit="#b1623">*The
                         right skum, which is drosse, is short and brittle: which when it is cleane
                         taken away, the force of the fire will cause the very Hony to rise up like a
                         skum: but that will then be tougher and more clammy than the drossie skum,
                         and so will all the rest be, when it is cold, as being over-boiled:
-                        therefore be sure to take it off in time. </note>
-                    <note type="authorial" subtype="gloss" place="inline" xml:id="ch10p3glon5">†i. a
+                        therefore be sure to take it off in time.</lem><rdg wit="#b1609"></rdg></app> </note>
+                    <note type="authorial" subtype="gloss" place="inline" xml:id="ch10p3glon5"><app type="reference" subtype="add"><lem wit="#b1623">†i. a
                         vessell set in a vessell of boiling water, called, <term>Balneum
-                            Maria</term> which is best. </note>
+                            Maria</term> which is best. </lem><rdg wit="#b1609"></rdg></app></note>
                     <p xml:id="ch10p3par6"><note type="authorial" subtype="bibliographic"
                             xml:id="ch10p3bibln5">
                             <bibl>V.Fernel.l.4.c.15.</bibl>
                         </note> With water it is to be boiled an houre at the least, even untill the
                         water be evaporated: <ref target="#ch10p3bibln5">v.</ref> which thing is
-                        knowne by the bubbles that rise from the bottom: then, to make it more pure,
+                        knowne by the bubbles that rise from the bottom<app type="minor" subtype="del"><lem wit="#b1623"></lem><rdg wit="#b1609"><ptr target="1609.xml#ch10ancs55 1609.xml#ch10ance55"/></rdg></app>: then, to make it more pure,
                         put into every pound of Hony the<ref target="#ch10p3glon6">*</ref>
                         <note type="authorial" subtype="gloss" xml:id="ch10p3glon6">*<hi
                                 rend="italic">Lesse white may serve, if the Honie be
                             good.</hi></note> white of one Egge, and afterward skim it againe in the
                         boiling. The fire may be more fervent at the first; but toward the end it
                         must be slacke: for it is then apt to be set on fire, as the meere Hony, and
-                        to become bitter with violent heat. </p>
-                    <p xml:id="ch10p3par7">The course Honie being boiled and clarified hath a
+                        to become bitter with violent heat.<app type="major" subtype="del"><lem wit="#b1623"></lem><rdg wit="#b1609"><ptr target="1609.xml#ch10ancs56 1609.xml#ch10ance56"/></rdg></app> </p>
+                    <p xml:id="ch10p3par7">The course Honie being boiled and clarified hath a <app type="vocabulary" subtype="del"><lem wit="#b1623"></lem><rdg wit="#b1609"><ptr target="1609.xml#ch10ancs57 1609.xml#ch10ance57"/></rdg></app>
                         pleasant taste, and is comparable for most uses to the purest bottom-honie
                         being raw. </p>
                     <p xml:id="ch10p3par8">Which pure Honie, if you be disposed to boile it, will
