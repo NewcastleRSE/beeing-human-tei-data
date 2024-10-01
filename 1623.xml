@@ -10915,10 +10915,10 @@
                         <pb n="X4r"/>
                         <fw type="header"> Of the fruit and profit of Bees. </fw> long: (17) yea the
                         bodies of the dead, being embalmed with Hony have beene thereby preserved
-                        from putrefaction. <note type="authorial" subtype="summary"
+                        from putrefaction. <app type="minor" subtype="del"><lem wit="#b1623"></lem><rdg wit="#b1609"><ptr target="1609.xml#ch10ancs48 1609.xml#ch10ance10"/></rdg></app><note type="authorial" subtype="summary"
                             xml:id="ch10p3sumn2">2. Against both outward and inward griefes.</note>
-                        (18) It is a soveraigne medicament both for outward and inward maladies;
-                            (<ref target="#ch10p3bibln2X1"> reade the note. </ref>) (19) It helpeth
+                        (18)<app type="minor" subtype="del"><lem wit="#b1623"></lem><rdg wit="#b1609"><ptr target="1609.xml#ch10ancs49 1609.xml#ch10ance49"/></rdg></app> <app type="minor" subtype="add"><lem wit="#b1623">It is a soveraigne medicament both for outward and inward maladies;(<ref target="#ch10p3bibln2X1"> reade the note. </ref>)</lem><rdg wit="#b1609"></rdg></app>
+                             (19) It helpeth
                         the griefes of the jawes, (20) the kernels growing within the mouth, (21)
                         and the squinancie or inflammation of the muscle of the inner gargil, for
                         which purpose it is gargarized, <note type="authorial" subtype="summary"
@@ -10933,22 +10933,22 @@
                         his braine, and to stay the noisome fume from ascending to his head, they
                         give him Honie upon bread. In respect of which great vertues (28) the right
                         composition of those great Antidotes <term>Treacle,</term> and <term>
-                            Mithridate</term> (although they consist, the one of more than fiftie,
-                        the other of more than sixtie Ingredients) requireth thrice so much Honie as
-                        of all the rest. All which premisses considered, no marvell though the wise
+                            Mithridate</term> <app type="minor" subtype="add"><lem wit="#b1623">(although they consist, the one of more than fiftie,
+                                the other of more than sixtie Ingredients)</lem><rdg wit="#b1609"></rdg></app> requireth thrice so much Honie as
+                        of <app type="minor" subtype="change"><lem wit="#b1623">all the rest</lem><rdg wit="#b1609"><ptr target="1609.xml#ch10ancs50 1609.xml#ch10ance50"/></rdg></app>.<app type="minor" subtype="add"><lem wit="#b1623"> All which premisses considered, no marvell though the wise
                         King said, My sonne eat Hony, for it is good: <bibl> Prov. 24.13.</bibl>
                         that the holy Land is so often and so much commended for flowing therewith:
                             <bibl>Exod.3,8.13,5,33,3.</bibl>
                         <bibl> Lev.20, 24.</bibl>
                         <bibl> Num.13,27.</bibl>
                         <bibl> Deut.8,8.</bibl>and that the Eternall <persName>Immanuel</persName>
-                        did use it for his food. <bibl> Isa.7.15.</bibl><bibl>Luk24.43.</bibl> Yea
+                            did use it for his food. <bibl> Isa.7.15.</bibl><bibl>Luk24.43.</bibl> </lem><rdg wit="#b1609"></rdg></app>Yea
                         Honie, if it be pure and fine, <ref target="#ch10p3bibln1"> v </ref>
                         <note type="authorial" subtype="bibliographic" xml:id="ch10p3bibln1">
                             <ref target="#ch10p2sumn4">V.p.2.n.4.</ref>&amp;<ref
                                 target="#ch10p2sumn6">6.</ref>
                         </note> is so good in it selfe, that it must needs be good, even for them
-                        whose queisie stomackes are against it. But indeed the vulgar hony may well
+                        whose queisie stomackes are against it. But indeed the <app type="vocabulary" subtype="change"><lem wit="#b1623">vulgar</lem><rdg wit="#b1609"><ptr target="1609.xml#ch10ancs51 1609.xml#ch10ance51"/></rdg></app> hony may well
                         be disliked, as being sluttishly handled, &amp; much corrupted with
                         stopping, and Bees both young &amp; old,<ref target="#ch10p3bibln2">v.</ref>
                         <note type="authorial" subtype="bibliographic" xml:id="ch10p3bibln2">
