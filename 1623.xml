@@ -8542,14 +8542,14 @@
                     Hornet, 6.the Waspe, 7.the Moth, 8.the Snaile, 9.the Emet 10.the Spider, 11.the
                     Toad, 12.the Frog, 13.the Bee, and 14.the Weather.</p>
                 <p xml:id="ch7par2"><note type="authorial" subtype="summary" xml:id="ch7sumn2">2.
-                        1 The Mouse.</note> The Mouse, whether he be of the field or of the house, is
-                    a dangerous Enemie. For if he get into a Hive, he teareth downe the Combes,
+                       1 The Mouse.</note> The Mouse, whether he be of the field or of the house, is
+                    a dangerous Enemie. For if he get into a Hive, <app type="minor" subtype="add"><lem wit="#b1623">he teareth downe the Combes,</lem><rdg wit="#b1609"></rdg></app>
                     makes havocke of the Honie, and so starves the Bees. Some enter by the doore, or
                     by some open place in the skirts of the Hive: some gnaw a hole throrow in the
                     top of the Hive, where they know the Honie lieth: some keepe their old homes,
                     and come to the Hive onely for their baits: some make their nests betweene the
                     Hackle and the Hive, that they may the sooner, and the safer come to the Honie
-                    at their pleasure. </p>
+                    at their pleasure. </p><app type="major" subtype="del"><lem wit="#b1623"></lem><rdg wit="#b1609"><ptr target="1609.xml#ch7ancs1 1609.xml#ch7ance1"/></rdg></app>
                 <p xml:id="ch7par3"><note type="authorial" subtype="summary" xml:id="ch7sumn3">3.
                         Remedies against the Mouse.</note> For remedie, first you must looke that
                     your Hives, whether they be of straw or wicker, be close and fast wrought. For
@@ -8558,69 +8558,69 @@
                     in betweene the twigges. Next see that the Hives bee daubed close round about
                     the skirts, that there be no entring but by the Doore: which in the end of
                         <term> Taurus,</term> when the Bees come downe to watch, and thenceforth all
-                    the Summer, they will keepe well enough both day and night: but all the Winter,
+                    the Summer, they will keepe well enough both day and night: but <app type="vocabulary" subtype="change"><lem wit="#b1623">all</lem><rdg wit="#b1609"><ptr target="1609.xml#ch7ancs2 1609.xml#ch7ance2"/></rdg></app> the Winter,
                     at which time the Mise make most spoile, it must bee made so narrow, that they
                     cannot get in. <ref target="#ch7bibln1">v.</ref>
                     <note type="authorial" subtype="bibliographic" xml:id="ch7bibln1">
                         <ref target="#ch3sumn31"> V.c.3.n.31.</ref>
                     </note> Also it behoveth you to remove all things about your Hives, that may
-                    hide and harbour them, <ref target="#ch7bibln2">v.</ref>
+                    hide and harbour them, <app type="reference" subtype="add"><lem wit="#b1623"><ref target="#ch7bibln2">v.</ref>
                     <note type="authorial" subtype="bibliographic" xml:id="ch7bibln2">
                         <ref target="#ch2sumn8">V.c.2.n.8</ref>
-                    </note> for they will feare <fw type="catch"> to</fw>
+                    </note></lem><rdg wit="#b1609"></rdg></app> for they will feare <fw type="catch"> to</fw>
                     <pb n="P4v"/>
                     <fw type="header"> Of the Bees Enemies. </fw> to come and goe in sight, lest the
                     Cat meet with them by the way. Moreover, it is good now and then, in drie and
-                    warme daies, to take off the hackles, as well for this as for other causes. <ref
+                    warme daies, to take off the hackles, <app type="minor" subtype="change"><lem wit="#b1623">as well for this as for other causes.</lem><rdg wit="#b1609"><ptr target="1609.xml#ch7ancs3 1609.xml#ch7ance3"/></rdg></app> <app type="reference" subtype="add"><lem wit="#b1623"><ref
                         target="#ch7bibln3">v.</ref>
                     <note type="authorial" subtype="bibliographic" xml:id="ch7bibln3">
-                        <ref target="#ch5sumn23"> V.c.5.n.23. </ref>
-                    </note> Those that neastle upon the top of the Hive, when the hackle is taken
+                        <ref target="#ch5sumn23"> V.c.5.n.23. </ref></note></lem><rdg wit="#b1609"></rdg></app>
+                     Those <app type="vocabulary" subtype="del"><lem wit="#b1623"></lem><rdg wit="#b1609"><ptr target="1609.xml#ch7ancs4 1609.xml#ch7ance4"/></rdg></app>that neastle upon the top of the Hive, when the hackle is taken
                     off, will sit still amazed so long, that you may be sure to crush them against
                     the Hive with your hand. Lastly, you shall doe well to set baited<ref
-                        target="#ch7glon1"> *</ref> traps in their way, that so they may come short. </p>
+                        target="#ch7glon1"> <app type="reference" subtype="add"><lem wit="#b1623">*</lem><rdg wit="#b1609"></rdg></app></ref> traps in their way, that so they may come short. </p>
                 <note type="authorial" subtype="gloss" place="inline" xml:id="ch7glon1">
-                    <p xml:id="ch7par4"><note type="authorial" subtype="summary" xml:id="ch7sumnX1">
+                    <p xml:id="ch7par4"><app type="major" subtype="add"><lem wit="#b1623"><note type="authorial" subtype="summary" xml:id="ch7sumnX1">
                             <seg rend="italic">A Samsons post.</seg> </note>*There is none better than a Sampsons Post: which
                         is a flat Cover or Roofe supported by a triangular Pillar or Prop, whose
                         three sides doe so hold one by another, through the weight of the Roofe,
                         that the loosing of one is the loosing of all: and so the Prop failing the
-                        Roofe falleth.</p>
-                    <p xml:id="ch7par5"><note type="authorial" subtype="summary" xml:id="ch7sumnX2">
+                        Roofe falleth.</lem><rdg wit="#b1609"></rdg></app></p>
+                    <p xml:id="ch7par5"><app type="major" subtype="add"><lem wit="#b1623"><note type="authorial" subtype="summary" xml:id="ch7sumnX2">
                             <seg rend="italic">The Roofe.</seg> </note> The Roofe may bee a Plankes or Boords end, or the
                         like, twelve inches long and ten broad: which of it selfe, or with some
-                        advantage weigheth foure or five pound. </p>
-                    <p xml:id="ch7par6"><note type="authorial" subtype="summary" xml:id="ch7sumnX3">
+                        advantage weigheth foure or five pound. </lem><rdg wit="#b1609"></rdg></app></p>
+                    <p xml:id="ch7par6"><app type="major" subtype="add"><lem wit="#b1623"><note type="authorial" subtype="summary" xml:id="ch7sumnX3">
                             <seg rend="italic">The parts of the Prop.</seg> </note> The three sides or parts of the Prop
                         (namely, the Post, the Sweeke, and the Brace) are three sticks, all almost
-                        halfe an inch broad, and halfe a quarter of an inch thicke. </p>
-                    <p xml:id="ch7par7"><note type="authorial" subtype="summary" xml:id="ch7sumnX4">
+                        halfe an inch broad, and halfe a quarter of an inch thicke. </lem><rdg wit="#b1609"></rdg></app></p>
+                    <p xml:id="ch7par7"><app type="major" subtype="add"><lem wit="#b1623"><note type="authorial" subtype="summary" xml:id="ch7sumnX4">
                             <seg rend="italic">The Post.</seg> </note> The Post is moreover three inches and a halfe long,
-                        and sharpned at one end. </p>
-                    <p xml:id="ch7par8"><note type="authorial" subtype="summary" xml:id="ch7sumnX5">
+                        and sharpned at one end. </lem><rdg wit="#b1609"></rdg></app></p>
+                    <p xml:id="ch7par8"><app type="major" subtype="add"><lem wit="#b1623"><note type="authorial" subtype="summary" xml:id="ch7sumnX5">
                             <seg rend="italic">The Brace.</seg> </note> The Brace likewise three inches and a halfe long, and
                         sharpe at one end; with a nicke on the broad side halfe an inch within the
-                        other end.</p>
-                    <p xml:id="ch7par9"><note type="authorial" subtype="summary" xml:id="ch7sumnX6">
-                            <seg rend="italic">The Sweeke.</seg> </note> And the Sweeke eight inches long, with a nicke on
+                        other end.</lem><rdg wit="#b1609"></rdg></app></p>
+                    <p xml:id="ch7par9"><app type="major" subtype="add"><lem wit="#b1623"><note type="authorial" subtype="summary" xml:id="ch7sumnX6">
+                             <seg rend="italic">The Sweeke.</seg> </note> And the Sweeke eight inches long, with a nicke on
                         the upper broad side a little within the out-end; and another on the left
-                        edge, two inches and the thickness of the Post within the broad nicke. </p>
-                    <p xml:id="ch7par10"><note type="authorial" subtype="summary" xml:id="ch7sumnX7"
+                        edge, two inches and the thickness of the Post within the broad nicke. </lem><rdg wit="#b1609"></rdg></app></p>
+                    <p xml:id="ch7par10"><app type="major" subtype="add"><lem wit="#b1623"><note type="authorial" subtype="summary" xml:id="ch7sumnX7"
                             > <seg rend="italic">The framing of the Prop.</seg> </note> The parts of the Prop being thus
                         formed apart, are to be framed together in a triangle, after this manner.
                         First, take the Brace in your left hand and beare up the fore-side of the
                         Roofe with the blunt end, the nicke being inward: then set up the Post
                         somewhat leaning toward you, with his sharpe end in the nicke of the Brace:
                         then hooke the edge-nicke of the Sweeke to the Post: and make all fast with
-                        the sharpe edge of the Brace fixed in the broad nicke of the Sweeke. </p>
-                    <p xml:id="ch7par11"><note type="authorial" subtype="summary" xml:id="ch7sumnX8"
+                        the sharpe edge of the Brace fixed in the broad nicke of the Sweeke. </lem><rdg wit="#b1609"></rdg></app></p>
+                    <p xml:id="ch7par11"><app type="major" subtype="add"><lem wit="#b1623"><note type="authorial" subtype="summary" xml:id="ch7sumnX8"
                             > <seg rend="italic">The baiting of the Sweeke.</seg> </note> But first bait the Sweeke with the
                         thinne peece of good Cheese, or Bacon, or Suet, tyed with a thread upon the
                         inner end. And bee sure that the Prop doe stand so fickle that it may easily
                         be loosed: and that the Roofe when it falleth, lie flat and even with the
-                        Floore, lest the poore Mouse lose hir labour. </p>
+                        Floore, lest the poore Mouse lose hir labour. </lem><rdg wit="#b1609"></rdg></app></p>
                     <p xml:id="ch7par12">
-                        <foreign xml:lang="la">Sed instar omnium erit hoc unum. R. Farinae I.
+                        <foreign xml:lang="la"><app type="major" subtype="add"><lem wit="#b1623">Sed instar omnium erit hoc unum. R. Farinae I.
                             avenacae novae aridae dulcis Drachmas IV. tere: 2. Arsenicae albae 3.
                             semi-drachmam, inpulverem quam queas 4. minimum per se pertere: 5.
                             sacchari puri semi-drachmam cum arsenica contere: saccharatam arsenicam
@@ -8657,7 +8657,7 @@
                                 <item>7. Nam si alia suppetant cibaria, fucatas escas devitant: nec
                                     ubi fraus semel subolverit, ullis postea decipulis facile
                                     decipientur.</item>
-                            </list></foreign>
+                            </list></lem><rdg wit="#b1609"></rdg></app></foreign>
                     </p>
                 </note>
                 <p xml:id="ch7par13"><note type="authorial" subtype="summary" xml:id="ch7sumn4"
@@ -8666,26 +8666,26 @@
                     out: but he doth more harme to Wood-Bees then Garden-Bees.</p>
                 <p xml:id="ch7par14"><note type="authorial" subtype="summary" xml:id="ch7sumn5">5.
                         3. The Tit-mouse.</note> Of Titmise, there are three sorts. The great Titmouse
-                    (which of his colly head and breast some call a Colemouse) is a very harmefull
+                    <app type="minor" subtype="add"><lem wit="#b1623">(which of his colly head and breast some call a Colemouse)</lem><rdg wit="#b1609"></rdg></app> is a very harmefull
                     Bird. For although sometime hee seeme content with dead Bees, yet is hee a great
                     devourer of the quicke also. <note type="authorial" subtype="summary"
                         xml:id="ch7sumn6">6. The subtill practice of the Tit-mouse.</note> In winter
-                    hee taketh them at the Hive as they come forth: when the cold makes them keepe
-                    in, hee will stand at the doore, and there never leave knocking till one come to
+                    hee taketh them at the Hive as they come forth: <app type="minor" subtype="change"><lem wit="#b1623">when the cold makes them keepe
+                        in,</lem><rdg wit="#b1609"><ptr target="1609.xml#ch7ancs5 1609.xml#ch7ance5"/></rdg></app> hee will stand at the doore, and there never leave knocking till one come to
                     see who is there: and then suddenly catching her, away he flies with her: and
                     when he hath eaten her, he comes againe for more: eight or nine will scarce
-                    serve his turne at once. If the doore be shut that none can come forth, hee
+                    serve his turne at once. <app type="major" subtype="add"><lem wit="#b1623">If the doore be shut that none can come forth, hee
                     labours to remove the Barre: if that be too heavie, he falls to <fw type="catch"
                         > moining</fw>
                     <pb n="Q1v"/>
                     <fw type="header"> Of the Bees Enemies. </fw> moining about the doore for a new
                     way: and when these devices cannot get them out; some have the skill to breake
                     the wals of the daubed Hives above, over against the place where they lie: and
-                    there they are sure to have their purpose. But in the spring, when the Bees come
+                    there they are sure to have their purpose.</lem><rdg wit="#b1609"></rdg></app> But in the spring, when the Bees come
                     to the palme, hee standeth there watching for them; and while they are busie at
                     their worke he devoureth many. The little Russet one in Winter feedeth only on
                     dead Bees; but in the Spring he will take part with the great one. The little
-                    greene Titmouse I cannot accuse. </p>
+                    greene Titmouse I cannot accuse: <app type="minor" subtype="add"><lem wit="#b1623">except it be only for eating a few dead Bees and that but seldome in some hungrie time.</lem><rdg wit="#b1609"></rdg></app></p>
                 <p xml:id="ch7par15">
                     <note type="authorial" subtype="summary" xml:id="ch7sumn7">7. 4. The
                         Swallow.</note> The Swallow taketh them as they flie, <foreign xml:lang="la"
@@ -8708,8 +8708,8 @@
                     </quote></p>
                 <p xml:id="ch7par16"><note type="authorial" subtype="summary" xml:id="ch7sumn8">8.
                         Remedie against the Titmouse and Swallow.</note> Let boyes destroy their
-                    neasts in Summer, and catch the Titmouse in Winter, with<ref target="#ch7glon2"
-                        >*</ref> Traps baited with dead Bees, Oats, or Tallow.
+                    neasts in Summer, and catch the Titmouse in Winter, <app type="minor" subtype="del"><lem wit="#b1623"></lem><rdg wit="#b1609"><ptr target="1609.xml#ch7ancs6 1609.xml#ch7ance6"/></rdg></app>with<ref target="#ch7glon2"
+                        ><app type="reference" subtype="add"><lem wit="#b1623">*</lem><rdg wit="#b1609"></rdg></app></ref> Traps<app type="minor" subtype="del"><lem wit="#b1623"></lem><rdg wit="#b1609"><ptr target="1609.xml#ch7ancs7 1609.xml#ch7ance7"/></rdg></app> baited with <app type="minor" subtype="add"><lem wit="#b1623">dead Bees,</lem><rdg wit="#b1609"></rdg></app> Oats, or Tallow.
                         <persName>Aristotle</persName> joyneth the Waspe, the little Titmouse, the
                     Swallow, and the great Titmouse together. <quote>
                         <note type="authorial" subtype="bibliographic" xml:id="ch7bibln6">
@@ -8720,10 +8720,10 @@
                             apiaster est. Quamobrem apiarii vesparum latibula &amp; hirundinum ac
                             meropum nidos propinquos alveis tollunt.</foreign>
                     </quote></p>
-                <note type="authorial" subtype="gloss" place="inline" xml:id="ch7glon2">*As Cage
+                <note type="authorial" subtype="gloss" place="inline" xml:id="ch7glon2"><app type="minor" subtype="add"><lem wit="#b1623">*As Cage
                     traps, Pit-falls, and Samsons-Posts (<ref target="#ch7glon1">v.* in n.3</ref>)
                     But then set a Lath before the Prop, leaning from the Floore to the Roofe, lest
-                    the busie Bird throw it downe for nothing. </note>
+                    the busie Bird throw it downe for nothing.</lem><rdg wit="#b1609"></rdg></app> </note>
                 <p xml:id="ch7par17"><note type="authorial" subtype="summary" xml:id="ch7sumn9">9.
                         5. The Hornet.</note> The Hornet also devoureth Bees: being so much too strong
                     for them, that they can make no resistance. Which the Poet meant where he said <lb/>
@@ -8742,7 +8742,7 @@
                 <fw type="header"> Of the Bees Enemies. </fw>
                 <p xml:id="ch7par19"><note type="authorial" subtype="summary" xml:id="ch7sumn10">10.
                         The Hornets sting is dangerous.</note> In destroying the Hornets you must
-                    bee warie: for one stinging doth ofttimes cause a Fever, and lesse than thirtie,
+                    bee warie: for one stinging doth ofttimes cause a <app type="vocabulary" subtype="change"><lem wit="#b1623">Fever</lem><rdg wit="#b1609"><ptr target="1609.xml#ch7ancs8 1609.xml#ch7ance8"/></rdg></app>, and lesse than thirtie,
                     as some say, will kill a man. <quote>
                         <note type="authorial" subtype="bibliographic" xml:id="ch7bibln8">
                             <bibl> Nat.hist.li.11.c.21.</bibl>
@@ -8763,28 +8763,28 @@
                     from two or three of them, though they have all hold of her at once: and perhaps
                     killeth one of them out of hand. <note type="authorial" subtype="summary"
                         xml:id="ch7sumn12">12. When she feeds upon Bees.</note> At
-                        <term>Cancer,</term> or, the Spring being hot and drie, in the later part of
-                    the former moneth, the Waspe beginneth to bee bred: <ref target="#ch7bibln10">
+                        <term>Cancer,</term> <app type="minor" subtype="add"><lem wit="#b1623">or, the Spring being hot and drie, in the later part of
+                            the former moneth,</lem><rdg wit="#b1609"></rdg></app> <app type="vocabulary" subtype="change"><lem wit="#b1623">the Waspe</lem><rdg wit="#b1609"><ptr target="1609.xml#ch7ancs9 1609.xml#ch7ance9"/></rdg></app> beginneth to bee bred: <ref target="#ch7bibln10">
                         v.</ref>
                     <note type="authorial" subtype="bibliographic" xml:id="ch7bibln10">
                         <ref target="#ch4sumn8">v.c.4.n.8.</ref>
-                    </note> within a moneth after shee first appeareth: and in a while she beginneth
+                    </note> <app type="minor" subtype="change"><lem wit="#b1623">within a moneth after</lem><rdg wit="#b1609"><ptr target="1609.xml#ch7ancs10 1609.xml#ch7ance10"/></rdg></app> shee first appeareth: and in a while she beginneth
                     to feed upon dead and weake Bees: which she quickly cutting of in the middle
                     with hir Fangs, first carrieth away the neather-part; and anon fetcheth the
-                    other, when she hath bitten off the wings (for easier carriage) not farre from
+                    <app type="vocabulary" subtype="change"><lem wit="#b1623">other</lem><rdg wit="#b1609"><ptr target="1609.xml#ch7ancs11 1609.xml#ch7ance11"/></rdg></app>, when she hath bitten off the wings (for easier carriage) not farre from
                     the place where she took it up. </p>
                 <p xml:id="ch7par21"><note type="authorial" subtype="summary" xml:id="ch7sumn13">13.
-                        When she stealeth Honie.</note> Within a moneth after hir comming abroad,
+                    When she stealeth Honie.</note> <app type="minor" subtype="change"><lem wit="#b1623">Within a moneth after hir comming abroad,</lem><rdg wit="#b1609"><ptr target="1609.xml#ch7ancs12 1609.xml#ch7ance12"/></rdg></app>
                     shee waxeth bold, and adventureth into the Hives for honie: but, by reason of
                     the strangenesse of hir voice and habit, shee is descried before shee come
                     neere: And at the first (while the weather is warme, and the Bees both early and
                     late keepe watch and ward at the Hives doore) comming single against many, she
-                    is commonly repulsed, and sent backe againe with a Flea in hir eare: and if by
+                    is commonly <app type="vocabulary" subtype="change"><lem wit="#b1623">repulsed,</lem><rdg wit="#b1609"><ptr target="1609.xml#ch7ancs13 1609.xml#ch7ance13"/></rdg></app> and sent backe againe with a Flea in hir eare: and if by
                     chance she slip in, she doth not alwaies escape. Sometime she is killed in the
                     Hive, and brought forth dead: and sometime without doore, when she hath got hir
                     prey. But afterwards, the weather waxing cold, and specially in mornings and
                     evenings, and the Bees therefore retiring from the doore higher into the Hive;
-                    the Waspes make great spoile, specially among them that are weake. And this they
+                    the Waspes make great spoile, <app type="minor" subtype="change"><lem wit="#b1623">specially among them that are weake</lem><rdg wit="#b1609"><ptr target="1609.xml#ch7ancs14 1609.xml#ch7ance14"/></rdg></app>. And this they
                     continue untill <term> Scorpio:</term> after which time they begin to weare.
                         <note type="authorial" subtype="summary" xml:id="ch7sumn14">14. When they
                         weare away.</note> Neverthelesse while they live, that is until <fw
@@ -8795,9 +8795,10 @@
                     <fw type="header"> Of the Bees Enemies. </fw>
                     <term>Sagittarius</term> (if abundance of cold and wet rid them not a little
                     rather) they will be filching: and one Waspe will carrie out as much as two Bees
-                    bring in. </p>
+                    bring in. </p><app type="major" subtype="del"><lem wit="#b1609"></lem><rdg wit="#b1609"><ptr target="1609.xml#ch7ancs15 1609.xml#ch7ance15
+                        "/></rdg></app>
                 <p xml:id="ch7par22"><note type="authorial" subtype="summary" xml:id="ch7sumn15">15.
-                        In what yere the Waspes are few.</note> The Winter wet and cold, killeth
+                        In what yere the Waspes are few.</note> <app type="major" subtype="add"><lem wit="#b1609">The Winter wet and cold, killeth
                     many of the Mother-Waspes <ref target="#ch7bibln11">v.</ref>
                     <note type="authorial" subtype="bibliographic" xml:id="ch7bibln11">
                         <ref target="#ch4sumn8"> V.c.4.n.8. </ref>
@@ -8812,14 +8813,14 @@
                     1613, though, the former Summer being exceeding dry, the Waspes were multiplied,
                     and the Winter being milde, the Mother-Waspes were many at first; yet the Rainie
                     Spring and Summer, did so spill their nests, that there were no small Waspes
-                    seene till <term> Libra</term>, and then verie few. </p>
+                    seene till <term> Libra</term>, and then verie few. </lem><rdg wit="#b1609"></rdg></app></p>
                 <p xml:id="ch7par23"><note type="authorial" subtype="summary" xml:id="ch7sumn16">16.
-                        In what yeere they abound.</note> But the Winter being milde, and the Spring
+                        In what yeere they abound.</note> <app type="major" subtype="add"><lem wit="#b1623">But the Winter being milde, and the Spring
                     and Summer continuing warme and dry, they live and breed in everie place: that,
                     without continuall and diligent attendance, you shall be sure of great losse
                     among your Bees, though the former yeere there were but few: For one nest
-                    yeeldeth breeders enough, if they should all live, to store a whole countrey. </p>
-                <note type="authorial" subtype="gloss" place="inline" xml:id="ch7glon3">For these
+                    yeeldeth breeders enough, if they should all live, to store a whole countrey. </lem><rdg wit="#b1609"></rdg></app></p>
+                <note type="authorial" subtype="gloss" place="inline" xml:id="ch7glon3"><app type="major" subtype="add"><lem wit="#b1623">For these
                     causes, <date when="1611"><hi rend="italic">Ann.</hi> 1611.</date> there were
                     every where such multitudes that the like I thinke was not knowne before in our
                     memorie: insomuch that within two or three Furlongs of my Garden, were killed
@@ -8827,12 +8828,13 @@
                     knew we had not all) besides 22. Mother-Waspes killed in the Spring at our
                     Bee-trough, which would have made so many nests. And <date when="1620"
                         >1620.</date> for the same causes the number was as great or greater: and
-                    yet the exceeding wet Summer following I saw not one small Waspe. </note>
+                    yet the exceeding wet Summer following I saw not one small Waspe. </lem><rdg wit="#b1609"></rdg></app></note>
                 <p xml:id="ch7par24"><note type="authorial" subtype="summary" xml:id="ch7sumn17">
                         17. Remedies against the Waspes.</note> Wherefore, if you love your Bees,
                     suffer not a Waspes nest about you. </p>
-                <p xml:id="ch7par25">The ready way to rid them is, If they be in a Tree above <fw
+                <p xml:id="ch7par25">The <app type="vocabulary" subtype="change"><lem wit="#b1623">ready</lem><rdg wit="#b1609"><ptr target="1609.xml#ch7ancs16 1609.xml#ch7ance16"/></rdg></app> way to rid them is, If they be in <app type="minor" subtype="del"><lem wit="#b1623"></lem><rdg wit="#b1609"><ptr target="1609.xml#ch7ancs17 1609.xml#ch7ance17"/></rdg></app><app type="major" subtype="add"><lem wit="#b1623">a Tree above <fw
                         type="catch"> the</fw>
+                    
                     <pb n="Q3r"/>
                     <fw type="header"> Of the Bees Enemies. </fw> the hoal, to smother them with
                     Brimstone or Bunt, as you kil Bees. If in the Thatch of an house, (when you have
@@ -8851,27 +8853,27 @@
                     hoale; and having found their way, stop it fast with earth, and tread in that
                     you digged out, and let them alone. If this be done in the day when many are
                     abroad; the evening or morning following you may kill them with your foot: but
-                    in the evening you may take them all together. </p>
-                <note type="authorial" subtype="gloss" place="inline" xml:id="ch7glon4">*Which is a
+                    in the evening you may take them all together. </lem><rdg wit="#b1609"></rdg></app></p>
+                <note type="authorial" subtype="gloss" place="inline" xml:id="ch7glon4"><app type="major" subtype="add"><lem wit="#b1623">*Which is a
                     thin Iron one, whose Padle is not above foure inches broad next the Socket, and
                     thence taperd unto three inches at the steeled point, and eight or nine inches
                     long. If it bee broader it is not so apt to enter, and so to finde and round the
                     Nest: and a thicker one is apt to let out the fresh Waspes, that will trouble
-                    your worke: but you may make a shift with any ordinarie Spade or Padle-staffe. </note>
-                <note type="authorial" subtype="gloss" place="inline" xml:id="ch7glon5">†In
+                    your worke: but you may make a shift with any ordinarie Spade or Padle-staffe. </lem><rdg wit="#b1609"></rdg></app></note>
+                <note type="authorial" subtype="gloss" place="inline" xml:id="ch7glon5"><app type="major" subtype="add"><lem wit="#b1623">†In
                     Corne-ground the Nest is begunne under a Furrow, and therefore is alwaies
                     shallow: in old laine it is begunne in a Want-hole, and therefore it is sometime
-                    shallow, and sometime deepe. </note>
-                <p xml:id="ch7par26">And to destroy those that resort to your Hives, set by them
-                    Sider, Vertjuice, sowre Drinke, or Grounds, in a short necked Violl open, or
+                    shallow, and sometime deepe. </lem><rdg wit="#b1609"></rdg></app></note>
+                <p xml:id="ch7par26">And to destroy those that <app type="minor" subtype="change"><lem wit="#b1623">resort to</lem><rdg wit="#b1609"><ptr target="1609.xml#ch7ancs18 1609.xml#ch7ance18"/></rdg></app> your Hives, set by them
+                    Sider, Vertjuice, sowre Drinke, <app type="minor" subtype="del"><lem wit="#b1623"></lem><rdg wit="#b1609"><ptr target="1609.xml#ch7ancs19 1609.xml#ch7ance19"/></rdg></app><app type="minor" subtype="add"><lem wit="#b1623">or Grounds,</lem><rdg wit="#b1609"></rdg></app> in a <app type="minor" subtype="add"><lem wit="#b1623">short necked</lem><rdg wit="#b1609"></rdg></app> Violl open, or
                     other Glasse covered with a Paper that hath a hoale in the middle: and so you
-                    shall catch many. Also you may take of sweet Apples, or Peares, or beasts Liver,
+                    shall <app type="vocabulary" subtype="change"><lem wit="#b1623">catch</lem><rdg wit="#b1609"><ptr target="1609.xml#ch7ancs20 1609.xml#ch7ance20"/></rdg></app> many. <app type="minor" subtype="del"><lem wit="#b1623"></lem><rdg wit="#b1609"><ptr target="1609.xml#ch7ancs21 1609.xml#ch7ance21"/></rdg></app><app type="major" subtype="add"><lem wit="#b1623">Also you may take of sweet Apples, or Peares, or beasts Liver,
                     or other flesh, or any thing that they love, foure or five slices or more, and
                     lay them in so many severall places among your Bees: <fw type="catch"> upon</fw>
                     <pb n="Q3v"/>
                     <fw type="header"> Of the Bees Enemies. </fw> upon which you shall have sometime
                     as many as will cover the Bait, which you may kill at once, as Butchers kill
-                    Flies. </p>
+                    Flies. </lem><rdg wit="#b1609"></rdg></app></p>
                 <p xml:id="ch7par27"><note type="authorial" subtype="bibliographic"
                         xml:id="ch7bibln12">
                         <bibl>Hist.li.9.c.40.</bibl>
@@ -8903,8 +8905,8 @@
                 </p>
                 <p xml:id="ch7par29"><note type="authorial" subtype="summary" xml:id="ch7sumn19">
                         19. 8. The Snaile</note> They offend the Bees also with their mealinesse, as
-                    the Snailes doe with their sliminesse. Wherefore rid your Hives of these guests.
-                    The Moths are easily crusht before or upon the Hive: and the Snailes, though you
+                    the Snailes doe with their sliminesse. Wherefore rid your Hives of these guests.<app type="minor" subtype="del"><lem wit="#b1623"></lem><rdg wit="#b1609"><ptr target="1609.xml#ch7ancs22 1609.xml#ch7ance22"/></rdg></app>
+                    <app type="major" subtype="add"><lem wit="#b1623">The Moths are easily crusht before or upon the Hive: and the Snailes, though you
                     kill them not, will not long abide, if there be no harbour of long Grasse,
                     Weeds, or other things about the Hives. <note type="authorial" subtype="summary"
                         xml:id="ch7sumn20">20. What harme the Moth doth.</note> But as for the Moth,
@@ -8918,9 +8920,9 @@
                     skins flying Moths. The Maides that sunne their clothes to rid the Fleas, let
                     them take heed how they doe it neere the Bee-fold, lest they bring in worse
                     enemies than they carried out. If the Woollen be oylie or greasie they like it
-                    the better: and for that cause good Huswives Yarne lyeth not long unwoven.</p>
+                    the better: and for that cause good Huswives Yarne lyeth not long unwoven.</lem><rdg wit="#b1609"></rdg></app></p>
                 <p xml:id="ch7par30"><note type="authorial" subtype="summary" xml:id="ch7sumn21">21.
-                        9. The Emet.</note> If Emets bee neere your Bees, they will much trouble them,
+                    9. The Emet.</note> If Emets <app type="vocabulary" subtype="change"><lem wit="#b1623">bee</lem><rdg wit="#b1609"><ptr target="1609.xml#ch7ancs23 1609.xml#ch7ance23"/></rdg></app> neere your Bees, they will much trouble them,
                     biting them, and hanging upon them: although the <fw type="catch"> Bees,</fw>
                     <pb n="Q4r"/>
                     <fw type="header"> Of the Bees Enemies. </fw> Bees, if they be lustie, will kill
@@ -8938,7 +8940,7 @@
                         <note type="authorial" subtype="bibliographic" xml:id="ch7bibln14">
                             <bibl>Virg.Nat hist.l.11.c.19.</bibl>
                         </note>
-                        <foreign xml:lang="la">In foribus laxos suspendit aranea casses. Aranei quoq
+                        <foreign xml:lang="la">In foribus laxos suspendit aranea casses. <app type="minor" subtype="del"><lem wit="#b1623"></lem><rdg wit="#b1609"><ptr target="1609.xml#ch7ancs24 1609.xml#ch7ance24"/></rdg></app>Aranei quoq
                             vel maximè hostiles: cum praevalvere ut intexant, enecant alveos.
                         </foreign>
                     </quote></p>
@@ -8982,7 +8984,7 @@
                     other; so have they no entercourse, no friendship or societie with others, but
                     are rather at perpetuall defiance, and deadly feud with them. In fight they are
                     fierce, and in victorie mercilesse: within the space of a day or twaine, yea of
-                    an after-noone sometime, if the Hive bee <fw type="catch"> open</fw>
+                    <app type="minor" subtype="change"><lem wit="#b1623">an after-noone</lem><rdg wit="#b1609"><ptr target="1609.xml#ch7ancs25 1609.xml#ch7ance25"/></rdg></app> sometime, if the Hive bee <fw type="catch"> open</fw>
                     <pb n="Q4v"/>
                     <fw type="header"> Of the Bees Enemies. </fw> open that they may have easie
                     passage to and fro, they will have rid him cleane. And therefore all Bees, of
@@ -8995,30 +8997,57 @@
                     that all the summer long, when abundance of Honie is every where to bee had for
                     a little labour, they will yet be filching though they die for it. <note
                         type="authorial" subtype="summary" xml:id="ch7sumn27"> 27. In the spring
-                        more earnest.</note> In the Spring they are more earnest; finding now fit
-                    time to fetch after that which they leaft behinde at Harvest, <ref
-                        target="#ch7bibln18"> v.</ref>
-                    <note type="authorial" subtype="bibliographic" xml:id="ch7bibln18">
-                        <ref target="#ch7sumn38"> V.n.28.</ref>&amp;<ref target="#ch7sumn31"
-                            >31.</ref>
-                    </note> and to repaire their decayed store, both of Honie and Bees. <ref
-                        target="#ch7bibln19">v.</ref>
-                    <note type="authorial" subtype="bibliographic" xml:id="ch7bibln19">
-                        <ref target="#ch7sumn42"> v.n.42. </ref>
-                    </note> And therefore now have an eie unto them: and defend the weaker swarmes
-                    from their violent irruptions. <ref target="#ch7bibln20">v.</ref>
-                    <note type="authorial" subtype="bibliographic" xml:id="ch7bibln20">
-                        <ref target="#ch3sumn65"> V.c.3.n.65. </ref>
-                    </note> Those Stalls that have lost their Queene, or too many of their companie,
-                    or are offended with the corruptnesse of their Combes, or doe dislike their
-                    standing for coldnesse, moistnesse, mustinesse, bleetnesse, or unsavourinesse;
-                    as taking no pleasure in their lives, doe now easily suffer themselves to be
-                    robbed. And if none will come to rob them; then on some faire day they will away
+                        more earnest.</note>
+                    <app type="vocabulary" subtype="change">
+                        <lem wit="#b1623">In</lem>
+                        <rdg wit="#b1609"><ptr target="1609.xml#ch7ancs26 1609.xml#ch7ance26"
+                            /></rdg>
+                    </app> the Spring<app type="minor" subtype="del">
+                        <lem wit="#b1623"/>
+                        <rdg wit="#b1609"><ptr target="1609.xml#ch7ancs27 1609.xml#ch7ance27"
+                            /></rdg>
+                    </app> they are more earnest; <app type="minor" subtype="add">
+                        <lem wit="#b1623">finding now fit time to fetch after that which they leaft
+                            behinde at Harvest, <ref target="#ch7bibln18"> v.</ref>
+                            <note type="authorial" subtype="bibliographic" xml:id="ch7bibln18">
+                                <ref target="#ch7sumn38"> V.n.28.</ref>&amp;<ref target="#ch7sumn31"
+                                    >31.</ref>
+                            </note> and to repaire their decayed store, both of Honie and Bees. <ref
+                                target="#ch7bibln19">v.</ref>
+                            <note type="authorial" subtype="bibliographic" xml:id="ch7bibln19">
+                                <ref target="#ch7sumn42"> v.n.42. </ref>
+                            </note>
+                        </lem>
+                    <rdg wit="#b1609"/></app>And therefore <app type="minor" subtype="change">
+                        <lem wit="#b1609">now</lem>
+                        <rdg wit="#b1609"><ptr target="1609.xml#ch7ancs28 1609.xml#ch7ance28"
+                            /></rdg>
+                    </app> have an eie unto them: <app type="minor" subtype="add">
+                        <lem wit="#b1623">and defend the weaker swarmes from their violent
+                            irruptions. <ref target="#ch7bibln20">v.</ref>
+                            <note type="authorial" subtype="bibliographic" xml:id="ch7bibln20">
+                                <ref target="#ch3sumn65"> V.c.3.n.65. </ref>
+                            </note></lem>
+                        <rdg wit="#b1609"/>
+                    </app> Those Stalls that have lost their Queene, <app type="minor" subtype="add">
+                        <lem wit="#b1623">or too many of their companie, or are offended with the
+                            corruptnesse of their Combes, </lem>
+                        <rdg wit="#b1609"/>
+                    </app>or doe dislike their standing for coldnesse, moistnesse, mustinesse,
+                    bleetnesse, or unsavourinesse; as taking no pleasure in their lives, doe <app
+                        type="vocabulary" subtype="add">
+                        <lem wit="#b1623">now</lem>
+                        <rdg wit="#b1609"/>
+                    </app> easily suffer themselves to be robbed<app type="minor" subtype="del">
+                        <lem wit="#b1623"/>
+                        <rdg wit="#b1609"><ptr target="1609.xml#ch7ancs29 1609.xml#ch7ance29"
+                            /></rdg>
+                    </app>. And if none will come to rob them; then on some faire day they will away
                     together, sometime leaving both Honie and young ones behinde them. </p>
                 <p xml:id="ch7par35"><note type="authorial" subtype="summary" xml:id="ch7sumn28">28.
                         The most spoile is made in Harvest.</note> But in <term>Virgo</term> is the
                     most dangerous time of all. Then shall all the Stalls in your Garden bee tryed
-                    of what mettle they are made. And <term>Libra</term> would not be much better,
+                    <app type="minor" subtype="change"><lem wit="#b1623">of what mettle they are made</lem><rdg wit="#b1609"><ptr target="1609.xml#ch7ancs30 1609.xml#ch7ance30"/></rdg></app>. And <term>Libra</term> would not be much better,
                     but that the most spoile is done before. <note type="authorial"
                         subtype="summary" xml:id="ch7sumn29">29. What Stalls are most subject to
                         robbing.</note> Little and poore swarmes are now subject to robbing.
@@ -9047,9 +9076,9 @@
                     rich theefe: who, although he have enough, and more then enough; yet by hooke or
                     by crooke hee will have more, though the poore starve for it. </p>
                 <p xml:id="ch7par37"><note type="authorial" subtype="summary" xml:id="ch7sumn31">31.
-                        How they begin the fray.</note> At the beginning of Wheat-harvest, the state
-                    of flowers decaying, which is alwaies about <term> Virgo,</term> the maine
-                    robbing beginneth. Then doe they send forth some of their stoutest yonkers to
+                        How they begin the fray.</note> At the beginning of <app type="minor" subtype="add"><lem wit="#b1623">Wheat-harvest, the state
+                            of flowers decaying, which is alwaies about </lem><rdg wit="#b1609"></rdg></app><term> Virgo,</term> <app type="minor" subtype="add"><lem wit="#b1623">the maine
+                                robbing beginneth.</lem><rdg wit="#b1609"></rdg></app> <app type="minor" subtype="change"><lem wit="#b1623">Then doe they</lem><rdg wit="#b1609"><ptr target="1609.xml#ch7ancs31 1609.xml#ch7ance31"/></rdg></app> send forth some of their stoutest yonkers to
                     spie and give the onset: which going about from Hive to Hive so farre as their
                     walke extendeth, doe prove all. Where they have once sped, at their returne they
                     bring more of the their companie; untill in the end that whole Stall bee made
@@ -9059,14 +9088,14 @@
                         xml:id="ch7sumn32">32. Theeves of divers Hives agree together in
                         robbing.</note> And this one thing is strange, that whereas no Bees will
                     abide strangers in their Hives with them; yet theeves wil suffer one another,
-                    and agree all in stealing, though they be of divers Hives.</p>
+                    and agree <app type="vocabulary" subtype="change"><lem wit="#b1623">all</lem><rdg wit="#b1609"><ptr target="1609.xml#ch7ancs32 1609.xml#ch7ance32"/></rdg></app> in stealing, though they be of divers Hives.</p>
                 <p xml:id="ch7par38"><note type="authorial" subtype="summary" xml:id="ch7sumn33">33.
                         The description of the Bees battell.</note> When the theeves, having first
                     made an entrie, begin to come thicke, and the true Bees perceive themselves to
                     bee assaulted by many; they suddenly make an out-crie: and issuing out of their
                     holds by troopes, presently prepare themselves to battell. Some keepe the gates:
                     some as Scout-watches fly about: some runne in againe to see what is done there:
-                    some beginne to grapple with the Enemie: and that with such a noise and dinne,
+                    some beginne to <app type="vocabulary" subtype="change"><lem wit="#b1623">grapple</lem><rdg wit="#b1609"><ptr target="1609.xml#ch7ancs33 1609.xml#ch7ance33"/></rdg></app> with the Enemie: and that with such a noise and dinne,
                     as if the Drum did sound an all-arme. <note type="authorial" subtype="summary"
                         xml:id="ch7sumn34">34. In the battell is heard a sound like a Drum and a
                         Flute.</note> Besides which base sound, you shall eftsoones, in the heat of
@@ -9175,14 +9204,14 @@
                     together in the same Hive and sucking the same Honie, all smel alike; they will
                     joyne with their enemies, and help carrie away their owne goods, and so become
                     friends and live together. At night they lodge with them: but in the day-time
-                    they returne with their new fellowes to fetch that is leaft behinde. By this
+                    they returne with their new fellowes to fetch that is leaft behinde.<app type="minor" subtype="del"><lem wit="#b1623"></lem><rdg wit="#b1609"><ptr target="1609.xml#ch7ancs34 1609.xml#ch7ance34"/></rdg></app> <app type="minor" subtype="add"><lem wit="#b1623">By this
                     meanes some venterous stalls are suddainly much increased both in Bees and
                     Honie: although when a Swarme not over-stored conquereth a poore stall, and so
                     getteth, by the victorie, more eaters than meat; it <fw type="catch">
                         turneth</fw>
                     <pb n="R2v"/>
                     <fw type="header"> Of the Bees Enemies. </fw> turneth to their owne overthrow:
-                    for when their food faileth they dye all together. </p>
+                        for when their food faileth they dye all together. </lem><rdg wit="#b1609"></rdg></app></p>
                 <p xml:id="ch7par49"><note type="authorial" subtype="summary" xml:id="ch7sumn43">43.
                         Remedies.</note> Seeing therefore in so cruell and continuing a fight
                     ofttimes the enemies are Conquerours, and then all is lost; and if they be
@@ -9222,7 +9251,7 @@
                     and follow their businesse neverthelesse. The next day you may let them out
                     rather: and if the doore be so narrow that it hinder their passage, you may make
                     it wider. If this doe not suffice, but still the strange Bees will strive to get
-                    in; assure your selfe that stall will yeeld. And therefore if you bee loth to
+                    in; assure your selfe that stall <app type="minor" subtype="change"><lem wit="#b1623">will yeeld</lem><rdg wit="#b1609"><ptr target="1609.xml#ch7ancs35 1609.xml#ch7ance35"/></rdg></app>. And therefore if you bee loth to
                     take it now, because of the Schadons that may corrupt the Honie; <ref
                         target="#ch7bibln26"> v.</ref>
                     <note type="authorial" subtype="bibliographic" xml:id="ch7bibln26">
@@ -9232,7 +9261,7 @@
                 <p xml:id="ch7par51"><note type="authorial" subtype="summary" xml:id="ch7sumn46">46.
                         When it is too late, and what is then to be done.</note> But if the Bees
                     have yeelded before you are aware of it, so that the theeves rob quietly with
-                    out resistance; or have broken the Honie-cels; (which you may perceive by the
+                    out resistance; <app type="minor" subtype="change"><lem wit="#b1623">or have broken the Honie-cels;</lem><rdg wit="#b1609"><ptr target="1609.xml#ch7ancs36 1609.xml#ch7ance36"/></rdg></app> (which you may perceive by the
                     crumblets of Wax upon the stoole) then, having shut the Hive close assone as you
                     can, the next evening or morning take that is leaft: otherwise in the end you
                     shal lose all. For the Bees there-about smelling the Honie when the Combes are
@@ -9242,11 +9271,11 @@
                     the wiser. Wherefore it is good to leave some body at home, as well to watch
                     these, as the two legged Robbers. </p>
                 <p xml:id="ch7par53"><note type="authorial" subtype="summary" xml:id="ch7sumn47">47.
-                        Robbing hurtfull also to the Theeves.</note> Neither is this robbing
+                        Robbing hurtfull also to the Theeves.</note> <app type="major" subtype="add"><lem wit="#b1623">Neither is this robbing
                     hurtfull onely to those that are robbed, but to the Robbers also. For many of
                     them are daily cut off in the assault: (you may see them lye sprawling at everie
                     Hive-doore) whereby their whole stall sometime is so weakned; that, while they
-                    seeke to prey upon others, they become a prey themselves. </p>
+                    seeke to prey upon others, they become a prey themselves.</lem><rdg wit="#b1609"></rdg></app> </p>
                 <p xml:id="ch7par54"><note type="authorial" subtype="summary" xml:id="ch7sumn48">
                         48. In what yeeres robbing is most rife</note> After a moist Spring, when
                     Swarmes are most plentifull, <ref target="#ch7bibln27">v.</ref>
@@ -9272,19 +9301,19 @@
                     <note type="authorial" subtype="bibliographic" xml:id="ch7bibln28">
                         <ref target="#ch10p1sumn10">V.c.10.p.1. n. 10.</ref>
                     </note> (2) If it be your hap to see them entring a stall that is well stored,
-                    lift up the Hive and let them in together, and so perhaps they may scape: and
+                    lift up the Hive and let them in together, <app type="minor" subtype="add"><lem wit="#b1623">and so perhaps they may scape</lem><rdg wit="#b1609"></rdg></app>: and
                     (3) if you finde any hanging abroad, you may put them into what stall you list;
                     by rearing the stall before a handfull from the stoole, and laying the Bees upon
                     the Table, <ref target="#ch7bibln29"> v.</ref> close to the doore. <note
                         type="authorial" subtype="bibliographic" xml:id="ch7bibln29"><ref
                             target="ch10p1sumn15">V.c.10.p.1.n.15</ref></note></p>
                 <p xml:id="ch7par57"><note type="authorial" subtype="summary" xml:id="ch7sumn51"
-                        >51. Many killed in swarming</note> Lastly, the Bees doe much destroy one
+                        >51. Many killed in swarming</note> <app type="minor" subtype="add"><lem wit="#b1623">Lastly, the Bees doe much destroy one
                     another in swarming-time. <ref target="#ch5sumn64"> v.c.5.n. 64,</ref><ref
                         target="#ch5sumn65">65,</ref><ref target="#ch5sumn66">66,</ref><ref
                         target="#ch5sumn68">68,</ref><ref target="#ch5sumn75">75,</ref><ref
                         target="#ch5sumn76">76,</ref><ref target="#ch5sumn77">77,</ref><ref
-                        target="#ch5sumn80">80,</ref>&amp;<ref target="#ch5sumn81">81.</ref></p>
+                            target="#ch5sumn80">80,</ref>&amp;<ref target="#ch5sumn81">81.</ref></lem><rdg wit="#b1609"></rdg></app></p>
                 <p xml:id="ch7par58"><note type="authorial" subtype="summary" xml:id="ch7sumn52">52.
                         14. The weather.</note> Next unto Bees, the greatest Enemy that the Bees have is
                     unkinde Weather: whereby at all times of the yeare both they and their fruits
@@ -9300,14 +9329,14 @@
                     tilleth them abroad, and the Frost chilleth them: many as they flye, that they
                     canot returne: and many that returne, while they rest on the ground before the
                     Hive. But the Snow amazeth them, and dazeling their eyes causeth them presently
-                    to fall, and with his vehement cold to rise no more: and most of all then, when,
-                    to shun the wind, they light in the shade. <note type="authorial"
-                        subtype="summary" xml:id="ch7sumn55"> 55. The remedie.</note> And therefore
+                    to fall, and<app type="minor" subtype="add"><lem wit="#b1623"> with his vehement cold </lem><rdg wit="#b1609"></rdg></app>to rise no more: <app type="minor" subtype="del"><lem wit="#b1623"></lem><rdg wit="#b1609"><ptr target="1609.xml#ch7ancs37 1609.xml#ch7ance37"/></rdg></app><app type="minor" subtype="add"><lem wit="#b1623">and most of all then, when,
+                        to shun the wind, they light in the shade.</lem><rdg wit="#b1609"></rdg></app> <note type="authorial"
+                        subtype="summary" xml:id="ch7sumn55"> 55. The remedie.</note> <app type="major" subtype="add"><lem wit="#b1623">And therefore
                     if, the Snow lying, the mildnesse of the weather draw them abroad; it is good to
                     strew the Snow with straw, not onely in your Garden, but also without the
                     fences, specially in the Lee-sides, if conveniently you may: and so shall you
                     save a number; which else you might see lying about, like slaine men in a
-                    foughten field. </p>
+                    foughten field. </lem><rdg wit="#b1609"></rdg></app></p>
                 <p xml:id="ch7par61"><note type="authorial" subtype="summary" xml:id="ch7sumn56">56.
                         Also the Eastern winds and great frosts.</note> Also the freezing Easterne
                     winds, and great Frosts kill many in the Hives that be open, or uncovered: and
@@ -9331,9 +9360,9 @@
                 <p xml:id="ch7par64"><note type="authorial" subtype="summary" xml:id="ch7sumn59">59.
                         The remedy.</note> Wherefore provide thay alwaies your hackles be good. And
                     for remedie (if any such chance happen) pull off the hackles in warme daies,
-                    that the Sunne may dry the Hives againe. </p>
+                    that the Sunne may dry <app type="vocabulary" subtype="change"><lem wit="#b1623">the Hives againe.</lem><rdg wit="#b1609"><ptr target="1609.xml#ch7ancs38 1609.xml#ch7ance38"/></rdg></app><app type="major" subtype="del"><lem wit="#b1623"></lem><rdg wit="#b1609"><ptr target="1609.xml#ch7ancs39 1609.xml#ch7ance39"/></rdg></app> </p>
                 <p xml:id="ch7par65"><note type="authorial" subtype="summary" xml:id="ch7sumn60">60.
-                        the greatest losse by weather is in the spring: for then infinite multitudes
+                        The greatest losse by weather is in the spring: for then infinite multitudes
                         are beaten downe, laden and wearie with stormes and wind.</note> But the
                     greatest losse is in the Spring. For the Bees, specially the young frie (being
                     laded and wearie with their labour) some at their worke, some in the way home,
@@ -9370,26 +9399,26 @@
                     pant and breath againe: and anone they will flye away as lustie as the <fw
                         type="catch"> best</fw>
                     <pb n="R4v"/>
-                    <fw type="header"> Of the Bees Enemies. </fw> best. But if you spie any store of
+                    <fw type="header"> Of the Bees Enemies. </fw> best. <app type="minor" subtype="add"><lem wit="#b1623">But if you spie any store of
                     such dead or halfe-dead Bees, then your way is to put them in a Glasse, and
                     covering it, to turne it round against the fire, till you see them ready to
-                    flye. </p>
+                    flye. </lem><rdg wit="#b1609"/></app></p>
                 <p xml:id="ch7par68"><note type="authorial" subtype="summary" xml:id="ch7sumn64">64.
                         The wind causeth many to be drowned.</note> Also where Palme-withies, or
                     other trees whereon they gather; doe hang over the water; the rough winds throw
-                    downe and drowne a number of them, while they bee at worke. Many also, where
-                    there are no such trees, when they come but to drinke. </p>
-                <p xml:id="ch7par69"><note type="authorial" subtype="summary" xml:id="ch7sumn65">65.
+                    downe and drowne a number of them, <app type="minor" subtype="add"><lem wit="#b1623">while they bee at worke. Many also, where
+                        there are no such trees, when they come but to drinke. </lem><rdg wit="#b1609"></rdg></app><app type="minor" subtype="del"><lem wit="#b1623"></lem><rdg wit="#b1609"><ptr target="1609.xml#ch7ancs40 1609.xml#ch7ance40"/></rdg></app></p>
+                <p xml:id="ch7par69"><app type="major" subtype="add"><lem wit="#b1623"><note type="authorial" subtype="summary" xml:id="ch7sumn65">65.
                         The remedie.</note>For remedie of the first, cut downe the trees: and for
-                    the other, see <ref target="#ch6sumn56">c. 6. n.56.</ref></p>
+                    the other, see <ref target="#ch6sumn56">c. 6. n.56.</ref></lem><rdg wit="#b1609"></rdg></app></p>
                 <quote>
                     <note type="authorial" subtype="bibliographic" xml:id="ch7bibln33"
                             ><bibl>Nat.hist.l.11.c.19</bibl></note>
                     <foreign xml:lang="la">Tot hostibus, tot casibus, tam mumificum animal expositum
                         est.</foreign>
                 </quote>
-                <p xml:id="ch7par70"><note type="authorial" subtype="summary" xml:id="ch7sumn66">
-                        66. The last and worst Enimie of all.</note> ¶ There remaineth yet another
+                <p xml:id="ch7par70"> <app type="major" subtype="add"><lem wit="#b1623"><note type="authorial" subtype="summary" xml:id="ch7sumn66">
+                       66. The last and worst Enimie of all.</note> ¶ There remaineth yet another
                     Enemie worse than all these. For these all doe wrong the Bees but by little and
                     little; some in their goods, some in their persons: and there is a remedie
                     shewed, if industrie be not wanting, against them all. But this, when he
@@ -9440,8 +9469,8 @@
                     to crie him mercie for the crime committed. Which being done, so soone as the
                     Saint extended unto him the hand of benediction; the Bees, like obedient
                     Servants, did forthwith stay from persecuting him, and evidently yeelded
-                    themselves to the ancient possession and custodie of their Master. </p>
-                <p xml:id="ch7par71">It were to be wished that <foreign xml:lang="la">Pares
+                    themselves to the ancient possession and custodie of their Master. </lem><rdg wit="#b1609"></rdg></app></p>
+                <p xml:id="ch7par71"><app type="major" subtype="add"><lem wit="#b1623">It were to be wished that <foreign xml:lang="la">Pares
                         culpâ</foreign> might be <foreign xml:lang="la">Pares paenâ</foreign>, that
                     all like offendors might have like punishment. But sith our Bees are not of
                         <persName>S. Medards.</persName> kinde, thus to rescue themselves from this
@@ -9467,14 +9496,14 @@
                     in (though it may seeme a hard digression) let me begge the like boone for those
                     other necessarie creatures, which, for their like certaine and generall profit,
                     the <bibl xml:id="ch7biblnX35">Proverbe</bibl> hath joyned with them in speciall
-                    commendation to the world. </p>
-                <quote>
+                    commendation to the world. </lem><rdg wit="#b1609"></rdg></app></p>
+                <app type="major" subtype="add"><lem wit="#b1623"><quote>
                     <lg>
                         <l>Who so keepe well Sheepe and Been,</l>
                         <l>Sleepe or wake, their thrift comes in.</l>
                     </lg>
-                    <bibl><ptr target="#ch7biblnX35"/></bibl></quote>
-                <p xml:id="ch7par72">They serve for mans use both without and within, not only to
+                    <bibl><ptr target="#ch7biblnX35"/></bibl></quote></lem><rdg wit="#b1609"></rdg></app>
+                <p xml:id="ch7par72"><app type="major" subtype="add"><lem wit="#b1623">They serve for mans use both without and within, not only to
                     feed the belly, but also to cloath the back: for which necessarie uses, they
                     deserve especially to be beloved and defended of all. And yet I thinke that in
                     any thing, nay in all things else, there is not so much wrong and spoile done to
@@ -9493,7 +9522,7 @@
                     <pb n="S2r"/>
                     <fw type="header"> Of the Feeding of Bees. </fw> wealth: and as incorrigible as
                     sheep-biting Curres, which being once flesh't, doe seldome desist; untill the
-                    bones or somewhat else doe happily choake them.</p>
+                    bones or somewhat else doe happily choake them.</lem><rdg wit="#b1609"></rdg></app></p>
             </div>
             <fw type="ornament"/>
             <div type="chapter" n="8" xml:id="ch8">
