@@ -141,6 +141,10 @@
                 <ptr target="#ch5par79"/>
                 <ptr target="#ch5par77"/>
             </transpose>
+            <transpose>
+                <ptr target="#ch9par4"></ptr>
+                <ptr target="#ch9par3"></ptr>
+            </transpose>
         </listTranspose>
     </standOff>
     <text>
@@ -9527,32 +9531,32 @@
             <fw type="ornament"/>
             <div type="chapter" n="8" xml:id="ch8">
                 <head type="chapter-number">CHAP. VIII</head>
-                <head type="chapter-title">Of the Feeding of Bees.</head>
-                <p xml:id="ch8par1"><hi rend="drop-capital">T</hi>Hree moneths of the twelve are
+                <head type="chapter-title">Of the Feeding of Bees.</head><app type="major" subtype="del"><lem wit="#b1623"></lem><rdg wit="#b1609"><ptr target="1609.xml#ch9ancs1 1609.xml#ch9ance1"/></rdg></app>
+                <p xml:id="ch8par1"><app type="minor" subtype="add"><lem wit="b1623"><hi rend="drop-capital">T</hi>Hree moneths of the twelve are
                     rich and plentifull (in which the Bees gather abundantly, and store themselves
                     for all the yeere) <term> Gemini</term>, Cancer, <term>Leo</term>; but
-                        <term>Cancer</term> is better than both the other. In <term> Virgo</term>
+                    <term>Cancer</term> is better than both the other.</lem><rdg wit="#b1609"></rdg></app> <app type="major" subtype="change"><lem wit="#b1623">In <term> Virgo</term>
                     and <term>Libra</term> they live of their daily labour from hand to mouth:
                     little increasing or diminishing their store; unlesse they fall into the hands
-                    of Robbers, and then, without reskue, they lose all. <note type="authorial"
+                    of Robbers, and then, without reskue, they lose all.</lem><rdg wit="#b1609"><ptr target="1609.xml#ch9ancs2 1609.xml#ch9ance2"/></rdg></app> <note type="authorial"
                         subtype="summary" xml:id="ch8sumn1">1. In seven moneths the Bees spend of
-                        the stocke.</note> But in the other seven, either wholly or partly they feed
-                    upon that store, which the three rich moneths did afford them. For <term>
-                        Scorpio</term> hath but the poore gleanings of decaying plants: the three
-                    still moneths nothing at all. <term>Pisces</term> beginneth to put forth fresh
-                    plants, which in <term>Aries</term> and <term>Taurus</term> are well increased:
-                    but this breeding time the mouths are multiplied more often than the meat, which
+                        the stocke.</note><app type="minor" subtype="add"><lem wit="#b1623"> But in the other seven, either wholly or partly they feed
+                            upon that store, which the three rich moneths did afford them. </lem><rdg wit="#b1609"></rdg></app><app type="minor" subtype="change"><lem wit="#b1623">For <term>
+                                Scorpio</term> hath but the poore gleanings of decaying plants: </lem><rdg wit="#b1609"><ptr target="1609.xml#ch9ancs3 1609.xml#ch9ance3"/></rdg></app><app type="minor" subtype="change"><lem wit="#b1623">the three
+                                    still moneths</lem><rdg wit="#b1609"><ptr target="1609.xml#ch9ancs4 1609.xml#ch9ance4"/></rdg></app> nothing at all. <app type="minor" subtype="change"><lem wit="#b1623"><term>Pisces</term> beginneth to put forth fresh
+                                        plants, which in <term>Aries</term> and <term>Taurus</term> are well increased:</lem><rdg wit="#b1609"><ptr target="1609.xml#ch9ancs5 1609.xml#ch9ance5"/></rdg></app>
+                    <app type="minor" subtype="change"><lem wit="#b1623">but this breeding time the mouths are multiplied more often than the meat,</lem><rdg wit="#b1609"><ptr target="1609.xml#ch9ancs6 1609.xml#ch9ance6"/></rdg></app> <app type="vocabulary" subtype="change"><lem wit="#b1623">which</lem><rdg wit="#b1609"><ptr target="1609.xml#ch9ancs7 1609.xml#ch9ance7"/></rdg></app>
                         <note type="authorial" subtype="gloss" xml:id="ch8glon1"> *<seg rend="italic">Rainie, cold, and
                         windie.</seg> </note>
                     <ref target="#ch8glon1">*</ref>unkinde weather oftentimes suffereth them not to
-                    fetch in. So that all this while, they, more or lesse, spend upon the stocke:
-                    yea the weaker stalls somewhat longer, being not so well able to indure the
-                    sharpe aire: and therefore, for want of some store to feed on betweene whiles at
+                    <app type="minor" subtype="change"><lem wit="#b1623">fetch in.</lem><rdg wit="#b1609"><ptr target="1609.xml#ch9ancs8 1609.xml#ch9ance8"/></rdg></app> So that all this while<app type="other" subtype="add"><lem wit="#b1623">,</lem><rdg wit="#b1609"></rdg></app> they<app type="minor" subtype="add"><lem wit="#b1623">, more or lesse,</lem><rdg wit="#b1609"></rdg></app> <app type="vocabulary" subtype="change"><lem wit="#b1623">spend</lem><rdg wit="#b1609"><ptr target="1609.xml#ch9ancs9 1609.xml#ch9ance9"/></rdg></app> upon the stocke:
+                    yea the weaker stalls somewhat longer, being not so well able to <app type="vocabulary" subtype="change"><lem wit="#b1623">indure</lem><rdg wit="#b1609"><ptr target="1609.xml#ch9ancs10 1609.xml#ch9ance10"/></rdg></app> the
+                    <app type="vocabulary" subtype="change"><lem wit="#b1623">sharpe</lem><rdg wit="#b1609"><ptr target="1609.xml#ch9ancs11 1609.xml#ch9ance11"/></rdg></app> aire: and therefore, for want of some store to feed on betweene whiles at
                     home, I have knowne some die after Mid-<term> Gemini.</term>
                 </p>
                 <p xml:id="ch8par2"><note type="authorial" subtype="summary" xml:id="ch8sumn2">2.
-                        Three sorts of swarmes diversely provided.</note> For which seven spending
-                    moneths, some swarmes are sufficiently provided: which you may reckon as Jewels,
+                    Three sorts of swarmes diversely provided.</note> <app type="vocabulary" subtype="change"><lem wit="#b1623">For</lem><rdg wit="#b1609"><ptr target="1609.xml#ch9ancs12 1609.xml#ch9ance12"/></rdg></app> which seven <app type="vocabulary" subtype="add"><lem wit="#b1623">spending</lem><rdg wit="#b1609"></rdg></app>
+                    moneths, <app type="major" subtype="del"><lem wit="#b1623"></lem><rdg wit="#b1609"><ptr target="1609.xml#ch9ancs13 1609.xml#ch9ance13"/></rdg></app><app type="major" subtype="add"><lem wit="#b1623">some swarmes are sufficiently provided: which you may reckon as Jewels,
                     the verie <foreign xml:lang="la">Spes gregis</foreign>; whose increase the next
                     yeere is certaine, if they be not over-hived. Some are not provided for halfe
                     the time: and these, as desperately poore, are not worth the <fw type="catch">
@@ -9560,18 +9564,18 @@
                     <pb n="S2r"/>
                     <fw type="header"> Of the Feeding of Bees. </fw> feeding. Others are provided
                     for six, or five, or foure moneths: which, by the helpe of feeding, may live and
-                    doe well. </p>
+                    doe well.</lem><rdg wit="#b1609"></rdg></app> </p>
                 <p xml:id="ch8par3"><note type="authorial" subtype="summary" xml:id="ch8sumn3">3.
-                        The first sort.</note> Of the first sort are timely prime swarmes unbroken:
+                        The first sort.</note><app type="major" subtype="add"><lem wit="#b1623">Of the first sort are timely prime swarmes unbroken:
                     also faire Castlings not over hived, before <term>Cancer</term>; yea and in
                     kinde or backward Summers before <term> Mid-Cancer:</term> when the
                     black-bery-blossomes are not yet come, <ref target="#ch8bibln1">v.</ref>
                     <note type="authorial" subtype="bibliographic" xml:id="ch8bibln1">
                         <ref target="#ch5sumn11">V.c.5.n. 11.</ref>
                     </note> nor the hony-deawes gone: For such have sufficient both company and
-                    time, to make sufficient provision.</p>
+                            time, to make sufficient provision.</lem><rdg wit="#b1609"></rdg></app></p>
                 <p xml:id="ch8par4"><note type="authorial" subtype="summary" xml:id="ch8sumn4">4.
-                        The second.</note> Of the second sort are the over-little and late swarmes,
+                        The second.</note> <app type="major" subtype="add"><lem wit="#b1623">Of the second sort are the over-little and late swarmes,
                     whose paucitie and povertie makes them unlustie to travell for more, and unable
                     to keepe what is gotten or given them. Such are sure to bee put before winter be
                     past, by cold and hunger, out of hunger and cold. And therefore if you have
@@ -9580,20 +9584,20 @@
                         <ref target="#ch5sumn68"> V.c.5.n.68. </ref>
                     </note> yet omit not to save that little which they have, and your vaine labour
                     and cost in feeding them. <ref target="#ch10p1sumn3">v.c. 10. p.1.n.3.in
-                        III.</ref></p>
+                        III.</ref></lem><rdg wit="#b1609"></rdg></app></p>
                 <p xml:id="ch8par5"><note type="authorial" subtype="summary" xml:id="ch8sumn5">5.
-                        The third onely are to be fed.</note> Of the third sort are midling and
+                        The third onely are to be fed.</note> <app type="major" subtype="add"><lem wit="#b1623">Of the third sort are midling and
                     indifferent swarmes, which by their earnest labour have gotten well, and
                     gathered good store of wealth together: but yet, for some want of number or
-                    time, the summer leaveth them in some want of provision. </p>
+                    time, the summer leaveth them in some want of provision. </lem><rdg wit="#b1609"></rdg></app></p>
                 <p xml:id="ch8par6"><note type="authorial" subtype="summary" xml:id="ch8sumn6">6.
-                        Stockes out of proofe never to be fed.</note> As for Stockes that have stood
+                        Stockes out of proofe never to be fed.</note> <app type="major" subtype="add"><lem wit="#b1623">As for Stockes that have stood
                     two yeeres, and yet have not sufficient stocke for these seven moneths; (whether
                     they be such as have gotten it, or having gotten it have lost it againe) they
                     are out of proofe: and therefore fit to be taken, not fed. <ref
-                        target="#ch10p1sumn3"> v.c.10. p.1.n.3.in III.</ref></p>
+                        target="#ch10p1sumn3"> v.c.10. p.1.n.3.in III.</ref></lem><rdg wit="#b1609"></rdg></app></p>
                 <p xml:id="ch8par7"><note type="authorial" subtype="summary" xml:id="ch8sumn7">7.
-                        Trie your swarmes in Virgo.</note> But because unkinde summers may make good
+                        Trie your swarmes in Virgo.</note> <app type="major" subtype="add"><lem wit="#b1623">But because unkinde summers may make good
                     warmes but poore, as contrarily a plentifull summer may much mend the worst;
                     after <hi rend="italic">Mid-<term>Virgo</term>,</hi> when Bees are to be taken,
                         <ref target="#ch8bibln3">v.</ref>
@@ -9631,8 +9635,8 @@
                         target="#ch8bibln7"> v.</ref>
                     <note type="authorial" subtype="bibliographic" xml:id="ch8bibln7">
                         <ref target="#ch10p1sumn3"> V.c.10.p.1.n.3,in VII.&amp;VIII.</ref>
-                    </note> for too much as well to Bees as men, doth ofttimes more harme than good. </p>
-                <note type="authorial" subtype="gloss" place="inline" xml:id="ch8glon2">*Yet they
+                    </note> for too much as well to Bees as men, doth ofttimes more harme than good.</lem><rdg wit="#b1609"></rdg></app> </p>
+                <app type="major" subtype="add"><lem wit="#b1623"><note type="authorial" subtype="gloss" place="inline" xml:id="ch8glon2">*Yet they
                     that have but a small Bee-fold, and are content to be often troubled (specially
                     at the second feeding-time) may try those that lacke a pound or two of this
                     weight.</note>
@@ -9650,12 +9654,12 @@
                     that were scantily provided; it shall not be amisse to try againe in <term>
                         Pisces</term> or <term>Aries,</term> those that you suspect; and to feed
                     them if you see cause.<ref target="#ch8sumn15">v.n.15.</ref>&amp;<ref
-                        target="#ch8sumn16">16.</ref></p>
+                        target="#ch8sumn16">16.</ref></p></lem><rdg wit="#b1609"></rdg></app>
                 <lb/>
                 <p xml:id="ch8par9"><note type="authorial" subtype="summary" xml:id="ch8sumn10">10.
                         The Bees food.</note>
-                    <hi rend="drop-capital">T</hi>HE naturall food of Bees is Honie: for want, or
-                    sparing whereof, many other things have beene devised.
+                        <app type="minor" subtype="change"><lem wit="#b1623"><hi rend="drop-capital">T</hi>HE naturall food of Bees is Honie: for want, or
+                            sparing whereof, many other things have beene devised.</lem><rdg wit="#b1609"><ptr target="1609.xml#ch9ancs14 1609.xml#ch9ance14"/></rdg></app>
                         <persName>Aristotle</persName> mentioneth Figs, and all such sweet things. <quote>
                         <foreign xml:lang="la">Apiarii ficus ac reliqua ad genus dulcia cibum
                             apponnut.</foreign>
@@ -9663,7 +9667,7 @@
                             <bibl>Hist.li.9.c.40.</bibl>
                         </note>
                     </quote> and <persName> Plinie,</persName> speaking more particularly,
-                    commendeth Raysings, and Figs, and teased Wooll, wet in sweet Wine made of
+                    commendeth Raysings, and Figs, and teased Wooll, wet<app type="minor" subtype="del"><lem wit="#b1623"></lem><rdg wit="#b1609"><ptr target="1609.xml#ch9ancs15 1609.xml#ch9ance15"/></rdg></app> in sweet Wine made of
                     Raisings, or new Wine boiled, or Hony-water. <quote>
                         <note type="authorial" subtype="bibliographic" xml:id="ch8bibln10">
                             <bibl>Nat hist.li.21.c.14.</bibl>
@@ -9671,12 +9675,12 @@
                         <foreign xml:lang="la">Si cibus deesse censeatur apibus, avas passas
                             siccasue, sicosque, tusas ad fores earum posuisse conveniet, item lanas
                             tractas madentes passo aut defruto, aut aqua mulsa.</foreign>
-                    </quote> And some of our Country-men have practised to give them Bay-salt,
-                    Bean-flower, Ground-mault, rosted Wardens, and Apples, and sweet Wort. All <fw
+                    </quote> And some of our Country-men have practised to give them Bay-salt,<app type="vocabulary" subtype="del"><lem wit="#b1623"></lem><rdg wit="#b1609"><ptr target="1609.xml#ch9ancs16 1609.xml#ch9ance16"/></rdg></app>
+                    Bean-flower, <app type="minor" subtype="add"><lem wit="#b1623">Ground-mault, rosted Wardens, and Apples,</lem><rdg wit="#b1609"></rdg></app> and sweet Wort. All <fw
                         type="catch"> which</fw>
                     <pb n="S3v"/>
                     <fw type="header"> Of the Feeding of Bees. </fw> which things, though they will
-                    spend; yet cannot they be preseved by them without Honie. </p>
+                    spend; yet cannot <app type="vocabulary" subtype="change"><lem wit="#b1623">they</lem><rdg wit="#b1609"><ptr target="1609.xml#ch9ancs17 1609.xml#ch9ance17"/></rdg></app> be preseved by them without Honie. </p>
                 <note type="authorial" subtype="gloss" place="inline" xml:id="ch8glon4">Touching the
                     counsell of <persName> Plinie.</persName> this is to be noted, that if you place
                     their food <foreign xml:lang="la">ad fores</foreign> before the doore, it will
@@ -9693,7 +9697,7 @@
                     small haires, as Birds in a grin. Cover it therefore with a linnen cloth, so
                     that the Bees may not creepe betweene. </note>
                 <p xml:id="ch8par10"><note type="authorial" subtype="summary" xml:id="ch8sumn11">11.
-                        Private feeding.</note> The manner of feeding Bees in their Hives is divers.
+                        Private feeding.</note> <app type="major" subtype="add"><lem wit="#b1623">The manner of feeding Bees in their Hives is divers.
                     Some give them Honie in a spoone: but that way many of them be-smeare their
                     wings: and if their fellowes licke them not cleane presently, before the cold
                     chill them, they die. Others, to avoid this inconvenience, give it them in a
@@ -9705,8 +9709,8 @@
                     inches square, made of two sides halfe an inch deepe, and three ribs fastened
                     into them with Dove-railes, or with small nailes. For a need two severall square
                     stickes may serve: but then you cannot so quickly either see it in, or take it
-                    out. </p>
-                <p xml:id="ch8par11">Then in a faire calme evening (when the heat of the day, and
+                    out. </lem><rdg wit="#b1609"></rdg></app></p>
+                <p xml:id="ch8par11"><app type="major" subtype="add"><lem wit="#b1623">Then in a faire calme evening (when the heat of the day, and
                     the Bees worke is past) place this upon the stoole: so that the Feeding-combe be
                     reared as neere the Hive-combes as may be, not touching them, lest the Bees
                     fasten this and them together. Then see that the Hive, set downe in his place,
@@ -9720,9 +9724,9 @@
                     waxeth darke, and the Bees are all in; barre up the doore: and let them not out
                     till the next evening, when other Bees are quiet. Or if you doe it in the
                     morning, be sure also to take out the Combe, whether he be rid or no. And still
-                    leave the Hive close, with a narrow passage. </p>
+                    leave the Hive close, with a narrow passage. </lem><rdg wit="#b1609"></rdg></app></p>
                 <p xml:id="ch8par12"><note type="authorial" subtype="summary" xml:id="ch8sumn12">12.
-                        Carelesse feeding is starving.</note> If your poore Bees should not be thus
+                        Carelesse feeding is starving.</note> <app type="major" subtype="add"><lem wit="#b1623">If your poore Bees should not be thus
                     defended from strangers, the feeding of them would prove a starving of them. For
                     the Borderers smelling the bootie will be sure to have part of it, if they can
                     come at it: and when that is done, they will set upon the other, and so spoile
@@ -9735,9 +9739,9 @@
                         <ref target="#ch8sumn50">V.n.50</ref>
                     </note> are thus fed, do seldome miscarrie. That summer they provide
                     sufficiently for winter, and the next they are as likely to swarme and be fat as
-                    an other. </p>
+                    an other. </lem><rdg wit="#b1609"></rdg></app></p>
                 <p xml:id="ch8par13"><note type="authorial" subtype="summary" xml:id="ch8sumn13">13.
-                        Publike feeding.</note> You may also feed your poore swarmes, together, (if
+                        Publike feeding.</note> <app type="major" subtype="add"><lem wit="#b1623">You may also feed your poore swarmes, together, (if
                     you have no neighour-Bees to beguile them) by setting any refuse-honie or
                     leavings abroad in your Garden, having first barred up those that need it not.
                     This feeding-Hony, as that which is stolne, when they have first taken their
@@ -9747,61 +9751,61 @@
                     <note type="authorial" subtype="bibliographic" xml:id="ch8bibln13">
                         <ref target="#ch6sumn15"> V.c.6. n.15.</ref>
                     </note> they doe but halfe-fill. And therefore they first spend of this last
-                    gotten hony, reserving that, which was more safely laid up, unto the last. </p>
+                            gotten hony, reserving that, which was more safely laid up, unto the last. </lem><rdg wit="#b1609"></rdg></app></p>
                 <p xml:id="ch8par14"><note type="authorial" subtype="summary" xml:id="ch8sumn14">14.
-                        The first time of feeding.</note> It is good to feed Bees before they need:
+                    The first time of feeding.</note> <app type="minor" subtype="change"><lem wit="#b1623">It is good</lem><rdg wit="#b1609"><ptr target="1609.xml#ch9ancs18 1609.xml#ch9ance18"/></rdg></app> to feed Bees before they need:
                     (that they may save their store, which they have shut up in their Cells, until
-                    the spring) namely, in the later part of <term> Virgo,</term> when the Combes
+                    the spring) namely, in <app type="major" subtype="del"><lem wit="#b1623"></lem><rdg wit="#b1609"><ptr target="1609.xml#ch9ancs19 1609.xml#ch9ance19"/></rdg></app><app type="minor" subtype="add"><lem wit="#b1623">the later part of <term> Virgo,</term> when the Combes
                     are taken, <ref target="#ch8bibln14">v.</ref>
                     <note type="authorial" subtype="bibliographic" xml:id="ch8bibln14">
                         <ref target="#ch10p1sumn2">V.c. 10.p.1.n. 2.</ref>
                     </note> or in <term> Libra.</term> For those that have spent their owne store,
                     and have little or nothing leaft in the end of Winter, as so discouraged and so
                     feeble with fasting; that knowing their thin bodies can beare out no cold, they
-                    wil not come abroad, but when they are fed: unlesse the weather be exceeding
+                    wil not come abroad, but when they are fed: </lem><rdg wit="#b1609"></rdg></app>unlesse the weather be exceeding
                     warme and calme: and the more they keepe in, the <fw type="catch"> weaker</fw>
                     <pb n="S4v"/>
-                    <fw type="header"> Of the Feeding of Bees. </fw> weaker still they are, and
-                    lesse apt to breed. But those whose rathe feeding hath caused them to spare
+                    <fw type="header"> Of the Feeding of Bees. </fw> weaker still they are<app type="minor" subtype="add"><lem wit="#b1623">, and
+                        lesse apt to breed.</lem><rdg wit="#b1609"></rdg></app> But those whose rathe feeding hath caused them to spare
                     their store till the Spring, will be as cheerefull as the best: in any
                     reasonable weather they will abroad, and fetch in that fruitfull <term>
-                        Ambrosia,</term> which causeth them presently to increase and multiply. <ref
-                        target="#ch4sumn12"> v.c. 4.n.12.</ref></p>
-                <p xml:id="ch8par15">At this first time therefore first finish the publike feeding:
+                        Ambrosia,</term> which causeth them presently to <app type="vocabulary" subtype="change"><lem wit="#b1623">increase and multiply</lem><rdg wit="#b1609"><ptr target="1609.xml#ch9ancs20 1609.xml#ch9ance20"/></rdg></app>. <ref
+                        target="#ch4sumn12"> v.c. 4.n.12.</ref></p><app type="major" subtype="del"><lem wit="#b1623"></lem><rdg wit="#b1609"><ptr target="1609.xml#ch9ancs21 1609.xml#ch9ance21"/></rdg></app>
+                <p xml:id="ch8par15"><app type="major" subtype="add"><lem wit="#b1623">At this first time therefore first finish the publike feeding:
                     and then begin the private, specially of those that are under eighteene pound:
                     to which if you give now the better part of their<ref target="#ch8glon5">*</ref>
                     due allowance; you may supply the defects of them, as also the rest, at the
-                    second feeding-time, when their need will better appeare. </p>
-                <note type="authorial" subtype="gloss" place="inline" xml:id="ch8glon5">*Their due
+                    second feeding-time, when their need will better appeare. </lem><rdg wit="#b1609"></rdg></app></p>
+                <note type="authorial" subtype="gloss" place="inline" xml:id="ch8glon5"><app type="reference" subtype="add"><lem wit="#b1623">*Their due
                     allowance, first and last to be given them, is so much at least, as the swarme
                     with his store lacketh of twentie pound. <ref target="#ch8sumn8">v.n.8.</ref>
-                </note>
+                </lem><rdg wit="#b1609"></rdg></app></note>
                 <p xml:id="ch8par16"><note type="authorial" subtype="summary" xml:id="ch8sumn15">15.
-                        The second time of feeding.</note> In <term>Pisces</term> or <term>
+                        The second time of feeding.</note> <app type="major" subtype="add"><lem wit="#b1623">In <term>Pisces</term> or <term>
                         Aries</term>, as soone as the weather is warme (not before, lest the cold
                     chill them in their worke) if you feare they will lacke, (which you may perceive
                     by their lightnesse &amp; unwillingnesse to come abroad) supply their want
-                    againe, and againe, if need be. But in this second feeding, for lacke of a
-                    Hony-combe, take a drie Combe, reserved for the purpose, and poure thereon so
+                    againe, and againe, if need be.</lem><rdg wit="#b1609"></rdg></app> <app type="minor" subtype="change"><lem wit="#b1623">But in this second feeding, for lacke of a
+                        Hony-combe, </lem><rdg wit="#b1609"><ptr target="1609.xml#ch9ancs22 1609.xml#ch9ance22"/></rdg></app>take a <app type="vocabulary" subtype="change"><lem wit="#b1623">drie</lem><rdg wit="#b1609"><ptr target="1609.xml#ch9ancs22 1609.xml#ch9ance22"/></rdg></app> Combe, <app type="minor" subtype="add"><lem wit="#b1623">reserved for the purpose,</lem><rdg wit="#b1609"></rdg></app> and poure thereon so
                     much Honie as it may receive. If you thinke it be not liquid enough; then either
-                    warme it first over the fire, or else spread it all over the Combe with your
-                    finger, that it may sinke into the Cells: (for which purpose Live-hony is best)
-                    then use this honied combe as the Hony-combe. <ref target="#ch8sumn11"> v.n.
-                        11.</ref></p>
+                    warme it first <app type="minor" subtype="del"><lem wit="#b1623"></lem><rdg wit="#b1609"><ptr target="1609.xml#ch9ancs24 1609.xml#ch9ance24"/></rdg></app>over the fire, or else spread it all over the Combe with your
+                    <app type="vocabulary" subtype="change"><lem wit="#b1623">finger</lem><rdg wit="#b1609"><ptr target="1609.xml#ch9ancs25 1609.xml#ch9ance25"/></rdg></app>, that it may sinke into the Cells: (for which purpose Live-hony is <app type="vocabulary" subtype="del"><lem wit="#b1623"></lem><rdg wit="#b1609"><ptr target="1609.xml#ch9ancs26 1609.xml#ch9ance26"/></rdg></app>best)
+                    <app type="minor" subtype="add"><lem wit="#b1623">then use this honied combe as the Hony-combe. <ref target="#ch8sumn11"> v.n.
+                        11.</ref></lem><rdg wit="#b1609"></rdg></app></p><app type="major" subtype="del"><lem wit="#b1623"></lem><rdg wit="#b1609"><ptr target="1609.xml#ch9ancs27 1609.xml#ch9ance27"/></rdg></app>
                 <p xml:id="ch8par17"><note type="authorial" subtype="summary" xml:id="ch8sumn16">16.
-                        The third time of feeding.</note> If either these fed Bees, or any other,
+                        The third time of feeding.</note> <app type="major" subtype="add"><lem wit="#b1623">If either these fed Bees, or any other,
                     chance afterward to lacke (namely in <term> Taurus</term>, or somwhat before or
                     after) then feed them daily untill mid-<term> Gemini</term>, giving them, everie
                     evening or morning betimes, a spoonefull of Honie; and taking away the Combe
                     againe before other Bees be at worke. But this is to be done without
                     intermission: for the Bees will duly looke for it, and languish, if once or
-                    twice they lacke it. </p>
+                    twice they lacke it. </lem><rdg wit="#b1609"></rdg></app></p>
                 <note type="authorial" subtype="gloss" place="inline" xml:id="ch8glon6">If you use
                     to knocke the Hive, when you put in the Honie; they will come downe together,
                     like sheepe to a call, when they are to be fodered. </note>
-                <p xml:id="ch8par18">By this meanes I have saved swarmes that forsooke their Hives
+                <p xml:id="ch8par18"><app type="major" subtype="add"><lem wit="#b1623">By this meanes I have saved swarmes that forsooke their Hives
                     for hunger, hiving them againe in their owne Hives: which proved good the same
-                    yeere. </p>
+                    yeere. </lem><rdg wit="#b1609"></rdg></app></p>
             </div>
             <fw type="catch"> CHAP</fw>
             <pb n="T1r"/>
@@ -9811,38 +9815,38 @@
                 <head type="chapter-title">Of the removing of Bees.</head>
                 <p xml:id="ch9par1"><note type="authorial" subtype="summary" xml:id="ch9sumn1">1.
                         Five things to be avoided in removing Bees.</note>
-                    <hi rend="drop-capital">I</hi>N removing of Bees be carefull to avoid these five
+                    <app type="major" subtype="add"><lem wit="#b1623"><hi rend="drop-capital">I</hi>N removing of Bees be carefull to avoid these five
                     evills: 1. hindering of their swarming: 2. and of their Hony-gathering: 3.
-                    breaking of their Combes: 4. robbing: 5. and losse of Bees. </p>
+                    breaking of their Combes: 4. robbing: 5. and losse of Bees. </lem><rdg wit="#b1609"></rdg></app></p>
                 <p xml:id="ch9par2"><note type="authorial" subtype="summary" xml:id="ch9sumn2">2.
                         Remove alwaies in faire weather</note> Remove alwaies in a faire day, and,
                     as neere as you can guesse, in setled weather. For when they are moved to
                     another place, if it be within their circuit or walke; they will flie to their
-                    old standing as soone as they are let goe, and hanker about it three or foure
-                    daies, and sometime longer: where if the cold wet catch them, many lose their
+                    old standing as soone as they are let goe, and hanker about it <app type="vocabulary" subtype="del"><lem wit="#b1623"></lem><rdg wit="#b1609"><ptr target="1609.xml#ch8ancs1 1609.xml#ch8ance1"/></rdg></app><app type="minor" subtype="change"><lem wit="#b1623">three or foure</lem><rdg wit="#b1609"><ptr target="1609.xml#ch8ancs2 1609.xml#ch8ance2"/></rdg></app>
+                    daies<app type="minor" subtype="add"><lem wit="#b1623">, and sometime longer</lem><rdg wit="#b1609"></rdg></app>: where if the cold wet catch them, many lose their
                     lives. And if you remove them out of their knowledge, then, as amazed in an
                     uncouth place, they flie about for a while viewing the countrie, and searching
                     for their old home: when they are wearie, they rest wheresoever: and if foule
                     weather come upon them, they are in like danger. </p>
                 <p xml:id="ch9par3"><note type="authorial" subtype="summary" xml:id="ch9sumn3">3.
-                        Not in Winter.</note> For the time of the yeere, remove not in the three
-                    still moneths, or in a fortnight afore or after, for losing the Bees. For if
+                        Not in Winter.</note> <app type="minor" subtype="change"><lem wit="#b1623">For the time of the yeere, remove not in the three
+                            still moneths, or in a fortnight afore or after,</lem><rdg wit="#b1609"><ptr target="1609.xml#ch8ancs3 1609.xml#ch8ance3"/></rdg></app> for losing the Bees. For if
                     foule weather fall not, the very still cold will kill many, while they are
                     straying abroad: and of those that returne, being not yet acquainted with the
                     Hive doore, some will fall short, some upon the Hive: where, while they rest
                     panting, the cold chilleth them. </p>
                 <p xml:id="ch9par4"><note type="authorial" subtype="summary" xml:id="ch9sumn4">4.
                         Nor in Summer.</note>
-                    <term> Taurus</term>, <term>Gemini</term>, and especially <term> Cancer,</term>
-                    are naught, for hindering the swarming, as well as their hony-gathering: and
-                        <term>Cancer</term> for danger also of breaking their soft Combes. </p>
-                <p xml:id="ch9par5">In <term>Leo</term> though the swarming time be past, and
+                    <app type="minor" subtype="change"><lem wit="#b1623"><term> Taurus</term>, <term>Gemini</term>, and especially <term> Cancer,</term>
+                        are naught, for hindering the swarming, as well as their</lem><rdg wit="#b1609"><ptr target="1609.xml#ch8ancs4 1609.xml#ch8ance4"/></rdg></app> hony-gathering: <app type="minor" subtype="add"><lem wit="#b1623">and
+                            <term>Cancer</term> for danger also of breaking their soft Combes.</lem><rdg wit="#b1609"></rdg></app> </p>
+                <p xml:id="ch9par5"><app type="major" subtype="add"><lem wit="#b1623">In <term>Leo</term> though the swarming time be past, and
                     robbing time not yet come; yet there remaineth some honie-gathe- <fw
                         type="catch"> ring,</fw>
                     <pb n="T1v"/>
                     <fw type="header"> Of the Removing of Bees. </fw> ring, and the Combes being
-                    then most weightie and most weake, the danger of breaking them is greatest. </p>
-                <p xml:id="ch9par6">To remove in <term>Virgo</term> (when the Bees doe ever use to
+                    then most weightie and most weake, the danger of breaking them is greatest. </lem><rdg wit="#b1609"></rdg></app></p>
+                <p xml:id="ch9par6"><app type="major" subtype="add"><lem wit="#b1623">To remove in <term>Virgo</term> (when the Bees doe ever use to
                     be trying of masteries) <ref target="#ch9bibln1"> v.</ref>
                     <note type="authorial" subtype="bibliographic" xml:id="ch9bibln1">
                         <ref target="#ch7sumn31"> V.c.7.n.31. </ref>
@@ -9853,7 +9857,7 @@
                     bring the rest such cheere to their house-warming, as shall haply make the house
                     too hot for them. And then they must be faine to goe along with them, and helpe
                     to carrie their owne goods after them. <ref target="#ch7sumn42"> v.c.7.n.42.
-                    </ref></p>
+                    </ref></lem><rdg wit="#b1609"></rdg></app></p>
                 <p xml:id="ch9par7"><note type="authorial" subtype="summary" xml:id="ch9sumn5">5.
                         The Autumne and Spring are fit times for removing.</note> The fittest time
                     is either in <term> Libra</term> and the fore-part of <term>Scorpio</term>, that
@@ -9861,24 +9865,24 @@
                     in <term> Aries</term> and the later part of <term>Pisces,</term> that they may
                     be acquainted with it before much gathering of Honie. </p>
                 <p xml:id="ch9par8">Neverthelesse, if you have Bees in other mens keeping, whose
-                    care and skill you mistrust; you were better to remove them unseasonably with
-                    some losse, than to hazard all by their ignorance and negligence.</p>
+                    care and skill you mistrust; you were better to remove them <app type="minor" subtype="add"><lem wit="#b1623">unseasonably with
+                        some losse,</lem><rdg wit="#b1609"></rdg></app><app type="minor" subtype="del"><lem wit="#b1623"></lem><rdg wit="#b1609"><ptr target="1609.xml#ch8ancs5 1609.xml#ch8ance5"/></rdg></app> than to hazard all by their ignorance and negligence.</p>
                 <p xml:id="ch9par9"><note type="authorial" subtype="summary" xml:id="ch9sumn6">6.
                         Libra, the best moneth in all the yeere.</note> But if you may choose,
                     remove in <term>Libra</term> onely, which is simply the best.</p>
                 <p xml:id="ch9par10"><note type="authorial" subtype="summary" xml:id="ch9sumn7">7.
-                        When to remove a swarme.</note> And for the removing of a Swarme into an
+                        When to remove a swarme.</note> <app type="major" subtype="add"><lem wit="#b1623">And for the removing of a Swarme into an
                     other Garden, (whether it be neere or far off) the only time is the evening or
                     night next after the hiving: that he may be at his new standing, readie to
                     worke, in the morning; and so lose no time, nor breake his first Combe in the
-                    carriage.</p>
+                    carriage.</lem><rdg wit="#b1609"></rdg></app></p>
                 <lb/>
                 <p xml:id="ch9par11"><note type="authorial" subtype="summary" xml:id="ch9sumn8">8.
                         The time of the day, and manner of removing.</note>
                     <hi rend="drop-capital">I</hi>N the evening, when you meane to remove, an houre
                     before sun-set prop up the Hive from the Stoole, with three Bolsters two or
                     three inches thicke, that the Bees may ascend from the stoole. About halfe an
-                    houre after, having prepared an other stoole of the same height, and covered it
+                    houre after, having prepared an other stoole of the same height,<app type="minor" subtype="del"><lem wit="#b1623"></lem><rdg wit="#b1609"><ptr target="1609.xml#ch8ancs6 1609.xml#ch9ance6"/></rdg></app> and covered it
                     with your Mantle, so, that the middle of the mantle be over the middle of the
                     stoole; move the stall with his stoole, if you may, a little aside; and set the
                     covered stoole close <fw type="catch"> to</fw>
@@ -9896,33 +9900,33 @@
                 <p xml:id="ch9par12"><note type="authorial" subtype="summary" xml:id="ch9sumn9">9.
                         The usuall manner of removing.</note> They use commonly to make no more
                     adoe, but after sun-set when the Bees are at rest, to lift up the stall, and set
-                    it upon a mantle spread on the ground, and so to binde it up, leaving the Bees
+                    it upon a mantle spread on the ground, and so to binde <app type="vocabulary" subtype="change"><lem wit="#b1623">it</lem><rdg wit="#b1609"><ptr target="1609.xml#ch8ancs7 1609.xml#ch8ance7"/></rdg></app> up, leaving the Bees
                     upon the stoole (which in a good stall are not a few) behinde them. <note
                         type="authorial" subtype="summary" xml:id="ch9sumn10"> 10. Which is fit for
                         poore stalles.</note> Which way, for such stalls as have all their Bees up
                     in the Hive, may serve well enough.</p>
                 <p xml:id="ch9par13"><note type="authorial" subtype="summary" xml:id="ch9sumn11">11.
                         How a good stall is to be carried.</note> The best way to carrie your<ref
-                        target="#ch9glon1">*</ref> Stall is upon a Cowl-staffe betweene two.</p>
-                <note type="authorial" subtype="gloss" place="inline" xml:id="ch9glon1">*If you have
+                            target="#ch9glon1"><app type="reference" subtype="add"><lem wit="#b1623">*</lem><rdg wit="#b1609"></rdg></app></ref> Stall is upon a Cowl-staffe betweene two.<app type="minor" subtype="del"><lem wit="#b1623"></lem><rdg wit="#b1609"><ptr target="1609.xml#ch8ancs8 1609.xml#ch8ance8"/></rdg></app></p>
+                <note type="authorial" subtype="gloss" place="inline" xml:id="ch9glon1"><app type="minor" subtype="add"><lem wit="#b1623">*If you have
                     many to remoove; two lustie fellowes may beare two or three of them at once: but
-                    let them be all fast bound together.</note>
+                    let them be all fast bound together.</lem><rdg wit="#b1609"></rdg></app></note>
                 <p xml:id="ch9par14"><note type="authorial" subtype="summary" xml:id="ch9sumn12">12.
                         How a bad.</note> If it be light, one may carrie it in his hand. But,
                     howsoever, be sure it hang perpendicularly for feare of breaking the Combes;
                     specially if you chance to remove before <term>Libra</term>, when the waxe is
-                    soft and the lower parts of the Combes are heavie with Schadons, as well as the
-                    upper with Honie. </p>
+                    soft and the lower parts of the Combes are heavie with <app type="vocabulary" subtype="change"><lem wit="#b1623">Schadons</lem><rdg wit="#b1609"><ptr target="1609.xml#ch8ancs9 1609.xml#ch8ance9"/></rdg></app><app type="minor" subtype="add"><lem wit="#b1623">, as well as the
+                        upper with Honie. </lem><rdg wit="#b1609"></rdg></app></p>
                 <p xml:id="ch9par15"><note type="authorial" subtype="summary" xml:id="ch9sumn13">13.
                         What to doe when they are brought home.</note> When you have brought the
                     Stall home, you may let it stand bound as it is, all night in the house. The
-                    morrow, when the weather serveth, set him on his seat: but if it be foule all
-                    the next day, keepe him still bound untill it be faire. And then having loosed
+                    morrow, when the weather serveth, set him on his seat: <app type="minor" subtype="add"><lem wit="#b1623">but if it be foule all
+                        the next day, keepe him still bound untill it be faire.</lem><rdg wit="#b1609"></rdg></app> And then having loosed
                     the line, and taken away the Mantle, cloome him up presently: leaving, for three
                     or foure faire daies, a verie narrow entrance, for feare of robbing. <note
                         type="authorial" subtype="summary" xml:id="ch9sumn14">14. And what when they
-                        are seated.</note> For their new neighbours, even now also (though not so
-                    eagerly as in <term>Virgo</term>) will prove them: and they will not so stoutly
+                        are seated.</note> For their new neighbours, <app type="minor" subtype="change"><lem wit="#b1623">even now also (though not so
+                            eagerly as in <term>Virgo</term>) will prove them</lem><rdg wit="#b1609"><ptr target="1609.xml#ch8ancs10 1609.xml#ch8ance10"/></rdg></app>: and they will not so stoutly
                     resist, untill they be acquainted in the place.</p>
             </div>
             <fw type="catch"> CHAP.</fw>
@@ -9932,8 +9936,8 @@
                 <head type="chapter-title">Of the fruit and profit of Bees.</head>
                 <p xml:id="ch10par1">Wherein is shewed first the <term>Vindemiation</term> or taking
                     of the Combes: secondly the trying of the <term>Wax</term> and
-                        <term>Honie</term>, with the making of <term> Meth</term> or
-                        <term>Hydromel</term>: and thirdly, the singular vertues of them, for the
+                        <term>Honie</term>, with the making of <term> Meth</term><app type="minor" subtype="add"><lem wit="#b1623"> or
+                            <term>Hydromel</term></lem><rdg wit="#b1609"></rdg></app>: and thirdly, the singular vertues of them, for the
                     use and comfort of man. </p>
                 <div type="section" n="1" xml:id="ch10p1">
                     <head type="section-title">The first part of this Chapter sheweth the taking of
