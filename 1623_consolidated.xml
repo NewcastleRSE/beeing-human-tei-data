@@ -6853,7 +6853,30 @@
                     </lg>
                     <note type="authorial" subtype="bibliographic" xml:id="ch6bibln5">
                         <bibl>Virg.</bibl>
-                    </note></quote></lem><rdg wit="#b1609"><ptr target="1609.xml#ch6ancs6 1609.xml#ch6ance6" /></rdg></app>
+                    </note></quote></lem><rdg wit="#b1609" source="1609.xml#ch6ancs6 1609.xml#ch6ance6">
+                        
+                Ac veluti lentis Cyclopes fulmina massis
+                        Quum properant, alii taurinis follibus auras
+                        Virg.
+                        
+                            
+
+
+                        Acci
+                        
+
+                        
+                            
+
+                        Of the Bees worke
+                         Accipiunt, redduntque, alii stridentiae tingunt 
+                        Aera lacu (gemit impositis incudibus Aetna)
+                        Illi inter sese magna vi brachia tollunt
+                        In numerum, versantque tenaci forcipe ferrum;
+                        Non aliter (si parva licet componere magnis)
+                        Cecropias innatus apes amor urget habendi
+                        Munere quamque suo... 
+                    </rdg></app>
                 <p xml:id="ch6par3"><note type="authorial" subtype="summary" xml:id="ch6sumn5">5.The first, and ground of all, is Wax. <seg rend="italic" /></note><app type="minor" subtype="del"><lem wit="#b1623" /><rdg wit="#b1609" source="1609.xml#ch6ancs7 1609.xml#ch6ance7">Their work consisteth in making either wax or hony.</rdg></app>
                     <app type="minor" subtype="add"><lem wit="#b1623"><hi rend="drop-capital">T</hi>heir first worke is the ground of the other two,
                     and for neasts and nurseries to breed their young in.</lem><rdg wit="#b1609" /></app> <note type="authorial" subtype="summary" xml:id="ch6sumn6">6. <seg rend="italic">How Wax is gathered and wrought. </seg></note>The <app type="vocabulary" subtype="change"><lem wit="#b1623">matter thereof</lem><rdg wit="#b1609" source="1609.xml#ch6ancs8 1609.xml#ch6ance8">wax</rdg></app> they gather <app type="minor" subtype="add"><lem wit="#b1623">from flowers</lem><rdg wit="#b1609" /></app> with their Fangs:
