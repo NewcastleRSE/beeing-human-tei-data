@@ -5700,7 +5700,7 @@
                                 /></rdg>
                         </app></term> the old Queene, an other to go forth with <term>
                         Antiope</term> the Prince, and a third haplie, which, together with the
-                    unripe brood in the celles, maie make an other swarme to serve
+                    unripe brood in the celles, may make an other swarme to serve
                         <term>Orythia</term>. Without likewise they will see, first that the flowers
                     be in state presentlie to furnish them with store of wax and hony: then that the
                     weather do please them, as being warme and calme, &amp; moist: unlesse, being
@@ -5806,7 +5806,7 @@
                     </app>to swarme; <note type="authorial" subtype="summary" xml:id="ch5sumn19">
                         19. To lie forth continually is a signe they will not swarme.</note> so to
                     lie forth continually (as in extreme hot and and dry summers they use to doe)
-                    under the stock or behind the hive &amp;c. (specially after <term>Cancer</term>
+                    under the stock or behinde the hive, &amp;c. (specially after <term>Cancer</term>
                     is come in) <app type="minor" subtype="change">
                         <lem wit="#b1623">is a signe and cause of not swarming</lem>
                         <rdg wit="#b1609"><ptr target="1609.xml#ch5ancs27 1609.xml#ch5ance27"
@@ -5835,13 +5835,14 @@
                         <lem wit="#b1623">An other cause of their lying forth, is continuall hot and
                             drie weather, specially after the Solstice: which causing plentie of
                             hony both in plants and dewes, their mindes are so set upon that their
-                            chiefe delight; <quote>
+                            chiefe delight; </lem><rdg wit="#b1609"></rdg></app></p><p><app type="major" subtype="add"><lem wit="#b1623"><quote>
                                 <foreign xml:lang="la">(Tantus amor florum, &amp; generandi gloria
                                     mellis)</foreign>
                                 <note type="authorial" subtype="bibliographic" xml:id="ch5bibln18">
                                     <bibl>Virg.</bibl>
                                 </note>
-                            </quote> that they have no leisure to swarme: although they might most
+                            </quote></lem><rdg wit="#b1609"></rdg></app></p>
+                <p><app type="major" subtype="add"><lem wit="#b1623"> that they have no leisure to swarme: although they might most
                             safelie come abroad in such weather, which would not suffer the weakest
                             Nymph to fall.</lem>
                         <rdg wit="#b1609"/>
@@ -5863,7 +5864,8 @@
                             rathe swarmes and their stocks, that have the summer before them, prove
                             alwaies good. <note type="authorial" subtype="gloss" xml:id="ch5glonX1"
                                 >* By having faire and fat young stockes, in a good standing, not
-                                over-hived, and well kept.</note>But for those stockes, which not swarming in <term>Gemini</term> happen afterward to lie forth, this may be a remedy.</lem>
+                                over-hived, and well kept.</note></lem>
+                    <rdg wit="#b1609"/></app></p><p><app type="major" subtype="add"><lem wit="#b1623">But for those stockes, which not swarming in <term>Gemini</term> happen afterward to lie forth, this may be a remedy.</lem>
                         <rdg wit="#b1609"/>
                     </app></p>
                 <p xml:id="ch5par22"><note type="authorial" subtype="summary" xml:id="ch5sumn21">21.
@@ -5936,11 +5938,11 @@
                 <p xml:id="ch5par26"><note type="authorial" subtype="summary" xml:id="ch5sumn22">22.
                         What is to be done to those that by no means will swarme.</note>
                     <app type="minor" subtype="change">
-                        <lem wit="#b1623">And then it be before Mid-<term> Cancer</term> &amp; the
+                        <lem wit="#b1623">And then it be before Mid-<term> Cancer</term>, &amp; the
                             hony-weather hold;</lem>
                         <rdg wit="#b1609"><ptr target="1609.xml#ch5ancs35 1609.xml#ch5ance35"
                             /></rdg>
-                    </app><app type="major" subtype="add">
+                    </app><app type="major" subtype="del"><lem wit="#b1623"></lem><rdg wit="#b1609"><ptr target="1609.xml#ch5ancs36 1609.xml#ch5ance36"/></rdg></app><app type="major" subtype="add">
                         <lem wit="#b1623"> your best way is to double the stall, </lem>
                         <rdg wit="#b1609"/>
                     </app><app type="vocabulary" subtype="change">
