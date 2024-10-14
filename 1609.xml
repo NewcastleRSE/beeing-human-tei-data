@@ -7419,7 +7419,7 @@
                 <pb n="M8v"/>
                 <div type="section" n="4" xml:id="ch10conc">
 
-                    <head type="section-title">
+                    <anchor xml:id="ch10bancs1"/><head type="section-title">
                         <hi>The conclusion to the Reader.</hi>
                     </head>
                     <p xml:id="ch10p4par1">
@@ -8054,7 +8054,7 @@
             </div>
         </body>
 
-        <back>
+        <back><anchor xml:id="ch10bance1"/>
             <trailer>
                 <hi rend="finis">FINIS.</hi>
             </trailer>
