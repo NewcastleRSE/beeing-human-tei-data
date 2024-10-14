@@ -3746,7 +3746,7 @@
                             Stiffe enough to keepe up the Strawne Hives from sinking, specially when
                             they are turned. <ref target="#ch5sumn22">v.c.5.n.22.</ref>&amp;<ref
                                 target="#ch5sumn23">23.</ref></note>
-                    </p><p><note type="authorial" subtype="gloss" place="inline" xml:id="ch3glon4">(c)
+                    </lem><rdg wit="#b1609"></rdg></app></p><p><app type="major" subtype="add"><lem wit="#b1623"><note type="authorial" subtype="gloss" place="inline" xml:id="ch3glon4">(c)
                             If you put foure Spleets in a Hive, then cut their backes, where they
                             must leane one against another, to square angles, such as be foure in a
                             circle: if but three, cut them to obtuse angles, such as are three in a
@@ -4084,10 +4084,13 @@
                                 target="#ch3bibln11"> v:</ref>
                             <note type="authorial" subtype="bibliographic" xml:id="ch3bibln11">
                                 <ref target="#ch3sumn30">V. n.30.</ref>
-                            </note> when it shall be joyned unto them. If the Hive be with the
-                            least, you may set up the Posts without cutting the roule.</lem>
-                        <rdg wit="#b1609"/>
-                    </app></p>
+                            </note> when it shall be joyned unto them. </lem>
+                    <rdg wit="#b1609"/>
+                </app></p> <p><app type="major" subtype="add">
+                    <lem wit="#b1623">If the Hive be with the
+                        least, you may set up the Posts without cutting the roule.</lem>
+                    <rdg wit="#b1609"/>
+                </app></p>
                 <p xml:id="ch3par39"><app type="major" subtype="add">
                         <lem wit="#b1623">In a Wicker-hive the Summer-doore is made more easily. </lem>
                         <rdg wit="#b1609"/>
@@ -4096,7 +4099,7 @@
                         <lem wit="#b1623">Sometime, namely when a Hive is reared, moveable posts are
                             requisite: which may serve also at other times. A moveable Post is an
                             inch-square peece of wood, with a shouldering above to rest against the
-                            Hive: and another in the inside of the doore to fit the wicket: the
+                            Hive: and an other in the inside of the doore to fit the wicket: the
                             forme is this. </lem>
                         <rdg wit="#b1609"/>
                     </app></p>
