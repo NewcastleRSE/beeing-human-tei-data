@@ -11735,16 +11735,16 @@
                         a quarter of an houre, till it be greene: and then straine it, and let it
                         coole. This is chiefly to bee made in <term>May,</term> because then the
                         Hysop is in his prime.</p>
-                    <note type="authorial" subtype="gloss" place="inline" xml:id="ch10p3glon23"
+                    <app type="minor" subtype="add"><lem wit="#b1623"><note type="authorial" subtype="gloss" place="inline" xml:id="ch10p3glon23"
                             >*<bibl>Sylvius de medicam.simpl.mist.lib.3.</bibl>&amp;
-                            <bibl>Fern.Meth.lib.7.</bibl></note>
+                        <bibl>Fern.Meth.lib.7.</bibl></note></lem><rdg wit="#b1609"></rdg></app>
                 </div>
             </div>
         </body>
         <back>
             <trailer>
                 <quote type="trailer-quote"><bibl>PSAL. III.v.2.</bibl><lb/> Magne opera <emph>
-                        JEHOVae</emph>, exquisita ab omnibus qui delectantur in illis.</quote><app type="major" subtype="del"><lem wit="#b1623"></lem><rdg wit="#b1609"><ptr target="1609.xml#ch10bancs1 1609.xml#ch10bance1"/></rdg></app>
+                    JEHOVae</emph>, exquisita ab omnibus qui delectantur in illis.</quote><app type="major" subtype="del"><lem wit="#b1623"></lem><rdg wit="#b1609"><ptr target="1609.xml#ch10bancs1 1609.xml#ch10bance1"/></rdg></app>
                 <hi rend="finis">FINIS.</hi>
             </trailer>
         </back>
