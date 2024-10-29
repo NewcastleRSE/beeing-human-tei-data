@@ -10500,16 +10500,16 @@
                                 Honie as Wooll.</lem><rdg wit="#b1609c"></rdg></app></p>
                     <p xml:id="ch10p2par18"><note type="authorial" subtype="summary"
                             xml:id="ch10p2sumn13">13. How to know good Honie</note> <app type="minor" subtype="change"><lem wit="#b1623">Good Honie, when
-                                it hath wrought, hath these properties whereby it is knowne:</lem><rdg wit="#b1609"><ptr target="1609.xml#ch10ancs59 1609.xml#ch10ance59"/></rdg></app> It is cleere,
-                        odoriferous, yelow like pale gold, (but right Virgin-honie is more
-                        crystalline at the first, <ref target="#ch10p2bibln15"> v.</ref>
+                                it hath wrought, hath these properties whereby it is knowne:</lem><rdg wit="#b1609"><ptr target="1609.xml#ch10ancs59 1609.xml#ch10ance59"/></rdg></app> <app type="minor" subtype="add"><lem wit="#b1623">It is</lem><rdg wit="#b1609"></rdg></app> cleere,
+                        odoriferous, yelow like <app type="vocabulary" subtype="add"><lem wit="#b1623">pale</lem><rdg wit="#b1609"></rdg></app> gold, (<app type="minor" subtype="change"><lem wit="#b1623">but right Virgin-honie is more
+                            crystalline at the first, <ref target="#ch10p2bibln15"> v.</ref></lem><rdg wit="#b1609"><ptr target="1609.xml#ch10ancs60 1609.xml#ch10ance60"/></rdg></app>
                         <note type="authorial" subtype="bibliographic" xml:id="ch10p2bibln15">
                             <ref target="#ch6sumn29"> V.c.6.n.29 </ref>
                         </note>) sharpe, sweet, and pleasant to the taste, of a meane consistence
                         betweene thicke and thinne, so clammie, that beeing taken up upon your
                         fingers end, in falling it will not part, but hang together like a long
-                        string, as that useth to doe which is clarified. And such doth
-                            <persName>Jacobus Sylvius</persName> describe the best honie, <quote>
+                        string, as that useth to doe which is clarified. <app type="minor" subtype="change"><lem wit="#b1623">So</lem><rdg wit="#b1609"></rdg></app> doth
+                            <persName>Jacobus Sylvius</persName> describe the best hony to be. <quote>
                             <foreign xml:lang="la">Meloptimum sit purum adeo ut totum per luceat,
                                 odorum, flavum, acerrimum, dulcissimumque gustanti &amp;
                                 jucundissimum, consistentia nec crassa nec liquida, sed tam sibi
@@ -10518,8 +10518,8 @@
                                 emittit.</foreign>
                             <note xml:id="ch10p2biblnX15" type="editorial" subtype="other"> this is
                                 the first part of a quotation attributed below to <bibl>Fern. l.7.de
-                                    Oxymel.</bibl></note>
-                        </quote> And <persName> Guil.Plantius.</persName>
+                                    Oxymel.</bibl></note></quote>
+                        <app type="major" subtype="add"><lem wit="#b1623"> And <persName> Guil.Plantius.</persName>
                         <quote>
                             <foreign xml:lang="la">Mel probum est quod inter crassissimum &amp;
                                 tennissimum, sit mediocre, sapore dulcissimum, &amp; acerimum,
@@ -10529,7 +10529,7 @@
                                 lentorem abrumpatur, pondere grave, &amp; inter coquendum spumae
                                 parum emittens.</foreign>
                             <bibl>In Fern. l.7.de Oxymel. </bibl>
-                        </quote></p>
+                        </quote></lem><rdg wit="#b1609"></rdg></app></p>
                     <p xml:id="ch10p2par19"><note type="authorial" subtype="summary"
                             xml:id="ch10p2sumn14">14. Good Honie with standing waxeth hard and
                             white</note> This good Honie, specially that part which is in the
