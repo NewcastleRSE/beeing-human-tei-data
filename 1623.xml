@@ -10309,7 +10309,7 @@
                         <app type="vocabulary" subtype="change"><lem wit="#b1623">Sandarach</lem><rdg wit="#b1609"><ptr target="1609.xml#ch10ancs54 1609.xml#ch10ance54"/></rdg></app>, the third dry Wax without Honie. <app type="vocabulary" subtype="change"><lem wit="#b1623">And</lem><rdg wit="#b1609"><ptr target="1609.xml#ch10ancs55 1609.xml#ch10ance55"/></rdg></app> that they may breake right
                         where you would have them, <app type="minor" subtype="change"><lem wit="#b1623">marke the places deeply</lem><rdg wit="#b1609"><ptr target="1609.xml#ch10ancs56 1609.xml#ch10ance56"/></rdg></app> with the edge of your
                         knife. </p>
-                    <p xml:id="ch10p2par3"><note type="authorial" subtype="summary"
+                    <p xml:id="ch10p2par3"><app type="major" subtype="add"><lem wit="#b1623"><note type="authorial" subtype="summary"
                             xml:id="ch10p2sumn2">2. Necessarie Instruments being first
                             provided.</note> But first provide necessarie Instruments, as Panns,
                         Kivers, Tongs, wide Sieves, or Wheat-ridders, a Slice, Knives,
@@ -10318,18 +10318,18 @@
                         <pb n="V2v"/>
                         <fw type="header"> Of the fruit and profit of Bees. </fw> Tap-waze, a hairen
                             Clensieve,<ref target="#ch10p2glon1">*</ref> Honie-pots, Wax-moulds,
-                        Meth-barrels, &amp;c.</p>
-                    <note type="authorial" subtype="gloss" place="inline" xml:id="ch10p2glon1"
+                        Meth-barrels, &amp;c.</lem><rdg wit="#b1609"></rdg></app></p>
+                    <app type="major" subtype="add"><lem wit="#b1623"><note type="authorial" subtype="gloss" place="inline" xml:id="ch10p2glon1"
                         >*Treene vessels, if they leake not, are better than earthen: which if they
                         breake not by some mischance, the verie force of the Honie is able to
-                        cracke. </note>
-                    <p xml:id="ch10p2par4">These things provided, take out the first Combe: and
+                        cracke. </note></lem><rdg wit="#b1609"></rdg></app>
+                    <p xml:id="ch10p2par4"><app type="major" subtype="add"><lem wit="#b1623">These things provided, take out the first Combe: and
                         setting the Honie-end in a Ridder, resting upon Tongs over a cleane Pan or
                         Kiver that will not leake; marke and breake off the first part for Honie,
                         and leave it there: then going to the Kieve fitted with a Tap and Tap-waze,
                         marke and break off the second part for Meth or Hydromel, and leave it
                         there: and lay the third part aside for Wax. Then taking out an other Combe
-                        doe the like, &amp;c. till the Ridder be full. </p>
+                        doe the like, &amp;c. till the Ridder be full. </lem><rdg wit="#b1609"></rdg></app></p>
                     <p xml:id="ch10p2par5">
                         <note type="authorial" subtype="summary" xml:id="ch10p2sumn3">3. The
                             dressing of the first part for Honie in two shoots.</note> If you meane
