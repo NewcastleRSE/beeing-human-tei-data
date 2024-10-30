@@ -10542,13 +10542,13 @@
                         <placeName> Spaine</placeName> and <placeName>Narbona</placeName> in
                             <placeName> France,</placeName> which is accounted the chiefest, and
                         compared with that of <ref target="#ch10p2glon4">†</ref>
-                        <term>Hymettus</term> and <term> Hybla.</term> But this is to be understood
+                        <term>Hymettus</term> and <term> Hybla.</term> <app type="minor" subtype="add"><lem wit="#b1623">But this is to be understood
                         of ordinarie Honie: for the pure Virgin Honie will bee neither hard nor
                         white; but changeth his liquiditie and crystalline cleernesse <ref
                             target="#ch10p2bibln17">v.</ref>
                         <note type="authorial" subtype="bibliographic" xml:id="ch10p2bibln17">
                             <ref target="#ch6sumn29"> V.c.6.n.29. </ref>
-                        </note> into a thicke softnesse, and bright yelow colour. </p>
+                        </note> into a thicke softnesse, and bright yelow colour.</lem><rdg wit="#b1609"></rdg></app> </p>
                     <note type="authorial" subtype="gloss" place="inline" xml:id="ch10p2glon3">*<quote>
                             <foreign xml:lang="la">Quin Hispani &amp; Narbonenses mittunt albissimum
                                 &amp; longe praestantissimum, idemque; praedurum.</foreign>
@@ -10812,9 +10812,9 @@
                     <fw type="header"> Of the fruit and profit of Bees. </fw>
                     <p xml:id="ch10p2par36"><note type="authorial" subtype="summary"
                             xml:id="ch10p2sumn29">29. Next make the Wax into Balls.</note> The Wax
-                        waxing hard, make into Bals, squeesing out the water with your hands. When
-                        you have thus done, presently while they are warme breake all the Balls in
-                        (2.) small Crumlets into a Skillet or Kettle set over a (3.) soft fire.
+                        <app type="minor" subtype="change"><lem wit="#b1623">waxing hard,</lem><rdg wit="#b1609"><ptr target="1609.xml#ch10ancs67 1609.xml#ch10ance67"/></rdg></app> make into Bals, squeesing out the water with your hands. When
+                        you have <app type="vocabulary" subtype="change"><lem wit="#b1623">thus</lem><rdg wit="#b1609"><ptr target="1609.xml#ch10ancs68 1609.xml#ch10ance68"/></rdg></app> done, <app type="minor" subtype="add"><lem wit="#b1623">presently while they are warme</lem><rdg wit="#b1609"></rdg></app> breake all the Balls <app type="minor" subtype="add"><lem wit="#b1623">in
+                            (2.) small Crumlets</lem><rdg wit="#b1609"></rdg></app> into a Skillet or Kettle <app type="minor" subtype="del"><lem wit="#b1623"></lem><rdg wit="#b1609"><ptr target="1609.xml#ch10ancs69 1609.xml#ch10ance69"/></rdg></app><app type="major" subtype="add"><lem wit="#b1623">set over a (3.) soft fire.
                             <note type="authorial" subtype="summary" xml:id="ch10p2sumn30"> 30. Last
                             of all melt it and cast it in a mould.</note> While it is melting, stir
                         it and skim it with a spoone (4.) wet in cold water: and as (5.) soone as it
@@ -10825,21 +10825,21 @@
                         neere the bottome, peere it gently till you see the drosse comming: Which
                         straine into some other mould by it selfe. And when it is cold, either trie
                         againe, or having pared away the bottome, reserve it, as it is, for some
-                        use. </p>
-                    <p xml:id="ch10p2par37">When the Wax is in the mould, if any froth yet remaine
+                        use. </lem><rdg wit="#b1609"></rdg></app></p>
+                    <p xml:id="ch10p2par37"><app type="major" subtype="add"><lem wit="#b1623">When the Wax is in the mould, if any froth yet remaine
                         upon it, blow it together at one side, and skim it off lightly with a wet
-                        spoone. </p>
+                        spoone. </lem><rdg wit="#b1609"></rdg></app></p>
                     <p xml:id="ch10p2par38"><note type="authorial" subtype="summary"
-                            xml:id="ch10p2sumn31">31. And keepe the cake from cracking.</note> This
+                            xml:id="ch10p2sumn31">31. And keepe the cake from cracking.</note> <app type="major" subtype="add"><lem wit="#b1623">This
                         done, set not the cake abroad, or where it may coole hastily upon, but in
                         the warme house: and if it be great, cover the mould with a Plaster, as
                         close as you can, to keepe the top from cooling, till the (10.) inward heat
                         be alayed: and so let it stand, not moving the mould till the cake be cold.
                         If it sticke, a little warming of the vessell or mould will presently loose
-                        it: so that it will slip out. </p>
+                        it: so that it will slip out. </lem><rdg wit="#b1609"></rdg></app></p>
                     <!--
                     Connect these spans with the main text -->
-                    <note type="authorial" subtype="gloss" place="inline" xml:id="ch10p2glon13">(1.)
+                    <app type="major" subtype="add"><lem wit="#b1623"><note type="authorial" subtype="gloss" place="inline" xml:id="ch10p2glon13">(1.)
                         So will they breake the smaller with lesse labour. (2.) That the wax may
                         melt the sooner, and all together. (3.) For a rash fire will burne it, and
                         change both colour and qualitie. (4.) That the skum sticke not. (5.) For
@@ -10866,7 +10866,7 @@
                         must needs either cracke the Cake, or heave it make it hollow, or both,
                         specially if it be verie great: for then will the heat be both stronger and
                         longer: but this is helped by not sticking. <ref target="#ch10p2bibln19X1">
-                            v. ante num. </ref> (8.)</note>
+                            v. ante num. </ref> (8.)</note></lem><rdg wit="#b1609"></rdg></app>
                     <p xml:id="ch10p2par39"><note type="authorial" subtype="summary"
                             xml:id="ch10p2sumn32">32. How to know good Wax.</note> The properties of
                         tokens of good Wax are (1) most yellow, sweet, fat, (2) fast or close, (3)
@@ -10879,7 +10879,7 @@
                         </quote></p>
                     <!--
                     connect these spans with the main text -->
-                    <note type="authorial" subtype="gloss" place="inline" xml:id="ch10p2glon14">(1)
+                    <app type="major" subtype="add"><lem wit="#b1623"><note type="authorial" subtype="gloss" place="inline" xml:id="ch10p2glon14">(1)
                         That is most light yellow, fardest from red, and neerest to white: for as in
                         gold the deepest, so in Wax and Hony (<ref target="#ch10p2sumn13"
                             >v.n.13</ref>) the palest yellow is best: yea the pure Virgin-wax at the
@@ -10888,7 +10888,7 @@
                         bottom (<ref target="#ch10p2sumn15"> v.n.15</ref>) except the hollow froth,
                         which is to be skimmed away. <ref target="#ch10p2sumn30"> v.n.30. </ref> (4)
                         and therefore the bottom, unto which the drosse doth ascend, is not good.
-                    </note>
+                    </note></lem><rdg wit="#b1609"></rdg></app>
                 </div>
                 <div type="section" n="3" xml:id="ch10p3">
                     <head type="section-title">The third part of this Chapter sheweth the singular
