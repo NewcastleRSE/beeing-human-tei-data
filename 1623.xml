@@ -154,33 +154,33 @@
             <titlePage>
                 <docTitle>
                     <titlePart type="main">THE <lb/>
-                        <hi rend="italic">Feminine Monarchie</hi><lb/> OR<lb/> THE HISTORIE<lb/> OF
-                        BEES<lb/>
+                        <hi rend="italic">Feminine Monarchie</hi><lb/> OR<lb/> <app type="major" subtype="change"><lem wit="#b1623">THE HISTORIE<lb/> OF
+                            BEES</lem><rdg wit="#b1609"><ptr target="1609.xml#ch0ancs1 1609.xml#ch0ance1"/></rdg></app><lb/>
                     </titlePart>
                     <titlePart type="sub">
-                        <hi rend="italic">SHEWING</hi><lb/> Their admirable Nature, and
+                        <app type="major" subtype="change"><lem wit="#b1623"><hi rend="italic">SHEWING</hi><lb/> Their admirable Nature, and
                         Properties,<lb/> Their Generation, and Colonies,<lb/> Their Government,
-                        Loyaltie, Art, Industrie,<lb/> Enimines, Warres, Magnanimitie, &amp;c.<lb/>
-                        TOGETHER<lb/> With the right ordering of them from time to<lb/>
-                        <hi rend="italic">time: And the sweet profit arising thereof</hi>
+                            Loyaltie, Art, Industrie,<lb/> Enimines, Warres, Magnanimitie, &amp;c.<lb/></lem><rdg wit="#b1609"><ptr target="1609.xml#ch0ancs2 1609.xml#ch0ance2"/></rdg></app>
+                        <app type="major" subtype="add"><lem wit="#b1623">TOGETHER<lb/> With the right ordering of them from time to<lb/>
+                            <hi rend="italic">time: And the sweet profit arising thereof</hi></lem><rdg wit="#b1609"></rdg></app>
                     </titlePart>
                 </docTitle>
                 <fw type="horizontalRule"/>
-                <byline>Written out of Experience<lb/>
+                <byline><app type="major" subtype="add"><lem wit="#b1623">Written out of Experience</lem><rdg wit="#b1609"></rdg></app><lb/>
                     <hi rend="italic">By</hi><lb/> CHARLES BUTLER. <hi rend="italic">
                         <abbr>Magd:</abbr>
                     </hi>
                 </byline>
                 <fw type="horizontalRule"/>
                 <epigraph>
-                    <quote><bibl>Plaut. in Truculent: Act: 2. Sc. 6. </bibl> Pluris est oculatus
-                        testis onus, quad auriti decem.</quote>
+                    <app type="major" subtype="add"><lem wit="#b1623"><quote><bibl>Plaut. in Truculent: Act: 2. Sc. 6. </bibl> Pluris est oculatus
+                        testis onus, quad auriti decem.</quote></lem><rdg wit="#b1609"></rdg></app>
                 </epigraph>
                 <docImprint>
-                    <placeName>LONDON</placeName><lb/> Printed by <persName>JOHN HAVILAND</persName>
+                    <app type="major" subtype="change"><lem wit="#b1623"><placeName>LONDON</placeName><lb/> Printed by <persName>JOHN HAVILAND</persName>
                     for <hi rend="italic"><persName>Roger Jackson</persName>,</hi> and are to be
                     sold at his Shop in <placeName>Fleetstreet</placeName>, over against the
-                    Conduit. <date when="1623">1 6 2 3</date>
+                        Conduit. <date when="1623">1 6 2 3</date></lem><rdg wit="#b1609"><ptr target="1609.xml#ch0ancs3 1609.xml#ch0ance3"/></rdg></app>
                 </docImprint>
             </titlePage>
             <pb n="¶2v"/>
@@ -200,7 +200,7 @@
                     </quote>. Of all <foreign xml:lang="la"> insecta</foreign> the Bees are chiefe,
                     and worthily to bee most admired; beeing the only things of that kinde, which
                     are bred for the behoofe of men. The later part of which saying, although the
-                    delicate Silk-worme have in some hoter Climates disproved; (for in the colder
+                    delicate Silk-worme have <app type="minor" subtype="change"><lem wit="#b1623">in some hoter Climates</lem><rdg wit="#b1609"><ptr target="1609.xml#ch0ancs4 1609.xml#ch0ance4"/></rdg></app> disproved; (for in the colder
                     countries, such as is our Iland of <placeName rend="italic"
                     >Britaine</placeName>, I doubt mee shee will never quit cost: and therefore is
                     here to be entertained only of them, that doe more respect their pleasure, than

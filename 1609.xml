@@ -71,12 +71,12 @@
             <titlePage>
                 <docTitle>
                     <titlePart type="main">THE <lb/>
-                        <hi rend="italic">FEMININE MONARCHIE</hi><lb/> OR<lb/> A TREATISE CONCERNING
-                        BEES<lb/> AND THE DUE ORDERING OF THEM<lb/></titlePart>
+                        <hi rend="italic">FEMININE MONARCHIE</hi><lb/> OR<lb/> <anchor xml:id="ch0ancs1"/>A TREATISE CONCERNING
+                        BEES<lb/> AND THE DUE ORDERING OF THEM<anchor xml:id="ch0ance1"/><lb/></titlePart>
                     <titlePart type="sub">
-                        <hi rend="italic">Wherein</hi><lb/> The truth found out by experience and
+                        <anchor xml:id="ch0ancs2"/><hi rend="italic">Wherein</hi><lb/> The truth found out by experience and
                         diligent<lb/> observation, dicovereth the idle and fond<lb/> conceipts,
-                        which many have writ-<lb/> ten anent this subject<lb/>
+                        which many have writ-<lb/> ten anent this subject<lb/><anchor xml:id="ch0ance2"/>
                     </titlePart>
                 </docTitle>
                 <byline>
@@ -84,8 +84,8 @@
                 </byline>
                 <fw type="ornament"/>
                 <docImprint>
-                    <hi>At <placeName>Oxford</placeName></hi><lb/> Printed by <persName>Joseph
-                        Barnes</persName>. <date when="1609">1609</date>. </docImprint>
+                    <anchor xml:id="ch0ancs3"/><hi>At <placeName>Oxford</placeName></hi><lb/> Printed by <persName>Joseph
+                        Barnes</persName>. <date when="1609">1609</date>.<anchor xml:id="ch0ance3"/> </docImprint>
             </titlePage>
             <pb n="a1v"/>
             <pb n="a2r"/>
@@ -99,7 +99,7 @@
                         causam genitis</hi>. Of all <hi>insecta</hi> the Bees are chiefe, and
                     worthily to bee most admired; beeing the only thinges of that kinde, which are
                     bred for the behoofe of men. The later part of which saying although the delicat
-                    Silk-worme have else-where disproved, and is now setting foot in this land, here
+                    Silk-worme have <anchor xml:id="ch0ancs4"/>else-where<anchor xml:id="ch0ance4"/> disproved, and is now setting foot in this land, here
                     also to except against it; yet must shee needs confesse the former, and, when
                     shee is come, yeelde the precedence to the laborious Bee, as to hir elder
                     sister; which as in time, so in vertue is before her. For the fruite of the
