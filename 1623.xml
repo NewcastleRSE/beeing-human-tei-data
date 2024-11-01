@@ -200,14 +200,14 @@
                     </quote>. Of all <foreign xml:lang="la"> insecta</foreign> the Bees are chiefe,
                     and worthily to bee most admired; beeing the only things of that kinde, which
                     are bred for the behoofe of men. The later part of which saying, although the
-                    delicate Silk-worme have <app type="minor" subtype="change"><lem wit="#b1623">in some hoter Climates</lem><rdg wit="#b1609"><ptr target="1609.xml#ch0ancs4 1609.xml#ch0ance4"/></rdg></app> disproved; (for in the colder
+                    delicate Silk-worme have <app type="minor" subtype="change"><lem wit="#b1623">in some hoter Climates</lem><rdg wit="#b1609"><ptr target="1609.xml#ch0ancs4 1609.xml#ch0ance4"/></rdg></app> disproved; <app type="minor" subtype="del"><lem wit="#b1623"></lem><rdg wit="#b1609"><ptr target="1609.xml#ch0ancs5 1609.xml#ch0ance5"/></rdg></app><app type="minor" subtype="add"><lem wit="#b1623">(for in the colder
                     countries, such as is our Iland of <placeName rend="italic"
                     >Britaine</placeName>, I doubt mee shee will never quit cost: and therefore is
                     here to be entertained only of them, that doe more respect their pleasure, than
                     their profit; and doe content themselves with the beholding of their queint
-                    worke, not expecting any further recompence for their expence and paines;) yet
-                    mustshee needs confesse the former, and wheresoever she meet the ingenuous and
-                    laborious Bee, yeeld the precendence to her, as to hir Better. For the fruite of
+                    worke, not expecting any further recompence for their expence and paines;)</lem></app> yet
+                    must shee needs confesse the former, <app type="minor" subtype="change"><lem wit="#b1623">and wheresoever she meet the ingenuous and</lem><rdg wit="#b1609"><ptr target="1609.xml#ch0ancs6 1609.xml#ch0ance6"/></rdg></app>
+                    laborious Bee, <app type="minor" subtype="change"><lem wit="#b1623">yeeld the precendence to her, as to hir Better</lem><rdg wit="#b1609"><ptr target="1609.xml#ch0ancs7 1609.xml#ch0ance7"/></rdg></app>. For the fruite of
                     the Silk-worme serveth onlie to cover the body; but the fruit of the Bees to
                     nourish and cure it: that is to be applied outwardly, this to be inwardly
                     received: that for comlinesse and conveniency, this for health and necessity.
@@ -218,8 +218,8 @@
                     and wisdome, and so full of pleasure and profit; that the contemplation thereof
                     may well beseeme an ingenious nature. And therefore (not without cause) are the
                     Bees called the Muses birds: <quote>
-                        <foreign xml:lang="la">Apes cum causa Musarum esse dicuntur
-                            volucres.</foreign>
+                        <app type="minor" subtype="add"><lem wit="#b1623"><foreign xml:lang="la">Apes cum causa Musarum esse dicuntur
+                            volucres.</foreign></lem><rdg wit="#b1609"></rdg></app>
                         <note type="authorial" subtype="bibliographic" xml:id="frontbibln2">
                             <bibl rend="italic">Var.l.3.c.15.</bibl>
                         </note>
@@ -245,8 +245,8 @@
                         <persName>Averroes</persName>. Yea the learned &amp; grave Fathers of the
                     Church <persName>S. Ambrose</persName>, and <persName>Isidore</persName> have
                     thought it a subject fit for their penns. Unto which I may adde infinite others
-                    of later times both in Latine and English.</p>
-                <p xml:id="frontpar3">But the many yeeres experiments &amp; observations, which
+                    of later times both in Latine and English.<app type="minor" subtype="del"><lem wit="#b1623"></lem><rdg wit="#b1609"><ptr target="1609.xml#ch0ancs8 1609.xml#ch0ance8"/></rdg></app></p>
+                <p xml:id="frontpar3"><app type="major" subtype="change"><lem wit="#b1623">But the many yeeres experiments &amp; observations, which
                     those great Bee-masters <persName> Aristom.</persName> and
                         <persName>Philiscus</persName> had leaft in writing to posterity; Time, ah
                     injurious Time, hath buried in oblivion. And for the rest that are extant, they
@@ -254,8 +254,8 @@
                     knowledge of their owne. Notwithstanding them are scattered in them, specially
                     in <persName> Aristotle</persName> &amp; <persName>Plinie</persName>, among many
                     false and frivolous conceits, some true and profitable notes: which being found
-                    agreeable to experience, I have here and there in this Treatise, as the matter
-                    inspireth, for ornament and authoritie inserted. But the later Writers,
+                    agreeable to experience, </lem><rdg wit="#b1609"><ptr target="1609.xml#ch0ancs9 1609.xml#ch0ance9"/></rdg></app>I have here and there <app type="minor" subtype="add"><lem wit="#b1623">in this Treatise,</lem><rdg wit="#b1609"></rdg></app> <app type="minor" subtype="change"><lem wit="#b1623">as the matter
+                        inspireth</lem><rdg wit="#b1609"><ptr target="1609.xml#ch0ancs10 1609.xml#ch0ance10"/></rdg></app>, for ornament and authoritie <app type="vocabulary" subtype="change"><lem wit="#b1623">inserted</lem><rdg wit="#b1609"><ptr target="1609.xml#ch0ancs11 1609.xml#ch0ance11"/></rdg></app>. But the later Writers,
                     imitating the ancient where they thought good, chusing some of their directions
                     and refusing o- <fw type="catch">thers,</fw>
                     <pb n="¶4r"/>
@@ -269,7 +269,7 @@
                     English, as well as he could, concealing the Authors name, adventured to publish
                     in his owne name. These and the like when a scholar hath thoroughly read, he
                     thinketh himselfe throughly instructed in these mysteries: but when he commeth
-                    abroad to put his reading in practise, every silly woman is ready to deride his
+                    abroad to put his <app type="vocabulary" subtype="change"><lem wit="#b1623">reading</lem><rdg wit="#b1609"><ptr target="1609.xml#ch0ancs11 1609.xml#ch0ance11"/></rdg></app> in practise, every silly woman is ready to deride his
                     learned ignorance. </p>
                 <p xml:id="frontpar4">Wherefore considering howe greate the vertue and efficacy of
                     the fruite of Bees is, <note type="authorial" subtype="bibliographic"
