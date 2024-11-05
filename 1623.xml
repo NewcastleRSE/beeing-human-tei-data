@@ -205,7 +205,7 @@
                     >Britaine</placeName>, I doubt mee shee will never quit cost: and therefore is
                     here to be entertained only of them, that doe more respect their pleasure, than
                     their profit; and doe content themselves with the beholding of their queint
-                    worke, not expecting any further recompence for their expence and paines;)</lem></app> yet
+                    worke, not expecting any further recompence for their expence and paines;)</lem><rdg wit="#b1609"></rdg></app> yet
                     must shee needs confesse the former, <app type="minor" subtype="change"><lem wit="#b1623">and wheresoever she meet the ingenuous and</lem><rdg wit="#b1609"><ptr target="1609.xml#ch0ancs6 1609.xml#ch0ance6"/></rdg></app>
                     laborious Bee, <app type="minor" subtype="change"><lem wit="#b1623">yeeld the precendence to her, as to hir Better</lem><rdg wit="#b1609"><ptr target="1609.xml#ch0ancs7 1609.xml#ch0ance7"/></rdg></app>. For the fruite of
                     the Silk-worme serveth onlie to cover the body; but the fruit of the Bees to
@@ -361,8 +361,8 @@
             <div type="dedication">
                 <fw type="ornament"/>
                 <div type="poem" xml:lang="la">
-                    <head type="poemTitle">Ad Authorem.</head>
-                    <lg rend="italic">
+                    <head type="poemTitle">Ad Authorem.</head><app type="major" subtype="del"><lem wit="#b1623"></lem><rdg wit="#b1609"><ptr target="1609.xml#ch0ancs19 1609.xml#ch0ance19"/></rdg></app>
+                    <app type="major" subtype="add"><lem wit="#b1623"><lg rend="italic">
                         <l>
                             <hi rend="drop-capital">Q</hi> Uae natura Apibus, quae membra, scientia,
                             sensus, </l>
@@ -381,11 +381,11 @@
                     <lg rend="italic">
                         <l>Aut a consilijs Apibus, Butlere, fuisti,</l>
                         <l>Aut a consilijs est Apis ipsa tuis.</l>
-                    </lg>
+                    </lg></lem><rdg wit="#b1609"></rdg></app><app type="other" subtype="del"><lem wit="#b1623"></lem><rdg wit="#b1609"><ptr target="1609.xml#ch0ancs20 1609.xml#ch0ance20"/></rdg></app>
                 </div>
-                <div type="poem">
-                    <lg>
-                        <l>When I had view'd this Common-wealth of <hi rend="italic">Bees,</hi></l>
+                <div type="poem"><app type="major" subtype="del"><lem wit="#b1623"></lem><rdg wit="#b1609"><ptr target="1609.xml#ch0ancs21 1609.xml#ch0ance21"/></rdg></app>
+                    
+                        <app type="major" subtype="add"><lem wit="#b1623"><l>When I had view'd this Common-wealth of <hi rend="italic">Bees,</hi></l>
                         <l>Observ'd their <hi rend="italic">Lives</hi>, their <hi rend="italic"
                                 >Art</hi>, and their Degrees</l>
                         <l>As; how, beside their painefull <hi rend="italic">Vulgar ones</hi>, </l>
@@ -454,27 +454,27 @@
                         <l>The <hi rend="italic">Muses-Birds</hi>; whose nature here he showes. </l>
                         <l>And mauger such as will his <hi rend="italic">Paines</hi> contemne, </l>
                         <l>The <hi rend="italic">Muses</hi> thus, by me, doe honour them.</l>
-                    </lg>
-                    <signed>GEORGE WITHER</signed>
+                        </lem><rdg wit="#b1609"></rdg></app>  
+                    <signed>  <app type="major" subtype="add"><lem wit="#b1623">GEORGE WITHER</lem><rdg wit="#b1609"></rdg></app></signed>
                 </div>
-                <fw type="ornament"/>
+                <app type="other" subtype="add"><lem wit="#b1623"><fw type="ornament"/></lem><rdg wit="#b1609"></rdg></app>
                 <div type="poem" xml:lang="la">
-                    <head type="poemTitle">Ad Carolam Butler.</head>
-                    <lg>
+                    <head type="poemTitle"><app type="other" subtype="add"><lem wit="#b1623">Ad Carolam Butler.</lem><rdg wit="#b1609"></rdg></app></head>
+                    <app type="major" subtype="add"><lem wit="#b1623"><lg>
                         <l><hi rend="drop-capital">A</hi>Ntè mel è chartis prompsisti, ut <hi
                                 rend="opposite">Rhetor</hi>, apinum,</l>
                         <l>At nunc mellit as promis, ut <hi rend="opposite">Histor</hi>, apes.</l>
                         <l>Incipis ex apibus, sed &amp; in mel desinis ipsum: </l>
                         <l>Suaviter incœptum suavis exit opus.</l>
-                    </lg>
-                    <signed>WARNERUS SOUTH.</signed>
+                    </lg></lem><rdg wit="#b1609"></rdg></app>
+                    <signed><app type="major" subtype="add"><lem wit="#b1623">WARNERUS SOUTH.</lem><rdg wit="#b1609"></rdg></app></signed>
                 </div>
-                <fw type="ornament"/>
+                <app type="other" subtype="add"><lem wit="#b1623"><fw type="ornament"/></lem><rdg wit="#b1609"></rdg></app>
             </div>
             <pb n="A3r"/>
             <div type="contents" xml:id="contents">
                 <fw type="ornament"/>
-                <head type="sectionTitle" rend="titleCase"> The Chapters, or the Contents of <hi
+                <head type="sectionTitle" rend="titleCase"> The <app type="minor" subtype="add"><lem wit="#b1623">Chapters, or the</lem><rdg wit="#b1609"></rdg></app> Contents of <hi
                         rend="italic">this</hi>
                     <hi rend="smallCapitals">BOOKE</hi>.</head>
                 <p xml:id="frontpar9"><hi rend="drop-capital">M</hi>Y Booke of Bees I divide into

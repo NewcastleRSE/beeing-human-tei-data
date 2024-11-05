@@ -226,7 +226,7 @@
                     <head>
                         <hi>Ad Authorem.</hi>
                     </head>
-
+                    <anchor xml:id="ch0ancs19"/>
                     <lg>
                         <l><hi rend="drop-capital">Q</hi>Ui fuerint apium fructus, apiumque,
                             labores</l>
@@ -247,12 +247,12 @@
                         <l> Suaviter inceptum suavius exit opus.</l>
                     </lg>
                     <signed><persName>Warnerus South</persName>, Jurista Novi Collegij
-                        Socius.</signed>
+                        Socius.</signed><anchor xml:id="ch0ance19"/>
                 </div>
-                <fw type="ornament"/>
+                <anchor xml:id="ch0ancs20"/><fw type="ornament"/><anchor xml:id="ch0ance20"/>
                 <pb n="b1r"/>
                 <div type="poem">
-                    <head>
+                    <anchor xml:id="ch0ancs21"/><head>
                         <hi>To the Author:</hi>
                     </head>
                     <lg>
@@ -292,7 +292,7 @@
                     <lg>
                         <l>Omne tulit punctum, qui miscuit utile dules.</l>
                     </lg>
-                    <signed>A. Crosley.</signed>
+                    <signed>A. Crosley.</signed><anchor xml:id="ch0ance21"/>
                 </div>
             </div>
             <pb n="b1v"/>
