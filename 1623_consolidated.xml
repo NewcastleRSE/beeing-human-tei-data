@@ -151,33 +151,37 @@
             <titlePage>
                 <docTitle>
                     <titlePart type="main">THE <lb />
-                        <hi rend="italic">Feminine Monarchie</hi><lb /> OR<lb /> THE HISTORIE<lb /> OF
-                        BEES<lb />
+                        <hi rend="italic">Feminine Monarchie</hi><lb /> OR<lb /> <app type="major" subtype="change"><lem wit="#b1623">THE HISTORIE<lb /> OF
+                            BEES</lem><rdg wit="#b1609" source="1609.xml#ch0ancs1 1609.xml#ch0ance1">A TREATISE CONCERNING
+                        BEES AND THE DUE ORDERING OF THEM</rdg></app><lb />
                     </titlePart>
                     <titlePart type="sub">
-                        <hi rend="italic">SHEWING</hi><lb /> Their admirable Nature, and
+                        <app type="major" subtype="change"><lem wit="#b1623"><hi rend="italic">SHEWING</hi><lb /> Their admirable Nature, and
                         Properties,<lb /> Their Generation, and Colonies,<lb /> Their Government,
-                        Loyaltie, Art, Industrie,<lb /> Enimines, Warres, Magnanimitie, &amp;c.<lb />
-                        TOGETHER<lb /> With the right ordering of them from time to<lb />
-                        <hi rend="italic">time: And the sweet profit arising thereof</hi>
+                            Loyaltie, Art, Industrie,<lb /> Enimines, Warres, Magnanimitie, &amp;c.<lb /></lem><rdg wit="#b1609" source="1609.xml#ch0ancs2 1609.xml#ch0ance2">Wherein The truth found out by experience and
+                        diligent observation, dicovereth the idle and fond conceipts,
+                        which many have writ- ten anent this subject</rdg></app>
+                        <app type="major" subtype="add"><lem wit="#b1623">TOGETHER<lb /> With the right ordering of them from time to<lb />
+                            <hi rend="italic">time: And the sweet profit arising thereof</hi></lem><rdg wit="#b1609" /></app>
                     </titlePart>
                 </docTitle>
                 <fw type="horizontalRule" />
-                <byline>Written out of Experience<lb />
+                <byline><app type="major" subtype="add"><lem wit="#b1623">Written out of Experience</lem><rdg wit="#b1609" /></app><lb />
                     <hi rend="italic">By</hi><lb /> CHARLES BUTLER. <hi rend="italic">
                         <abbr>Magd:</abbr>
                     </hi>
                 </byline>
                 <fw type="horizontalRule" />
                 <epigraph>
-                    <quote><bibl>Plaut. in Truculent: Act: 2. Sc. 6. </bibl> Pluris est oculatus
-                        testis onus, quad auriti decem.</quote>
+                    <app type="major" subtype="add"><lem wit="#b1623"><quote><bibl>Plaut. in Truculent: Act: 2. Sc. 6. </bibl> Pluris est oculatus
+                        testis onus, quad auriti decem.</quote></lem><rdg wit="#b1609" /></app>
                 </epigraph>
                 <docImprint>
-                    <placeName>LONDON</placeName><lb /> Printed by <persName>JOHN HAVILAND</persName>
+                    <app type="major" subtype="change"><lem wit="#b1623"><placeName>LONDON</placeName><lb /> Printed by <persName>JOHN HAVILAND</persName>
                     for <hi rend="italic"><persName>Roger Jackson</persName>,</hi> and are to be
                     sold at his Shop in <placeName>Fleetstreet</placeName>, over against the
-                    Conduit. <date when="1623">1 6 2 3</date>
+                        Conduit. <date when="1623">1 6 2 3</date></lem><rdg wit="#b1609" source="1609.xml#ch0ancs3 1609.xml#ch0ance3">At Oxford Printed by Joseph
+                        Barnes. 1609.</rdg></app>
                 </docImprint>
             </titlePage>
             <pb n="&#182;2v" />
@@ -196,13 +200,16 @@
                     </quote>. Of all <foreign xml:lang="la"> insecta</foreign> the Bees are chiefe,
                     and worthily to bee most admired; beeing the only things of that kinde, which
                     are bred for the behoofe of men. The later part of which saying, although the
-                    delicate Silk-worme have in some hoter Climates disproved; (for in the colder
+                    delicate Silk-worme have <app type="minor" subtype="change"><lem wit="#b1623">in some hoter Climates</lem><rdg wit="#b1609" source="1609.xml#ch0ancs4 1609.xml#ch0ance4">else-where</rdg></app> disproved; <app type="minor" subtype="del"><lem wit="#b1623" /><rdg wit="#b1609" source="1609.xml#ch0ancs5 1609.xml#ch0ance5">and is now setting foot in this land, here
+                    also to except against it;</rdg></app><app type="minor" subtype="add"><lem wit="#b1623">(for in the colder
                     countries, such as is our Iland of <placeName rend="italic">Britaine</placeName>, I doubt mee shee will never quit cost: and therefore is
                     here to be entertained only of them, that doe more respect their pleasure, than
                     their profit; and doe content themselves with the beholding of their queint
-                    worke, not expecting any further recompence for their expence and paines;) yet
-                    mustshee needs confesse the former, and wheresoever she meet the ingenuous and
-                    laborious Bee, yeeld the precendence to her, as to hir Better. For the fruite of
+                    worke, not expecting any further recompence for their expence and paines;)</lem><rdg wit="#b1609" /></app> yet
+                    must shee needs confesse the former, <app type="minor" subtype="change"><lem wit="#b1623">and wheresoever she meet the ingenuous and</lem><rdg wit="#b1609" source="1609.xml#ch0ancs6 1609.xml#ch0ance6">and, when
+                    shee is come, yeelde the precedence to the </rdg></app>
+                    laborious Bee, <app type="minor" subtype="change"><lem wit="#b1623">yeeld the precendence to her, as to hir Better</lem><rdg wit="#b1609" source="1609.xml#ch0ancs7 1609.xml#ch0ance7">as to hir elder
+                    sister; which as in time, so in vertue is before her</rdg></app>. For the fruite of
                     the Silk-worme serveth onlie to cover the body; but the fruit of the Bees to
                     nourish and cure it: that is to be applied outwardly, this to be inwardly
                     received: that for comlinesse and conveniency, this for health and necessity.
@@ -213,8 +220,8 @@
                     and wisdome, and so full of pleasure and profit; that the contemplation thereof
                     may well beseeme an ingenious nature. And therefore (not without cause) are the
                     Bees called the Muses birds: <quote>
-                        <foreign xml:lang="la">Apes cum causa Musarum esse dicuntur
-                            volucres.</foreign>
+                        <app type="minor" subtype="add"><lem wit="#b1623"><foreign xml:lang="la">Apes cum causa Musarum esse dicuntur
+                            volucres.</foreign></lem><rdg wit="#b1609" /></app>
                         <note type="authorial" subtype="bibliographic" xml:id="frontbibln2">
                             <bibl rend="italic">Var.l.3.c.15.</bibl>
                         </note>
@@ -237,8 +244,9 @@
                         <persName>Averroes</persName>. Yea the learned &amp; grave Fathers of the
                     Church <persName>S. Ambrose</persName>, and <persName>Isidore</persName> have
                     thought it a subject fit for their penns. Unto which I may adde infinite others
-                    of later times both in Latine and English.</p>
-                <p xml:id="frontpar3">But the many yeeres experiments &amp; observations, which
+                    of later times both in Latine and English.<app type="minor" subtype="del"><lem wit="#b1623" /><rdg wit="#b1609" source="1609.xml#ch0ancs8 1609.xml#ch0ance8">which have written many things of these admirable
+                    creatures.</rdg></app></p>
+                <p xml:id="frontpar3"><app type="major" subtype="change"><lem wit="#b1623">But the many yeeres experiments &amp; observations, which
                     those great Bee-masters <persName> Aristom.</persName> and
                         <persName>Philiscus</persName> had leaft in writing to posterity; Time, ah
                     injurious Time, hath buried in oblivion. And for the rest that are extant, they
@@ -246,8 +254,16 @@
                     knowledge of their owne. Notwithstanding them are scattered in them, specially
                     in <persName> Aristotle</persName> &amp; <persName>Plinie</persName>, among many
                     false and frivolous conceits, some true and profitable notes: which being found
-                    agreeable to experience, I have here and there in this Treatise, as the matter
-                    inspireth, for ornament and authoritie inserted. But the later Writers,
+                    agreeable to experience, </lem><rdg wit="#b1609" source="1609.xml#ch0ancs9 1609.xml#ch0ance9">But in al their writings they seeme unto me to say little out
+                    of experience, and to rely more upon the relation of others; than anie certaine
+                        know-
+                    
+                    
+                         knowledge of their owne. Notwithstanding in some of them, specially in
+                        to the Reader.
+                    Aristotle &amp; Plinie, are scatered many true and good
+                    observations; which, being found agreeable to experience, </rdg></app>I have here and there <app type="minor" subtype="add"><lem wit="#b1623">in this Treatise,</lem><rdg wit="#b1609" /></app> <app type="minor" subtype="change"><lem wit="#b1623">as the matter
+                        inspireth</lem><rdg wit="#b1609" source="1609.xml#ch0ancs10 1609.xml#ch0ance10">as occasion required</rdg></app>, for ornament and authoritie <app type="vocabulary" subtype="change"><lem wit="#b1623">inserted</lem><rdg wit="#b1609" source="1609.xml#ch0ancs11 1609.xml#ch0ance11">interlaced</rdg></app>. But the later Writers,
                     imitating the ancient where they thought good, chusing some of their directions
                     and refusing o- <fw type="catch">thers,</fw>
                     <pb n="&#182;4r" />
@@ -261,14 +277,14 @@
                     English, as well as he could, concealing the Authors name, adventured to publish
                     in his owne name. These and the like when a scholar hath thoroughly read, he
                     thinketh himselfe throughly instructed in these mysteries: but when he commeth
-                    abroad to put his reading in practise, every silly woman is ready to deride his
+                    abroad to put his <app type="vocabulary" subtype="change"><lem wit="#b1623">reading</lem><rdg wit="#b1609" source="1609.xml#ch0ancs11 1609.xml#ch0ance11">interlaced</rdg></app> in practise, every silly woman is ready to deride his
                     learned ignorance. </p>
                 <p xml:id="frontpar4">Wherefore considering howe greate the vertue and efficacy of
-                    the fruite of Bees is, <note type="authorial" subtype="bibliographic" xml:id="frontbibln4">
+                    the fruite of <app type="vocabulary" subtype="change"><lem wit="#b1623">Bees</lem><rdg wit="#b1609" source="1609.xml#ch0ancs13 1609.xml#ch0ance13">these creatures</rdg></app> is, <note type="authorial" subtype="bibliographic" xml:id="frontbibln4">
                         <bibl rend="italic"> V.c.10.p.3.</bibl>
                     </note> both for the preserving, and restoring of mans health, I thought it not
-                    amisse to spend some by-time for my recreation, in searching out their nature
-                    and properties, their helpes and hinderances, that I might know how to doe good
+                    amisse to spend some by-time for my recreation, in searching out <app type="minor" subtype="change"><lem wit="#b1623">their nature
+                        and properties</lem><rdg wit="#b1609" source="1609.xml#ch0ancs14 1609.xml#ch0ance14">the nature &amp; properties of Bees</rdg></app>, <app type="minor" subtype="add"><lem wit="#b1623">their helpes and hinderances,</lem><rdg wit="#b1609" /></app> that I might know how to doe good
                     unto them, which are so good for us, and what is the due and right ordering of
                     these delightful, profitable, and necessary creatures. And having to my
                     contentment, though to my cost, in some sort obtained my desire, I was incited,
@@ -282,11 +298,11 @@
                     </note> The Philosopher intreating of the breeding of Bees, professeth himselfe
                     uncertaine of their sex: and therefore, willing in this uncertaintie to grace so
                     worthy a creature with the worthier title, he every where calleth their governor
-                        <foreign xml:lang="grc">&#946;&#945;&#963;&#953;&#955;&#949;&#973;&#962;</foreign>, <foreign xml:lang="la">
+                        <foreign xml:lang="grc">&#946;&#945;&#963;&#953;&#955;&#949;&#973;&#962;</foreign>, <app type="vocabulary" subtype="del"><lem wit="#b1623" /><rdg wit="#b1609" source="1609.xml#ch0ancs15 1609.xml#ch0ance15">or</rdg></app><foreign xml:lang="la">
                         Rex</foreign>. As many as followed him, searching no farther then he did,
                     were content to say as he said. So that I am in- <fw type="catch"> forced</fw>
                     <pb n="&#182;4v" />
-                    <fw type="header">The Preface to the Reader.</fw> forced (unlesse I wil choose
+                    <fw type="header">The Preface to the Reader.</fw> <app type="vocabulary" subtype="change"><lem wit="#b1623">forced</lem><rdg wit="#b1609" source="1609.xml#ch0ancs16 1609.xml#ch0ance16">enforced</rdg></app> (unlesse I wil choose
                     rather to offend in <foreign xml:lang="la">rebus</foreign> then in <foreign xml:lang="la"> vocibus</foreign>) by their leave and thine (learned Reader)
                     to straine the ordinarie signification of the word <foreign xml:lang="la">Rex</foreign>, and, in such places, to translate it <hi rend="italic">
                         Queene</hi>, sith the males heere beare no sway at all, this being an <hi rend="italic">Amazonian or feminine kingdome.</hi>
@@ -294,13 +310,20 @@
                     <note type="authorial" subtype="bibliographic" xml:id="frontbibln6">
                         <ref target="#ch4sumn11"><seg rend="italic">V</seg><seg rend="italic">.</seg><seg rend="italic">c</seg><seg rend="italic">.</seg><seg rend="normal">4</seg><seg rend="italic">.</seg><seg rend="italic">n</seg><seg rend="italic">.</seg><seg rend="normal">1</seg><seg rend="normal">1</seg><seg rend="italic">.</seg></ref></note></p>
                 <p xml:id="frontpar6">In distinguishing the times of the yeere, I use the
-                    Astronomicall months, as most natural and fitting to my purpose <ref target="#frontbibln7"><seg rend="italic">v</seg><seg rend="italic">.</seg></ref>
+                    Astronomicall months, as most natural and fitting to my purpose <app type="minor" subtype="del"><lem wit="#b1623" /><rdg wit="#b1609" source="1609.xml#ch0ancs17 1609.xml#ch0ance17">beginning each
+                    month with the day that the sun entreth into his sign, and
+                    
+                    
+                         &amp; giuing the name of each signe to his month; because the most notable
+                    thinges concerning Bees, which are to be observed in them or to be done for them
+                    fal out in the beginnings of these months. to the Reader.
+                    </rdg></app><ref target="#frontbibln7"><seg rend="italic">v</seg><seg rend="italic">.</seg></ref>
                     <note type="authorial" subtype="bibliographic" xml:id="frontbibln7">
                         <ref target="#ch3sumn36"><seg rend="italic">V</seg><seg rend="italic">.</seg><seg rend="italic">c</seg><seg rend="italic">.</seg><seg rend="normal">3</seg><seg rend="italic">.</seg><seg rend="italic">n</seg><seg rend="italic">.</seg><seg rend="italic"> </seg><seg rend="normal">3</seg><seg rend="normal">6</seg><seg rend="italic">.</seg></ref>
                     </note> Where note that by the name of each moneth, is commonly understood the
                     first day of the same moneth (namely, wheresovever this preposition <hi rend="italic">At</hi>, is set before it) except only where it followeth, <hi rend="italic">In</hi>, or <hi rend="italic"> After</hi>, or otherwise the
                     sense doth plainely shew that it is spoken of the whole Moneth. </p>
-                <p xml:id="frontpar7">When you have once, for your satisfaction, perused this Booke,
+                <p xml:id="frontpar7"><app type="major" subtype="add"><lem wit="#b1623">When you have once, for your satisfaction, perused this Booke,
                     you need not afterward seeke farre for anything therein, whereof you doubt: the
                         <ref target="#contents" rend="italic"><seg rend="italic">I</seg><seg rend="italic">n</seg><seg rend="italic">d</seg><seg rend="italic">e</seg><seg rend="italic">x</seg></ref> of the Chapters or
                     Contents of the Booke; and of the Marginall notes, or Contents of the Chapters
@@ -309,13 +332,13 @@
                     appertaine to the Third, and the other to the Fifth; and running over the
                     Contents of either Chapter, you shall find the first to be the Tenth note, and
                     the other the 53. Then turning to these Marginall Notes in the said Chapters,
-                    you have in the Text over against them your desire.</p>
-                <p xml:id="frontpar8">Note also, that whereas you have in the Margin, with these
+                    you have in the Text over against them your desire.</lem><rdg wit="#b1609" /></app></p>
+                <p xml:id="frontpar8"><app type="major" subtype="add"><lem wit="#b1623">Note also, that whereas you have in the Margin, with these
                     Marginall Notes, certaine References unto other places of the Booke, for further
                     explanation of those places against which they stand; <term rend="italic">V.</term> signifieth <gloss>
                         <foreign xml:lang="la">vide</foreign>
                     </gloss>, or <gloss rend="italic">See, C.</gloss> with his number the Chapter,
-                    and <hi rend="italic">N.</hi> with his number the Marginall Note. But if <hi rend="term">N.</hi> follow <term> V.</term> without <hi rend="italic">C</hi>; then doth it note some Note of the same Chapter. <fw type="catch"> I
+                    and <hi rend="italic">N.</hi> with his number the Marginall Note. But if <hi rend="term">N.</hi> follow <term> V.</term> without <hi rend="italic">C</hi>; then doth it note some Note of the same Chapter.</lem><rdg wit="#b1609" /></app> <fw type="catch"> I
                         am</fw>
                     <pb n="A1r" />
                     <fw type="header"> The Preface to the Reader. </fw> I am out of doubt that this
@@ -330,8 +353,9 @@
                     entertained of all sorts both learned and unlearned: although the <hi rend="italic">Muses Birds</hi> are fittest for the <term rend="italic">
                         Muses</term>, and the knowledge of their long-hidden secrets was chiefly
                     published for the <term rend="italic">Museterm</term> friends. <foreign xml:lang="la">Quibus me, quicquid sum, &amp; studia mea dico.</foreign>
-                    <placeName rend="italic">Wotton</placeName>. <date when="1623-05-30">May
-                        30.1623.</date></p>
+                    <placeName rend="italic">Wotton</placeName>. <app type="major" subtype="change"><lem wit="#b1623"><date when="1623-05-30">May
+                        30.1623.</date></lem><rdg wit="#b1609" source="1609.xml#ch0ancs18 1609.xml#ch0ance18">Jul. II.
+                                1609.</rdg></app></p>
                 <signed>CHAR: BVTLER.</signed>
             </div>
             <fw type="catch"> Ad</fw>
@@ -339,8 +363,29 @@
             <div type="dedication">
                 <fw type="ornament" />
                 <div type="poem" xml:lang="la">
-                    <head type="poemTitle">Ad Authorem.</head>
-                    <lg rend="italic">
+                    <head type="poemTitle">Ad Authorem.</head><app type="major" subtype="del"><lem wit="#b1623" /><rdg wit="#b1609" source="1609.xml#ch0ancs19 1609.xml#ch0ance19">
+                    
+                        
+
+                    
+                        QUi fuerint apium fructus, apiumque,
+                            laboresSaeduladum plena grammate penna docet;
+                        Pene fatigatae nemo est qui, 
+                        Carole, pennaEt libri fructus non notet inde tui
+                    
+                        
+
+                    Mellea Nestoreo defluxit ab ore loquela:
+                         Et, 
+                        Butlere, tua mellea penna manu. Labris viva semel, iam mortua, Nestoris haec vox
+                         Scilicet in libris est tumulata tuis.
+                    
+                        
+                    Incipis ex apubus, sed &amp; in mel de finis ipsum:
+                         Suaviter inceptum suavius exit opus.
+                    Warnerus South, Jurista Novi Collegij
+                        Socius.</rdg></app>
+                    <app type="major" subtype="add"><lem wit="#b1623"><lg rend="italic">
                         <l>
                             <hi rend="drop-capital">Q</hi> Uae natura Apibus, quae membra, scientia,
                             sensus, </l>
@@ -359,11 +404,51 @@
                     <lg rend="italic">
                         <l>Aut a consilijs Apibus, Butlere, fuisti,</l>
                         <l>Aut a consilijs est Apis ipsa tuis.</l>
-                    </lg>
+                    </lg></lem><rdg wit="#b1609" /></app><app type="other" subtype="del"><lem wit="#b1623" /><rdg wit="#b1609" source="1609.xml#ch0ancs20 1609.xml#ch0ance20" /></app>
                 </div>
-                <div type="poem">
-                    <lg>
-                        <l>When I had view'd this Common-wealth of <hi rend="italic">Bees,</hi></l>
+                <div type="poem"><app type="major" subtype="del"><lem wit="#b1623" /><rdg wit="#b1609" source="1609.xml#ch0ancs21 1609.xml#ch0ance21">
+                        
+                    To the Author:
+                    
+                        
+                
+                        THough learned Authors old and new, Have handled skilfully
+                         The argument thou hast in hand,
+                         Yet none so fruitfully,
+                         For they relate uncertaine things
+                         Which bare report had blowne:
+                         But thou set'st downe the certaine truth
+                         By thine experience knowne.
+                    
+                    
+            
+                        
+                    To the Reader.
+                    
+                        
+
+                    The chiefest cause, to read good bookes,
+                         That moves each studious minde
+                         Is hope, some pleasure sweet therein,
+                         Or profit good to finde.
+                         Now what delight can greater be
+                         Than secrets for to knowe,
+                         Of Sacred Bees, the Muses Birds,
+                         All which this booke doth shew.
+                         And if commodity thou craue,
+                         Learne here no little gaine
+                         Of their most sweet and sov'raigne fruits,
+                         With no great cost or paine.
+                         If pleasure then, or profit may
+                         To read induce they minde;
+                         In this smale Treatise choice of both,
+                         Good Reader, thou shalt finde.
+                    
+                        
+                    Omne tulit punctum, qui miscuit utile dules.
+                    A. Crosley.</rdg></app>
+                    
+                        <app type="major" subtype="add"><lem wit="#b1623"><l>When I had view'd this Common-wealth of <hi rend="italic">Bees,</hi></l>
                         <l>Observ'd their <hi rend="italic">Lives</hi>, their <hi rend="italic">Art</hi>, and their Degrees</l>
                         <l>As; how, beside their painefull <hi rend="italic">Vulgar ones</hi>, </l>
                         <l>They have their <hi rend="italic">Prince</hi>, their <hi rend="italic">
@@ -422,26 +507,26 @@
                         <l>The <hi rend="italic">Muses-Birds</hi>; whose nature here he showes. </l>
                         <l>And mauger such as will his <hi rend="italic">Paines</hi> contemne, </l>
                         <l>The <hi rend="italic">Muses</hi> thus, by me, doe honour them.</l>
-                    </lg>
-                    <signed>GEORGE WITHER</signed>
+                        </lem><rdg wit="#b1609" /></app>  
+                    <signed>  <app type="major" subtype="add"><lem wit="#b1623">GEORGE WITHER</lem><rdg wit="#b1609" /></app></signed>
                 </div>
-                <fw type="ornament" />
+                <app type="other" subtype="add"><lem wit="#b1623"><fw type="ornament" /></lem><rdg wit="#b1609" /></app>
                 <div type="poem" xml:lang="la">
-                    <head type="poemTitle">Ad Carolam Butler.</head>
-                    <lg>
+                    <head type="poemTitle"><app type="other" subtype="add"><lem wit="#b1623">Ad Carolam Butler.</lem><rdg wit="#b1609" /></app></head>
+                    <app type="major" subtype="add"><lem wit="#b1623"><lg>
                         <l><hi rend="drop-capital">A</hi>Nt&#232; mel &#232; chartis prompsisti, ut <hi rend="opposite">Rhetor</hi>, apinum,</l>
                         <l>At nunc mellit as promis, ut <hi rend="opposite">Histor</hi>, apes.</l>
                         <l>Incipis ex apibus, sed &amp; in mel desinis ipsum: </l>
                         <l>Suaviter inc&#339;ptum suavis exit opus.</l>
-                    </lg>
-                    <signed>WARNERUS SOUTH.</signed>
+                    </lg></lem><rdg wit="#b1609" /></app>
+                    <signed><app type="major" subtype="add"><lem wit="#b1623">WARNERUS SOUTH.</lem><rdg wit="#b1609" /></app></signed>
                 </div>
-                <fw type="ornament" />
+                <app type="other" subtype="add"><lem wit="#b1623"><fw type="ornament" /></lem><rdg wit="#b1609" /></app>
             </div>
             <pb n="A3r" />
             <div type="contents" xml:id="contents">
                 <fw type="ornament" />
-                <head type="sectionTitle" rend="titleCase"> The Chapters, or the Contents of <hi rend="italic">this</hi>
+                <head type="sectionTitle" rend="titleCase"> The <app type="minor" subtype="add"><lem wit="#b1623">Chapters, or the</lem><rdg wit="#b1609" /></app> Contents of <hi rend="italic">this</hi>
                     <hi rend="smallCapitals">BOOKE</hi>.</head>
                 <p xml:id="frontpar9"><hi rend="drop-capital">M</hi>Y Booke of Bees I divide into
                     ten Chapters.</p>
