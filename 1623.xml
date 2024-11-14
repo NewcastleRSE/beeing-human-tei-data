@@ -7691,7 +7691,7 @@
                     <note type="authorial" subtype="bibliographic" xml:id="ch6bibln4">
                         <ref target="#ch6sumn53"> V.n.53. </ref>
                     </note> the Poet in few words hath elegantly expressed all together. </lem><rdg wit="#b1609"></rdg></app></p>
-                <app type="major" subtype="change"><lem wit="#b1623"><quote>
+                <app type="major" subtype="add"><lem wit="#b1623"><quote>
                     <lg xml:lang="la">
                         <l>Quod superest, ubi pulsam hyemem sol aureus egit</l>
                         <l>Sub terras, cœlumque, œstiva luce reclusit;</l>
@@ -7705,7 +7705,7 @@
                     </lg>
                     <note type="authorial" subtype="bibliographic" xml:id="ch6bibln5">
                         <bibl>Virg.</bibl>
-                    </note></quote></lem><rdg wit="#b1609"><ptr target="1609.xml#ch6ancs6 1609.xml#ch6ance6"/></rdg></app>
+                    </note></quote></lem><rdg wit="#b1609"></rdg></app><app type="major" subtype="del"><lem wit="#b1623"></lem><rdg wit="#b1609"><ptr target="1609.xml#ch6ancs6 1609.xml#ch6ance6"/></rdg></app>
                 <p xml:id="ch6par3"><note type="authorial" subtype="summary" xml:id="ch6sumn5">5.The
                         first, and ground of all, is Wax.</note><app type="minor" subtype="del"><lem wit="#b1623"></lem><rdg wit="#b1609"><ptr target="1609.xml#ch6ancs7 1609.xml#ch6ance7"/></rdg></app>
                     <app type="minor" subtype="add"><lem wit="#b1623"><hi rend="drop-capital">T</hi>heir first worke is the ground of the other two,
@@ -7725,7 +7725,7 @@
                     telleth us a tale of a Lanthorne-hive made at <placeName> Rome</placeName>
                     through which, forsooth, their doings in the Hive were discried: and in another
                     place of another like device. <quote>
-                        <foreign xml:lang="la">Multi alvearia speculari lapide focêre, ut operantes
+                        <foreign xml:lang="la">Multi alvearia speculari lapide fecêre, ut operantes
                             intus spectarent.</foreign>
                         <note type="authorial" subtype="bibliographic" xml:id="ch6bibln8">
                             <bibl> Nat.hist.li.21.c.14.</bibl>
@@ -7805,9 +7805,9 @@
                         <note type="authorial" subtype="bibliographic" xml:id="ch6bibln10">
                             <bibl>His.l.9.c.40.</bibl>
                         </note>
-                        <foreign xml:lang="la">Sunt loculi ipsi fucorum ampliores, &amp; singuntur
-                            seor sim quoque, per se favi fucorum.</foreign>
-                    </quote> Although in some hives part of the Drone-combes be made out with
+                        <foreign xml:lang="la">Sunt loculi ipsi fucorum ampliores, &amp; finguntur
+                            seorsim quoque, per se favi fucorum.</foreign>
+                    </quote> Although in some hives <app type="minor" subtype="change"><lem wit="#b1623">part</lem><rdg wit="#b1609"><ptr target="1609.xml#ch6ancs11x 1609.xml#ch6ance11x"/></rdg></app> of the Drone-combes be made out with
                     Nymph-cells. The Drone-combe being no thicker than others, and yet the Drones
                     longer then the small Bees; they increase the length of his cells by covering
                     them, not with a flat cover, as they doe the rest, but with a deepe hollow one
