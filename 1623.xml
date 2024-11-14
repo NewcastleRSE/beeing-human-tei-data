@@ -8198,7 +8198,7 @@
                     <fw type="header"> Of the Bees Worke. </fw> other: and refusing their old
                     haunts, search and seeke after the <term>Oake:</term> which for that time shall
                     have more of their <app type="vocabulary" subtype="change"><lem wit="#b1623">custome</lem><rdg wit="#b1609"><ptr target="1609.xml#ch6ancs41x 1609.xml#ch6ance41x"/></rdg></app>, than all the Plants of the Earth. Sometime the Maple
-                    and Hazell, take part with the <term>Oake:</term> but little and seldome. While
+                    and Hazell, take part with the <term>Oake:</term> but <app type="vocabulary" subtype="del"><lem wit="#b1623"></lem><rdg wit="#b1609"><ptr target="1609.xml#ch6ancs41xx 1609.xml#ch6ance41xx"/></rdg></app>little and seldome. While
                     the Honie-dew lasteth, they are exceeding earnest, plying their businesse like
                     men in Harvest: you may see them so thicke at the Hive-doore passing to and fro,
                     that oftentimes they throw downe one an other for haste. </p>
@@ -8222,14 +8222,14 @@
                         <note type="authorial" subtype="bibliographic" xml:id="ch6bibln37">
                             <bibl>Galen.de aliment. li.3</bibl>
                         </note>
-                    </quote> Which opinion is the more probable for these reasons. First because
+                    </quote> Which opinion is the more probable <app type="minor" subtype="add"><lem wit="#b1623">for these reasons</lem><rdg wit="#b1609"></rdg></app>. <app type="vocabulary" subtype="add"><lem wit="#b1623">First</lem><rdg wit="#b1609"></rdg></app> because
                     that when the yeare is backward in his fruits, the Honie-dewes are also
                     backward: comming onely at such time as the <app type="vocabulary" subtype="change"><lem wit="#b1623">flowers</lem><rdg wit="#b1609"><ptr target="1609.xml#ch6ancs42 1609.xml#ch6ance42"/></rdg></app> have the most solid and best
                     juyce. Before, when the juyce is weake and waterish, and afterward, when it is
                     dryed and wasted, they are not. <ref target="#ch6bibln38"><app type="reference" subtype="add"><lem wit="#b1623">v:</lem><rdg wit="#b1609"></rdg></app></ref>
                     <note type="authorial" subtype="bibliographic" xml:id="ch6bibln38">
                         <ref target="#ch6glon2"><app type="reference" subtype="add"><lem wit="#b1623"> V.*in 43.</lem><rdg wit="#b1609"></rdg></app></ref>
-                    </note> <app type="minor" subtype="change"><lem wit="#b1623">Secondly, because</lem><rdg wit="#b1609"><ptr target="1609.xml#ch6ancs42 1609.xml#ch6ance42"/></rdg></app> that in more hot &amp; Southernly climats, where the
+                    </note> <app type="minor" subtype="change"><lem wit="#b1623">Secondly, because</lem><rdg wit="#b1609"><ptr target="1609.xml#ch6ancs43 1609.xml#ch6ance43"/></rdg></app> that in more hot &amp; Southernly climats, where the
                     fruits are more forward, the Hony-dewes also are more timely: as in <placeName>
                         Italy</placeName> before <quote>
                         <note type="authorial" subtype="bibliographic" xml:id="ch6bibln39">
