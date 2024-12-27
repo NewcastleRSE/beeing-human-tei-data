@@ -6326,7 +6326,7 @@
                             that, as I could. But I am sure, if I misse, I misse but a little. </lem>
                         <rdg wit="#b1609"/>
                     </app></p>
-                <pb n="K4v"/><!--
+               <app type="major" subtype="add"><lem wit="#b1623"> <pb n="K4v"/><!--
                 <hi rend="drop-capital">MUSIC PAGES</hi> -->
                 <p xml:id="ch5music1">I. CONTRATENOR: <lb/>
                     As of all states the Monarchie is best, so of all Monarchies that Fe-mi-nine. Of <lb/>
@@ -6473,7 +6473,7 @@
                 Where treading the Hey, right nimbly they prance,<lb/>
                 Thus waiting their Prince in and out they trace:<lb/>
                 Who come, these Maids the Morice dance,<lb/>
-                Along unto their resting-place.</p>
+                    Along unto their resting-place.</p></lem><rdg wit="#b1609"></rdg></app>
                 <pb n="L2v"/>
                 <fw type="header"> Of the Swarming of Bees, </fw>
                 <p xml:id="ch5par39"><note type="authorial" subtype="summary" xml:id="ch5sumn33">33.
