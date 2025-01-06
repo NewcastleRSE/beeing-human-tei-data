@@ -352,7 +352,7 @@
                     kingdome of Great <placeName rend="italic">Britaine</placeName>, and be
                     entertained of all sorts both learned and unlearned: although the <hi rend="italic">Muses Birds</hi> are fittest for the <term rend="italic">
                         Muses</term>, and the knowledge of their long-hidden secrets was chiefly
-                    published for the <term rend="italic">Muses</term> friends. <foreign xml:lang="la">Quibus me, quicquid sum, &amp; studia mea dico.</foreign>
+                    published for the <term rend="italic">Museterm</term> friends. <foreign xml:lang="la">Quibus me, quicquid sum, &amp; studia mea dico.</foreign>
                     <placeName rend="italic">Wotton</placeName>. <app type="major" subtype="change"><lem wit="#b1623"><date when="1623-05-30">May
                         30.1623.</date></lem><rdg wit="#b1609" source="1609.xml#ch0ancs18 1609.xml#ch0ance18">Jul. II.
                                 1609.</rdg></app></p>
@@ -4776,7 +4776,7 @@
                                 <ref target="#ch5sumn34"><seg rend="italic"> </seg><seg rend="italic">v</seg><seg rend="italic">.</seg><seg rend="italic">n</seg><seg rend="italic">.</seg><seg rend="normal">3</seg><seg rend="normal">4</seg></ref>
                             </note></lem>
                         <rdg wit="#b1609" source="1609.xml#ch5ancs1x 1609.xml#ch5ance1x">v.n.27</rdg>
-                    </app> and dead ones he may finde many before the stooles, when the stocks have
+                    </app> and dead ones hee may finde many before the stooles, when the stocks have
                     cast their last swarmes, <app type="reference" subtype="change">
                         <lem wit="#b1623"><ref target="#ch5bibln2"><seg rend="italic">v</seg><seg rend="italic">.</seg></ref>
                             <note type="authorial" subtype="bibliographic" xml:id="ch5bibln2">
@@ -4788,7 +4788,7 @@
                             the poison, they lose much of their stature and comlinesse.</lem>
                         <rdg wit="#b1609" />
                     </app></p>
-                <p xml:id="ch5par3"><note type="authorial" subtype="summary" xml:id="ch5sumn3">3. <seg rend="italic">The swarme no younger then the stocke. </seg></note> Men thinke that the swarme
+                <p xml:id="ch5par3"><note type="authorial" subtype="summary" xml:id="ch5sumn3">3. <seg rend="italic">The swarme no younger than the stocke. </seg></note> Men thinke that the swarme
                     consisteth onely of young Bees, and that the old Bees onely tarrie behinde: but
                     indeed (though it may seeme strange) the swarme is no younger, than the stocke:
                     for there are in both of both sorts. The young Bees remaine in the stock with
@@ -4809,7 +4809,7 @@
                 <p xml:id="ch5par5"><note type="authorial" subtype="summary" xml:id="ch5sumn5">5. <seg rend="italic">A kinde Spring for swarmes. </seg></note> A warme, calme, and showring spring causeth
                     many and <fw type="catch"> rathe</fw>
                     <pb n="I3v" />
-                    <fw type="header"> Of the Swarming of Bees, </fw> rathe swarmes<app type="minor" subtype="add">
+                    <fw type="header"> Of the Swarming of Bees, </fw>rathe swarmes<app type="minor" subtype="add">
                         <lem wit="#b1623">, though sudden stormes doe hinder them. <ref target="#ch5bibln5"><seg rend="italic">v</seg><seg rend="italic">.</seg></ref>
                             <note type="authorial" subtype="bibliographic" xml:id="ch5bibln5">
                                 <ref target="#ch7sumn60"><seg rend="italic">V</seg><seg rend="italic">.</seg><seg rend="italic">c</seg><seg rend="italic">.</seg><seg rend="italic"> </seg><seg rend="normal">7</seg><seg rend="italic">.</seg><seg rend="italic">n</seg><seg rend="italic">.</seg><seg rend="italic"> </seg><seg rend="normal">6</seg><seg rend="normal">0</seg><seg rend="italic">.</seg></ref>
@@ -4846,7 +4846,7 @@
                                 <ref target="#ch4sumn13"><seg rend="italic">V</seg><seg rend="italic">.</seg><seg rend="italic">c</seg><seg rend="italic">.</seg><seg rend="normal">4</seg><seg rend="italic">.</seg><seg rend="italic"> </seg><seg rend="italic">n</seg><seg rend="italic">.</seg><seg rend="italic"> </seg><seg rend="normal">1</seg><seg rend="normal">3</seg><seg rend="italic">.</seg></ref>
                             </note> and for honie-gathering the Summer: <ref target="#ch5bibln8"><seg rend="italic">v</seg><seg rend="italic">.</seg></ref>
                             <note type="authorial" subtype="bibliographic" xml:id="ch5bibln8">
-                                <ref target="#ch6sumn38"><seg rend="italic">V</seg><seg rend="italic">.</seg><seg rend="italic">c</seg><seg rend="italic">.</seg><seg rend="italic"> </seg><seg rend="normal">6</seg><seg rend="italic">.</seg><seg rend="italic"> </seg><seg rend="italic">n</seg><seg rend="italic">.</seg><seg rend="normal">3</seg><seg rend="normal">8</seg><seg rend="italic">.</seg></ref>&amp;<ref target="#ch6sumn39"><seg rend="normal">3</seg><seg rend="normal">9</seg><seg rend="italic">.</seg><seg rend="italic">c</seg><seg rend="italic">.</seg></ref>
+                                <ref target="#ch6sumn38"><hi>V.c.6. n.</hi>38.</ref>&amp;<ref target="#ch6sumn39"><seg rend="normal">3</seg><seg rend="normal">9</seg><seg rend="italic">.</seg><seg rend="italic">c</seg><seg rend="italic">.</seg></ref>
                             </note> so that when a dry Summer followeth a moist Spring, the
                             Bee-folds are rich. If the Summer be also moist, the increase of Bees
                             will be greater: but, because of the scarcity of hony, this increase
@@ -4859,8 +4859,8 @@
                             spoile that would come thereof, take the light stocks, together with the
                             small and late swarmes, <ref target="#ch5bibln9"><seg rend="italic">v</seg><seg rend="italic">.</seg></ref>
                             <note type="authorial" subtype="bibliographic" xml:id="ch5bibln9">
-                                <ref target="#ch10p1sumn3"><seg rend="italic"> </seg><seg rend="italic">V</seg><seg rend="italic">.</seg><seg rend="italic">c</seg><seg rend="italic">.</seg><seg rend="normal">1</seg><seg rend="normal">0</seg><seg rend="italic">.</seg><seg rend="italic">p</seg><seg rend="italic">.</seg><seg rend="normal">1</seg><seg rend="italic">.</seg><seg rend="italic">&amp;</seg><seg rend="italic">i</seg><seg rend="italic">i</seg><seg rend="italic">i</seg><seg rend="italic">.</seg><seg rend="italic">&amp;</seg><seg rend="italic">i</seg><seg rend="italic">i</seg><seg rend="italic">i</seg><seg rend="italic">i</seg><seg rend="italic">.</seg><seg rend="italic">i</seg><seg rend="italic">n</seg><seg rend="italic">
-</seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic">n</seg><seg rend="italic">.</seg><seg rend="normal">3</seg><seg rend="italic">.</seg></ref>
+                                <ref target="#ch10p1sumn3"><hi>V.c.</hi>10.<hi>p.</hi>1.<hi>&amp;</hi>iii.<hi>&amp;</hi>iiii.<hi>in
+                                    n.</hi>3.<seg rend="italic"> </seg></ref>
                             </note> feed the midling sort, <ref target="#ch5bibln10"><seg rend="italic"> </seg><seg rend="italic">v</seg><seg rend="italic">.</seg></ref>
                             <note type="authorial" subtype="bibliographic" xml:id="ch5bibln10">
                                 <ref target="#ch8sumn5"><seg rend="italic">V</seg><seg rend="italic">.</seg><seg rend="italic">c</seg><seg rend="italic">.</seg><seg rend="normal">8</seg><seg rend="italic">.</seg><seg rend="italic">n</seg><seg rend="italic">.</seg><seg rend="normal">5</seg><seg rend="italic">.</seg></ref>
@@ -4981,7 +4981,7 @@
                         <lem wit="#b1623">seldome</lem>
                         <rdg wit="#b1609" source="1609.xml#ch5ancs12 1609.xml#ch5ance12">will not</rdg>
                     </app> swarme the next yeere. <note type="authorial" subtype="summary" xml:id="ch5sumn11">11. <seg rend="italic">Blacke-berie-swarmes are seldome to be kept. </seg></note>
-                    And moreover they weaken the stocks from whence they came, which otherwise would
+                    And moreover they weaken the stocks from whence they came, which otherwise the next yeere would
                     swarme betime:<app type="minor" subtype="del">
                         <lem wit="#b1623" />
                         <rdg wit="#b1609" source="1609.xml#ch5ancs13 1609.xml#ch5ance13">the yeere following:</rdg>
@@ -5068,7 +5068,7 @@
                     be in state presentlie to furnish them with store of wax and hony: then that the
                     weather do please them, as being warme and calme, &amp; moist: unlesse, being
                     continually unseasonable, they have no choice. <app type="reference" subtype="add">
-                        <lem wit="#b1623"><ref target="#ch5glon2"><seg rend="italic"> </seg><seg rend="italic">v</seg><seg rend="italic">.</seg><seg rend="italic"> </seg><seg rend="italic">+</seg><seg rend="italic">.</seg><seg rend="italic">i</seg><seg rend="italic">n</seg><seg rend="italic"> </seg><seg rend="italic">n</seg><seg rend="italic">.</seg><seg rend="normal">5</seg><seg rend="italic">.</seg><seg rend="italic"> </seg></ref></lem>
+                        <lem wit="#b1623"><ref target="#ch5glon2"><hi>v.</hi>&#8224;.<hi>in n.5.</hi> <seg rend="italic"> </seg></ref></lem>
                         <rdg wit="#b1609" />
                     </app></p>
                 <p xml:id="ch5par15"><note type="authorial" subtype="summary" xml:id="ch5sumn17">17. <seg rend="italic">Five signes of the first swarming. </seg></note> When the Hives begin to be full,
@@ -5158,7 +5158,7 @@
                         <lem wit="#b1623">is a signe and cause of not swarming</lem>
                         <rdg wit="#b1609" source="1609.xml#ch5ancs27 1609.xml#ch5ance27">is a meanes to hinder their swarming</rdg>
                     </app>. For the Bees, knowing by nature that the greatest companies doe prosper
-                    best, until they finde themselves so pestred with heate and throng of
+                    best, untill they finde themselves so pestred with heat and throng of
                     multitudes, that the Hive can scarce hold any more, will have no mind to swarme:
                     and when they have once taken to lie forth, the hive will alwaies seem empty, as
                     though they wanted company. </p>
@@ -5245,7 +5245,7 @@
                     happily (if the wether like them) they wil come forth and swarme: unlesse</rdg>
                     </app></p>
                 <p xml:id="ch5par23"><app type="major" subtype="add">
-                        <lem wit="#b1623">If they lie forth and swarme not; (though they have had
+                        <lem wit="#b1623">If yet they lie forth and swarme not; (though they have had
                             fit weather two or three daies) then the next calme and warme day,
                             betweene 11. and 1. of the clocke, or within an houre sooner or later,
                             (when the Sunne shineth, and you see <fw type="catch"> no</fw>
@@ -5261,7 +5261,7 @@
                     </app></p>
                 <p xml:id="ch5par24"><app type="major" subtype="add">
                         <lem wit="#b1623">If this doe not serve, but that returning to the Hive they
-                            lie forth againe, then reare the Hive high enough to let them in, and
+                            lie forth againe; then reare the Hive high enough to let them in, and
                             cloome up the skirts all but the doore.</lem>
                         <rdg wit="#b1609" />
                     </app></p>
@@ -5279,7 +5279,7 @@
                 </p>
                 <p xml:id="ch5par26"><note type="authorial" subtype="summary" xml:id="ch5sumn22">22. <seg rend="italic">What is to be done to those that by no means will swarme. </seg></note>
                     <app type="minor" subtype="change">
-                        <lem wit="#b1623">And then it be before Mid-<term> Cancer</term>, &amp; the
+                        <lem wit="#b1623">And then if it be before Mid-<term> Cancer</term>, &amp; the
                             hony-weather hold;</lem>
                         <rdg wit="#b1609" source="1609.xml#ch5ancs35 1609.xml#ch5ance35">Thus may you
                     try them 5 or 6 daies so it be before Midsommer, and before the honydewes be
@@ -5330,7 +5330,7 @@
                     </app></p>
                 <p xml:id="ch5par27"><app type="major" subtype="add">
                         <lem wit="#b1623"><note type="authorial" subtype="summary" xml:id="ch5sumn23">23. <seg rend="italic">How to replenish an over-swarmer. </seg></note>When
-                            all hope of their swarming is past; in some evening (while is it yet
+                            all hope of their swarming is past; in some evening (while it is yet
                             light) holding a Hive under those that lie out, cut them off from the
                             stoole with a<ref target="#ch5glon5"><seg rend="italic">*</seg></ref> tight thread: <note type="authorial" subtype="gloss" xml:id="ch5glon5">*Held straight
                                 betweene two hands.</note> and carrying them to an over-swarmer that
@@ -5360,7 +5360,7 @@
                             with a large Mantle. <note type="authorial" subtype="summary" xml:id="ch5sumnX1"><seg rend="italic">The Brake.</seg></note> Then
                             make a Brake behinde the stoole of foure stakes, 2. two foot, and 2.
                             foure foot long, pitched fast in distance equall, and fit to conteine
-                            the full Hive, being of the same compasse. One of the short stakes set
+                            the full Hive: being of the same compasse. One of the short stakes set
                             close to the middle of the backe of the stoole, the other Northward
                             opposite to it: one of the long ones on the West part, and the other on
                             the East. Then right in the middle, betweene the stakes, digge a hole in
@@ -5369,7 +5369,7 @@
                             and so the Hive may stand upright and fast in the Brake. Then pare away
                             the inner edges of the tops of the short stakes, and the Hive in the
                             setting downe may not stay against them: and taking up the West-stake,
-                            sticke it to you.</lem>
+                            sticke it by you.</lem>
                         <rdg wit="#b1609" />
                     </app></p>
                 <p xml:id="ch5par29"><app type="major" subtype="add">
@@ -5377,7 +5377,7 @@
                             West side of the Brake, and your assistant on the same side of the
                             stoole at your right hand, (both in your complete harnesse) <ref target="#ch5bibln22"><seg rend="italic">v</seg><seg rend="italic">:</seg></ref>
                             <note type="authorial" subtype="bibliographic" xml:id="ch5bibln22">
-                                <ref target="#ch1sumn40"><seg rend="italic">v</seg><seg rend="italic">.</seg><seg rend="italic">c</seg><seg rend="italic">.</seg><seg rend="normal">1</seg><seg rend="italic">.</seg><seg rend="italic">n</seg><seg rend="italic">.</seg><seg rend="normal">4</seg><seg rend="normal">0</seg></ref>
+                                <ref target="#ch1sumn40"><hi>v.c.</hi>1.<hi>n.</hi>40.</ref>
                             </note> let the assistant take hold of the Hive, &amp;, yeelding the top
                             toward his breast, reare the fur-side of the skirt from the
                             East-bolster. When you see it fitting, embracing the hive as neere the
@@ -5421,7 +5421,7 @@
                             they will not prosper. </lem>
                         <rdg wit="#b1609" />
                     </app></p>
-                <p xml:id="ch5par31"><note type="authorial" subtype="summary" xml:id="ch5sumn26">26. <seg rend="italic">The signes of after swarmes </seg></note> The signes of the after-swarmes are more
+                <p xml:id="ch5par31"><note type="authorial" subtype="summary" xml:id="ch5sumn26">26. <seg rend="italic">The signes of after swarmes. </seg></note> The signes of the after-swarmes are more
                     certaine. For whereas the rising of the prime swarme is appointed by the<app type="vocabulary" subtype="del">
                         <lem wit="#b1623" />
                         <rdg wit="#b1609" source="1609.xml#ch5ancs41 1609.xml#ch5ance41">uncertaine</rdg>
@@ -5621,7 +5621,7 @@
                         <lem wit="#b1623">In this <term> Melissomelos,</term> or Bees Madrigall,
                             Musicians may see the grounds of their Art: first their
                                 <term>Moodes</term>, sometime the <term>triple</term> or <term>
-                                imperfect</term> of the more, sometimes the <term>duple</term> or
+                                imperfect</term> of the more, sometime the <term>duple</term> or
                                 <term> imperfect</term> of the lesse: then the tunes of the six
                             notes, <term>ut, re, mi, fa, sol, la</term>; whereof the Queene soundeth
                             the first foure, and the Prince the other two, together with the
@@ -5636,14 +5636,13 @@
                             must sometime be Discords: yea and that in either they have had their
                             laudable use, as serving to make sweet Concords the sweeter. So that if
                                 <term>Musicke</term> were lost, it might be found with the <ref target="#ch5bibln27"><seg rend="italic">*</seg></ref><term>Muses</term> Birds. <note type="authorial" subtype="bibliographic" xml:id="ch5bibln27">
-                                <bibl>*Var.l.3.c.15</bibl>
-                            </note><note type="authorial" subtype="bibliographic" xml:id="ch5bibln28">V.<note type="editorial" subtype="certainty" cert="check" xml:id="check7"><ref target="#frontpar8" />V.
-                                    Prfat.</note></note></lem>
+                                <bibl>*Var.l.3.c.15 <hi>V. Praefat.</hi></bibl>
+                            </note></lem>
                         <rdg wit="#b1609" />
                     </app></p>
                 <p xml:id="ch5par38"><app type="major" subtype="add">
                         <lem wit="#b1623">The severall parts of whose Song comprizing these
-                            mentioned notes, with pauses interposed (as I have at severall times by
+                            mentioned notes, with pawses interposed (as I have at severall times by
                             a Winde-instrument, whose notes can neither rise nor fall, attentively
                             observed) I thought good heere to prick downe, that you may see them in
                             all these particulars of their Naturall Art. Onely I cannot altogether
@@ -5668,7 +5667,7 @@
                         <lem wit="#b1623">Ladies</lem>
                         <rdg wit="#b1609" source="1609.xml#ch5ancs62 1609.xml#ch5ance62">Princes</rdg>
                     </app> come downe neerer the stoole: and there they hold on their melodie
-                    somewhat longer, singing sometimes above twentie notes together, and with
+                    somewhat longer, singing sometime above twentie notes together, and with
                     shorter pauses.</p>
                 <p xml:id="ch5par40"><note type="authorial" subtype="summary" xml:id="ch5sumn34">34. <seg rend="italic">The manner of their swarming. </seg></note> At the very swarming time they descend
                     to the stoole: where answering one another in more earnest manner, with thicker
@@ -5737,7 +5736,7 @@
                         </app></note> When the swarme is up, <app type="minor" subtype="add">
                         <lem wit="#b1623">and busie in their dance, <ref target="#ch5bibln30"><seg rend="italic">v</seg><seg rend="italic">:</seg></ref>
                             <note type="authorial" subtype="bibliographic" xml:id="ch5bibln30">
-                                <ref target="#ch5sumn34"><seg rend="italic">V</seg><seg rend="italic">.</seg><seg rend="italic">n</seg><seg rend="italic">.</seg><seg rend="normal">3</seg><seg rend="normal">4</seg></ref>
+                                <ref target="#ch5sumn34"><hi>V.n.</hi>34.</ref>
                             </note></lem>
                         <rdg wit="#b1609" />
                     </app>it is a common <app type="vocabulary" subtype="change">
@@ -5786,7 +5785,7 @@
                         <lem wit="#b1623">And before him <persName>Virgil,</persName>
                             <quote>
                                 <lg xml:lang="la">
-                                    <l> Hinc ubi iam emissum caveis ad sidera caeti </l>
+                                    <l> Hinc ubi iam emissum caveis ad sidera caeli </l>
                                     <l>Nare per aestatem liquidam suspexeris agmen, &amp;c.</l>
                                     <l>Tinnitusque cie, &amp; matris quate cymbala circum:</l>
                                     <l>Ipsae confident medicatis sedibus, ipsae</l>
@@ -5825,11 +5824,11 @@
                     </app></p>
                 <app type="major" subtype="add">
                     <lem wit="#b1623"><note type="authorial" subtype="gloss" place="inline" xml:id="ch5glon8">
-                            <foreign xml:lang="la">Fugientes persequi possum in fundum alienuum
+                            <foreign xml:lang="la">Fugientes persequi possum in fundum
                                 alienum vel invite Domino ac vetante <hi rend="opposite">Lege
                                     Thesaurus &#167; ad exhibendum</hi>. Quia ius cuique acquisitum ei
                                 conservari debet. <hi rend="opposite">Lege Patre. &#167; de ijs qui
-                                    sunt.</hi> Secus si apes feras nov&#232; in alievo praedio captarem.
+                                    sunt.</hi> Secus si apes feras nov&#232; in alieno praedio captarem.
                                     <hi rend="opposite">&#167; Apium, in fine de rerum
                                 divisione.</hi></foreign>
                         </note></lem>
@@ -5846,17 +5845,17 @@
                     them, happily to the happy finder. For when you have lost the sight and hearing
                     of them, you have lost al right and propertie in them. </p>
                 <note type="authorial" subtype="gloss" place="inline" xml:id="ch5glon9">
-                    <foreign xml:lang="la">Examen ex alveo tuo evolaverit, eousque intellegitur esse
+                    <foreign xml:lang="la">Examen quod ex alveo tuo evolaverit, eousque intelligitur esse
                         tuum, donec in conspectu tuo est, nec difficilis persecutio eius est:
                         alioquin occupantis est.</foreign>
-                    <bibl>Justinian.l.2.institutionum juris tit.de rerum divisione.</bibl>
+                    <hi rend="opposite"><bibl>Justinian.l.2.institutionum juris tit.de rerum divisione.</bibl></hi>
                 </note>
-                <p xml:id="ch5par52"><note type="authorial" subtype="summary" xml:id="ch5sumn39">39. <seg rend="italic">Some swarmes provide them houses aforehand. </seg></note> Sometime they wil be
+                <p xml:id="ch5par52"><note type="authorial" subtype="summary" xml:id="ch5sumn39">39. <seg rend="italic">Some swarmes provide them houses aforehand. </seg></note> Sometime they will be
                     provided of a house before they swarme, which some Harbingers have found and
                     viewed, and dressed against their comming: as either a hollow tree, or a void
                     Hive: and then will they away presently, and by no meanes settle till they come
                     thither. <note type="authorial" subtype="summary" xml:id="ch5sumn40">40. <seg rend="italic">And then they fly away directly to the place. </seg></note> Unto which place they will
-                    flie, not, as at other times, uncertainely this way and that way: but as
+                    flie, not, as at other times, uncertainely this way and that way; but as
                     directly as they can guesse. <app type="minor" subtype="del">
                         <lem wit="#b1623" />
                         <rdg wit="#b1609" source="1609.xml#ch5ancs71 1609.xml#ch5ance71">In so much that if a
@@ -5873,8 +5872,8 @@
                     happily forget hir mothers command: and by that meanes the Hive stood still,
                     till the unexpected swarme came, that afterward stored hir garden. It is not
                     amisse therefore to follow the counsell of <bibl xml:id="ch5bibln32X2"><persName>Columella:</persName></bibl>
-                    <note type="authorial" subtype="summary" xml:id="ch5sumn41">41. <seg rend="italic"><foreign xml:lang="la">Vacua alvearia stent semper parata in
-                        Apiario.</foreign></seg></note>
+                    <note type="authorial" subtype="summary" xml:id="ch5sumn41">41. <seg rend="italic"><foreign xml:lang="la"><hi>Vacua alvearia stent semper parata in
+                                Apiario.</hi></foreign></seg></note>
                     <quote>
                         <foreign xml:lang="la">Oportet autem vacua domicilia collocata in apiarijs
                             habere. Nam sunt nonnulla examina quae cum processerint, statim sedem
@@ -5927,7 +5926,7 @@
                         <app type="minor" subtype="change">
                         <lem wit="#b1623">choose out a fit hive, neither too big nor too little, but
                             proportionable to the quantitie and time of the swarme: so that the Bees
-                            may fill it that yeere, or the least within a handfull, which they may
+                            may fill it that yeere, or at the least within a handfull, which they may
                             make up the next yeere in good time.</lem>
                         <rdg wit="#b1609" source="1609.xml#ch5ancs75 1609.xml#ch5ance75">make choice of a hive for it. If you
                     would have it to cast the next yeere, you must take a hive proportionable to the
@@ -5982,7 +5981,7 @@
                     <app type="minor" subtype="add">
                         <lem wit="#b1623">But little and late swarmes are rather to be united.<ref target="#ch5bibln34"><seg rend="italic"> </seg><seg rend="italic">v</seg><seg rend="italic">.</seg></ref>
                             <note type="authorial" subtype="bibliographic" xml:id="ch5bibln34">
-                                <ref target="#ch5sumn67"><seg rend="italic">V</seg><seg rend="italic">.</seg><seg rend="italic">n</seg><seg rend="italic">.</seg><seg rend="normal">6</seg><seg rend="normal">7</seg><seg rend="italic">.</seg></ref>&amp;<ref target="#ch5sumn63"><seg rend="normal">6</seg><seg rend="normal">3</seg><seg rend="italic">.</seg></ref>
+                                <ref target="#ch5sumn67"><seg rend="italic">V</seg><seg rend="italic">.</seg><seg rend="italic">n</seg><seg rend="italic">.</seg><seg rend="normal">6</seg><seg rend="normal">7</seg><seg rend="italic">.</seg></ref>&amp;<ref target="#ch5sumn63"><seg rend="normal">6</seg><seg rend="normal">8</seg><seg rend="italic">.</seg></ref>
                             </note></lem>
                         <rdg wit="#b1609" />
                     </app></p>
@@ -6006,7 +6005,7 @@
                                 under one Leader, in the largest Hive.<ref target="#ch3sumn6"><seg rend="italic">
 </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic">v</seg><seg rend="italic">.</seg><seg rend="italic">c</seg><seg rend="italic">.</seg><seg rend="normal">3</seg><seg rend="italic">.</seg><seg rend="italic">n</seg><seg rend="italic">.</seg><seg rend="normal">6</seg></ref>. Of such a number did <persName>
                                     Alexanders</persName> victorious Army consist. <bibl>For
-                                    Diod.Sic.l.17.</bibl> reckoneth up some 48.M. with those 13500.
+                                        <hi>Diod.Sic.l.</hi>17.</bibl> reckoneth up some 48.M. with those 13500.
                                 leaft behinde with <persName> Antipater.</persName> And <bibl>
                                     Justin.l.9.</bibl> not mentioning this company, numbreth 36500.
                                 which number is also great enough for a very faire swarm; as
@@ -6038,8 +6037,8 @@
                 <p xml:id="ch5par60"><app type="major" subtype="add">
                         <lem wit="#b1623">If this just proportion be not precisely kept, the Bees
                             may doe well enough in a middle-sized hive: for being under-hived, they
-                            will cast somewhat the sooner, though peradventure the lesse swarme in
-                            good time; and being but a little over-hived, though they spend some
+                            will cast somewhat the sooner, though peradventure the lesse swarme
+                   ; and being but a little over-hived, though they spend some
                             time in supplying the former yeeres defects, they may yet swarme in good
                             time, and the fairer swarme. And indeed all swarmes, whether bigger or
                             lesse, by decreasing or increasing, doe naturally draw towards this
@@ -6063,7 +6062,7 @@
                         <rdg wit="#b1609" />
                     </app></p>
                 <p xml:id="ch5par63"><app type="major" subtype="add">
-                        <lem wit="#b1623">If afterward you see the Bees lying out, that they are <fw type="catch"> under-</fw>
+                        <lem wit="#b1623">If afterward you see by the Bees lying out, that they are <fw type="catch"> under-</fw>
                             <pb n="M1r" />
                             <fw type="header"> and the Hiving of them. </fw> under-hived, your
                             remedy is to reare the Hive with a skirt, or Bolsters, as much as will
@@ -6215,7 +6214,7 @@
                     </app>
                     <ref target="#ch5bibln40"><seg rend="italic">v</seg></ref>
                     <note type="authorial" subtype="bibliographic" xml:id="ch5bibln40">
-                        <ref target="#ch1sumn40"><seg rend="italic"> </seg><seg rend="italic">v</seg><seg rend="italic">.</seg><seg rend="italic">c</seg><seg rend="italic">.</seg><seg rend="normal">1</seg><seg rend="italic">.</seg><seg rend="italic">.</seg><seg rend="italic">n</seg><seg rend="normal">4</seg><seg rend="normal">0</seg><seg rend="italic">.</seg></ref>
+                        <ref target="#ch1sumn40"><hi>v.c.</hi>1.<hi>n.</hi>40.<seg rend="italic"> </seg></ref>
                     </note> and being thus disquieted they wil be the worse to hive. <app type="major" subtype="add">
                         <lem wit="#b1623">Moreover, the troubling of them doth oft times make them
                             rise and goe home againe: sometime it breaketh the swarme, causing part
@@ -6249,7 +6248,7 @@
                             Bees down, or 4.driving them up into the Hive. </lem>
                         <rdg wit="#b1609" />
                     </app></p>
-                <p xml:id="ch5par76"><note type="authorial" subtype="summary" xml:id="ch5sumn55">55. <seg rend="italic">How to Hive a Swarme that lighteth upon a bough. </seg></note> If your swarme
+                <p xml:id="ch5par76"><note type="authorial" subtype="summary" xml:id="ch5sumn55">55. <seg rend="italic">How to Hive a Swarme that light upon a bough. </seg></note> If your swarme
                     lighteth upon a bough; first spread the Mantle under it, and lay the Rest or
                     Rests in the middle thereof, with the ends toward two corners of the Mantle. </p>
                 <p xml:id="ch5par77"><note type="authorial" subtype="summary" xml:id="ch5sumn56">56. <seg rend="italic">Either high. </seg></note><app type="major" subtype="change">
@@ -6329,9 +6328,9 @@
                     nettles, or other weedes, or hearbes, and by spitting and blowing upon the
                     place: and after a while they will all to their fellows in the hive. </rdg></app>
                 <p xml:id="ch5par80"><note type="authorial" subtype="summary" xml:id="ch5sumn58">58. <seg rend="italic">How if it light upon a high tree. </seg></note><app type="major" subtype="add"><lem wit="#b1623"> If they pitch upon a high tree, it
-                    is best not to shake them into the Hive, but rather with a sharpe knife cut the
+                    is not best to shake them into the Hive, but rather with a sharpe knife cut the
                     bough if you can conveniently: and either put it into the Hive, and cover it
-                    with a Mantle, or bring it downe gentlie in you hand. But if you want a ladder
+                    with a Mantle, or bring it downe gentlie in your hand. But if you want a ladder
                     or other meanes to bring it downe, then let it downe by a cord tied to some
                     crooke of the bough.</lem><rdg wit="#b1609" /></app> </p>
                 <p xml:id="ch5par81"><note type="authorial" subtype="summary" xml:id="ch5sumn59">59. <seg rend="italic">How if upon the body of a tree. </seg></note> If they <app type="vocabulary" subtype="change"><lem wit="#b1623">pitch</lem><rdg wit="#b1609" source="1609.xml#ch5ancs89xx 1609.xml#ch5ance89xx">light</rdg></app> upon the body of a
@@ -6355,7 +6354,7 @@
                     with your Brush, by laying on Mug-wort, Margerom, Wormewood, <ref target="#ch5glon13"><seg rend="italic">*</seg></ref> Archangell, <note type="authorial" subtype="gloss" xml:id="ch5glon13">*<hi rend="italic">White
                         Nettle.</hi></note> or other Weeds, or Hearbs, or by covering the place with
                         a cloth: and after a while they will all to their fellowes in the Hive. </lem><rdg wit="#b1609" /></app></p>
-                <p xml:id="ch5par82"><app type="major" subtype="add"><lem wit="#b1623">But if they be so neere to the ground, that you cannot
+                <p xml:id="ch5par82"><app type="major" subtype="add"><lem wit="#b1623">But if they be so neere the ground, that you cannot
                     conveniently put the Hive under them; then with a tight thred <fw type="catch">
                         sweep</fw>
                     <pb n="M3r" />
@@ -6445,7 +6444,7 @@
                     Frying-pan into the fire. And therefore when the swarme is hived, if you see
                     part begin to gather together by themselves; remove them as speedily as you can,
                     that they may goe to their fellowes in time. </p>
-                <p xml:id="ch5par90"><note type="authorial" subtype="summary" xml:id="ch5sumn66">66. <seg rend="italic">The swarme to be set neer the lighting-place. </seg></note>And alwaies <app type="minor" subtype="add">
+                <p xml:id="ch5par90"><note type="authorial" subtype="summary" xml:id="ch5sumn66">66. <seg rend="italic">The swarme to be set neere the lighting-place. </seg></note>And alwaies <app type="minor" subtype="add">
                         <lem wit="#b1623">if you may chuse,</lem>
                         <rdg wit="#b1609" />
                     </app> set the <app type="vocabulary" subtype="change">
@@ -6473,7 +6472,7 @@
                     will make such a noise, that their fellowes may easily finde them. And <fw type="catch"> if</fw>
                     <pb n="M4r" />
                     <fw type="header"> and the Hiving of them. </fw> if any yet hankering behinde
-                    chance to be set upon when they come to the Hive, be-sprinkle the Mantle, the
+                    chance to be set upon when they come to the Hive; be-sprinkle the Mantle, the
                     Hive, and the Bees with a little strong drinke, and you shall part the fray. </p>
                 <p xml:id="ch5par91">And if any man marvaile why they of the same swarme shoulde so
                     soone be strange one to another, seeing that Bees of one Hive being pent a whole
@@ -6687,7 +6686,7 @@
                         <rdg wit="#b1609" />
                     </app></p>
                 <p xml:id="ch5par102"><app type="major" subtype="add">
-                        <lem wit="#b1623"><note type="authorial" subtype="summary" xml:id="ch5sumn76">76. <seg rend="italic">When most danger. </seg></note> But the danger is
+                        <lem wit="#b1623"><note type="authorial" subtype="summary" xml:id="ch5sumn76">76. <seg rend="italic">When most danger is. </seg></note> But the danger is
                             when two Princes with their equall Colonies happen to be equally
                             advanced in the Hive: and therefore neither yeeldeth to other, but fight
                             it out on both sides with equall hope of victorie. When this chanceth,
@@ -6726,7 +6725,7 @@
                             a plentifull season, they being then as readie to returne upon little or
                             no occasion, as loth to come abroad, even in the safest weather. <ref target="#ch5sumn20"><seg rend="italic">V</seg><seg rend="italic">.</seg><seg rend="italic">n</seg><seg rend="italic">.</seg><seg rend="normal">2</seg><seg rend="normal">0</seg></ref>. I observed once, that the Prince
                             being scarce ready, fell downe from the stoole unable to recover hir
-                            wings: whereupon the swarme returned. She being put up into the Hive,
+                            wings: whereupon the swarme returned. She being put into the Hive,
                             the next day the swarme rose againe and setled, but the Prince hapned to
                             fall beside the <term> Cone</term>. The swarme being knit, missing her,
                             began to unknit, and be gone: which I perceiving presently hived them:
@@ -6857,8 +6856,7 @@
                     </rdg>
                     </app> the next day being indifferent, when other Bees worke hard, they will
                     scarce looke out of the doore, not daring to commit their leere and thinne
-                    bodies to the could aire. <note type="authorial" subtype="summary" xml:id="ch5sumn87">87. <seg rend="italic">Foule weather continuing <note type="editorial" subtype="certainty" cert="check" xml:id="check8">doth make it arouse and
-                            die</note></seg></note> And if they be <app type="vocabulary" subtype="change">
+                    bodies to the could aire. <note type="authorial" subtype="summary" xml:id="ch5sumn87">87. <seg rend="italic">Foule weather continuing doth make it droope and die </seg></note> And if they be <app type="vocabulary" subtype="change">
                         <lem wit="#b1623">quite kept</lem>
                         <rdg wit="#b1609" source="1609.xml#ch5ancs109 1609.xml#ch5ance109">shut</rdg>
                     </app> in the second day also; then will they not wagge (though they dye for it)
@@ -6881,7 +6879,7 @@
                         <lem wit="#b1623"><note type="authorial" subtype="summary" xml:id="ch5sumn89">89. <seg rend="italic">How to prevent the drouping and death of a swarme. </seg></note> To prevent this evill, If the swarme light in your
                             Garden within a Pearch of the Seat that is appointed for him, set it
                             there at the first: and so will they lose no time in hankering about the
-                            hiving-place. And if it light farther off, (whether in your garden or
+                            hiving-place. And if it light farther off; (whether in your garden or
                             other place where they may stand safe, specially the weather being
                             unkinde or unconstant) leave them there till it mend. <ref target="#ch5bibln49"><seg rend="italic">v</seg><seg rend="italic">:</seg></ref>
                             <note type="authorial" subtype="bibliographic" xml:id="ch5bibln49">
@@ -6894,7 +6892,7 @@
                         <rdg wit="#b1609" />
                     </app></p>
                 <p xml:id="ch5par111"><app type="major" subtype="add">
-                        <lem wit="#b1623"><note type="authorial" subtype="summary" xml:id="ch5sumn90">90. <seg rend="italic">How to secure a drouping swarm. </seg></note> The
+                        <lem wit="#b1623"><note type="authorial" subtype="summary" xml:id="ch5sumn90">90. <seg rend="italic">How to cure a drouping swarm. </seg></note> The
                             meanes to recover such a drouping swarme is this. The first Sunne-shinie
                             day turne up the Hive to the Sunne, that his heat may revive them: and
                             besprinkling the sides of the Hive, the Spleets, and the Bees also a
