@@ -46,7 +46,10 @@ def getText(string, ns, mapParent, tree):
 
     # isolate xml:id and build full anchor
     for i, id in enumerate(start_end):
-        start_end[i] = id.split("#")[1]
+        try:
+            start_end[i] = id.split("#")[1]
+        except IndexError:
+            print(f'Error: Expected a "#" in "{id}"')
 
     # Ensure both ids exist in 1609
     for id in start_end:
