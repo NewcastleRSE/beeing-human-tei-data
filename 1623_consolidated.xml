@@ -352,7 +352,7 @@
                     kingdome of Great <placeName rend="italic">Britaine</placeName>, and be
                     entertained of all sorts both learned and unlearned: although the <hi rend="italic">Muses Birds</hi> are fittest for the <term rend="italic">
                         Muses</term>, and the knowledge of their long-hidden secrets was chiefly
-                    published for the <term rend="italic">Muses</term> friends. <foreign xml:lang="la">Quibus me, quicquid sum, &amp; studia mea dico.</foreign>
+                    published for the <term rend="italic">Museterm</term> friends. <foreign xml:lang="la">Quibus me, quicquid sum, &amp; studia mea dico.</foreign>
                     <placeName rend="italic">Wotton</placeName>. <app type="major" subtype="change"><lem wit="#b1623"><date when="1623-05-30">May
                         30.1623.</date></lem><rdg wit="#b1609" source="1609.xml#ch0ancs18 1609.xml#ch0ance18">Jul. II.
                                 1609.</rdg></app></p>
@@ -1924,8 +1924,7 @@
                     <fw type="header"> Of the Nature and properties of Bees, </fw> hand that is not
                     very hairie, they will seldome or never sting, unlesse they be much
                     offended.</p>
-                <note type="authorial" subtype="summary" xml:id="ch1sumn29">29. <seg rend="italic">When any is stung, the company must be gone. </seg></note>
-                <p xml:id="ch1par26">When you are stung, or any in the company, yea though a Bee
+                <p xml:id="ch1par26"><note type="authorial" subtype="summary" xml:id="ch1sumn29">29. <seg rend="italic">When any is stung, the company must be gone. </seg></note>When you are stung, or any in the company, yea though a Bee
                     have striken but your clothes, specially in hot weather, you were best be
                     packing as fast as you can: for the other Bees smelling the rancke savour of the
                     poyson cast out with the sting, will come about you as thicke as haile: so that
