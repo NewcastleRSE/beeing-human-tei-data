@@ -2173,10 +2173,10 @@
                         <note type="authorial" subtype="bibliographic" xml:id="ch1bibln41">
                             <bibl>Lucret.l.4.</bibl>
                         </note>
-                        <lg>
+                        <foreign xml:lang="la"><lg>
                             <l>&#8212;&#8212;Ideoqe per auras</l>
                             <l>Mellis apes, quamvis long&#232;, ducuntur odore.</l>
-                        </lg>
+                        </lg></foreign>
                     </quote> And by this sense they finde out any strange Bee, which is not
                     otherwise to be knowne from their owne company, and that in the darke Hive:
                     where, when they are disposed, they will by the same meanes cull out the Drones,
