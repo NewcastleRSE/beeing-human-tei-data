@@ -5652,14 +5652,223 @@
                             that, as I could. But I am sure, if I misse, I misse but a little. </lem>
                         <rdg wit="#b1609" />
                     </app></p>
-                <pb n="K4v" />
+               <app type="major" subtype="add"><lem wit="#b1623"> <pb n="K4v" />
+                   <lg type="song" xml:id="melissomeloslyrics"><lg xml:id="ch5musiccontratenorlyrics1">
+                       <head type="register">I. CONTRATENOR</head>
+                       <lg type="verse" n="1">
+                           <l>As of all states the Monarchie is best, so of all Monarchies that Fe-mi-nine, Of</l><l>
+                           famous Amazons excels the rest, That on this earthie Sphaere have ever bin, Whose little hearts in</l><l>
+                           weaker sex (so great in field) No power of the might'est Males can make to yeeld: They living aye,</l><l>
+                           most sober and most chast, Their paine-got goods in pleasure scorne to wast.</l>
+                       </lg>
+                       <lg type="verse" n="2">
+                           <l>They work in common for the common weale: Their labour's restlesse to maintaine their state: Their</l><l>
+                           Hexa-gonia no Beza-leell, for curious Art may passe, or imitate, One Sov'raign and but</l><l>
+                           one commands this people loyall, The great Marpese with plentie blest of issue roy-all: An-ti-o-pe</l><l>
+                           and Ori-thyia fayre, With o-ther Princes hir In-fantaes are.</l>
+                       </lg>
+                       <lg type="verse" n="3">
+                           <l>To whose grave accents if hir Princely Grace</l><l>
+                           Vouchsafe with Trine Aspect reply to make,</l><l>
+                           To sweetest Treble tuning sweeter Base;</l><l>
+                           Hir mournefull suit a joyfull end doth take:</l><l>
+                           And then, when fit time they espy,</l><l>
+                           Some thousands strong</l><l>
+                           This Armie royall gallantly</l><l>
+                           Doth march along.</l><l>
+                           Harke, harke, me thinkes I heare in Notes of choice,</l><l>
+                           This fairest Ladies sweetest mournefull voice.</l>
+                       </lg>
+                   </lg>
+                   
+                   <lg xml:id="ch5musicmeanelyrics1">
+                       <head type="register">I. MEANE</head>
+                       <lg type="verse" n="1">
+                           <l>As of all states the Monarchie is best, So of all Monarchies that Fe-mi-nine, Of</l><l>
+                           famous Amazons excels the rest, That on this earthie Sphaere have ever bin, Whose little hearts in</l><l>
+                           weaker sex (so great in field) No powers of the mightiest Males can make to yeeld: They living aye,</l><l>
+                           most sober and most chast, Their paine-got goods in pleasure scorne to wast.</l>
+                       </lg>
+                       
+                       <lg type="verse" n="2">
+                           <l>They work in common for the common weale: Their labour's restlesse to maintaine their state: Their</l><l>
+                           Hexa-gonia no Be-za-leell, for curious Art may passe, or imitate. One sov'raign and but</l><l>
+                           one commands this people loyall, the great Marpese with plenty blest of issue roy-all: An-ti-o-pe,</l><l>
+                           and Ori-thyia faire. With o-ther Princes hir In-fantaes are.</l>
+                       </lg>
+                       
+                       <lg type="verse" n="3">
+                           <l>When so increased is this prudent Nation,</l><l>
+                           That their owne limits cannot them suffice;</l><l>
+                           To seeke new Cities, for new habitation,</l><l>
+                           They send abroad their num'rous Colonies:</l><l>
+                           <hi>Antiope</hi> the prime Prince gone,</l><l>
+                           <hi>Orithya</hi> soone</l><l>
+                           Of hir Queene-mother, making mone,</l><l>
+                           Begs the like boone:</l><l>
+                           That with hir traine hir fortune she may seeke:</l><l>
+                           And this she sings in measures mournefull sweete.</l>
+                       </lg>
+                   </lg>
+                
                 
                 <pb n="L1r" />
+                   <lg xml:id="ch5musicbassuslyrics1">
+                       <head type="register">I. BASSUS.</head>
+                       <lg type="verse" n="1">
+                           <l>As of all states the Monarchie is best, so of all Monarchies that Fem-mi-nine, Of</l><l>
+                           famous Amazons excels the rest, That on this earthie Sphaere have ever bin, Whose little hearts in</l><l>
+                           weaker sex (so great in field) No power of the might'est Males can make to yeeld: They living aye,</l><l>
+                           most sober and most chast, Their paine-got goods in pleasure scorne to wast.</l>
+                       </lg>
+                       
+                       <lg type="verse" n="2">
+                           <l>They work in common for the commonweale: Their labour's restlesse to maintaine their state: Their</l><l>
+                           Hexa-gonia no Beza-leell, for curious Art may passe, or imitate, One Sov'raign and but</l><l>
+                           one commands this people loyall, The great Marpese with plenty of issue roy-all: An-ti-o-pe</l><l>
+                           and Ori-thyia fayre, With o-ther Princes his In-fantaes are.</l>
+                       </lg>
+                       
+                       <lg type="verse" n="3">
+                           <l>I When so increased in this prudent Nation,</l><l>
+                           That their owne limits cannot them suffice;</l><l>
+                           To seeke new Cities, for new habitation,</l><l>
+                           They send abroad their num'rous Colonies:</l><l>
+                           <hi>Antiope</hi> the prime Prince gone,</l><l>
+                           <hi>Orithya</hi> soone</l><l>
+                           Of hir Queene-mother, making mone,</l><l>
+                           Begs the like boone:</l><l>
+                           That with hir traine hir fortune she may seeke:</l><l>
+                           And this she sings in measures mournfull sweete</l>
+                       </lg>
+                   </lg>
+                   
+                   <lg xml:id="ch5musictenorlyrics1">
+                       <head type="register">I. TENOR.</head>
+                       
+                       <lg type="verse" n="1">
+                           <l>As of all states the Monarchie is best, so of all Monarchies that Fe-mi-nine, Of</l><l>
+                           famous Amazons excels the rest, That on this earthie Sphaere have ever bin, Whose lit-tle hearts in</l><l>
+                           weaker sex (so great in field) No powers of the might'est Males can make to yeeld: They living aye,</l><l>
+                           and Ori-thyia faire, With o-ther Princes hir In-fantaes are.</l>
+                       </lg>
+                       
+                       <lg type="verse" n="2">
+                           <l>They work in common for the common weale: Their labours restlesse to maintaine their states: Their</l><l>
+                           Hexa-gonia no Be-za-leell, for curious Art may passe, or imitate. One Sov'raign and but</l><l>
+                           one commands this people loyall, the great Marpese with plenty blest of issue roy-all: An-to-o-pe.</l><l>
+                           and Ori-thyia faire, With o-ther PRinces hir In-fantaes are.</l>
+                       </lg>
+                       
+                       <lg type="verse" n="3">
+                           <l>II To whose grave accents if hir Princely Grace</l><l>
+                           Vouchsafe with Trine Aspect reply to make,</l><l>
+                           To sweetest Treble tuning sweeter Base;</l><l>
+                           Hir mournefull suit a joyfull end doth take:</l><l>
+                           And then, when fit time they espy</l><l>
+                           Some thousands strong</l><l>
+                           This Armie royall gallantly</l><l>
+                           Doth march along.</l><l>
+                           Harke, harke, me thinkes I heare in Notes of choice,</l><l>
+                           This fairest Ladies sweetest mournefull voice.</l>
+                       </lg>                       
+                   </lg>
+                               
                 
                 <pb n="L1v" />
+                   
+                   <lg xml:id="ch5musiccontratenorlyrics2">
+                       <head type="register">CONTRATENOR.</head>
+                       <lg type="verse" n="1">
+                           <l>But all this while she doth chant it alone, Most hum-bly begging in hir Do-rik straines,</l><l>
+                           Of hir deare Liege leave to be gone: But comfort none shee yet obtaines.</l>
+                       </lg>
+                       <lg type="verse" n="2">
+                           <l>Hir Mothers silence makes hir much to doubt, Hir Grace unto hir will this grace denie:</l><l>
+                           But still hir suite shee doth hold out, In hope as last to move pittie.</l>
+                       </lg>
+                       <lg type="verse" n="3">
+                           <l>The vulgar, when occas'on serves,</l><l>
+                               (This watch-word past) abroad doe hie:</l><l>
+                               Where, treading the Hey, right nimbly they prance,</l><l>
+                               Thus waiting their Prince in and out they trace:</l><l>
+                               Who come, these Maids the Morice dance</l><l>
+                               Along unto their resting-place.</l>
+                       </lg>
+                   </lg>
+                   
+                   <lg xml:id="ch5musicmeanelyrics2">
+                       <head type="register">MEANE.</head>
+                       <lg type="verse" n="1">
+                           <l>But all this while she doth chant it alone, Most humbly begging in hir Do-rik straines,</l><l>
+                           Of hir deare Liege leave to be gone, But comfort none she yet obtaines.</l>           
+                       </lg>
+                       <lg type="verse" n="2">
+                           <l>Hir Mothers silence makes her much to doubt, Hir Grace unto hir will this grace denie:</l><l>
+                               But still hir suite shee doth hold out, In hope at last to move pittie.</l>
+                       </lg>
+                       <lg type="verse" n="3">
+                           <l>Importunate Orithya now hath wonne</l><l>
+                               Hir sterne Queene-Mothers grant to hir desire:</l><l>
+                               For Joy, hir Sisters all as one</l><l>
+                               With cheerefull tones fill up the Quire.</l><l>
+                               These Ladies Musicall Consort assures</l><l>
+                               The Prince hir much-desired Sov'raigntie:</l>                           
+                       </lg>
+                   </lg>
                 
                 <pb n="L2r" />
                 
+                 
+                 <lg xml:id="ch5musicbassuslyrics2">
+                     <head type="register">BASSUS.</head>
+                     <lg type="verse" n="1">
+                             <l>But all this while shee doth chant it alone, Most hum-bly begging in hir Dorik straines,</l><l>
+                             Of hir deare Liege leave to be gone: But comfort none shee yet obtaines.</l>
+                     </lg>
+                     
+                     <lg type="verse" n="2">
+                         <l>Hir Mothers silence makes her much to doubt, Hir Grace un-to her will this grace deny</l><l>
+                             But still hir suit shee doth hold out, In hope at last to move pit-tie.</l>
+                     </lg>
+                     
+                     <lg type="verse" n="3">
+                         <note type="authorial" subtype="other" xml:id="ch5musnote1" place="inline"><hi>Sing this to the second Tune: and then end with the first verse of the first<lb /> 
+                             Song: repeating in either the two last Straines</hi>.</note>
+                         <l>Importunate Orithya now hath wonne</l><l>
+                         Hir sterne Queene-Mothers grant to hir desire:</l><l>
+                         For Joy, hir Sisters all as one</l><l>
+                         With cheerefull tones fill up the Quire.</l><l>
+                         These Ladies Musicall Consort assures</l><l>
+                         The Prince hir much-desired Sov'raighntie:</l>
+                     </lg>
+                 </lg>
+                   
+                  <lg xml:id="ch5musictenorlyrics2">
+                      <head type="register">TENOR.</head>
+                      <lg type="verse" n="1">
+                          <l>But all this while shee doth chant it alone, Most humbly begging in hir Do-rik straines,</l><l>
+                          Of hir deare Liege leave to be gone: But comfort none shee yet obtaines.</l>
+                      </lg>
+                      <lg type="verse" n="2">
+                          <l>Hir Mothers silence makes her much to doubt, Hir Grace unto her will this grace denie:</l><l>
+                              But still hir suit shee doth hold out, In hope at last to move pittie.</l>
+                      </lg>
+                      <lg type="verse" n="3">
+                          <note type="authorial" subtype="other" xml:id="ch5musnote2" place="inline"><hi>Sing this to the second Tune: and then end with the first verse of the first<lb />
+                              Song: repeating in either the two last Straines.</hi></note>
+                              <l>The vulgar, when occas'on serves,</l><l>
+                              (This watch-word past) abroad doe hie,</l><l>
+                              Where treading the Hey, right nimbly they prance,</l><l>
+                              Thus waiting their Prince in and out they trace:</l><l>
+                              Who come, these Maids the Morice dance,</l><l>
+                              Along unto their resting-place.</l>
+                      </lg>
+                  </lg></lg>
+              
+
+                
+                </lem><rdg wit="#b1609" /></app>
                 <pb n="L2v" />
                 <fw type="header"> Of the Swarming of Bees, </fw>
                 <p xml:id="ch5par39"><note type="authorial" subtype="summary" xml:id="ch5sumn33">33. <seg rend="italic">Before swarming the voices come downe to the stoole. </seg></note> In the morning
