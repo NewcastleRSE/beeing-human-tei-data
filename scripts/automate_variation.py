@@ -165,16 +165,24 @@ def append_hi_summary_notes(tree, ns):
     # refs
     refs = tree.findall(".//TEI:ref", ns)
     for el in refs:
+        el.text
         text = el.text
-        el.text = ''
         if text:
-            for char in text:
-                if char.isdigit():
-                    digitEl = ET.SubElement(el, 'seg', {'rend': 'normal'})
-                    digitEl.text = char
-                else:
-                    alphaEl = ET.SubElement(el, 'seg', {'rend': 'italic'})
-                    alphaEl.text = char
+            # find out if the ref element has children (i.e.,  a <term> for example)
+            if len([elem.tag for elem in el.iter() if elem is not el]) > 0:
+                # currently this should only affect one element so the formatting for that element will be hardcoded
+                print('I affect' , el.text);
+                continue
+            else:
+                # default behaviour: each character is formatted individually
+                el.text = ''
+                for char in text:
+                    if char.isdigit():
+                        digitEl = ET.SubElement(el, 'seg', {'rend': 'normal'})
+                        digitEl.text = char
+                    else:
+                        alphaEl = ET.SubElement(el, 'seg', {'rend': 'italic'})
+                        alphaEl.text = char
     
     
 
