@@ -5449,13 +5449,21 @@
                         <lem wit="#b1623">tenth or eleventh</lem>
                         <rdg wit="#b1609" source="1609.xml#ch5ancs48 1609.xml#ch5ance48">ninth, tenth, or eleventh</rdg>
                     </app>, the next Prince, when she perceiveth a competent number to be fledge and
-                    readie, beginneth <app type="minor" subtype="change">
+                    readie, <ref xml:id="ch5edSoundExpAtt" type="attachment" target="#ch5eSoundNoteTest">beginneth <app type="minor" subtype="change">
                         <lem wit="#b1623">to tune in hir treble voice a mournefull and</lem>
                         <rdg wit="#b1609" source="1609.xml#ch5ancs49 1609.xml#ch5ance49">the musick in a</rdg>
                     </app> begging <app type="vocabulary" subtype="change">
                         <lem wit="#b1623">note,</lem>
                         <rdg wit="#b1609" source="1609.xml#ch5ancs50 1609.xml#ch5ance50">tune;</rdg>
-                    </app> as if she did pray hir Queene-mother to let them goe. <app type="minor" subtype="change">
+                    </app></ref><note xml:id="ch5eSoundNoteTest" type="editorial" subtype="gloss">
+                        <figure>
+                            <graphic url="media/images/test_image.png" />
+                            <figDesc>The modern transcription of tooting</figDesc>
+                        </figure>
+                        <media mimeType="audio/mp3" url="media/sound/Testsoundannotation.mp3">
+                            <desc>A rendition of tooting</desc>
+                        </media>
+                        This is the content of the note</note> as if she did pray hir Queene-mother to let them goe. <app type="minor" subtype="change">
                         <lem wit="#b1623">Unto which voice if the Queene vouchsafe to reply,</lem>
                         <rdg wit="#b1609" source="1609.xml#ch5ancs51 1609.xml#ch5ance51">whereunto if she yeeld consent by hir answering</rdg>
                     </app>
