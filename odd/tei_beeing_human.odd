@@ -1120,7 +1120,7 @@
 
           <!-- required core elements (p and title for use in titleStmt) -->
           <moduleRef key="core"
-            include="p title date note biblStruct bibl ref abbr list item foreign q quote graphic head pb respStmt author name resp pubPlace imprint publisher monogr hi cit lb term gloss lg l ptr cb emph listBibl"/>
+            include="p title date note biblStruct bibl ref abbr list item foreign q quote graphic head pb respStmt author name resp pubPlace imprint publisher monogr hi cit lb term gloss lg l ptr cb emph listBibl media desc"/>
 
           <!-- required textstructure elements (TEI, text, and body) -->
           <moduleRef key="textstructure"

@@ -5460,6 +5460,9 @@
                             <graphic url="media/images/test_image.png" />
                             <figDesc>The modern transcription of tooting</figDesc>
                         </figure>
+                        <media mimeType="audio/mp3" url="media/sound/Testsoundannotation.mp3">
+                            <desc>A rendition of tooting</desc>
+                        </media>
                         This is the content of the note</note> as if she did pray hir Queene-mother to let them goe. <app type="minor" subtype="change">
                         <lem wit="#b1623">Unto which voice if the Queene vouchsafe to reply,</lem>
                         <rdg wit="#b1609" source="1609.xml#ch5ancs51 1609.xml#ch5ance51">whereunto if she yeeld consent by hir answering</rdg>
