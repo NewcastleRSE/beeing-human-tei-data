@@ -695,16 +695,14 @@
               </list>
             </div>
             <div xml:id="encNotesEd">
-              <head>Editorial Notes</head>
-              <p>Currently, there is only one type of editorial notes, although this type is
-                reserved for later use for annotation. Editorial notes are used to mark places that
-                need double checking, or are missing transcriptions. In addition to <att>type</att>
-                being <val>editorial</val>, they must have a <att>subtype</att> of either
-                  <val>check</val> or <val>other</val>. They can also have a <att>cert</att>
-                attribute with a value of <val>check</val> or a value of confidence in
-                transcription. These notes should be deleted once they have been double-checked and
-                confirmed, and if any doubt to the certainty of the transcription remains, that
-                should be marked out differently.</p>
+              <head>Editorial Notes for internal use</head>
+              <p>Editorial notes are used to mark places that need double checking, or are missing
+                transcriptions. In addition to <att>type</att> being <val>editorial</val>, they must
+                have a <att>subtype</att> of either <val>check</val> or <val>other</val>. They can
+                also have a <att>cert</att> attribute with a value of <val>check</val> or a value of
+                confidence in transcription. These notes should be deleted once they have been
+                double-checked and confirmed, and if any doubt to the certainty of the transcription
+                remains, that should be marked out differently.</p>
               <label>Example:</label>
               <egXML xmlns="http://www.tei-c.org/ns/Examples">
                 <note type="editorial" subtype="other" cert="check" xml:id="check1">Greek
@@ -717,6 +715,30 @@
                   ana="Should we regularise the I to J silently in this case? -- Tiago"
                   xml:id="check3">J for June, <hi>J</hi> for July</note>
               </egXML>
+            </div>
+            <div xml:id="encNotesEdGloss">
+              <head>Editorial notes for glosses / annotation</head>
+              <p>These are the editorial notes that, for a given textual passage, would provide a
+                gloss, or any other kind of further information.</p>
+              <p>The big difference between these editorial notes and any other kind is that they
+                must <emph>not</emph> surround the text. Instead, a <tag>ref</tag> element with an <att>xml:id</att> should mark the attachement point in the text, which could vary from a single word to entire paragraphs. The <att>xml:id</att> of the <tag>ref</tag> should be in the format <eg>chXednattY</eg> where 'X' is chapter number, and 'Y' is the sequential number of attachment point. The <tag>ref</tag> <emph>must</emph> have a <att>type</att> with the value <val>attachment</val>. It must also have a <att>target</att> pointing to the <att>xml:id</att> of the note itself.</p>
+<p>The note itself can, technically, be placed anywhere, but it is good practice to place it close to its attachment point, either immediately following it or at a place where it would minimise its disruption of the flow of the text, for example, at the end of  a sentence or a pragraph. The note is encoded using a <tag>note</tag> element with a <att>type</att> <val>editorial</val> and a <att>subtype</att> <val>gloss</val> or <val>other</val>. The note <emph>must</emph> have a <att>xml:id</att> which should follow the usual format, <eg>chXednoteY</eg>, in which X is the chapter number and Y is the sequential number for the note of that type.</p>
+              <p>The note can contain both text or other media. For how to encode other types of media, see <ref target="#encFig">Encoding Figures and Diagrams</ref> or <ref target="#encSound">Encoding sound</ref>. A complete example of how to encode an editorial gloss note is as follows:</p>
+            <egXML xmlns="http://www.tei-c.org/ns/Examples">
+              <p>... the next Prince, when she perceiveth a competent number to be fledge and
+              readie, <ref xml:id="ch5edSoundExpAtt" type="attachment" target="#ch5eSoundNoteTest">beginneth to tune in hir treble voice a mournefull and 
+               begging note,</ref>
+                <note xml:id="ch5eSoundNoteTest" type="editorial" subtype="gloss">
+                <figure>
+                  <graphic url="media/images/test_image.png"/>
+                  <figDesc>The modern transcription of tooting</figDesc>
+                </figure>
+                <media mimeType="audio/mp3" url="media/sound/Testsoundannotation.mp3">
+                  <desc>A rendition of tooting</desc>
+                </media>
+                This is the content of the note
+                </note> as if she did pray hir Queene-mother to let them goe.</p>
+            </egXML>
             </div>
           </div>
           <div xml:id="encBibl">
@@ -830,16 +852,27 @@
           </div>
           <div xml:id="encFig">
             <head>Figures and Diagrams</head>
-            <p>Figures and diagrams currently only have their position marked in the text, and need
-              further encoding down the line. The basic structure is as follows:</p>
+            <p>Figures and diagrams should be encoded with a <tag>figure</tag> element, containing a <tag>graphic</tag> element and a <tag>figDesc</tag> element. The image files themselves should be placed inside the <code>media/images</code> folder of the <ref target="https://github.com/NewcastleRSE/beeing-human-tei-data">beeing-human-tei-data</ref> repository.</p>
+            <p>The <tag>graphic</tag> should contain a <att>url</att> pointing to the graphic file, such as <val>media/images/FileName.jpg</val></p>
+            <p>The <tag>figDesc</tag> element should contain text captioning the content of the image.</p>
+            <p>A complete example is as follows:</p>
             <egXML xmlns="http://www.tei-c.org/ns/Examples">
               <figure>
-                <figDesc>DIAGRAM</figDesc>
-                <graphic url="#"/>
+                <graphic url="media/images/test_image.png"/>
+                <figDesc>The modern transcription of tooting</figDesc>
               </figure>
             </egXML>
-            <p>In the future, they will be able to point towards a graphic of the diagram (either a
-              photo of the original or a redrawn diagram) and display it in the text.</p>
+          </div>
+          <div xml:id="encSound">
+            <head>Sound</head>
+            <p>Sound is encoded similarly to <ref target="#encFig">figures</ref>. The sound file should be placed inside the <code>media/sound</code> folder of the <ref target="https://github.com/NewcastleRSE/beeing-human-tei-data">beeing-human-tei-data</ref> repository. The place where the sound should be played is encoded by the <tag>media</tag> element which must have a <att>mimeType</att> attribute of <val>audio/mp3</val> (changing depending on the file type), and a <att>url</att> attribute pointing to the sound file, <val>media/sound/FileName.mp3</val></p>
+            <p>The <tag>media</tag> element should also contain a <tag>desc</tag> attribute with a textual description of the sound.</p>
+            <p>A complete example of encoded sound is as follows: </p>
+            <egXML xmlns="http://www.tei-c.org/ns/Examples">
+              <media mimeType="audio/mp3" url="media/sound/Testsoundannotation.mp3">
+                <desc>A rendition of tooting</desc>
+              </media>
+            </egXML>
           </div>
         </div>
         <div xml:id="encVar">
