@@ -5358,12 +5358,12 @@
             <pb n="I3r"/>
             <div type="chapter" n="5" xml:id="ch5">
                 <head type="chapter-number">CHAP. V</head>
-                <head type="chapter-title"><ref xml:id="ch5ednt1" type="marginal" source="OED" target="#ch5defn1">Of the Swarming of Bees</ref>, and the<lb/>
-                    <hi rend="opposite">Hiving of them.</hi></head><note xml:id="ch5defn1" type="editorial" subtype="gloss"><hi>Swarming of Bees]</hi> ‘Of bees: To gather in a compact cluster and leave the hive in
+                <head type="chapter-title"><ref xml:id="ch5ednatt1" type="attachment" target="#ch5ednote1">Of the Swarming of Bees</ref>, and the<lb/>
+                    <hi rend="opposite">Hiving of them.</hi></head><note xml:id="ch5ednote1" type="editorial" subtype="gloss" resp="JR" source="OED">‘Of bees: To gather in a compact cluster and leave the hive in
                         a body to found a new colony’ (v.1, OED 1a). See next annotation for a longer entry on
                         Swarming.</note>
                 <p xml:id="ch5par1"><note type="authorial" subtype="summary" xml:id="ch5sumn1">1.
-                    The parts of <ref xml:id="ch5ednt2" type="marginal" source="JR" target="#ch5depthn1">a swarme.</ref></note><note xml:id="ch5depthn1" type="editorial" subtype="summary"><hi>Swarming</hi>
+                    The parts of <ref xml:id="ch5edatt2" type="attachment" target="#ch5ednote2">a swarme.</ref></note><note xml:id="ch5ednote2" type="editorial" subtype="gloss" resp="JR"><hi>Swarming</hi>
                         Swarming is a natural process by which honeybees protect and grow their
                         communities. It usually begins in the early summer—May, June, sometimes
                         July—as the hive fills up and food outside becomes readily available. The f
