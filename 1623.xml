@@ -5359,11 +5359,22 @@
             <div type="chapter" n="5" xml:id="ch5">
                 <head type="chapter-number">CHAP. V</head>
                 <head type="chapter-title"><ref xml:id="ch5ednatt1" type="attachment" target="#ch5ednote1">Of the Swarming of Bees</ref>, and the<lb/>
-                    <hi rend="opposite">Hiving of them.</hi></head><note xml:id="ch5ednote1" type="editorial" subtype="gloss" resp="JR" source="OED">‘Of bees: To gather in a compact cluster and leave the hive in
+                    <hi rend="opposite"><ref xml:id="ch5ednatt3" type="attachment" target="#ch5ednote3">Hiving</ref> of them.</hi></head><note xml:id="ch5ednote1" type="editorial" subtype="gloss" resp="JR" source="OED">‘Of bees: To gather in a compact cluster and leave the hive in
                         a body to found a new colony’ (v.1, OED 1a). See next annotation for a longer entry on
-                        Swarming.</note>
+                        Swarming.</note><note xml:id="ch5ednote3" type="editorial" subtype="gloss" resp="JR" source="Many">Hives (or skeps) at this time were ‘baskets placed open-end-down’, made
+                            from wicker or straw; they had no internal structure, so the colony had to ‘produce
+                            its own honeycomb, which is attached to the inside of the skep’. Skeps have ‘two
+                            disadvantages: beekeepers cannot inspect the comb for diseases and pests, and
+                            honey removal is not easy–often resulting in the destruction of the entire colony’
+                            (<ref xml:id="ch5edlink1" type="link" target="#http://galwaybeekeepers.com/skeps/">Galway beekeepers</ref>). This explains why the bee song of CHAP. V is so
+                            meaningful in FM (1623). Listening is Butler’s only way into the hive to audit,
+                            rather than observe, the bees and to study their behaviour inside it. Butler
+                            compares wicker and straw hives in CHAP. III. He prefers hive to be made of
+                            straw, and proposes they should be in the shape of a ‘Sphaere or Globe’. Both
+                            types need to be kept covered because water ‘maketh them musty, and [...] rotteth
+                            the combes and destroyeth the Bees’ (III.1-4).</note>
                 <p xml:id="ch5par1"><note type="authorial" subtype="summary" xml:id="ch5sumn1">1.
-                    The parts of <ref xml:id="ch5edatt2" type="attachment" target="#ch5ednote2">a swarme.</ref></note><note xml:id="ch5ednote2" type="editorial" subtype="gloss" resp="JR">
+                     The parts of <ref xml:id="ch5ednatt2" type="attachment" target="#ch5ednote2">a swarme.</ref></note><note xml:id="ch5ednote2" type="editorial" subtype="gloss" resp="JR">
                         Swarming is a natural process by which honeybees protect and grow their
                         communities. It usually begins in the early summer—May, June, sometimes
                         July—as the hive fills up and food outside becomes readily available. The f
@@ -5389,9 +5400,10 @@
                         relinquishing the food resources in the hive, or remain—a riskier path for her to
                         take because she will need ‘to kill all her deadly serious competitors’ (Seeley
                         2010: 39-42).</note>
-                    <hi rend="drop-capital">T</hi>HE stocks having bred and filled their Hives doe
+                    <hi rend="drop-capital">T</hi>HE <ref xml:id="ch5ednatt4" type="attachment" target="#ch5ednote4">stocks</ref> having bred and filled their Hives doe
                     send forth swarmes. A swarme doth consist of all such parts as the stocke doth:
-                    namely of a Queene-bee, Honie-bees as well old as young, and Drone-bees. </p>
+                    namely of a Queene-bee, Honie-bees as well old as young, and Drone-bees. <note xml:id="ch5ednote4" type="editorial" subtype="gloss" resp="JR" source="OED"><hi>stocks]</hi> swarms of bees (n.1, OED 41); presumably also a noun for a cluster of
+                        bees.</note></p>
                 <p xml:id="ch5par2"><note type="authorial" subtype="summary" xml:id="ch5sumn2">2.
                         When you may see the Queene-Bee.</note> If any man desire to see the Queene,
                     he hath now opportunitie, when she goeth forth with hir swarme: <app
@@ -5402,7 +5414,7 @@
                             </note></lem>
                         <rdg wit="#b1609"><ptr target="1609.xml#ch5ancs1x 1609.xml#ch5ance1x"
                             /></rdg>
-                    </app> and dead ones hee may finde many before the stooles, when the stocks have
+                    </app> and dead ones hee may finde many before the <ref xml:id="ch5ednatt5" type="attachment" target="#ch5ednote5">stooles,</ref><note xml:id="ch5ednote5" type="editorial" subtype="gloss" resp="JR" source="OED"><hi>>stooles]</hi> stands of a beehive. Obsolete. (OED 10b).</note> when the stocks have
                     cast their last swarmes, <app type="reference" subtype="change">
                         <lem wit="#b1623"><ref target="#ch5bibln2">v.</ref>
                             <note type="authorial" subtype="bibliographic" xml:id="ch5bibln2">
@@ -5413,7 +5425,7 @@
                     </app> and also when many meet in one swarme. <ref target="#ch1sumn7"
                         >v.c.1.n7</ref>. <app type="minor" subtype="add">
                         <lem wit="#b1623">But then, being dead and shrunke together by the force of
-                            the poison, they lose much of their stature and comlinesse.</lem>
+                            the poison, they lose much of their stature and <ref xml:id="ch5ednatt6" type="attachment" target="#ch5ednote6">comlinesse.</ref><note xml:id="ch5ednote6" type="editorial" subtype="gloss" resp="OS" source="OED"><hi>comliness]</hi> attractiveness, beauty (OED 1)</note></lem>
                         <rdg wit="#b1609"/>
                     </app></p>
                 <p xml:id="ch5par3"><note type="authorial" subtype="summary" xml:id="ch5sumn3">3.
