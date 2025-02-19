@@ -4110,7 +4110,7 @@
                     swarme, as soone as they are hived, put them backe to the stocke, <ref
                         target="#ch5sumn11"> v.c.5.n.11.</ref></p>
                 <p xml:id="ch3par61">Also reare the swarmes that being under-hived doe lie forth,
-                    with bolsters of that thicknesse that may but let in the Bees. </p>
+                    with <ref xml:id="ch5ednatt41" type="attachment" target="#ch5ednote41">bolsters</ref><note xml:id="ch5ednote41" type="editorial" subtype="gloss" resp="JR" source="OED">bolsters] props or supports, from the verb ‘to bolster’ (OED).</note> of that thicknesse that may but let in the Bees. </p>
                 <p xml:id="ch3par62"><note type="authorial" subtype="summary" xml:id="ch3sumn42">42.
                             <term>LEO</term>.</note> In <term> Leo</term>, or presently after the
                     last swarme, kill the Drones, of those stalls you meane to take, with a
@@ -4147,7 +4147,7 @@
                     fit their Hives: those that have not now wrought downe within a handfull of the
                     stoole, if you meane to keep them (to the end they may lye warme the Winter
                     following, and be ready at the doores to keepe out robbers) cut off so much of
-                    the skirts as will serve the turne (the bigger the Hive is, the more you may
+                    the <ref xml:id="ch5ednatt36" type="attachment" target="#ch5ednote36">skirts</ref><note xml:id="ch5ednote36" type="editorial" subtype="gloss" resp="JR" source="OED"><hi>skirts]</hi> bases of a bell or beehive (OED 4b).</note> as will serve the turne (the bigger the Hive is, the more you may
                     lessen him) and so set him downe, cut a Summer-doore <ref target="#ch3bibln26"
                         >v:</ref><note type="authorial" subtype="bibliographic" xml:id="ch3bibln26">
                         <ref target="#ch3sumn28"> V.n. 28.</ref>
@@ -5646,14 +5646,14 @@
                 </p>
                 <note type="authorial" subtype="gloss" place="inline" xml:id="ch5glon4"><app
                         type="minor" subtype="add">
-                        <lem wit="#b1623">Note heere that in the Heath-countrie, swarmes are usually
+                    <lem wit="#b1623">Note heere that in the <ref xml:id="ch5ednatt22" type="attachment" target="#ch5ednote22">Heath-countrie</ref>,<note xml:id="ch5ednote22" type="editorial" subtype="gloss" resp="JR" source="OED"><hi>Heath-countrie]</hi> open uncultivated ground (heath, OED 1a).</note> swarmes are usually
                             lateward, namely in the latter part of <term> Cancer</term> and the
                             forepart of <term>Leo:</term> which some yeeres prove better than the
                             rathe.</lem>
                         <rdg wit="#b1609"/>
                     </app>
                 </note>
-                <p xml:id="ch5par11">Those that swarme before the blowing of knap-weed, come in very
+                <p xml:id="ch5par11">Those that swarme before the <ref xml:id="ch5ednatt23" type="attachment" target="#ch5ednote23">blowing</ref><note xml:id="ch5ednote23" type="editorial" subtype="gloss" resp="JR" source="OED"><hi>blowing]</hi> blossoming (v.2, OED 1a).</note> of knap-weed, come in very
                     good time: before the blowing of blackberies, <app type="reference"
                         subtype="add">
                         <lem wit="#b1623"><ref target="#ch5bibln13">v.</ref></lem>
@@ -5699,7 +5699,8 @@
                             easily doe, so soone as they are hived, by knocking them downe upon a
                             table close to the doore: their fellowes that are behinde will soone be
                             in with them. And if they rise againe, serve them so till they cease.
-                            But if you spie them rising before the Queene be come forth; shut them
+                            But <ref xml:id="ch5ednatt25" type="attachment" target="#ch5ednote25">if you spie them</ref><note xml:id="ch5ednote25" type="editorial" subtype="gloss" resp="OS" source="context"><hi>if you spie them]</hi> Butler underscores the attentiveness required from the
+                                beekeeper.</note> rising before the Queene be come forth; shut them
                             in a while, and that will stay them.</lem>
                         <rdg wit="#b1609"/>
                     </app></p>
@@ -5707,7 +5708,7 @@
                 <pb n="I4v"/>
                 <fw type="header"> Of the Swarming of Bees, </fw>
                 <p xml:id="ch5par12"><note type="authorial" subtype="summary" xml:id="ch5sumn12">12.
-                        A prime swarme and an after-swarme<app type="vocabulary" subtype="del">
+                    <ref xml:id="ch5ednatt26" type="attachment" target="#ch5ednote26">A prime swarme and an after-swarme</ref><note xml:id="ch5ednote26" type="editorial" subtype="gloss" resp="JR" source="summary"><hi>prime swarme, and an after-swarme]</hi> first and second swarm</note><app type="vocabulary" subtype="del">
                             <lem wit="#b1623"/>
                             <rdg wit="#b1609"><ptr target="1609.xml#ch5ancs14x 1609.xml#ch5ance14x"
                                 /></rdg>
@@ -5765,8 +5766,15 @@
                         grounds.</note> The choice of the time when the first colonies, or
                     prime-swarmes shall goe forth, the rulers referre unto the commons: who by
                     reason of their continuall travell and businesse both without and within, doe
-                    best know when all things are readie and fit for them: First within they will
-                    be sure that they have a Prince ready to goe with them: for without a Governour
+                    best know when all things are readie and fit for them: <ref xml:id="ch5ednatt27" type="attachment" target="#ch5ednote27">First within they will
+                        be sure that they have a Prince ready to goe with them</ref><note xml:id="ch5ednote27" type="editorial" subtype="gloss" resp="VN" source="scholarship"><hi>First within they will be sure that they have a Prince ready to goe with them]</hi>
+                            In theory drones should prefer to stay in the already established colony. In
+                            practice the percentage of drones in swarms can be very variable. (Ratneiks F, &amp;
+                            
+                            Miller DG. ‘Division of honey bee drones during swarming’. Animal behaviour
+                            46 (1993): 803-805; Avitabile, A., &amp; Kasinskas, J. R. (1977). The drone
+                            population of natural honeybee swarms. Journal of Apicultural Research, 16(3),
+                            145-149.</note>: for without a Governour
                     they will not be, <app type="reference" subtype="add">
                         <lem wit="#b1623"><ref target="#ch5bibln15"> v.</ref>
                             <note type="authorial" subtype="bibliographic" xml:id="ch5bibln15">
@@ -5775,15 +5783,29 @@
                             </note></lem>
                         <rdg wit="#b1609"/>
                     </app> Then that their Hive be full, so that it may be divided at the least into
-                    two or three sufficient companies: one to remaine with <term><app
+                    two or three sufficient companies: <ref xml:id="ch5ednatt29" type="attachment" target="#ch5ednote29">one to remaine with <term><app
                             type="ortographic" subtype="change">
                             <lem wit="#b1623">Marpesia</lem>
                             <rdg wit="#b1609"><ptr target="1609.xml#ch5ancs18x 1609.xml#ch5ance18x"
                                 /></rdg>
-                        </app></term> the old Queene, an other to go forth with <term>
-                        Antiope</term> the Prince, and a third haplie, which, together with the
-                    unripe brood in the celles, may make an other swarme to serve
-                        <term>Orythia</term>. Without likewise they will see, first that the flowers
+                    </app></term>the old Queene, an other to go forth with <term>
+                        Antiope</term> the <ref xml:id="ch5ednatt28" type="attachment" target="#ch5ednote28">Prince</ref>,<note xml:id="ch5ednote28" type="editorial" subtype="gloss" resp="OS" source="OED"><hi>Prince]</hi> This word could also be applied to a female sovereign (OED l.1.b.)</note> and a third haplie, which, together with the
+                        unripe brood in the celles, may make an other swarme to serve
+                        <term>Orythia</term>. </ref><note xml:id="ch5ednote29" type="editorial" subtype="gloss" resp="JR" source="context">Butler’s
+                        comparison of the virgin queens to mythical Amazon queens is introduced in
+                        CHAP. IIII. 25. Martesia was the first queen, and she was succeeded by h
+                        daughter, Orithyia, who ruled with her sister, Antiope. Butler’s source is Justin,
+                        Epitome of Pompeius Trogus, 2. Justin tells the story of how their fame as warriors
+                        caught the attention of the king of Athens, Theseus, who then ordered the
+                        strongman Hercules to bring him the weapons of the Amazonian queen. Together
+                        they led an attack on Antiope (Orithyia was away on another campaign). Not
+                        expecting an attack, the Amazons were taken by surprise, and many of them were
+                        killed, or captured, including two of Antiope’s sisters, Menalippe (taken by
+                        Hercules) and Hippolyta (taken by Theseus). Butler does not recount this story.
+                        Instead, he recalls the Amazons’ Scythian origins and their familial relationships;
+                        then he explains the new simile he uses: the female bees are warlike like the
+                        Amazons, and, like them, they kills all males. He concludes that they are rightly
+                        called Aeorpata, a Latin transliteration of the Greek [fill], meaning killers of men.</note> Without likewise they will see, first that the flowers
                     be in state presentlie to furnish them with store of wax and hony: then that the
                     weather do please them, as being warme and calme, &amp; moist: unlesse, being
                     continually unseasonable, they have no choice. <app type="reference"
@@ -5793,7 +5815,8 @@
                     </app></p>
                 <p xml:id="ch5par15"><note type="authorial" subtype="summary" xml:id="ch5sumn17">17.
                         Five signes of the first swarming.</note> When the Hives begin to be full,
-                    they will dronie, or yeeld forth fledge-drones: <app type="reference"
+                    they will <ref xml:id="ch5ednatt30" type="attachment" target="#ch5ednote30">dronie</ref>,<note xml:id="ch5ednote30" type="editorial" subtype="gloss" resp="OS" source="OED"><hi>dronie]</hi> Characterized by a continuous
+                        steady deep humming or buzzing sound, or a monotonous, dull tone. (OED adj.2)</note> or yeeld forth fledge-drones: <app type="reference"
                         subtype="add">
                         <lem wit="#b1623"><ref target="#ch5bibln16">v.</ref>
                             <note type="authorial" subtype="bibliographic" xml:id="ch5bibln16"><ref
@@ -5801,7 +5824,9 @@
                         <rdg wit="#b1609"/>
                     </app> which is a signe that the first <fw type="catch"> brood</fw>
                     <pb n="K1r"/>
-                    <fw type="header"> and the Hiving of them. </fw> brood of nymphes have beene a
+                    <fw type="header"> and the Hiving of them. </fw> brood of <ref xml:id="ch5ednatt31" type="attachment" target="#ch5ednote31">nymphes</ref><note xml:id="ch5ednote31" type="editorial" subtype="gloss" resp="JR" source="OED">In zoology, insect larvae (OED 3a). Given his anthropomorphism, and
+                        his use of this term later in this chapter, Butler likely also has in mind the meaning
+                        of maiden, a damsel (OED 2b).</note> have beene a
                     good while flying abroad, and are now able to endure both weather and
                         labour.<app type="reference" subtype="del">
                         <lem wit="#b1623"/>
@@ -5877,7 +5902,7 @@
                         <lem wit="#b1623"/>
                         <rdg wit="#b1609"><ptr target="1609.xml#ch5ancs25 1609.xml#ch5ance25"
                             /></rdg>
-                    </app> Doore, or to lie forth a little now and then in foggie or sultrie
+                </app> Doore, or to <ref xml:id="ch5ednatt32" type="attachment" target="#ch5ednote32">lie forth</ref><note xml:id="ch5ednote32" type="editorial" subtype="gloss"><hi>lie forth]</hi> ‘Of bees. To settle outside the hive’. Obsolete (OED).</note> a little now and then in foggie or sultrie
                     mornings and evenings, (which is because then they are most offended by heat
                     within, and can best indure the aire abroad) and otherwise to go in againe, is a
                     signe that the Hive is full, and therefore <app type="vocabulary"
@@ -5895,7 +5920,7 @@
                             /></rdg>
                     </app>. For the Bees, knowing by nature that the greatest companies doe prosper
                     best, untill they finde themselves so pestred with heat and throng of
-                    multitudes, that the Hive can scarce hold any more, will have no mind to swarme:
+                    multitudes, that the Hive can scarce hold any more, <ref xml:id="ch5ednatt34" type="attachment" target="#ch5ednote34">will have no mind to swarme</ref>:<note xml:id="ch5ednote34" type="editorial" subtype="gloss" resp="OS" source="context"><hi>will have no mind to swarm]</hi> Sometimes, the bees are characterised as having a collective mind, but at other times individual minds (as per below in 20) ‘their minds are so set’.</note>
                     and when they have once taken to lie forth, the hive will alwaies seem empty, as
                     though they wanted company. </p>
                 <p xml:id="ch5par19"><app type="major" subtype="add">
@@ -5919,8 +5944,9 @@
                                 Solstice) but for Butler, who is using the old calendar (reformed 1752), 31 June.</note> which causing plentie of
                             hony both in plants and dewes, their mindes are so set upon that their
                             chiefe delight; </lem><rdg wit="#b1609"></rdg></app></p><p><app type="major" subtype="add"><lem wit="#b1623"><quote>
-                                <foreign xml:lang="la">(Tantus amor florum, &amp; generandi gloria
-                                    mellis)</foreign>
+                                <ref xml:id="ch5ednatt35" type="attachment" target="#ch5ednote35"><foreign xml:lang="la">(Tantus amor florum, &amp; generandi gloria
+                                    mellis)</foreign></ref><note xml:id="ch5ednote35" type="editorial" subtype="gloss" resp="JR" source="translation"><hi>Tantus amor florum, &amp; generandi gloria mellis]</hi> Lat. ‘so deep is their love of flowers and their glory in begetting honey’ (Virgil, Georgics, 4.205).
+                                    </note>
                                 <note type="authorial" subtype="bibliographic" xml:id="ch5bibln18">
                                     <bibl>Virg.</bibl>
                                 </note>
@@ -5931,10 +5957,11 @@
                         <rdg wit="#b1609"/>
                     </app></p>
                 <p xml:id="ch5par21"><app type="major" subtype="add">
-                        <lem wit="#b1623">And when by continuance of such honie-weather they are
+                        <lem wit="#b1623"><ref xml:id="ch5ednatt36" type="attachment" target="#ch5ednote36">And when by continuance of such honie-weather they are
                             once sufficientlie provided, they will then be loth to leave the sweet
                             fruits of their labours, and to change their full store-houses for that
-                            which makes giddie House-wives. But if they have once begun a combe
+                            which makes giddie House-wives.</ref><note xml:id="ch5ednote36" type="editorial" subtype="gloss" resp="BH" source="context">This seems to be questioned by Whitehead, 1946, who writes “The amount of honey and pollen in the hive also has a bearing on swarming. If this is too much and it is stored in the brood chamber, the room for egg-laying is diminished and the bees make their preparations for an exodus” (Whitehead, 1946, p. 55)
+                            </note> But if they have once begun a combe
                             without where they lie, the matter is out of doubt. Whereas contrarily
                             in wet and scanty Summers, no weather will stay them from swarming as
                             soone as they are readie: although by that meanes (unlesse they be
@@ -5957,7 +5984,7 @@
                         <lem wit="#b1623"/>
                         <rdg wit="#b1609"><ptr target="1609.xml#ch5ancs28 1609.xml#ch5ance28"
                             /></rdg>
-                    </app><app type="vocabulary" subtype="add">
+                    </app><ref xml:id="ch5ednatt37" type="attachment" target="#ch5ednote37"><app type="vocabulary" subtype="add">
                         <lem wit="#b1623">First</lem>
                         <rdg wit="#b1609"/>
                     </app> keep the <app type="vocabulary" subtype="change">
@@ -5973,7 +6000,7 @@
                         <lem wit="#b1623">it standeth:</lem>
                         <rdg wit="#b1609"><ptr target="1609.xml#ch5ancs31 1609.xml#ch5ance31"
                             /></rdg>
-                    </app>
+                    </app></ref><note xml:id="ch5ednote37" type="editorial" subtype="gloss" resp="BH" source="context">Whitehead, in contrast, advocates airing and cooling of the hive in his Honeybees and Their Management, Faber and Faber, London, 1946: “Insufficient ventilation and a too-high temperature within the hive are both strengthening to the desire to swarm. They can be prevented by opening wide the entrance to the hive, and by reducing top packing over the frames to a minimum (p. 54)</note>
                     <app type="minor" subtype="change">
                         <lem wit="#b1623">and then enlarging the doore to give them aire (alwaies
                             provided that there be no backe-doore in the shadie parts of the Hive)
@@ -5994,10 +6021,11 @@
                             <fw type="header"> and the Hiving of them. </fw> no clouds comming to
                             hide it) put in the better part, at the least, of them that lie out,
                             with your Brush; and the rest gentlie sweep away from the stoole, not
-                            suffering any to cluster againe. These rising in the calme heat of the
+                            suffering any to cluster againe. <ref xml:id="ch5ednatt38" type="attachment" target="#ch5ednote38">These rising in the calme heat of the
                             Sunne, and flying about before the Hive, will make such a noyse, as if
                             they were swarming: which their fellowes hearing, will happlie come
-                            forth unto them, and so begin to swarme. </lem>
+                            forth unto them, and so begin to swarme.</ref><note xml:id="ch5ednote38" type="editorial" subtype="gloss" resp="BH" source="context">Butler believes that the bees who may be reluctant to swarm can be tricked into doing so by sound - we can probably assume this to be an error. It does, however intuitively, hint at the sense that what we hear as sound, and bees probably experience as “vibration”, is communicative, with a strong hint of sympathetic vibration which was significant in musical and metaphysical discourses of the time Butler was writing.
+                            </note> </lem>
                         <rdg wit="#b1609"/>
                     </app></p>
                 <p xml:id="ch5par24"><app type="major" subtype="add">
@@ -6083,7 +6111,7 @@
                         <lem wit="#b1623"><note type="authorial" subtype="summary"
                                 xml:id="ch5sumn24">24. How to double a stall.</note> The manner of
                             doubling a stall is this: Having first measured the Hive about in the
-                            largest place, provide a leere spleeted Hive of the same size and
+                            largest place, provide a <ref xml:id="ch5ednatt41" type="attachment" target="#ch5ednote41">leere spleeted Hive</ref><note xml:id="ch5ednote41" type="editorial" subtype="gloss" resp="JR" source="OED"><hi>leere spleeted Hive]</hi> empty (leer, adj.1, OED 1a) beehive, fitted with slips of wood (spleet, v.1, OED).</note> of the same size and
                             compasse: make ready also two square stickes 13. or 14. inches long; and
                             an inch thicke at one end, and halfe an inch at the other: these two <fw
                                 type="catch"> sticks</fw>
@@ -6650,8 +6678,8 @@
                     &amp; shriller notes, the mainie begins to march along; thronging one another
                     for haste, and buzzing with their winges in great jolitie.</p>
                 <p xml:id="ch5par41">As soone as these gallant Nymphs are aloft, they doe most
-                    nimbly bestirre themselves, sporting and playing in and out as if they were
-                    dancing the <app type="ortographic" subtype="change">
+                    nimbly bestirre themselves, sporting and <ref xml:id="ch5ednatt33" type="attachment" target="#ch5ednote33">playing in and out as if they were
+                        dancing</ref><note xml:id="ch5ednote33" type="editorial" subtype="gloss" resp="OS" source="context">Butler uses evocative words to describe the bees’ movement, using a freer vocabulary than is available in today’s science.</note> the <app type="ortographic" subtype="change">
                         <lem wit="#b1623">Hey</lem>
                         <rdg wit="#b1609"><ptr target="1609.xml#ch5ancs63 1609.xml#ch5ance63"
                             /></rdg>
@@ -7665,7 +7693,8 @@
                 <p xml:id="ch5par99"><app type="major" subtype="add">
                         <lem wit="#b1623">If none of these things bee done, but that swarmes doe
                             runne together in greater quantitie than a good Hive can conteine; then
-                            reare the Hive with bolsters high enough to let them all in: which, when
+                            reare the Hive with <ref xml:id="ch5ednatt40" type="attachment" target="#ch5ednote40">bolsters</ref><note xml:id="ch5ednote40" type="editorial" subtype="gloss" resp="JR" source="OED"><hi>bolsters]</hi> props or supports, from the verb ‘to bolster’ (OED).
+                            </note> high enough to let them all in: which, when
                             they have once swarmed, the <ref target="#ch5glon15">*</ref>next
                             Vindemie take away thus. </lem>
                         <rdg wit="#b1609"/>
@@ -9864,7 +9893,8 @@
                     doe well.</lem><rdg wit="#b1609"></rdg></app> </p>
                 <p xml:id="ch8par3"><note type="authorial" subtype="summary" xml:id="ch8sumn3">3.
                         The first sort.</note><app type="major" subtype="add"><lem wit="#b1623">Of the first sort are timely prime swarmes unbroken:
-                    also faire Castlings not over hived, before <term>Cancer</term>; yea and in
+                            also faire <ref xml:id="ch5ednatt24" type="attachment" target="#ch5ednote24">Castlings</ref><note xml:id="ch5ednote24" type="editorial" subtype="gloss" resp="JR" source="OED"><hi>castlings]</hi> second (or third) swarms which leaves a hive in the season (n.2 OED
+                                2).</note> not over hived, before <term>Cancer</term>; yea and in
                     kinde or backward Summers before <term> Mid-Cancer:</term> when the
                     black-bery-blossomes are not yet come, <ref target="#ch8bibln1">v.</ref>
                     <note type="authorial" subtype="bibliographic" xml:id="ch8bibln1">
@@ -9906,7 +9936,8 @@
                     this point by aime: which till you know to doe, the Scales may direct you. <note
                         type="authorial" subtype="summary" xml:id="ch8sumn8">8. What quantitie of
                         Hony is requisite.</note> For having taken the just weight of the Hive and
-                    all together, if, the fore-knowne weight of the leere spleeted Hive being
+                            all together, if, the fore-knowne weight of the <ref xml:id="ch5ednatt39" type="attachment" target="#ch5ednote39">leere spleeted Hive</ref><note xml:id="ch5ednote39" type="editorial" subtype="gloss" resp="JR" source="OED"><hi>leere spleeted Hive]</hi> empty (leer, adj.1, OED 1a) beehive, fitted with slips of wood (spleet, v.1, OED).
+                            </note> being
                     deducted, there remaine not fifteene pound in all, to <fw type="catch">
                         wit,</fw>
                     <pb n="S3r"/>
@@ -10454,7 +10485,7 @@
                         neere as may be one to another, and so let them stand together six or seaven
                         daies, til they be well acquainted with their standings; when you see the
                         weather being faire and constant, late in an evening, about ten a clocke,
-                        set the <term> Remover</term> fast on the ground in a Brake, <ref
+                        set the <term> Remover</term> fast on the ground in a <ref xml:id="ch5ednatt42" type="attachment" target="#ch5ednote42">Brake</ref>,<note xml:id="ch5ednote42" type="editorial" subtype="gloss" resp="JR" source="OED"><hi>Brake]</hi> framework intended to hold anything steady (n.6, OED 2a).</note> <ref
                             target="#ch10p1bibln13">v.</ref>
                         <note type="authorial" subtype="bibliographic" xml:id="ch10p1bibln13">
                             <ref target="#ch10p1sumn24"> V.c.n.24. </ref>
