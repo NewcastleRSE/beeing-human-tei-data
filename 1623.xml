@@ -5957,10 +5957,10 @@
                         <rdg wit="#b1609"/>
                     </app></p>
                 <p xml:id="ch5par21"><app type="major" subtype="add">
-                        <lem wit="#b1623"><ref xml:id="ch5ednatt36" type="attachment" target="#ch5ednote36">And when by continuance of such honie-weather they are
+                        <lem wit="#b1623"><ref xml:id="ch5ednatt36x" type="attachment" target="#ch5ednote36x">And when by continuance of such honie-weather they are
                             once sufficientlie provided, they will then be loth to leave the sweet
                             fruits of their labours, and to change their full store-houses for that
-                            which makes giddie House-wives.</ref><note xml:id="ch5ednote36" type="editorial" subtype="gloss" resp="BH" source="context">This seems to be questioned by Whitehead, 1946, who writes “The amount of honey and pollen in the hive also has a bearing on swarming. If this is too much and it is stored in the brood chamber, the room for egg-laying is diminished and the bees make their preparations for an exodus” (Whitehead, 1946, p. 55)
+                            which makes giddie House-wives.</ref><note xml:id="ch5ednote36x" type="editorial" subtype="gloss" resp="BH" source="context">This seems to be questioned by Whitehead, 1946, who writes “The amount of honey and pollen in the hive also has a bearing on swarming. If this is too much and it is stored in the brood chamber, the room for egg-laying is diminished and the bees make their preparations for an exodus” (Whitehead, 1946, p. 55)
                             </note> But if they have once begun a combe
                             without where they lie, the matter is out of doubt. Whereas contrarily
                             in wet and scanty Summers, no weather will stay them from swarming as
@@ -6111,7 +6111,7 @@
                         <lem wit="#b1623"><note type="authorial" subtype="summary"
                                 xml:id="ch5sumn24">24. How to double a stall.</note> The manner of
                             doubling a stall is this: Having first measured the Hive about in the
-                            largest place, provide a <ref xml:id="ch5ednatt41" type="attachment" target="#ch5ednote41">leere spleeted Hive</ref><note xml:id="ch5ednote41" type="editorial" subtype="gloss" resp="JR" source="OED"><hi>leere spleeted Hive]</hi> empty (leer, adj.1, OED 1a) beehive, fitted with slips of wood (spleet, v.1, OED).</note> of the same size and
+                            largest place, provide a <ref xml:id="ch5ednatt42" type="attachment" target="#ch5ednote42">leere spleeted Hive</ref><note xml:id="ch5ednote42" type="editorial" subtype="gloss" resp="JR" source="OED"><hi>leere spleeted Hive]</hi> empty (leer, adj.1, OED 1a) beehive, fitted with slips of wood (spleet, v.1, OED).</note> of the same size and
                             compasse: make ready also two square stickes 13. or 14. inches long; and
                             an inch thicke at one end, and halfe an inch at the other: these two <fw
                                 type="catch"> sticks</fw>
@@ -6145,7 +6145,8 @@
                 <p xml:id="ch5par29"><app type="major" subtype="add">
                         <lem wit="#b1623">These things thus prepared, your selfe standing on the
                             West side of the Brake, and your assistant on the same side of the
-                            stoole at your right hand, (both in your complete harnesse) <ref
+                            stoole at your right hand, (both in your complete <ref xml:id="ch5ednatt43" type="attachment" target="#ch5ednote43">harnesse</ref>)<note xml:id="ch5ednote43" type="editorial" subtype="gloss" resp="JR" source="OED"><hi>harnesse]</hi> protective clothing, perhaps after the body armour of a man-at-arms or foot-soldier (OED 2a).
+                            </note> <ref
                                 target="#ch5bibln22">v:</ref>
                             <note type="authorial" subtype="bibliographic" xml:id="ch5bibln22">
                                 <ref target="#ch1sumn40">v.c.1.n.40.</ref>
@@ -6161,13 +6162,15 @@
                                 you</fw>
                             <pb n="K3r"/>
                             <fw type="header"> and the Hiving of them. </fw> you put the long stake
-                            into his place againe. Then cloome the Hives together with rolles,
+                            into his place againe. Then <ref xml:id="ch5ednatt44" type="attachment" target="#ch5ednote44">cloome</ref><note xml:id="ch5ednote44" type="editorial" subtype="gloss" resp="JR" source="OED"><hi>cloome]</hi> plaster with mud (cloom) (v., OED).
+                            </note> the Hives together with rolles,
                             flatted, that none of the cloome fall in among the Bees, leaving open
                             the space betweene the sticks ends for the new doore of this double
-                            hive. Lastly put on the hackle, and gird both it and the long stakes to
+                            hive. Lastly put on the <ref xml:id="ch5ednatt45" type="attachment" target="#ch5ednote45">hackle</ref>,<note xml:id="ch5ednote45" type="editorial" subtype="gloss" resp="JR" source="OED"><hi>hackle]</hi> ‘conical straw cover used to protect a beehive from the weather. Now historical’ (n.1, OED3 3a).
+                            </note> and <ref xml:id="ch5ednatt46" type="attachment" target="#ch5ednote46">gird</ref><note xml:id="ch5ednote46" type="editorial" subtype="gloss" resp="JR" source="OED"><hi>gird]</hi> tie firmly (v.1, OED 5a).</note> both it and the long stakes to
                             the leere-hive, about the middle with a Belt, and about the top with a
-                            With. And so let them stand till after the end of the
-                                <term>Dog-daies</term>, when Bees are taken. <ref
+                            <ref xml:id="ch5ednatt47" type="attachment" target="#ch5ednote47">With</ref>.<note xml:id="ch5ednote47" type="editorial" subtype="gloss" resp="JR" source="OED"><hi>With]</hi> ‘band, tie, or shackle consisting of a tough flexible twig or branch, or of several twisted together; such a twig or branch, as of willow or osier, used for binding or tying, and sometimes for plaiting’ (OED 1a).</note> And so let them stand till after the end of the
+                            <term><ref xml:id="ch5ednatt48" type="attachment" target="#ch5ednote48">Dog-daies</ref></term>,<note xml:id="ch5ednote48" type="editorial" subtype="gloss" resp="JR" source="OED"><hi>Dog-daies]</hi> hottest part of the summer (OED3 1a).</note> when Bees are taken. <ref
                                 target="#ch5bibln23">v.</ref>
                             <note type="authorial" subtype="bibliographic" xml:id="ch5bibln23">
                                 <ref target="#ch10p1sumn1"> V.c.10. p.1.n.1.</ref>
@@ -6187,7 +6190,7 @@
                             some of the younger sort mistake, and tarrie at their doores till they
                             be chilled. And when the Sunne is an houre high, and the aire waxeth
                             warme, having first parted the new Combs and the old with a long knife,
-                            take off the upper hive or <term>Receiver,</term> &amp; set him upon the
+                            take off the <ref xml:id="ch5ednatt52" type="attachment" target="#ch5ednote52">upper hive or <term>Receiver,</term></ref><note xml:id="ch5ednote52" type="editorial" subtype="gloss" resp="JR" source="OED"><hi>upper hive or Receiver]</hi> new hive that receives the bees.</note> &amp; set him upon the
                             stoole in the old place: BUT be sure, &amp;c. <ref
                                 target="#ch10p1sumn15">as it followeth, c.10.p.1.n.15</ref>. If you
                             see the <term> Receiver</term> be very fat, or feare the Queene be hurt,
@@ -6238,11 +6241,11 @@
                             /></rdg>
                     </app>, the next Prince, when she perceiveth a competent number to be fledge and
                     readie, <ref xml:id="ch5edSoundExpAtt" type="attachment" target="#ch5eSoundNoteTest">beginneth <app type="minor" subtype="change">
-                        <lem wit="#b1623">to tune in hir treble voice a mournefull and</lem>
+                        <lem wit="#b1623">to tune <ref xml:id="ch5ednatt51" type="attachment" target="ch5ednote51">in hir treble voice</ref><note xml:id="ch5ednote51" type="editorial" subtype="gloss" resp="MW" source="Butler crossref">By 1623, ‘treble’ was typically associated with ‘a high sweet voice’ (Butler, Principles of Musick, 1636)</note> a mournefull and</lem>
                         <rdg wit="#b1609"><ptr target="1609.xml#ch5ancs49 1609.xml#ch5ance49"
                             /></rdg>
                     </app> begging <app type="vocabulary" subtype="change">
-                        <lem wit="#b1623">note,</lem>
+                        <lem wit="#b1623">note,</lem>vouch
                         <rdg wit="#b1609"><ptr target="1609.xml#ch5ancs50 1609.xml#ch5ance50"
                             /></rdg>
                     </app></ref><note xml:id="ch5eSoundNoteTest" type="editorial" subtype="gloss">
@@ -6255,7 +6258,7 @@
                         </media>
                         This is the content of the note</note> as if she did pray hir Queene-mother to let them goe. <app type="minor"
                         subtype="change">
-                        <lem wit="#b1623">Unto which voice if the Queene vouchsafe to reply,</lem>
+                        <lem wit="#b1623">Unto which voice if <ref xml:id="ch5ednatt53" type="attachment" target="#ch5ednote53">the Queene vouchsafe to reply,</lem>
                         <rdg wit="#b1609"><ptr target="1609.xml#ch5ancs51 1609.xml#ch5ance51"
                             /></rdg>
                     </app>
@@ -6263,7 +6266,7 @@
                         <lem wit="#b1623">tuning hir <fw type="catch"> Base </fw>
                             <pb n="K3v"/>
                             <fw type="header"> Of the Swarming of Bees, </fw>
-                            <term>Base</term> to the young Princes <term>Treble</term>,</lem>
+                            <term>Base</term></ref><note xml:id="ch5ednote53" type="editorial" subtype="gloss" resp="MW" source="Butler crossref">‘The Bass is so called, because it is the basis or foundation of the the Song, unto which all other Parts bee set: and it is to be sung with a deep, ful, and pleasing Voice’ (Butler, Principles of Musick, 1636). In fact, there is only a limited pitch difference between the two bees.</note> to the young Princes <term>Treble</term>,</lem>
                         <rdg wit="#b1609"/>
                     </app> (<app type="minor" subtype="change">
                         <lem wit="#b1623">as commonly she doth, though sometime scarcely intreated
@@ -6318,20 +6321,20 @@
                             <rdg wit="#b1609"/>
                         </app></note>
                     <app type="major" subtype="change">
-                        <lem wit="#b1623">This song being contained within the compasse of an
+                        <lem wit="#b1623"><ref xml:id="ch5ednatt53" type="attachment" target="#ch5ednote53">This song being contained within the compasse of an
                                 <term>Eight</term> from <term> C-sol-fa-ut</term> to
-                                <term>C-sol-fa</term>, the Prince composeth hir part within the
+                            <term>C-sol-fa</term></ref>,<note xml:id="ch5ednote53" type="editorial" subtype="gloss" resp="MW" source="context">An octave, from middle C to the C above (or c’ and c” in Helmholtz pitch notation). </note> <ref xml:id="ch5ednatt54" type="attachment" target="#ch5ednote54">the Prince composeth hir part</ref><note xml:id="ch5ednote54" type="editorial" subtype="gloss" resp="MW" source="context">Butler assigns this role to the uppermost, Mean, part in Melissomelos.</note> <ref xml:id="ch5ednatt55" type="attachment" target="#ch5ednote55">within the
                             foure upper Cliefes <term>G</term>, <term>A</term>, <term>B,</term> and
-                                <term>C</term> usually in triple moode, beginning with an odde
-                                <term>Minim</term> in <term> G-sol-re-ut</term>, and tuning the rest
+                                <term>C</term></ref><note xml:id="ch5ednote55" type="editorial" subtype="gloss" resp="MW" source="Butler crossref">‘Here, ‘Cliefes’ means the notes g’, a”, b” and c” (Butler, Principles of Musick, 1636).</note> <ref xml:id="ch5ednatt56" type="attachment" target="#ch5ednote56">usually in triple moode</ref>,<note xml:id="ch5ednote56" type="editorial" subtype="gloss" resp="MW" source="context">Butler uses ‘triple moode’ in the sense of our ‘compound time’: i.e., with beats subdivided into threes rather than twos.</note> <ref xml:id="ch5ednatt57" type="attachment" target="#ch5ednote57">beginning with an odde
+                                    <term>Minim</term> in <term> G-sol-re-ut</term></ref>,<note xml:id="ch5ednote57" type="editorial" subtype="gloss" resp="MW" source="context">Beginning with an upbeat on g”. See Melissomelos, bar 27. </note> and tuning the rest
                             of hir notes, whereof the first is a <term> Semibriefe</term>, in <term>
                                 A-la-mi-re.</term> Sometime she taketh a higher key, sounding the
-                            odde <term> Minim</term> in <term>A-la-mi-re</term>, and the rest in
-                                <term>B-fa-b-mi.</term> Sometime, specially toward their comming
-                            forth, she riseth yet higher to <term> C-sol-fa</term>, holding the time
-                            of three or foure <term>Semibriefes,</term> more or lesse. Now and then
+                            odde <term> Minim</term> in <term>A-la-mi-re</term>, <ref xml:id="ch5ednatt58" type="attachment" target="#ch5ednote58">and the rest in
+                                <term>B-fa-b-mi.</term></ref><note xml:id="ch5ednote58" type="editorial" subtype="gloss" resp="MW">B” flat: see Melissomelos, bar 33.</note> <ref xml:id="ch5ednatt59" type="attachment" target="#ch5ednote59">Sometime, specially toward their comming
+                                    forth, she riseth yet higher to <term> C-sol-fa</term></ref>,<note xml:id="ch5ednote59" type="editorial" subtype="gloss" resp="MW">c”: see Melissomelos, bars 58-61 and 71-78.</note> holding the time
+                            of three or foure <term>Semibriefes,</term> more or lesse. <ref xml:id="ch5ednatt60" type="attachment" target="#ch5ednote60">Now and then
                             shee beginneth in duple time some two or three <term>
-                            Semibriefes</term>, but alwaies endeth with <term>Minims</term> of the
+                                Semibriefes</term></ref>,<note xml:id="ch5ednote60" type="editorial" subtype="gloss" resp="MW">Duple time, also called imperfect time (or tempus imperfectum): each breve is divided into two semibreves. See Melissomelos, bars 32 and 62.</note> but alwaies endeth with <term>Minims</term> of the
                             triple Moode.</lem>
                         <rdg wit="#b1609"><ptr target="1609.xml#ch5ancs57 1609.xml#ch5ance57"
                             /></rdg>
@@ -6342,10 +6345,10 @@
                             <rdg wit="#b1609"/>
                         </app></note>
                     <app type="major" subtype="change">
-                        <lem wit="#b1623">The Queenes part, contained within the foure lower
+                        <lem wit="#b1623"><ref xml:id="ch5ednatt61" type="attachment" target="#ch5ednote61">The Queenes part, contained within the foure lower
                             Cliefes, consisteth of <term> Minims</term> altogether in triple moode;
                             commonly in <term>Fa-fa-ut,</term> sometime in <term>C-sol-fa-ut,</term>
-                            sometime in the other two <term>Cliefes</term> betweene them: continuing
+                            sometime in the other two <term>Cliefes</term> betweene them</ref>:<note xml:id="ch5ednote61" type="editorial" subtype="gloss" resp="MW">In 1609, Butler notates the Queen’s piping with f’ only.  In 1623 he assigns the Queen’s notes, c’-f’, to the Tenor and Bass, singing (or playing) above their normal written ranges, and using the same clef as Mean and Contratenor: see Melissomelos, bars 56-78.</note> continuing
                             hir tune the time of nine or ten <term>Semibriefes</term> more or
                             lesse.</lem>
                         <rdg wit="#b1609"><ptr target="1609.xml#ch5ancs58 1609.xml#ch5ance58"
@@ -6357,8 +6360,8 @@
                             <rdg wit="#b1609"/>
                         </app></note>
                     <app type="major" subtype="change">
-                        <lem wit="#b1623">Sometime a third Princesse imitating the Queenes voice in
-                            time, though differing haply in tune, joyneth with them, the more, with
+                        <lem wit="#b1623"><ref xml:id="ch5ednatt62" type="attachment" target="#ch5ednote62">Sometime a third Princesse imitating the Queenes voice in
+                            time, though differing haply in tune</ref>,<note xml:id="ch5ednote62" type="editorial" subtype="gloss" resp="MW">Butler assigns this role to the Contratenor: see Melissomelos, bars 53-78.</note> joyneth with them, the more, with
                             their full noise, to incite the swarme to goe, that hir turne may come
                             the sooner. And sometime a fourth also interposeth hir <term>
                                 Minims</term> to fill up the Quire. But none dare counterfeit the
@@ -6371,10 +6374,10 @@
                             </note> as well as the lives of some of hir fol- <fw type="catch">
                                 lowers.</fw>
                             <pb n="K4r"/>
-                            <fw type="header"> and the Hiving of them. </fw> lowers. Notwithstanding
+                            <fw type="header"> and the Hiving of them. </fw> lowers. <ref xml:id="ch5ednatt63" type="attachment" target="#ch5ednote63">Notwithstanding
                             each of these, when hir elder sister is gone, and hir turne next,
                             changeth hir note, begging in <term>Orithyas</term> tune leave to be
-                            gone too: which as sometime the Queene granteth unasked, beginning first
+                                gone too</ref>:<note xml:id="ch5ednote63" type="editorial" subtype="gloss" resp="MW">Ask HH to provide text on Orithyia?</note> which as sometime the Queene granteth unasked, beginning first
                             hir selfe; so sometime by hir silence she denieth, though mournfully
                             intreated: and then the swarme tarieth, and the poore Ladie must die. </lem>
                         <rdg wit="#b1609"><ptr target="1609.xml#ch5ancs59 1609.xml#ch5ance59"
@@ -6406,22 +6409,24 @@
                             <rdg wit="#b1609"/>
                         </app></note>
                     <app type="major" subtype="add">
-                        <lem wit="#b1623">In this <term> Melissomelos,</term> or Bees Madrigall,
-                            Musicians may see the grounds of their Art: first their
-                                <term>Moodes</term>, sometime the <term>triple</term> or <term>
-                                imperfect</term> of the more, sometime the <term>duple</term> or
-                                <term> imperfect</term> of the lesse: then the tunes of the six
-                            notes, <term>ut, re, mi, fa, sol, la</term>; whereof the Queene soundeth
-                            the first foure, and the Prince the other two, together with the
-                            doubling of <term>fa-sol</term> in two higher Cliefes, to make up the
-                            full <term> Eight:</term> and lastly the six Concords, an
+                        <lem wit="#b1623"><ref xml:id="ch5ednatt64" type="attachment" target="#ch5ednote64">In this <term> Melissomelos,</term> or Bees Madrigall,
+                            Musicians may see the grounds of their Art</ref>:<note xml:id="ch5ednote64" type="editorial" subtype="gloss" resp="MW">Butler illustrates this ‘Bees Madrigall’ in Melissomelos at bars 50-78.  An Italian genre, the madrigal’s English vogue had peaked during the 1590s but was spent by 1623. Charles Butler defined the genre thus in 1636: ‘The Madrigal is a chromatic mood in discant [composition], whose notes do often exceed the number of the syllables of the ditty [text]; sometimes in duple, sometimes in triple proportion, with quick and sweet reports and repeats, and all pleasing varieties of art; in 4, 5, or 6 parts, having in one or more of them one or more rests (especially in the beginning) to bring in the points begun in an other part’ (Butler, Principles of Musick, 1636, p. 8).
+                                <l><hi>Paraphrase:</hi> The madrigal is a colourful style of composition which is often melismatic (with multiple notes sung to single syllables of text). It is sometimes in duple time, and sometimes in triple. It has short, sweet moments of imitation and repetition between the voices, as well as a pleasing variety of styles.  It can be for 4, 5 or 6 voice-parts; these parts have frequent rests, especially at the beginning of the piece when one part introduces the point of imitation which is then taken up by the others.
+                                </l></note> first their
+                                <term>Moodes</term>, sometime the <ref xml:id="ch5ednatt65" type="attachment" target="#ch5ednote65"><term>triple</term> or <term>
+                                    imperfect</term> of the more</ref>,<note xml:id="ch5ednote65" type="editorial" subtype="gloss" resp="MW">Compound duple time, with two beats per bar, each subdivided into three: l 1 o o 2 o o l 1 o o  2 o o l 1 o o 2 o o l et cetera.</note> sometime <ref xml:id="ch5ednatt66" type="attachment" target="#ch5ednote66">the <term>duple</term> or
+                                        <term> imperfect</term> of the lesse</ref>:<note xml:id="ch5ednote66" type="editorial" subtype="gloss" resp="MW">Simple duple time, with two beats per bar, each subdivided into two: l 1 o 2 o l 1 o 2 o l 1 o 2 o l et cetera.</note> <ref xml:id="ch5ednatt67" type="attachment" target="#ch5ednote67">then the tunes of the six
+                                            notes, <term>ut, re, mi, fa, sol, la</term></ref>;<note xml:id="ch5ednote67" type="editorial" subtype="gloss" resp="MW">Equivalent to the six-note combinations GABCDE or CDEFGA, with a semitone between mi and fa. These so-called hexachords were a venerable (and venerated) legacy of 11th-century music theory and are the ancestors of tonic sol-fa. Charles Butler was one in a long line of Renaissance music theorists to attempt a reform of the hexachord system: Butler’s music theory.</note> whereof the Queene soundeth
+                            the first foure, and the Prince the other two, <ref xml:id="ch5ednatt68" type="attachment" target="#ch5ednote68">together with the
+                                doubling of <term>fa-sol</term> in two higher Cliefes</ref>,<note xml:id="ch5ednote68" type="editorial" subtype="gloss" resp="MW">On top of the traditional CDEFGA hexachord, b” flat and c” are added to make up the full octave. In 1636, Butler proposed a seventh solmization syllable, pha, to do this job: Butler’s music theory.</note> to make up the
+                            full <term> Eight:</term> and <ref xml:id="ch5ednatt69" type="attachment" target="#ch5ednote69">lastly the six Concords, an
                                 <term>imperfect Third</term>, a <term>perfect Third</term>, a <term>
                                 Diatessaron</term>, a <term>Diapente</term>, a <term>Sixt,</term>
-                            and a <term> Diapason</term>. And if any man dislike the harshnesse of
+                                and a <term> Diapason</term></ref>.<note xml:id="ch5ednote69" type="editorial" subtype="gloss" resp="MW">Minor 3rd (1.5 tones), major 3rd (2 tones), [perfect] 4th (2.5 tones), [perfect] 5th (3.5 tones), major or minor 6th (4 or 4.5 tones) and octave (Butler 1636, pp. 46-49). These are the vertically consonant intervals learnt by Renaissance music students.</note> <ref xml:id="ch5ednatt70" type="attachment" target="#ch5ednote70">And if any man dislike the harshnesse of
                             the <term>Seconds</term> and <term>Sevenths</term>, which now and then
                             hit among them; he sheweth himselfe no experienced Artist, which knoweth
                             not that as well in <term>Musick</term> as <term>Oeconomick</term>, there
-                            must sometime be Discords: yea and that in either they have had their
+                                    must sometime be Discords</ref>:<note xml:id="ch5ednote70" type="editorial" subtype="gloss" resp="MW">In classic counterpoint theory, 2nds and 7ths are discords (Butler 1636, p. 51): usable, as Butler asserts, but only in accordance with fixed conventions (Butler, Principles of Musick, 1636).</note> yea and that in either they have had their
                             laudable use, as serving to make sweet Concords the sweeter. So that if
                                 <term>Musicke</term> were lost, it might be found with the <ref
                                 target="#ch5bibln27">*</ref><term>Muses</term> Birds. <note
@@ -6431,10 +6436,10 @@
                         <rdg wit="#b1609"/>
                     </app></p>
                 <p xml:id="ch5par38"><app type="major" subtype="add">
-                        <lem wit="#b1623">The severall parts of whose Song comprizing these
+                        <lem wit="#b1623"><ref xml:id="ch5ednatt71" type="attachment" target="#ch5ednote71">The severall parts of whose Song comprizing these
                             mentioned notes, with pawses interposed (as I have at severall times by
                             a Winde-instrument, whose notes can neither rise nor fall, attentively
-                            observed) I thought good heere to prick downe, that you may see them in
+                            observed)</ref><note xml:id="ch5ednote71" type="editorial" subtype="gloss" resp="MW">This is most likely to have been a recorder. The pitch standard normally used by the Bassano family, who were based in England, was a semitone higher than modern concert pitch (Adrian Brown, ‘Sets or Consorts of Recorders c.1500-1670’, Galpin Society Journal, 75 (2023), pp. 10-30 at 22-24).</note> I thought good heere to prick downe, that you may see them in
                             all these particulars of their Naturall Art. Onely I cannot altogether
                             warrant the Conclusion: because in that confused noise, which the
                             buzzing Bees in the busie time of their departing doe make, my dull
@@ -7696,7 +7701,7 @@
                             reare the Hive with <ref xml:id="ch5ednatt40" type="attachment" target="#ch5ednote40">bolsters</ref><note xml:id="ch5ednote40" type="editorial" subtype="gloss" resp="JR" source="OED"><hi>bolsters]</hi> props or supports, from the verb ‘to bolster’ (OED).
                             </note> high enough to let them all in: which, when
                             they have once swarmed, the <ref target="#ch5glon15">*</ref>next
-                            Vindemie take away thus. </lem>
+                            <ref xml:id="ch5ednatt50" type="attachment" target="#ch5ednote50">Vindemie</ref><note xml:id="ch5ednote50" type="editorial" subtype="gloss" resp="JR" source="OED"><hi>Vindemie]</hi> The taking of honey from beehives. Obsolete. Rare. (OED).</note> take away thus. </lem>
                         <rdg wit="#b1609"/>
                     </app></p>
                 <app type="major" subtype="add">
@@ -10485,8 +10490,8 @@
                         neere as may be one to another, and so let them stand together six or seaven
                         daies, til they be well acquainted with their standings; when you see the
                         weather being faire and constant, late in an evening, about ten a clocke,
-                        set the <term> Remover</term> fast on the ground in a <ref xml:id="ch5ednatt42" type="attachment" target="#ch5ednote42">Brake</ref>,<note xml:id="ch5ednote42" type="editorial" subtype="gloss" resp="JR" source="OED"><hi>Brake]</hi> framework intended to hold anything steady (n.6, OED 2a).</note> <ref
-                            target="#ch10p1bibln13">v.</ref>
+                        set the <term> Remover</term> fast on the ground in a <ref xml:id="ch5ednatt42x" type="attachment" target="#ch5ednote42x">Brake</ref>,<note xml:id="ch5ednote42x" type="editorial" subtype="gloss" resp="JR" source="OED"><hi>Brake]</hi> framework intended to hold anything steady (n.6, OED 2a).</note> <ref
+                            target="#ch10p1bibln13">v.</ref>h
                         <note type="authorial" subtype="bibliographic" xml:id="ch10p1bibln13">
                             <ref target="#ch10p1sumn24"> V.c.n.24. </ref>
                         </note> and the <term>Receiver</term> upon: and binde them close together,
