@@ -721,24 +721,69 @@
               <p>These are the editorial notes that, for a given textual passage, would provide a
                 gloss, or any other kind of further information.</p>
               <p>The big difference between these editorial notes and any other kind is that they
-                must <emph>not</emph> surround the text. Instead, a <tag>ref</tag> element with an <att>xml:id</att> should mark the attachement point in the text, which could vary from a single word to entire paragraphs. The <att>xml:id</att> of the <tag>ref</tag> should be in the format <eg>chXednattY</eg> where 'X' is chapter number, and 'Y' is the sequential number of attachment point. The <tag>ref</tag> <emph>must</emph> have a <att>type</att> with the value <val>attachment</val>. It must also have a <att>target</att> pointing to the <att>xml:id</att> of the note itself.</p>
-<p>The note itself can, technically, be placed anywhere, but it is good practice to place it close to its attachment point, either immediately following it or at a place where it would minimise its disruption of the flow of the text, for example, at the end of  a sentence or a pragraph. The note is encoded using a <tag>note</tag> element with a <att>type</att> <val>editorial</val> and a <att>subtype</att> <val>gloss</val> or <val>other</val>. The note <emph>must</emph> have a <att>xml:id</att> which should follow the usual format, <eg>chXednoteY</eg>, in which X is the chapter number and Y is the sequential number for the note of that type.</p>
-              <p>The note can contain both text or other media. For how to encode other types of media, see <ref target="#encFig">Encoding Figures and Diagrams</ref> or <ref target="#encSound">Encoding sound</ref>. A complete example of how to encode an editorial gloss note is as follows:</p>
-            <egXML xmlns="http://www.tei-c.org/ns/Examples">
-              <p>... the next Prince, when she perceiveth a competent number to be fledge and
-              readie, <ref xml:id="ch5edSoundExpAtt" type="attachment" target="#ch5eSoundNoteTest">beginneth to tune in hir treble voice a mournefull and 
-               begging note,</ref>
-                <note xml:id="ch5eSoundNoteTest" type="editorial" subtype="gloss">
-                <figure>
-                  <graphic url="media/images/test_image.png"/>
-                  <figDesc>The modern transcription of tooting</figDesc>
-                </figure>
-                <media mimeType="audio/mp3" url="media/sound/Testsoundannotation.mp3">
-                  <desc>A rendition of tooting</desc>
-                </media>
-                This is the content of the note
-                </note> as if she did pray hir Queene-mother to let them goe.</p>
-            </egXML>
+                must <emph>not</emph> surround the text. Instead, a <tag>ref</tag> element with an
+                  <att>xml:id</att> should mark the attachement point in the text, which could vary
+                from a single word to entire paragraphs. The <att>xml:id</att> of the <tag>ref</tag>
+                should be in the format <eg>chXednattY</eg> where 'X' is chapter number, and 'Y' is
+                the sequential number of attachment point. The <tag>ref</tag>
+                <emph>must</emph> have a <att>type</att> with the value <val>attachment</val>. It
+                must also have a <att>target</att> pointing to the <att>xml:id</att> of the note
+                itself.</p>
+              <p>The note itself can, technically, be placed anywhere, but it is good practice to
+                place it close to its attachment point, either immediately following it or at a
+                place where it would minimise its disruption of the flow of the text, for example,
+                at the end of a sentence or a pragraph. The note is encoded using a <tag>note</tag>
+                element with a <att>type</att>
+                <val>editorial</val> and a <att>subtype</att>
+                <val>gloss</val> or <val>other</val>. The note <emph>must</emph> have a
+                  <att>xml:id</att> which should follow the usual format, <eg>chXednoteY</eg>, in
+                which X is the chapter number and Y is the sequential number for the note of that
+                type.</p>
+              <p>The note can contain both text or other media. For how to encode other types of
+                media, see <ref target="#encFig">Encoding Figures and Diagrams</ref> or <ref
+                  target="#encSound">Encoding sound</ref>. A complete example of how to encode an
+                editorial gloss note is as follows:</p>
+              <egXML xmlns="http://www.tei-c.org/ns/Examples">
+                <p>... the next Prince, when she perceiveth a competent number to be fledge and
+                  readie, <ref xml:id="ch5edSoundExpAtt" type="attachment"
+                    target="#ch5eSoundNoteTest">beginneth to tune in hir treble voice a mournefull
+                    and begging note,</ref>
+                  <note xml:id="ch5eSoundNoteTest" type="editorial" subtype="gloss">
+                    <figure>
+                      <graphic url="media/images/test_image.png"/>
+                      <figDesc>The modern transcription of tooting</figDesc>
+                    </figure>
+                    <media mimeType="audio/mp3" url="media/sound/Testsoundannotation.mp3">
+                      <desc>A rendition of tooting</desc>
+                    </media> This is the content of the note </note> as if she did pray hir
+                  Queene-mother to let them goe.</p>
+              </egXML>
+              <div xml:id="encNotesConflictingHierarchies">
+                <head>Points of attachement with conflicting hierarchies</head>
+                <p>Although (hopefully) rare, occasionally the ideal point of attachment for an
+                  editorial note might straddle two conflicting hierarchies -- think of it as a box
+                  trying to fit into two other boxes that are side by side.</p>
+                <p>The way to go around this limitation of the TEI is akin to the method used in
+                    <ref target="#encVar">marking variation in 1609</ref>, by using an
+                    <tag>anchor</tag> to mark the start of the point of attachment, and another to
+                  mark the end of the point of attachment. The <tag>anchor</tag> must contain an
+                    <att>xml:id</att>, a <att>type</att> with the value
+                    <val>attachmentEditorialNote</val>, a <att>subtype</att> with a value of
+                    <val>start</val> or <val>end</val>, and a <att>corresp</att> with a value
+                  pointing to the <att>xml:id</att> of the corresponding note itself. The note
+                  itself should follow the same principles <ref target="#encNotesEdGloss">outlined
+                    above</ref>, with the addition of a <att>corresp</att> containing the values of
+                  the <att>xml:id</att> of the starting and ending anchors, separated by a
+                  space.</p>
+                <egXML xmlns="http://www.tei-c.org/ns/Examples">
+                  <p xml:id="ch5par4">The Drones they take with them for 
+                    <anchor xml:id="anchorStart" type="attachmentEditorialNote" subtype="start" corresp="#ch5noteExample"/>propagation of their kinde.</p>
+                  <p xml:id="ch5par5">A warme, calme, and showring spring
+                    <anchor corresp="#ch5noteExample" xml:id="anchorEnd" type="attachmentEditorialNote" subtype="end"/>
+                    <note xml:id="ch5noteExample" type="editorial" subtype="gloss"
+                      corresp="#anchorStart #anchorEnd">This is a test.</note></p>
+                </egXML>
+              </div>
             </div>
           </div>
           <div xml:id="encBibl">
@@ -852,9 +897,15 @@
           </div>
           <div xml:id="encFig">
             <head>Figures and Diagrams</head>
-            <p>Figures and diagrams should be encoded with a <tag>figure</tag> element, containing a <tag>graphic</tag> element and a <tag>figDesc</tag> element. The image files themselves should be placed inside the <code>media/images</code> folder of the <ref target="https://github.com/NewcastleRSE/beeing-human-tei-data">beeing-human-tei-data</ref> repository.</p>
-            <p>The <tag>graphic</tag> should contain a <att>url</att> pointing to the graphic file, such as <val>media/images/FileName.jpg</val></p>
-            <p>The <tag>figDesc</tag> element should contain text captioning the content of the image.</p>
+            <p>Figures and diagrams should be encoded with a <tag>figure</tag> element, containing a
+                <tag>graphic</tag> element and a <tag>figDesc</tag> element. The image files
+              themselves should be placed inside the <code>media/images</code> folder of the <ref
+                target="https://github.com/NewcastleRSE/beeing-human-tei-data"
+                >beeing-human-tei-data</ref> repository.</p>
+            <p>The <tag>graphic</tag> should contain a <att>url</att> pointing to the graphic file,
+              such as <val>media/images/FileName.jpg</val></p>
+            <p>The <tag>figDesc</tag> element should contain text captioning the content of the
+              image.</p>
             <p>A complete example is as follows:</p>
             <egXML xmlns="http://www.tei-c.org/ns/Examples">
               <figure>
@@ -865,8 +916,16 @@
           </div>
           <div xml:id="encSound">
             <head>Sound</head>
-            <p>Sound is encoded similarly to <ref target="#encFig">figures</ref>. The sound file should be placed inside the <code>media/sound</code> folder of the <ref target="https://github.com/NewcastleRSE/beeing-human-tei-data">beeing-human-tei-data</ref> repository. The place where the sound should be played is encoded by the <tag>media</tag> element which must have a <att>mimeType</att> attribute of <val>audio/mp3</val> (changing depending on the file type), and a <att>url</att> attribute pointing to the sound file, <val>media/sound/FileName.mp3</val></p>
-            <p>The <tag>media</tag> element should also contain a <tag>desc</tag> attribute with a textual description of the sound.</p>
+            <p>Sound is encoded similarly to <ref target="#encFig">figures</ref>. The sound file
+              should be placed inside the <code>media/sound</code> folder of the <ref
+                target="https://github.com/NewcastleRSE/beeing-human-tei-data"
+                >beeing-human-tei-data</ref> repository. The place where the sound should be played
+              is encoded by the <tag>media</tag> element which must have a <att>mimeType</att>
+              attribute of <val>audio/mp3</val> (changing depending on the file type), and a
+                <att>url</att> attribute pointing to the sound file,
+                <val>media/sound/FileName.mp3</val></p>
+            <p>The <tag>media</tag> element should also contain a <tag>desc</tag> attribute with a
+              textual description of the sound.</p>
             <p>A complete example of encoded sound is as follows: </p>
             <egXML xmlns="http://www.tei-c.org/ns/Examples">
               <media mimeType="audio/mp3" url="media/sound/Testsoundannotation.mp3">
@@ -1168,9 +1227,38 @@
           <moduleRef key="analysis" include="w s"/>
           <moduleRef key="figures" include="figure figDesc"/>
           <moduleRef key="textcrit" include="listWit witness app lem rdg variantEncoding"/>
-          <moduleRef key="linking" include="seg standOff"/>
+          <moduleRef key="linking" include="seg standOff anchor"/>
 
           <!-- Element changes, definitions, schematron rules... -->
+
+          <elementSpec ident="anchor" mode="change">
+            <attList>
+
+              <attDef ident="xml:id" mode="change" usage="req"/>
+              <attDef ident="type" mode="change" usage="req">
+                <valList type="closed" mode="change">
+                  <valItem ident="attachmentEditorialNote" mode="add">
+                    <desc>A point of attachment for editorial notes that span hierarchies. Must be
+                      accompanied by a <att>subtype</att> that indicates whether it is a
+                        <val>start</val> or <val>end</val> attachement, and a <att>corresp</att>
+                      attribute with the <att>xml:id</att> of the note it corresponds to.</desc>
+                  </valItem>
+                  <valItem ident="other" mode="add"/>
+                </valList>
+              </attDef>
+              <attDef ident="subtype" mode="change" usage="req">
+                <valList type="closed" mode="change">
+                  <valItem ident="start" mode="add"/>
+                  <valItem ident="end" mode="add"/>
+                </valList>
+              </attDef>
+              <attDef ident="corresp" mode="change" usage="req">
+                <desc>Must contain the <att>xml:id</att> of the editorial note it corresponds
+                  to.</desc>
+              </attDef>
+
+            </attList>
+          </elementSpec>
 
           <elementSpec ident="seg" mode="change">
             <attList>
