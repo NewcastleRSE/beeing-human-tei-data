@@ -353,35 +353,35 @@
                     sort obtained my desire, I was incited, even by the rule of charitie, to
                     communicate that to my neighbours and country-men, which I have found so
                     beneficiall to my selfe: so that the Reader may now freely reape the fruit of
-                    that, which the <anchor xml:id="anchorTestStart" type="attachmentEditorialNote" subtype="start" corresp="#" />Author hath deerely sowen vnto him.</p>
-                <p xml:id="frontpar5">
-                    <note type="authorial" subtype="bibliographic" xml:id="frontbibln5">
-                        <bibl rend="italic">De generat.an.l.3.c.10.</bibl>
-                    </note> The Philosopher intreating of the breeding of Bees, professeth himselfe
-                    uncertaine of their sex: and therefore<anchor xml:id="anchorTestEnd" type="attachmentEditorialNote" subtype="end" corresp="#" /><note xml:id="testNotes" type="editorial" subtype="gloss" corresp="#anchorTestStart #anchorTestEnd">This note is a test</note>, willing in this uncertaintie to grace so
-                    worthy a creature with the worthier title, he every where calleth their governor
-                        <foreign xml:lang="grc">&#946;&#945;&#963;&#953;&#955;&#949;&#973;&#962;</foreign>, <app type="vocabulary" subtype="del">
-                        <lem wit="#b1623" />
-                        <rdg wit="#b1609" source="1609.xml#ch0ancs15 1609.xml#ch0ance15">or</rdg>
-                    </app><foreign xml:lang="la"> Rex</foreign>. As many as followed him, searching
-                    no farther then he did, were content to say as he said. So that I am in- <fw type="catch"> forced</fw>
-                    <pb n="&#182;4v" />
-                    <fw type="header">The Preface to the Reader.</fw>
-                    <app type="vocabulary" subtype="change">
-                        <lem wit="#b1623">forced</lem>
-                        <rdg wit="#b1609" source="1609.xml#ch0ancs16 1609.xml#ch0ance16">enforced</rdg>
-                    </app> (unlesse I wil choose rather to offend in <foreign xml:lang="la">rebus</foreign> then in <foreign xml:lang="la"> vocibus</foreign>) by their
+                    that, which the <anchor xml:id="anchorTestStart" type="attachmentEditorialNote" subtype="start" corresp="#" /><seg type="attachmentEditorialNote" corresp="#">Author hath deerely sowen vnto him.</seg></p>
+                <seg type="endNotInEl" corresp="#"><p xml:id="frontpar5">
+                    <seg type="endNotInEl" corresp="#"><note type="authorial" subtype="bibliographic" xml:id="frontbibln5">
+                        <seg type="endNotInEl" corresp="#"><bibl rend="italic">De generat.an.l.3.c.10.</bibl>
+                    </seg></note> The Philosopher intreating of the breeding of Bees, professeth himselfe
+                    uncertaine of their sex: and therefore,
+                    willing in this uncertaintie to grace so worthy a creature with the worthier
+                    title, he every where calleth their governor </seg><seg type="endNotInEl" corresp="#"><foreign xml:lang="grc">&#946;&#945;&#963;&#953;&#955;&#949;&#973;&#962;</foreign>, </seg><seg type="endNotInEl" corresp="#"><app type="vocabulary" subtype="del">
+                        <seg type="endNotInEl" corresp="#"><lem wit="#b1623" />
+                        </seg><seg type="endNotInEl" corresp="#"><rdg wit="#b1609" source="1609.xml#ch0ancs15 1609.xml#ch0ance15">or</rdg>
+                    </seg></app></seg><seg type="endNotInEl" corresp="#"><foreign xml:lang="la"> Rex</foreign>. As many as followed him, searching
+                    no farther then he did, were content to say as he said. So that I am in- </seg><seg type="endNotInEl" corresp="#"><fw type="catch"> forced</fw>
+                    </seg><seg type="endNotInEl" corresp="#"><pb n="&#182;4v" />
+                    </seg><seg type="endNotInEl" corresp="#"><fw type="header">The Preface to the Reader.</fw>
+                    </seg><seg type="endNotInEl" corresp="#"><app type="vocabulary" subtype="change">
+                        <seg type="endNotInEl" corresp="#"><lem wit="#b1623">forced</lem>
+                        </seg><seg type="endNotInEl" corresp="#"><rdg wit="#b1609" source="1609.xml#ch0ancs16 1609.xml#ch0ance16">enforced</rdg>
+                    </seg></app> (unlesse I wil choose rather to offend in </seg><seg type="endNotInEl" corresp="#"><foreign xml:lang="la">rebus</foreign> then in </seg><seg type="endNotInEl" corresp="#"><foreign xml:lang="la"> vocibus</foreign>) by their
                     leave and thine (learned Reader) to straine the ordinarie signification of the
-                    word <foreign xml:lang="la">Rex</foreign>, and, in such places, to translate it
-                        <hi rend="italic"> Queene</hi>, sith the males heere beare no sway at all,
-                    this being an <hi rend="italic">Amazonian or feminine kingdome.</hi>
-                    <ref target="#frontbibln6" rend="italic"><seg rend="italic">v</seg><seg rend="italic">.</seg></ref>
-                    <note type="authorial" subtype="bibliographic" xml:id="frontbibln6">
-                        <ref target="#ch4sumn11"><seg rend="italic">V</seg><seg rend="italic">.</seg><seg rend="italic">c</seg><seg rend="italic">.</seg><seg rend="normal">4</seg><seg rend="italic">.</seg><seg rend="italic">n</seg><seg rend="italic">.</seg><seg rend="normal">1</seg><seg rend="normal">1</seg><seg rend="italic">.</seg></ref></note></p>
-                <p xml:id="frontpar6">In distinguishing the times of the yeere, I use the
+                    word </seg><seg type="endNotInEl" corresp="#"><foreign xml:lang="la">Rex</foreign>, and, in such places, to translate it
+                        </seg><seg type="endNotInEl" corresp="#"><hi rend="italic"> Queene</hi>, sith the males heere beare no sway at all,
+                    this being an </seg><seg type="endNotInEl" corresp="#"><hi rend="italic">Amazonian or feminine kingdome.</hi>
+                    </seg><seg type="endNotInEl" corresp="#"><ref target="#frontbibln6" rend="italic"><seg type="endNotInEl" corresp="#"><seg rend="italic">v</seg></seg><seg type="endNotInEl" corresp="#"><seg rend="italic">.</seg></seg></ref>
+                    </seg><seg type="endNotInEl" corresp="#"><note type="authorial" subtype="bibliographic" xml:id="frontbibln6">
+                        <seg type="endNotInEl" corresp="#"><ref target="#ch4sumn11"><seg type="endNotInEl" corresp="#"><seg rend="italic">V</seg></seg><seg type="endNotInEl" corresp="#"><seg rend="italic">.</seg></seg><seg type="endNotInEl" corresp="#"><seg rend="italic">c</seg></seg><seg type="endNotInEl" corresp="#"><seg rend="italic">.</seg></seg><seg type="endNotInEl" corresp="#"><seg rend="normal">4</seg></seg><seg type="endNotInEl" corresp="#"><seg rend="italic">.</seg></seg><seg type="endNotInEl" corresp="#"><seg rend="italic">n</seg></seg><seg type="endNotInEl" corresp="#"><seg rend="italic">.</seg></seg><seg type="endNotInEl" corresp="#"><seg rend="normal">1</seg></seg><seg type="endNotInEl" corresp="#"><seg rend="normal">1</seg></seg><seg type="endNotInEl" corresp="#"><seg rend="italic">.</seg></seg></ref></seg></note></seg></p>
+                </seg><p xml:id="frontpar6"><seg type="ParagraphSpan" corresp="#">In distinguishing the times of the yeere, I use the
                     Astronomicall months, as most natural and fitting to my purpose <app type="minor" subtype="del">
-                        <lem wit="#b1623" />
-                        <rdg wit="#b1609" source="1609.xml#ch0ancs17 1609.xml#ch0ance17">beginning each
+                        <seg type="endNotInEl" corresp="#"><lem wit="#b1623" />
+                        </seg><seg type="endNotInEl" corresp="#"><rdg wit="#b1609" source="1609.xml#ch0ancs17 1609.xml#ch0ance17">beginning each
                     month with the day that the sun entreth into his sign, and
                     
                     
@@ -389,11 +389,11 @@
                     thinges concerning Bees, which are to be observed in them or to be done for them
                     fal out in the beginnings of these months. to the Reader.
                     </rdg>
-                    </app><ref target="#frontbibln7"><seg rend="italic">v</seg><seg rend="italic">.</seg></ref>
+                    </seg></app><ref target="#frontbibln7"><seg type="endNotInEl" corresp="#"><seg rend="italic">v</seg></seg><seg type="endNotInEl" corresp="#"><seg rend="italic">.</seg></seg></ref>
                     <note type="authorial" subtype="bibliographic" xml:id="frontbibln7">
-                        <ref target="#ch3sumn36"><seg rend="italic">V</seg><seg rend="italic">.</seg><seg rend="italic">c</seg><seg rend="italic">.</seg><seg rend="normal">3</seg><seg rend="italic">.</seg><seg rend="italic">n</seg><seg rend="italic">.</seg><seg rend="italic"> </seg><seg rend="normal">3</seg><seg rend="normal">6</seg><seg rend="italic">.</seg></ref>
-                    </note> Where note that by the name of each moneth, is commonly understood the
-                    first day of the same moneth (namely, wheresovever this preposition <hi rend="italic">At</hi>, is set before it) except only where it followeth, <hi rend="italic">In</hi>, or <hi rend="italic"> After</hi>, or otherwise the
+                        <seg type="endNotInEl" corresp="#"><ref target="#ch3sumn36"><seg type="endNotInEl" corresp="#"><seg rend="italic">V</seg></seg><seg type="endNotInEl" corresp="#"><seg rend="italic">.</seg></seg><seg type="endNotInEl" corresp="#"><seg rend="italic">c</seg></seg><seg type="endNotInEl" corresp="#"><seg rend="italic">.</seg></seg><seg type="endNotInEl" corresp="#"><seg rend="normal">3</seg></seg><seg type="endNotInEl" corresp="#"><seg rend="italic">.</seg></seg><seg type="endNotInEl" corresp="#"><seg rend="italic">n</seg></seg><seg type="endNotInEl" corresp="#"><seg rend="italic">.</seg></seg><seg type="endNotInEl" corresp="#"><seg rend="italic"> </seg></seg><seg type="endNotInEl" corresp="#"><seg rend="normal">3</seg></seg><seg type="endNotInEl" corresp="#"><seg rend="normal">6</seg></seg><seg type="endNotInEl" corresp="#"><seg rend="italic">.</seg></seg></ref>
+                    </seg></note> Where note that by the name of each moneth, is commonly understood the
+                    first day of the same moneth </seg><anchor xml:id="anchorTestEnd" type="attachmentEditorialNote" subtype="end" corresp="#" /><note xml:id="testNotes" type="editorial" subtype="gloss" corresp="#anchorTestStart #anchorTestEnd">This note is a test</note>(namely, wheresovever this preposition <hi rend="italic">At</hi>, is set before it) except only where it followeth, <hi rend="italic">In</hi>, or <hi rend="italic"> After</hi>, or otherwise the
                     sense doth plainely shew that it is spoken of the whole Moneth. </p>
                 <p xml:id="frontpar7"><app type="major" subtype="add">
                         <lem wit="#b1623">When you have once, for your satisfaction, perused this

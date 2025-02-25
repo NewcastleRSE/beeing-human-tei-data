@@ -109,6 +109,90 @@ def append_XML_dec(FILEOUTPUT):
         # write content
         file.write(content)
 
+def transform_editorial_notes_anchors_into_spans(tree, ns):
+    # build a parent map for the tree
+    parent_map = {c: p for p in tree.iter() for c in p}
+    # find all the anchors that have a type='attachmentEditorialNote' and subtype="start"
+    start_anchors = tree.findall(".//TEI:anchor[@type='attachmentEditorialNote'][@subtype='start']", ns)
+    for start_anchor in start_anchors:
+        # find the corresponding end anchor with subtype='end' and the same value of corresp as start_anchor
+        end_anchor = tree.find(f".//TEI:anchor[@type='attachmentEditorialNote'][@subtype='end'][@corresp='{start_anchor.attrib['corresp']}']", ns)
+        print(start_anchor, end_anchor)
+        # find the common ancestor of the two anchors
+        try: 
+            common_ancestor = find_common_ancestor(tree, start_anchor.get(f'\u007b{ns["xml"]}\u007did'), end_anchor.get(f'\u007b{ns["xml"]}\u007did'), ns, parent_map)
+        except KeyError:
+            raise
+
+        # go through every element in the parent ancestor and figure out what elements need to be collected
+        collect = False
+        tags = []
+        for el in common_ancestor.iter():
+            if el.get(f'\u007b{ns["xml"]}\u007did') == start_anchor.get(f'\u007b{ns["xml"]}\u007did'):
+                collect = True
+            if el.get(f'\u007b{ns["xml"]}\u007did') == end_anchor.get(f'\u007b{ns["xml"]}\u007did'):
+                collect = False
+            if collect:
+                tags.append(el)
+
+        # create a span from start_anchor to the next element, incorporating text in between
+        span = ET.Element('seg', {'type': 'attachmentEditorialNote', 'corresp': start_anchor.attrib['corresp']})
+        if (start_anchor.tail):
+            span.text = start_anchor.tail
+            start_anchor.tail = ''
+        # insert the span into the parent element right after the start_anchor
+        for i, element in enumerate(parent_map[start_anchor]):
+            if element == start_anchor:
+                parent_map[start_anchor].insert(i+1, span)
+                break
+
+        for i, tag in enumerate(tags):
+            # skip the first one as it is already taken care of above
+            endTagProcessed = False
+            if i == 0:
+                continue
+            else:
+                # check to see if the end_anchor is a descendant of the tag
+                if end_anchor in tag.iter():
+                    print('ENTERED the tag that contains the end', tag)
+                    span = ET.Element('seg', {'type': 'ParagraphSpan', 'corresp': start_anchor.attrib['corresp']})
+                    toRemove = [];
+                    for el in tag.iter():
+                        if el != tag:
+                            # if el is not the end anchor but is a sibling of end anchor, add it to the span
+                            if el != end_anchor and parent_map[el] == parent_map[end_anchor]:
+                                span.append(el)
+                                toRemove.append(el)
+                            elif (el == end_anchor):
+                                break
+                    if tag.text:
+                        span.text = tag.text
+                        tag.text = ''
+                    # insert the span at the start of the tag
+                    tag.insert(0, span);
+                    # remove the elements that have been moved
+                    for el in toRemove:
+                        if el in tag.iter():
+                            tag.remove(el)
+                    endTagProcessed = True
+                else:
+                    # if not, the entire content of the tag should become a child of a new seg element, but only if the endTag has not been processed (i.e., tags after that will have been descendents of the last parent of the endTag)
+                    # need to fix this
+                    if not endTagProcessed:
+                        new_span = ET.Element('seg', {'type': 'endNotInEl', 'corresp': start_anchor.attrib['corresp']})
+                        new_span.append(tag)
+                        # replace the tag with the new span
+                        for i, element in enumerate(parent_map[tag]):
+                            if element == tag:
+                                parent_map[tag].insert(i, new_span)
+                                parent_map[tag].remove(tag)
+                                break
+        
+
+        
+        
+
+
 def append_hi_summary_notes(tree, ns): 
     # marginal notes
     sum_notes = tree.findall(".//TEI:note[@subtype='summary']", ns)
@@ -252,6 +336,7 @@ def main(preview=False):
     # add hi to all the summary notes in the correct places
     # need to do error catching for this function
     append_hi_summary_notes(tree, ns)
+    transform_editorial_notes_anchors_into_spans(tree, ns)
 
     # removes any old versions of the file, in case no new one has been created during the run
     try:
