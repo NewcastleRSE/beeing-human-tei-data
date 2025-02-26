@@ -136,6 +136,7 @@ def transform_editorial_notes_anchors_into_spans(tree, ns):
                 tags.append(el)
 
         # create a span from start_anchor to the next element, incorporating text in between
+        # this is not working if there are elements in between the anchor and the end of the element
         span = ET.Element('seg', {'type': 'attachmentEditorialNote', 'corresp': start_anchor.attrib['corresp']})
         if (start_anchor.tail):
             span.text = start_anchor.tail

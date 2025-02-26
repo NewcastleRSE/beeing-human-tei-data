@@ -341,19 +341,19 @@
                     </app> is, <note type="authorial" subtype="bibliographic" xml:id="frontbibln4">
                         <bibl rend="italic"> V.c.10.p.3.</bibl>
                     </note> both for the preserving, and restoring of mans health, I thought it not
-                    amisse to spend some by-time for my recreation, in searching out <app type="minor" subtype="change">
-                        <lem wit="#b1623">their nature and properties</lem>
+                    amisse to spend some by-time for my recreation, in searching out <anchor xml:id="anchorTestStart" type="attachmentEditorialNote" subtype="start" corresp="#" /><seg type="attachmentEditorialNote" corresp="#" /><app type="minor" subtype="change">
+                        <seg type="shouldNotOccur" corresp="#"><lem wit="#b1623">their nature and properties</lem>
                         <rdg wit="#b1609" source="1609.xml#ch0ancs14 1609.xml#ch0ance14">the nature &amp; properties of Bees</rdg>
-                    </app>, <app type="minor" subtype="add">
-                        <lem wit="#b1623">their helpes and hinderances,</lem>
+                    </seg></app>, <app type="minor" subtype="add">
+                        <seg type="shouldNotOccur" corresp="#"><lem wit="#b1623">their helpes and hinderances,</lem>
                         <rdg wit="#b1609" />
-                    </app> that I might know how to doe good unto them, which are so good for us,
+                    </seg></app> that I might know how to doe good unto them, which are so good for us,
                     and what is the due and right ordering of these delightful, profitable, and
                     necessary creatures. And having to my contentment, though to my cost, in some
                     sort obtained my desire, I was incited, even by the rule of charitie, to
                     communicate that to my neighbours and country-men, which I have found so
                     beneficiall to my selfe: so that the Reader may now freely reape the fruit of
-                    that, which the <anchor xml:id="anchorTestStart" type="attachmentEditorialNote" subtype="start" corresp="#" /><seg type="attachmentEditorialNote" corresp="#">Author hath deerely sowen vnto him.</seg></p>
+                    that, which the Author hath deerely sowen vnto him.</p>
                 <p xml:id="frontpar5">
                     <seg type="shouldNotOccur" corresp="#"><note type="authorial" subtype="bibliographic" xml:id="frontbibln5">
                         <bibl rend="italic">De generat.an.l.3.c.10.</bibl>

@@ -340,7 +340,8 @@
                     </app> is, <note type="authorial" subtype="bibliographic" xml:id="frontbibln4">
                         <bibl rend="italic"> V.c.10.p.3.</bibl>
                     </note> both for the preserving, and restoring of mans health, I thought it not
-                    amisse to spend some by-time for my recreation, in searching out <app
+                    amisse to spend some by-time for my recreation, in searching out <anchor xml:id="anchorTestStart" type="attachmentEditorialNote"
+                        subtype="start" corresp="#"/><app
                         type="minor" subtype="change">
                         <lem wit="#b1623">their nature and properties</lem>
                         <rdg wit="#b1609"><ptr target="1609.xml#ch0ancs14 1609.xml#ch0ance14"
@@ -354,8 +355,7 @@
                     sort obtained my desire, I was incited, even by the rule of charitie, to
                     communicate that to my neighbours and country-men, which I have found so
                     beneficiall to my selfe: so that the Reader may now freely reape the fruit of
-                    that, which the <anchor xml:id="anchorTestStart" type="attachmentEditorialNote"
-                        subtype="start" corresp="#"/>Author hath deerely sowen vnto him.</p>
+                    that, which the Author hath deerely sowen vnto him.</p>
                 <p xml:id="frontpar5">
                     <note type="authorial" subtype="bibliographic" xml:id="frontbibln5">
                         <bibl rend="italic">De generat.an.l.3.c.10.</bibl>
