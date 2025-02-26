@@ -146,15 +146,16 @@ def transform_editorial_notes_anchors_into_spans(tree, ns):
                 parent_map[start_anchor].insert(i+1, span)
                 break
 
+        deepTags = [];
+        endTagProcessed = False
+
         for i, tag in enumerate(tags):
             # skip the first one as it is already taken care of above
-            endTagProcessed = False
             if i == 0:
                 continue
             else:
                 # check to see if the end_anchor is a descendant of the tag
                 if end_anchor in tag.iter():
-                    print('ENTERED the tag that contains the end', tag)
                     span = ET.Element('seg', {'type': 'ParagraphSpan', 'corresp': start_anchor.attrib['corresp']})
                     toRemove = [];
                     for el in tag.iter():
@@ -177,16 +178,32 @@ def transform_editorial_notes_anchors_into_spans(tree, ns):
                     endTagProcessed = True
                 else:
                     # if not, the entire content of the tag should become a child of a new seg element, but only if the endTag has not been processed (i.e., tags after that will have been descendents of the last parent of the endTag)
-                    # need to fix this
-                    if not endTagProcessed:
-                        new_span = ET.Element('seg', {'type': 'endNotInEl', 'corresp': start_anchor.attrib['corresp']})
-                        new_span.append(tag)
-                        # replace the tag with the new span
-                        for i, element in enumerate(parent_map[tag]):
-                            if element == tag:
-                                parent_map[tag].insert(i, new_span)
-                                parent_map[tag].remove(tag)
-                                break
+                    if not endTagProcessed and (tag not in deepTags):
+
+                        print(f'{tag} is a deep tag: {tag in deepTags}');
+
+                        # checks to see which of the other tags might be children of the current tag
+                        remainingTags = tags[i:]
+                        for i, innerTag in enumerate(remainingTags):
+                            if innerTag in tag.iter() and i > 0:
+                                deepTags.append(innerTag)
+                        
+                        new_span = ET.Element('seg', {'type': 'shouldNotOccur', 'corresp': start_anchor.attrib['corresp']})
+                        
+                        toRemove = []
+                        
+                        for el in tag.iter():
+                            if el != tag and parent_map[el] == tag:
+                                new_span.append(el)
+                                toRemove.append(el)
+
+                        for el in toRemove:
+                            if el in tag.iter():
+                                tag.remove(el)
+
+                        # add the new span to the tag
+                        tag.insert(0, new_span)
+                        
         
 
         
