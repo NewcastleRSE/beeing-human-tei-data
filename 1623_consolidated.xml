@@ -341,26 +341,26 @@
                     </app> is, <note type="authorial" subtype="bibliographic" xml:id="frontbibln4">
                         <bibl rend="italic"> V.c.10.p.3.</bibl>
                     </note> both for the preserving, and restoring of mans health, I thought it not
-                    amisse to spend some by-time for my recreation, in searching out <anchor xml:id="anchorTestStart" type="attachmentEditorialNote" subtype="start" corresp="#" /><seg type="attachmentEditorialNote" corresp="#" /><app type="minor" subtype="change">
-                        <seg type="shouldNotOccur" corresp="#"><lem wit="#b1623">their nature and properties</lem>
+                    amisse to spend some by-time for my recreation, in searching out <app type="minor" subtype="change">
+                        <lem wit="#b1623">their nature and properties</lem>
                         <rdg wit="#b1609" source="1609.xml#ch0ancs14 1609.xml#ch0ance14">the nature &amp; properties of Bees</rdg>
-                    </seg></app>, <app type="minor" subtype="add">
-                        <seg type="shouldNotOccur" corresp="#"><lem wit="#b1623">their helpes and hinderances,</lem>
+                    </app>, <app type="minor" subtype="add">
+                        <lem wit="#b1623">their helpes and hinderances,</lem>
                         <rdg wit="#b1609" />
-                    </seg></app> that I might know how to doe good unto them, which are so good for us,
+                    </app> that I might know how to doe good unto them, which are so good for us,
                     and what is the due and right ordering of these delightful, profitable, and
                     necessary creatures. And having to my contentment, though to my cost, in some
-                    sort obtained my desire, I was incited, even by the rule of charitie, to
+                    sort obtained my desire, <anchor xml:id="anchorTestStart" type="attachmentEditorialNote" subtype="start" corresp="#" /><seg type="firstSpan" corresp="#">I was incited, even by the rule of charitie, to
                     communicate that to my neighbours and country-men, which I have found so
                     beneficiall to my selfe: so that the Reader may now freely reape the fruit of
-                    that, which the Author hath deerely sowen vnto him.</p>
-                <p xml:id="frontpar5">
-                    <seg type="shouldNotOccur" corresp="#"><note type="authorial" subtype="bibliographic" xml:id="frontbibln5">
+                    that, which the Author hath deerely sowen vnto him.</seg></p>
+                <p xml:id="frontpar5"><seg type="middleSpan" corresp="#">
+                    <note type="authorial" subtype="bibliographic" xml:id="frontbibln5">
                         <bibl rend="italic">De generat.an.l.3.c.10.</bibl>
                     </note> The Philosopher intreating of the breeding of Bees, professeth himselfe
-                    uncertaine of their sex: and therefore,
-                    willing in this uncertaintie to grace so worthy a creature with the worthier
-                    title, he every where calleth their governor <foreign xml:lang="grc">&#946;&#945;&#963;&#953;&#955;&#949;&#973;&#962;</foreign>, <app type="vocabulary" subtype="del">
+                    uncertaine of their sex: and therefore, willing in this uncertaintie to grace so
+                    worthy a creature with the worthier title, he every where calleth their governor
+                        <foreign xml:lang="grc">&#946;&#945;&#963;&#953;&#955;&#949;&#973;&#962;</foreign>, <app type="vocabulary" subtype="del">
                         <lem wit="#b1623" />
                         <rdg wit="#b1609" source="1609.xml#ch0ancs15 1609.xml#ch0ance15">or</rdg>
                     </app><foreign xml:lang="la"> Rex</foreign>. As many as followed him, searching
@@ -378,7 +378,7 @@
                     <ref target="#frontbibln6" rend="italic"><seg rend="italic">v</seg><seg rend="italic">.</seg></ref>
                     <note type="authorial" subtype="bibliographic" xml:id="frontbibln6">
                         <ref target="#ch4sumn11"><seg rend="italic">V</seg><seg rend="italic">.</seg><seg rend="italic">c</seg><seg rend="italic">.</seg><seg rend="normal">4</seg><seg rend="italic">.</seg><seg rend="italic">n</seg><seg rend="italic">.</seg><seg rend="normal">1</seg><seg rend="normal">1</seg><seg rend="italic">.</seg></ref></note></seg></p>
-                <p xml:id="frontpar6"><seg type="ParagraphSpan" corresp="#">In distinguishing the times of the yeere, I use the
+                <p xml:id="frontpar6"><seg type="penultimateSpan" corresp="#">In distinguishing the times of the yeere, I use the
                     Astronomicall months, as most natural and fitting to my purpose <app type="minor" subtype="del">
                         <lem wit="#b1623" />
                         <rdg wit="#b1609" source="1609.xml#ch0ancs17 1609.xml#ch0ance17">beginning each
@@ -393,8 +393,11 @@
                     <note type="authorial" subtype="bibliographic" xml:id="frontbibln7">
                         <ref target="#ch3sumn36"><seg rend="italic">V</seg><seg rend="italic">.</seg><seg rend="italic">c</seg><seg rend="italic">.</seg><seg rend="normal">3</seg><seg rend="italic">.</seg><seg rend="italic">n</seg><seg rend="italic">.</seg><seg rend="italic"> </seg><seg rend="normal">3</seg><seg rend="normal">6</seg><seg rend="italic">.</seg></ref>
                     </note> Where note that by the name of each moneth, is commonly understood the
-                    first day of the same moneth </seg><anchor xml:id="anchorTestEnd" type="attachmentEditorialNote" subtype="end" corresp="#" /><note xml:id="testNotes" type="editorial" subtype="gloss" corresp="#anchorTestStart #anchorTestEnd">This note is a test</note>(namely, wheresovever this preposition <hi rend="italic">At</hi>, is set before it) except only where it followeth, <hi rend="italic">In</hi>, or <hi rend="italic"> After</hi>, or otherwise the
-                    sense doth plainely shew that it is spoken of the whole Moneth. </p>
+                    first day of the same moneth (namely,
+                    wheresovever this preposition </seg><hi rend="italic"><seg type="lastSpan" corresp="#">At</seg><anchor xml:id="anchorTestEnd" type="attachmentEditorialNote" subtype="end" corresp="#" /><note xml:id="testNotes" type="editorial" subtype="gloss" corresp="#anchorTestStart #anchorTestEnd">This note is a test</note></hi>, is set before it)
+                    except only where it followeth, <hi rend="italic">In</hi>, or <hi rend="italic">
+                        After</hi>, or otherwise the sense doth plainely shew that it is spoken of
+                    the whole Moneth. </p>
                 <p xml:id="frontpar7"><app type="major" subtype="add">
                         <lem wit="#b1623">When you have once, for your satisfaction, perused this
                             Booke, you need not afterward seeke farre for anything therein, whereof

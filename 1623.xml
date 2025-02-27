@@ -340,9 +340,7 @@
                     </app> is, <note type="authorial" subtype="bibliographic" xml:id="frontbibln4">
                         <bibl rend="italic"> V.c.10.p.3.</bibl>
                     </note> both for the preserving, and restoring of mans health, I thought it not
-                    amisse to spend some by-time for my recreation, in searching out <anchor xml:id="anchorTestStart" type="attachmentEditorialNote"
-                        subtype="start" corresp="#"/><app
-                        type="minor" subtype="change">
+                    amisse to spend some by-time for my recreation, in searching out <app type="minor" subtype="change">
                         <lem wit="#b1623">their nature and properties</lem>
                         <rdg wit="#b1609"><ptr target="1609.xml#ch0ancs14 1609.xml#ch0ance14"
                             /></rdg>
@@ -352,7 +350,9 @@
                     </app> that I might know how to doe good unto them, which are so good for us,
                     and what is the due and right ordering of these delightful, profitable, and
                     necessary creatures. And having to my contentment, though to my cost, in some
-                    sort obtained my desire, I was incited, even by the rule of charitie, to
+                    sort obtained my desire, <anchor
+                        xml:id="anchorTestStart" type="attachmentEditorialNote" subtype="start"
+                        corresp="#"/>I was incited, even by the rule of charitie, to
                     communicate that to my neighbours and country-men, which I have found so
                     beneficiall to my selfe: so that the Reader may now freely reape the fruit of
                     that, which the Author hath deerely sowen vnto him.</p>
@@ -360,10 +360,10 @@
                     <note type="authorial" subtype="bibliographic" xml:id="frontbibln5">
                         <bibl rend="italic">De generat.an.l.3.c.10.</bibl>
                     </note> The Philosopher intreating of the breeding of Bees, professeth himselfe
-                    uncertaine of their sex: and therefore,
-                    willing in this uncertaintie to grace so worthy a creature with the worthier
-                    title, he every where calleth their governor <foreign xml:lang="grc"
-                        >βασιλεύς</foreign>, <app type="vocabulary" subtype="del">
+                    uncertaine of their sex: and therefore, willing in this uncertaintie to grace so
+                    worthy a creature with the worthier title, he every where calleth their governor
+                        <foreign xml:lang="grc">βασιλεύς</foreign>, <app type="vocabulary"
+                        subtype="del">
                         <lem wit="#b1623"/>
                         <rdg wit="#b1609"><ptr target="1609.xml#ch0ancs15 1609.xml#ch0ance15"
                             /></rdg>
@@ -395,13 +395,14 @@
                     <note type="authorial" subtype="bibliographic" xml:id="frontbibln7">
                         <ref target="#ch3sumn36">V.c.3.n. 36.</ref>
                     </note> Where note that by the name of each moneth, is commonly understood the
-                    first day of the same moneth <anchor xml:id="anchorTestEnd"
+                    first day of the same moneth (namely,
+                    wheresovever this preposition <hi rend="italic">At<anchor xml:id="anchorTestEnd"
                         type="attachmentEditorialNote" subtype="end" corresp="#"/><note
                             xml:id="testNotes" type="editorial" subtype="gloss"
-                            corresp="#anchorTestStart #anchorTestEnd">This note is a test</note>(namely, wheresovever this preposition <hi
-                        rend="italic">At</hi>, is set before it) except only where it followeth, <hi
-                        rend="italic">In</hi>, or <hi rend="italic"> After</hi>, or otherwise the
-                    sense doth plainely shew that it is spoken of the whole Moneth. </p>
+                            corresp="#anchorTestStart #anchorTestEnd">This note is a test</note></hi>, is set before it)
+                    except only where it followeth, <hi rend="italic">In</hi>, or <hi rend="italic">
+                        After</hi>, or otherwise the sense doth plainely shew that it is spoken of
+                    the whole Moneth. </p>
                 <p xml:id="frontpar7"><app type="major" subtype="add">
                         <lem wit="#b1623">When you have once, for your satisfaction, perused this
                             Booke, you need not afterward seeke farre for anything therein, whereof
