@@ -198,11 +198,12 @@ def transform_editorial_notes_anchors_into_spans(tree, ns):
                         direct_child = parent_map[end_anchor]
                         while parent_map[direct_child] != tag:
                             direct_child = parent_map[direct_child]
+                        print(direct_child)
 
                         # create a new span that will take everything from the start of tag to the direct child
                         new_span = ET.Element('seg', {'type': 'penultimateSpan', 'corresp': start_anchor.attrib['corresp']})
                         # if there is any text between the start of the tag and the direct child, collect that
-                        if tag.text:
+                        if tag.text and not tag.text.isspace():
                             new_span.text = tag.text
                             tag.text = ''
                         toRemove = []
@@ -214,8 +215,11 @@ def transform_editorial_notes_anchors_into_spans(tree, ns):
                                 toRemove.append(el)
                             elif el != tag and parent_map[el] != tag:
                                 deepTags.append(el)
-                        # insert the new span at the start of the tag
-                        tag.insert(0, new_span)
+                            
+                        # if the new_span has no children, and no text or tail, can be ignored
+                        if len(new_span) != 0 or new_span.text or new_span.tail:
+                            # insert the new span at the start of the tag
+                            tag.insert(0, new_span)
                         # remove the elements that have been moved
                         for el in toRemove:
                             if el in tag.iter():

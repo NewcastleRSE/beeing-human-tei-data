@@ -378,7 +378,7 @@
                     <ref target="#frontbibln6" rend="italic"><seg rend="italic">v</seg><seg rend="italic">.</seg></ref>
                     <note type="authorial" subtype="bibliographic" xml:id="frontbibln6">
                         <ref target="#ch4sumn11"><seg rend="italic">V</seg><seg rend="italic">.</seg><seg rend="italic">c</seg><seg rend="italic">.</seg><seg rend="normal">4</seg><seg rend="italic">.</seg><seg rend="italic">n</seg><seg rend="italic">.</seg><seg rend="normal">1</seg><seg rend="normal">1</seg><seg rend="italic">.</seg></ref></note></seg></p>
-                <p xml:id="frontpar6"><seg type="penultimateSpan" corresp="#">In distinguishing the times of the yeere, I use the
+                <p xml:id="frontpar6"><seg type="middleSpan" corresp="#">In distinguishing the times of the yeere, I use the
                     Astronomicall months, as most natural and fitting to my purpose <app type="minor" subtype="del">
                         <lem wit="#b1623" />
                         <rdg wit="#b1609" source="1609.xml#ch0ancs17 1609.xml#ch0ance17">beginning each
@@ -394,14 +394,14 @@
                         <ref target="#ch3sumn36"><seg rend="italic">V</seg><seg rend="italic">.</seg><seg rend="italic">c</seg><seg rend="italic">.</seg><seg rend="normal">3</seg><seg rend="italic">.</seg><seg rend="italic">n</seg><seg rend="italic">.</seg><seg rend="italic"> </seg><seg rend="normal">3</seg><seg rend="normal">6</seg><seg rend="italic">.</seg></ref>
                     </note> Where note that by the name of each moneth, is commonly understood the
                     first day of the same moneth (namely,
-                    wheresovever this preposition </seg><hi rend="italic"><seg type="lastSpan" corresp="#">At</seg><anchor xml:id="anchorTestEnd" type="attachmentEditorialNote" subtype="end" corresp="#" /><note xml:id="testNotes" type="editorial" subtype="gloss" corresp="#anchorTestStart #anchorTestEnd">This note is a test</note></hi>, is set before it)
+                    wheresovever this preposition <hi rend="italic">At</hi>, is set before it)
                     except only where it followeth, <hi rend="italic">In</hi>, or <hi rend="italic">
                         After</hi>, or otherwise the sense doth plainely shew that it is spoken of
-                    the whole Moneth. </p>
+                    the whole Moneth. </seg></p>
                 <p xml:id="frontpar7"><app type="major" subtype="add">
-                        <lem wit="#b1623">When you have once, for your satisfaction, perused this
+                        <lem wit="#b1623"><seg type="penultimateSpan" corresp="#">When you have once, for your satisfaction, perused this
                             Booke, you need not afterward seeke farre for anything therein, whereof
-                            you doubt: the <ref target="#contents" rend="italic"><seg rend="italic">I</seg><seg rend="italic">n</seg><seg rend="italic">d</seg><seg rend="italic">e</seg><seg rend="italic">x</seg></ref> of the
+                            you doubt: the </seg><ref target="#contents" rend="italic"><seg type="lastSpan" corresp="#" /><anchor xml:id="anchorTestEnd" type="attachmentEditorialNote" subtype="end" corresp="#" /><note xml:id="testNotes" type="editorial" subtype="gloss" corresp="#anchorTestStart #anchorTestEnd">This note is a test</note>Index</ref> of the
                             Chapters or Contents of the Booke; and of the Marginall notes, or
                             Contents of the Chapters will readily direct you. For example, if you
                             would know the Spleeting of Hives, or the manner of Hiving Bees; looking
