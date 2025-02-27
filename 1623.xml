@@ -352,7 +352,7 @@
                     necessary creatures. And having to my contentment, though to my cost, in some
                     sort obtained my desire, <anchor
                         xml:id="anchorTestStart" type="attachmentEditorialNote" subtype="start"
-                        corresp="#"/>I was incited, even by the rule of charitie, to
+                        corresp="#testNotes"/>I was incited, even by the rule of charitie, to
                     communicate that to my neighbours and country-men, which I have found so
                     beneficiall to my selfe: so that the Reader may now freely reape the fruit of
                     that, which the Author hath deerely sowen vnto him.</p>
@@ -360,7 +360,10 @@
                     <note type="authorial" subtype="bibliographic" xml:id="frontbibln5">
                         <bibl rend="italic">De generat.an.l.3.c.10.</bibl>
                     </note> The Philosopher intreating of the breeding of Bees, professeth himselfe
-                    uncertaine of their sex: and therefore, willing in this uncertaintie to grace so
+                    uncertaine of their sex<anchor xml:id="anchorTestEnd"
+                        type="attachmentEditorialNote" subtype="end" corresp="#testNotes"/><note
+                            xml:id="testNotes" type="editorial" subtype="gloss"
+                            corresp="#anchorTestStart #anchorTestEnd">This note is a test</note>: and therefore, willing in this uncertaintie to grace so
                     worthy a creature with the worthier title, he every where calleth their governor
                         <foreign xml:lang="grc">βασιλεύς</foreign>, <app type="vocabulary"
                         subtype="del">
@@ -403,10 +406,7 @@
                 <p xml:id="frontpar7"><app type="major" subtype="add">
                         <lem wit="#b1623">When you have once, for your satisfaction, perused this
                             Booke, you need not afterward seeke farre for anything therein, whereof
-                            you doubt: the <ref target="#contents" rend="italic"><anchor xml:id="anchorTestEnd"
-                                type="attachmentEditorialNote" subtype="end" corresp="#"/><note
-                                    xml:id="testNotes" type="editorial" subtype="gloss"
-                                    corresp="#anchorTestStart #anchorTestEnd">This note is a test</note>Index</ref> of the
+                            you doubt: the <ref target="#contents" rend="italic">Index</ref> of the
                             Chapters or Contents of the Booke; and of the Marginall notes, or
                             Contents of the Chapters will readily direct you. For example, if you
                             would know the Spleeting of Hives, or the manner of Hiving Bees; looking

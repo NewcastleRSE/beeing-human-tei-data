@@ -153,9 +153,11 @@ def transform_editorial_notes_anchors_into_spans(tree, ns):
         processedTags = [];
         endTagProcessed = False
 
+        attributes = {'type': 'fragmentedNoteAttachement' ,'corresp': start_anchor.attrib['corresp']}
+
         for i, tag in enumerate(tags):
             if i == 0:
-                span = ET.Element('seg', {'type': 'firstSpan', 'corresp': start_anchor.attrib['corresp']})
+                span = ET.Element('seg', {**attributes, 'part': 'I'})
                     # collect the tail if it exists, then remove it
                 if (tag.tail):
                     span.text = tag.tail
@@ -201,7 +203,7 @@ def transform_editorial_notes_anchors_into_spans(tree, ns):
                         print(direct_child)
 
                         # create a new span that will take everything from the start of tag to the direct child
-                        new_span = ET.Element('seg', {'type': 'penultimateSpan', 'corresp': start_anchor.attrib['corresp']})
+                        new_span = ET.Element('seg', {**attributes, 'part': 'M'})
                         # if there is any text between the start of the tag and the direct child, collect that
                         if tag.text and not tag.text.isspace():
                             new_span.text = tag.text
@@ -227,7 +229,7 @@ def transform_editorial_notes_anchors_into_spans(tree, ns):
                         
                         endTagProcessed = True
                     else:
-                        span = ET.Element('seg', {'type': 'lastSpan', 'corresp': start_anchor.attrib['corresp']})
+                        span = ET.Element('seg', {**attributes, 'part': 'F'})
                         toRemove = [];
                         for el in tag.iter():
                             if el != tag:
@@ -257,7 +259,7 @@ def transform_editorial_notes_anchors_into_spans(tree, ns):
                             if innerTag in tag.iter() and i > 0:
                                 deepTags.append(innerTag)
                         
-                        new_span = ET.Element('seg', {'type': 'middleSpan', 'corresp': start_anchor.attrib['corresp']})
+                        new_span = ET.Element('seg', {**attributes, 'part': 'M'})
 
                         # If there is any text between the start of the tag and its first child, collect that
                         if tag.text:
@@ -283,7 +285,7 @@ def transform_editorial_notes_anchors_into_spans(tree, ns):
                             # if tag.tail only contains whitespace, ignore it
                             if not tag.tail.isspace():
                                 print('Tail being considered')
-                                tail_span = ET.Element('seg', {'type': 'tailSpan', 'corresp': start_anchor.attrib['corresp']})
+                                tail_span = ET.Element('seg', {**attributes, 'part': 'M'})
                                 tail_span.text = tag.tail
                                 tag.tail = ''
                                 # place the new span after the tag

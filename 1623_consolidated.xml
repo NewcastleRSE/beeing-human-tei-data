@@ -350,15 +350,15 @@
                     </app> that I might know how to doe good unto them, which are so good for us,
                     and what is the due and right ordering of these delightful, profitable, and
                     necessary creatures. And having to my contentment, though to my cost, in some
-                    sort obtained my desire, <anchor xml:id="anchorTestStart" type="attachmentEditorialNote" subtype="start" corresp="#" /><seg type="firstSpan" corresp="#">I was incited, even by the rule of charitie, to
+                    sort obtained my desire, <anchor xml:id="anchorTestStart" type="attachmentEditorialNote" subtype="start" corresp="#testNotes" /><seg type="fragmentedNoteAttachement" corresp="#testNotes" part="I">I was incited, even by the rule of charitie, to
                     communicate that to my neighbours and country-men, which I have found so
                     beneficiall to my selfe: so that the Reader may now freely reape the fruit of
                     that, which the Author hath deerely sowen vnto him.</seg></p>
-                <p xml:id="frontpar5"><seg type="middleSpan" corresp="#">
+                <p xml:id="frontpar5"><seg type="fragmentedNoteAttachement" corresp="#testNotes" part="F">
                     <note type="authorial" subtype="bibliographic" xml:id="frontbibln5">
                         <bibl rend="italic">De generat.an.l.3.c.10.</bibl>
                     </note> The Philosopher intreating of the breeding of Bees, professeth himselfe
-                    uncertaine of their sex: and therefore, willing in this uncertaintie to grace so
+                    uncertaine of their sex</seg><anchor xml:id="anchorTestEnd" type="attachmentEditorialNote" subtype="end" corresp="#testNotes" /><note xml:id="testNotes" type="editorial" subtype="gloss" corresp="#anchorTestStart #anchorTestEnd">This note is a test</note>: and therefore, willing in this uncertaintie to grace so
                     worthy a creature with the worthier title, he every where calleth their governor
                         <foreign xml:lang="grc">&#946;&#945;&#963;&#953;&#955;&#949;&#973;&#962;</foreign>, <app type="vocabulary" subtype="del">
                         <lem wit="#b1623" />
@@ -377,8 +377,8 @@
                     this being an <hi rend="italic">Amazonian or feminine kingdome.</hi>
                     <ref target="#frontbibln6" rend="italic"><seg rend="italic">v</seg><seg rend="italic">.</seg></ref>
                     <note type="authorial" subtype="bibliographic" xml:id="frontbibln6">
-                        <ref target="#ch4sumn11"><seg rend="italic">V</seg><seg rend="italic">.</seg><seg rend="italic">c</seg><seg rend="italic">.</seg><seg rend="normal">4</seg><seg rend="italic">.</seg><seg rend="italic">n</seg><seg rend="italic">.</seg><seg rend="normal">1</seg><seg rend="normal">1</seg><seg rend="italic">.</seg></ref></note></seg></p>
-                <p xml:id="frontpar6"><seg type="middleSpan" corresp="#">In distinguishing the times of the yeere, I use the
+                        <ref target="#ch4sumn11"><seg rend="italic">V</seg><seg rend="italic">.</seg><seg rend="italic">c</seg><seg rend="italic">.</seg><seg rend="normal">4</seg><seg rend="italic">.</seg><seg rend="italic">n</seg><seg rend="italic">.</seg><seg rend="normal">1</seg><seg rend="normal">1</seg><seg rend="italic">.</seg></ref></note></p>
+                <p xml:id="frontpar6">In distinguishing the times of the yeere, I use the
                     Astronomicall months, as most natural and fitting to my purpose <app type="minor" subtype="del">
                         <lem wit="#b1623" />
                         <rdg wit="#b1609" source="1609.xml#ch0ancs17 1609.xml#ch0ance17">beginning each
@@ -397,11 +397,11 @@
                     wheresovever this preposition <hi rend="italic">At</hi>, is set before it)
                     except only where it followeth, <hi rend="italic">In</hi>, or <hi rend="italic">
                         After</hi>, or otherwise the sense doth plainely shew that it is spoken of
-                    the whole Moneth. </seg></p>
+                    the whole Moneth. </p>
                 <p xml:id="frontpar7"><app type="major" subtype="add">
-                        <lem wit="#b1623"><seg type="penultimateSpan" corresp="#">When you have once, for your satisfaction, perused this
+                        <lem wit="#b1623">When you have once, for your satisfaction, perused this
                             Booke, you need not afterward seeke farre for anything therein, whereof
-                            you doubt: the </seg><ref target="#contents" rend="italic"><seg type="lastSpan" corresp="#" /><anchor xml:id="anchorTestEnd" type="attachmentEditorialNote" subtype="end" corresp="#" /><note xml:id="testNotes" type="editorial" subtype="gloss" corresp="#anchorTestStart #anchorTestEnd">This note is a test</note>Index</ref> of the
+                            you doubt: the <ref target="#contents" rend="italic"><seg rend="italic">I</seg><seg rend="italic">n</seg><seg rend="italic">d</seg><seg rend="italic">e</seg><seg rend="italic">x</seg></ref> of the
                             Chapters or Contents of the Booke; and of the Marginall notes, or
                             Contents of the Chapters will readily direct you. For example, if you
                             would know the Spleeting of Hives, or the manner of Hiving Bees; looking
