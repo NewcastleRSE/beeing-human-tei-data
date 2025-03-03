@@ -404,11 +404,10 @@
                             would know the Spleeting of Hives, or the manner of Hiving Bees; looking
                             into the <ref target="#contents" rend="italic"><seg rend="italic">I</seg><seg rend="italic">n</seg><seg rend="italic">d</seg><seg rend="italic">e</seg><seg rend="italic">x</seg></ref> of the
                             Chapters, you shall perceive the one to appertaine to the Third, and the
-                            other to the Fifth; and running over the Contents of either
-                                Chapter, you shall
-                            find the first to be the Tenth note, and the other the 53. Then turning
-                            to these Marginall Notes in the said Chapters, you have in the Text over
-                            against them your desire.</lem>
+                            other to the Fifth; and running over the Contents of either Chapter, you
+                            shall find the first to be the Tenth note, and the other the 53. Then
+                            turning to these Marginall Notes in the said Chapters, you have in the
+                            Text over against them your desire.</lem>
                         <rdg wit="#b1609" />
                     </app></p>
                 <p xml:id="frontpar8"><app type="major" subtype="add">
@@ -5783,14 +5782,20 @@
                             <desc>A rendition of tooting</desc>
                         </media> This is the content of the note</note> as if she did pray hir
                     Queene-mother to let them goe. <app type="minor" subtype="change">
-                        <lem wit="#b1623">Unto which voice if the Queene vouchsafe to reply,</lem>
-                        <rdg wit="#b1609" source="1609.xml#ch5ancs51 1609.xml#ch5ance51">whereunto if she yeeld consent by hir answering</rdg>
+                        <lem wit="#b1623">Unto which voice if the <anchor xml:id="ch5noteAnchorStart1" type="attachmentEditorialNote" subtype="start" corresp="#ch5ednote52x" /><seg type="fragmentedNoteAttachement" corresp="#ch5ednote52x" part="I">Queene vouchsafe to
+                            reply,</seg></lem>
+                        <rdg wit="#b1609" source="1609.xml#ch5ancs51 1609.xml#ch5ance51"><seg type="fragmentedNoteAttachement" corresp="#ch5ednote52x" part="M">whereunto if she yeeld consent by hir answering</seg></rdg>
                     </app>
                     <app type="minor" subtype="add">
-                        <lem wit="#b1623">tuning hir <fw type="catch"> Base </fw>
+                        <lem wit="#b1623"><seg type="fragmentedNoteAttachement" corresp="#ch5ednote52x" part="F">tuning hir <fw type="catch"> Base </fw>
                             <pb n="K3v" />
                             <fw type="header"> Of the Swarming of Bees, </fw>
-                            <term>Base</term> to the young Princes <term>Treble</term>,</lem>
+                            <term>Base</term></seg><anchor corresp="#ch5ednote52x" xml:id="ch5noteAnchorEnd1" type="attachmentEditorialNote" subtype="end" /><note xml:id="ch5ednote52x" type="editorial" subtype="gloss" resp="MW" source="Butlercrossref" corresp="#anchorStart #anchorEnd">&#8216;The Bass
+                                is so called, because it is the basis or foundation of the the Song,
+                                unto which all other Parts bee set: and it is to be sung with a
+                                deep, ful, and pleasing Voice&#8217; (Butler, Principles of Musick, 1636).
+                                In fact, there is only a limited pitch difference between the two
+                                bees. </note> to the young Princes <term>Treble</term>,</lem>
                         <rdg wit="#b1609" />
                     </app> (<app type="minor" subtype="change">
                         <lem wit="#b1623">as commonly she doth, though sometime scarcely intreated
