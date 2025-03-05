@@ -1208,7 +1208,7 @@
 
           <!-- required minimal header elements -->
           <moduleRef key="header"
-            include="teiHeader fileDesc titleStmt publicationStmt sourceDesc principal funder editionStmt edition authority licence revisionDesc listChange change encodingDesc"/>
+            include="teiHeader fileDesc titleStmt publicationStmt sourceDesc principal funder editionStmt edition authority licence revisionDesc listChange change encodingDesc profileDesc"/>
 
           <!-- required core elements (p and title for use in titleStmt) -->
           <moduleRef key="core"
@@ -1223,11 +1223,12 @@
 
 
           <moduleRef key="transcr" include="fw listTranspose transpose"/>
-          <moduleRef key="namesdates" include="persName placeName orgName"/>
+          <moduleRef key="namesdates" include="persName placeName orgName listPerson person"/>
           <moduleRef key="analysis" include="w s"/>
           <moduleRef key="figures" include="figure figDesc"/>
           <moduleRef key="textcrit" include="listWit witness app lem rdg variantEncoding"/>
           <moduleRef key="linking" include="seg standOff anchor"/>
+          <moduleRef key="corpus" include="particDesc"/>
 
           <!-- Element changes, definitions, schematron rules... -->
 
