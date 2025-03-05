@@ -104,6 +104,36 @@
                 and variation between editions (1623, 1609, 1634)</p>
             <variantEncoding method="parallel-segmentation" location="internal"/>
         </encodingDesc>
+        <profileDesc>
+            <particDesc>
+                <listPerson>
+                    <person xml:id="JR">
+                        <persName corresp="jenny" key="JR" >Jennifer Richards</persName>
+                    </person>
+                    <person xml:id="TSG">
+                        <persName corresp="tiago" key="TSG" >Tiago Sousa Garcia</persName>
+                    </person>
+                    <person xml:id="OS">
+                        <persName corresp="olivia" key="OS">Olivia Smith</persName>
+                    </person>
+                    <person xml:id="BH">
+                        <persName corresp="bennett" key="BH">Bennett Hogg</persName>
+                    </person>
+                    <person xml:id="MW">
+                        <persName corresp="magnus" key="MW">Magnus Williamson</persName>
+                    </person>
+                    <person xml:id="LB">
+                        <persName corresp="luigi" key="LB">Luigi Baciadonna</persName>
+                    </person>
+                    <person xml:id="VN">
+                        <persName corresp="vivek" key="VN">Vivek Nityananda</persName>
+                    </person>
+                    <person xml:id="BGS">
+                        <persName corresp="balu" key="BGS">Balu</persName>
+                    </person>
+                </listPerson>
+            </particDesc>
+        </profileDesc>
         <revisionDesc>
             <listChange>
                 <change who="TSG" when="2023-10-18">Minor corrections to the first five
@@ -4258,7 +4288,7 @@
                 <p xml:id="ch3par61">Also reare the swarmes that being under-hived doe lie forth,
                     with <ref xml:id="ch5ednatt41" type="attachment" target="#ch5ednote41"
                         >bolsters</ref><note xml:id="ch5ednote41" type="editorial" subtype="gloss"
-                        resp="JR" source="OED">bolsters] props or supports, from the verb ‘to
+                        resp="#JR" source="OED">bolsters] props or supports, from the verb ‘to
                         bolster’ (OED).</note> of that thicknesse that may but let in the Bees. </p>
                 <p xml:id="ch3par62"><note type="authorial" subtype="summary" xml:id="ch3sumn42">42.
                             <term>LEO</term>.</note> In <term> Leo</term>, or presently after the
@@ -4298,7 +4328,7 @@
                     following, and be ready at the doores to keepe out robbers) cut off so much of
                     the <ref xml:id="ch5ednatt36" type="attachment" target="#ch5ednote36"
                         >skirts</ref><note xml:id="ch5ednote36" type="editorial" subtype="gloss"
-                        resp="JR" source="OED"><hi>skirts]</hi> bases of a bell or beehive (OED
+                        resp="#JR" source="OED"><hi>skirts]</hi> bases of a bell or beehive (OED
                         4b).</note> as will serve the turne (the bigger the Hive is, the more you
                     may lessen him) and so set him downe, cut a Summer-doore <ref
                         target="#ch3bibln26">v:</ref><note type="authorial" subtype="bibliographic"
@@ -5515,11 +5545,11 @@
                         target="#ch5ednote1">Of the Swarming of Bees</ref>, and the<lb/>
                     <hi rend="opposite"><ref xml:id="ch5ednatt3" type="attachment"
                             target="#ch5ednote3">Hiving</ref> of them.</hi></head>
-                <note xml:id="ch5ednote1" type="editorial" subtype="gloss" resp="JR" source="OED"
+                <note xml:id="ch5ednote1" type="editorial" subtype="gloss" resp="#JR" source="OED"
                     >‘Of bees: To gather in a compact cluster and leave the hive in a body to found
                     a new colony’ (v.1, OED 1a). See next annotation for a longer entry on
                     Swarming.</note>
-                <note xml:id="ch5ednote3" type="editorial" subtype="gloss" resp="JR" source="Many"
+                <note xml:id="ch5ednote3" type="editorial" subtype="gloss" resp="#JR" source="Many"
                     >Hives (or skeps) at this time were ‘baskets placed open-end-down’, made from
                     wicker or straw; they had no internal structure, so the colony had to ‘produce
                     its own honeycomb, which is attached to the inside of the skep’. Skeps have ‘two
@@ -5537,7 +5567,7 @@
                 <p xml:id="ch5par1"><note type="authorial" subtype="summary" xml:id="ch5sumn1">1.
                         The parts of <ref xml:id="ch5ednatt2" type="attachment" target="#ch5ednote2"
                             >a swarme.</ref></note><note xml:id="ch5ednote2" type="editorial"
-                        subtype="gloss" resp="JR"> Swarming is a natural process by which honeybees
+                        subtype="gloss" resp="#JR"> Swarming is a natural process by which honeybees
                         protect and grow their communities. It usually begins in the early
                         summer—May, June, sometimes July—as the hive fills up and food outside
                         becomes readily available. The f step is that a colony rears ten or more
@@ -5566,7 +5596,7 @@
                         target="#ch5ednote4">stocks</ref> having bred and filled their Hives doe
                     send forth swarmes. A swarme doth consist of all such parts as the stocke doth:
                     namely of a Queene-bee, Honie-bees as well old as young, and Drone-bees. <note
-                        xml:id="ch5ednote4" type="editorial" subtype="gloss" resp="JR" source="OED"
+                        xml:id="ch5ednote4" type="editorial" subtype="gloss" resp="#JR" source="OED"
                             ><hi>stocks]</hi> swarms of bees (n.1, OED 41); presumably also a noun
                         for a cluster of bees.</note></p>
                 <p xml:id="ch5par2"><note type="authorial" subtype="summary" xml:id="ch5sumn2">2.
@@ -5581,7 +5611,7 @@
                             /></rdg>
                     </app> and dead ones hee may finde many before the <ref xml:id="ch5ednatt5"
                         type="attachment" target="#ch5ednote5">stooles,</ref><note
-                        xml:id="ch5ednote5" type="editorial" subtype="gloss" resp="JR" source="OED"
+                        xml:id="ch5ednote5" type="editorial" subtype="gloss" resp="#JR" source="OED"
                             ><hi>>stooles]</hi> stands of a beehive. Obsolete. (OED 10b).</note>
                     when the stocks have cast their last swarmes, <app type="reference"
                         subtype="change">
@@ -5596,7 +5626,7 @@
                         <lem wit="#b1623"><ref xml:id="ch5ednatt7" type="attachment"
                                 target="#ch5ednote7">But then, being dead and shrunke together by
                                 the force of the poison, they lose much of their stature</ref><note
-                                xml:id="ch5ednote7" type="editorial" subtype="other" resp="BH"
+                                xml:id="ch5ednote7" type="editorial" subtype="other" resp="#BH"
                                 source="crossref">For a further discussion of analogies of the
                                 monarch's body see Olivia Smith's essay <ref xml:id="ch5link2"
                                     type="link"
@@ -5604,7 +5634,7 @@
                                     >here</ref></note>
                             and <ref xml:id="ch5ednatt6" type="attachment" target="#ch5ednote6"
                                 >comlinesse.</ref><note xml:id="ch5ednote6" type="editorial"
-                                subtype="gloss" resp="OS" source="OED"><hi>comliness]</hi>
+                                subtype="gloss" resp="#OS" source="OED"><hi>comliness]</hi>
                                 attractiveness, beauty (OED 1)</note></lem>
                         <rdg wit="#b1609"/>
                     </app></p>
@@ -5628,7 +5658,7 @@
                         swarme a good signe.</note> And therefore those swarmes that have many
                     Drones will surely prosper: and if they be <ref xml:id="ch5ednatt8"
                         type="attachment" target="#ch5ednote8">rathe</ref><note xml:id="ch5ednote8"
-                        type="editorial" subtype="gloss" resp="JH" source="OED"><hi>rathe]</hi>
+                        type="editorial" subtype="gloss" resp="#JH" source="OED"><hi>rathe]</hi>
                         early; done or occurring before the usual or natural time (adj., OED3
                         2a).</note> will swarme againe, unlesse they bee over-hived: whereas those
                     that have few or none, will increase little or nothing all the Summer after. </p>
@@ -5674,7 +5704,7 @@
                             </note> so that when a dry Summer followeth a moist Spring, the <ref
                                 xml:id="ch5ednatt9" type="attachment" target="#ch5ednote9"
                                 >Bee-folds</ref><note xml:id="ch5ednote9" type="editorial"
-                                subtype="gloss" resp="JHOS" source="OED"><hi>bee-folds]</hi>
+                                subtype="gloss" resp="#JHOS" source="OED"><hi>bee-folds]</hi>
                                 enclosures for bees (OED). Butler is the OED’s first referent for
                                 this and several other terms (i.e. schadon), showing both his
                                 lasting cultural impact and the significance of his writing at the
@@ -5683,7 +5713,7 @@
                             hony, this increase will proove a decrease: the more swarmes you have at
                             the end of this Summer, the fewer <ref xml:id="ch5ednatt10"
                                 type="attachment" target="#ch5ednote10">stalls</ref><note
-                                xml:id="ch5ednote10" type="editorial" subtype="gloss" resp="JR"
+                                xml:id="ch5ednote10" type="editorial" subtype="gloss" resp="#JR"
                                 source="OED">stalls] hive of bees; a ‘stock’ of bees in or for a
                                 hive; also, a beehive (n.4, OED).</note> shall you have at the
                             beginning of the next. For, except some faire rathe swarmes, and some
@@ -5691,7 +5721,7 @@
                                 <ref xml:id="ch5ednatt11" type="attachment" target="#ch5ednote11"
                                 >when they have spent their own pittance, and spoiled their
                                 fellowes.</ref><note xml:id="ch5ednote11" type="editorial"
-                                subtype="gloss" resp="OS" source="context">The economy of the hive
+                                subtype="gloss" resp="#OS" source="context">The economy of the hive
                                 is described here in human terms, as was common in the early modern
                                 period.</note> How to prevent this poverty, see <ref
                                 target="#ch5sumn11"> note 11.</ref>&amp;<ref target="#ch5sumn20">*
@@ -5705,7 +5735,7 @@
                                         rend="italic">in n</seg>.3.</ref>
                             </note> feed the <ref xml:id="ch5ednatt12" type="attachment"
                                 target="#ch5ednote12">midling sort</ref>,<note xml:id="ch5ednote12"
-                                type="editorial" subtype="gloss" resp="JR" source="OED"><hi>midling
+                                type="editorial" subtype="gloss" resp="#JR" source="OED"><hi>midling
                                     sort]</hi> of medium or moderate size, strength, quality, etc
                                 (middling, adj. OED 3 1a).</note>
                             <ref target="#ch5bibln10"> v.</ref>
@@ -5714,7 +5744,7 @@
                             </note>
                             <ref xml:id="ch5ednatt13" type="attachment" target="#ch5ednote13">and be
                                 sure they be not over-hived.</ref><note xml:id="ch5ednote13"
-                                type="editorial" subtype="gloss" resp="BH" source="context"
+                                type="editorial" subtype="gloss" resp="#BH" source="context"
                                 >Southerne (1593) is vehemently opposed to feeding the bees: That it
                                 is not good to feed Bees. This also is a common thing, and the onely
                                 hurt that one can doe to their Bees: for I assure you, you can
@@ -5753,11 +5783,11 @@
                         <lem wit="#b1623">†The reason is, that the weather keeping them in, they can
                             doe nothing but breed and hatch their <ref xml:id="ch5ednatt14"
                                 type="attachment" target="#ch5ednote14">schadons</ref>:<note
-                                xml:id="ch5ednote14" type="editorial" subtype="gloss" resp="JR"
+                                xml:id="ch5ednote14" type="editorial" subtype="gloss" resp="#JR"
                                 source="OED"><hi>schadons]</hi>bee larvae (OED).</note> and when
                             they goe abroad, they bring in <ref xml:id="ch5ednatt15"
                                 type="attachment" target="#ch5ednote15">grosse Bee meat</ref>,<note
-                                xml:id="ch5ednote15" type="editorial" subtype="gloss" resp="JR"
+                                xml:id="ch5ednote15" type="editorial" subtype="gloss" resp="#JR"
                                 source="OED">grosse Bee meat] food for the larvae: e.g. ambrosia.
                                 Butler may be also thinking of something like royal jelly (first
                                 citation in OED is 1806): the ‘substan secreted by honeybee workers
@@ -5766,7 +5796,7 @@
                             <term>
                                 <ref xml:id="ch5ednatt16" type="attachment" target="#ch5ednote16"
                                     >Ambrosia</ref><note xml:id="ch5ednote16" type="editorial"
-                                    subtype="gloss" resp="JR" source="OED"><hi>Ambrosia]</hi>
+                                    subtype="gloss" resp="#JR" source="OED"><hi>Ambrosia]</hi>
                                     ‘Pollen, esp. after it has been collected by honeybees, mixed
                                     with nectar and saliva, and stored as food for workers and
                                     brood’ (OED 3 5). Also known as ‘bee-bread’.</note></term> and
@@ -5783,7 +5813,7 @@
                     delight to arise, but specially in a <app type="minor" subtype="change">
                         <lem wit="#b1623"><ref xml:id="ch5ednatt17" type="attachment"
                                 target="#ch5ednote17">heat-gleame</ref>,<note xml:id="ch5ednote17"
-                                type="editorial" subtype="gloss" resp="JR" source="OED">warm ray (of
+                                type="editorial" subtype="gloss" resp="#JR" source="OED">warm ray (of
                                 the sun); a bright warm interval between rain-showers (gleam, n.,
                                 OED 1c).</note> after that a showre or gloomie cloud hath sent them
                             home together:</lem>
@@ -5819,7 +5849,7 @@
                         type="major" subtype="add">
                         <lem wit="#b1623">In some very <ref xml:id="ch5ednatt18" type="attachment"
                                 target="#ch5ednote18">backward yeres</ref>,<note
-                                xml:id="ch5ednote18" type="editorial" subtype="gloss" resp="JR"
+                                xml:id="ch5ednote18" type="editorial" subtype="gloss" resp="#JR"
                                 source="OED"><hi>backward yeres]</hi> years when the growing season
                                 or harvest is late.</note> such as was <date when="1621"
                                 >1621.</date>&amp; <date when="1622">1622.</date> there have bin
@@ -5846,7 +5876,7 @@
                     they very good: few also in the last fortnight, namely after <ref
                         xml:id="ch5ednatt21" type="attachment" target="#ch5ednote21"><term>S.
                             Peters</term>-tide</ref>,<note xml:id="ch5ednote21" type="editorial"
-                        subtype="gloss" resp="JR" source="OED"><hi>S. Peters-tide]</hi> The feast of
+                        subtype="gloss" resp="#JR" source="OED"><hi>S. Peters-tide]</hi> The feast of
                         St Peter (in the Church of England), celebrated on 29 June (OED).</note> and
                     they <app type="vocabulary" subtype="change">
                         <lem wit="#b1623">all as</lem>
@@ -5864,7 +5894,7 @@
                         type="minor" subtype="add">
                         <lem wit="#b1623">Note heere that in the <ref xml:id="ch5ednatt22"
                                 type="attachment" target="#ch5ednote22">Heath-countrie</ref>,<note
-                                xml:id="ch5ednote22" type="editorial" subtype="gloss" resp="JR"
+                                xml:id="ch5ednote22" type="editorial" subtype="gloss" resp="#JR"
                                 source="OED"><hi>Heath-countrie]</hi> open uncultivated ground
                                 (heath, OED 1a).</note> swarmes are usually lateward, namely in the
                             latter part of <term> Cancer</term> and the forepart of
@@ -5875,7 +5905,7 @@
                 </note>
                 <p xml:id="ch5par11">Those that swarme before the <ref xml:id="ch5ednatt23"
                         type="attachment" target="#ch5ednote23">blowing</ref><note
-                        xml:id="ch5ednote23" type="editorial" subtype="gloss" resp="JR" source="OED"
+                        xml:id="ch5ednote23" type="editorial" subtype="gloss" resp="#JR" source="OED"
                             ><hi>blowing]</hi> blossoming (v.2, OED 1a).</note> of knap-weed, come
                     in very good time: before the blowing of blackberies, <app type="reference"
                         subtype="add">
@@ -5924,7 +5954,7 @@
                             in with them. And if they rise againe, serve them so till they cease.
                             But <ref xml:id="ch5ednatt25" type="attachment" target="#ch5ednote25">if
                                 you spie them</ref><note xml:id="ch5ednote25" type="editorial"
-                                subtype="gloss" resp="OS" source="context"><hi>if you spie
+                                subtype="gloss" resp="#OS" source="context"><hi>if you spie
                                     them]</hi> Butler underscores the attentiveness required from
                                 the beekeeper.</note> rising before the Queene be come forth; shut
                             them in a while, and that will stay them.</lem>
@@ -5936,7 +5966,7 @@
                 <p xml:id="ch5par12"><note type="authorial" subtype="summary" xml:id="ch5sumn12">12.
                             <ref xml:id="ch5ednatt26" type="attachment" target="#ch5ednote26">A
                             prime swarme and an after-swarme</ref><note xml:id="ch5ednote26"
-                            type="editorial" subtype="gloss" resp="JR" source="summary"><hi>prime
+                            type="editorial" subtype="gloss" resp="#JR" source="summary"><hi>prime
                                 swarme, and an after-swarme]</hi> first and second swarm</note><app
                             type="vocabulary" subtype="del">
                             <lem wit="#b1623"/>
@@ -6003,7 +6033,7 @@
                     best know when all things are readie and fit for them: <ref xml:id="ch5ednatt27"
                         type="attachment" target="#ch5ednote27">First within they will be sure that
                         they have a Prince ready to goe with them</ref><note xml:id="ch5ednote27"
-                        type="editorial" subtype="gloss" resp="VN" source="scholarship"><hi>First
+                        type="editorial" subtype="gloss" resp="#VN" source="scholarship"><hi>First
                             within they will be sure that they have a Prince ready to goe with
                             them]</hi> In theory drones should prefer to stay in the already
                         established colony. In practice the percentage of drones in swarms can be
@@ -6028,11 +6058,11 @@
                             </app></term>the old Queene, an other to go forth with <term>
                             Antiope</term> the <ref xml:id="ch5ednatt28" type="attachment"
                             target="#ch5ednote28">Prince</ref>,<note xml:id="ch5ednote28"
-                            type="editorial" subtype="gloss" resp="OS" source="OED"><hi>Prince]</hi>
+                            type="editorial" subtype="gloss" resp="#OS" source="OED"><hi>Prince]</hi>
                             This word could also be applied to a female sovereign (OED
                             l.1.b.)</note> and a third haplie, which, together with the unripe brood
                         in the celles, may make an other swarme to serve <term>Orythia</term>.
-                        </ref><note xml:id="ch5ednote29" type="editorial" subtype="gloss" resp="JR"
+                        </ref><note xml:id="ch5ednote29" type="editorial" subtype="gloss" resp="#JR"
                         source="context">Butler’s comparison of the virgin queens to mythical Amazon
                         queens is introduced in CHAP. IIII. 25. Martesia was the first queen, and
                         she was succeeded by h daughter, Orithyia, who ruled with her sister,
@@ -6060,7 +6090,7 @@
                         Five signes of the first swarming.</note> When the Hives begin to be full,
                     they will <ref xml:id="ch5ednatt30" type="attachment" target="#ch5ednote30"
                         >dronie</ref>,<note xml:id="ch5ednote30" type="editorial" subtype="gloss"
-                        resp="OS" source="OED"><hi>dronie]</hi> Characterized by a continuous steady
+                        resp="#OS" source="OED"><hi>dronie]</hi> Characterized by a continuous steady
                         deep humming or buzzing sound, or a monotonous, dull tone. (OED
                         adj.2)</note> or yeeld forth fledge-drones: <app type="reference"
                         subtype="add">
@@ -6073,7 +6103,7 @@
                     <fw type="header"> and the Hiving of them. </fw> brood of <ref
                         xml:id="ch5ednatt31" type="attachment" target="#ch5ednote31"
                         >nymphes</ref><note xml:id="ch5ednote31" type="editorial" subtype="gloss"
-                        resp="JR" source="OED">In zoology, insect larvae (OED 3a). Given his
+                        resp="#JR" source="OED">In zoology, insect larvae (OED 3a). Given his
                         anthropomorphism, and his use of this term later in this chapter, Butler
                         likely also has in mind the meaning of maiden, a damsel (OED 2b).</note>
                     have beene a good while flying abroad, and are now able to endure both weather
@@ -6175,7 +6205,7 @@
                     multitudes, that the Hive can scarce hold any more, <ref xml:id="ch5ednatt34"
                         type="attachment" target="#ch5ednote34">will have no mind to
                         swarme</ref>:<note xml:id="ch5ednote34" type="editorial" subtype="gloss"
-                        resp="OS" source="context"><hi>will have no mind to swarm]</hi> Sometimes,
+                        resp="#OS" source="context"><hi>will have no mind to swarm]</hi> Sometimes,
                         the bees are characterised as having a collective mind, but at other times
                         individual minds (as per below in 20) ‘their minds are so set’.</note> and
                     when they have once taken to lie forth, the hive will alwaies seem empty, as
@@ -6199,7 +6229,7 @@
                         <lem wit="#b1623">An other cause of their lying forth, is continuall hot and
                             drie weather, specially after the <ref xml:id="ch5ednatt20"
                                 type="attachment" target="#ch5ednote20">Solstice</ref>:<note
-                                xml:id="ch5ednote20" type="editorial" subtype="gloss" resp="JR"
+                                xml:id="ch5ednote20" type="editorial" subtype="gloss" resp="#JR"
                                 source="OED"><hi>Solstice]</hi> The longest day of the year in June,
                                 now 21 June (the summer Solstice) but for Butler, who is using the
                                 old calendar (reformed 1752), 31 June.</note> which causing plentie
@@ -6212,7 +6242,7 @@
                                 <ref xml:id="ch5ednatt35" type="attachment" target="#ch5ednote35"
                                         ><foreign xml:lang="la">(Tantus amor florum, &amp; generandi
                                         gloria mellis)</foreign></ref><note xml:id="ch5ednote35"
-                                    type="editorial" subtype="gloss" resp="JR" source="translation"
+                                    type="editorial" subtype="gloss" resp="#JR" source="translation"
                                         ><hi>Tantus amor florum, &amp; generandi gloria mellis]</hi>
                                     Lat. ‘so deep is their love of flowers and their glory in
                                     begetting honey’ (Virgil, Georgics, 4.205). </note>
@@ -6234,7 +6264,7 @@
                                 they are once sufficientlie provided, they will then be loth to
                                 leave the sweet fruits of their labours, and to change their full
                                 store-houses for that which makes giddie House-wives.</ref><note
-                                xml:id="ch5ednote36x" type="editorial" subtype="gloss" resp="BH"
+                                xml:id="ch5ednote36x" type="editorial" subtype="gloss" resp="#BH"
                                 source="context">This seems to be questioned by Whitehead, 1946, who
                                 writes “The amount of honey and pollen in the hive also has a
                                 bearing on swarming. If this is too much and it is stored in the
@@ -6286,7 +6316,7 @@
                             <rdg wit="#b1609"><ptr target="1609.xml#ch5ancs31 1609.xml#ch5ance31"
                                 /></rdg>
                         </app></ref><note xml:id="ch5ednote37" type="editorial" subtype="gloss"
-                        resp="BH" source="context">Whitehead, in contrast, advocates airing and
+                        resp="#BH" source="context">Whitehead, in contrast, advocates airing and
                         cooling of the hive in his Honeybees and Their Management, Faber and Faber,
                         London, 1946: “Insufficient ventilation and a too-high temperature within
                         the hive are both strengthening to the desire to swarm. They can be
@@ -6318,7 +6348,7 @@
                                 a noyse, as if they were swarming: which their fellowes hearing,
                                 will happlie come forth unto them, and so begin to
                                 swarme.</ref><note xml:id="ch5ednote38" type="editorial"
-                                subtype="gloss" resp="BH" source="context">Butler believes that the
+                                subtype="gloss" resp="#BH" source="context">Butler believes that the
                                 bees who may be reluctant to swarm can be tricked into doing so by
                                 sound - we can probably assume this to be an error. It does, however
                                 intuitively, hint at the sense that what we hear as sound, and bees
@@ -6417,7 +6447,7 @@
                             doubling a stall is this: Having first measured the Hive about in the
                             largest place, provide a <ref xml:id="ch5ednatt42" type="attachment"
                                 target="#ch5ednote42">leere spleeted Hive</ref><note
-                                xml:id="ch5ednote42" type="editorial" subtype="gloss" resp="JR"
+                                xml:id="ch5ednote42" type="editorial" subtype="gloss" resp="#JR"
                                 source="OED"><hi>leere spleeted Hive]</hi> empty (leer, adj.1, OED
                                 1a) beehive, fitted with slips of wood (spleet, v.1, OED).</note> of
                             the same size and compasse: make ready also two square stickes 13. or
@@ -6456,7 +6486,7 @@
                             stoole at your right hand, (both in your complete <ref
                                 xml:id="ch5ednatt43" type="attachment" target="#ch5ednote43"
                                 >harnesse</ref>)<note xml:id="ch5ednote43" type="editorial"
-                                subtype="gloss" resp="JR" source="OED"><hi>harnesse]</hi> protective
+                                subtype="gloss" resp="#JR" source="OED"><hi>harnesse]</hi> protective
                                 clothing, perhaps after the body armour of a man-at-arms or
                                 foot-soldier (OED 2a). </note>
                             <ref target="#ch5bibln22">v:</ref>
@@ -6476,30 +6506,30 @@
                             <fw type="header"> and the Hiving of them. </fw> you put the long stake
                             into his place againe. Then <ref xml:id="ch5ednatt44" type="attachment"
                                 target="#ch5ednote44">cloome</ref><note xml:id="ch5ednote44"
-                                type="editorial" subtype="gloss" resp="JR" source="OED"
+                                type="editorial" subtype="gloss" resp="#JR" source="OED"
                                     ><hi>cloome]</hi> plaster with mud (cloom) (v., OED). </note>
                             the Hives together with rolles, flatted, that none of the cloome fall in
                             among the Bees, leaving open the space betweene the sticks ends for the
                             new doore of this double hive. Lastly put on the <ref
                                 xml:id="ch5ednatt45" type="attachment" target="#ch5ednote45"
                                 >hackle</ref>,<note xml:id="ch5ednote45" type="editorial"
-                                subtype="gloss" resp="JR" source="OED"><hi>hackle]</hi> ‘conical
+                                subtype="gloss" resp="#JR" source="OED"><hi>hackle]</hi> ‘conical
                                 straw cover used to protect a beehive from the weather. Now
                                 historical’ (n.1, OED3 3a). </note> and <ref xml:id="ch5ednatt46"
                                 type="attachment" target="#ch5ednote46">gird</ref><note
-                                xml:id="ch5ednote46" type="editorial" subtype="gloss" resp="JR"
+                                xml:id="ch5ednote46" type="editorial" subtype="gloss" resp="#JR"
                                 source="OED"><hi>gird]</hi> tie firmly (v.1, OED 5a).</note> both it
                             and the long stakes to the leere-hive, about the middle with a Belt, and
                             about the top with a <ref xml:id="ch5ednatt47" type="attachment"
                                 target="#ch5ednote47">With</ref>.<note xml:id="ch5ednote47"
-                                type="editorial" subtype="gloss" resp="JR" source="OED"
+                                type="editorial" subtype="gloss" resp="#JR" source="OED"
                                     ><hi>With]</hi> ‘band, tie, or shackle consisting of a tough
                                 flexible twig or branch, or of several twisted together; such a twig
                                 or branch, as of willow or osier, used for binding or tying, and
                                 sometimes for plaiting’ (OED 1a).</note> And so let them stand till
                             after the end of the <term><ref xml:id="ch5ednatt48" type="attachment"
                                     target="#ch5ednote48">Dog-daies</ref></term>,<note
-                                xml:id="ch5ednote48" type="editorial" subtype="gloss" resp="JR"
+                                xml:id="ch5ednote48" type="editorial" subtype="gloss" resp="#JR"
                                 source="OED"><hi>Dog-daies]</hi> hottest part of the summer (OED3
                                 1a).</note> when Bees are taken. <ref target="#ch5bibln23">v.</ref>
                             <note type="authorial" subtype="bibliographic" xml:id="ch5bibln23">
@@ -6523,7 +6553,7 @@
                             take off the <ref xml:id="ch5ednatt52" type="attachment"
                                 target="#ch5ednote52">upper hive or
                                 <term>Receiver,</term></ref><note xml:id="ch5ednote52"
-                                type="editorial" subtype="gloss" resp="JR" source="OED"><hi>upper
+                                type="editorial" subtype="gloss" resp="#JR" source="OED"><hi>upper
                                     hive or Receiver]</hi> new hive that receives the bees.</note>
                             &amp; set him upon the stoole in the old place: BUT be sure, &amp;c.
                                 <ref target="#ch10p1sumn15">as it followeth, c.10.p.1.n.15</ref>. If
@@ -6578,7 +6608,7 @@
                         target="#ch5eSoundNoteTest">beginneth <app type="minor" subtype="change">
                             <lem wit="#b1623">to tune <ref xml:id="ch5ednatt51" type="attachment"
                                     target="#ch5ednote51">in hir treble voice</ref><note
-                                    xml:id="ch5ednote51" type="editorial" subtype="gloss" resp="MW"
+                                    xml:id="ch5ednote51" type="editorial" subtype="gloss" resp="#MW"
                                     source="Butler crossref">By 1623, ‘treble’ was typically
                                     associated with ‘a high sweet voice’ (Butler, Principles of
                                     Musick, 1636)</note> a mournefull and</lem>
@@ -6612,7 +6642,7 @@
                             <term>Base</term><anchor corresp="#ch5ednote52x"
                                 xml:id="ch5noteAnchorEnd1" type="attachmentEditorialNote"
                                 subtype="end"/><note xml:id="ch5ednote52x" type="editorial"
-                                subtype="gloss" resp="MW" source="Butlercrossref"
+                                subtype="gloss" resp="#MW" source="Butlercrossref"
                                 corresp="#anchorStart #anchorEnd">‘The Bass is so called, because it
                                 is the basis or foundation of the the Song, unto which all other
                                 Parts bee set: and it is to be sung with a deep, ful, and pleasing
@@ -6677,29 +6707,29 @@
                                 target="#ch5ednote53">This song being contained within the compasse
                                 of an <term>Eight</term> from <term> C-sol-fa-ut</term> to
                                     <term>C-sol-fa</term></ref>,<note xml:id="ch5ednote53"
-                                type="editorial" subtype="gloss" resp="MW" source="context">An
+                                type="editorial" subtype="gloss" resp="#MW" source="context">An
                                 octave, from middle C to the C above (or c’ and c” in Helmholtz
                                 pitch notation). </note>
                             <ref xml:id="ch5ednatt54" type="attachment" target="#ch5ednote54">the
                                 Prince composeth hir part</ref><note xml:id="ch5ednote54"
-                                type="editorial" subtype="gloss" resp="MW" source="context">Butler
+                                type="editorial" subtype="gloss" resp="#MW" source="context">Butler
                                 assigns this role to the uppermost, Mean, part in
                                 Melissomelos.</note>
                             <ref xml:id="ch5ednatt55" type="attachment" target="#ch5ednote55">within
                                 the foure upper Cliefes <term>G</term>, <term>A</term>,
                                     <term>B,</term> and <term>C</term></ref><note
-                                xml:id="ch5ednote55" type="editorial" subtype="gloss" resp="MW"
+                                xml:id="ch5ednote55" type="editorial" subtype="gloss" resp="#MW"
                                 source="Butler crossref">‘Here, ‘Cliefes’ means the notes g’, a”, b”
                                 and c” (Butler, Principles of Musick, 1636).</note>
                             <ref xml:id="ch5ednatt56" type="attachment" target="#ch5ednote56"
                                 >usually in triple moode</ref>,<note xml:id="ch5ednote56"
-                                type="editorial" subtype="gloss" resp="MW" source="context">Butler
+                                type="editorial" subtype="gloss" resp="#MW" source="context">Butler
                                 uses ‘triple moode’ in the sense of our ‘compound time’: i.e., with
                                 beats subdivided into threes rather than twos.</note>
                             <ref xml:id="ch5ednatt57" type="attachment" target="#ch5ednote57"
                                 >beginning with an odde <term>Minim</term> in <term>
                                     G-sol-re-ut</term></ref>,<note xml:id="ch5ednote57"
-                                type="editorial" subtype="gloss" resp="MW" source="context"
+                                type="editorial" subtype="gloss" resp="#MW" source="context"
                                 >Beginning with an upbeat on g”. See Melissomelos, bar 27. </note>
                             and tuning the rest of hir notes, whereof the first is a <term>
                                 Semibriefe</term>, in <term> A-la-mi-re.</term> Sometime she taketh
@@ -6707,18 +6737,18 @@
                                 <term>A-la-mi-re</term>, <ref xml:id="ch5ednatt58" type="attachment"
                                 target="#ch5ednote58">and the rest in
                                 <term>B-fa-b-mi.</term></ref><note xml:id="ch5ednote58"
-                                type="editorial" subtype="gloss" resp="MW">B” flat: see
+                                type="editorial" subtype="gloss" resp="#MW">B” flat: see
                                 Melissomelos, bar 33.</note>
                             <ref xml:id="ch5ednatt59" type="attachment" target="#ch5ednote59"
                                 >Sometime, specially toward their comming forth, she riseth yet
                                 higher to <term> C-sol-fa</term></ref>,<note xml:id="ch5ednote59"
-                                type="editorial" subtype="gloss" resp="MW">c”: see Melissomelos,
+                                type="editorial" subtype="gloss" resp="#MW">c”: see Melissomelos,
                                 bars 58-61 and 71-78.</note> holding the time of three or foure
                                 <term>Semibriefes,</term> more or lesse. <ref xml:id="ch5ednatt60"
                                 type="attachment" target="#ch5ednote60">Now and then shee beginneth
                                 in duple time some two or three <term>
                                 Semibriefes</term></ref>,<note xml:id="ch5ednote60" type="editorial"
-                                subtype="gloss" resp="MW">Duple time, also called imperfect time (or
+                                subtype="gloss" resp="#MW">Duple time, also called imperfect time (or
                                 tempus imperfectum): each breve is divided into two semibreves. See
                                 Melissomelos, bars 32 and 62.</note> but alwaies endeth with
                                 <term>Minims</term> of the triple Moode.</lem>
@@ -6737,7 +6767,7 @@
                                 triple moode; commonly in <term>Fa-fa-ut,</term> sometime in
                                     <term>C-sol-fa-ut,</term> sometime in the other two
                                     <term>Cliefes</term> betweene them</ref>:<note
-                                xml:id="ch5ednote61" type="editorial" subtype="gloss" resp="MW">In
+                                xml:id="ch5ednote61" type="editorial" subtype="gloss" resp="#MW">In
                                 1609, Butler notates the Queen’s piping with f’ only. In 1623 he
                                 assigns the Queen’s notes, c’-f’, to the Tenor and Bass, singing (or
                                 playing) above their normal written ranges, and using the same clef
@@ -6756,7 +6786,7 @@
                         <lem wit="#b1623"><ref xml:id="ch5ednatt62" type="attachment"
                                 target="#ch5ednote62">Sometime a third Princesse imitating the
                                 Queenes voice in time, though differing haply in tune</ref>,<note
-                                xml:id="ch5ednote62" type="editorial" subtype="gloss" resp="MW"
+                                xml:id="ch5ednote62" type="editorial" subtype="gloss" resp="#MW"
                                 >Butler assigns this role to the Contratenor: see Melissomelos, bars
                                 53-78.</note> joyneth with them, the more, with their full noise, to
                             incite the swarme to goe, that hir turne may come the sooner. And
@@ -6776,7 +6806,7 @@
                                 >Notwithstanding each of these, when hir elder sister is gone, and
                                 hir turne next, changeth hir note, begging in <term>Orithyas</term>
                                 tune leave to be gone too</ref>:<note xml:id="ch5ednote63"
-                                type="editorial" subtype="gloss" resp="MW">Ask HH to provide text on
+                                type="editorial" subtype="gloss" resp="#MW">Ask HH to provide text on
                                 Orithyia?</note> which as sometime the Queene granteth unasked,
                             beginning first hir selfe; so sometime by hir silence she denieth,
                             though mournfully intreated: and then the swarme tarieth, and the poore
@@ -6813,7 +6843,7 @@
                         <lem wit="#b1623"><ref xml:id="ch5ednatt64" type="attachment"
                                 target="#ch5ednote64">In this <term> Melissomelos,</term> or Bees
                                 Madrigall, Musicians may see the grounds of their Art</ref>:<note
-                                xml:id="ch5ednote64" type="editorial" subtype="gloss" resp="MW"
+                                xml:id="ch5ednote64" type="editorial" subtype="gloss" resp="#MW"
                                 >Butler illustrates this ‘Bees Madrigall’ in Melissomelos at bars
                                 50-78. An Italian genre, the madrigal’s English vogue had peaked
                                 during the 1590s but was spent by 1623. Charles Butler defined the
@@ -6836,19 +6866,19 @@
                             first their <term>Moodes</term>, sometime the <ref xml:id="ch5ednatt65"
                                 type="attachment" target="#ch5ednote65"><term>triple</term> or
                                     <term> imperfect</term> of the more</ref>,<note
-                                xml:id="ch5ednote65" type="editorial" subtype="gloss" resp="MW"
+                                xml:id="ch5ednote65" type="editorial" subtype="gloss" resp="#MW"
                                 >Compound duple time, with two beats per bar, each subdivided into
                                 three: l 1 o o 2 o o l 1 o o 2 o o l 1 o o 2 o o l et cetera.</note>
                             sometime <ref xml:id="ch5ednatt66" type="attachment"
                                 target="#ch5ednote66">the <term>duple</term> or <term>
                                     imperfect</term> of the lesse</ref>:<note xml:id="ch5ednote66"
-                                type="editorial" subtype="gloss" resp="MW">Simple duple time, with
+                                type="editorial" subtype="gloss" resp="#MW">Simple duple time, with
                                 two beats per bar, each subdivided into two: l 1 o 2 o l 1 o 2 o l 1
                                 o 2 o l et cetera.</note>
                             <ref xml:id="ch5ednatt67" type="attachment" target="#ch5ednote67">then
                                 the tunes of the six notes, <term>ut, re, mi, fa, sol,
                                 la</term></ref>;<note xml:id="ch5ednote67" type="editorial"
-                                subtype="gloss" resp="MW">Equivalent to the six-note combinations
+                                subtype="gloss" resp="#MW">Equivalent to the six-note combinations
                                 GABCDE or CDEFGA, with a semitone between mi and fa. These so-called
                                 hexachords were a venerable (and venerated) legacy of 11th-century
                                 music theory and are the ancestors of tonic sol-fa. Charles Butler
@@ -6858,7 +6888,7 @@
                             two, <ref xml:id="ch5ednatt68" type="attachment" target="#ch5ednote68"
                                 >together with the doubling of <term>fa-sol</term> in two higher
                                 Cliefes</ref>,<note xml:id="ch5ednote68" type="editorial"
-                                subtype="gloss" resp="MW">On top of the traditional CDEFGA
+                                subtype="gloss" resp="#MW">On top of the traditional CDEFGA
                                 hexachord, b” flat and c” are added to make up the full octave. In
                                 1636, Butler proposed a seventh solmization syllable, pha, to do
                                 this job: Butler’s music theory.</note> to make up the full <term>
@@ -6867,7 +6897,7 @@
                                     Third</term>, a <term>perfect Third</term>, a <term>
                                     Diatessaron</term>, a <term>Diapente</term>, a
                                     <term>Sixt,</term> and a <term> Diapason</term></ref>.<note
-                                xml:id="ch5ednote69" type="editorial" subtype="gloss" resp="MW"
+                                xml:id="ch5ednote69" type="editorial" subtype="gloss" resp="#MW"
                                 >Minor 3rd (1.5 tones), major 3rd (2 tones), [perfect] 4th (2.5
                                 tones), [perfect] 5th (3.5 tones), major or minor 6th (4 or 4.5
                                 tones) and octave (Butler 1636, pp. 46-49). These are the vertically
@@ -6878,7 +6908,7 @@
                                 sheweth himselfe no experienced Artist, which knoweth not that as
                                 well in <term>Musick</term> as <term>Oeconomick</term>, there must
                                 sometime be Discords</ref>:<note xml:id="ch5ednote70"
-                                type="editorial" subtype="gloss" resp="MW">In classic counterpoint
+                                type="editorial" subtype="gloss" resp="#MW">In classic counterpoint
                                 theory, 2nds and 7ths are discords (Butler 1636, p. 51): usable, as
                                 Butler asserts, but only in accordance with fixed conventions
                                 (Butler, Principles of Musick, 1636).</note> yea and that in either
@@ -6896,7 +6926,7 @@
                                 these mentioned notes, with pawses interposed (as I have at severall
                                 times by a Winde-instrument, whose notes can neither rise nor fall,
                                 attentively observed)</ref><note xml:id="ch5ednote71"
-                                type="editorial" subtype="gloss" resp="MW">This is most likely to
+                                type="editorial" subtype="gloss" resp="#MW">This is most likely to
                                 have been a recorder. The pitch standard normally used by the
                                 Bassano family, who were based in England, was a semitone higher
                                 than modern concert pitch (Adrian Brown, ‘Sets or Consorts of
@@ -7207,7 +7237,7 @@
                     nimbly bestirre themselves, sporting and <ref xml:id="ch5ednatt33"
                         type="attachment" target="#ch5ednote33">playing in and out as if they were
                         dancing</ref><note xml:id="ch5ednote33" type="editorial" subtype="gloss"
-                        resp="OS" source="context">Butler uses evocative words to describe the bees’
+                        resp="#OS" source="context">Butler uses evocative words to describe the bees’
                         movement, using a freer vocabulary than is available in today’s
                         science.</note> the <app type="ortographic" subtype="change">
                         <lem wit="#b1623">Hey</lem>
@@ -7553,7 +7583,7 @@
                     <app type="minor" subtype="add">
                         <lem wit="#b1623">But little and late swarmes are <ref xml:id="ch5ednatt19"
                                 type="attachment" target="#ch5ednote19">rather</ref><note
-                                xml:id="ch5ednote19" type="editorial" subtype="gloss" resp="JR"
+                                xml:id="ch5ednote19" type="editorial" subtype="gloss" resp="#JR"
                                 source="OED"><hi>rather]</hi> earlier (adv., OED 3 1).</note> to be
                                 united.<ref target="#ch5bibln34"> v.</ref>
                             <note type="authorial" subtype="bibliographic" xml:id="ch5bibln34">
@@ -8286,13 +8316,13 @@
                             runne together in greater quantitie than a good Hive can conteine; then
                             reare the Hive with <ref xml:id="ch5ednatt40" type="attachment"
                                 target="#ch5ednote40">bolsters</ref><note xml:id="ch5ednote40"
-                                type="editorial" subtype="gloss" resp="JR" source="OED"
+                                type="editorial" subtype="gloss" resp="#JR" source="OED"
                                     ><hi>bolsters]</hi> props or supports, from the verb ‘to
                                 bolster’ (OED). </note> high enough to let them all in: which, when
                             they have once swarmed, the <ref target="#ch5glon15">*</ref>next <ref
                                 xml:id="ch5ednatt50" type="attachment" target="#ch5ednote50"
                                 >Vindemie</ref><note xml:id="ch5ednote50" type="editorial"
-                                subtype="gloss" resp="JR" source="OED"><hi>Vindemie]</hi> The taking
+                                subtype="gloss" resp="#JR" source="OED"><hi>Vindemie]</hi> The taking
                                 of honey from beehives. Obsolete. Rare. (OED).</note> take away
                             thus. </lem>
                         <rdg wit="#b1609"/>
