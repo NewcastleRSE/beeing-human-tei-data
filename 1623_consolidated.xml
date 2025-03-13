@@ -1633,10 +1633,9 @@
                     other saith, <quote>
                         <foreign xml:lang="la">Mille ad usus vitae laborem tolerant &amp; opera
                             conficiunt:</foreign>
-                        <note type="authorial" subtype="bibliographic" xml:id="ch1bibln2"><bibl>Plin.
-                                nat.hist.l.11.c.5</bibl></note></quote> as they well know, who know
-                    the rare vertues of Honie and Waxe: a taste whereof I will give you in the last
-                    chapter. </p>
+                        <note type="authorial" subtype="bibliographic" xml:id="ch1bibln2"><bibl>Plin. nat.hist.l.11.c.5</bibl></note></quote> as they well
+                    know, who know the rare vertues of Honie and Waxe: a taste whereof I will give
+                    you in the last chapter. </p>
                 <fw type="catch"> Secondly,</fw>
                 <pb n="B1v" />
                 <fw type="header"> Of the Nature and properties of Bees, </fw>
@@ -1656,10 +1655,9 @@
                         <note type="authorial" subtype="bibliographic" xml:id="ch1bibln3"><bibl>
                                 Plin.nat.hist.l.11.c.5.</bibl></note>
                     </quote>
-                </p>
-                <p xml:id="ch1par5"><note type="authorial" subtype="summary" xml:id="ch1sumn4">4. <seg rend="italic">Bees have a Common-wealth. </seg></note> And for their order, it is such, that they
-                    may well bee said to have a Common-wealth, since all that they doe is in common,
-                    without any private respect. <note type="authorial" subtype="bibliographic" xml:id="ch1bibln4"><bibl>Nat.hist.li.11.c.5</bibl></note>
+                    <note type="authorial" subtype="summary" xml:id="ch1sumn4">4. <seg rend="italic">Bees have a Common-wealth. </seg></note> And for their order, it is such, that they may well
+                    bee said to have a Common-wealth, since all that they doe is in common, without
+                    any private respect. <note type="authorial" subtype="bibliographic" xml:id="ch1bibln4"><bibl>Nat.hist.li.11.c.5</bibl></note>
                     <foreign xml:lang="la">Nihil norunt nisi commune:</foreign> They worke for all,
                     they watch for all, they fight for all. <note type="authorial" subtype="summary" xml:id="ch1sumn5">5. <seg rend="italic">Their working, watching, fighting, dwelling, dyet, wealth, and young ones are all in common. </seg></note> In their private quarrels,
                     when they are from the Hive or common treasury, howsoever you use them, they
@@ -1683,8 +1681,8 @@
                     things. <note type="authorial" subtype="bibliographic" xml:id="ch1bibln7"><bibl><app type="reference" subtype="add">
                                 <lem wit="#b1623">V. Praefat.</lem>
                                 <rdg wit="#b1609" />
-                            </app>Virg. Georg.</bibl>
-                        <ref target="#ch7sumn27"><app type="reference" subtype="add">
+                            </app>Virg. Georg.</bibl></note>
+                    <note type="authorial" subtype="bibliographic" xml:id="ch1biblnX1"><ref target="#ch7sumn27"><app type="reference" subtype="add">
                                 <lem wit="#b1623">V.c.7.n.27.</lem>
                                 <rdg wit="#b1609" />
                             </app></ref>&amp;<ref target="#ch7sumn42"><app type="reference" subtype="add">
@@ -1698,7 +1696,8 @@
                         <l>Lydia, nec populi Parthorum aut Medus Hydaspes </l>
                         <l>Observant: rege incolumi mens omnibus una est:</l>
                         <l>Amisso rupere fidem; contructaque mella</l>
-                        <l>Diripuere ispae, v: &amp; crates solvere favorum:</l>
+                        <l>Diripuere ipsae, <ref target="#ch1biblnX1"><seg rend="italic">v</seg><seg rend="italic">:</seg></ref> &amp; crates solvere
+                            favorum:</l>
                         <l>Ille operum custos, illum admirantur; &amp; omnes</l>
                         <fw type="catch"> Circumstant </fw>
                         <pb n="B2r" />
@@ -1722,8 +1721,8 @@
                             <bibl>Hist.an.l.9.cap.40.</bibl></note></quote> If by hir voyce she bid
                     them goe, they swarme: if being abroad she dislike the weather, or
                     lighting-place, they quickly returne home againe: while she cheereth them to
-                    battaile they fight, <ref target="#ch1bibln9"><seg rend="italic">v</seg><seg rend="italic">:</seg></ref> <note type="authorial" subtype="bibliographic" xml:id="ch1bibln9"><ref target="#ch7sumn35"><seg rend="italic">
-</seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic">V</seg><seg rend="italic">i</seg><seg rend="italic">d</seg><seg rend="italic">.</seg><seg rend="italic">c</seg><seg rend="italic">.</seg><seg rend="normal">7</seg><seg rend="italic">.</seg><seg rend="italic">n</seg><seg rend="italic">.</seg><seg rend="normal">3</seg><seg rend="normal">5</seg><seg rend="italic">.</seg></ref>
+                    battaile they fight, <ref target="#ch1bibln9"><seg rend="italic">v</seg><seg rend="italic">:</seg></ref>
+                    <note type="authorial" subtype="bibliographic" xml:id="ch1bibln9"><ref target="#ch7sumn35"><seg rend="italic"> </seg><seg rend="italic">V</seg><seg rend="italic">i</seg><seg rend="italic">d</seg><seg rend="italic">.</seg><seg rend="italic">c</seg><seg rend="italic">.</seg><seg rend="normal">7</seg><seg rend="italic">.</seg><seg rend="italic">n</seg><seg rend="italic">.</seg><seg rend="normal">3</seg><seg rend="normal">5</seg><seg rend="italic">.</seg></ref>
                     </note>
                     <app type="minor" subtype="change">
                         <lem wit="#b1623">while she is well, they are cheerefull about their worke;
@@ -1845,9 +1844,10 @@
                     although somewhat longer: hir head proportionable, but <fw type="catch">
                         that</fw>
                     <pb n="B3r" />
-                    <fw type="header"> and of their Queene. </fw> that it is more round than the little
-                    Bees, by reason hir fangs be shorter: hir tongue not halfe so long as theirs:
-                    for whereas they gather with the one Nectar, with the other Ambrosia; <ref target="#ch1bibln15"><seg rend="italic">v</seg><seg rend="italic">.</seg></ref>
+                    <fw type="header"> and of their Queene. </fw> that it is more round than the
+                    little Bees, by reason hir fangs be shorter: hir tongue not halfe so long as
+                    theirs: for whereas they gather with the one Nectar, with the other Ambrosia;
+                        <ref target="#ch1bibln15"><seg rend="italic">v</seg><seg rend="italic">.</seg></ref>
                     <note type="authorial" subtype="bibliographic" xml:id="ch1bibln15"><ref target="#ch6sumn17"><seg rend="italic">V</seg><seg rend="italic">.</seg><seg rend="italic">c</seg><seg rend="italic">.</seg><seg rend="normal">6</seg><seg rend="italic">.</seg><seg rend="italic">n</seg><seg rend="italic">.</seg><seg rend="normal">1</seg><seg rend="normal">7</seg><seg rend="italic">.</seg></ref></note> shee hath no need to use
                     either, being to be maintained, as other Princes, by the labour of hir subjects:
                     hir wings of the same size with a small Bee, and therefore in respect of hir
@@ -1867,9 +1867,7 @@
                             aculeum, majestate tantum armatus, an dederit eum quidem natura, sed
                             usum ejus illi tant&#249;m negaverit: illud constat imperatorem aculeo non
                             uti.</foreign>
-                    </quote>
-                </p>
-                <p xml:id="ch1par11">But <persName>Aristotle</persName> doth truly approve the later
+                    </quote> But <persName>Aristotle</persName> doth truly approve the later
                     opinion, as certaine: <quote>
                         <note type="authorial" subtype="bibliographic" xml:id="ch1bibln17"><bibl>Hist.an.l.5.cap.21.</bibl></note>
                         <foreign xml:lang="la">Reges aculeos habent, sed non utuntur. Quocirca
@@ -2032,8 +2030,8 @@
                     toward the ground, or turning the same awry to the one side or the other: but as
                     many as are stricken, within an houre after will not bee able to wag out of the
                     place, and within two or three at the most, they will be quite dead. I have
-                    looked on, while thus they quickly cut off a whole stall, and among the
-                    rest, making then no difference, they spared not <fw type="catch"> the</fw>
+                    looked on, while thus they quickly cut off a whole stall, and among the rest,
+                    making then no difference, they spared not <fw type="catch"> the</fw>
                     <pb n="C1r" />
                     <fw type="header"> and of their Queene. </fw> the Queene her selfe. After this
                     maner doe they deale with the Drones at the time of the yeere, when they will
@@ -2066,10 +2064,11 @@
                         <note type="authorial" subtype="summary" xml:id="ch1sumn27">27. <seg rend="italic">Fustian, Leather, and Velvet naught among Bees. </seg></note> But the nap of new Fustian
                     displeaseth them, because it seemeth hairy; and the stuffe is so fast, that it
                     holdeth the sting. Wherefore such apparell is not fit among Bees: as also
-                    Leather in Gloves or otherwise, for assoone as they touch it they will strike, if
-                    they be any whit mooved, and their speares they cannot recover againe. Velvet in
-                    facing of hats or else-where, doth anger them as much as any thing, making them
-                    strike assoone as they touch it: but it hath not power to hold their speare.</p>
+                    Leather in Gloves or otherwise, for assoone as they touch it they will strike,
+                    if they be any whit mooved, and their speares they cannot recover againe. Velvet
+                    in facing of hats or else-where, doth anger them as much as any thing, making
+                    them strike assoone as they touch it: but it hath not power to hold their
+                    speare.</p>
                 <p xml:id="ch1par25"><note type="authorial" subtype="summary" xml:id="ch1sumn28">28. <seg rend="italic">The Bees in their anger aime at the head. </seg></note> When they are angry, their
                     aime is most commonly at the head, and chiefly about the eies, as knowing that
                     there they may do most harme, for that part swelleth most and longest: and yet I
@@ -2144,11 +2143,10 @@
                                 paulisper sinatur, dum veram cutem penetraverit; vehementior inde,
                                 diuturnior, &amp; sanatu difficilior evadet tum dolor tum tumor)
                                 dein, quam mox reddi potest, propri&#226; vulnus urin&#226; malvae folia
-                                s&#339;piuscule prolvant, dum subsequens hoc comparetur emplastrum. <hi rend="opposite">R.</hi>
-                                Cardui Benedicti virentis contriti <hi rend="opposite">M.I.</hi> Ovi
-                                albumen quasi in oleum coagitatum: misce, fiat emplastrum, quod lini
-                                retrimentis impositum, vulneri linteo alligetur: ubi arverit, recens
-                                repone: sed vulnus nequaquam fricetur.</foreign></lem>
+                                s&#339;piuscule prolvant, dum subsequens hoc comparetur emplastrum. <hi rend="opposite">R.</hi> Cardui Benedicti virentis contriti <hi rend="opposite">M.I.</hi> Ovi albumen quasi in oleum coagitatum:
+                                misce, fiat emplastrum, quod lini retrimentis impositum, vulneri
+                                linteo alligetur: ubi arverit, recens repone: sed vulnus nequaquam
+                                fricetur.</foreign></lem>
                         <rdg wit="#b1609" />
                     </app>
                 </p>
@@ -2180,8 +2178,8 @@
                         <rdg wit="#b1609" source="1609.xml#ch1ancs9 1609.xml#ch1ance9">Not wearing any offensive apparell,
                             v.n.27</rdg>
                     </app></p>
-                <p xml:id="ch1par29"><note type="authorial" subtype="summary" xml:id="ch1sumn37">37. <seg rend="italic">Safer to walke, then to stand among Bees. </seg></note> At any time, when nothing hath
-                    angred them, one may boldly walke along by <app type="vocabulary" subtype="change">
+                <p xml:id="ch1par29"><note type="authorial" subtype="summary" xml:id="ch1sumn37">37. <seg rend="italic">Safer to walke, then to stand among Bees. </seg></note> At any time, when nothing
+                    hath angred them, one may boldly walke along by <app type="vocabulary" subtype="change">
                         <lem wit="#b1623">them</lem>
                         <rdg wit="#b1609" source="1609.xml#ch1ancs10 1609.xml#ch1ance10">your Bees</rdg>
                     </app>: but if hee stand still before them within the space of a pearch in the
@@ -2281,8 +2279,8 @@
                     seat of all Senses, Phantasie, and Memorie; yet have they the Senses themselves,
                     both outward and inward: which their subtill and active spirits doe excite and
                     quicken, for the works of their curious Art and singular Vertues. <note type="authorial" subtype="bibliographic" xml:id="ch1bibln37">*
-                        <bibl><hi>Cerebrum commune sentiendi principium.</hi>
-                        Fer.Ph.l.5.c.14.</bibl></note><quote>
+                                <bibl><hi>Cerebrum commune sentiendi principium.</hi>
+                            Fer.Ph.l.5.c.14.</bibl></note><quote>
                         <foreign xml:lang="la">Quamvis non sint membra quae, velut carina, sensus
                             invehant; esse tamen his auditum, olfactum, gustatum, eximia praeterea
                             naturae dona, solertiam, animum, artem quis facile crediderit. <note type="authorial" subtype="bibliographic" xml:id="ch1bibln38">
@@ -2354,15 +2352,18 @@
                     Hives, before the swarming? <ref target="#ch5sumn28"><seg rend="italic">v</seg><seg rend="italic">.</seg><seg rend="italic">c</seg><seg rend="italic">.</seg><seg rend="normal">5</seg><seg rend="italic">.</seg><seg rend="italic">n</seg><seg rend="italic">.</seg><seg rend="normal">2</seg><seg rend="normal">8</seg></ref>. <app type="minor" subtype="add">
                         <lem wit="#b1623">and in the battaile, <ref target="#ch7sumn34"><seg rend="italic">
 </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic">v</seg><seg rend="italic">i</seg><seg rend="italic">d</seg><seg rend="italic">:</seg><seg rend="italic">c</seg><seg rend="italic">.</seg><seg rend="normal">7</seg><seg rend="italic">.</seg><seg rend="italic">n</seg><seg rend="italic">.</seg><seg rend="normal">3</seg><seg rend="normal">4</seg><seg rend="italic">.</seg></ref> or his tinging of swarmes to make them come
-                            downe, <ref target="#ch5sumn37"><seg rend="italic"> </seg><seg rend="italic">v</seg><seg rend="italic">:</seg><seg rend="italic"> </seg><seg rend="italic">&#9755;</seg><seg rend="italic"> </seg><seg rend="italic">i</seg><seg rend="italic">n</seg><seg rend="italic"> </seg><seg rend="italic">c</seg><seg rend="italic">.</seg><seg rend="normal">5</seg><seg rend="italic">.</seg><seg rend="italic">n</seg><seg rend="italic">.</seg><seg rend="normal">3</seg><seg rend="normal">7</seg><seg rend="italic">.</seg></ref></lem>
+                            downe, <ref target="#ch5sumn37">
+                                <hi rend="italic">v:</hi> &#9755; in <hi rend="italic">c.</hi>5<hi rend="italic">.n.</hi>37.</ref></lem>
                         <rdg wit="#b1609" />
                     </app></p>
                 <p xml:id="ch1par38"><note type="authorial" subtype="summary" xml:id="ch1sumn46">46. <seg rend="italic">Tasting. </seg></note> And of their fift sense I make no question, sithens they are
                     used to things of so different tastes: although there may seeme the lesse use of
-                    it, because their smelling is so perfect. <fw type="catch"> And</fw>
-                    <pb n="C4r" />
-                    <fw type="header"> and of their Queene. </fw>
-                    <note type="authorial" subtype="summary" xml:id="ch1sumn47">47. <seg rend="italic">Their vertues. </seg></note> And such are their outward senses. The inward <app type="vocabulary" subtype="change">
+                    it, because their smelling is so perfect.</p>
+                <fw type="catch"> And</fw>
+                <pb n="C4r" />
+                <fw type="header"> and of their Queene. </fw>
+                <p xml:id="ch1par38X"><note type="authorial" subtype="summary" xml:id="ch1sumn47">47. <seg rend="italic">Their vertues. </seg></note> And such are their outward senses. The inward
+                        <app type="vocabulary" subtype="change">
                         <lem wit="#b1623">qualities</lem>
                         <rdg wit="#b1609" source="1609.xml#ch1ancs15 1609.xml#ch1ance15">faculties</rdg>
                     </app> of their minds are farre more excellent. <app type="minor" subtype="add">
@@ -2384,17 +2385,18 @@
                     men will soonest quarrell) they are very patient: but in defence of their Prince
                     and Common-wealth they doe most readily enter the field, <quote>
                         <foreign xml:lang="la"><lg>
-                                <l>----Et corpora bello </l>
-                                <l>Objectant, pulchramque, petunt per vulnera mortem. v.</l>
+                                <l>&#11834;Et corpora bello </l>
+                                <l>Objectant, pulchramque, petunt per vulnera mortem. <ref target="#ch1bibln45X"><seg rend="italic">v</seg><seg rend="italic">.</seg></ref></l>
                                 <note type="authorial" subtype="bibliographic" xml:id="ch1bibln45">
-                                    <bibl>Virg. V.n.5.</bibl>
+                                    <bibl>Virg.</bibl>
                                 </note>
+                                <note type="authorial" subtype="bibliographic" xml:id="ch1bibln45X"><ref target="#ch1sumn5"><seg rend="italic">V</seg><seg rend="italic">.</seg><seg rend="italic">n</seg><seg rend="italic">.</seg><seg rend="normal">5</seg><seg rend="italic">.</seg></ref></note>
                             </lg></foreign>
                     </quote>
                 </p>
                 <p xml:id="ch1par41"><note type="authorial" subtype="summary" xml:id="ch1sumn49">49. <seg rend="italic">Prudence and knowledge. </seg></note> Whereby appeareth their singular fortitude,
                     no lesse than their prudence doth in the government of their Common-weale <ref target="#ch1bibln46"><seg rend="italic"> </seg><seg rend="italic">v</seg></ref>. <note type="authorial" subtype="bibliographic" xml:id="ch1bibln46">
-                        <ref target="#ch1sumn4"><seg rend="italic">V</seg><seg rend="italic">.</seg><seg rend="italic">c</seg><seg rend="italic">.</seg><seg rend="normal">1</seg><seg rend="italic">.</seg><seg rend="italic">n</seg><seg rend="italic">.</seg><seg rend="normal">4</seg><seg rend="italic">.</seg></ref><ref target="#ch1sumn5"><seg rend="normal">5</seg><seg rend="italic">.</seg></ref><ref target="#ch1sumn6"><seg rend="normal">6</seg></ref>&amp;<ref target="#ch1sumn7"><seg rend="normal">7</seg><seg rend="italic">.</seg></ref>
+                        <ref target="#ch1sumn4"><seg rend="italic">V</seg><seg rend="italic">.</seg><seg rend="italic">c</seg><seg rend="italic">.</seg><seg rend="normal">1</seg><seg rend="italic">.</seg><seg rend="italic">n</seg><seg rend="italic">.</seg><seg rend="normal">4</seg><seg rend="italic">.</seg></ref><ref target="#ch1sumn5"><seg rend="normal">5</seg><seg rend="italic">.</seg></ref><ref target="#ch1sumn6"><seg rend="normal">6</seg><seg rend="italic">.</seg></ref>&amp;<ref target="#ch1sumn7"><seg rend="normal">7</seg><seg rend="italic">.</seg></ref>
                     </note> beside which, their wisedome and knowledge in other matters is verie
                     much: as of their enemies, of their fellowes and friends, of the Drones, when
                     they have too many, and when they neede them not at all, also of the times and
@@ -2415,11 +2417,11 @@
                         <bibl>Hist.an.l.9.c.40.</bibl>
                     </note>
                     <note type="authorial" subtype="bibliographic" xml:id="ch1bibln50">
-                        <ref target="#ch7sumn61"><seg rend="italic">V</seg><seg rend="italic">.</seg><seg rend="italic">c</seg><seg rend="italic">.</seg><seg rend="italic"> </seg><seg rend="normal">7</seg><seg rend="italic">.</seg><seg rend="italic"> </seg><seg rend="italic">n</seg><seg rend="italic">.</seg><seg rend="italic"> </seg><seg rend="normal">6</seg><seg rend="normal">1</seg><seg rend="italic">.</seg></ref>
+                        <ref target="#ch7sumn61"><seg rend="italic">V</seg><seg rend="italic">.</seg><seg rend="italic">c</seg><seg rend="italic">.</seg><seg rend="normal">7</seg><seg rend="italic">.</seg><seg rend="italic">n</seg><seg rend="italic">.</seg><seg rend="normal">6</seg><seg rend="normal">1</seg><seg rend="italic">.</seg></ref>
                     </note> And in stormy and windie weather, it is a wonder to see what cunning
                     those that are abroad doe use to shift the wind when they come home loaden: how
-                    they flie alow by the ground, among the bushes, in the lanes, and lee-sides
-                    of the hedges. <quote>
+                    they flie alow by the ground, among the bushes, in the lanes, and lee-sides of
+                    the hedges. <quote>
                         <foreign xml:lang="la">Juxta terram volant in adverso flatu vepribus
                             hebetato.</foreign>
                         <note type="authorial" subtype="bibliographic" xml:id="ch1bibln51">
@@ -2436,8 +2438,9 @@
                         <ref target="#ch6sumn19"><seg rend="italic"> </seg><seg rend="italic">V</seg><seg rend="italic">.</seg><seg rend="italic">c</seg><seg rend="italic">.</seg><seg rend="italic"> </seg><seg rend="normal">6</seg><seg rend="italic">.</seg><seg rend="italic">n</seg><seg rend="italic">.</seg><seg rend="normal">1</seg><seg rend="normal">9</seg><seg rend="italic">.</seg></ref>
                     </note> So <fw type="catch"> that</fw>
                     <pb n="C4v" />
-                    <fw type="header"> Of the Nature and properties of Bees, </fw>that what wanteth in the sight on their eies, is fully supplied in the sight of their
-                    minde. <quote><note type="authorial" subtype="bibliographic" xml:id="ch1bibln54">
+                    <fw type="header"> Of the Nature and properties of Bees, </fw>that what wanteth
+                    in the sight on their eies, is fully supplied in the sight of their minde.
+                            <quote><note type="authorial" subtype="bibliographic" xml:id="ch1bibln54">
                             <bibl>Ambr.Hex.l.5.c.21</bibl></note>
                         <foreign xml:lang="la">C&#249;m sit infirma robore apis, valida est vigore
                             sapientiae &amp; amore virtutis.</foreign></quote>
@@ -2481,8 +2484,8 @@
                         <rdg wit="#b1609" source="1609.xml#ch1ancs19 1609.xml#ch1ance19">some</rdg>
                     </app> may make a question: and presuming to examine every particular
                     circumstance over narrowly, will make objections against the truth of the
-                    Storie: which, by their leaves, in the behalfe of my Authour, I must not spare to
-                    answer. First, it may be they will object that the Host being held so long in
+                    Storie: which, by their leaves, in the behalfe of my Authour, I must not spare
+                    to answer. First, it may be they will object that the Host being held so long in
                     the Womans mouth, could not choose in that space but melt and marre. <fw type="catch"> Indeed,</fw>
                     <pb n="D1r" />
                     <fw type="header"> and of their Queene. </fw> Indeed, if it did remaine, as it
@@ -2508,10 +2511,10 @@
                     may be a mistaking of a word: haply the woman said they did but crawle. If they
                     shall aske how the woman could see the altar with the Host standing in the
                     Chancell, and the Bells hanging in the steeple, seeing the waxen walls were not
-                    transparent; they may easily thinke that the Bees would give their dame leave
-                    to looke in at the windowes. And if they shall say that those bells being made
-                    of such metall would give but a weake sounde, when they were rung to Mattins;
-                    they must consider the Parishoners dwelt not farre off. And so I thinke these
+                    transparent; they may easily thinke that the Bees would give their dame leave to
+                    looke in at the windowes. And if they shall say that those bells being made of
+                    such metall would give but a weake sounde, when they were rung to Mattins; they
+                    must consider the Parishoners dwelt not farre off. And so I thinke these
                     captious Criticks will hold themselves satisfied. </p>
                 <p xml:id="ch1par45">Unto this Storie my Author immediately addeth an other, like
                     unto it, and as likely: how certaine Theeves having stollen the Silver Box
@@ -2539,12 +2542,12 @@
                     perhaps they will suspect the whole Narration, supposing it rather to be an
                     unadvised device of some idle Monke, which, if he had consulted with them that
                     have skill among Bees, might have made his tale more probable. Alledging
-                    moreover, that therefore there is no mention made of any particular person, time,
-                    or place, lest the circumstances should disprove the matter it selfe. All which
-                    objections I could as easily answer as the former, if I thought it needfull; But
-                    now because some may be as ready to mistrust my relation, as others are to
-                    object against the truth of the Stories; I will here in mine owne behalfe for
-                    their satisfaction, set downe in my Authors owne words. </p>
+                    moreover, that therefore there is no mention made of any particular person,
+                    time, or place, lest the circumstances should disprove the matter it selfe. All
+                    which objections I could as easily answer as the former, if I thought it
+                    needfull; But now because some may be as ready to mistrust my relation, as
+                    others are to object against the truth of the Stories; I will here in mine owne
+                    behalfe for their satisfaction, set downe in my Authors owne words. </p>
                 <p xml:id="ch1par47">
                     <quote>
                         <foreign xml:lang="la">Cum mulier quaedam simplicis ingenii nonnulla apum
@@ -2564,8 +2567,8 @@
                             Lib.14.c.3.</bibl></note>
                     </quote>
                     <note type="authorial" subtype="gloss" xml:id="ch1glon3">
-                        <foreign xml:lang="la">Nam miranda canunt, sed non credenda
-                            Poetae.</foreign>
+                        <foreign xml:lang="la"><hi rend="opposite">Nam miranda canunt, sed non
+                                credenda Poetae.</hi></foreign>
                     </note>
                 </p>
                 <fw type="catch"> The</fw>
@@ -2578,16 +2581,15 @@
                             alvearis videt apes certis horis saepius, dimissis operis ad cibos
                             convehendos, totes esse in quodam mellifluo concentu edendo. Cumque
                             fort&#232; de media nocte exsurrexisset, conspicatur supra alveare
-                            illustrissimam lucem, suavissemeque praeter omnem modum modulantes
-                            apes. Rei novitate inusitat&#226;, &amp; prorsus admirand&#226; perculsus, Deique
-                            monitu intimo agitatus rem defert ad Episcopum. Is plurimis secum
-                            assumptis eo se conferens, aperto alveari videt Vasculum elegantissimum
-                            effectum &#232; candidissima cera prope alvearis fatigium, in quo reposita
-                            erat Eucharistia, circa illud choros apum circumsonantes, &amp; excubias
+                            illustrissimam lucem, suavissemeque praeter omnem modum modulantes apes.
+                            Rei novitate inusitat&#226;, &amp; prorsus admirand&#226; perculsus, Deique monitu
+                            intimo agitatus rem defert ad Episcopum. Is plurimis secum assumptis eo
+                            se conferens, aperto alveari videt Vasculum elegantissimum effectum &#232;
+                            candidissima cera prope alvearis fatigium, in quo reposita erat
+                            Eucharistia, circa illud choros apum circumsonantes, &amp; excubias
                             agentes. Acceptum igitur Episcopus sacramentum maximo cum honore in
                             templum reportavit: quo multi accedentes ab innumeris sunt morbis
                             curati.</foreign>
-                        
                     </quote>
                     <app type="other" subtype="add">
                         <lem wit="#b1623"><bibl>Tho: Bozius de signis Ecclesiae.
@@ -2599,7 +2601,6 @@
                     which they kept and compassed, is said to have the gift of healing, which
                     others, though of as good a making, we know doe want. The conclusion, which my
                     Author necessarily inferreth hereupon, is better then all the rest. <quote>
-                        
                         <foreign xml:lang="la">Ex his necesse est dicamus in Eucharistia verum C.
                             corpus esse.</foreign>
                     </quote> But if thou wilt grant me that hereby is proved the incredible
@@ -2609,8 +2610,8 @@
                 <p xml:id="ch1par51"><note type="authorial" subtype="summary" xml:id="ch1sumn52">52. <seg rend="italic">Justice. </seg></note> Also, in their owne Common-wealth, they are most just, not
                     the least wrong or injurie is offered among them. But indeed I cannot much
                     commend their Justice towards strangers: for all that they can catch is their
-                    owne: unlesse they may be excused in this respect, that the Bees of divers
-                    hives are at deadly feud, or rather as Kingdomes, that are at defiance one with
+                    owne: unlesse they may be excused in this respect, that the Bees of divers hives
+                    are at deadly feud, or rather as Kingdomes, that are at defiance one with
                     another. <ref target="#ch7sumn25"><seg rend="italic"> </seg><seg rend="italic">v</seg><seg rend="italic">.</seg><seg rend="italic">c</seg><seg rend="italic">.</seg><seg rend="normal">7</seg><seg rend="italic">.</seg><seg rend="italic">n</seg><seg rend="italic">.</seg><seg rend="normal">2</seg><seg rend="normal">5</seg><seg rend="italic">.</seg></ref></p>
                 <p xml:id="ch1par52"><note type="authorial" subtype="summary" xml:id="ch1sumn53">53. <seg rend="italic">Chastitie. </seg></note> Their Chastitie is to be admired. <quote>
                         <foreign xml:lang="la">Integritas corporis virginalis omnibus communis.
@@ -2625,11 +2626,11 @@
                                     sine concubitu dedit. <note xml:id="ch1bibln55x" type="authorial" subtype="bibliographic"><bibl>August.de
                                             Trinit.l.3. Idem de bono conjugali.</bibl></note></lem>
                                 <rdg wit="#b1609" />
-                            </app>
-                            <lb /> Illum adeo placuisse apibus mirabere morem,</foreign>
+                            </app></foreign>
                     </quote></p>
                 <p xml:id="ch1par53"><quote>
-                        <foreign xml:lang="la">Quod non concubitu indulgent, &amp;c.</foreign>
+                        <foreign xml:lang="la"><lg rend="inline"><l>Illum adeo placuisse apibus mirabere
+                                morem,</l><l>Quod non concubitu indulgent, &amp;c.</l></lg></foreign>
                     </quote>
                     <note type="authorial" subtype="bibliographic" xml:id="ch1bibln56">
                         <bibl>Georg.</bibl>
@@ -2671,15 +2672,15 @@
                     </quote>; neither can they endure any unsavorinesse without nigh unto them. <quote>
                         <foreign xml:lang="la">Odere f&#339;dos odores: <app type="minor" subtype="add">
                                 <lem wit="#b1623">Nulla harum assidet in loco inquinato, aut eo qui
-                                    mal&#232; oleat.<note type="authorial" subtype="bibliographic" xml:id="ch1bibln62">
-                                        <bibl> Var.l.3.c.15.</bibl>
+                                    mal&#232; oleat.<note type="authorial" subtype="bibliographic" xml:id="ch1bibln61">
+                                        <bibl>Hist.an.l.9.c.40</bibl>
                                     </note></lem>
                                 <rdg wit="#b1609" />
                             </app></foreign>
                     </quote>
-                    <note type="authorial" subtype="bibliographic" xml:id="ch1bibln61">
-                        <bibl>Hist.an.l.9.c.40</bibl>
-                    </note> And for their persons (which are lovely browne) though they be not long
+                    <note type="authorial" subtype="bibliographic" xml:id="ch1bibln62">
+                        <bibl> Var.l.3.c.15.</bibl>
+                    </note>And for their persons (which are lovely browne) though they be not long
                     about it, yet are they curious in trimming and smoothing them from top to toe,
                     like unto sober Matrones, which love as well to goe neat as plaine: pied and
                     garish colours belong to the Waspe, which is good for nothing but to spend and
@@ -4990,9 +4991,8 @@
                     </app> and also when many meet in one swarme. <ref target="#ch1sumn7"><seg rend="italic">v</seg><seg rend="italic">.</seg><seg rend="italic">c</seg><seg rend="italic">.</seg><seg rend="normal">1</seg><seg rend="italic">.</seg><seg rend="italic">n</seg><seg rend="normal">7</seg></ref>. <app type="minor" subtype="add">
                         <lem wit="#b1623"><ref xml:id="ch5ednatt7" type="attachment" target="#ch5ednote7"><seg rend="italic">B</seg><seg rend="italic">u</seg><seg rend="italic">t</seg><seg rend="italic"> </seg><seg rend="italic">t</seg><seg rend="italic">h</seg><seg rend="italic">e</seg><seg rend="italic">n</seg><seg rend="italic">,</seg><seg rend="italic"> </seg><seg rend="italic">b</seg><seg rend="italic">e</seg><seg rend="italic">i</seg><seg rend="italic">n</seg><seg rend="italic">g</seg><seg rend="italic"> </seg><seg rend="italic">d</seg><seg rend="italic">e</seg><seg rend="italic">a</seg><seg rend="italic">d</seg><seg rend="italic"> </seg><seg rend="italic">a</seg><seg rend="italic">n</seg><seg rend="italic">d</seg><seg rend="italic"> </seg><seg rend="italic">s</seg><seg rend="italic">h</seg><seg rend="italic">r</seg><seg rend="italic">u</seg><seg rend="italic">n</seg><seg rend="italic">k</seg><seg rend="italic">e</seg><seg rend="italic"> </seg><seg rend="italic">t</seg><seg rend="italic">o</seg><seg rend="italic">g</seg><seg rend="italic">e</seg><seg rend="italic">t</seg><seg rend="italic">h</seg><seg rend="italic">e</seg><seg rend="italic">r</seg><seg rend="italic"> </seg><seg rend="italic">b</seg><seg rend="italic">y</seg><seg rend="italic">
 </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic">t</seg><seg rend="italic">h</seg><seg rend="italic">e</seg><seg rend="italic"> </seg><seg rend="italic">f</seg><seg rend="italic">o</seg><seg rend="italic">r</seg><seg rend="italic">c</seg><seg rend="italic">e</seg><seg rend="italic"> </seg><seg rend="italic">o</seg><seg rend="italic">f</seg><seg rend="italic"> </seg><seg rend="italic">t</seg><seg rend="italic">h</seg><seg rend="italic">e</seg><seg rend="italic"> </seg><seg rend="italic">p</seg><seg rend="italic">o</seg><seg rend="italic">i</seg><seg rend="italic">s</seg><seg rend="italic">o</seg><seg rend="italic">n</seg><seg rend="italic">,</seg><seg rend="italic"> </seg><seg rend="italic">t</seg><seg rend="italic">h</seg><seg rend="italic">e</seg><seg rend="italic">y</seg><seg rend="italic"> </seg><seg rend="italic">l</seg><seg rend="italic">o</seg><seg rend="italic">s</seg><seg rend="italic">e</seg><seg rend="italic"> </seg><seg rend="italic">m</seg><seg rend="italic">u</seg><seg rend="italic">c</seg><seg rend="italic">h</seg><seg rend="italic"> </seg><seg rend="italic">o</seg><seg rend="italic">f</seg><seg rend="italic"> </seg><seg rend="italic">t</seg><seg rend="italic">h</seg><seg rend="italic">e</seg><seg rend="italic">i</seg><seg rend="italic">r</seg><seg rend="italic"> </seg><seg rend="italic">s</seg><seg rend="italic">t</seg><seg rend="italic">a</seg><seg rend="italic">t</seg><seg rend="italic">u</seg><seg rend="italic">r</seg><seg rend="italic">e</seg></ref><note xml:id="ch5ednote7" type="editorial" subtype="other" resp="#BH" source="crossref">For a further discussion of analogies of the
-                                monarch's body see Olivia Smith's essay <ref xml:id="ch5link2" type="link" target="https://newcastlerse.github.io/beeing-human-web/connections/queen-bee"><seg rend="italic">h</seg><seg rend="italic">e</seg><seg rend="italic">r</seg><seg rend="italic">e</seg></ref></note>
-                            and <ref xml:id="ch5ednatt6" type="attachment" target="#ch5ednote6"><seg rend="italic">c</seg><seg rend="italic">o</seg><seg rend="italic">m</seg><seg rend="italic">l</seg><seg rend="italic">i</seg><seg rend="italic">n</seg><seg rend="italic">e</seg><seg rend="italic">s</seg><seg rend="italic">s</seg><seg rend="italic">e</seg><seg rend="italic">.</seg></ref><note xml:id="ch5ednote6" type="editorial" subtype="gloss" resp="#OS" source="OED"><hi>comliness]</hi>
-                                attractiveness, beauty (OED 1)</note></lem>
+                                monarch's body see Olivia Smith's essay <ref xml:id="ch5link2" type="link" target="https://newcastlerse.github.io/beeing-human-web/connections/queen-bee"><seg rend="italic">h</seg><seg rend="italic">e</seg><seg rend="italic">r</seg><seg rend="italic">e</seg></ref></note> and <ref xml:id="ch5ednatt6" type="attachment" target="#ch5ednote6"><seg rend="italic">c</seg><seg rend="italic">o</seg><seg rend="italic">m</seg><seg rend="italic">l</seg><seg rend="italic">i</seg><seg rend="italic">n</seg><seg rend="italic">e</seg><seg rend="italic">s</seg><seg rend="italic">s</seg><seg rend="italic">e</seg><seg rend="italic">.</seg></ref><note xml:id="ch5ednote6" type="editorial" subtype="gloss" resp="#OS" source="OED"><hi>comliness]</hi> attractiveness, beauty (OED
+                                1)</note></lem>
                         <rdg wit="#b1609" />
                     </app></p>
                 <p xml:id="ch5par3"><note type="authorial" subtype="summary" xml:id="ch5sumn3">3. <seg rend="italic">The swarme no younger than the stocke. </seg></note> Men thinke that the swarme
@@ -5137,10 +5137,10 @@
                     </app></note>
                 <p xml:id="ch5par7"><note type="authorial" subtype="summary" xml:id="ch5sumn6">6. <seg rend="italic">Swarming weather. </seg></note> Likewise, in warme and calme weather the swarmes
                     delight to arise, but specially in a <app type="minor" subtype="change">
-                        <lem wit="#b1623"><ref xml:id="ch5ednatt17" type="attachment" target="#ch5ednote17"><seg rend="italic">h</seg><seg rend="italic">e</seg><seg rend="italic">a</seg><seg rend="italic">t</seg><seg rend="italic">-</seg><seg rend="italic">g</seg><seg rend="italic">l</seg><seg rend="italic">e</seg><seg rend="italic">a</seg><seg rend="italic">m</seg><seg rend="italic">e</seg></ref>,<note xml:id="ch5ednote17" type="editorial" subtype="gloss" resp="#JR" source="OED">warm ray (of
-                                the sun); a bright warm interval between rain-showers (gleam, n.,
-                                OED 1c).</note> after that a showre or gloomie cloud hath sent them
-                            home together:</lem>
+                        <lem wit="#b1623"><ref xml:id="ch5ednatt17" type="attachment" target="#ch5ednote17"><seg rend="italic">h</seg><seg rend="italic">e</seg><seg rend="italic">a</seg><seg rend="italic">t</seg><seg rend="italic">-</seg><seg rend="italic">g</seg><seg rend="italic">l</seg><seg rend="italic">e</seg><seg rend="italic">a</seg><seg rend="italic">m</seg><seg rend="italic">e</seg></ref>,<note xml:id="ch5ednote17" type="editorial" subtype="gloss" resp="#JR" source="OED">warm ray
+                                (of the sun); a bright warm interval between rain-showers (gleam,
+                                n., OED 1c).</note> after that a showre or gloomie cloud hath sent
+                            them home together:</lem>
                         <rdg wit="#b1609" source="1609.xml#ch5ancs3 169.xml#ch5ance3">gloome after a showre;</rdg>
                     </app> in extreme hot and dry weather not so: <ref target="#ch5bibln11"><seg rend="italic"> </seg><seg rend="italic">v</seg></ref>
                     <note type="authorial" subtype="bibliographic" xml:id="ch5bibln11">
@@ -5189,9 +5189,9 @@
                         &amp;  Leo</rdg>
                     </app> are late swarmes. But there are few that come in the first fortnight, and
                     they very good: few also in the last fortnight, namely after <ref xml:id="ch5ednatt21" type="attachment" target="#ch5ednote21"><term>S.
-                            Peters</term>-tide</ref>,<note xml:id="ch5ednote21" type="editorial" subtype="gloss" resp="#JR" source="OED"><hi>S. Peters-tide]</hi> The feast of
-                        St Peter (in the Church of England), celebrated on 29 June (OED).</note> and
-                    they <app type="vocabulary" subtype="change">
+                            Peters</term>-tide</ref>,<note xml:id="ch5ednote21" type="editorial" subtype="gloss" resp="#JR" source="OED"><hi>S. Peters-tide]</hi> The feast
+                        of St Peter (in the Church of England), celebrated on 29 June (OED).</note>
+                    and they <app type="vocabulary" subtype="change">
                         <lem wit="#b1623">all as</lem>
                         <rdg wit="#b1609" source="1609.xml#ch5ancs7 1609.xml#ch5ance7">very</rdg>
                     </app> bad: <app type="vocabulary" subtype="change">
@@ -5211,8 +5211,8 @@
                         <rdg wit="#b1609" />
                     </app>
                 </note>
-                <p xml:id="ch5par11">Those that swarme before the <ref xml:id="ch5ednatt23" type="attachment" target="#ch5ednote23"><seg rend="italic">b</seg><seg rend="italic">l</seg><seg rend="italic">o</seg><seg rend="italic">w</seg><seg rend="italic">i</seg><seg rend="italic">n</seg><seg rend="italic">g</seg></ref><note xml:id="ch5ednote23" type="editorial" subtype="gloss" resp="#JR" source="OED"><hi>blowing]</hi> blossoming (v.2, OED 1a).</note> of knap-weed, come
-                    in very good time: before the blowing of blackberies, <app type="reference" subtype="add">
+                <p xml:id="ch5par11">Those that swarme before the <ref xml:id="ch5ednatt23" type="attachment" target="#ch5ednote23"><seg rend="italic">b</seg><seg rend="italic">l</seg><seg rend="italic">o</seg><seg rend="italic">w</seg><seg rend="italic">i</seg><seg rend="italic">n</seg><seg rend="italic">g</seg></ref><note xml:id="ch5ednote23" type="editorial" subtype="gloss" resp="#JR" source="OED"><hi>blowing]</hi> blossoming (v.2, OED 1a).</note> of
+                    knap-weed, come in very good time: before the blowing of blackberies, <app type="reference" subtype="add">
                         <lem wit="#b1623"><ref target="#ch5bibln13"><seg rend="italic">v</seg><seg rend="italic">.</seg></ref></lem>
                         <rdg wit="#b1609" />
                     </app>
@@ -5331,35 +5331,35 @@
                                 <lem wit="#b1623">Marpesia</lem>
                                 <rdg wit="#b1609" source="1609.xml#ch5ancs18x 1609.xml#ch5ance18x">Marthesia</rdg>
                             </app></term>the old Queene, an other to go forth with <term>
-                            Antiope</term> the <ref xml:id="ch5ednatt28" type="attachment" target="#ch5ednote28"><seg rend="italic">P</seg><seg rend="italic">r</seg><seg rend="italic">i</seg><seg rend="italic">n</seg><seg rend="italic">c</seg><seg rend="italic">e</seg></ref>,<note xml:id="ch5ednote28" type="editorial" subtype="gloss" resp="#OS" source="OED"><hi>Prince]</hi>
-                            This word could also be applied to a female sovereign (OED
-                            l.1.b.)</note> and a third haplie, which, together with the unripe brood
-                        in the celles, may make an other swarme to serve <term>Orythia</term>.
-                        </ref><note xml:id="ch5ednote29" type="editorial" subtype="gloss" resp="#JR" source="context">Butler&#8217;s comparison of the virgin queens to mythical Amazon
-                        queens is introduced in CHAP. IIII. 25. Martesia was the first queen, and
-                        she was succeeded by h daughter, Orithyia, who ruled with her sister,
-                        Antiope. Butler&#8217;s source is Justin, Epitome of Pompeius Trogus, 2. Justin
-                        tells the story of how their fame as warriors caught the attention of the
-                        king of Athens, Theseus, who then ordered the strongman Hercules to bring
-                        him the weapons of the Amazonian queen. Together they led an attack on
-                        Antiope (Orithyia was away on another campaign). Not expecting an attack,
-                        the Amazons were taken by surprise, and many of them were killed, or
-                        captured, including two of Antiope&#8217;s sisters, Menalippe (taken by Hercules)
-                        and Hippolyta (taken by Theseus). Butler does not recount this story.
-                        Instead, he recalls the Amazons&#8217; Scythian origins and their familial
-                        relationships; then he explains the new simile he uses: the female bees are
-                        warlike like the Amazons, and, like them, they kills all males. He concludes
-                        that they are rightly called Aeorpata, a Latin transliteration of the Greek
-                        [fill], meaning killers of men.</note> Without likewise they will see, first
-                    that the flowers be in state presentlie to furnish them with store of wax and
-                    hony: then that the weather do please them, as being warme and calme, &amp;
-                    moist: unlesse, being continually unseasonable, they have no choice. <app type="reference" subtype="add">
+                            Antiope</term> the <ref xml:id="ch5ednatt28" type="attachment" target="#ch5ednote28"><seg rend="italic">P</seg><seg rend="italic">r</seg><seg rend="italic">i</seg><seg rend="italic">n</seg><seg rend="italic">c</seg><seg rend="italic">e</seg></ref>,<note xml:id="ch5ednote28" type="editorial" subtype="gloss" resp="#OS" source="OED"><hi>Prince]</hi> This word could also be applied to a female
+                            sovereign (OED l.1.b.)</note> and a third haplie, which, together with
+                        the unripe brood in the celles, may make an other swarme to serve
+                            <term>Orythia</term>. </ref><note xml:id="ch5ednote29" type="editorial" subtype="gloss" resp="#JR" source="context">Butler&#8217;s comparison of the
+                        virgin queens to mythical Amazon queens is introduced in CHAP. IIII. 25.
+                        Martesia was the first queen, and she was succeeded by h daughter, Orithyia,
+                        who ruled with her sister, Antiope. Butler&#8217;s source is Justin, Epitome of
+                        Pompeius Trogus, 2. Justin tells the story of how their fame as warriors
+                        caught the attention of the king of Athens, Theseus, who then ordered the
+                        strongman Hercules to bring him the weapons of the Amazonian queen. Together
+                        they led an attack on Antiope (Orithyia was away on another campaign). Not
+                        expecting an attack, the Amazons were taken by surprise, and many of them
+                        were killed, or captured, including two of Antiope&#8217;s sisters, Menalippe
+                        (taken by Hercules) and Hippolyta (taken by Theseus). Butler does not
+                        recount this story. Instead, he recalls the Amazons&#8217; Scythian origins and
+                        their familial relationships; then he explains the new simile he uses: the
+                        female bees are warlike like the Amazons, and, like them, they kills all
+                        males. He concludes that they are rightly called Aeorpata, a Latin
+                        transliteration of the Greek [fill], meaning killers of men.</note> Without
+                    likewise they will see, first that the flowers be in state presentlie to furnish
+                    them with store of wax and hony: then that the weather do please them, as being
+                    warme and calme, &amp; moist: unlesse, being continually unseasonable, they have
+                    no choice. <app type="reference" subtype="add">
                         <lem wit="#b1623"><ref target="#ch5glon2"><seg rend="italic"> </seg><seg rend="italic">v</seg><seg rend="italic">.</seg><seg rend="italic">&#8224;</seg><seg rend="italic">.</seg><seg rend="italic">i</seg><seg rend="italic">n</seg><seg rend="italic"> </seg><seg rend="italic">n</seg><seg rend="italic">.</seg><seg rend="normal">5</seg><seg rend="italic">.</seg><seg rend="italic"> </seg></ref></lem>
                         <rdg wit="#b1609" />
                     </app></p>
                 <p xml:id="ch5par15"><note type="authorial" subtype="summary" xml:id="ch5sumn17">17. <seg rend="italic">Five signes of the first swarming. </seg></note> When the Hives begin to be full,
-                    they will <ref xml:id="ch5ednatt30" type="attachment" target="#ch5ednote30"><seg rend="italic">d</seg><seg rend="italic">r</seg><seg rend="italic">o</seg><seg rend="italic">n</seg><seg rend="italic">i</seg><seg rend="italic">e</seg></ref>,<note xml:id="ch5ednote30" type="editorial" subtype="gloss" resp="#OS" source="OED"><hi>dronie]</hi> Characterized by a continuous steady
-                        deep humming or buzzing sound, or a monotonous, dull tone. (OED
+                    they will <ref xml:id="ch5ednatt30" type="attachment" target="#ch5ednote30"><seg rend="italic">d</seg><seg rend="italic">r</seg><seg rend="italic">o</seg><seg rend="italic">n</seg><seg rend="italic">i</seg><seg rend="italic">e</seg></ref>,<note xml:id="ch5ednote30" type="editorial" subtype="gloss" resp="#OS" source="OED"><hi>dronie]</hi> Characterized by a continuous
+                        steady deep humming or buzzing sound, or a monotonous, dull tone. (OED
                         adj.2)</note> or yeeld forth fledge-drones: <app type="reference" subtype="add">
                         <lem wit="#b1623"><ref target="#ch5bibln16"><seg rend="italic">v</seg><seg rend="italic">.</seg></ref>
                             <note type="authorial" subtype="bibliographic" xml:id="ch5bibln16"><ref target="#ch4sumn20"><seg rend="italic">v</seg><seg rend="italic">.</seg><seg rend="italic">c</seg><seg rend="italic">.</seg><seg rend="normal">4</seg><seg rend="italic">.</seg><seg rend="italic">n</seg><seg rend="italic">.</seg><seg rend="normal">2</seg><seg rend="normal">0</seg></ref></note></lem>
@@ -5708,9 +5708,9 @@
                 <p xml:id="ch5par29"><app type="major" subtype="add">
                         <lem wit="#b1623">These things thus prepared, your selfe standing on the
                             West side of the Brake, and your assistant on the same side of the
-                            stoole at your right hand, (both in your complete <ref xml:id="ch5ednatt43" type="attachment" target="#ch5ednote43"><seg rend="italic">h</seg><seg rend="italic">a</seg><seg rend="italic">r</seg><seg rend="italic">n</seg><seg rend="italic">e</seg><seg rend="italic">s</seg><seg rend="italic">s</seg><seg rend="italic">e</seg></ref>)<note xml:id="ch5ednote43" type="editorial" subtype="gloss" resp="#JR" source="OED"><hi>harnesse]</hi> protective
-                                clothing, perhaps after the body armour of a man-at-arms or
-                                foot-soldier (OED 2a). </note>
+                            stoole at your right hand, (both in your complete <ref xml:id="ch5ednatt43" type="attachment" target="#ch5ednote43"><seg rend="italic">h</seg><seg rend="italic">a</seg><seg rend="italic">r</seg><seg rend="italic">n</seg><seg rend="italic">e</seg><seg rend="italic">s</seg><seg rend="italic">s</seg><seg rend="italic">e</seg></ref>)<note xml:id="ch5ednote43" type="editorial" subtype="gloss" resp="#JR" source="OED"><hi>harnesse]</hi>
+                                protective clothing, perhaps after the body armour of a man-at-arms
+                                or foot-soldier (OED 2a). </note>
                             <ref target="#ch5bibln22"><seg rend="italic">v</seg><seg rend="italic">:</seg></ref>
                             <note type="authorial" subtype="bibliographic" xml:id="ch5bibln22">
                                 <ref target="#ch1sumn40"><seg rend="italic">v</seg><seg rend="italic">.</seg><seg rend="italic">c</seg><seg rend="italic">.</seg><seg rend="normal">1</seg><seg rend="italic">.</seg><seg rend="italic">n</seg><seg rend="italic">.</seg><seg rend="normal">4</seg><seg rend="normal">0</seg><seg rend="italic">.</seg></ref>
@@ -5904,9 +5904,9 @@
                                 bars 58-61 and 71-78.</note> holding the time of three or foure
                                 <term>Semibriefes,</term> more or lesse. <ref xml:id="ch5ednatt60" type="attachment" target="#ch5ednote60">Now and then shee beginneth
                                 in duple time some two or three <term>
-                                Semibriefes</term></ref>,<note xml:id="ch5ednote60" type="editorial" subtype="gloss" resp="#MW">Duple time, also called imperfect time (or
-                                tempus imperfectum): each breve is divided into two semibreves. See
-                                Melissomelos, bars 32 and 62.</note> but alwaies endeth with
+                                Semibriefes</term></ref>,<note xml:id="ch5ednote60" type="editorial" subtype="gloss" resp="#MW">Duple time, also called imperfect time
+                                (or tempus imperfectum): each breve is divided into two semibreves.
+                                See Melissomelos, bars 32 and 62.</note> but alwaies endeth with
                                 <term>Minims</term> of the triple Moode.</lem>
                         <rdg wit="#b1609" source="1609.xml#ch5ancs57 1609.xml#ch5ance57">They sing both in triple time: the princess thus 
                          with more or fewer notes, as she pleaseth. And sometime she taketh a
@@ -5964,8 +5964,8 @@
                             <pb n="K4r" />
                             <fw type="header"> and the Hiving of them. </fw> lowers. <ref xml:id="ch5ednatt63" type="attachment" target="#ch5ednote63">Notwithstanding each of these, when hir elder sister is gone, and
                                 hir turne next, changeth hir note, begging in <term>Orithyas</term>
-                                tune leave to be gone too</ref>:<note xml:id="ch5ednote63" type="editorial" subtype="gloss" resp="#MW">Ask HH to provide text on
-                                Orithyia?</note> which as sometime the Queene granteth unasked,
+                                tune leave to be gone too</ref>:<note xml:id="ch5ednote63" type="editorial" subtype="gloss" resp="#MW">Ask HH to provide text
+                                on Orithyia?</note> which as sometime the Queene granteth unasked,
                             beginning first hir selfe; so sometime by hir silence she denieth,
                             though mournfully intreated: and then the swarme tarieth, and the poore
                             Ladie must die. </lem>
@@ -6374,8 +6374,8 @@
                     for haste, and buzzing with their winges in great jolitie.</p>
                 <p xml:id="ch5par41">As soone as these gallant Nymphs are aloft, they doe most
                     nimbly bestirre themselves, sporting and <ref xml:id="ch5ednatt33" type="attachment" target="#ch5ednote33"><seg rend="italic">p</seg><seg rend="italic">l</seg><seg rend="italic">a</seg><seg rend="italic">y</seg><seg rend="italic">i</seg><seg rend="italic">n</seg><seg rend="italic">g</seg><seg rend="italic"> </seg><seg rend="italic">i</seg><seg rend="italic">n</seg><seg rend="italic"> </seg><seg rend="italic">a</seg><seg rend="italic">n</seg><seg rend="italic">d</seg><seg rend="italic"> </seg><seg rend="italic">o</seg><seg rend="italic">u</seg><seg rend="italic">t</seg><seg rend="italic"> </seg><seg rend="italic">a</seg><seg rend="italic">s</seg><seg rend="italic"> </seg><seg rend="italic">i</seg><seg rend="italic">f</seg><seg rend="italic"> </seg><seg rend="italic">t</seg><seg rend="italic">h</seg><seg rend="italic">e</seg><seg rend="italic">y</seg><seg rend="italic"> </seg><seg rend="italic">w</seg><seg rend="italic">e</seg><seg rend="italic">r</seg><seg rend="italic">e</seg><seg rend="italic">
-</seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic">d</seg><seg rend="italic">a</seg><seg rend="italic">n</seg><seg rend="italic">c</seg><seg rend="italic">i</seg><seg rend="italic">n</seg><seg rend="italic">g</seg></ref><note xml:id="ch5ednote33" type="editorial" subtype="gloss" resp="#OS" source="context">Butler uses evocative words to describe the bees&#8217;
-                        movement, using a freer vocabulary than is available in today&#8217;s
+</seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic">d</seg><seg rend="italic">a</seg><seg rend="italic">n</seg><seg rend="italic">c</seg><seg rend="italic">i</seg><seg rend="italic">n</seg><seg rend="italic">g</seg></ref><note xml:id="ch5ednote33" type="editorial" subtype="gloss" resp="#OS" source="context">Butler uses evocative words to describe the
+                        bees&#8217; movement, using a freer vocabulary than is available in today&#8217;s
                         science.</note> the <app type="ortographic" subtype="change">
                         <lem wit="#b1623">Hey</lem>
                         <rdg wit="#b1609" source="1609.xml#ch5ancs63 1609.xml#ch5ance63">hay</rdg>
@@ -7395,9 +7395,9 @@
                             runne together in greater quantitie than a good Hive can conteine; then
                             reare the Hive with <ref xml:id="ch5ednatt40" type="attachment" target="#ch5ednote40"><seg rend="italic">b</seg><seg rend="italic">o</seg><seg rend="italic">l</seg><seg rend="italic">s</seg><seg rend="italic">t</seg><seg rend="italic">e</seg><seg rend="italic">r</seg><seg rend="italic">s</seg></ref><note xml:id="ch5ednote40" type="editorial" subtype="gloss" resp="#JR" source="OED"><hi>bolsters]</hi> props or supports, from the verb &#8216;to
                                 bolster&#8217; (OED). </note> high enough to let them all in: which, when
-                            they have once swarmed, the <ref target="#ch5glon15"><seg rend="italic">*</seg></ref>next <ref xml:id="ch5ednatt50" type="attachment" target="#ch5ednote50"><seg rend="italic">V</seg><seg rend="italic">i</seg><seg rend="italic">n</seg><seg rend="italic">d</seg><seg rend="italic">e</seg><seg rend="italic">m</seg><seg rend="italic">i</seg><seg rend="italic">e</seg></ref><note xml:id="ch5ednote50" type="editorial" subtype="gloss" resp="#JR" source="OED"><hi>Vindemie]</hi> The taking
-                                of honey from beehives. Obsolete. Rare. (OED).</note> take away
-                            thus. </lem>
+                            they have once swarmed, the <ref target="#ch5glon15"><seg rend="italic">*</seg></ref>next <ref xml:id="ch5ednatt50" type="attachment" target="#ch5ednote50"><seg rend="italic">V</seg><seg rend="italic">i</seg><seg rend="italic">n</seg><seg rend="italic">d</seg><seg rend="italic">e</seg><seg rend="italic">m</seg><seg rend="italic">i</seg><seg rend="italic">e</seg></ref><note xml:id="ch5ednote50" type="editorial" subtype="gloss" resp="#JR" source="OED"><hi>Vindemie]</hi> The
+                                taking of honey from beehives. Obsolete. Rare. (OED).</note> take
+                            away thus. </lem>
                         <rdg wit="#b1609" />
                     </app></p>
                 <app type="major" subtype="add">
