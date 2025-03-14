@@ -373,61 +373,6 @@ def append_hi_summary_notes(tree, ns):
                         alphaEl = ET.SubElement(el, 'seg', {'rend': 'italic'})
                         alphaEl.text = char
 
-def semicolon_part_html_entity(text, index):
-    # checks to see if the semicolon is part of an html entity
-    # finds the index of the preceding whitespace
-    while (text[index] != ' ' and index > 0):
-        index -= 1
-        if text[index] == '&':
-            return True
-    return False
-
-def insert_seg_element(el, text, index, tail):
-    # inserts a seg element at the index of the text
-    
-    if not semicolon_part_html_entity(text, index):
-        # gets all the text before the semicolon
-        before = text[:index]
-        # gets all the text after the semicolon
-        after = text[index+1:]
-        # sets the text of el to be the before semicolon text
-        if not tail:
-            el.text = before
-        elif tail:
-            el.tail = before
-        # creates a new seg element
-        seg = ET.SubElement(el, 'seg', {'rend': 'roman'})
-        # sets the text of the seg element to the semicolon
-        seg.text = ';'
-        # # sets tail of the seg element to be the after semicolon text
-        seg.tail = after
-    
-
-def add_seg_to_semicolons(tree, ns):
-    # traverses the entire tree and surrounds each ';' with a seg element
-    toAddText = [];
-    toAddTail = [];
-    for el in tree.iter():
-        if el.text:
-            text = el.text
-            if ';' in text:
-                # find the index of the semicolon
-                index = text.index(';')
-                toAddText.append([el, index])
-        if el.tail:
-            text = el.tail
-            if ';' in text:
-                # find the index of the semicolon
-                index = text.index(';')
-                toAddTail.append([el, index])
-
-    for el in toAddText:
-        insert_seg_element(el[0], el[0].text, el[1], False)
-    for el in toAddTail:
-        insert_seg_element(el[0], el[0].tail, el[1], True)
-    
-    
-
 def main(preview=False):
     import sys, os
 
@@ -495,7 +440,6 @@ def main(preview=False):
     # need to do error catching for this function
     append_hi_summary_notes(tree, ns)
     transform_editorial_notes_anchors_into_spans(tree, ns)
-    # add_seg_to_semicolons(tree, ns)
 
     # removes any old versions of the file, in case no new one has been created during the run
     try:
