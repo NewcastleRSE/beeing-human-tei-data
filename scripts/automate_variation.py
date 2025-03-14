@@ -495,7 +495,7 @@ def main(preview=False):
     # need to do error catching for this function
     append_hi_summary_notes(tree, ns)
     transform_editorial_notes_anchors_into_spans(tree, ns)
-    add_seg_to_semicolons(tree, ns)
+    # add_seg_to_semicolons(tree, ns)
 
     # removes any old versions of the file, in case no new one has been created during the run
     try:
