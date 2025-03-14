@@ -13,7 +13,6 @@ def replace_semicolon(data, forbidden_indices):
     for i in range(len(data)):
         if data[i] == ";":
             if i in forbidden_indices:
-                print(i)
                 consolidated_data += ";"
             else:
                 consolidated_data += "<seg rend='roman'>;</seg>"
@@ -28,7 +27,7 @@ def main():
         forbidden_indices = find_all_html_entitites(data)
         updated_data = replace_semicolon(data, forbidden_indices)
         # write the updated data to a new file
-    with open("1623_consolidated_semicolon.xml", "w") as f:
+    with open("1623_consolidated.xml", "w") as f:
         f.write(updated_data)
     
         
