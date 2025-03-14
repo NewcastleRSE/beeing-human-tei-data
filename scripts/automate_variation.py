@@ -294,9 +294,8 @@ def transform_editorial_notes_anchors_into_spans(tree, ns):
                                         parent_map[tag].insert(i+1, tail_span)
                         
         
-
-        
-        
+  
+       
 
 
 def append_hi_summary_notes(tree, ns): 
@@ -373,8 +372,6 @@ def append_hi_summary_notes(tree, ns):
                     else:
                         alphaEl = ET.SubElement(el, 'seg', {'rend': 'italic'})
                         alphaEl.text = char
-    
-    
 
 def main(preview=False):
     import sys, os
