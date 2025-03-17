@@ -609,6 +609,8 @@
                 already contains anoter textual structure (such as the <tag>lg</tag> in the example
                 above), the <att>xml:lang</att> attribute can be used in the outermost structure
                 inside the quotation.</item>
+              <label>Anedoctal evidence or reported speech</label>
+              <item>Sections of text that contain quotations wihtout a clear source, present anecdotal evidence or reported speech should be encoded using the <tag>q</tag> element, with a <att>type</att> of <val>reported</val>. Instances of this kind of phenomena in the copy text are usually accompanied by quotation marks at the end of the line for the entirety of the quoted block of text (see B2r, for one example).</item>
             </list>
           </div>
           <div xml:id="encForeign">
@@ -1267,6 +1269,18 @@
                 <valList type="semi" mode="change">
                   <valItem ident="interjection" mode="add">
                     <desc>A narrative interjection within a quotation, like 'saith he'.</desc>
+                  </valItem>
+                </valList>
+              </attDef>
+            </attList>
+          </elementSpec>
+          
+          <elementSpec ident="q" mode="change">
+            <attList>
+              <attDef ident="type" mode="change" usage="opt">
+                <valList type="open" mode="change">
+                  <valItem ident="reported" mode="add">
+                    <desc>A quotation without a clear source, in reported speech; the retelling of anecdotal evidence.</desc>
                   </valItem>
                 </valList>
               </attDef>
