@@ -2049,7 +2049,7 @@
                         </rdg>
                     </app><app type="major" subtype="add">
                         <lem wit="#b1623"><note type="authorial" subtype="summary" xml:id="ch1sumn8"
-                                >8. A memorable experiment.</note> Two swarmes being put together,
+                                >8. A memorable experiment.</note> <q type="reported">Two swarmes being put together,
                             the Bees on both sides, as their manner is, made a murmuring noise, as
                             being discontented with the suddain congresse of Strangers: but knowing
                             wel that the more the merrier, the safer, the warmer, yea, and the
@@ -2067,7 +2067,7 @@
                             than an houre together: and by no meanes would cease, untill the poore
                             condemned Queene was brought forth slaine and laid before the doore.
                             Which done, the strife presently ended, and the Bees agreed well
-                            together.</lem>
+                            together.</q></lem>
                         <rdg wit="#b1609"/>
                     </app>
                 </p>
@@ -3002,8 +3002,10 @@
                             </app></foreign>
                     </quote></p>
                 <p xml:id="ch1par53"><quote>
-                        <foreign xml:lang="la"><lg rend="inline"><l>Illum adeo placuisse apibus mirabere
-                                morem,</l><l>Quod non concubitu indulgent, &amp;c.</l></lg></foreign>
+                        <foreign xml:lang="la"><lg rend="inline">
+                                <l>Illum adeo placuisse apibus mirabere morem,</l>
+                                <l>Quod non concubitu indulgent, &amp;c.</l>
+                            </lg></foreign>
                     </quote>
                     <note type="authorial" subtype="bibliographic" xml:id="ch1bibln56">
                         <bibl>Georg.</bibl>
@@ -3047,14 +3049,14 @@
                     </quote>; neither can they endure any unsavorinesse without nigh unto them. <quote>
                         <foreign xml:lang="la">Odere fœdos odores: <app type="minor" subtype="add">
                                 <lem wit="#b1623">Nulla harum assidet in loco inquinato, aut eo qui
-                                    malè oleat.<note type="authorial" subtype="bibliographic" xml:id="ch1bibln61">
+                                    malè oleat.<note type="authorial" subtype="bibliographic"
+                                        xml:id="ch1bibln61">
                                         <bibl>Hist.an.l.9.c.40</bibl>
                                     </note></lem>
                                 <rdg wit="#b1609"/>
                             </app></foreign>
                     </quote>
-                    <note type="authorial" subtype="bibliographic"
-                        xml:id="ch1bibln62">
+                    <note type="authorial" subtype="bibliographic" xml:id="ch1bibln62">
                         <bibl> Var.l.3.c.15.</bibl>
                     </note>And for their persons (which are lovely browne) though they be not long
                     about it, yet are they curious in trimming and smoothing them from top to toe,
@@ -8390,7 +8392,7 @@
                             <note type="authorial" subtype="summary" xml:id="ch5sumn77">77. A storie
                                 of a deadly feud.</note> I had two faire swarmes up at once, which
                             going together over-filled a good Hive: where neither of them yeelding
-                            their Queene to the other, the fight continued full two daies and two
+                            their Queene to the other, <q type="reported">the fight continued full two daies and two
                             nights, even from Thursday noone till Saturday in the afternoone:
                             wherein such havock was made, that the better part of these brave
                             Souldiers (a mournfull spectacle) lay some dead, some halfe-dead
@@ -8401,7 +8403,7 @@
                             ground. When they had thus mercilessly murdered both the Queenes, and
                             the better part of the swarmes; they that escaped rose all out of the
                             Hive, and went into another swarme which stood behinde them: of which,
-                            because they brought no Ruler with them, they were quietly received. </lem>
+                            because they brought no Ruler with them, they were quietly received.</q> </lem>
                         <rdg wit="#b1609"/>
                     </app></p>
                 <p xml:id="ch5par103"><app type="major" subtype="add">
