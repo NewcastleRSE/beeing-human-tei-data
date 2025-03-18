@@ -5608,10 +5608,10 @@
                 <note type="authorial" subtype="gloss" place="inline" xml:id="ch5glon3"><app
                         type="major" subtype="add">
                     <lem wit="#b1623">In some very <ref xml:id="ch5ednatt18" type="attachment" target="#ch5ednote18">backward yeres</ref>,<note xml:id="ch5ednote18" type="editorial" subtype="gloss" resp="JR" source="OED"
-                        ><hi>backward yeres]</hi> years when the growing season or harvest is late.</note> such as was <date when="1621"
-                                >1621.</date>&amp; <date when="1622">1622.</date> there have bin
+                        ><hi>backward yeres]</hi> years when the growing season or harvest is late.</note> <ref xml:id="ch5ednatt18x" type="attachment" target="#ch5ednote18x"> such as was <date when="1621"
+                            >1621.</date>&amp; <date when="1622">1622.</date></ref><note xml:id="ch5ednote18x" type="editorial" subtype="gloss" resp="OS" source="context">As Butler edited his text for the second edition, he was able to include extra information from the intervening years, like this passage about the conditions of 1621-2.</note> there have bin
                             swarmes a weeke in <term>Leo</term>, which did well, (the Bramble, that
-                            was wont to be a fortnight or three weekes rather, <ref
+                        was wont to be a fortnight or three weekes <ref xml:id="ch5ednatt18xx" type="attachment" target="#ch5ednote18xx">rather</ref>,<note xml:id="ch5ednote18xx" type="editorial" subtype="gloss" resp="JR" source="OED">rather] earlier (adv., OED3 1).</note> <ref
                                 target="#ch5bibln12">v.</ref>
                             <note type="authorial" subtype="bibliographic" xml:id="ch5bibln12">
                                 <ref target="#ch6sumn39">V.c.6.n.39.</ref>
