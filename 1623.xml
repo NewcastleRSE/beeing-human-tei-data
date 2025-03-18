@@ -5622,7 +5622,7 @@
                     </app></note>
                 <p xml:id="ch5par10"><note type="authorial" subtype="summary" xml:id="ch5sumn9">9.
                         Rathe swarmes.</note> Those that come<app type="minor" subtype="change">
-                        <lem wit="#b1623"> before the Solstice, in the ascending of the Sunne,</lem>
+                            <lem wit="#b1623"> before the <ref xml:id="ch5ednatt18xxx" type="attachment" target="#ch5ednote18xxx">Solstice</ref>,<note xml:id="ch5ednote18xxx" type="editorial" subtype="gloss" resp="JR" source="OED">Solstice] The longest day of the year in June, now 21 June (the summer Solstice) but for Butler, who is using the old calendar (reformed 1752), 31 June.</note> in the ascending of the Sunne,</lem>
                         <rdg wit="#b1609"><ptr target="1609.xml#ch5ancs5  1609.xml#ch5ance5"/></rdg>
                     </app> are rathe swarmes. <note type="authorial" subtype="summary"
                         xml:id="ch5sumn10">10. Late swarmes.</note> Those that come <app
@@ -5666,7 +5666,7 @@
                         </app>
                     </note> they may live and doe well: but blackbery-swarmes, <app type="minor"
                         subtype="add">
-                        <lem wit="#b1623">specially castlings,</lem>
+                        <lem wit="#b1623">specially <ref xml:id="ch5ednatt19x" type="attachment" target="#ch5ednote19x">castlings</ref>,<note xml:id="ch5ednote19x" type="editorial" subtype="gloss" resp="JR" source="OED">castlings] second (or third) swarms which leaves a hive in the season (n.2 OED 2).</note></lem>
                         <rdg wit="#b1609"/>
                     </app> are seldome to be kept,<app type="minor" subtype="del">
                         <lem wit="#b1623"/>
