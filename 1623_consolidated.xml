@@ -1820,10 +1820,11 @@
                     abhorre as well Polyarchie, as Anarchie, God having shewed in them unto men, an
                     expresse patterne of <hi rend="smallCapitals titleCase">A PERFECT MONARCHIE, THE
                         MOST NATURAL AND ABSOLUTE FORME OF GOVERNMENT.</hi>
-                    <note type="editorial" subtype="other" cert="check" xml:id="check1"><app type="minor" subtype="add">
-                            <lem wit="#b1623">Greek script</lem>
+                    <app type="minor" subtype="add">
+                        <lem wit="#b1623">&#927;&#8016;&#954; &#7936;&#947;&#945;&#952;&#8056;&#957; &#960;&#959;&#955;&#965;&#954;&#959;&#953;&#961;&#945;&#957;&#943;&#951;&#183; &#949;&#7991;&#962; &#954;&#959;&#943;&#961;&#945;&#957;&#959;&#962; &#7956;&#963;&#964;&#969;,
+                            &#949;&#7991;&#962;</lem>
                             <rdg wit="#b1609" />
-                        </app></note>
+                        </app>
                     <note type="authorial" subtype="bibliographic" xml:id="ch1bibln14">
                         <bibl><app type="reference" subtype="add">
                                 <lem wit="#b1623">Hom.II.a.9.</lem>
