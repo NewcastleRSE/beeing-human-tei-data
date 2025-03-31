@@ -6888,8 +6888,8 @@
                     provided of a house before they swarme, which some Harbingers have found and
                     viewed, and dressed against their comming: as either a hollow tree, or a void
                     Hive: and then will they away presently, and by no meanes settle till they come
-                    thither. <note type="authorial" subtype="summary" xml:id="ch5sumn40"> 40. And
-                        then they fly away directly to the place.</note> Unto which place they will
+                    thither. <ref xml:id="ch5ednatt76" type="attachment" target="#ch5ednote76"><note type="authorial" subtype="summary" xml:id="ch5sumn40"> 40. And
+                        then they fly away directly to the place.</note></ref><note xml:id="ch5ednote76" type="editorial" subtype="gloss" resp="VN" source="Journal">Biologists call bees that have found suitable sites “scouts”. Scouts communicate the direction of the new home by flying rapidly through the swarm. (Janson, S., Middendorf, M., & Beekman, M. (2005). Honeybee swarms: how do scouts guide a swarm of uninformed bees?. Animal behaviour, 70(2), 349-358.)</note> Unto which place they will
                     flie, not, as at other times, uncertainely this way and that way; but as
                     directly as they can guesse. <app type="minor" subtype="del">
                         <lem wit="#b1623"/>
@@ -6959,8 +6959,8 @@
                         <rdg wit="#b1609"><ptr target="1609.xml#ch5ancs73 1609.xml#ch5ance73"
                             /></rdg>
                     </app>, but they begin to shake their wings like as the Bees doe that are
-                    chilled: which the next perceiving doe the like: and so doth this soft shivering
-                    passe as a watch-word from one to another, untill it come to the inmost Bees:
+                    chilled: which the next perceiving doe the like: and <ref xml:id="ch5ednatt77" type="attachment" target="#ch5ednote77">so doth this soft shivering
+                        passe as a watch-word from one to another</ref>,<note xml:id="ch5ednote77" type="editorial" subtype="gloss" resp="VN" source="Journal">Scout bees send out signals to other scout bees from other sites in what are called “stop signals”. These are vibratory cues that inhibit other bee responses and allow the hive to make a clear decision on which site to move to. (Seeley, T. D., Visscher, P. K., Schlegel, T., Hogan, P. M., Franks, N. R., & Marshall, J. A. (2012). Stop signals provide cross inhibition in collective decision-making by honeybee swarms. Science, 335(6064), 108-111.)</note> untill it come to the inmost Bees:
                     whereby is caused a great hollownesse in the <app type="vocabulary"
                         subtype="change">
                         <lem wit="#b1623">Cone</lem>
@@ -7007,11 +7007,11 @@
                     </app>
                 </p>
                 <p xml:id="ch5par57">For example, a swarme of <app type="minor" subtype="change">
-                        <lem wit="#b1623">three gawns, of a <ref target="#ch5glon12">†</ref>good
+                    <lem wit="#b1623">three <ref xml:id="ch5ednatt78" type="attachment" target="#ch5ednote75">gawns</ref>,<note xml:id="ch5ednote75" type="editorial" subtype="gloss" resp="JR" source="OED">Gallons (OED, obsolete except in dialect). 1 imperial gallon (UK) (approx 4.54 litres).</note> of a <ref target="#ch5glon12">†</ref>good
                             Prime-swarme before <term> Mid-Gemini</term>, will aske a Hive of three
-                            pecks: such a one at <term> Cancer</term>, a Hive of five gawnes.
+                        <ref xml:id="ch5ednatt79" type="attachment" target="ch5ednote79">pecks</ref>:<note xml:id="ch5ednote75" type="editorial" subtype="gloss" resp="JR" source="OED">One peck = amount equivalent to two imperial gallons (UK) (approx. 9.09 litres).</note> such a one at <term> Cancer</term>, a Hive of five gawnes.
                             Likewise a double-prime swarme comming betime, is fitted with a
-                            bushell-Hive: and all pecke-swarmes, and other single <fw type="catch">
+                        <ref xml:id="ch5ednatt80" type="attachment" target="ch5ednote80">bushell-Hive</ref>:<note xml:id="ch5ednote80" type="editorial" subtype="gloss" resp="JR" source="OED">Hive that can contain four pecks or eight imperial gallons (UK) (approx. 36.36 litres) in weight (bushel, n.1, OED 1a).</note> and all pecke-swarmes, and other single <fw type="catch">
                                 swarmes</fw>
                             <pb n="L4v"/>
                             <fw type="header"> Of the Swarming of Bees, </fw> swarmes after <term>
@@ -7093,7 +7093,7 @@
                         <lem wit="#b1623">If the same day, your remedy is to knocke out the Bees
                             upon the mantle betweene two single Rests, and to set a fitter Hive over
                             them: but this is not to be done before the swarming-houres be past,
-                            lest some of the Bees take a miffe and goe home againe. Otherwise you
+                            lest some of the Bees <ref xml:id="ch5ednatt81" type="attachment" target="#ch5ednote81">take a miffe</ref><note xml:id="ch5ednote81" type="editorial" subtype="gloss" resp="OS" "OED">get in a huff (OED n.)</note> and goe home againe. Otherwise you
                             may set the Hive in a Brake, <ref target="#5bibln35">v.</ref>
                             <note type="authorial" subtype="bibliographic" xml:id="ch5bibln35">
                                 <ref target="#ch5sumn24"> V.n.24. </ref>
@@ -7135,7 +7135,7 @@
                             <lem wit="#b1623">48. The Mantle.</lem>
                             <rdg wit="#b1609"/>
                         </app></note>The Mantle may be a sheet, or halfe-sheet, or some other linnen
-                    cloth, an ell square at the least. </p>
+                    cloth, an <ref xml:id="ch5ednatt82" type="attachment" target="#ch5ednote82">ell square</ref><note xml:id="ch5ednote82" type="editorial" subtype="gloss" resp="JR">45 inches (approx. 1.143 metres).</note> at the least. </p>
                 <p xml:id="ch5par67"><note type="authorial" subtype="summary" xml:id="ch5sumn49"
                             ><app type="major" subtype="add">
                             <lem wit="#b1623">49. The single Rest.</lem>
@@ -7260,7 +7260,7 @@
                         >v.</ref>
                     <note type="authorial" subtype="bibliographic" xml:id="ch5bibln39">
                         <ref target="#ch1sumn27"> V.c.1.n.27.</ref>
-                    </note> first drinke of the best beere, and wet his hands and face therewith:
+                    </note> first <ref xml:id="ch5ednatt83" type="attachment" target="#ch5ednote83">drinke of the best beere</ref>,<note xml:id="ch5ednote83" type="editorial" subtype="gloss" resp="OS" source="journal arcticle">Beer was a household staple and regular drink. See for example Flavin S, Meltonville M, Taverner C, et al. Understanding Early Modern Beer: An Interdisciplinary Case-Study. The Historical Journal. 2023;66(3):516-549. </note> and wet his hands and face therewith:
                     and then let him goe about his businesse soberly and gently, taking good heed
                     where he sets his foot, and how hee handleth them: for if he tread upon a Bee,
                     or by any other meanes crush one of them; they presently finding it, by the
@@ -7364,7 +7364,7 @@
                             /></rdg>
                 </app></p><app type="major" subtype="del"><lem wit="#b1623"></lem><rdg wit="#b1609"><ptr target="1609.xml#ch5ancs89x 1609.xml#ch5ance89x"/></rdg></app>
                 <p xml:id="ch5par80"><note type="authorial" subtype="summary" xml:id="ch5sumn58">58.
-                        How if it light upon a high tree.</note><app type="major" subtype="add"><lem wit="#b1623"> If they pitch upon a high tree, it
+                    How if it light upon a high tree.</note><app type="major" subtype="add"><lem wit="#b1623"> If they <ref xml:id="ch5ednatt84" type="attachment" target="#ch5ednote84">pitch</ref><note xml:id="ch5ednote84" type="editorial" subtype="gloss" resp="JR" source="OED">ensconce oneself temporarily; settle (v.2, OED3 5b).</note> upon a high tree, it
                     is not best to shake them into the Hive, but rather with a sharpe knife cut the
                     bough if you can conveniently: and either put it into the Hive, and cover it
                     with a Mantle, or bring it downe gentlie in your hand. But if you want a ladder
@@ -7410,7 +7410,7 @@
                         <lem wit="#b1623"/>
                         <rdg wit="#b1609"><ptr target="1609.xml#ch5ancs95 1609.xml#ch5ance95"
                             /></rdg>
-                    </app>a stub, pollard, <app type="vocabulary" subtype="del">
+                    </app>a <ref xml:id="ch5ednatt84" type="attachment" target="#ch5ednote84">stub</ref>,<note xml:id="ch5ednote84" type="editorial" subtype="gloss" resp="JR" source="OED">stump of a tree (OED 1a)</note> pollard, <app type="vocabulary" subtype="del">
                         <lem wit="#b1623"/>
                         <rdg wit="#b1609"><ptr target="1609.xml#ch5ancs96 1609.xml#ch5ance96"
                             /></rdg>
