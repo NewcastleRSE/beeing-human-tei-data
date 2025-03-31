@@ -7387,7 +7387,7 @@
                     into another leere Hive, and put them to their fellowes. If yet some of them
                     will up againe, you must not cease to trouble them, by wiping them off gently
                     with your Brush, by laying on Mug-wort, Margerom, Wormewood, <ref
-                        target="#ch5glon13">*</ref> Archangell, <note type="authorial"
+                        target="#ch5glon13">*</ref> <ref xml:id="ch5ednatt83x" type="attachment" target="#ch5ednote83x"></ref>Archangell<note xml:id="ch5ednote83x" type="editorial" subtype="gloss" resp="OS"><hi>Angelica archangelica.</hi> This is a list of scented plants.</note>, <note type="authorial"
                         subtype="gloss" xml:id="ch5glon13">*<hi rend="italic">White
                         Nettle.</hi></note> or other Weeds, or Hearbs, or by covering the place with
                         a cloth: and after a while they will all to their fellowes in the Hive. </lem><rdg wit="#b1609"></rdg></app></p>
@@ -7410,7 +7410,7 @@
                         <lem wit="#b1623"/>
                         <rdg wit="#b1609"><ptr target="1609.xml#ch5ancs95 1609.xml#ch5ance95"
                             /></rdg>
-                    </app>a <ref xml:id="ch5ednatt84" type="attachment" target="#ch5ednote84">stub</ref>,<note xml:id="ch5ednote84" type="editorial" subtype="gloss" resp="JR" source="OED">stump of a tree (OED 1a)</note> pollard, <app type="vocabulary" subtype="del">
+                    </app>a <ref xml:id="ch5ednatt84" type="attachment" target="#ch5ednote84">stub</ref>,<note xml:id="ch5ednote84" type="editorial" subtype="gloss" resp="JR" source="OED">stump of a tree (OED 1a)</note> <ref xml:id="ch5ednatt85" type="attachment" target="#ch5ednote85">pollard</ref>,<note xml:id="ch5ednote85" type="editorial" subtype="gloss" resp="JR" source="OED">tree which has had its upper trunk and branches cut back (n.2, OED3 4).</note> <app type="vocabulary" subtype="del">
                         <lem wit="#b1623"/>
                         <rdg wit="#b1609"><ptr target="1609.xml#ch5ancs96 1609.xml#ch5ance96"
                             /></rdg>
@@ -7423,7 +7423,7 @@
                     </app>, set one side of the Hive over them, propping the other side with a prong
                     or two, and drive them up as before. </p>
                 <p xml:id="ch5par85"><note type="authorial" subtype="summary" xml:id="ch5sumn61">61.
-                        How if it light in the middle of a dead hedge.</note> If they light in the
+                    How if it light in the middle of a <ref xml:id="ch5ednatt86" type="attachment" target="#ch5ednote86">dead hedge.</ref><note xml:id="ch5ednote86" type="editorial" subtype="gloss" resp="JR" source="OED"></note>hedge consisting of dead plants (dead, adj., OED3 8).</note> If they light in the
                     middle <app type="minor" subtype="add">
                         <lem wit="#b1623">or bottome</lem>
                         <rdg wit="#b1609"/>
@@ -7461,7 +7461,7 @@
                     <pb n="M3v"/>
                     <fw type="header"> Of the Swarming of Bees, </fw> them: but be sure that the
                     upper hole bee wide enough: rather than faile make two or three with a two-inch
-                        auger<app type="minor" subtype="add">
+                    <ref xml:id="ch5ednatt87" type="attachment" target="#ch5ednote87">auger</ref><note xml:id="ch5ednote87" type="editorial" subtype="gloss" resp="JR" source="OED">carpenter's hand tool used for boring holes in wood (n.1, OED3 1).</note><app type="minor" subtype="add">
                         <lem wit="#b1623">, or, with a hatchet, one as great</lem>
                         <rdg wit="#b1609"/>
                     </app>. Then fire a peece of Match, or for want of Match, take a little Hay, or
@@ -7505,7 +7505,7 @@
                         <lem wit="#b1623">in the morning Sunne, and </lem>
                         <rdg wit="#b1609"/>
                     </app>as neere the lighting-place as may be: which if some inconvenience will
-                    not suffer you to doe, yet set it within the length of a Pearch, or at the least
+                    not suffer you to doe, yet set it within the length of a <ref xml:id="ch5ednatt88" type="attachment" target="#ch5ednote88">Pearch</ref>,<note xml:id="ch5ednote88" type="editorial" subtype="gloss" resp="JR" source="OED">‘A measure of length. Originally: a rod of a definite length used for measuring land, etc. Later: a measure of length used esp. for land, fences, walls, etc., varying locally but later standardised at 51/2 yards, 161/2 ft (approx. 5.03 m). [...] Now chiefly historical.’ (perch, n.1, OED3 2).</note> or at the least
                     within sight and hearing: and then (lest those which are leaft at the lighting
                     place, by losing their company a while, lose their lives also) first trouble
                     them by the meanes mentioned. <ref target="#ch5sumn59">n.59</ref>. and then
@@ -7539,7 +7539,7 @@
                     the setling with shaking, gentle rubbing with weeds, and spitting and blowing in
                     the place, that they may goe to their fellowes. If they bee setled and hang upon
                     a bough, cut the bough and bring them to them. If they bee setled in some other
-                    place, then put them in a hive without Spleets: and if they be within a pearch
+                    place, then put them in a hive without <ref xml:id="ch5ednatt89" type="attachment" target="#ch5ednote89">Spleets</ref>:<note xml:id="ch5ednote89" type="editorial" subtype="gloss" resp="JR" source="OED">small strips of split wood or willow. Now dialect and rare. (OED).</note> and if they be within a pearch
                     of the other part, move them both, one towards an other by little and little till
                     they be close together. After they have stood so about halfe an houre, lift up
                     the spleeted hive from his Mantle and Rest, and shake the Bees out of the
@@ -7633,7 +7633,6 @@
                             Sunne-set, or when it waxeth darke, having spread a Mantle on the
                             ground, neere unto the stoole, where this united swarme shall stand, and
                             set a paire of Rests in the middle of it; knock downe the
-                                <term>Remover</term> upon the Rests, and then lifting up the Hive a
                             little, and clapping it betweene your hands to get out the Bees that
                             sticke in it, lay it downe on his side warily by the Bees, and set the
                                 <fw type="catch"> Receiver </fw>
@@ -7785,7 +7784,7 @@
                 <p xml:id="ch5par103"><app type="major" subtype="add">
                         <lem wit="#b1623"><note type="authorial" subtype="summary"
                                 xml:id="ch5sumn78">78. The causes of a swarme going home
-                                againe.</note> Sometime a swarme being abroad, yea knit in the
+                            againe.</note> Sometime a swarme being abroad, yea <ref xml:id="ch5ednatt90" type="attachment" target="#ch5ednote90">knit</ref><note xml:id="ch5ednote90" type="editorial" subtype="gloss" source="OED">‘Of bees: clustered together in a mass (now dialect)’ (v., OED 6c).</note> in the
                                 <term> Cone,</term> will not abide, but returne home againe: the
                             cause whereof is windie, wet, or cloudie weather, the not finding of a
                             fit lighting-place, trouble in hiving, the hot standing of the Hive
@@ -7939,7 +7938,7 @@
                         xml:id="ch5sumn88"> 88. A swarme may live six daies without Honie.</note>
                     They may live five or six daies in the Hive without Honie: but afterward they
                     begin to string downe, hanging at an others heeles. <quote>
-                        <foreign xml:lang="la">Pedibus connexae ad limina pendent.</foreign>
+                        <foreign xml:lang="la"><ref xml:id="ch5ednatt91" type="attaxchment" target="#ch5ednote91>Pedibus connexae ad limina pendent.</ref><note xml:id="ch5ednote91" type="editorial" subtype="gloss" resp="JR" source="OED">Lat. ‘linked foot to foot, there by the portal they hang.’ (Virgil, Georgics, 4.257).</note></foreign>
                         <note type="authorial" subtype="bibliographic" xml:id="ch5bibln48">
                             <bibl> Virg.</bibl>
                         </note>
