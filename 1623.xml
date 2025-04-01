@@ -5358,10 +5358,33 @@
             <pb n="I3r"/>
             <div type="chapter" n="5" xml:id="ch5">
                 <head type="chapter-number">CHAP. V</head>
-                <head type="chapter-title"><ref xml:id="ch5ednatt1" type="attachment" target="#ch5ednote1">Of the Swarming of Bees</ref>, and the<lb/>
-                    <hi rend="opposite"><ref xml:id="ch5ednatt3" type="attachment" target="#ch5ednote3">Hiving</ref> of them.</hi></head><note xml:id="ch5ednote1" type="editorial" subtype="gloss" resp="JR" source="OED">‘Of bees: To gather in a compact cluster and leave the hive in
-                        a body to found a new colony’ (v.1, OED 1a). See next annotation for a longer entry on
-                        Swarming.</note><note xml:id="ch5ednote3" type="editorial" subtype="gloss" resp="JR" source="Many">Hives (or skeps) at this time were ‘baskets placed open-end-down’, made
+                <head type="chapter-title">Of the <ref xml:id="ch5ednatt1" type="attachment" target="#ch5ednote1">Swarming<note xml:id="ch5ednote1" type="editorial" subtype="gloss" resp="JR" source="OED"> Swarming is a natural process by which honeybees protect and grow their
+                    communities. It usually begins in the early summer—May, June, sometimes
+                    July—as the hive fills up and food outside becomes readily available. The f
+                    step is that a colony rears ten or more queens, ‘all daughters of the mother queen’.
+                    While they are developing, the queen undergoes a change. She is ‘fed less and less
+                    by the workers’, who ‘begin to show mild hostility . . . shaking, pushing, and
+                    lightly biting her’. ‘These bouts of rough handling force the queen to keep
+                    walking about the nest’. Thus, the ‘mother queen ... is put into flying trim
+                    Meanwhile the scout bees search for new “dwelling places.” When the weather is
+                    right, and ‘the developing queens have reached the pupal stage’, the scout bees
+                    prepare the worker bees for flight by pressing their thorax against their bodies a
+                    activating the flight muscles; this produces a piping sound. This sound begi
+                    faintly, building up gradually to blast out the message, ‘Time to warm up!’, and
+                    then, a little later, ‘Time to go!’. Left behind in the hive are ‘a few thousand
+                    worker bees’ and ‘a dozen or more queen cells, many thousand cells of worker
+                    
+                    brood, and much food’. At this stage, a different piping sound is heard. The f
+                    virgin queen to emerge from her cell announces her presence by pressing her
+                    thorax against a comb, producing a tooting sound; the queens still in their cells
+                    ‘pipe in response, producing lower-pitched “quacks” that are somewhat longer
+                    than the first virgin queen’s “toots”’. These sounds let the first virgin q
+                    roaming the hive know ‘that she has lethal rivals’. She will either leave,
+                    relinquishing the food resources in the hive, or remain—a riskier path for her to
+                    take because she will need ‘to kill all her deadly serious competitors’ (Seeley
+                    2010: 39-42).</note> of <ref xml:id="ch5ednatt2" type="attachment" target="ch5ednote2">Bees</ref>,<note xml:id="ch5ednote2" type="editorial" subtype="gloss" resp="JR" source="OED">‘Of bees: To gather in a compact cluster and leave the hive in
+                        a body to found a new colony’ (v.1, OED 1a).</note> and the<lb/>
+                    <hi rend="opposite"><ref xml:id="ch5ednatt3" type="attachment" target="#ch5ednote3">Hiving</ref> of them.</hi></head><note xml:id="ch5ednote3" type="editorial" subtype="gloss" resp="JR" source="Many">Hives (or skeps) at this time were ‘baskets placed open-end-down’, made
                             from wicker or straw; they had no internal structure, so the colony had to ‘produce
                             its own honeycomb, which is attached to the inside of the skep’. Skeps have ‘two
                             disadvantages: beekeepers cannot inspect the comb for diseases and pests, and
@@ -5374,35 +5397,11 @@
                             types need to be kept covered because water ‘maketh them musty, and [...] rotteth
                             the combes and destroyeth the Bees’ (III.1-4).</note>
                 <p xml:id="ch5par1"><note type="authorial" subtype="summary" xml:id="ch5sumn1">1.
-                     The parts of <ref xml:id="ch5ednatt2" type="attachment" target="#ch5ednote2">a swarme.</ref></note><note xml:id="ch5ednote2" type="editorial" subtype="gloss" resp="JR">
-                        Swarming is a natural process by which honeybees protect and grow their
-                        communities. It usually begins in the early summer—May, June, sometimes
-                        July—as the hive fills up and food outside becomes readily available. The f
-                        step is that a colony rears ten or more queens, ‘all daughters of the mother queen’.
-                        While they are developing, the queen undergoes a change. She is ‘fed less and less
-                        by the workers’, who ‘begin to show mild hostility . . . shaking, pushing, and
-                        lightly biting her’. ‘These bouts of rough handling force the queen to keep
-                        walking about the nest’. Thus, the ‘mother queen ... is put into flying trim
-                        Meanwhile the scout bees search for new “dwelling places.” When the weather is
-                        right, and ‘the developing queens have reached the pupal stage’, the scout bees
-                        prepare the worker bees for flight by pressing their thorax against their bodies a
-                        activating the flight muscles; this produces a piping sound. This sound begi
-                        faintly, building up gradually to blast out the message, ‘Time to warm up!’, and
-                        then, a little later, ‘Time to go!’. Left behind in the hive are ‘a few thousand
-                        worker bees’ and ‘a dozen or more queen cells, many thousand cells of worker
+                     The parts of a swarme.
                         
-                        brood, and much food’. At this stage, a different piping sound is heard. The f
-                        virgin queen to emerge from her cell announces her presence by pressing her
-                        thorax against a comb, producing a tooting sound; the queens still in their cells
-                        ‘pipe in response, producing lower-pitched “quacks” that are somewhat longer
-                        than the first virgin queen’s “toots”’. These sounds let the first virgin q
-                        roaming the hive know ‘that she has lethal rivals’. She will either leave,
-                        relinquishing the food resources in the hive, or remain—a riskier path for her to
-                        take because she will need ‘to kill all her deadly serious competitors’ (Seeley
-                        2010: 39-42).</note>
                     <hi rend="drop-capital">T</hi>HE <ref xml:id="ch5ednatt4" type="attachment" target="#ch5ednote4">stocks</ref> having bred and filled their Hives doe
                     send forth swarmes. A swarme doth consist of all such parts as the stocke doth:
-                    namely of a Queene-bee, Honie-bees as well old as young, and Drone-bees. <note xml:id="ch5ednote4" type="editorial" subtype="gloss" resp="JR" source="OED"><hi>stocks]</hi> swarms of bees (n.1, OED 41); presumably also a noun for a cluster of
+                    namely of a Queene-bee, Honie-bees as well old as young, and Drone-bees. <note xml:id="ch5ednote4" type="editorial" subtype="gloss" resp="JR" source="OED">Swarms of bees (n.1, OED 41); presumably also a noun for a cluster of
                         bees.</note></p>
                 <p xml:id="ch5par2"><note type="authorial" subtype="summary" xml:id="ch5sumn2">2.
                         When you may see the Queene-Bee.</note> If any man desire to see the Queene,
@@ -5414,7 +5413,7 @@
                             </note></lem>
                         <rdg wit="#b1609"><ptr target="1609.xml#ch5ancs1x 1609.xml#ch5ance1x"
                             /></rdg>
-                    </app> and dead ones hee may finde many before the <ref xml:id="ch5ednatt5" type="attachment" target="#ch5ednote5">stooles,</ref><note xml:id="ch5ednote5" type="editorial" subtype="gloss" resp="JR" source="OED"><hi>>stooles]</hi> stands of a beehive. Obsolete. (OED 10b).</note> when the stocks have
+                    </app> and dead ones hee may finde many before the <ref xml:id="ch5ednatt5" type="attachment" target="#ch5ednote5">stooles,</ref><note xml:id="ch5ednote5" type="editorial" subtype="gloss" resp="JR" source="OED">Stands of a beehive. Obsolete. (OED 10b).</note> when the stocks have
                     cast their last swarmes, <app type="reference" subtype="change">
                         <lem wit="#b1623"><ref target="#ch5bibln2">v.</ref>
                             <note type="authorial" subtype="bibliographic" xml:id="ch5bibln2">
@@ -5424,8 +5423,8 @@
                             /></rdg>
                     </app> and also when many meet in one swarme. <ref target="#ch1sumn7"
                         >v.c.1.n7</ref>. <app type="minor" subtype="add">
-                        <lem wit="#b1623"><ref xml:id="ch5ednatt7" type="attachment" target="#ch5ednote7">But then, being dead and shrunke together by the force of
-                            the poison, they lose much of their stature</ref><note xml:id="ch5ednote7" type="editorial" subtype="other" resp="BH" source="crossref">For a further discussion of analogies of the monarch's body see Olivia Smith's essay <ref xml:id="ch5link2" type="link" target="#https://newcastlerse.github.io/beeing-human-web/connections/queen-bee">here</ref>https://newcastlerse.github.io/beeing-human-web/connections/queen-bee</note> and <ref xml:id="ch5ednatt6" type="attachment" target="#ch5ednote6">comlinesse.</ref><note xml:id="ch5ednote6" type="editorial" subtype="gloss" resp="OS" source="OED"><hi>comliness]</hi> attractiveness, beauty (OED 1)</note></lem>
+                        <lem wit="#b1623">But then, being dead and shrunke together by the force of
+                            the poison, they lose much of their stature and <ref xml:id="ch5ednatt6" type="attachment" target="#ch5ednote6">comlinesse.</ref><note xml:id="ch5ednote6" type="editorial" subtype="gloss" resp="OS" source="OED">Attractiveness, beauty (OED 1)</note></lem>
                         <rdg wit="#b1609"/>
                     </app></p>
                 <p xml:id="ch5par3"><note type="authorial" subtype="summary" xml:id="ch5sumn3">3.
@@ -5446,7 +5445,7 @@
                     </note>
                     <note type="authorial" subtype="summary" xml:id="ch5sumn4">4. Many Drones in a
                         swarme a good signe.</note> And therefore those swarmes that have many
-                    Drones will surely prosper: and if they be <ref xml:id="ch5ednatt8" type="attachment" target="#ch5ednote8">rathe</ref><note xml:id="ch5ednote8" type="editorial" subtype="gloss" resp="JH" source="OED"><hi>rathe]</hi> early; done or occurring before the usual or natural time (adj., OED3 2a).</note> will swarme againe, unlesse
+                    Drones will surely prosper: and if they be <ref xml:id="ch5ednatt8" type="attachment" target="#ch5ednote8">rathe</ref><note xml:id="ch5ednote8" type="editorial" subtype="gloss" resp="JH" source="OED">Early; done or occurring before the usual or natural time (adj., OED3 2a).</note> will swarme againe, unlesse
                     they bee over-hived: whereas those that have few or none, will increase little
                     or nothing all the Summer after. </p>
                 <p xml:id="ch5par5"><note type="authorial" subtype="summary" xml:id="ch5sumn5">5. A
@@ -5489,12 +5488,12 @@
                                 <ref target="#ch6sumn38">V.c.6.n.38.</ref>&amp;<ref
                                     target="#ch6sumn39">39.c.</ref>
                             </note> so that when a dry Summer followeth a moist Spring, the
-                            <ref xml:id="ch5ednatt9" type="attachment" target="#ch5ednote9">Bee-folds</ref><note xml:id="ch5ednote9" type="editorial" subtype="gloss" resp="JHOS" source="OED"><hi>bee-folds]</hi> enclosures for bees (OED). Butler is the OED’s first referent for this
+                            <ref xml:id="ch5ednatt9" type="attachment" target="#ch5ednote9">Bee-folds</ref><note xml:id="ch5ednote9" type="editorial" subtype="gloss" resp="JH" resp="OS" source="OED">Enclosures for bees (OED). Butler is the OED’s first referent for this
                                 and several other terms (i.e. schadon), showing both his lasting cultural impact
                                 and the significance of his writing at the time it was published.</note> are rich. If the Summer be also moist, the increase of Bees
                             will be greater: but, because of the scarcity of hony, this increase
                             will proove a decrease: the more swarmes you have at the end of this
-                            Summer, the fewer <ref xml:id="ch5ednatt10" type="attachment" target="#ch5ednote10">stalls</ref><note xml:id="ch5ednote10" type="editorial" subtype="gloss" resp="JR" source="OED">stalls] hive of bees; a ‘stock’ of bees in or for a hive; also, a beehive (n.4, OED).</note> shall you have at the beginning of the next.
+                            Summer, the fewer <ref xml:id="ch5ednatt10" type="attachment" target="#ch5ednote10">stalls</ref><note xml:id="ch5ednote10" type="editorial" subtype="gloss" resp="JR" source="OED">Hive of bees; a ‘stock’ of bees in or for a hive; also, a beehive (n.4, OED).</note> shall you have at the beginning of the next.
                             For, except some faire rathe swarmes, and some good stockes, which cast
                             betimes or not at all, they die all for hunger; <ref xml:id="ch5ednatt11" type="attachment" target="#ch5ednote11">when they have spent
                                 their own pittance, and spoiled their fellowes.</ref><note xml:id="ch5ednote11" type="editorial" subtype="gloss" resp="OS" source="context">The economy of the hive is described here in human terms, as was common
