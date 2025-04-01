@@ -14,8 +14,13 @@ jobs:
         steps:
             - name: Checkout repository
               uses: actions/checkout@v4
-            - name: Run the script
+            - name: Run the consolidation script
+              id: run_consolidation
               run: python scripts/automate_variation.py
+            - name: Run the semicolon script
+              id: run_semicolon
+              if: steps.run_consolidation.outcome == 'success'
+              run: python scripts/add_seg_semicolon.py
             - name: Save and commit results
               uses: stefanzweifel/git-auto-commit-action@v5
               with:
