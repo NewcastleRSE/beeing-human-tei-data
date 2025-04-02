@@ -4928,7 +4928,7 @@
             <pb n="I3r" />
             <div type="chapter" n="5" xml:id="ch5">
                 <head type="chapter-number">CHAP. V</head>
-                <head type="chapter-title">Of the <ref xml:id="ch5ednatt1" type="attachment" target="#ch5ednote1"><seg rend="italic">S</seg><seg rend="italic">w</seg><seg rend="italic">a</seg><seg rend="italic">r</seg><seg rend="italic">m</seg><seg rend="italic">i</seg><seg rend="italic">n</seg><seg rend="italic">g</seg></ref><note xml:id="ch5ednote1" type="editorial" subtype="gloss" resp="JR" source="OED"> Swarming is a natural process by which honeybees protect and grow their
+                <head type="chapter-title">Of the <ref xml:id="ch5ednatt1" type="attachment" target="#ch5ednote1"><seg rend="italic">S</seg><seg rend="italic">w</seg><seg rend="italic">a</seg><seg rend="italic">r</seg><seg rend="italic">m</seg><seg rend="italic">i</seg><seg rend="italic">n</seg><seg rend="italic">g</seg></ref><note xml:id="ch5ednote1" type="editorial" subtype="gloss" resp="#JR" source="OED"> Swarming is a natural process by which honeybees protect and grow their
                     communities. It usually begins in the early summer&#8212;May, June, sometimes
                     July&#8212;as the hive fills up and food outside becomes readily available. The f
                     step is that a colony rears ten or more queens, &#8216;all daughters of the mother queen&#8217;.
