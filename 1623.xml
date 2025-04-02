@@ -186,7 +186,7 @@
                     <titlePart type="main">THE <lb/>
                         <hi rend="italic">Feminine Monarchie</hi><lb/> OR<lb/>
                         <app type="major" subtype="change">
-                            <lem wit="#b1623">THE HISTORIE<lb/> OF BEES</lem>
+                            <lem wit="#b1623">THE HISTORIE<lb/> OF BEES·</lem>
                             <rdg wit="#b1609"><ptr target="1609.xml#ch0ancs1 1609.xml#ch0ance1"
                                 /></rdg>
                         </app><lb/>
@@ -195,7 +195,7 @@
                         <app type="major" subtype="change">
                             <lem wit="#b1623"><hi rend="italic">SHEWING</hi><lb/> Their admirable
                                 Nature, and Properties,<lb/> Their Generation, and Colonies,<lb/>
-                                Their Government, Loyaltie, Art, Industrie,<lb/> Enimines, Warres,
+                                Their Government, Loyaltie, Art, Industrie,<lb/> Enemies, Warres,
                                 Magnanimitie, &amp;c.<lb/></lem>
                             <rdg wit="#b1609"><ptr target="1609.xml#ch0ancs2 1609.xml#ch0ance2"
                                 /></rdg>
@@ -204,7 +204,7 @@
                             <lem wit="#b1623">TOGETHER<lb/> With the right ordering of them from
                                 time to<lb/>
                                 <hi rend="italic">time: And the sweet profit arising
-                                thereof</hi></lem>
+                                thereof.</hi></lem>
                             <rdg wit="#b1609"/>
                         </app>
                     </titlePart>
@@ -221,8 +221,8 @@
                 <fw type="horizontalRule"/>
                 <epigraph>
                     <app type="major" subtype="add">
-                        <lem wit="#b1623"><quote><bibl>Plaut. in Truculent: Act: 2. Sc. 6. </bibl>
-                                Pluris est oculatus testis onus, quad auriti decem.</quote></lem>
+                        <lem wit="#b1623"><quote><bibl>Plaut: in Trucul: Act: 2. Sc. 6. </bibl>
+                                Pluris est oculatus testis unus, quam auriti decem.</quote></lem>
                         <rdg wit="#b1609"/>
                     </app>
                 </epigraph>
@@ -232,7 +232,7 @@
                                 <persName>JOHN HAVILAND</persName> for <hi rend="italic"
                                     ><persName>Roger Jackson</persName>,</hi> and are to be sold at
                             his Shop in <placeName>Fleetstreet</placeName>, over against the
-                            Conduit. <date when="1623">1 6 2 3</date></lem>
+                            Conduit. <date when="1623">1 6 2 3.</date></lem>
                         <rdg wit="#b1609"><ptr target="1609.xml#ch0ancs3 1609.xml#ch0ance3"/></rdg>
                     </app>
                 </docImprint>
@@ -249,10 +249,10 @@
                             praecipua admiratio; solis ex eo genere hominum causa
                             genitis</foreign><note type="authorial" subtype="bibliographic"
                             xml:id="frontbibln1">
-                            <bibl rend="italic">Plin.Nat.hist.l.11,ca.bibl</bibl>
+                            <bibl rend="italic">Plin.Nat.hist.l.11,ca.5.</bibl>
                         </note>
                     </quote>. Of all <foreign xml:lang="la"> insecta</foreign> the Bees are chiefe,
-                    and worthily to bee most admired; beeing the only things of that kinde, which
+                    and worthily to be most admired; being the only things of that kinde, which
                     are bred for the behoofe of men. The later part of which saying, although the
                     delicate Silk-worme have <app type="minor" subtype="change">
                         <lem wit="#b1623">in some hoter Climates</lem>
@@ -270,7 +270,7 @@
                         <rdg wit="#b1609"/>
                     </app> yet must shee needs confesse the former, <app type="minor"
                         subtype="change">
-                        <lem wit="#b1623">and wheresoever she meet the ingenuous and</lem>
+                        <lem wit="#b1623">and wheresoever she meet the ingenious and</lem>
                         <rdg wit="#b1609"><ptr target="1609.xml#ch0ancs6 1609.xml#ch0ance6"/></rdg>
                     </app> laborious Bee, <app type="minor" subtype="change">
                         <lem wit="#b1623">yeeld the precendence to her, as to hir Better</lem>
@@ -292,7 +292,7 @@
                             <rdg wit="#b1609"/>
                         </app>
                         <note type="authorial" subtype="bibliographic" xml:id="frontbibln2">
-                            <bibl rend="italic">Var.l.3.c.15.</bibl>
+                            <bibl rend="italic">Var.l.3.i.15.</bibl>
                         </note>
                     </quote></p>
                 <p xml:id="frontpar2">The love of which did so ravish <persName rend="italic"
@@ -300,23 +300,23 @@
                     that, as <persName rend="italic"> Plinie</persName> reporteth, they were pleased
                     to spend most of their time in this pleasing businesse. <quote>
                         <note type="authorial" subtype="bibliographic" xml:id="frontbibln3">
-                            <bibl rend="italic">Nat hist.l.II.c.9.</bibl>
+                            <bibl rend="italic">Nat Hist.l.II.c.9.</bibl>
                         </note>
-                        <foreign xml:lang="la">Ne quis</foreign> (saith hee) <foreign xml:lang="la"
-                            >miretur amore carum captos Aristomachum Solensem duodesexaginta annis
+                        <foreign xml:lang="la">Ne quis</foreign> (saith he) <foreign xml:lang="la"
+                            >miretur amore earum captos Aristomachum Solensem duodesexaginta annis
                             nihil aliud egisse; Philiscum vero Thasium in desertis apes colentem <hi
                                 rend="opposite">Agrium</hi> cognomimatum: qui ambo scripsere de
                             his</foreign></quote> . <persName>Aristotle</persName> thought his
-                        <title>Historia animalium</title> unperfect, unlesse he had inserted a Tract
-                    of the Nature of Bees: of which hee discourseth more at large, then he doth of
+                    <title><hi>Historia animalium</hi></title> unperfect, unlesse he had inserted a Tract
+                    of the Nature of Bees: of which hee discourseth more at large, than he doth of
                     any other living creature. <persName> Plinie</persName> likewise in his
-                        <title>Naturalis historia</title> is very copious in this argument. Besides
-                    whom, divers other haue written thereof: as <persName>Columella</persName>,
+                    <title><hi>Naturalis historia</hi></title> is very copious in this argument. Besides
+                    whom, divers other have written thereof: as <persName>Columella</persName>,
                         <persName>Varro</persName> , <persName>Palladius</persName>,
                         <persName>Averroes</persName>. Yea the learned &amp; grave Fathers of the
-                    Church <persName>S. Ambrose</persName>, and <persName>Isidore</persName> have
+                    Church, <persName>S. Ambrose</persName>, and <persName>Isidore</persName> have
                     thought it a subject fit for their penns. Unto which I may adde infinite others
-                    of later times both in Latine and English.<app type="minor" subtype="del">
+                    of later times, both in Latine and English.<app type="minor" subtype="del">
                         <lem wit="#b1623"/>
                         <rdg wit="#b1609"><ptr target="1609.xml#ch0ancs8 1609.xml#ch0ance8"/></rdg>
                     </app></p>
@@ -326,7 +326,7 @@
                                 <persName>Philiscus</persName> had leaft in writing to posterity;
                             Time, ah injurious Time, hath buried in oblivion. And for the rest that
                             are extant, they seeme unto me to rely more upon the relation of others,
-                            than any certaine knowledge of their owne. Notwithstanding them are
+                            than any certaine knowledge of their owne. Notwithstanding these are
                             scattered in them, specially in <persName> Aristotle</persName> &amp;
                                 <persName>Plinie</persName>, among many false and frivolous
                             conceits, some true and profitable notes: which being found agreeable to
@@ -337,7 +337,7 @@
                         <rdg wit="#b1609"/>
                     </app>
                     <app type="minor" subtype="change">
-                        <lem wit="#b1623">as the matter inspireth</lem>
+                        <lem wit="#b1623">as the matter requireth</lem>
                         <rdg wit="#b1609"><ptr target="1609.xml#ch0ancs10 1609.xml#ch0ance10"
                             /></rdg>
                     </app>, for ornament and authoritie <app type="vocabulary" subtype="change">
@@ -345,25 +345,25 @@
                         <rdg wit="#b1609"><ptr target="1609.xml#ch0ancs11 1609.xml#ch0ance11"
                             /></rdg>
                     </app>. But the later Writers, imitating the ancient where they thought good,
-                    chusing some of their directions and refusing o- <fw type="catch">thers,</fw>
+                    chusing some of their directions, and refusing o- <fw type="catch">thers,</fw>
                     <pb n="¶4r"/>
                     <fw type="header">The Preface to the Reader.</fw> thers doe, for the most part,
                     unluckily light upon the worse: so that being compared, they are no way
-                    matchable unto them; whom by the advantage of time they might haue surpassed.
+                    matchable unto them; whom by the advantage of time they might have surpassed.
                     Among which <persName>Georgius Pictorius</persName> a learned Physician
                     deserveth best, as having taken most paines in perusing the ancient Authors, and
                     gathering their matter into his method. Whom one <persName>T. H.</persName> of
                         <placeName rend="italic"> London</placeName> translating word for word into
                     English, as well as he could, concealing the Authors name, adventured to publish
-                    in his owne name. These and the like when a scholar hath thoroughly read, he
+                    in his owne name. These and the like when a Scholar hath throughly read, hee
                     thinketh himselfe throughly instructed in these mysteries: but when he commeth
                     abroad to put his <app type="vocabulary" subtype="change">
                         <lem wit="#b1623">reading</lem>
                         <rdg wit="#b1609"><ptr target="1609.xml#ch0ancs11 1609.xml#ch0ance11"
                             /></rdg>
                     </app> in practise, every silly woman is ready to deride his learned ignorance. </p>
-                <p xml:id="frontpar4">Wherefore considering howe greate the vertue and efficacy of
-                    the fruite of <app type="vocabulary" subtype="change">
+                <p xml:id="frontpar4">Wherefore considering how great the vertue and efficacie of
+                    the fruit of <app type="vocabulary" subtype="change">
                         <lem wit="#b1623">Bees</lem>
                         <rdg wit="#b1609"><ptr target="1609.xml#ch0ancs13 1609.xml#ch0ance13"
                             /></rdg>
@@ -379,12 +379,12 @@
                         <lem wit="#b1623">their helpes and hinderances,</lem>
                         <rdg wit="#b1609"/>
                     </app> that I might know how to doe good unto them, which are so good for us,
-                    and what is the due and right ordering of these delightful, profitable, and
+                    and what is the due and right ordering of these delightfull, profitable, and
                     necessary creatures. And having to my contentment, though to my cost, in some
                     sort obtained my desire, I was incited, even by the rule of charitie, to
                     communicate that to my neighbours and country-men, which I have found so
                     beneficiall to my selfe: so that the Reader may now freely reape the fruit of
-                    that, which the Author hath deerely sowen vnto him.</p>
+                    that, which the Author hath deerely sowen unto him.</p>
                 <p xml:id="frontpar5">
                     <note type="authorial" subtype="bibliographic" xml:id="frontbibln5">
                         <bibl rend="italic">De generat.an.l.3.c.10.</bibl>
@@ -397,7 +397,7 @@
                         <rdg wit="#b1609"><ptr target="1609.xml#ch0ancs15 1609.xml#ch0ance15"
                             /></rdg>
                     </app><foreign xml:lang="la"> Rex</foreign>. As many as followed him, searching
-                    no farther then he did, were content to say as he said. So that I am in- <fw
+                    no farther than he did, were content to say as he said. So that I am in- <fw
                         type="catch"> forced</fw>
                     <pb n="¶4v"/>
                     <fw type="header">The Preface to the Reader.</fw>
@@ -405,8 +405,8 @@
                         <lem wit="#b1623">forced</lem>
                         <rdg wit="#b1609"><ptr target="1609.xml#ch0ancs16 1609.xml#ch0ance16"
                             /></rdg>
-                    </app> (unlesse I wil choose rather to offend in <foreign xml:lang="la"
-                        >rebus</foreign> then in <foreign xml:lang="la"> vocibus</foreign>) by their
+                    </app> (unlesse I wil chuse rather to offend in <foreign xml:lang="la"
+                        >rebus</foreign> than in <foreign xml:lang="la"> vocibus</foreign>) by their
                     leave and thine (learned Reader) to straine the ordinarie signification of the
                     word <foreign xml:lang="la">Rex</foreign>, and, in such places, to translate it
                         <hi rend="italic"> Queene</hi>, sith the males heere beare no sway at all,
@@ -424,13 +424,13 @@
                     <note type="authorial" subtype="bibliographic" xml:id="frontbibln7">
                         <ref target="#ch3sumn36">V.c.3.n. 36.</ref>
                     </note> Where note that by the name of each moneth, is commonly understood the
-                    first day of the same moneth (namely, wheresovever this preposition <hi
-                        rend="italic">At</hi>, is set before it) except only where it followeth, <hi
+                    first day of the same moneth (namely, wheresoever this preposition <hi
+                        rend="italic">At</hi>, is set before it) except onely where it followeth, <hi
                         rend="italic">In</hi>, or <hi rend="italic"> After</hi>, or otherwise the
                     sense doth plainely shew that it is spoken of the whole Moneth. </p>
                 <p xml:id="frontpar7"><app type="major" subtype="add">
                         <lem wit="#b1623">When you have once, for your satisfaction, perused this
-                            Booke, you need not afterward seeke farre for anything therein, whereof
+                            Booke, you need not afterward seeke farre for any thing therein, whereof
                             you doubt: the <ref target="#contents" rend="italic">Index</ref> of the
                             Chapters or Contents of the Booke; and of the Marginall notes, or
                             Contents of the Chapters will readily direct you. For example, if you
@@ -462,8 +462,8 @@
                     Booke of <term rend="italic">Bees</term> will in his Infancie lie hidden in
                     obscuritie, as the Booke of <term rend="italic">Tropes</term> and <term
                         rend="italic">Figures</term> did for a while goe unregarded, without friends
-                    or acquaintance: But as that did by litle and litle insinuate it selfe into the
-                    love and liking of many Schooles, yea of the Vniversitie it selfe, where it hath
+                    or acquaintance: But as that did by little and little insinuate it selfe into the
+                    love and liking of many Schooles, yea of the Universitie it selfe, where it hath
                     been both privately and publikely read; (a favour, which this Mother doth
                     seldome afford to hir owne Children, lest haply she should seeme too fond over
                     them:) so this will in time travell into the most remote parts of this great
@@ -471,7 +471,7 @@
                     entertained of all sorts both learned and unlearned: although the <hi
                         rend="italic">Muses Birds</hi> are fittest for the <term rend="italic">
                         Muses</term>, and the knowledge of their long-hidden secrets was chiefly
-                    published for the <term rend="italic">Museterm</term> friends. <foreign
+                    published for the <term rend="italic">Muses</term> friends. <foreign
                         xml:lang="la">Quibus me, quicquid sum, &amp; studia mea dico.</foreign>
                     <placeName rend="italic">Wotton</placeName>. <app type="major" subtype="change">
                         <lem wit="#b1623"><date when="1623-05-30">May 30.1623.</date></lem>
@@ -497,15 +497,15 @@
                                     <hi rend="drop-capital">Q</hi> Uae natura Apibus, quae membra,
                                     scientia, sensus, </l>
                                 <l>Virtutes, aetas, ingenium, pietas,</l>
-                                <l>Quae statio, &amp; sedes, sobules, examina, tecta,</l>
-                                <l>His haec condendi promptus ubiqe modus; </l>
+                                <l>Quae statio, &amp; sedes, soboles, examina, tecta,</l>
+                                <l>His haec condendi promptus ubique modus; </l>
                                 <l>Quae princeps, populus, regimen, respublica, mores, </l>
                                 <l>Quae sint arma, hostes, praelia, castra, duces, </l>
-                                <l>Quam celeri campos gressis, sylvasque peragrant,</l>
-                                <l>Qua cellas singunt arte, labore replent,</l>
+                                <l>Quam celeri campos gressu, sylvasque peragrant,</l>
+                                <l>Qua cellas fingunt arte, labore replent,</l>
                                 <l>Quam prosint hominum generi cœlestia dona, </l>
                                 <l>Utque magis prosint quo moderanda modo; </l>
-                                <l>Per te miranda haec le vium spectacula rerum</l>
+                                <l>Per te miranda haec levium spectacula rerum</l>
                                 <l>Mystica tot seclis clausa reclusa patent.</l>
                             </lg>
                             <lg rend="italic">
@@ -531,11 +531,11 @@
                         <lem wit="#b1623"><l>When I had view'd this Common-wealth of <hi
                                     rend="italic">Bees,</hi></l>
                             <l>Observ'd their <hi rend="italic">Lives</hi>, their <hi rend="italic"
-                                    >Art</hi>, and their Degrees</l>
+                                    >Art</hi>, and their Degrees:</l>
                             <l>As; how, beside their painefull <hi rend="italic">Vulgar ones</hi>, </l>
                             <l>They have their <hi rend="italic">Prince</hi>, their <hi
                                     rend="italic"> Captaines</hi>, and their <hi rend="italic">
-                                    Drones</hi>;</l>
+                                    Drones</hi>:</l>
                             <l>How they <hi rend="italic">Agree</hi>; how temp'ratly they <hi
                                     rend="italic">Feed</hi>; </l>
                             <l>How curiously they <hi rend="italic">Build</hi>; how chastly <hi
@@ -627,7 +627,7 @@
                                 <l>At nunc mellit as promis, ut <hi rend="opposite">Histor</hi>,
                                     apes.</l>
                                 <l>Incipis ex apibus, sed &amp; in mel desinis ipsum: </l>
-                                <l>Suaviter incœptum suavis exit opus.</l>
+                                <l>Suaviter incoeptum suavius exit opus.</l>
                             </lg></lem>
                         <rdg wit="#b1609"/>
                     </app>
@@ -666,7 +666,7 @@
                     <item n="7">7 The seventh, of their Enemies. <ptr target="#ch7"/></item>
                     <item n="8">8 The eighth, of Feeding them. <ptr target="#ch8"/></item>
                     <item n="9">9 The ninth, of Removing them. <ptr target="#ch9"/></item>
-                    <item n="10">10 The tenth, of the Fruit and Profit of the them.<ptr
+                    <item n="10">10 The tenth, of the Fruit and Profit of them.<ptr
                             target="#ch10"/></item>
                 </list>
                 <fw type="horizontalRule"/>
@@ -764,7 +764,7 @@
                                 <ptr target="#ch1sumn35"/></item>
                             <item>36 <hi rend="italic">The six properties of a Bee-master.</hi>
                                 <ptr target="#ch1sumn36"/></item>
-                            <item>37 <hi rend="italic">Safer to walke then to stand among Bees.</hi>
+                            <item>37 <hi rend="italic">Safer to walke than to stand among Bees.</hi>
                                 <ptr target="#ch1sumn37"/></item>
                             <item>38 <hi rend="italic">The fittest time to stirre about Bees.</hi>
                                 <ptr target="#ch1sumn38"/></item>
@@ -854,7 +854,7 @@
                                     stooles</hi><ptr target="#ch2sumn11"/></item>
                             <item>12 <hi rend="italic">Swarmes may be set on Benches.</hi><ptr
                                     target="#ch2sumn12"/></item>
-                            <item>13 <hi rend="italic">Woodden Stooles better then they of
+                            <item>13 <hi rend="italic">Woodden Stooles better than they of
                                     stone.</hi><ptr target="#ch2sumn13"/></item>
                             <item>14 <hi rend="italic">The size of stooles.</hi><ptr
                                     target="#ch2sumn14"/></item>
@@ -882,7 +882,7 @@
                                     target="#ch3sumn1"/></item>
                             <item>2 <hi rend="italic">Strawne Hives, with their inconveniences and
                                     remedies.</hi><ptr target="#ch3sumn2"/></item>
-                            <item>3 <hi rend="italic">Wicker Hives, with their inconveniences and
+                            <item>3 <hi rend="italic">Wicker Hives with their inconveniences and
                                     remedies.</hi><ptr target="#ch3sumn3"/></item>
                             <item>4 <hi rend="italic">Strawne Hives best.</hi><ptr
                                     target="#ch3sumn4"/></item>
@@ -911,7 +911,7 @@
                             <cb n="1"/>
                             <item>15 <hi rend="italic">The Hives alwaies well hackled.</hi><ptr
                                     target="#ch3sumn15"/></item>
-                            <item>14 <hi rend="italic">How to make a Hackle.</hi><ptr
+                            <item>16 <hi rend="italic">How to make a Hackle.</hi><ptr
                                     target="#ch3sumn16"/></item>
                             <item>17 <hi rend="italic">The Cap of two sorts.</hi><ptr
                                     target="#ch3sumn17"/></item>
@@ -931,7 +931,7 @@
                                     target="#ch3sumn24"/></item>
                             <item>25 <hi rend="italic">Then seldome to be moved.</hi><ptr
                                     target="#ch3sumn25"/></item>
-                            <item>26 <hi rend="italic">How a Hive lifted up is to be set downe
+                            <item>26 <hi rend="italic">How a Hive lifted up is to bee set downe
                                     againe.</hi><ptr target="#ch3sumn26"/></item>
                             <item>27 <hi rend="italic">The Hive-doore.</hi><ptr target="#ch3sumn27"
                                 /></item>
@@ -951,10 +951,10 @@
                                 /></item>
                             <item>35 <hi rend="italic">How to order the Bee-hives throughout the
                                     yeere.</hi><ptr target="#ch3sumn35"/></item>
-                            <item>36 <hi rend="italic">The Moneths and Quarters of the Mellissaean
-                                    yeere.</hi><ptr target="#ch3sumn36"/></item>
+                            <item>36 <hi rend="italic">The Moneths and Quarters of the <hi rend="opposite">Mellissaean
+                                    yeere.</hi></hi><ptr target="#ch3sumn36"/></item>
                             <item>37 SUMMER.<ptr target="#ch3sumn37"/></item>
-                            <item>38 <hi rend="italic">In</hi> GEMINI <hi rend="italic">set the
+                            <item>38 In GEMINI <hi rend="italic">set the
                                     Doores wide open.</hi><ptr target="#ch3sumn38"/></item>
                             <item>39 CANCER.<ptr target="#ch3sumn39"/></item>
                             <item>40 <hi rend="italic">To make the Bees swarme.</hi><ptr
@@ -1001,7 +1001,7 @@
                             <item>63 <hi rend="italic">The</hi> SPRING.<ptr target="#ch3sumn63"
                                 /></item>
                             <item>64 PISCES.<ptr target="#ch3sumn64"/></item>
-                            <item>65 <hi rend="italic">The first faire day in Pisces, set your Bees
+                            <item>65 <hi rend="italic">The first faire day in Pisces, set the Bees
                                     at liberty.</hi><ptr target="#ch3sumn65"/></item>
                             <item>66 <hi rend="italic">Now dresse their Troughs.</hi><ptr
                                     target="#ch3sumn66"/></item>
@@ -1031,12 +1031,12 @@
                             <item>4 <hi rend="italic">Divers reasons proving the Drone to be the
                                     Male. The first reason is, that they are suffered in
                                     breeding-time onely.</hi><ptr target="#ch4sumn4"/></item>
-                            <item>5 <hi rend="italic">The second reason is that, the Drones being
+                            <item>5 <hi rend="italic">The second reason is, that the Drones being
                                     taken away in breeding-time, the Bees breed no more.</hi><ptr
                                     target="#ch4sumn5"/></item>
                             <item>6 <hi rend="italic">The third reason is, that they are bred by the
                                     Bees.</hi><ptr target="#ch4sumn6"/></item>
-                            <item>7 <hi rend="italic">The fourth reason is, that Wasps and Dorres
+                            <item>7 <hi rend="italic">The fourth reason is, that the Wasps and Dorres
                                     have Drones, which are their males.</hi><ptr target="#ch4sumn7"
                                 /></item>
                             <item>8 <hi rend="italic">The breeding of Wasps by Drones.</hi><ptr
@@ -1058,7 +1058,7 @@
                                     target="#ch4sumn14"/></item>
                             <item>15 <hi rend="italic">The manner of their breeding.</hi><ptr
                                     target="#ch4sumn15"/></item>
-                            <item>16 <hi rend="italic">The Bee-seed is first turned into a
+                            <item>16 <hi rend="italic">The Bee seed is first turned into a
                                     Worme.</hi><ptr target="#ch4sumn16"/></item>
                             <item>17 <hi rend="italic">The Worme being dead groweth to the shape of
                                     a Bee, and then liveth againe.</hi><ptr target="#ch4sumn17"
@@ -1085,7 +1085,7 @@
                                     target="#ch4sumn27"/></item>
                             <item>28 <hi rend="italic">When the backward.</hi><ptr
                                     target="#ch4sumn28"/></item>
-                            <item>29 <hi rend="italic">When full stockes that have not
+                            <item>29 <hi rend="italic">When full stocks that have not
                                     swarmed.</hi><ptr target="#ch4sumn29"/></item>
                             <item>30 <hi rend="italic">When those that are over-swarmed.</hi><ptr
                                     target="#ch4sumn30"/></item>
@@ -1128,7 +1128,7 @@
                                 /></item>
                             <item>11 <hi rend="italic">Black-berie swarmes are seldome to be
                                     kept.</hi><ptr target="#ch5sumn11"/></item>
-                            <item>12 <hi rend="italic">A prime swarme &amp; an after
+                            <item>12 <hi rend="italic">A prime swarm &amp; an after
                                     swarme.</hi><ptr target="#ch5sumn12"/></item>
                             <item>13 <hi rend="italic">A stalle may cast foure times.</hi><ptr
                                     target="#ch5sumn13"/></item>
@@ -1192,7 +1192,7 @@
                             <item>40 <hi rend="italic">And then they flie away directly to the
                                     place.</hi><ptr target="#ch5sumn40"/></item>
                             <item>41 <hi rend="italic">Vacua alvearia stent semper parata in
-                                    apiario.</hi><ptr target="#ch5sumn41"/></item>
+                                    Apiario.</hi><ptr target="#ch5sumn41"/></item>
                             <item>42 <hi rend="italic">The hiving of Bees.</hi><ptr
                                     target="#ch5sumn42"/></item>
                             <item>43 <hi rend="italic">When they are to be hived.</hi><ptr
@@ -1201,7 +1201,7 @@
                                     setled.</hi><ptr target="#ch5sumn44"/></item>
                             <item>45 <hi rend="italic">How to fit the Hives to the swarmes.</hi><ptr
                                     target="#ch5sumn45"/></item>
-                            <item>46 <hi rend="italic">Better to under-hive a stall then to
+                            <item>46 <hi rend="italic">Better to under-hive a stall than to
                                     over-hive him.</hi><ptr target="#ch5sumn46"/></item>
                             <item>47 <hi rend="italic">Three things requisite to hiving.</hi><ptr
                                     target="#ch5sumn47"/></item>
@@ -1219,7 +1219,7 @@
                                     target="#ch5sumn53"/></item>
                             <item>54 <hi rend="italic">Foure meanes of hiving a Swarme.</hi><ptr
                                     target="#ch5sumn54"/></item>
-                            <item>55 <hi rend="italic">Howe to hive a Swarme that lighteth upon a
+                            <item>55 <hi rend="italic">Howe to hive a Swarm that lighteth upon a
                                     bough.</hi><ptr target="#ch5sumn55"/></item>
                             <item>56 <hi rend="italic">Either high.</hi><ptr target="#ch5sumn56"
                                 /></item>
@@ -1328,7 +1328,7 @@
                                     hue.</hi><ptr target="#ch6sumn14"/></item>
                             <item>15 <hi rend="italic">Wax is gathered only in foure
                                     months.</hi><ptr target="#ch6sumn15"/></item>
-                            <item>16 <hi rend="italic">How the second fruit is gathered in 9.
+                            <item>16 <hi rend="italic">Hony the second fruit is gathered in 9.
                                     moneths.</hi><ptr target="#ch6sumn16"/></item>
                             <item>17 <hi rend="italic">Two sorts of Hony.</hi><ptr
                                     target="#ch6sumn17"/></item>
@@ -1366,7 +1366,7 @@
                             <item>32 <hi rend="italic">The full cells they close with wax.</hi><ptr
                                     target="#ch6sumn32"/></item>
                             <item>33 <hi rend="italic">Nectar and Ambrosia made of many simples,
-                                    whereof each month yeeldeth variety.</hi><ptr
+                                    whereof each moneth yeeldeth variety.</hi><ptr
                                     target="#ch6sumn33"/></item>
                             <item>34 <hi rend="italic">Dandelion continueth longest.</hi><ptr
                                     target="#ch6sumn34"/></item>
@@ -1442,7 +1442,7 @@
                             <cb n="2"/>
                             <item>7 <hi rend="italic">The Swallow.</hi><ptr target="#ch7sumn7"
                                 /></item>
-                            <item>8 <hi rend="italic">Remedie against the Titmouse and the
+                            <item>8 <hi rend="italic">Remedie against the Titmouse and
                                     Swallow.</hi><ptr target="#ch7sumn8"/></item>
                             <item>9 5. <hi rend="italic">The Hornet.</hi><ptr target="#ch7sumn9"
                                 /></item>
@@ -1712,7 +1712,7 @@
                                 <fw type="catch"> 4 The</fw>
                                 <pb n="[A5]v"/>
                                 <cb n="1"/>
-                                <item>4 <hi rend="italic">The first shoot is for fine
+                                <item>4 <hi rend="italic">The first shoot for fine ordinary
                                         Honie.</hi><ptr target="#ch10p2sumn4"/></item>
                                 <item>5 <hi rend="italic">Or for Virgin-Honie, which is most
                                         fine.</hi><ptr target="#ch10p2sumn5"/></item>
