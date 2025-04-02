@@ -5556,25 +5556,25 @@
                         type="editorial" subtype="gloss" resp="#JR" source="OED"> Swarming is a
                         natural process by which honeybees protect and grow their communities. It
                         usually begins in the early summer—May, June, sometimes July—as the hive
-                        fills up and food outside becomes readily available. The f step is that a
+                        fills up and food outside becomes readily available. The first step is that a
                         colony rears ten or more queens, ‘all daughters of the mother queen’. While
                         they are developing, the queen undergoes a change. She is ‘fed less and less
                         by the workers’, who ‘begin to show mild hostility . . . shaking, pushing,
                         and lightly biting her’. ‘These bouts of rough handling force the queen to
-                        keep walking about the nest’. Thus, the ‘mother queen ... is put into flying
-                        trim Meanwhile the scout bees search for new “dwelling places.” When the
+                        keep walking about the nest’. Thus, the ‘mother queen ... is put into flying'.
+                        Meanwhile the scout bees search for new “dwelling places.” When the
                         weather is right, and ‘the developing queens have reached the pupal stage’,
                         the scout bees prepare the worker bees for flight by pressing their thorax
-                        against their bodies a activating the flight muscles; this produces a piping
-                        sound. This sound begi faintly, building up gradually to blast out the
+                        against their bodies and activating the flight muscles; this produces a piping
+                        sound. This sound begins faintly, building up gradually to blast out the
                         message, ‘Time to warm up!’, and then, a little later, ‘Time to go!’. Left
                         behind in the hive are ‘a few thousand worker bees’ and ‘a dozen or more
                         queen cells, many thousand cells of worker brood, and much food’. At this
-                        stage, a different piping sound is heard. The f virgin queen to emerge from
+                        stage, a different piping sound is heard. The first virgin queen to emerge from
                         her cell announces her presence by pressing her thorax against a comb,
                         producing a tooting sound; the queens still in their cells ‘pipe in
                         response, producing lower-pitched “quacks” that are somewhat longer than the
-                        first virgin queen’s “toots”’. These sounds let the first virgin q roaming
+                        first virgin queen’s “toots”’. These sounds let the first virgin queen roaming
                         the hive know ‘that she has lethal rivals’. She will either leave,
                         relinquishing the food resources in the hive, or remain—a riskier path for
                         her to take because she will need ‘to kill all her deadly serious
@@ -5633,7 +5633,7 @@
                         <rdg wit="#b1609"><ptr target="1609.xml#ch5ancs1xx 1609.xml#ch5ance1xx"
                             /></rdg>
                     </app> and also when many meet in one swarme. <ref target="#ch1sumn7"
-                        >v.c.1.n7</ref>. <app type="minor" subtype="add">
+                        >v.c.1.n.7</ref>. <app type="minor" subtype="add">
                         <lem wit="#b1623">But then, being dead and shrunke together by the force of
                             the poison, they lose much of their stature and <ref xml:id="ch5ednatt6"
                                 type="attachment" target="#ch5ednote6">comlinesse.</ref><note
@@ -5661,7 +5661,7 @@
                         swarme a good signe.</note> And therefore those swarmes that have many
                     Drones will surely prosper: and if they be <ref xml:id="ch5ednatt8"
                         type="attachment" target="#ch5ednote8">rathe</ref><note xml:id="ch5ednote8"
-                        type="editorial" subtype="gloss" resp="JH" source="OED">Early; done or
+                        type="editorial" subtype="gloss" resp="#JR" source="OED">Early; done or
                         occurring before the usual or natural time (adj., OED3 2a).</note> will
                     swarme againe, unlesse they bee over-hived: whereas those that have few or none,
                     will increase little or nothing all the Summer after. </p>
@@ -5725,9 +5725,10 @@
                                 spoiled their fellowes.</ref><note xml:id="ch5ednote11"
                                 type="editorial" subtype="gloss" resp="#OS" source="context">The
                                 economy of the hive is described here in human terms, as was common
-                                in the early modern period. This article from the Folger Shakespeare
-                                Library gives a further discussion.
-                                https://www.folger.edu/blogs/shakespeare-and-beyond/bees-metaphor-politics-hierarchy-wild-things/</note>
+                                in the early modern period. <ref xml:id="ch5edlink2"
+                                    type="link" target="#https://www.folger.edu/blogs/shakespeare-and-beyond/bees-metaphor-politics-hierarchy-wild-things/">This article from the Folger Shakespeare
+                                Library</ref> gives a further discussion.
+                                </note>
                             How to prevent this poverty, see <ref target="#ch5sumn11"> note
                                 11.</ref>&amp;<ref target="#ch5sumn20">* in 20.</ref> and to prevent
                             the losse &amp; spoile that would come thereof, take the light stocks,
@@ -5770,7 +5771,7 @@
                                 xml:id="ch5ednote15" type="editorial" subtype="gloss" resp="#JR"
                                 source="OED">Food for the larvae: e.g. ambrosia. Butler may be also
                                 thinking of something like royal jelly (first citation in OED is
-                                1806): the ‘substan secreted by honeybee workers and fed by them to
+                                1806): the ‘substance secreted by honeybee workers and fed by them to
                                 larvae, esp. to those being raised as potential queens’ (OED
                                 3).</note>
                             <term>
@@ -6049,17 +6050,17 @@
                                 <lem wit="#b1623">Marpesia</lem>
                                 <rdg wit="#b1609"><ptr
                                         target="1609.xml#ch5ancs18x 1609.xml#ch5ance18x"/></rdg>
-                            </app></term>the old Queene, an other to go forth with <term>
+                            </app></term> the old Queene, an other to go forth with <term>
                             Antiope</term> the <ref xml:id="ch5ednatt28" type="attachment"
                             target="#ch5ednote28">Prince</ref>,<note xml:id="ch5ednote28"
-                            type="editorial" subtype="gloss" resp="#OS" source="OED">This word could
+                            type="editorial" subtype="gloss" resp="#OS" source="OED">The title 'Prince' could
                             also be applied to a female sovereign (OED l.1.b.)</note> and a third
                         haplie, which, together with the unripe brood in the celles, may make an
                         other swarme to serve <term>Orythia</term>. </ref><note xml:id="ch5ednote29"
                         type="editorial" subtype="gloss" resp="#JR" source="context">Butler’s
                         comparison of the virgin queens to mythical Amazon queens is introduced in
                             <ref target="ch4sumn25">CHAP. IIII. 25.</ref> Martesia was the first
-                        queen, and she was succeeded by h daughter, Orithyia, who ruled with her
+                        queen, and she was succeeded by her daughter, Orithyia, who ruled with her
                         sister, Antiope. Butler’s source is Justin, <hi>Epitome of Pompeius
                             Trogus</hi>, 2. Justin tells the story of how their fame as warriors
                         caught the attention of the king of Athens, Theseus, who then ordered the
@@ -6070,9 +6071,9 @@
                         (taken by Hercules) and Hippolyta (taken by Theseus). Butler does not
                         recount this story. Instead, he recalls the Amazons’ Scythian origins and
                         their familial relationships; then he explains the new simile he uses: the
-                        female bees are warlike like the Amazons, and, like them, they kills all
+                        female bees are warlike like the Amazons, and, like them, they kill all
                         males. He concludes that they are rightly called Aeorpata, a Latin
-                        transliteration of the Greek [fill], meaning killers of men.</note> Without
+                        transliteration of the Greek [Ἀμαζόνες], meaning killers of men.</note> Without
                     likewise they will see, first that the flowers be in state presentlie to furnish
                     them with store of wax and hony: then that the weather do please them, as being
                     warme and calme, &amp; moist: unlesse, being continually unseasonable, they have
@@ -6176,7 +6177,7 @@
                             /></rdg>
                     </app> Doore, or to <ref xml:id="ch5ednatt32" type="attachment"
                         target="#ch5ednote32">lie forth</ref><note xml:id="ch5ednote32"
-                        type="editorial" subtype="gloss"><hi>lie forth]</hi> ‘Of bees. To settle
+                        type="editorial" subtype="gloss" resp="#JR" source="OED">‘Of bees. To settle
                         outside the hive’. Obsolete (OED).</note> a little now and then in foggie or
                     sultrie mornings and evenings, (which is because then they are most offended by
                     heat within, and can best indure the aire abroad) and otherwise to go in againe,
@@ -6223,7 +6224,7 @@
                             drie weather, specially after the <ref xml:id="ch5ednatt20"
                                 type="attachment" target="#ch5ednote20">Solstice</ref>:<note
                                 xml:id="ch5ednote20" type="editorial" subtype="gloss" resp="#JR"
-                                source="OED"><hi>Solstice]</hi> The longest day of the year in June,
+                                source="OED">The longest day of the year in June,
                                 now 21 June (the summer Solstice) but for Butler, who is using the
                                 old calendar (reformed 1752), 31 June.</note> which causing plentie
                             of hony both in plants and dewes, their mindes are so set upon that
@@ -6236,7 +6237,7 @@
                                         ><foreign xml:lang="la">(Tantus amor florum, &amp; generandi
                                         gloria mellis)</foreign></ref><note xml:id="ch5ednote35"
                                     type="editorial" subtype="gloss" resp="#JR" source="translation"
-                                        ><hi>Tantus amor florum, &amp; generandi gloria mellis]</hi>
+                                        >
                                     Lat. ‘so deep is their love of flowers and their glory in
                                     begetting honey’ (Virgil, Georgics, 4.205). </note>
                                 <note type="authorial" subtype="bibliographic" xml:id="ch5bibln18">
@@ -6515,7 +6516,7 @@
                             hive. Lastly put on the <ref xml:id="ch5ednatt45" type="attachment"
                                 target="#ch5ednote45">hackle</ref>,<note xml:id="ch5ednote45"
                                 type="editorial" subtype="gloss" resp="#JR" source="OED"
-                                    ><hi>hackle]</hi> ‘conical straw cover used to protect a beehive
+                                    >‘conical straw cover used to protect a beehive
                                 from the weather. Now historical’ (n.1, OED3 3a). </note> and <ref
                                 xml:id="ch5ednatt46" type="attachment" target="#ch5ednote46"
                                 >gird</ref><note xml:id="ch5ednote46" type="editorial"
@@ -6724,7 +6725,7 @@
                                 type="attachmentEditorialNote" subtype="end"/>,<note
                                 xml:id="ch5ednote52xx" type="editorial" subtype="gloss" resp="#OS"
                                 source="OED" corresp="#anchorStart4 #anchorEnd4">consent, permission
-                                (OED n.1)</note> so hir silence is a flat deniall: the Proverbe
+                                    (n., OED 1)</note> so hir silence is a flat deniall: the Proverbe
                             heere hath no place, <foreign xml:lang="la"><anchor
                                     xml:id="anchorStart1" type="attachmentEditorialNote"
                                     subtype="start" corresp="#ch5ednote52x"/>Qui tacet consentire
@@ -7787,7 +7788,7 @@
                             lest some of the Bees <ref xml:id="ch5ednatt81" type="attachment"
                                 target="#ch5ednote81">take a miffe</ref><note xml:id="ch5ednote81"
                                 type="editorial" subtype="gloss" resp="#OS" source="OED">get in a
-                                huff (n. OED)</note> and goe home againe. Otherwise you may set the
+                                huff (n., OED)</note> and goe home againe. Otherwise you may set the
                             Hive in a Brake, <ref target="#5bibln35">v.</ref>
                             <note type="authorial" subtype="bibliographic" xml:id="ch5bibln35">
                                 <ref target="#ch5sumn24"> V.n.24. </ref>
@@ -7960,8 +7961,8 @@
                         >drinke of the best beere</ref>,<note xml:id="ch5ednote83" type="editorial"
                         subtype="gloss" resp="#OS" source="journal arcticle">Beer was a household
                         staple and regular drink. See for example Flavin S, Meltonville M, Taverner
-                        C, et al. Understanding Early Modern Beer: An Interdisciplinary Case-Study,
-                        in <hi>The Historical Journal</hi> 2023;66(3):516-549. </note> and wet his
+                        C, et al. (2023). Understanding Early Modern Beer: An Interdisciplinary Case-Study.
+                      <hi>The Historical Journal</hi> 66(3), 516-549. </note> and wet his
                     hands and face therewith: and then let him goe about his businesse soberly and
                     gently, taking good heed where he sets his foot, and how hee handleth them: for
                     if he tread upon a Bee, or by any other meanes crush one of them; they presently
@@ -8072,7 +8073,7 @@
                         How if it light upon a high tree.</note><app type="major" subtype="add">
                         <lem wit="#b1623"> If they <ref xml:id="ch5ednatt84" type="attachment"
                                 target="#ch5ednote84">pitch</ref><note xml:id="ch5ednote84"
-                                type="editorial" subtype="gloss" resp="#JR" source="OED">ensconce
+                                type="editorial" subtype="gloss" resp="#JR" source="OED">Ensconce
                                 oneself temporarily; settle (v.2, OED3 5b).</note> upon a high tree,
                             it is not best to shake them into the Hive, but rather with a sharpe
                             knife cut the bough if you can conveniently: and either put it into the
@@ -8165,7 +8166,7 @@
                         resp="#JR" source="OED">Stump of a tree (OED 1a)</note>
                     <ref xml:id="ch5ednatt85" type="attachment" target="#ch5ednote85"
                         >pollard</ref>,<note xml:id="ch5ednote85" type="editorial" subtype="gloss"
-                        resp="#JR" source="OED">tree which has had its upper trunk and branches cut
+                        resp="#JR" source="OED">Tree which has had its upper trunk and branches cut
                         back (n.2, OED3 4).</note>
                     <app type="vocabulary" subtype="del">
                         <lem wit="#b1623"/>
@@ -8227,7 +8228,7 @@
                     upper hole bee wide enough: rather than faile make two or three with a two-inch
                         <ref xml:id="ch5ednatt87" type="attachment" target="#ch5ednote87"
                         >auger</ref><note xml:id="ch5ednote87" type="editorial" subtype="gloss"
-                        resp="#JR" source="OED">carpenter's hand tool used for boring holes in wood
+                        resp="#JR" source="OED">Carpenter's hand tool used for boring holes in wood
                         (n.1, OED3 1).</note><app type="minor" subtype="add">
                         <lem wit="#b1623">, or, with a hatchet, one as great</lem>
                         <rdg wit="#b1609"/>
