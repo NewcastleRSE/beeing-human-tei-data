@@ -181,7 +181,7 @@
             <titlePage type="division" xml:id="titlepage">
                 <docTitle>
                     <titlePart type="main">THE <lb />
-                        <hi rend="italic">Feminine Monarchie</hi><lb /> OR<lb />
+                        <hi rend="italic">Feminine Monarchie:</hi><lb /> OR<lb />
                         <app type="major" subtype="change">
                             <lem wit="#b1623">THE HISTORIE<lb /> OF BEES&#183;</lem>
                             <rdg wit="#b1609" source="1609.xml#ch0ancs1 1609.xml#ch0ance1">A TREATISE CONCERNING
@@ -219,14 +219,14 @@
                 <fw type="horizontalRule" />
                 <epigraph>
                     <app type="major" subtype="add">
-                        <lem wit="#b1623"><quote><bibl>Plaut: in Trucul: Act: 2. Sc. 6. </bibl>
-                                Pluris est oculatus testis unus, quam auriti decem.</quote></lem>
+                        <lem wit="#b1623"><quote><bibl>Plaut: in Trucul: Act: 2. Sc. 6. </bibl><lb />
+                            Pluris est oculatus testis unus, quam auriti decem.</quote></lem>
                         <rdg wit="#b1609" />
                     </app>
                 </epigraph>
                 <docImprint>
                     <app type="major" subtype="change">
-                        <lem wit="#b1623"><placeName>LONDON</placeName><lb /> Printed by
+                        <lem wit="#b1623"><placeName>LONDON</placeName>,<lb /> Printed by
                                 <persName>JOHN HAVILAND</persName> for <hi rend="italic"><persName>Roger Jackson</persName>,</hi> and are to be sold at
                             his Shop in <placeName>Fleetstreet</placeName>, over against the
                             Conduit. <date when="1623">1 6 2 3.</date></lem>
@@ -239,7 +239,7 @@
             <pb n="&#182;3r" />
             <div type="preface" xml:id="preface">
                 
-                <head>THE PREFACE TO THE <hi rend="titleCase smallCapitals">Reader</hi>.</head>
+                <head>THE PREFACE TO THE <hi rend="titleCase smallCapitals">READER</hi>.</head>
                 <p xml:id="frontpar1">
                     <hi rend="drop-capital">T</hi>HE great Naturalist, to expresse the excellency of
                     the nature of Bees, saith thus, <quote>
@@ -303,10 +303,10 @@
                         <foreign xml:lang="la">Ne quis</foreign> (saith he) <foreign xml:lang="la">miretur amore earum captos Aristomachum Solensem duodesexaginta annis
                             nihil aliud egisse<seg rend='roman'>;</seg> Philiscum vero Thasium in desertis apes colentem <hi rend="opposite">Agrium</hi> cognomimatum: qui ambo scripsere de
                             his</foreign></quote> . <persName>Aristotle</persName> thought his
-                    <title><hi>Historia animalium</hi></title> unperfect, unlesse he had inserted a Tract
+                    <title><hi rend="italic">Historia animalium</hi></title> unperfect, unlesse he had inserted a Tract
                     of the Nature of Bees: of which hee discourseth more at large, than he doth of
                     any other living creature. <persName> Plinie</persName> likewise in his
-                    <title><hi>Naturalis historia</hi></title> is very copious in this argument. Besides
+                    <title><hi rend="italic">Naturalis historia</hi></title> is very copious in this argument. Besides
                     whom, divers other have written thereof: as <persName>Columella</persName>,
                         <persName>Varro</persName> , <persName>Palladius</persName>,
                         <persName>Averroes</persName>. Yea the learned &amp; grave Fathers of the
@@ -323,7 +323,7 @@
                                 <persName>Philiscus</persName> had leaft in writing to posterity<seg rend='roman'>;</seg>
                             Time, ah injurious Time, hath buried in oblivion. And for the rest that
                             are extant, they seeme unto me to rely more upon the relation of others,
-                            than any certaine knowledge of their owne. Notwithstanding these are
+                            than any certaine knowledge of their owne. Notwithstanding there are
                             scattered in them, specially in <persName> Aristotle</persName> &amp;
                                 <persName>Plinie</persName>, among many false and frivolous
                             conceits, some true and profitable notes: which being found agreeable to
@@ -400,7 +400,7 @@
                     <app type="vocabulary" subtype="change">
                         <lem wit="#b1623">forced</lem>
                         <rdg wit="#b1609" source="1609.xml#ch0ancs16 1609.xml#ch0ance16">enforced</rdg>
-                    </app> (unlesse I wil chuse rather to offend in <foreign xml:lang="la">rebus</foreign> than in <foreign xml:lang="la"> vocibus</foreign>) by their
+                    </app> (unlesse I wil chuse rather to offend in <foreign xml:lang="la">rebus</foreign>, than in <foreign xml:lang="la"> vocibus</foreign>) by their
                     leave and thine (learned Reader) to straine the ordinarie signification of the
                     word <foreign xml:lang="la">Rex</foreign>, and, in such places, to translate it
                         <hi rend="italic"> Queene</hi>, sith the males heere beare no sway at all,
@@ -455,7 +455,7 @@
                     <fw type="header"> The Preface to the Reader. </fw> I am out of doubt that this
                     Booke of <term rend="italic">Bees</term> will in his Infancie lie hidden in
                     obscuritie, as the Booke of <term rend="italic">Tropes</term> and <term rend="italic">Figures</term> did for a while goe unregarded, without friends
-                    or acquaintance: But as that did by little and little insinuate it selfe into the
+                    or acquaintance: but as that did by little and little insinuate it selfe into the
                     love and liking of many Schooles, yea of the Universitie it selfe, where it hath
                     been both privately and publikely read<seg rend='roman'>;</seg> (a favour, which this Mother doth
                     seldome afford to hir owne Children, lest haply she should seeme too fond over
@@ -514,7 +514,7 @@
                                 <l>Quae sint arma, hostes, praelia, castra, duces, </l>
                                 <l>Quam celeri campos gressu, sylvasque peragrant,</l>
                                 <l>Qua cellas fingunt arte, labore replent,</l>
-                                <l>Quam prosint hominum generi c&#339;lestia dona, </l>
+                                <l>Quam prosint hominum generi coelestia dona, </l>
                                 <l>Utque magis prosint quo moderanda modo<seg rend='roman'>;</seg> </l>
                                 <l>Per te miranda haec levium spectacula rerum</l>
                                 <l>Mystica tot seclis clausa reclusa patent.</l>
