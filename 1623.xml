@@ -222,7 +222,7 @@
                 <epigraph>
                     <app type="major" subtype="add">
                         <lem wit="#b1623"><quote><bibl>Plaut: in Trucul: Act: 2. Sc. 6. </bibl><lb/>
-                            Pluris est oculatus testis unus, quam auriti decem.</quote></lem>
+                           <hi rend="italic">Pluris est oculatus testis unus, quam auriti decem.</hi></quote></lem>
                         <rdg wit="#b1609"/>
                     </app>
                 </epigraph>
