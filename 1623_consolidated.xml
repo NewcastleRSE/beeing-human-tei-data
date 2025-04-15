@@ -3350,13 +3350,13 @@
                     <hi rend="drop-capital">I</hi>N some countries they use strawn Hives bound with
                     briar: in some wicker Hives made of Privet, Withy, or Hazell, dawbed usually
                     with Cow-cloome tempered with gravelly dust, or sand, or ashes.</p>
-                <p xml:id="ch3par2"><note type="authorial" subtype="summary" xml:id="ch3sumn2">2. <seg rend="italic">Strawne Hives with their inconveniencies and remedies. </seg></note>
+                <p xml:id="ch3par2"><note type="authorial" subtype="summary" xml:id="ch3sumn2">2. <seg rend="italic">Strawne Hives with their inconveniencies <app type="ortographic" subtype="change"><lem wit="#1623">and</lem><rdg wit="#b1609" source="1609.xml#ch3ancs200 1609.xml#ch3ance200">&amp;</rdg></app> remedies.</seg></note>
                     The strawne Hives when they are olde and loded, <app type="minor" subtype="del">
                         <lem wit="#b1623" />
                         <rdg wit="#b1609" source="1609.xml#ch3ancs1 1609.xml#ch3ance1">unlesse they be very
                     hard wrought,</rdg>
                     </app>do usually
-                            sinke on the one side, (specially if they take wet) and so break the
+                    sinke on the one side, <app type="ortographic" subtype="change"><lem wit="#1623">(specially if they take wet)</lem><rdg wit="#b1609" source="1609.xml#ch3ancs201 1609.xml#ch3ance201">specially if they take wet,</rdg></app> and so break the
                             combes and let out the hony: <app type="minor" subtype="del"><lem wit="#b1623" /><rdg wit="#b1609" source="1609.xml#ch3ancs1x 1609.xml#ch3ance1x">and the nether part of them is apt to be
                     rotted with the moisture of the stoole:</rdg></app>for which cause,<app type="minor" subtype="add"><lem wit="#b1623"> first see that they be hard
                             wrought, and then spleet them strong with a Cop, <ref target="#ch3bibln1"><seg rend="italic"> </seg><seg rend="italic">v</seg><seg rend="italic">.</seg></ref>
@@ -3368,8 +3368,9 @@
                     middle of the rowles: and so shal you also prevent that other inconvenience,
                     &amp; keepe the hives upright. </rdg></app>
                 </p>
-                <p xml:id="ch3par3"><note type="authorial" subtype="summary" xml:id="ch3sumn3">3. <seg rend="italic">Wicker-Hives with their inconveninecies and remedies. </seg></note> The Wicker
-                    Hives will still be at fault, and lie open, (if they be not often repaired) unto
+                <p xml:id="ch3par3"><note type="authorial" subtype="summary" xml:id="ch3sumn3">3. <seg rend="italic">Wicker-Hives with their inconveninecies <app type="ortographic" subtype="change"><lem wit="#b1623">and</lem><rdg wit="#b1609" source="1609.xml#ch3ancs202 1609.xml#ch3ance202">&amp;</rdg></app> remedies.</seg></note> The Wicker
+                    Hives will still be at fault, and lie open, <app type="ortographic" subtype="change"><lem wit="#b1623">(if they be not often repaired)</lem><rdg wit="#b1609" source="1609.xml#ch3ancs203 1609.xml#ch3ance203">if they be not
+                    often repaired,</rdg></app> unto
                     Waspes, Robbers, &amp; Mise. Any of these, if shee finde but a little chap, will
                     dig her way in: and the Mouse (unlesse the twigs be close wrought) though she
                     finde none. </p>
@@ -3378,7 +3379,8 @@
                     destroyeth the Bees. But the heat in Summer, the cold in Winter, and the raine
                     at all times doth soonest pierc the Wicker Hives: for which cause it is good to
                     double-dawbe them.</p>
-                <p xml:id="ch3par5"><note type="authorial" subtype="summary" xml:id="ch3sumn4">4 Strawne Hives best. <seg rend="italic" /></note> All things considered, the strawne Hives are
+                <p xml:id="ch3par5"><note type="authorial" subtype="summary" xml:id="ch3sumn4">4
+                    <app type="ortographic" subtype="change"><lem wit="#b1623">Strawne Hives</lem><rdg wit="#b1609" source="1609.xml#ch3ancs204 1609.xml#ch3ance204">Strawnhives</rdg></app> best.</note> All things considered, the strawne Hives are
                     better, specially for small swarmes.</p>
                 <fw type="catch"> The</fw>
                 <pb n="E4v" />
@@ -3551,7 +3553,7 @@
                             loose: it is the last that makes all fast.</note></lem><rdg wit="#b1609" /></app></p>
                 <p xml:id="ch3par18"> And this is <app type="vocabulary" subtype="change"><lem wit="#b1623">a handsome, easie, and sure</lem><rdg wit="#b1609" source="1609.xml#ch3ancs8vi 1609.xml#ch3ance8vi">the easiest &amp; quickest</rdg></app> way of spleeting<app type="minor" subtype="del"><lem wit="#b1623" /><rdg wit="#b1609" source="1609.xml#ch3ancs8vx 1609.xml#ch3ance8vx">a hive</rdg></app>:
                     it is also <app type="minor" subtype="change"><lem wit="#b1623">good for drawing</lem><rdg wit="#b1609" source="1609.xml#ch3ancs8vxi 1609.xml#ch3ance8vxi">strong
-                    enough for bearing</rdg></app> the Combes <app type="minor" subtype="del"><lem wit="#b1623" /><rdg wit="#b1609"><ptr target="1609.xml#ch3ancsvxii 1609.xml#ch3ancevxii" /></rdg></app>without breaking, and for keeping
+                    enough for bearing</rdg></app> the Combes <app type="minor" subtype="del"><lem wit="#b1623" /><rdg wit="#b1609" source="1609.xml#ch3ancs8vxii 1609.xml#ch3ance8vxii">, and best for taking them forth</rdg></app>without breaking, and for keeping
                             the Hive from sinking and from tearing at the top. Besides which there
                             are divers sorts of spleeting, needlesse to be rehearsed: for every
                             Countrey hath his fashion.</p>
@@ -3936,7 +3938,8 @@
                          a flea in her eare. and the dressing of them
                     </rdg></app> <app type="minor" subtype="change"><lem wit="#b1623">that the Cold
                         may have the lesse force,</lem><rdg wit="#b1609" source="1609.xml#ch3ancs34x 16909.xml#ch3ance34x">2. The porch serveth also to breake the force of the
-                    cold winde and frost in winter, which is very hurtfull unto the Bees.</rdg></app> and<app type="minor" subtype="change"><lem wit="#b1623">that the Mice may not enter,</lem><rdg wit="#b1609"><ptr target="1609.xml#ch3ancs34v 1609.xml#ance43v" /></rdg></app> which in
+                    cold winde and frost in winter, which is very hurtfull unto the Bees.</rdg></app> and<app type="minor" subtype="change"><lem wit="#b1623">that the Mice may not enter,</lem><rdg wit="#b1609" source="1609.xml#ch3ancs34v 1609.xml#ch3ance34v">
+                    withall keepeth out the mise,</rdg></app> which in
                     winter <app type="vocabulary" subtype="add"><lem wit="#b1623">are</lem><rdg wit="#b1609" /></app> wont to make <app type="vocabulary" subtype="change"><lem wit="#b1623">much</lem><rdg wit="#b1609" source="1609.xml#ch3ancs34vi 1609.xml#ch3ance34vi">most</rdg></app> spoile. <ref target="#ch7sumn3"><seg rend="italic">
 </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic">v</seg><seg rend="italic">.</seg><seg rend="italic">c</seg><seg rend="italic">.</seg><seg rend="normal">7</seg><seg rend="italic">.</seg><seg rend="italic">n</seg><seg rend="italic">.</seg><seg rend="normal">3</seg><seg rend="italic">.</seg></ref></p>
                 <p xml:id="ch3par44"><note type="authorial" subtype="summary" xml:id="ch3sumn32">32. <seg rend="italic">The Barre. </seg></note>
@@ -3974,7 +3977,7 @@
                         <rdg wit="#b1609" />
                     </app></p>
                 
-<app type="other" subtype="del"><lem wit="#b1623" /><rdg wit="#b1609"><ptr target="1609.xml#ch3ancs33x 1609.xml#ch3ance33x" /></rdg></app>
+
                 <p xml:id="ch3par48"><note type="authorial" subtype="summary" xml:id="ch3sumn34">34. <seg rend="italic"><app type="vocabulary" subtype="change">
                             <lem wit="#b1623">The Settle.</lem>
                             <rdg wit="#b1609" source="1609.xml#ch3ancs34 1609.xml#ch3ance34">The greese.</rdg>
