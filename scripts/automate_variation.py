@@ -82,7 +82,9 @@ def getText(string, ns, mapParent, tree):
         if el.get(f'\u007b{ns["xml"]}\u007did') == start_end[1]:
             collect = False
         if collect:
-            tags.append(el)
+            # checks to see if the element is not tei-fw
+            if el.tag != f'\u007b{ns["TEI"]}\u007dfw':
+                tags.append(el)
     text = ""
 
     # Go through every collected element and collect text
