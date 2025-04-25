@@ -74,7 +74,7 @@ def getText(string, ns, mapParent, tree):
     
     collect = False
     tags = []
-    
+
     # Go through every element in the ancestor and figure out what elements need to be collected
     for el in parent.iter():
         if el.get(f'\u007b{ns["xml"]}\u007did') == start_end[0]:
@@ -82,8 +82,8 @@ def getText(string, ns, mapParent, tree):
         if el.get(f'\u007b{ns["xml"]}\u007did') == start_end[1]:
             collect = False
         if collect:
-            # checks to see if the element is not tei-fw
-            if el.tag != f'\u007b{ns["TEI"]}\u007dfw':
+            # does not bring forme work and notes into the variation text
+            if el.tag != f'\u007b{ns["TEI"]}\u007dfw' and el.tag != f'\u007b{ns["TEI"]}\u007dnote':
                 tags.append(el)
     text = ""
 
