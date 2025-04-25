@@ -3937,7 +3937,7 @@
                 <p xml:id="ch3par17"><app type="minor" subtype="add">
                     <lem wit="#b1623">And for the Spleets,</lem>
                     <rdg wit="#b1609"></rdg>
-                </app> take a streight hazel or
+                </app> <app type="minor" subtype="del"><lem wit="#1623"></lem><rdg wit="#b1609"><ptr target="1609.xml#ch3ancs7x 1609.xml#ch3ance7x"/></rdg></app>take a streight hazel or
                     willow-sticke, <app type="vocabulary" subtype="del"><lem wit="#b1623"></lem><rdg wit="#b1609"><ptr target="1609.xml#ch3ancs8 1609.xml#ch3ance8"/></rdg></app>quarter it if it be bigge enough, <app type="vocabulary" subtype="change"><lem wit="#b1623">else</lem><rdg wit="#b1609"><ptr target="1609.xml#ch3ancs8x 1609.xml#ch3ance8x"/></rdg></app> slit it: <app type="vocabulary" subtype="del"><lem wit="#b1623"></lem><rdg wit="#b1609"><ptr target="1609.xml#ch3ancs8xx 1609.xml#ch3ance8xx"/></rdg></app>then
                     shave and smooth the clefts, <app type="minor" subtype="change"><lem wit="#b1623">and having brought them to a</lem><rdg wit="#b1609"><ptr target="1609.xml#ch3ancs8xxx 1609.xml#ch3ance8xxx"/></rdg></app> convenient
                                 <ref target="#ch3glon3" rend="superscript">b</ref> strength &amp;
