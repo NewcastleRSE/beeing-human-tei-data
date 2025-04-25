@@ -80,11 +80,29 @@ def getText(string, ns, mapParent, tree):
         if el.get(f'\u007b{ns["xml"]}\u007did') == start_end[0]:
             collect = True
         if el.get(f'\u007b{ns["xml"]}\u007did') == start_end[1]:
+            tags.append(el)
             collect = False
         if collect:
-            # does not bring forme work and notes into the variation text
-            if el.tag != f'\u007b{ns["TEI"]}\u007dfw' and el.tag != f'\u007b{ns["TEI"]}\u007dnote':
+            # checks to see if it is a direct descendant of the parent
+            if parent == mapParent[el]:
+                # if it is a direct child of the parent, add it to the list
                 tags.append(el)
+    
+    
+    # THIS IS A TEST ALTERNATIVE WAY OF GATHERING THE VARIATION TEXT, PRESERVING THE ENCODING WIHTIN; NEED TO TEST IT MORE WIDELY
+    # EXCLUDING ELEMENTS FROM DISPLAY WOULD NOW HAPPEN IN THE FRONTEND;
+    # IT WOULD ALSO ALLOW OTHER ELEMENTS TO BE INCLUDED IN THE TEXT, LIKE HI
+    if start_end[1] == "ch3ance29":
+        testText = ''
+        for tag in tags:
+            # serialise the tags
+            testText += ET.tostring(tag, encoding='unicode', method='xml');
+        # remove ns0: from testText
+        testText = testText.replace('ns0:', '')
+        testText = testText.replace('xmlns:ns0="http://www.tei-c.org/ns/1.0" ', '')
+        print(testText)
+            
+    
     text = ""
 
     # Go through every collected element and collect text
@@ -93,10 +111,15 @@ def getText(string, ns, mapParent, tree):
         # https://docs.python.org/3/library/xml.etree.elementtree.html#xml.etree.ElementTree.Element.text
         try:
             if tag.text:
-                if tag.tail:
-                    text += ''.join([tag.text, tag.tail])
-                else:
-                    text += tag.text
+                # if the tag is not fw or a note, copy everything
+                if tag.tag != f'\u007b{ns["TEI"]}\u007dfw' and tag.tag != f'\u007b{ns["TEI"]}\u007dnote':
+                    if tag.tail:
+                        text += ''.join([tag.text, tag.tail])
+                    else:
+                        text += tag.text
+                elif tag.tail:
+                    # if the tag is fw or a note, only copy the tail if it exists
+                    text += tag.tail
                 # find a way to preserve inner elements
                 # text += ''.join([f'<{tag.tag}>', tag.text, f'</{tag.tag}>', tag.tail])
             elif tag.tail:
