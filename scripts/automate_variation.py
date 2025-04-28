@@ -74,38 +74,40 @@ def getText(string, ns, mapParent, tree):
     
     collect = False
     tags = []
-    
+
     # Go through every element in the ancestor and figure out what elements need to be collected
     for el in parent.iter():
+        el.attrib['data-origfile'] = '1609';
         if el.get(f'\u007b{ns["xml"]}\u007did') == start_end[0]:
             collect = True
+            el.attrib['type'] = 'attachmentCollation'
+            el.attrib['subtype'] = 'start'
         if el.get(f'\u007b{ns["xml"]}\u007did') == start_end[1]:
+            el.attrib['type'] = 'attachmentCollation'
+            el.attrib['subtype'] = 'end'
+            el.tail = ''
+            tags.append(el)
             collect = False
         if collect:
-            tags.append(el)
-    text = ""
+            # checks to see if it is a direct descendant of the parent
+            if parent == mapParent[el]:
+                # if it is a direct child of the parent, add it to the list
+                tags.append(el)
+    
+    text = ''
+    try:
+        for tag in tags:
+            # serialise the tags
+            text += ET.tostring(tag, encoding='unicode', method='xml');
+        # remove ns0: from testText
+        text = text.replace('ns0:', '')
+        text = text.replace('xmlns:ns0="http://www.tei-c.org/ns/1.0" ', '')
+        
+    except:
+        print(f'Error: Could not serialise the tags: {start_end[0]} and {start_end[1]}')
 
-    # Go through every collected element and collect text
-    for i, tag in enumerate(tags):
-        # Text only includes inner text until the next tag (which is convienient for me). See:
-        # https://docs.python.org/3/library/xml.etree.elementtree.html#xml.etree.ElementTree.Element.text
-        try:
-            if tag.text:
-                if tag.tail:
-                    text += ''.join([tag.text, tag.tail])
-                else:
-                    text += tag.text
-                # find a way to preserve inner elements
-                # text += ''.join([f'<{tag.tag}>', tag.text, f'</{tag.tag}>', tag.tail])
-            elif tag.tail:
-                text += tag.tail
-            elif i < len(tag):
-                # falls into this case if the anchor starts with an element
-                # if it's not the last, keep going
-                pass
-        except:
-            print(f'ERROR: Something went wrong collecting the text: check between {start_end[0]} and {start_end[1]} in 1609.xml')        
-    return text
+    # Returns a string literal of all the tags in between the two anchors
+    return f'<rdg>{text}</rdg>'
 
 def append_XML_dec(FILEOUTPUT):
     xml_dec = '<?xml version="1.0" encoding="UTF-8"?>\n<?xml-model href="schema/tei_beeing_human.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>\n<?xml-model href="schema/tei_beeing_human.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>\n'
@@ -416,6 +418,13 @@ def main(preview=False):
         print(e)
         sys.exit(ERROR)
 
+    # Built parent map 1623
+    try:
+        mapParent1623 = {c: p for p in tree.iter() for c in p}
+    except:
+        print('Error: Could not build parent map for 1623')
+        sys.exit(ERROR)
+
     for rdg in rdgs:
         # Find target
         ptr = rdg.find('TEI:ptr', ns) # No need to error check this one, rdgs will always contain ptr (see findall above)
@@ -424,13 +433,16 @@ def main(preview=False):
         try:
             # Get text from 1609
             newText = getText(target, ns, mapParent1609, tree1609)
-        
-            # Record target information in the rdg
-            rdg.attrib['source'] = target
 
-            # Replace ptr with text from 1609
-            rdg.remove(ptr)
-            rdg.text = newText
+            newElement = ET.fromstring(newText);
+            newElement.attrib['wit'] = rdg.attrib['wit']
+            newElement.attrib['source'] = target
+
+            # replace rdg with newElement
+            # find rdg parent
+            parent = mapParent1623[rdg]
+            parent.remove(rdg)
+            parent.append(newElement)
         except ValueError as e:
             print(e)
         except KeyError as e:
