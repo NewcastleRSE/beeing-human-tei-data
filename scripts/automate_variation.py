@@ -85,6 +85,7 @@ def getText(string, ns, mapParent, tree):
         if el.get(f'\u007b{ns["xml"]}\u007did') == start_end[1]:
             el.attrib['type'] = 'attachmentCollation'
             el.attrib['subtype'] = 'end'
+            el.tail = ''
             tags.append(el)
             collect = False
         if collect:
