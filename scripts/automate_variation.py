@@ -77,6 +77,7 @@ def getText(string, ns, mapParent, tree):
 
     # Go through every element in the ancestor and figure out what elements need to be collected
     for el in parent.iter():
+        el.attrib['data-origfile'] = '1609';
         if el.get(f'\u007b{ns["xml"]}\u007did') == start_end[0]:
             collect = True
             el.attrib['type'] = 'attachmentCollation'
