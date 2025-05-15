@@ -3445,7 +3445,8 @@
                     <fw type="header"> Of the Bee-Garden, </fw> some have stucke up greene boughes,
                     and the Bees have lighted upon them. </p>
                 <p xml:id="ch2par13"><note type="authorial" subtype="summary" xml:id="ch2sumn10">10.
-                        Two sorts of seats.</note> The place being thus fitted, the seates are to be
+                        Two sorts of seats.</note>
+                    <hi rend="drop-capital">T</hi>he place being thus fitted, the seates are to be
                     provided: which, whether they be stooles or benches, must be set a little
                     shelving, that the raine may neither runne into the hive, nor stay at the doore. </p>
                 <p xml:id="ch2par14"><note type="authorial" subtype="summary" xml:id="ch2sumn11">11.
@@ -4026,29 +4027,32 @@
                     </app></p>
                 <note type="authorial" subtype="gloss" place="inline" xml:id="ch3glon2"><app
                         type="minor" subtype="change">
-                        <lem wit="#b1623"><hi rend="superscript">a</hi> If the Hive conteine above three peckes, it may well
-                            receive foure Spleets: otherwise three will suffice. </lem>
+                        <lem wit="#b1623"><hi rend="superscript">a</hi> If the Hive conteine above
+                            three peckes, it may well receive foure Spleets: otherwise three will
+                            suffice. </lem>
                         <rdg wit="#b1609"><ptr target="1609.xml#ch3ancs8v 1609.xml#ch3ance8v"
                             /></rdg>
                     </app></note>
 
                 <app type="major" subtype="add">
                     <lem wit="#b1623"><note type="authorial" subtype="gloss" place="inline"
-                            xml:id="ch3glon3"><hi rend="superscript">b</hi> Stiffe enough to keepe up the Strawne Hives from
-                            sinking, specially when they are turned. <ref target="#ch5sumn22"
-                                >v.c.5.n.22.</ref>&amp;<ref target="#ch5sumn23">23.</ref></note>
+                            xml:id="ch3glon3"><hi rend="superscript">b</hi> Stiffe enough to keepe
+                            up the Strawne Hives from sinking, specially when they are turned. <ref
+                                target="#ch5sumn22">v.c.5.n.22.</ref>&amp;<ref target="#ch5sumn23"
+                                >23.</ref></note>
                     </lem>
                     <rdg wit="#b1609"/>
                 </app>
                 <app type="major" subtype="add">
                     <lem wit="#b1623"><note type="authorial" subtype="gloss" place="inline"
-                            xml:id="ch3glon4"><hi rend="superscript">c</hi> If you put foure Spleets in a Hive, then cut their
-                            backes, where they must leane one against another, to square angles,
-                            such as be foure in a circle: if but three, cut them to obtuse angles,
-                            such as are three in a circle: (you may readily try them, before you put
-                            them in, by Moulds made just of those formes) and so will they stand
-                            close and firme together. The first two of three, and the first three of
-                            foure are loose: it is the last that makes all fast.</note></lem>
+                            xml:id="ch3glon4"><hi rend="superscript">c</hi> If you put foure Spleets
+                            in a Hive, then cut their backes, where they must leane one against
+                            another, to square angles, such as be foure in a circle: if but three,
+                            cut them to obtuse angles, such as are three in a circle: (you may
+                            readily try them, before you put them in, by Moulds made just of those
+                            formes) and so will they stand close and firme together. The first two
+                            of three, and the first three of foure are loose: it is the last that
+                            makes all fast.</note></lem>
                     <rdg wit="#b1609"/>
                 </app>
                 <p xml:id="ch3par18"> And this is <app type="vocabulary" subtype="change">
