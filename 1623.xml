@@ -4026,7 +4026,7 @@
                     </app></p>
                 <note type="authorial" subtype="gloss" place="inline" xml:id="ch3glon2"><app
                         type="minor" subtype="change">
-                        <lem wit="#b1623">(a) If the Hive conteine above three peckes, it may well
+                        <lem wit="#b1623"><hi rend="superscript">a</hi> If the Hive conteine above three peckes, it may well
                             receive foure Spleets: otherwise three will suffice. </lem>
                         <rdg wit="#b1609"><ptr target="1609.xml#ch3ancs8v 1609.xml#ch3ance8v"
                             /></rdg>
@@ -4034,7 +4034,7 @@
 
                 <app type="major" subtype="add">
                     <lem wit="#b1623"><note type="authorial" subtype="gloss" place="inline"
-                            xml:id="ch3glon3">(b) Stiffe enough to keepe up the Strawne Hives from
+                            xml:id="ch3glon3"><hi rend="superscript">b</hi> Stiffe enough to keepe up the Strawne Hives from
                             sinking, specially when they are turned. <ref target="#ch5sumn22"
                                 >v.c.5.n.22.</ref>&amp;<ref target="#ch5sumn23">23.</ref></note>
                     </lem>
@@ -4042,7 +4042,7 @@
                 </app>
                 <app type="major" subtype="add">
                     <lem wit="#b1623"><note type="authorial" subtype="gloss" place="inline"
-                            xml:id="ch3glon4">(c) If you put foure Spleets in a Hive, then cut their
+                            xml:id="ch3glon4"><hi rend="superscript">c</hi> If you put foure Spleets in a Hive, then cut their
                             backes, where they must leane one against another, to square angles,
                             such as be foure in a circle: if but three, cut them to obtuse angles,
                             such as are three in a circle: (you may readily try them, before you put
