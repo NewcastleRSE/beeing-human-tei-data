@@ -364,6 +364,10 @@ def append_hi_summary_notes(tree, ns):
                 # Elements like this will be hardcoded
                 # print('I affect ' , el.text);
                 continue
+            elif el.get('rend') == 'superscript':
+                # ignores refs that are rendered as superscript
+                # print('I affect ' , el.get('target'));
+                continue
             else:
                 # default behaviour: each character is formatted individually
                 el.text = ''
