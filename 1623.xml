@@ -5536,7 +5536,7 @@
                         <lem wit="#b1623">returnes</lem>
                         <rdg wit="#b1609"><ptr target="1609.xml#ch4ancs5 1609.xml#ch4ance5"/></rdg>
                     </app> he presently to his cheere. <quote>
-                        <foreign xml:lang="la">Fuci cum exeunt efferunt sese fusium in sublimi
+                        <foreign xml:lang="la">Fuci cum exeunt, efferunt sese fusium in sublimi,
                             gyroque volitant: quod ubi satis iam fecerint, redeunt domum, &amp;
                             epulis perfruuntur.</foreign>
                         <note type="authorial" subtype="bibliographic" xml:id="ch4bibln1">
@@ -5547,7 +5547,7 @@
                 <p xml:id="ch4par2"><app type="major" subtype="add">
                         <lem wit="#b1623"><note type="authorial" subtype="summary" xml:id="ch4sumn2"
                                 >2. Divers opinions of the Drones originall.</note> The generall
-                            opinion anent the Drone is, that he is made of a hony-Bee, that hath hir
+                            opinion anent the Drone is, that he is made of a hony-Bee, that hath lost hir
                             sting: which is even as likelie, as that a dwarfe having his guts pulled
                             out, should become a gyant. Others seeing the fondnesse of this opinion,
                             have thought and taught that the Drone is a different <term>
@@ -5558,7 +5558,7 @@
                                 former.</fw>
                             <pb n="H1v"/>
                             <fw type="header"> Of the breeding of Bees, </fw> former. These opinions
-                            then, being one as likely as the other, let them goe together. The truth
+                            then, being one as likely as another, let them goe together. The truth
                             is, they are of the same <term>species</term> with the hony-Bee, but of
                             a different <term>Sex.</term></lem>
                         <rdg wit="#b1609"/>
@@ -5597,10 +5597,10 @@
                         <ref target="#ch4sumn18">V.n.18.</ref>&amp;<ref target="#ch4sumn19"
                             >19.</ref>
                     </note> there is not a Drone to be had <quote>
-                        <foreign xml:lang="la">In rerum natura</foreign><note type="authorial"
+                        <foreign xml:lang="la">In rerum natura.</foreign><note type="authorial"
                             subtype="bibliographic" xml:id="ch4bibln6"><bibl>Nat hist
                                 l.11.c.11.</bibl></note>
-                    </quote>. When they are quite gone, then doe the Bees lay no more seeds that
+                    </quote> When they are quite gone, then doe the Bees lay no more seeds that
                     yeere, but onely hatch and breed up those that are already in the celles. <note
                         type="authorial" subtype="bibliographic" xml:id="ch4bibln7">
                         <ref target="#ch5sumn4"> V.c.5.n. 4.</ref>
@@ -5608,21 +5608,19 @@
                 <p xml:id="ch4par5"><note type="authorial" subtype="summary" xml:id="ch4sumn5">5.
                         The second reason is, that the Drones being taken away in breeding time, the
                         Bees breed no more.</note> Secondly, as the rather and the more the Drones
-                    are, the more and greater are the swarmes; (<quote>
-                        <foreign xml:lang="la">Certe quo major fuerit fucorum multitudo, eo major
-                            fiet examinum proventus; v.</foreign>
-                        <note type="authorial" subtype="bibliographic" xml:id="ch4bibln8">
-                            <ref target="#ch5sumn4">v.c.5 n 4.</ref>
-                        </note>
-                    </quote> ) so where the Drones are few and late, there is small increase: and
+                    are, the more and greater are the swarmes; <quote>
+                        <foreign xml:lang="la">(Certe quo major fuerit fucorum multitudo, eo major
+                            fiet examinum proventus; v.)</foreign></quote>
+                        
+                      so where the Drones are few and late, there is small increase: and
                     therefore if you kill the Drones of a Hive before the Bees have done swarming
-                    and breeding (as some fondly have don before Mid-sommer, to save their hony from
+                    and breeding, (as some fondly have done before Mid-sommer, to save their hony from
                     these <app type="vocabulary" subtype="change">
                         <lem wit="#b1623">lazie</lem>
                         <rdg wit="#b1609"><ptr target="1609.xml#ch4ancs8 1609.xml#ch4ance8"/></rdg>
                     </app> lurchers) neither will the swarmes come forth that were formerly bred,
                     nor the stocke thenceforth breed any more. After which time bringing in
-                        <term>Ambrosia v.</term>
+                        <term>Ambrosia, v.</term>
                     <note type="authorial" subtype="bibliographic" xml:id="ch4bibln9">
                         <ref target="#ch6sumn18"> V.c.6.n.18.</ref>
                     </note> as much as before, and having no young ones to spend part<app
