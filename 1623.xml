@@ -631,14 +631,14 @@
                 </app>
                 <div type="poem" xml:lang="la">
                     <head type="poemTitle"><app type="other" subtype="add">
-                            <lem wit="#b1623">Ad Carolam Butler.</lem>
+                            <lem wit="#b1623">Ad Carolum Butler.</lem>
                             <rdg wit="#b1609"/>
                         </app></head>
                     <app type="major" subtype="add">
                         <lem wit="#b1623"><lg>
                                 <l><hi rend="drop-capital">A</hi>Ntè mel è chartis prompsisti, ut
                                         <hi rend="opposite">Rhetor</hi>, apinum,</l>
-                                <l>At nunc mellit as promis, ut <hi rend="opposite">Histor</hi>,
+                                <l>At nunc mellitas promis, ut <hi rend="opposite">Histor</hi>,
                                     apes.</l>
                                 <l>Incipis ex apibus, sed &amp; in mel desinis ipsum: </l>
                                 <l>Suaviter incoeptum suavius exit opus.</l>
@@ -1991,16 +1991,16 @@
                         <l>Praeterea regem non sic Aegyptus &amp; ingens </l>
                         <l>Lydia, nec populi Parthorum aut Medus Hydaspes </l>
                         <l>Observant: rege incolumi mens omnibus una est:</l>
-                        <l>Amisso rupere fidem; contructaque mella</l>
-                        <l>Diripuere ipsae, <ref target="#ch1biblnX1">v:</ref> &amp; crates solvere
+                        <l>Amisso rupere fidem; constructaque mella</l>
+                        <l>Diripuere ipsae, <ref target="#ch1biblnX1">v:</ref> &amp; crates solvêre
                             favorum:</l>
                         <l>Ille operum custos, illum admirantur; &amp; omnes</l>
                         <fw type="catch"> Circumstant </fw>
                         <pb n="B2r"/>
                         <fw type="header"> and of their Queene. </fw>
-                        <l>Circumstant fremitu denso, stipantque, frequentes,</l>
+                        <l>Circumstant fremitu denso, stipantque frequentes,</l>
                         <l>Et saepe attollunt humeris, &amp; corpora bello</l>
-                        <l>Objectant, pulchramque, petunt per vulnera mortem. </l>
+                        <l>Objectant, pulchramque petunt per vulnera mortem. </l>
                     </lg>
                 </quote>
                 <p xml:id="ch1par6">If she goe forth to solace her selfe, (as sometime she will)
@@ -2039,7 +2039,7 @@
                     <note type="authorial" subtype="bibliographic" xml:id="ch1bibln11"><ref
                             target="#ch7sumn42">V.c.7.n. 42.</ref></note>
                     <quote>
-                        <foreign xml:lang="la">Rege mortuo mœret plebs ignava, non cibos convehit,
+                        <foreign xml:lang="la">Rege mortuo moeret plebs ignava, non cibos convehit,
                             non procedit, tristi tantùm murmure glomeratur circa corpus
                             ejus.</foreign>
                         <note type="authorial" subtype="bibliographic" xml:id="ch1bibln12">
@@ -2116,7 +2116,7 @@
                     expresse patterne of <hi rend="smallCapitals titleCase">A PERFECT MONARCHIE, THE
                         MOST NATURAL AND ABSOLUTE FORME OF GOVERNMENT.</hi>
                     <app type="minor" subtype="add">
-                        <lem wit="#b1623">Οὐκ ἀγαθὸν πολυκοιρανίη· εἷς κοίρανος ἔστω, εἷς</lem>
+                        <lem wit="#b1623">Οὐκ ἄγαθον πολυκοιρανίη, εἷς κοίρανος ἔστω</lem>
                         <rdg wit="#b1609"/>
                     </app>
                     <note type="authorial" subtype="bibliographic" xml:id="ch1bibln14">
@@ -2177,7 +2177,7 @@
                                 ><bibl>Nat.hist.l.11.c.16.</bibl></note>
                         <foreign xml:lang="la">Omnibus forma semper egregia, &amp; duplo quam
                             caeteris major, pennae breviores, crura recta, ingressus celsior, in
-                            fronte macula quodam diademate candicans: Multum etiam nitore a vulgo
+                            fronte macula quodam diademate candicans: Multum etiam nitore à vulgo
                             differunt.</foreign>
                     </quote>
                     <app type="minor" subtype="add">
@@ -2202,7 +2202,7 @@
                     as if there were degrees of those dignities among them. In all other respects
                     they are like to the vulgar. These I think are they that <persName>
                         Plinie</persName> meaneth, where he saith, <quote>
-                        <foreign xml:lang="la">Circa regem satellites quidam, lictoresque, assiduae
+                        <foreign xml:lang="la">Circa regem satellites quidam, lictoresque assiduae
                             custodes authoritatis.</foreign>
                         <note type="authorial" subtype="bibliographic" xml:id="ch1bibln19"
                                 ><bibl>Nat.hist.li.11.c.17.</bibl></note>
@@ -2490,11 +2490,11 @@
                                 paulisper sinatur, dum veram cutem penetraverit; vehementior inde,
                                 diuturnior, &amp; sanatu difficilior evadet tum dolor tum tumor)
                                 dein, quam mox reddi potest, propriâ vulnus urinâ malvae folia
-                                sœpiuscule prolvant, dum subsequens hoc comparetur emplastrum. <hi
+                                saepiuscule prolvant, dum subsequens hoc comparetur emplastrum. <hi
                                     rend="opposite">R.</hi> Cardui Benedicti virentis contriti <hi
                                     rend="opposite">M.I.</hi> Ovi albumen quasi in oleum coagitatum:
                                 misce, fiat emplastrum, quod lini retrimentis impositum, vulneri
-                                linteo alligetur: ubi arverit, recens repone: sed vulnus nequaquam
+                                linteo alligetur: ubi aruerit, recens repone: sed vulnus nequaquam
                                 fricetur.</foreign></lem>
                         <rdg wit="#b1609"/>
                     </app>
@@ -2633,7 +2633,7 @@
                     both outward and inward: which their subtill and active spirits doe excite and
                     quicken, for the works of their curious Art and singular Vertues. <note
                         type="authorial" subtype="bibliographic" xml:id="ch1bibln37">*
-                                <bibl><hi>Cerebrum commune sentiendi principium.</hi>
+                                <bibl><hi rend="italic">Cerebrum commune sentiendi principium.</hi>
                             Fer.Ph.l.5.c.14.</bibl></note><quote>
                         <foreign xml:lang="la">Quamvis non sint membra quae, velut carina, sensus
                             invehant; esse tamen his auditum, olfactum, gustatum, eximia praeterea
@@ -2752,7 +2752,7 @@
                     and Common-wealth they doe most readily enter the field, <quote>
                         <foreign xml:lang="la"><lg>
                                 <l>⸺Et corpora bello </l>
-                                <l>Objectant, pulchramque, petunt per vulnera mortem. <ref
+                                <l>Objectant, pulchramque petunt per vulnera mortem. <ref
                                         target="#ch1bibln45X">v.</ref></l>
                                 <note type="authorial" subtype="bibliographic" xml:id="ch1bibln45">
                                     <bibl>Virg.</bibl>
@@ -2780,7 +2780,7 @@
                     weather. <quote>
                         <foreign xml:lang="la">Praedivinant enim ventos imbresque, &amp; tunc se
                             pleraeque continent tectis. <hi rend="opposite">Item</hi>, Praesagiunt
-                            apes &amp; hyemem &amp; imbres, v.</foreign>
+                            apes &amp; hyemem &amp; imbres, <ref target="#ch1bibln49">v.</ref></foreign>
                         <note type="authorial" subtype="bibliographic" xml:id="ch1bibln48">
                             <bibl>Nat.hist.l.11.c.10.</bibl>
                         </note>
@@ -2794,7 +2794,7 @@
                     those that are abroad doe use to shift the wind when they come home loaden: how
                     they flie alow by the ground, among the bushes, in the lanes, and lee-sides of
                     the hedges. <quote>
-                        <foreign xml:lang="la">Juxta terram volant in adverso flatu vepribus
+                        <foreign xml:lang="la">Iuxta terram volant in adverso flatu vepribus
                             hebetato.</foreign>
                         <note type="authorial" subtype="bibliographic" xml:id="ch1bibln51">
                             <bibl> Nat.hist.li.11.c.10.</bibl>
@@ -2935,14 +2935,14 @@
                 <p xml:id="ch1par47">
                     <quote>
                         <foreign xml:lang="la">Cum mulier quaedam simplicis ingenii nonnulla apum
-                            aluearia possideret, neque illae redderent expectitum fructum, sed lue
-                            quadam tabescentes morerentur; de consilio alterius fœminae
+                            alvearia possideret, neque illae redderent expetitum fructum, sed lue
+                            quadam tabescentes morerentur; de consilio alterius foeminae
                             simplicioris, accessit ad sacerdotem perceptura Eucharistiam: quam
                             sumptam tamen ore continuit, domumque reversa extractam collocavit in
-                            uno ex alvearijs. Lues cessavit, mella affluebant. Itaque suo tempore
-                            mulier, apertis, ut mel educeret, alvearijs, vidit (miranda res)
+                            uno ex alveariis. Lues cessavit, mella affluebant. Itaque suo tempore
+                            mulier, apertis, ut mel educeret, alveariis, vidit (miranda res)
                             exaedificatum ab apibus sacellum, constructum altare, parietes miro
-                            Architecturae artifico suis fenestris appositè suis locis ornatos,
+                            Architecturae artificio suis fenestris appositè suis locis ornatos,
                             ostium, turrim, cum suis tintinabulis: Eucharistiam vero in altari
                             repositam circumvolabant suavi susurro per strepentes apes.</foreign>
                         <note xml:id="ch1par47note" type="editorial" subtype="other">this is the
@@ -2963,13 +2963,13 @@
                             erat Eucharistia auferrent, &amp; illam secum rapuerunt: sacratissimum
                             vero C. corpus sub alveari projecerunt. Post aliquot dies Dominus
                             alvearis videt apes certis horis saepius, dimissis operis ad cibos
-                            convehendos, totes esse in quodam mellifluo concentu edendo. Cumque
+                            convehendos, totos esse in quodam mellifluo concentu edendo. Cumque
                             fortè de media nocte exsurrexisset, conspicatur supra alveare
-                            illustrissimam lucem, suavissemeque praeter omnem modum modulantes apes.
+                            illustrissimam lucem, suavissimeque praeter omnem modum modulantes apes.
                             Rei novitate inusitatâ, &amp; prorsus admirandâ perculsus, Deique monitu
                             intimo agitatus rem defert ad Episcopum. Is plurimis secum assumptis eo
                             se conferens, aperto alveari videt Vasculum elegantissimum effectum è
-                            candidissima cera prope alvearis fatigium, in quo reposita erat
+                            candidissima cera prope alvearis fastigium, in quo reposita erat
                             Eucharistia, circa illud choros apum circumsonantes, &amp; excubias
                             agentes. Acceptum igitur Episcopus sacramentum maximo cum honore in
                             templum reportavit: quo multi accedentes ab innumeris sunt morbis
@@ -3013,7 +3013,7 @@
                                         rend="opposite">Item</hi>, Omnipotens creator apibus prolem
                                     sine concubitu dedit. <note xml:id="ch1bibln55x"
                                         type="authorial" subtype="bibliographic"><bibl>August.de
-                                            Trinit.l.3. Idem de bono conjugali.</bibl></note></lem>
+                                            Trinit.l.3. Idem de bono coniugali.</bibl></note></lem>
                                 <rdg wit="#b1609"/>
                             </app></foreign>
                     </quote></p>
@@ -3063,7 +3063,7 @@
                         <foreign xml:lang="la">Amoliuntur omnia è medio, nullaeque inter opera
                             spurcitiae jacent</foreign>
                     </quote>; neither can they endure any unsavorinesse without nigh unto them. <quote>
-                        <foreign xml:lang="la">Odere fœdos odores: <app type="minor" subtype="add">
+                        <foreign xml:lang="la">Odere foedos odores: <app type="minor" subtype="add">
                                 <lem wit="#b1623">Nulla harum assidet in loco inquinato, aut eo qui
                                     malè oleat.<note type="authorial" subtype="bibliographic"
                                         xml:id="ch1bibln61">
@@ -3092,8 +3092,8 @@
                         <note type="authorial" subtype="bibliographic" xml:id="ch1bibln63b">
                             <bibl>Hist.l.5.c.22.</bibl>
                         </note>
-                        <foreign xml:lang="la">Vita apum anni sex, nonnullae etiam 7. possunt
-                            complere: quod si examen 9. aut decem annos duraverit prosperè actum
+                        <foreign xml:lang="la">Vita apum anni sex, nonnullae etiam 7 possunt
+                            complere: quod si examen 9 aut decem annos duraverit prosperè actum
                             esse existimatur.</foreign>
                     </quote> Which opinions are grounded upon this, that they see a stall sometimes
                     continue so long, before the Bees die altogether. But this continuance is onely
@@ -3262,7 +3262,7 @@
                         <rdg wit="#b1609"><ptr target="1609.xml#ch2ancs1 1609.xml#ch2ance1"/></rdg>
                     </app></head>
                 <p xml:id="ch2par1"><note type="authorial" subtype="summary" xml:id="ch2sumn1">1. Of
-                        five things requisite in a Bee-garden, the first is that it be night at
+                        five things requisite in a Bee-garden, the first is that it be nigh at
                         hand.</note><hi rend="drop-capital">F</hi>Or your Bee-garden, first choose
                     some plot nigh your home, that the Bees may be in sight and hearing; because of
                     swarming, fighting, or other suddaine hap, wherein they may neede your present
@@ -3359,7 +3359,7 @@
                         <note type="authorial" subtype="bibliographic" xml:id="ch2bibln4">
                             <bibl>Nat.hist.li.11.c.18.</bibl>
                         </note>
-                        <foreign xml:lang="la">Odêre fœdos odores, proculque, fugiunt:</foreign>
+                        <foreign xml:lang="la">Odêre foedos odores, proculque fugiunt:</foreign>
                     </quote>: And yet the smell of urine doth not offend them: nay, they wil bee
                     very busie where it is shed. It is thought they use it for Physicke. <quote>
                         <note type="authorial" subtype="bibliographic" xml:id="ch2bibln5">
@@ -3620,7 +3620,7 @@
                 <app type="major" subtype="add">
                     <lem wit="#b1623"><note type="authorial" subtype="gloss" place="inline"
                             xml:id="ch2glon1">*<foreign xml:lang="la"><hi rend="opposite">Ptolomaeus</hi> obliquè eos
-                            notat, qui climactericus annos faciunt ex numerorum sola observatione,
+                            notat, qui climactericos annos faciunt ex numerorum sola observatione,
                             ut enneadicos &amp; hebdomaticos. Unde multis molesta senibus
                             superstitio super anno sexagesimo tertio, quoniam pejus angui tigrideque
                             formidant: sed peccat in his vulgus errore veniali, qui Philosophi esse
@@ -5533,8 +5533,8 @@
                         <lem wit="#b1623">returnes</lem>
                         <rdg wit="#b1609"><ptr target="1609.xml#ch4ancs5 1609.xml#ch4ance5"/></rdg>
                     </app> he presently to his cheere. <quote>
-                        <foreign xml:lang="la">Fuci cum exeunt efferunt sese fusium in sublimi
-                            gyroque volitant: quod ubi satis iam fecerint, redeunt domum, &amp;
+                        <foreign xml:lang="la">Fuci cum exeunt, efferunt sese fusim in sublimi,
+                            gyroque volitant: quod ubi satis jam fecerint, redeunt domum, &amp;
                             epulis perfruuntur.</foreign>
                         <note type="authorial" subtype="bibliographic" xml:id="ch4bibln1">
                             <bibl> Hist.an.li.9.c.40.</bibl>
@@ -5684,24 +5684,12 @@
                             /></rdg>
                     </app>
                 </p>
-                <note xml:id="ch4othern6x" type="authorial" subtype="other"><seg rend="italic"
-                        >Deborah</seg></note>
+                <note xml:id="ch4othern6x" type="authorial" subtype="bibliographic"><bibl><seg rend="italic"
+                        >Deborah</seg></bibl></note>
                 <note type="authorial" subtype="gloss" place="inline" xml:id="ch4glon1"><app
                         type="minor" subtype="change">
-                        <lem wit="#b1623">*<foreign xml:lang="la">Hic fucus <note type="editorial"
-                                    subtype="certainty" cert="check" xml:id="check2">
-                                    <fw type="sig">greek</fw>
-                                </note>: Ac haec apis, <note type="editorial" subtype="certainty"
-                                    cert="check" xml:id="check4">
-                                    <fw type="sig">greek</fw>
-                                </note>
-                                <note type="editorial" subtype="certainty" cert="check"
-                                    xml:id="check5">
-                                    <fw type="sig">hebrew</fw>
-                                </note> cum <note type="editorial" subtype="certainty" cert="check"
-                                    xml:id="check6">
-                                    <fw type="sig">hebrew</fw>
-                                </note> foeminina.</foreign></lem>
+                    <lem wit="#b1623">*<foreign xml:lang="la">Hic fucus, ὁ κηφήν: Ac haec apis, ἡ μέλισσα, דבורה, cum ה faeminino
+                    </foreign></lem>
                         <rdg wit="#b1609"><ptr target="1609.xml#ch4ancs13 1609.xml#ch4ance13"
                             /></rdg>
                     </app>
@@ -5711,14 +5699,14 @@
                                 <persName>Melissus</persName> King of Crete, being one of <persName>
                                 Jupiters</persName> nurces, is said to have beene by him transformed
                             into the Honi-Bee: which retaineth still her gender, sex, and name. <quote>
-                                <foreign xml:lang="la">Didymus aijt duas Melissi fuisse filias,
+                                <foreign xml:lang="la">Didymus aiit duas Melissi fuisse filias,
                                     Almatheam &amp; Melissam, quae Jovem puerum caprino lacte &amp;
                                     melle nutrierant.</foreign>
                                 <bibl>Lact.lib.1.instit.c.22.</bibl>
                             </quote>
                             <quote>
                                 <foreign xml:lang="la">Nec sane rustico dignum est sciscitari,
-                                    fueritne mulier pulcherrima specie Melissa, quam Jupiter in Apem
+                                    fueritne mulier pulcherrima specie Melissa, quam Iupiter in Apem
                                     convertit.</foreign>
                                 <bibl> Columella.lib.10.c.2.</bibl>
                             </quote>
@@ -5754,7 +5742,7 @@
                         </note>
                         <foreign xml:lang="la">Missio, ut apum, nulla vel crabronum vel vesparum
                             fieri solet: sed qui subinde oriantur novelli ibidem manent, &amp;
-                            alveum terrâ egestâ faciunt ampliorem.</foreign>
+                            alveum terrâ egestâ, faciunt ampliorem.</foreign>
                     </quote>
                     <app type="minor" subtype="change">
                         <lem wit="#b1623">When their breeding draweth toward an end, namely in
@@ -5980,7 +5968,7 @@
                                 <persName>Xantippe</persName> that thundring showring Queene of
                             Shrewes. <quote>
                                 <foreign xml:lang="la">Xantippe Socratis Philosophi uxor morosa
-                                    admodum fuisse fertur &amp; jurgiosa: irarumque, &amp;
+                                    admodum fuisse fertur &amp; iurgiosa: irarumque &amp;
                                     molestiarum muliebrium per diem perque noctem
                                     scatebat.</foreign>
                                 <bibl>A Gellius l.1.c.17.</bibl></quote>
@@ -6119,8 +6107,8 @@
                         <bibl>Hist.an.l.5.c.22.</bibl>
                     </note>
                     <term>
-                        <foreign xml:lang="la">Foetu posito incubant, exclusis inde vermiculus, dum
-                            parvus est, iacet in favo obliquus: postea sua ipse facultate se erigit,
+                        <foreign xml:lang="la">Foetu posito incubant, exclusus inde vermiculus, dum
+                            parvus est, jacet in favo obliquus: postea sua ipse facultate se erigit,
                             cibumque capit. Foetus apum &amp; fucorum candidus est: ex quo vermiculi
                             fiunt, qui in apes fucosque transeunt.</foreign>
                     </term>
@@ -6134,7 +6122,7 @@
                                 xml:id="ch4biblnX19">
                                 <persName>Plinie</persName></bibl> speakes of more then twice so
                             long a time. <quote><bibl><ptr target="#ch4biblnX19"/></bibl>
-                                <foreign xml:lang="la">Foetus intra 45. diem peragitur.</foreign>
+                                <foreign xml:lang="la">Foetus intra 45 diem peragitur.</foreign>
                             </quote></lem>
                         <rdg wit="#b1609"/>
                     </app></p>
@@ -6161,7 +6149,7 @@
                             <bibl>Colum:l.9.c.11</bibl>
                         </note>
                         <foreign xml:lang="la">Higinius negat ex vermiculo, ut caeteras apes, fieri
-                            ducem; sed in circuitu favorum paulo majora, quam sint plebii seminis,
+                            ducem; sed in circuitu favorum paulo majora, quam sint plebeii seminis,
                             inveniri foramina repleta quasi sorde rubri coloris, ex qua protinus
                             alatus rex figuratur.</foreign>
                     </quote></p>
@@ -6179,7 +6167,7 @@
                             <quote><note xml:id="ch4biblnX23" type="authorial"
                             subtype="bibliographic"><bibl>Nat.hist.li.11.c.11.</bibl></note>
                         <foreign xml:lang="la">Sunt fuci sine aculeo velut imperfectae apes,
-                            novissemque à fessis &amp; iam emeritis inchoatae, ferotinus
+                            novissimemque à fessis &amp; iam emeritis inchoatae, serotinus
                             foetus.</foreign>
                     </quote>
                     <note type="authorial" subtype="summary" xml:id="ch4sumn20"> 20. When they come
@@ -6233,12 +6221,12 @@
                             <bibl>Nat:hist,li.11.c.11.</bibl>
                         </note>
                         <foreign xml:lang="la">Sunt quasi servitia verarum apum: quamobrem imperant
-                            ijs.</foreign>
+                            iis.</foreign>
                     </quote> For albeit generally among all creatures the males, as more worthy, doe
                     master the females; yet in these, the females have the preeminence: and, by the
                     Grammarians leave, the Feminine gender is more worthy than the Masculine,
                         <foreign xml:lang="la">Haec apes</foreign> than <foreign xml:lang="la">hic
-                        fucus, haec Nympha</foreign> then <foreign xml:lang="la">hic
+                        fucus, haec Nympha</foreign> than <foreign xml:lang="la">hic
                         Cephen.</foreign> But let no nimble tongued Sophisters gather a false
                     conclusion from these true premisses, that they, by the example of these, may
                     arrogat to themselves the like superioritie: for <foreign xml:lang="la">Ex
@@ -6306,16 +6294,16 @@
                 <note type="authorial" subtype="gloss" place="inline" xml:id="ch4glon6">
                     <note type="authorial" subtype="summary" xml:id="ch4sumn25">25. The Bees
                         compared to the Amazons.</note>
-                    <foreign xml:lang="la">*Amazones bellicosae erant Scythiae mulieres, quae cum
+                    <foreign xml:lang="la"><hi rend="opposite">*Amazones bellicosae erant Scythiae mulieres, quae cum
                         viris exultantes in Cappadociae ora juxta amnem Thermodonta consederunt:
-                        ubi, viris plerisque; per insidias accolarum trucidatis, reliquos qui domi
+                        ubi, viris plerisque per insidias accolarum trucidatis, reliquos qui domi
                         remanserant, ut ipsae solae rerum potirentur, interficiunt: &amp; armis
                         sumptis etiam cum contemptu hostium se strenue tuentur, &amp; imperium longe
-                        lateque: in Europam &amp; Asiae partem tandem proferunt. Ne vero genus
+                        lateque in Europam &amp; Asiae partem tandem proferunt. Ne vero genus
                         periret, finitimis tanquam maritis utuntur: quos officio functos abigunt:
                         Atque quot pariunt virgines fovent, &amp; armis exercent; masculos vero
-                        durae enecant: unde eas Aeorpata i. Viricidas appellant Scythae, ut tradit
-                        Herodot.l.4. Prima harum regina Marthesia vel Marpesia dicebatur:quae plures
+                        durae enecant: unde eas Aeorpata id est Viricidas appellant Scythae, ut tradit
+                        Herodot.l.4. Prima harum regina Marthesia vel Marpesia dicebatur: quae plures
                         quidem peperit filias, Antiopen, Orithyam, Menalippen, &amp; Hypoliten: è
                         quibus duae majores natu matri successerunt, caeterae imperium non sunt
                         adeptae. Amazonum itaque regnum apum rempublicam aptissime refert: Marpesia
@@ -6331,7 +6319,7 @@
                         &amp; apes foeminae sunt bellicosae, quae non modo Europam &amp; quandam
                         Asiae partem, ut illae; sed universa orbis terrarum imperia possident: quae
                         sui sexus prolem summa itidem cura enutrientes, mares omnes tam viros quam
-                        filios caedere solent: ut &amp; ipsae vere Aeorpata dici possint.</foreign>
+                        filios caedere solent: ut &amp; ipsae vere Aeorpata dici possint.</hi></foreign>
                 </note>
                 <p xml:id="ch4par27"><note type="authorial" subtype="summary" xml:id="ch4sumn26">26.
                         They rid not their Drones all at once.</note> But because in the same Hive
@@ -6571,7 +6559,7 @@
                         <lem wit="#b1623"/>
                         <rdg wit="#b1609"><ptr target="1609.xml#ch5ancs1 1609.xml#ch5ance1"/></rdg>
                     </app></p>
-                <quote>
+                <p xml:id="ch5par5x"><quote>
                     <foreign xml:lang="la">Augent mella siccitates, sobolem imbres.<app type="minor"
                             subtype="del">
                             <lem wit="#b1623"/>
@@ -6581,7 +6569,7 @@
                     <note type="authorial" subtype="bibliographic" xml:id="ch5bibln6">
                         <bibl>Hist.l.4.c.22.</bibl>
                     </note>
-                </quote>
+                </quote></p>
                 <p xml:id="ch5par6"><app type="major" subtype="add">
                         <lem wit="#b1623"><ref target="#ch4glon6">*</ref>Dry weather makes plenty of
                             hony, and <ref target="#ch5glon2">†</ref> moist of swarms. But note that
@@ -8359,7 +8347,7 @@
                         <lem wit="#b1623">And before him <persName>Virgil,</persName>
                             <quote>
                                 <lg xml:lang="la">
-                                    <l> Hinc ubi iam emissum caveis ad sidera caeli </l>
+                                    <l> Hinc ubi jam emissum caveis ad sidera coeli </l>
                                     <l>Nare per aestatem liquidam suspexeris agmen, &amp;c.</l>
                                     <l>Tinnitusque cie, &amp; matris quate cymbala circum:</l>
                                     <l>Ipsae confident medicatis sedibus, ipsae</l>
@@ -8403,9 +8391,9 @@
                     <lem wit="#b1623"><note type="authorial" subtype="gloss" place="inline"
                             xml:id="ch5glon8">
                             <foreign xml:lang="la">Fugientes persequi possum in fundum alienum vel
-                                invite Domino ac vetante <hi rend="opposite">Lege Thesaurus § ad
+                                invito Domino ac vetante <hi rend="opposite">Lege Thesaurus § ad
                                     exhibendum</hi>. Quia ius cuique acquisitum ei conservari debet.
-                                    <hi rend="opposite">Lege Patre. § de ijs qui sunt.</hi> Secus si
+                                    <hi rend="opposite">Lege Patre. § de iis qui sunt.</hi> Secus si
                                 apes feras novè in alieno praedio captarem. <hi rend="opposite">§
                                     Apium, in fine de rerum divisione.</hi></foreign>
                         </note></lem>
@@ -8422,9 +8410,9 @@
                     of them, you have lost al right and propertie in them. </p>
                 <note type="authorial" subtype="gloss" place="inline" xml:id="ch5glon9">
                     <foreign xml:lang="la">Examen quod ex alveo tuo evolaverit, eousque intelligitur
-                        esse tuum, donec in conspectu tuo est, nec difficilis persecutio eius est:
+                        esse tuum, donec in conspectu tuo est, nec difficilis persecutio ejus est:
                         alioquin occupantis est.</foreign>
-                    <bibl><hi rend="opposite">Justinian.l.2.institutionum juris tit.de rerum
+                    <bibl><hi rend="opposite">Justinian.l.2.institutionum juris tit. de rerum
                             divisione.</hi></bibl>
                 </note>
                 <p xml:id="ch5par52"><note type="authorial" subtype="summary" xml:id="ch5sumn39">39.
@@ -8462,10 +8450,10 @@
                             xml:lang="la">Vacua alvearia stent semper parata in
                         Apiario.</foreign></note>
                     <quote>
-                        <foreign xml:lang="la">Oportet autem vacua domicilia collocata in apiarijs
+                        <foreign xml:lang="la">Oportet autem vacua domicilia collocata in apiariis
                             habere. Nam sunt nonnulla examina quae cum processerint, statim sedem
                             sibi quaerant in proximo, (Seu potius prius quaesitam, lustratam, &amp;
-                            paratam ad eant.v.n.39.) eandemque occupent quam vacuam
+                            paratam adeant. v.n.39.) eandemque occupent quam vacuam
                             repererint.</foreign>
                         <bibl><ptr target="#ch5bibln32X2"/></bibl>
                     </quote></p>
@@ -9718,7 +9706,7 @@
                     </app> but so long as any good flowers grow, even from <term>Pisces</term> or a
                     litle before unto <term> Sagittarius</term> and, some yeares, somewhat after,
                     (which is full nine moneths) they lose no time, (<quote>
-                        <foreign xml:lang="la">Nullus, dum per cœlum licuit, perit dies</foreign>
+                        <foreign xml:lang="la">Nullus, dum per coelum licuit, perit dies</foreign>
                         <note type="authorial" subtype="bibliographic" xml:id="ch6bibln3">
                             <bibl>Nat.hist.l.11.cap.6.</bibl>
                         </note></quote> ) <note type="authorial" subtype="summary" xml:id="ch6sumn3"
@@ -9742,7 +9730,7 @@
                     <lem wit="#b1623"><quote>
                             <lg xml:lang="la">
                                 <l>Quod superest, ubi pulsam hyemem sol aureus egit</l>
-                                <l>Sub terras, cœlumque, œstiva luce reclusit;</l>
+                                <l>Sub terras, coelumque, aestiva luce reclusit;</l>
                                 <l>Illae continuò saltus sylvasque peragrant,</l>
                                 <l>Purpureosque metunt flores &amp; flumina libant</l>
                                 <l>Summa leves. Hinc nescio qua dulcedine laetae</l>
@@ -9888,7 +9876,7 @@
                             <bibl>His.l.9.c.40.</bibl>
                         </note>
                         <foreign xml:lang="la">Sunt loculi ipsi fucorum ampliores, &amp; finguntur
-                            seorsim quoque, per se favi fucorum.</foreign>
+                            seorsim quoque per se favi fucorum.</foreign>
                     </quote> Although in some hives <app type="minor" subtype="change">
                         <lem wit="#b1623">part</lem>
                         <rdg wit="#b1609"><ptr target="1609.xml#ch6ancs11x 1609.xml#ch6ance11x"
@@ -10056,7 +10044,7 @@
                     <pb n="O2r"/>
                     <fw type="header"> Of the Bees Worke. </fw>
                     <app type="reference" subtype="add">
-                        <lem wit="#b1623">nurses. <quote><foreign xml:lang="la">Dicteo caell regem
+                        <lem wit="#b1623">nurses. <quote><foreign xml:lang="la">Dictaeo caeli regem
                                     pavêre sub antro.</foreign>
                                 <bibl> Virg.Geor.4.</bibl>
                             </quote> And afterward, when they would make him immortal; because of
@@ -10073,9 +10061,9 @@
                         How Ambrosia or grosse hony is gathered.</note> The grosse hony is gathered
                     by their fangs: from whence is it conveied by the fore-legs to the thighes of
                     the hin-legs (<quote>
-                        <foreign xml:lang="la">Quae flores comportant prioribus pedibus fœmina
-                            onerant propter id natura scabra, pedes priores rostro:totaeq
-                            onustaeremeant farcina pandatae</foreign>
+                        <foreign xml:lang="la">Quae flores comportant prioribus pedibus foemina
+                            onerant propter id natura scabra, pedes priores rostro: totaeque
+                            onustae remeant farcina pandatae</foreign>
                         <note type="authorial" subtype="bibliographic" xml:id="ch6bibln14">
                             <bibl> Nat.hist.li.11.c.10.</bibl>
                         </note>
@@ -10186,8 +10174,8 @@
                         <note type="authorial" subtype="bibliographic" xml:id="ch6bibln18">
                             <bibl> Nat.hist.l.11.c.7.</bibl>
                         </note>
-                        <foreign xml:lang="la">Praeter haec (praeter ceram &amp; nectar ) convehitur
-                            erithace, quam aliqui sandaracham, alij cerinthum vocant. Hic erit apum
+                        <foreign xml:lang="la">Praeter haec (id est praeter ceram &amp; nectar ) convehitur
+                            erithace, quam aliqui sandaracham, alii cerinthum vocant. Hic erit apum
                             dum operantur cibus: qui saepe invenitur in favorum inanitatibus
                             sepositus; &amp; ipse amari saporis.</foreign>
                     </quote> Speaking in the last words of that which is corrupted <app
@@ -10201,8 +10189,8 @@
                         <note type="authorial" subtype="bibliographic" xml:id="ch6bibln20">
                             <bibl> Hist.l.9.c.40.</bibl>
                         </note>
-                        <foreign xml:lang="la">Mel apibus tum estate tum hyeme cibo est: sed
-                            recondunt alterum quoq cibarii genus, cui durities cerae proxima quod
+                        <foreign xml:lang="la">Mel apibus tum aestate tum hyeme cibo est: sed
+                            recondunt alterum quoque cibarii genus, cui durities cerae proxima quod
                             sandaracham nonnulli appellant.</foreign>
                     </quote></p>
                 <fw type="catch"> The</fw>
@@ -10413,8 +10401,8 @@
                         <note type="authorial" subtype="bibliographic" xml:id="ch6bibln31"
                                 ><bibl>Vir.Georg.4</bibl></note>
                         <foreign xml:lang="la">(Thymus aptissimus ad mellificium. Pastus gratissimus
-                            apibus Thymum est. <lb/> Dum Thymo pascentur apes, dum rore
-                            cicadae.)</foreign>
+                            apibus Thymum est. <lb/><lg><l>Dum Thymo pascentur apes, dum rore
+                            cicadae.)</l></lg></foreign>
                     </quote></p>
                 <p xml:id="ch6par34"><placeName>Himettus</placeName> in
                         <placeName>Greece</placeName>, and <placeName> Hybla</placeName> in
@@ -10444,7 +10432,7 @@
                         <note type="authorial" subtype="bibliographic" xml:id="ch6bibln33">
                             <bibl>Virg.Georg.</bibl>
                         </note>
-                        <foreign xml:lang="la">aerei mellis cœlestia dona</foreign>
+                        <foreign xml:lang="la">aerei mellis coelestia dona</foreign>
                     </quote>) and hath appointed the <term>Oake</term> among all the trees of the
                     Wood, to receive and keepe the same upon his smooth and solide leaves, <app
                         type="minor" subtype="add">
@@ -10483,7 +10471,7 @@
                         What the Honie-dew is.</note> What this <foreign xml:lang="la">Mel
                         Roscidum</foreign> should be, <persName> Plinie</persName> seemeth much to
                     doubt where he saith <quote>
-                        <foreign xml:lang="la">Sive illud sit cœli sudor sive quaedam syderum
+                        <foreign xml:lang="la">Sive illud sit coeli sudor sive quaedam syderum
                             saliva, sive purgantis se aeris succus.</foreign>
                         <note type="authorial" subtype="bibliographic" xml:id="ch6bibln36"
                                 ><bibl>Nat.hist.li.11.c.12</bibl></note></quote> But, if conjectures
@@ -10642,7 +10630,7 @@
                         The Bees gather but of one kinde of of flower in one voyage.</note> And in
                     this great varietie this is strange, that where they beginne they will make an
                     end: and not meddle with any flowre of other sort, untill they have their load. <quote>
-                        <foreign xml:lang="la">Mos apibus ne florum plura genera petant uno eodemq
+                        <foreign xml:lang="la">Mos apibus ne florum plura genera petant uno eodemque
                             profectu, sed singulis singula.</foreign>
                         <note type="authorial" subtype="bibliographic" xml:id="ch6bibln42">
                             <bibl> Hist.ac.l.9.c.40</bibl>
@@ -10737,7 +10725,7 @@
                     Drones are done away, and breeding is ended, the Bees are nothing so frequent at
                     the watring-places. But <persName>Columella</persName> thinketh the use thereof
                     to be more generall, <quote>
-                        <foreign xml:lang="la">Sine qua neque, favi, neque, mella, nec pulli deniq
+                        <foreign xml:lang="la">Sine qua neque favi, neque mella, nec pulli denique
                             figurari queunt.</foreign>
                         <note type="authorial" subtype="bibliographic" xml:id="ch6bibln47">
                             <bibl>De re rust. l.9.c.5.</bibl>
@@ -10795,10 +10783,10 @@
                     may dry themselves againe, and so escape. <quote>
                         <lg xml:lang="la">
                             <l>In medium seu stabis iners, seu profluet humor,</l>
-                            <l>Transversas salices &amp; grandia conijce saxa.</l>
+                            <l>Transversas salices &amp; grandia conice saxa.</l>
                             <l>Pontibus ut crebris possint consistere, &amp; alas</l>
-                            <l>Pandere ad aestiniuum solem, si forte morantes</l>
-                            <l>Sparserit, aut praecerps Neptuno immerserit Eurus.</l>
+                            <l>Pandere ad aestivum solem, si forte morantes</l>
+                            <l>Sparserit, aut praeceps Neptuno immerserit Eurus.</l>
                         </lg>
                         <note type="authorial" subtype="bibliographic" xml:id="ch6bibln49">
                             <bibl>Virg. Geor.</bibl>
@@ -11133,11 +11121,11 @@
                                     pulverem laterculis superimpositum juxta murium cava, &amp; in
                                     locis <fw type="catch"> ab</fw>
                                     <pb n="Q1r"/>
-                                    <fw type="header"> Of the Bees Enemies. </fw> ab iisdem
+                                    <fw type="header"> Of the Bees Enemies. </fw> ab ijsdem
                                     frequentatis (7.caeteris amotis esculentis) dispone. Sed nocte
                                     primâ simplicem expone farinam: cui voratae farinam saccharatam
-                                    substituas secunda: tertiâ triplex hic puluis succedat: qui jam
-                                    audances satis &amp; nihil suspicaxtes, duarum vel trium spatio
+                                    substituas secundâ: tertiâ triplex hic pulvis succedat: qui jam
+                                    audaces satis &amp; nihil suspicantes, duarum vel trium spatio
                                     noctium, &amp; mures &amp; sorices pariter, aedes tuas
                                     infestantes una omnes perdet. Si verò adversus luxuriantes
                                     sorices certius velis remedium; cum pertritae arsenicae drachma
@@ -11161,8 +11149,8 @@
                                         <item>6. Quantitas nucis avellanae singulis sufficit
                                             laterculis.</item>
                                         <item>7. Nam si alia suppetant cibaria, fucatas escas
-                                            devitant: nec ubi fraus semel subolverit, ullis postea
-                                            decipulis facile decipientur.</item>
+                                            devitant: nec ubi fraus semel suboluerit, ullis postea
+                                            decipulis facilè decipientur.</item>
                                     </list></lem>
                                 <rdg wit="#b1609"/>
                             </app></foreign>
@@ -11225,7 +11213,7 @@
                         <note type="authorial" subtype="bibliographic" xml:id="ch7biblnX5">
                             <bibl>Virg.</bibl>
                         </note>
-                        <foreign xml:lang="la">--- Absint meropesq aliaeq volucres <lb/> Et manibus
+                        <foreign xml:lang="la">--- Absint meropesque aliaeque volucres <lb/> Et manibus
                             Progne pectus signata cruentis.</foreign>
                     </quote></p>
                 <p xml:id="ch7par16"><note type="authorial" subtype="summary" xml:id="ch7sumn8">8.
@@ -11248,7 +11236,7 @@
                         <note type="authorial" subtype="bibliographic" xml:id="ch7bibln6">
                             <bibl> His.l.9.c.40.</bibl>
                         </note>
-                        <foreign xml:lang="la">Inferunt injuriam apibus maxime vespae, &amp;
+                        <foreign xml:lang="la">Inferunt injuriam apibus maximè vespae, &amp;
                             aviculae quas paros vocant, atque etiam hirundo, &amp; merops qui
                             apiaster est. Quamobrem apiarii vesparum latibula &amp; hirundinum ac
                             meropum nidos propinquos alveis tollunt.</foreign>
@@ -11514,7 +11502,7 @@
                     an other way. <quote>
                         <foreign xml:lang="la"> Impugnantur <hi rend="opposite">(saith he)</hi> Apes
                             à vespis: quamobrem Apiarii eas venantur constitutâ ollâ, &amp; carne in
-                            ca positâ. Ubi enim multae ad carnem accesserint, apposito operculo
+                            ea positâ. Ubi enim multae ad carnem accesserint, apposito operculo
                             super ignem ollam ponunt.</foreign>
                         <bibl><ptr target="#ch7biblnX12"/></bibl></quote> You may also use other
                     meanes to kil them your selfe. How to helpe and defend your Bees against them,
@@ -11591,7 +11579,7 @@
                                 <lem wit="#b1623"/>
                                 <rdg wit="#b1609"><ptr
                                         target="1609.xml#ch7ancs24 1609.xml#ch7ance24"/></rdg>
-                            </app>Aranei quoq vel maximè hostiles: cum praevalvere ut intexant,
+                            </app>Aranei quoq vel maximè hostiles: cum praevaluere ut intexant,
                             enecant alveos. </foreign>
                     </quote></p>
                 <p xml:id="ch7par32"><note type="authorial" subtype="summary" xml:id="ch7sumn23">23.
@@ -11615,13 +11603,13 @@
                     <quote><note type="authorial" subtype="bibliographic" xml:id="ch7bibln16">
                             <bibl>Nat.Hist.l.11.c.18.</bibl>
                         </note>
-                        <foreign xml:lang="la"><hi rend="opposite">Item</hi> insidiantur aquantibus
+                        <foreign xml:lang="la"><hi rend="opposite">Item</hi> Insidiantur aquantibus
                             Ranae: quae maxima earum est operatio, tum cum sobolem faciunt. <ref
                                 target="#ch7bibln17">v.</ref>
                             <note type="authorial" subtype="bibliographic" xml:id="ch7bibln17">
                                 <ref target="#ch6sumn51"> V.c.6.n.51.</ref>
                             </note> Nec hae tantum quae stagna rivosque obsident, verum &amp;
-                            rubetae veniunt ultro, adrepentesq foribus per eas sufflant: ad hoc
+                            rubetae veniunt ultro, adrepentesque foribus per eas sufflant: ad hoc
                             provolant, confestimque abripiuntur.</foreign>
                     </quote></p>
                 <lb/>
@@ -11728,8 +11716,8 @@
                     </note> stocks, which have not sufficiently provided themselves for winter. Of
                     which opinion was <bibl xml:id="ch7biblnX21"><persName> Plinie</persName></bibl>
                     where hee said. <quote>
-                        <foreign xml:lang="la">Quod si defecerit aliciuis alvei cibus, impetum in
-                            proximas faciunt rapinae proposito</foreign>
+                        <foreign xml:lang="la">Quod si defecerit alicujs alvei cibus, impetum in
+                            proximas faciunt rapinae proposito.</foreign>
                         <bibl><ptr target="ch7biblnX21"/></bibl></quote>. But indeed such are fitter
                     to be robbed, as before is said, than to be robbers. There is no theefe to the
                     rich theefe: who, although he have enough, and more then enough; yet by hooke or
@@ -11781,7 +11769,7 @@
                     shrill and sharpe note, as it were of a Flute.</p>
 
                 <quote>
-                    <foreign xml:lang="la"> ___________________&amp;vox<lb/> Auditur fractos conitus
+                    <foreign xml:lang="la"> ___________________&amp;vox<lb/> Auditur fractos sonitus
                         imitata tubarum. <note type="authorial" subtype="bibliographic"
                             xml:id="ch7bibln22">
                             <bibl>Virg.</bibl>
@@ -11819,7 +11807,7 @@
                         <bibl>Virg.</bibl>
                     </note>
                     <lg xml:lang="la">
-                        <l>Ingentes animos augusto in pectore versant</l>
+                        <l>Ingentes animos augusto in pectore versant,</l>
                         <l>Usque adeo obnixi non cedere, dum gravis aut hos,</l>
                         <l>Aut hos versa fugâ victor dare terga coegit.</l>
                     </lg>
@@ -11859,7 +11847,7 @@
                     burie as far from the Hives as they can beare them. <quote>
                         <lg xml:lang="la">
                             <l>_______Tum corpora luce carentum</l>
-                            <l>Exportant tectis, &amp; tristia funerae ducunt.</l>
+                            <l>Exportant tectis, &amp; tristia funera ducunt.</l>
                         </lg>
                         <note type="authorial" subtype="bibliographic" xml:id="ch7bibln25">
                             <bibl> Virg.Geor. </bibl>
@@ -12157,7 +12145,7 @@
                 <quote>
                     <note type="authorial" subtype="bibliographic" xml:id="ch7bibln33"
                             ><bibl>Nat.hist.l.11.c.19</bibl></note>
-                    <foreign xml:lang="la">Tot hostibus, tot casibus, tam mumificum animal expositum
+                    <foreign xml:lang="la">Tot hostibus, tot casibus, tam munificum animal expositum
                         est.</foreign>
                 </quote>
                 <p xml:id="ch7par70">
@@ -12200,14 +12188,14 @@
                             I will not be bound for the truth of it, for it is no childe of mine:
                             but if any man desire to take it as it is, he shall have it as good
                             cheape as I. <quote>
-                                <foreign xml:lang="la">Cum nocto latro apes S. Medari sub-ripuisset,
+                                <foreign xml:lang="la">Cum noctu latro apes S. Medardi subripuisset,
                                     apes ipsae in sancti viri ultionem, relictis vasis suis, in
-                                    malefactorem illum circumquaque diffugientem acerrima catenus
-                                    instimulatione perfecutae sunt, quosque ad Sanctum, vellet
+                                    malefactorem illum circumquaque diffugientem acerrima eatenus
+                                    instimulatione persecutae sunt, quosque ad Sanctum, vellet
                                     nollet, regrederetur, &amp; ejus provolutus vestigiis
                                     suppliciter pro commisso crimine veniam precaretur. Cui mox ut
                                     Sanctus manum extendit benedictionis; apes, tanquam obedientes,
-                                    ab ejus insecutione cessaverunt, &amp; antiquo Domnini sui
+                                    ab ejus insecutione cessaverunt, &amp; antiquo Domini sui
                                     dominio evidenter sese reddiderunt.</foreign>
                                 <bibl>Laur. Surius in vita S. Medardi.Tom.3.</bibl>
                             </quote> When a Theefe by night had stollen <persName>S.
@@ -12532,8 +12520,8 @@
                             /></rdg>
                     </app>
                     <persName>Aristotle</persName> mentioneth Figs, and all such sweet things. <quote>
-                        <foreign xml:lang="la">Apiarii ficus ac reliqua ad genus dulcia cibum
-                            apponnut.</foreign>
+                        <foreign xml:lang="la">Apiarii ficus ac reliqua id genus dulcia cibum
+                            apponunt.</foreign>
                         <note type="authorial" subtype="bibliographic" xml:id="ch8bibln9">
                             <bibl>Hist.li.9.c.40.</bibl>
                         </note>
@@ -12547,8 +12535,8 @@
                         <note type="authorial" subtype="bibliographic" xml:id="ch8bibln10">
                             <bibl>Nat hist.li.21.c.14.</bibl>
                         </note>
-                        <foreign xml:lang="la">Si cibus deesse censeatur apibus, avas passas
-                            siccasue, sicosque, tusas ad fores earum posuisse conveniet, item lanas
+                        <foreign xml:lang="la">Si cibus deesse censeatur apibus, uvas passas
+                            siccasve, sicosque, tusas ad fores earum posuisse conveniet, item lanas
                             tractas madentes passo aut defruto, aut aqua mulsa.</foreign>
                     </quote> And some of our Country-men have practised to give them Bay-salt,<app
                         type="vocabulary" subtype="del">
@@ -13001,8 +12989,8 @@
                         corrupt the same, <note type="authorial" subtype="summary"
                             xml:id="ch10p1sumn2">2. The best time for killing Bees.</note>
                         <quote>
-                            <foreign xml:lang="la">Pulli &amp; rubra sordes sunt mals saporis, &amp;
-                                succi suo mella corrumpunt.</foreign>
+                            <foreign xml:lang="la">Pulli &amp; rubrae sordes sunt mali saporis, &amp;
+                                succo suo mella corrumpunt.</foreign>
                             <note type="authorial" subtype="bibliographic" xml:id="ch10p1bibln1">
                                 <bibl> Col.l.9.c.15</bibl>
                             </note>
@@ -13310,10 +13298,10 @@
                     <note type="authorial" subtype="gloss" place="inline" xml:id="ch10p1glon5">
                         <foreign xml:lang="la">*Virgiliarum ortus</foreign> after <persName>
                             Columella,</persName>
-                        <bibl>l.9.c.14.</bibl> is the eight and fortieth day from <term>aequinoctium
+                        <bibl>l.9.c.14.</bibl> is the eight and fortieth day from <term>Aequinoctium
                             vernum</term>: after <persName>Var.</persName>: the foure and fortieth:
                         but then you must understand that they accounted the
-                            <term>aequinoctium</term> to bee in the eight degree of
+                            <term>Aequinoctium</term> to bee in the eight degree of
                             <term>Aries:</term> (although <persName> Hipparchus</persName>, as
                             <persName>Columella</persName> saith, had then found it to be the first)
                         With us the Cosmicall rising of <term> Vergiliae</term> or
@@ -13349,8 +13337,8 @@
                         Bee-master, saith, <quote>
                             <foreign xml:lang="la">Cum favos apiarii eximunt, cibi tantum
                                 relinquant, quantum per hymem sufficiat: quod si satis sit, servatur
-                                examen; sin minus, vel moritur ibidem, (sine discedat hyems obstet)
-                                vel de serit sedem, si serenum nanciscitur.</foreign>
+                                examen; sin minus, vel moritur ibidem, (si ne discedat hyems obstet)
+                                vel deserit sedem, si serenum nanciscitur.</foreign>
                             <note type="authorial" subtype="bibliographic" xml:id="ch10p1bibln16X3">
                                 <bibl> Hist.an.l.9.c.40.</bibl>
                             </note></quote>
@@ -13441,14 +13429,14 @@
                         pure; then onely slice the purer part of the Combes, being yet warme with
                         the temperate heat of the Bees, and so let the pure Live-honie runne through
                         a cleane Clen-sieve. For, <quote><foreign xml:lang="la">In omni melle quod
-                                per se fluit (ut mustum oleumque) appellaturque acaeton, maxime
+                                per se fluit (ut mustum oleumque) appellaturque acoeton, maxime
                                 laudabile est.</foreign> . <note type="authorial"
                                 subtype="bibliographic" xml:id="ch10p2bibln2">
                                 <bibl>Nat. hist.l.II.c.15.</bibl>
                             </note></quote> Of all Honie that which runneth of it selfe, (as new
                         Wine and Oile) and is called <ref target="#ch10p2glon2"
-                            >*</ref><term>Acœton</term> is most commendable. </p>
-                    <p xml:id="ch10p2par7">This <term>Acœton</term> or finest <term>Nectar</term>,
+                            >*</ref><term>Acoeton</term> is most commendable. </p>
+                    <p xml:id="ch10p2par7">This <term>Acoeton</term> or finest <term>Nectar</term>,
                         for his incorrupted puritie, is called Virgin-Honie. <quote>
                             <foreign xml:lang="la">Quod è favis sponte primum de fluit, virgineum
                                 mel vulgo appellatur.</foreign>
@@ -13472,7 +13460,7 @@
                         Virgin-honie, rather to be called the finest ordinary. <ref
                             target="#ch6sumn30"> v.c.6.n.30. </ref></p>
                     <note type="authorial" subtype="gloss" place="inline" xml:id="ch10p2glon2"
-                            >*<term> Acœton</term> without drosse or dregges. For <note
+                            >*<term> Acoeton</term> without drosse or dregges. For <note
                             type="editorial" subtype="certainty" cert="check" xml:id="check9">
                             <fw type="sig">Greek</fw>
                         </note> doth properly signifie <term>Cubilo</term> a Bed, and is here used
@@ -13565,7 +13553,7 @@
                         not worke well without the heat of the fire. The best way is to put it into
                         an oven after the batch is forth, but not before you can abide to hold your
                         hand upon the bottom, for feare of over-heating the Honie. The next way is
-                        to stirre it in <term>Balneo Maria</term>, <ref target="#ch10p2bibln12"
+                        to stirre it in <term>Balneo Mariae</term>, <ref target="#ch10p2bibln12"
                             >v:</ref>
                         <note type="authorial" subtype="bibliographic" xml:id="ch10p2bibln12">
                             <ref target="#ch3sumn7"> V.p.3.n.7. </ref>
@@ -13604,9 +13592,9 @@
                         fingers end, in falling it will not part, but hang together like a long
                         string, as that useth to doe which is clarified. And such doth
                             <persName>Jacobus Sylvius</persName> describe the best honie, <quote>
-                            <foreign xml:lang="la">Meloptimum sit purum adeo ut totum per luceat,
-                                odorum, flavum, acerrimum, dulcissimumque gustanti &amp;
-                                jucundissimum, consistentia nec crassa nec liquida, sed tam sibi
+                            <foreign xml:lang="la">Meloptimum sit purum adeo ut totum perluceat,
+                                odorum, flavum, acerrimum, dulcissimumque gustanti, &amp;
+                                jucundissimum, consistentiâ nec crassa nec liquida, sed tam sibi
                                 cohaerens ut continuitatem suam, quasi linea longissima, non
                                 intercisum servet, si digito attollitur: idem coquendo paucam spumam
                                 emittit.</foreign>
@@ -13616,10 +13604,10 @@
                         </quote> And <persName> Guil.Plantius.</persName>
                         <quote>
                             <foreign xml:lang="la">Mel probum est quod inter crassissimum &amp;
-                                tennissimum, sit mediocre, sapore dulcissimum, &amp; acerimum,
+                                tenuissimum, sit mediocre, sapore dulcissimum, &amp; acerrimum,
                                 simulque dulcedinis sensum inferens &amp; vellicatu pungens linguam,
                                 colore pallidum aut subrutulum, &amp; pellucidum, odoratissimum
-                                &amp; recentissimum; quodque sublatum non facile ob sequacem
+                                &amp; recentissimum, quodque sublatum non facilè ob sequacem
                                 lentorem abrumpatur, pondere grave, &amp; inter coquendum spumae
                                 parum emittens.</foreign>
                             <bibl>In Fern. l.7.de Oxymel. </bibl>
@@ -13645,11 +13633,11 @@
                         </note> into a thicke softnesse, and bright yelow colour. </p>
                     <note type="authorial" subtype="gloss" place="inline" xml:id="ch10p2glon3">*<quote>
                             <foreign xml:lang="la">Quin Hispani &amp; Narbonenses mittunt albissimum
-                                &amp; longe praestantissimum, idemque; praedurum.</foreign>
+                                &amp; longe praestantissimum, idemque praedurum.</foreign>
                             <bibl>Sylv.l.I.med.</bibl>
                         </quote></note>
                     <note type="authorial" subtype="gloss" place="inline" xml:id="ch10p2glon4">†<quote>
-                            <foreign xml:lang="la">Nec Attico aut Hyblaes inferius, cum regionis
+                            <foreign xml:lang="la">Nec Attico aut Hyblaeo inferius, cum regionis
                                 temperatura, &amp; thymi larga luxuries utrobique
                                 consentiant.</foreign>
                             <bibl>Idem.l.2.</bibl>
@@ -13686,7 +13674,7 @@
                                     target="#ch10p2glon6">*</ref>
                                 <note type="authorial" subtype="gloss" xml:id="ch10p2glon6">*
                                         <foreign xml:lang="la">Ceu potius decima.</foreign></note>
-                                nonâ, Mel vero gravius Vino parte dimidia; quaeounque mensura capit
+                                nonâ, Mel verò gravius Vino parte dimidiâ; quaecunque mensura capit
                                 Mellis uncias quindecim, capit Vini uncias decem, &amp; Olei
                                 novem.</foreign>
                             <bibl>Fern.Meth.l.4.c.6.</bibl>
@@ -13970,7 +13958,7 @@
                                 <bibl>Silv.de med.simpl.delectu.lib.1</bibl>
                             </note>
                             <foreign xml:lang="la">Cera sit flavissima, odorata, pinguis, coacta,
-                                levis, pura, &amp; alienâ omni materia carens.</foreign>
+                                levis, pura, &amp; alienâ omni materiâ carens.</foreign>
                         </quote></p>
                     <!--
                     connect these spans with the main text -->
@@ -14053,70 +14041,70 @@
                     <!--
                     connect these spans with the main text -->
                     <note type="authorial" subtype="gloss" xml:id="ch10p3glon1" place="inline">(1)
-                        Galen de simpl.med.facult.lib.7.(2) tenvium partium. Simeon. Seth. (3)
+                        Galen de simpl. med. facult. lib.7.(2) tenuium partium. Simeon. Seth. (3)
                         facile distribuitur. Matthias de Lobel. (4) detergendi vim. Galen &amp;
                         Seth. (5) Lobel. (6) Wikerus &amp; Freitagius. (7) Seth &amp; Freitag: &amp;
                         Plantius in Fernelium de syrupis. (8) Seth. (9.) Seth. &amp; Pictorius: (10)
-                        (11) Lobel. (12)(13) Freitagius. (14) calorem nativum suscitat &amp; tuctur,
-                        &amp; longam prorogat senectam. Plant.loco-supra citato. <fw type="catch">
+                        (11) Lobel. (12)(13) Freitagius. (14) calorem nativum suscitat &amp; tuetur,
+                        &amp; longam prorogat senectam. Plant. loco supra citato. <fw type="catch">
                             Exempla</fw>
                         <pb n="X4v"/>
-                        <fw type="header"> Of the fruit and profit of Bees. </fw> Exampla citat
-                            <persName>Franciscus Valeriola</persName>
+                        <fw type="header"> Of the fruit and profit of Bees. </fw> Exempla citat
+                            <persName><hi rend="opposite">Franciscus Valeriola</hi></persName>
                         <bibl>Medicus locorum com.lib.3.cap.13.</bibl>
                         <foreign xml:lang="la">Antiochus Medicus, &amp; Telephus Grammaticus annosi
                             senes Attico melle ex pane alicâve excepto plurimum utebantur. Quos
-                            Galenus l.5 de Sanit.tuendà ceu exempla vitae senum, quibus esset optimâ
+                            Galenus l.5 de Sanit. tuendâ ceu exempla vitae senum, quibus esset optimâ
                             victus ratione illaesa senecta, proponit. Melle itaque senibus plurimum
                             utendum consulo, si modo suae ipsorum valetudinis rationem habere
                             velint.</foreign>
                         <bibl> Et.l.3,c.19.</bibl>
                         <foreign xml:lang="la">Melli vim proferendae vitae, senectaque longaevae
-                            agendae, authores affirmant: Democritus Philosophus, qui melle oblecta.
-                            tui assiduè, in annum centesimum nonumque; fati diem distilit,
+                            agendae, authores affirmant: Democritus Philosophus, qui melle
+                            oblectatus assiduè, in annum centesimum nonumque; fati diem distulit,
                             interrogatus, ut scribit Athenaeus, quomodo quispiam sanus vivere
                             possit. Si exteriora oleo, inquit interiora melle irriget. Erat etiam
-                            Pythagoricorum cibus panis cum melle, Aristoxenus eos sine morbo vivere
+                            Pythagoricorum cibus panis cum melle. Aristoxenus eos sine morbo vivere
                             posse asserit, qui ea semper iis prandiis comedant. Licus multum Cyrnios
                             vivere scribit, quia, apud Sardonem habitantes, melle semper vescuntur.
                             Nec immeritò, quum alimentum sic familiare, &amp; naturae amicum,
-                            dulcedine quam possidet jucundum: obstructiones in super eximat,
-                            infarctuque liberet, ventrem molliat, corporis habitum calefaciat,
-                            urinam cleat, thoracem pulonesque: juvet, tonsillis &amp; uvae medeatur.
+                            dulcedine quam possidet jucundum: obstructiones insuper eximat,
+                            infarctaque liberet, ventrem molliat, corporis habitum calefaciat,
+                            urinam cieat, thoracem pulonesque: iuvet, tonsillis &amp; uvae medeatur.
                             Quae cum tanta possit, vel Dioscoridis &amp; Galeni testimonio haud
                             immerito producendae aetati vitaeque prorogandae idoneum esse
                             medicamentum asserimus.</foreign> (15) Seth &amp;
                             <persName>Plin.</persName>
                         <bibl>hist.l.7.c.3.</bibl>(16.) <persName> Pictorius</persName> (17.)
                             <persName>Claudius Caesar</persName> scribit hippocentaurum in Thessalia
-                        natum eo dem die interijsse. Et nos principatu illius allatum illi ex
-                        aegypto in melle vidimus. <bibl>Pl.hist.l.7.c.3</bibl>
+                        natum eo dem die interiisse. Et nos principatu illius allatum illi ex
+                        Aegypto in melle vidimus. <bibl>Pl.hist.l.7.c.3</bibl>
                         <bibl xml:id="ch10p3bibln2X1">(18)</bibl>
-                        <foreign xml:lang="la">Mel calidum siccumque ordine secundo aperit putredini
+                        <foreign xml:lang="la">Mel calidum siccumque ordine secundo aperit, putredini
                             obsistit, siccat, deterget, expurgatque meatus &amp; ulcera.</foreign>
-                        <bibl>Fern.Method.lib.6,c.12.</bibl> Item, <foreign xml:lang="la">Mel &amp;
+                        <bibl>Fern. Method. lib.6,c.12.</bibl> Item, <foreign xml:lang="la">Mel &amp;
                             saccharum potionibus admista vires naturales in morbis sopitas &amp;
                             languentes exuscitant &amp; erigunt: nativumque calorem qui solus morbos
                             concoquit &amp; mitificat, recreant: crassaque extenuando, viscosa
                             extergendo, &amp; obstructa expediendo purgationes quam facillimas
                             praestant.</foreign>
                         <bibl>Plantius in Fern. de Syrupis.</bibl> Item, <foreign xml:lang="la">Mel
-                            abstergendi vin habet, ora vasorum aperit, humores evocat, qua ratione
+                            abstergendi vim habet, ora vasorum aperit, humores evocat, qua ratione
                             in sordida ulcera sinusque commodè infunditur, decoctum atque impositum
                             abscendentem carnem glutinat, medetur lichenibus, impetigini coctum cum
                             liquido alumine &amp; illitum.</foreign> Item <foreign xml:lang="la"
                             >aurium sonitui &amp; dolori cum fossili sale trito tepidum instillatur:
-                            lendes &amp; fœda capitis animalia illitum necat, oculorum caliginem
-                            discuit, faucibus, tonsillis, anginae collutum gargariz atumque medetur,
+                            lendes &amp; foeda capitis animalia illitum necat, oculorum caliginem
+                            discutit, faucibus, tonsillis, anginae collutum gargarizatumque medetur,
                             urinam ciet, auxiliatur tussi; contra haustum meconium cum rosaceo
                             callidum assumitur, adversus venena fungorum &amp; rabiosi canis morsus
                             linctum aut potum proficit: crudum tamen alvum inflat, tussim lacessit:
                             &amp; ea de re despumato utendum.</foreign>
                         <bibl>Dioscorid. lib.2, cap.101.</bibl>(19)(20)(21)(22)(23)(24)(25)
-                            <persName>Pictorius</persName>.Mellis natura talis est, ut putrescere
-                        corpora non sinat; Faucibus, tonsillis, anginae, omnibusque oris desiderijs
+                            <persName><hi rend="opposite">Pictorius</hi></persName>. Mellis natura talis est, ut putrescere
+                        corpora non sinat; Faucibus, tonsillis, anginae, omnibusque oris desideriis
                         utilissimum, arescentique in febribus
-                            linguae.<bibl>Pl.hist.l.22.c.24.</bibl>
+                            linguae. <bibl>Pl.hist.l.22.c.24.</bibl>
                         (26)Lobel.(27)Pict.(28)Fernel.Method.l.7. </note>
                     <p xml:id="ch10p3par2"><note type="authorial" subtype="summary"
                             xml:id="ch10p3sumn3">3. For whom Hony is the best.</note> Hony is most
@@ -14135,8 +14123,8 @@
                             type="authorial" subtype="summary" xml:id="ch10p3sumn4"> 4. English
                             Hony.</note>
                         <quote>
-                            <foreign xml:lang="la">Minus (saith he) speciosum ac delicatum Anglum:
-                                sed, quibusdam praesertim saltibus &amp; paseuis, ubi lana
+                            <foreign xml:lang="la">Minus <hi rend="opposite">(saith he)</hi> speciosum ac delicatum Anglum:
+                                sed, quibusdam praesertim saltibus &amp; pascuis, ubi lana
                                 commendatior, <ref target="#ch10p3bibln4">v.</ref>
                                 <note type="authorial" subtype="bibliographic" xml:id="ch10p3bibln4">
                                     <ref target="#ch10p2sumn2"> V.p.2.n.11. </ref>
@@ -14201,7 +14189,7 @@
                         therefore be sure to take it off in time. </note>
                     <note type="authorial" subtype="gloss" place="inline" xml:id="ch10p3glon5">†i. a
                         vessell set in a vessell of boiling water, called, <term>Balneum
-                            Maria</term> which is best. </note>
+                            Mariae</term> which is best. </note>
                     <p xml:id="ch10p3par6"><note type="authorial" subtype="bibliographic"
                             xml:id="ch10p3bibln5">
                             <bibl>V.Fernel.l.4.c.15.</bibl>
@@ -14399,7 +14387,7 @@
                         </quote> Item, <quote>
                             <foreign xml:lang="la"><hi rend="opposite">Est &amp; quoddam mellis
                                     concreti genus quod Saccharum nominant: quodque in India &amp;
-                                    fœlici Arabia in arundi nibus reperitur.</hi> Saccharum est mel
+                                    faelici Arabia in arundinibus reperitur.</hi> Saccharum est mel
                                 in arundinibus collectum.</foreign>
                             <bibl>Plin.l. 42.c.8.</bibl>
                         </quote>
@@ -14444,7 +14432,7 @@
                         digest, and to resist putrefaction. <note type="authorial" subtype="summary"
                             xml:id="ch10p3sumn19"> 19. A salve for an old sore.</note> And therefore
                         it hath the predominance in that excellent Salve called <ref
-                            target="#ch10p3glon15">†</ref><term>Unguentum aegyptiacum:</term> which
+                            target="#ch10p3glon15">†</ref><term>Unguentum Aegyptiacum:</term> which
                         serveth to cleanse and mundifie old sores, and to take away both dead and
                         proud flesh. The receipt whereof is this. Of Verdegrece five ounces, of
                         strong Vineger seven ounces, and of Honie foureteene. boile first the Honie
@@ -14455,13 +14443,13 @@
                         <fw type="header"> Of the fruit and profit of Bees. </fw> together, let them
                         boile until the Ointment have his just thicknesse and Purple colour. </p>
                     <note type="authorial" subtype="gloss" place="inline" xml:id="ch10p3glon14">*<quote>
-                            <foreign xml:lang="la">Mel panaciae &amp; alijs quibusdam emplastris
+                            <foreign xml:lang="la">Mel panaciae &amp; aliis quibusdam emplastris
                                 miscetur, ut corpus praebeat emplasticum, &amp; praeterea siccet,
                                 tergeat, digerat, à putredine vindicet. </foreign>
                             <bibl> Sylv. de med.simpl.mist.l.3. </bibl>
                         </quote><quote>
-                            <foreign xml:lang="la">Mel calidum siccum que ordine secundo aperit,
-                                putredini, obsistit, siccat, deterget, expurgatque meatus &amp;
+                            <foreign xml:lang="la">Mel calidum siccumque ordine secundo aperit,
+                                putredini obsistit, siccat, deterget, expurgatque meatus &amp;
                                 ulcera; nec ut sal, corporum substantiam coarctat.</foreign>
                             <bibl> Fern.Meth.l.6.c.12. </bibl>
                         </quote></note>
@@ -14548,9 +14536,7 @@
                             Whence Meth and Methaeglen have their name. </note></p>
                     <note type="authorial" subtype="gloss" place="inline" xml:id="ch10p3glon17"
                             >*<term> Hydromel</term> borealibus, quibus vineta desunt, pro vino est.
-                        Ideoque Cambris à <note type="editorial" subtype="certainty" cert="check"
-                            xml:id="check11">Greek</note>
-                        <term> Meth</term> dicitur. Pro qua voce Germani (quibus Teutonico idiomate
+                        Ideoque Cambris à μέθυ <term> Meth</term> dicitur. Pro qua voce Germani (quibus Teutonico idiomate
                         solenne est <foreign xml:lang="de">D</foreign> pro <foreign xml:lang="de"
                             >Th</foreign> usurpare, ut in <foreign xml:lang="de"><emph> De, Dis,
                                 Dat, Dunder;</emph></foreign> pro <emph>The, This, That,
@@ -14558,23 +14544,21 @@
                         oriundi, corrupte dicunt <term> Mede.</term> Medonis plurimum bibunt Poloni
                         &amp; Lituani, quod Melle abundent, inquit Andreas Matthiolus. <term>
                             Methaeglen</term> vero, quod <term>Hydromel</term> est praestantius, à
-                            <note type="editorial" subtype="certainty" cert="check" xml:id="check10"
-                            > Greek</note> sive contractè <note type="editorial" subtype="certainty"
-                            cert="check" xml:id="check12">Greek</note>, id est, vinum splendidum
+                        μέθυ αἰγλήεν sive contractè αἰγλῆν, id est, vinum splendidum
                         denominatur: quòd (modò vetus sit &amp; rite confectum) non minus colore
                         succino, quam sapore &amp; virtute prae vinis vinaceis splendeat. De hoc
-                        Mercator in <placeName>Transylvania</placeName>. <q>Ex melle incolae
+                        Mercator in <placeName><hi rend="opposite">Transylvania</hi></placeName>. <q>Ex melle incolae
                             delicatum potum conficiunt: qui etiam rerum peritis, vinum Creticum ceu
                             Malvaticum opinantibus, facile imponat.</q> Et Ulysses Aldrovander de
                         mulso. <q>Fit praeterea ex melle potus genus toti nunc Sarmatiae, vicinisque
                             Moscovitis familiare. Unde etiam per totam Europam fere, praecipuè per
                             Germaniam devehitur. Decoquitur multipliciter aromate addito, (Medonem
-                            vocant) tam+ nobile saepe ut lautiorum tantum mensarum sit, &amp;
+                            vocant) tam* nobile saepe ut lautiorum tantum mensarum sit, &amp;
                             primates solum bibant.</q> Item Mercator in <placeName>
                             Bohemia</placeName> de civitate <hi rend="italic"> Egra.</hi> Tota
-                        ornatissima, esta pulcherrima est. Inius pulchris edificiis, civili
+                        ornatissima, tota pulcherrima est. Intus pulchris aedificiis, civili
                         urbanoque populo, magnificis &amp; eximia virtute praestantibus virus
-                        illustris: foris vero amœnissimis ac fœcundissimis hortis &amp; agris
+                        illustris: foris vero amoenissimis ac foecundissimis hortis &amp; agris
                         variisque pomorum ac fructuum generibus luxurians. Claret hodie haec civitas
                         ob Medonem (potionem ex melle) qui nullâ paratur quam in hac civitate
                         excellentior. </note>
@@ -14633,14 +14617,14 @@
                             Pictorius.</bibl>
                         <quote>
                             <foreign xml:lang="la">Cera flava magis emollit, relaxat, dolorem
-                                solvit: eóque ill â utimur ad abscessus calefaciendos, emolliendos,
+                                solvit: eóque illâ utimur ad abscessus calefaciendos, emolliendos,
                                 concoquendos, &amp; maturandos.</foreign>
                             <bibl><persName>Johannes Guintherius Andernacus.</persName></bibl>
                         </quote>
                         <quote>
                             <foreign xml:lang="la">Omnis cera mollit, calefacit, explet corpora:
                                 recens melior. Datur in sorbitione dysentericis, favique ipsi in
-                                pulte alicae prius tostae: adversatur lactis naturae; ac millij
+                                pulte alicae prius tostae: adversatur lactis naturae; ac millii
                                 magnitudine decem grana cerae hausta, non patiuntur coagulari lac in
                                 stomacho. Si inguen tumeat, albam ceram in pube fixisse remedio est.
                                 Nec hujus ulus, quos mixta aliis praestat, enumerare medicina
@@ -14843,7 +14827,7 @@
         <back>
             <trailer>
                 <quote type="trailer-quote"><bibl>PSAL. III.v.2.</bibl><lb/> Magne opera <emph>
-                        JEHOVae</emph>, exquisita ab omnibus qui delectantur in illis.</quote>
+                        JEHOVAE</emph>, exquisita ab omnibus qui delectantur in illis.</quote>
                 <hi rend="finis">FINIS.</hi>
             </trailer>
         </back>
