@@ -5684,8 +5684,8 @@
                             /></rdg>
                     </app>
                 </p>
-                <note xml:id="ch4othern6x" type="authorial" subtype="other"><seg rend="italic"
-                        >Deborah</seg></note>
+                <note xml:id="ch4othern6x" type="authorial" subtype="bibliographic"><bibl><seg rend="italic"
+                        >Deborah</seg></bibl></note>
                 <note type="authorial" subtype="gloss" place="inline" xml:id="ch4glon1"><app
                         type="minor" subtype="change">
                     <lem wit="#b1623">*<foreign xml:lang="la">Hic fucus, ὁ κηφήν: Ac haec apis, ἡ μέλισσα, דבורה, cum ה faeminino
