@@ -4924,10 +4924,10 @@
                             you may let alone and not straighten their entrance till the weather bee
                             colder, for such as are safe enough.)</lem>
                         <rdg wit="#b1609"/>
-                    </app></p>
+                    </app>
 
 
-                <p xml:id="ch3par66">
+                
                     <app type="minor" subtype="add">
                         <lem wit="#b1623">But first view your swarmes whether they fit their
                             Hives:</lem>
@@ -4938,8 +4938,8 @@
                         <rdg wit="#b1609"><ptr target="1609.xml#ch3ancs48 1609/xml#ch3ance48"
                             /></rdg>
                     </app>
-                </p>
-                <p xml:id="ch3par66b">those<app type="minor" subtype="del">
+                
+                those<app type="minor" subtype="del">
                         <lem wit="#b1623"/>
                         <rdg wit="#b1609"><ptr target="1609.xml#ch3ancs49 1609.xml#ch3ance49"
                             /></rdg>
@@ -4947,7 +4947,7 @@
                         type="minor" subtype="add">
                         <lem wit="#b1623">if you meane to keepe them</lem>
                         <rdg wit="#b1609"/>
-                    </app> (to the end they may lye warme the Winter following, and be ready at the
+                    </app><note type="authorial" subtype="bibliographic" xml:id="ch3bibln26x"><ref target="#ch3sumn24">V.n.24</ref></note>(to the end they may lye warme the Winter following, and be ready at the
                     doores to keepe out robbers) <app type="major" subtype="add">
                         <lem wit="#b1623">cut off so much of the skirts as will serve the turne (the
                             bigger the Hive is, the more you may lessen him) and so set him downe,
@@ -4985,7 +4985,7 @@
                 <p xml:id="ch3par67">
                     <note type="authorial" subtype="summary" xml:id="ch3sumn48">48. And keepe them
                         shut til they offer to go abroad.</note> Moreover, because the Waspes and
-                    robbing Bees will be stealing betimes, before the true Bees be stirring; it is
+                    robbing Bees will bee stealing betimes, before the true Bees be stirring; it is
                     good in the evening, when the Bees are all in, to <app type="vocabulary"
                         subtype="change">
                         <lem wit="#b1623">barre up the Wickets of those that are weake, that a Bee
@@ -5052,7 +5052,7 @@
                 <p xml:id="ch3par70">If you see them once fighting, <ref target="#ch3bibln32"
                         >v</ref><note type="authorial" subtype="bibliographic" xml:id="ch3bibln32">
                         <ref target="#ch7sumn45">V.c.7.n.45.</ref>
-                    </note> either presently take them, or make the entrance so narrow, that but one
+                    </note> either presently take them, or make their entrance so narrow, that but one
                     Bee may passe at once: and before <term>Libra</term> bee sure to take them. For
                     though they escape this robbing-time through your care and diligence; yet at the
                     Spring they will surely yeeld, or die of themselves, or flie away. <app
@@ -5096,15 +5096,15 @@
                     <app type="minor" subtype="change">
                         <lem wit="#b1623">and therefore it is good to make triall of them in
                                 <term>Libra</term> also,<note type="authorial" subtype="summary"
-                                xml:id="ch3sumn52">52. LIBRA</note> by poysing and knocking the
+                                xml:id="ch3sumn52">52. <hi rend="opposite">LIBRA</hi></note> by poysing and knocking the
                             Hives;</lem>
                         <rdg wit="#b1609"><ptr target="1609.xml#ch3ancs56 1609.xml#ch3ancs56"
                             /></rdg>
                     </app><app type="major" subtype="add">
                         <lem wit="#b1623"> for as they that then make<ref target="#ch3glon9">*</ref>
-                            a little noise will die for lacke of company; so thet that are light
+                            a little noise will die for lacke of company; so they that are light
                             will die for lack of meat. <note type="authorial" subtype="summary"
-                                xml:id="ch3sumn53">53. Try them again in Libra also.</note> And
+                                xml:id="ch3sumn53">53. Try them againe in Libra also.</note> And
                             alwaies have an eye to those that the Robbers doe eagerly haunt: which
                             is a signe that they perceive in them some defect or other: and
                             therefore will not be answered without their errand.</lem>
@@ -5159,7 +5159,7 @@
                             /></rdg>
                     </app></p>
                 <p xml:id="ch3par74"><note type="authorial" subtype="summary" xml:id="ch3sumn55">55.
-                            <term>SCORPIO</term></note>
+                            <term><hi rend="opposite">SCORPIO</hi></term></note>
                     <note type="authorial" subtype="summary" xml:id="ch3sumn56">56. Continue the
                         shutting and opening of the wickets this moneth also.</note> This shutting
                     &amp; opening of the <app type="vocabulary" subtype="change">
@@ -5168,7 +5168,7 @@
                             /></rdg>
                     </app> must be continued throughout <term> Scorpio</term> also; unlesse
                     abundance of cold raine doe sooner chasten the Waspes. But for the poore stalls,
-                    it is best to keepe them half-shut all the day long, as in <term>Virgo</term>
+                    it is best to keepe them halfe shut all the day long, as in <term>Virgo</term>
                     <app type="minor" subtype="add">
                         <lem wit="#b1623">and <term>Libra.</term></lem>
                         <rdg wit="#b1609"/>
@@ -5200,15 +5200,16 @@
                     </app></p>
                 <p xml:id="ch3par76"><note type="authorial" subtype="summary" xml:id="ch3sumn58">58.
                             <app type="minor" subtype="add">
-                            <lem wit="#b1623"> WINTER.</lem>
+                            <lem wit="#b1623"> <hi rend="opposite">WINTER</hi>.</lem>
                             <rdg wit="#b1609"/>
                         </app></note><note type="authorial" subtype="summary" xml:id="ch3sumn59"
-                            >59.<term>SAGIT</term>.<term>CAPRIC</term>.<term>AQUAR</term>. three
+                            >59.<term><hi rend="opposite">SAGIT</hi></term>.<term><hi rend="opposite">CAPRIC</hi></term>.<term>
+                            <hi rend="opposite">AQUAR</hi></term>. <hi rend="opposite">three</hi>
                                 <term><app type="vocabulary" subtype="change">
                                 <lem wit="#b1623">still</lem>
                                 <rdg wit="#b1609"><ptr
                                         target="1609.xml#ch3ancs62 1609.xml#ch3ance62"/></rdg>
-                            </app></term> moneths.</note>
+                            </app></term> <hi rend="opposite">moneths</hi>.</note>
                     <app type="minor" subtype="change">
                         <lem wit="#b1623">After Autumne, the Sunne drawing neere the Winter
                             Tropicke, with a short and low course above our <term> Horison,</term>
@@ -5248,7 +5249,7 @@
                         <rdg wit="#b1609"/>
                     </app> drinke, exercise their wings, carry out their dead and other
                     noysomenesse, and lighten their little bellies, which are oft times so stuffed,
-                    when the wether suffreth them not to <app type="vocabulary" subtype="change">
+                    when the weather suffreth them not to <app type="vocabulary" subtype="change">
                         <lem wit="#b1623">goe</lem>
                         <rdg wit="#b1609"><ptr target="1609.xml#ch3ancs63xx 1609.xml#ch3ance63xx"
                             /></rdg>
@@ -5314,7 +5315,7 @@
                     <note type="authorial" subtype="bibliographic" xml:id="ch3bibln35">
                         <ref target="#ch3sumn59"> V.n. 59.</ref>&amp;<ref target="#ch1sumn59"
                             >c.1.n.59.</ref>
-                    </note> and to refresh <fw type="sig">them-</fw>
+                    </note> and to refresh <fw type="catch">them-</fw>
                     <pb n="G4r"/>
                     <fw type="header"> and the Dressing of them. </fw> themselves:<app type="minor"
                         subtype="del">
