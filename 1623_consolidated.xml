@@ -6485,21 +6485,19 @@
                             <rdg wit="#b1609" />
                         </app></note>
                     <app type="major" subtype="change">
-                        <lem wit="#b1623"><ref xml:id="ch5ednatt53" type="attachment" target="#ch5ednote53">This song being contained within the compasse
-                                of an <term>Eight</term> from <term> C-sol-fa-ut</term> to
-                                    <term>C-sol-fa</term></ref>,
-                            <note xml:id="ch5ednote53" type="editorial" subtype="gloss" resp="#MW #BW" source="context"><figure>
-                                    <graphic url="media/images/1_compass_of_an_8.png">
-                                        <figDesc>By compass is meant range, in this case the span of
-                                            notes between modern middle C and the note C an octave
-                                            higher.</figDesc>
-                                    </graphic>
-                                </figure><media mimeType="audio/mp3" url="media/sound/1_compass_of_an_8.mp3">
-                                    <desc>In the audio example the lower C is held to illustrate the
-                                        perfect consonance of the octave when the upper C is
-                                        reached.</desc>
-                                </media>An octave, from middle C to the C above (or c&#8217; and c&#8221; in
-                                Helmholtz pitch notation). </note>
+                        <lem wit="#b1623"><ref xml:id="ch5ednatt53" type="attachment" target="#ch5ednote53">This song being contained within the <ref target="#ch5ednote53BH">compasse
+                                of an <term>Eight</term> from 
+                                    <term> C-sol-fa-ut</term> to
+                                    <term>C-sol-fa</term></ref></ref>,
+                            <note xml:id="ch5ednote53" type="editorial" subtype="gloss" resp="#MW" source="context"> An octave, from middle C to the C above (or c&#8217; and
+                                c&#8221; in Helmholtz pitch notation). </note>
+                            <note xml:id="ch5ednote53BH" type="editorial" subtype="gloss" resp="#BH" source="context"><figure>
+                                    <graphic url="media/images/1_compass_of_an_8.png"> </graphic>
+                                </figure><media mimeType="audio/mp3" url="media/sound/1_compass_of_an_8.mp3"> </media>By compass is
+                                meant range, in this case the span of notes between modern middle C
+                                and the note C an octave higher. In the audio example the lower C is
+                                held to illustrate the perfect consonance of the octave when the
+                                upper C is reached.</note>
                             <ref xml:id="ch5ednatt54" type="attachment" target="#ch5ednote54"><seg rend="italic">t</seg><seg rend="italic">h</seg><seg rend="italic">e</seg><seg rend="italic">
 </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic">P</seg><seg rend="italic">r</seg><seg rend="italic">i</seg><seg rend="italic">n</seg><seg rend="italic">c</seg><seg rend="italic">e</seg><seg rend="italic"> </seg><seg rend="italic">c</seg><seg rend="italic">o</seg><seg rend="italic">m</seg><seg rend="italic">p</seg><seg rend="italic">o</seg><seg rend="italic">s</seg><seg rend="italic">e</seg><seg rend="italic">t</seg><seg rend="italic">h</seg><seg rend="italic"> </seg><seg rend="italic">h</seg><seg rend="italic">i</seg><seg rend="italic">r</seg><seg rend="italic"> </seg><seg rend="italic">p</seg><seg rend="italic">a</seg><seg rend="italic">r</seg><seg rend="italic">t</seg></ref><note xml:id="ch5ednote54" type="editorial" subtype="gloss" resp="#MW" source="context">Butler
                                 assigns this role to the uppermost, Mean, part in
