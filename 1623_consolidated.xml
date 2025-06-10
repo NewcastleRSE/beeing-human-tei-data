@@ -6502,9 +6502,18 @@
                                 assigns this role to the uppermost, Mean, part in
                                 Melissomelos.</note>
                             <ref xml:id="ch5ednatt55" type="attachment" target="#ch5ednote55">within
-                                the foure upper Cliefes <term>G</term>, <term>A</term>,
+                                the <anchor corresp="#ch5ednatt55BH" xml:id="anchorStartch5ednatt55BH" type="attachmentEditorialNote" subtype="start" /><seg type="fragmentedNoteAttachement" corresp="#ch5ednatt55BH" part="I">foure upper Cliefes
+                                </seg><anchor corresp="#ch5ednatt55BH" xml:id="anchorEndch5ednatt55BH" type="attachmentEditorialNote" subtype="end" /> <term>G</term>, <term>A</term>,
                                     <term>B,</term> and <term>C</term></ref><note xml:id="ch5ednote55" type="editorial" subtype="gloss" resp="#MW" source="Butler crossref">&#8216;Here, &#8216;Cliefes&#8217; means the notes g&#8217;, a&#8221;, b&#8221;
                                 and c&#8221; (Butler, Principles of Musick, 1636).</note>
+                            <note xml:id="ch5ednatt55BH" type="editorial" subtype="gloss" corresp="#anchorStartch5ednatt55BH #anchorEndch5ednatt55BH" resp="#BH">
+                                <figure>
+                                    <graphic url="media/images/2_4_upper_cliefes.png" />
+                                </figure>
+                                <media url="media/sound/2_4_upper_cliefes.mp3" mimeType="audio/mp3" /> This indicates the notes <term>g'</term>, <term>a''</term>, <term>b''</term> and 
+                                <term>c''</term> (on the
+                                terminological relationship of 'cliffe' or 'cliefe' and 'note' see
+                                Morley, <title>PEIPM</title> pp. 3-4<seg rend='roman'>;</seg> Butler 1636, pp. 12-14). </note>
                             <ref xml:id="ch5ednatt56" type="attachment" target="#ch5ednote56"><seg rend="italic">u</seg><seg rend="italic">s</seg><seg rend="italic">u</seg><seg rend="italic">a</seg><seg rend="italic">l</seg><seg rend="italic">l</seg><seg rend="italic">y</seg><seg rend="italic"> </seg><seg rend="italic">i</seg><seg rend="italic">n</seg><seg rend="italic"> </seg><seg rend="italic">t</seg><seg rend="italic">r</seg><seg rend="italic">i</seg><seg rend="italic">p</seg><seg rend="italic">l</seg><seg rend="italic">e</seg><seg rend="italic"> </seg><seg rend="italic">m</seg><seg rend="italic">o</seg><seg rend="italic">o</seg><seg rend="italic">d</seg><seg rend="italic">e</seg></ref>,<note xml:id="ch5ednote56" type="editorial" subtype="gloss" resp="#MW" source="context">Butler
                                 uses &#8216;triple moode&#8217; in the sense of our &#8216;compound time&#8217;: i.e., with
                                 beats subdivided into threes rather than twos.</note>

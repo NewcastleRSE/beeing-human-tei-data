@@ -7691,11 +7691,24 @@
                                 assigns this role to the uppermost, Mean, part in
                                 Melissomelos.</note>
                             <ref xml:id="ch5ednatt55" type="attachment" target="#ch5ednote55">within
-                                the foure upper Cliefes <term>G</term>, <term>A</term>,
+                                the <anchor corresp="#ch5ednatt55BH" xml:id="anchorStartch5ednatt55BH" type="attachmentEditorialNote" subtype="start"/>foure upper Cliefes
+                                <anchor corresp="#ch5ednatt55BH" xml:id="anchorEndch5ednatt55BH"
+                                    type="attachmentEditorialNote" subtype="end"/> <term>G</term>, <term>A</term>,
                                     <term>B,</term> and <term>C</term></ref><note
                                 xml:id="ch5ednote55" type="editorial" subtype="gloss" resp="#MW"
                                 source="Butler crossref">‘Here, ‘Cliefes’ means the notes g’, a”, b”
                                 and c” (Butler, Principles of Musick, 1636).</note>
+                            <note xml:id="ch5ednatt55BH" type="editorial" subtype="gloss"
+                                corresp="#anchorStartch5ednatt55BH #anchorEndch5ednatt55BH"
+                                resp="#BH">
+                                <figure>
+                                    <graphic url="media/images/2_4_upper_cliefes.png"/>
+                                </figure>
+                                <media url="media/sound/2_4_upper_cliefes.mp3" mimeType="audio/mp3"
+                                /> This indicates the notes <term>g'</term>, <term>a''</term>, <term>b''</term> and 
+                                <term>c''</term> (on the
+                                terminological relationship of 'cliffe' or 'cliefe' and 'note' see
+                                Morley, <title>PEIPM</title> pp. 3-4; Butler 1636, pp. 12-14). </note>
                             <ref xml:id="ch5ednatt56" type="attachment" target="#ch5ednote56"
                                 >usually in triple moode</ref>,<note xml:id="ch5ednote56"
                                 type="editorial" subtype="gloss" resp="#MW" source="context">Butler
