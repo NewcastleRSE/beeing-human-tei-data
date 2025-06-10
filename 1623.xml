@@ -7711,7 +7711,8 @@
                                 >beginning with an odde <term>Minim</term> in <term>
                                     G-sol-re-ut</term></ref>,<note xml:id="ch5ednote57"
                                 type="editorial" subtype="gloss" resp="#MW" source="context"
-                                >Beginning with an upbeat on g”. See Melissomelos, bar 27. </note>
+                                        >Beginning with an upbeat on g”. See 
+                                    <ref target="/music/melissomelos-edition">Melissomelos</ref>, bar 27. </note>
                             and tuning the rest of hir notes, whereof the first is a <term>
                                 Semibriefe</term>, in <term> A-la-mi-re.</term></ref>
                             <note xml:id="ch5ednatt57BH" type="editorial" subtype="gloss" resp="#BH">
@@ -7721,8 +7722,14 @@
                                 <media mimeType="audio/mp3" url="media/sound/3_an_odde_minim.mp3"/>
                                 <q>odde Minim</q> refers to an upbeat or anacrusis on G, rising to A a
                                 tone higher for the rest of the phrase. G-sol-re-ut and A-la-mi-re
-                                refers to the G and the A above middle C respecively </note> Sometime she taketh
-                            a higher key, sounding the odde <term> Minim</term> in
+                                refers to the G and the A above middle C respecively </note> Sometime she <ref target="#ch5ednatt57xBH" type="attachment">taketh
+                                    a higher key,</ref><note xml:id="ch5ednatt57xBH" type="editorial" subtype="gloss" resp="#BH">
+                                        <figure>
+                                            <graphic url="media/images/4_a_higher_key.png"/>
+                                        </figure>
+                                        <media mimeType="audio/mp3" url="media/sound/4_a_higher_key.mp3"/>
+                                        In other words the "same" melody at a higher pitch, starting on A and rising to Bb.
+                                    </note> sounding the odde <term> Minim</term> in
                                 <term>A-la-mi-re</term>, <ref xml:id="ch5ednatt58" type="attachment"
                                 target="#ch5ednote58">and the rest in
                                 <term>B-fa-b-mi.</term></ref><note xml:id="ch5ednote58"
