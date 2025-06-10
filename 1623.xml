@@ -7666,14 +7666,18 @@
                         </app></note>
                     <app type="major" subtype="change">
                         <lem wit="#b1623"><ref xml:id="ch5ednatt53" type="attachment"
-                                target="#ch5ednote53">This song being contained within the 
-                                <ref target="#ch5ednote53BH" type="attachment">compasse of an <term>Eight</term> from
-                                        <term> C-sol-fa-ut</term> to <term>C-sol-fa</term></ref></ref>,
-                            <note xml:id="ch5ednote53" type="editorial" subtype="gloss" resp="#MW"
-                                source="context"> An octave, from middle C to the C above (or c’ and
-                                c” in Helmholtz pitch notation). </note>
+                                target="#ch5ednote53">This song being contained within the <anchor
+                                    xml:id="anchorStartch5ednote53BH" corresp="#ch5ednote53BH"
+                                    type="attachmentEditorialNote" subtype="start"/>compasse of an
+                                    <term>Eight</term> from <term> C-sol-fa-ut</term> to
+                                    <term>C-sol-fa</term><anchor xml:id="anchorEndch5ednote53BH"
+                                    corresp="#ch5ednote53BH" type="attachmentEditorialNote"
+                                    subtype="end"/></ref>, <note xml:id="ch5ednote53"
+                                type="editorial" subtype="gloss" resp="#MW" source="context"> An
+                                octave, from middle C to the C above (or c’ and c” in Helmholtz
+                                pitch notation). </note>
                             <note xml:id="ch5ednote53BH" type="editorial" subtype="gloss" resp="#BH"
-                                source="context"><figure>
+                                source="context" corresp="#anchorStartch5ednote53BH #anchorEndch5ednote53BH"><figure>
                                     <graphic url="media/images/1_compass_of_an_8.png"> </graphic>
                                 </figure><media mimeType="audio/mp3"
                                     url="media/sound/1_compass_of_an_8.mp3"> </media>By compass is
