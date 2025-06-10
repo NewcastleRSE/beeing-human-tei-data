@@ -6502,11 +6502,11 @@
                                 assigns this role to the uppermost, Mean, part in
                                 Melissomelos.</note>
                             <ref xml:id="ch5ednatt55" type="attachment" target="#ch5ednote55">within
-                                the <anchor corresp="#ch5ednatt55BH" xml:id="anchorStartch5ednatt55BH" type="attachmentEditorialNote" subtype="start" /><seg type="fragmentedNoteAttachement" corresp="#ch5ednatt55BH" part="I">foure upper Cliefes
-                                </seg><anchor corresp="#ch5ednatt55BH" xml:id="anchorEndch5ednatt55BH" type="attachmentEditorialNote" subtype="end" /> <term>G</term>, <term>A</term>,
-                                    <term>B,</term> and <term>C</term></ref><note xml:id="ch5ednote55" type="editorial" subtype="gloss" resp="#MW" source="Butler crossref">&#8216;Here, &#8216;Cliefes&#8217; means the notes g&#8217;, a&#8221;, b&#8221;
+                                <ref type="attachment" target="#ch5ednatt55BH"><seg rend="italic">t</seg><seg rend="italic">h</seg><seg rend="italic">e</seg><seg rend="italic"> </seg><seg rend="italic">f</seg><seg rend="italic">o</seg><seg rend="italic">u</seg><seg rend="italic">r</seg><seg rend="italic">e</seg><seg rend="italic"> </seg><seg rend="italic">u</seg><seg rend="italic">p</seg><seg rend="italic">p</seg><seg rend="italic">e</seg><seg rend="italic">r</seg><seg rend="italic"> </seg><seg rend="italic">C</seg><seg rend="italic">l</seg><seg rend="italic">i</seg><seg rend="italic">e</seg><seg rend="italic">f</seg><seg rend="italic">e</seg><seg rend="italic">s</seg></ref> <term>G</term>, <term>A</term>,
+                                    <term>B,</term> and <term>C</term></ref>
+                            <note xml:id="ch5ednote55" type="editorial" subtype="gloss" resp="#MW" source="Butler crossref">&#8216;Here, &#8216;Cliefes&#8217; means the notes g&#8217;, a&#8221;, b&#8221;
                                 and c&#8221; (Butler, Principles of Musick, 1636).</note>
-                            <note xml:id="ch5ednatt55BH" type="editorial" subtype="gloss" corresp="#anchorStartch5ednatt55BH #anchorEndch5ednatt55BH" resp="#BH">
+                            <note xml:id="ch5ednatt55BH" type="editorial" subtype="gloss" resp="#BH">
                                 <figure>
                                     <graphic url="media/images/2_4_upper_cliefes.png" />
                                 </figure>
