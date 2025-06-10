@@ -7666,10 +7666,9 @@
                         </app></note>
                     <app type="major" subtype="change">
                         <lem wit="#b1623"><ref xml:id="ch5ednatt53" type="attachment"
-                                target="#ch5ednote53">This song being contained within the <ref target="#ch5ednote53BH">compasse
-                                of an <term>Eight</term> from 
-                                    <term> C-sol-fa-ut</term> to
-                                    <term>C-sol-fa</term></ref></ref>,
+                                target="#ch5ednote53">This song being contained within the 
+                                <ref target="#ch5ednote53BH" type="attachment">compasse of an <term>Eight</term> from
+                                        <term> C-sol-fa-ut</term> to <term>C-sol-fa</term></ref></ref>,
                             <note xml:id="ch5ednote53" type="editorial" subtype="gloss" resp="#MW"
                                 source="context"> An octave, from middle C to the C above (or c’ and
                                 c” in Helmholtz pitch notation). </note>
