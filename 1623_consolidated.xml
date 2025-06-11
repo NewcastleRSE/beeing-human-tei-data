@@ -6485,7 +6485,7 @@
                             <rdg wit="#b1609" />
                         </app></note>
                     <app type="major" subtype="change">
-                        <lem wit="#b1623"><ref xml:id="ch5ednatt53" type="attachment" target="#ch5ednote53">This song being contained within the <ref target="#ch5ednote53BH" type="attachment">compasse of an
+                        <lem wit="#b1623"><ref xml:id="ch5ednatt53" type="attachment" target="#ch5ednote53">This song being contained within the <ref xml:id="ch5ednatt53BH" target="#ch5ednote53BH" type="attachment">compasse of an
                                     <term>Eight</term></ref> from <term> C-sol-fa-ut</term> to
                                     <term>C-sol-fa</term></ref>, <note xml:id="ch5ednote53" type="editorial" subtype="gloss" resp="#MW" source="context"> An
                                 octave, from middle C to the C above (or c&#8217; and c&#8221; in Helmholtz
@@ -6574,8 +6574,14 @@
                             <rdg wit="#b1609" />
                         </app></note>
                     <app type="major" subtype="change">
-                        <lem wit="#b1623"><ref xml:id="ch5ednatt61" type="attachment" target="#ch5ednote61">The Queenes part, contained within the foure
-                                lower Cliefes, consisteth of <term> Minims</term> altogether in
+                        <lem wit="#b1623"><ref xml:id="ch5ednatt61" type="attachment" target="#ch5ednote61">The Queenes part, contained within the <ref xml:id="ch5ednatt61BH" target="#ch5edn61BH" type="attachment"><seg rend="italic">f</seg><seg rend="italic">o</seg><seg rend="italic">u</seg><seg rend="italic">r</seg><seg rend="italic">e</seg><seg rend="italic">
+</seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic">l</seg><seg rend="italic">o</seg><seg rend="italic">w</seg><seg rend="italic">e</seg><seg rend="italic">r</seg><seg rend="italic"> </seg><seg rend="italic">C</seg><seg rend="italic">l</seg><seg rend="italic">i</seg><seg rend="italic">e</seg><seg rend="italic">f</seg><seg rend="italic">e</seg><seg rend="italic">s</seg></ref><note xml:id="ch5edn61BH" type="editorial" subtype="gloss" resp="#BH">
+                                        <figure>
+                                            <graphic url="media/images/6_foure_lower_Cliefes.png" />
+                                        </figure>
+                                        <media url="media/sound/6_foure_lower_Cliefes.mp3" mimeType="audio/mp3" />
+                                        the four lowest notes of the original <ref target="#ch5ednatt53BH" type="noteCrossRef"><seg rend="italic">"</seg><seg rend="italic">c</seg><seg rend="italic">o</seg><seg rend="italic">m</seg><seg rend="italic">p</seg><seg rend="italic">a</seg><seg rend="italic">s</seg><seg rend="italic">s</seg><seg rend="italic"> </seg><seg rend="italic">o</seg><seg rend="italic">f</seg><seg rend="italic"> </seg><seg rend="italic">a</seg><seg rend="italic">n</seg><seg rend="italic"> </seg><seg rend="italic">E</seg><seg rend="italic">i</seg><seg rend="italic">g</seg><seg rend="italic">h</seg><seg rend="italic">t</seg><seg rend="italic">"</seg><seg rend="italic"> </seg><seg rend="italic">r</seg><seg rend="italic">a</seg><seg rend="italic">n</seg><seg rend="italic">g</seg><seg rend="italic">e</seg><seg rend="italic"> </seg><seg rend="italic">m</seg><seg rend="italic">e</seg><seg rend="italic">n</seg><seg rend="italic">t</seg><seg rend="italic">i</seg><seg rend="italic">o</seg><seg rend="italic">n</seg><seg rend="italic">e</seg><seg rend="italic">d</seg><seg rend="italic"> </seg><seg rend="italic">e</seg><seg rend="italic">a</seg><seg rend="italic">r</seg><seg rend="italic">l</seg><seg rend="italic">i</seg><seg rend="italic">e</seg><seg rend="italic">r</seg></ref>.
+                                    </note>, consisteth of <term> Minims</term> altogether in
                                 triple moode<seg rend='roman'>;</seg> commonly in <term>Fa-fa-ut,</term> sometime in
                                     <term>C-sol-fa-ut,</term> sometime in the other two
                                     <term>Cliefes</term> betweene them</ref>:<note xml:id="ch5ednote61" type="editorial" subtype="gloss" resp="#MW">In

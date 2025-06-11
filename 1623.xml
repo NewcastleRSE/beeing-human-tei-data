@@ -7666,7 +7666,7 @@
                         </app></note>
                     <app type="major" subtype="change">
                         <lem wit="#b1623"><ref xml:id="ch5ednatt53" type="attachment"
-                                target="#ch5ednote53">This song being contained within the <ref target="#ch5ednote53BH" type="attachment">compasse of an
+                                target="#ch5ednote53">This song being contained within the <ref xml:id="ch5ednatt53BH" target="#ch5ednote53BH" type="attachment">compasse of an
                                     <term>Eight</term></ref> from <term> C-sol-fa-ut</term> to
                                     <term>C-sol-fa</term></ref>, <note xml:id="ch5ednote53"
                                 type="editorial" subtype="gloss" resp="#MW" source="context"> An
@@ -7772,8 +7772,14 @@
                         </app></note>
                     <app type="major" subtype="change">
                         <lem wit="#b1623"><ref xml:id="ch5ednatt61" type="attachment"
-                                target="#ch5ednote61">The Queenes part, contained within the foure
-                                lower Cliefes, consisteth of <term> Minims</term> altogether in
+                                target="#ch5ednote61">The Queenes part, contained within the <ref xml:id="ch5ednatt61BH" target="#ch5edn61BH" type="attachment">foure
+                                    lower Cliefes</ref><note xml:id="ch5edn61BH" type="editorial" subtype="gloss" resp="#BH">
+                                        <figure>
+                                            <graphic url="media/images/6_foure_lower_Cliefes.png"/>
+                                        </figure>
+                                        <media url="media/sound/6_foure_lower_Cliefes.mp3" mimeType="audio/mp3"/>
+                                        the four lowest notes of the original <ref target="#ch5ednatt53BH" type="noteCrossRef">"compass of an Eight" range mentioned earlier</ref>.
+                                    </note>, consisteth of <term> Minims</term> altogether in
                                 triple moode; commonly in <term>Fa-fa-ut,</term> sometime in
                                     <term>C-sol-fa-ut,</term> sometime in the other two
                                     <term>Cliefes</term> betweene them</ref>:<note
