@@ -7738,7 +7738,7 @@
                             <ref xml:id="ch5ednatt59" type="attachment" target="#ch5ednote59"
                                 >Sometime, specially toward their comming forth, <ref target="#ch5edn59BH" type="attachment">she riseth yet
                                 higher</ref>
-                                <note type="editorial" subtype="gloss" resp="#BH">
+                                <note xml:id="ch5edn59BH" type="editorial" subtype="gloss" resp="#BH">
                                     <figure>
                                         <graphic url="media/images/5_riseth_yet_higher.png"/>
                                     </figure>
