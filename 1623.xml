@@ -7785,9 +7785,13 @@
                                         <graphic url="media/images/7_the_Queens_part.png"/>
                                     </figure>
                                     <media url="media/sound/7_the_Queens_part.mp3" mimeType="audio/mp3"/>
-                                </note> sometime in
+                                </note> <ref xml:id="ch5ednatt61BHxx" target="#ch5edn61BHxx" type="attachment">sometime in
                                     <term>C-sol-fa-ut,</term> sometime in the other two
-                                    <term>Cliefes</term> betweene them</ref>:<note
+                                    <term>Cliefes</term> betweene them</ref>
+                                <note xml:id="ch5edn61BHxx" type="editorial" subtype="gloss"
+                                    resp="#BH">C-sol-fa-ut is equivalent to modern middle C, "the
+                                    other two Cliefes betweene them" [i.e. between F and C] being
+                                    the notes D and E.</note></ref>:<note
                                 xml:id="ch5ednote61" type="editorial" subtype="gloss" resp="#MW">In
                                 1609, Butler notates the Queen’s piping with f’ only. In 1623 he
                                 assigns the Queen’s notes, c’-f’, to the Tenor and Bass, singing (or
