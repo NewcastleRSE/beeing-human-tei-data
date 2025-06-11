@@ -7707,7 +7707,7 @@
                                 type="editorial" subtype="gloss" resp="#MW" source="context">Butler
                                 uses ‘triple moode’ in the sense of our ‘compound time’: i.e., with
                                 beats subdivided into threes rather than twos.</note>
-                            <ref target="#ch5ednatt57BH" type="attachment"><ref xml:id="ch5ednatt57" type="attachment" target="#ch5ednote57"
+                            <ref xml:id="ch5ednatt57BH" target="#ch5edn57BH" type="attachment"><ref xml:id="ch5ednatt57" type="attachment" target="#ch5ednote57"
                                 >beginning with an odde <term>Minim</term> in <term>
                                     G-sol-re-ut</term></ref>,<note xml:id="ch5ednote57"
                                 type="editorial" subtype="gloss" resp="#MW" source="context"
@@ -7715,7 +7715,7 @@
                                     <ref target="/music/melissomelos-edition">Melissomelos</ref>, bar 27. </note>
                             and tuning the rest of hir notes, whereof the first is a <term>
                                 Semibriefe</term>, in <term> A-la-mi-re.</term></ref>
-                            <note xml:id="ch5ednatt57BH" type="editorial" subtype="gloss" resp="#BH">
+                            <note xml:id="ch5edn57BH" type="editorial" subtype="gloss" resp="#BH">
                                 <figure>
                                     <graphic url="media/images/3_an_odde_minim.png"/>
                                 </figure>
@@ -7738,15 +7738,19 @@
                             <ref xml:id="ch5ednatt59" type="attachment" target="#ch5ednote59"
                                 >Sometime, specially toward their comming forth, <ref target="#ch5edn59BH" type="attachment">she riseth yet
                                 higher</ref>
-                                <note xml:id="ch5edn59BH" type="editorial" subtype="gloss" resp="#BH">
+                                <note xml:id="ch5edn59BH" type="editorial" subtype="gloss"
+                                    resp="#BH">
                                     <figure>
                                         <graphic url="media/images/5_riseth_yet_higher.png"/>
                                     </figure>
                                     <media url="media/sound/5_riseth_yet_higher.mp3"
-                                        mimeType="audio/mp3"/> see <ref target="#ch5ednatt57xBH">above</ref>. It is interesting that
-                                    Butler hears the three phrases with different intervals: 3.
-                                    rises a whole tone, 4 rises by a semitone and 5. by a minor
-                                    third. </note> to <term> C-sol-fa</term></ref>,<note xml:id="ch5ednote59"
+                                        mimeType="audio/mp3"/> see <ref target="#ch5ednatt57xBH"
+                                        type="noteCrossRef">above</ref>. It is interesting that
+                                    Butler hears the three phrases with different intervals: <ref
+                                        target="#ch5ednatt57BH" type="noteCrossRef">rises a whole
+                                        tone</ref>, <ref target="#ch5ednatt57xBH"
+                                        type="noteCrossRef">rises by a semitone</ref> and here by a
+                                    minor third. </note> to <term> C-sol-fa</term></ref>,<note xml:id="ch5ednote59"
                                 type="editorial" subtype="gloss" resp="#MW">c”: see 
                                 <ref target="/music/melissomelos-edition">Melissomelos</ref>,
                                 bars 58-61 and 71-78.</note> holding the time of three or foure
