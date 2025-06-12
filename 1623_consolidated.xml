@@ -565,11 +565,8 @@
                             <l>How curiously they <hi rend="italic">Build</hi><seg rend='roman'>;</seg> how chastly <hi rend="italic">Breed</hi><seg rend='roman'>;</seg></l>
                             <l>How seriously their <hi rend="italic">Bus'nesse</hi> they intend<seg rend='roman'>;</seg> </l>
                             <l>How stoutly they their <hi rend="italic">Common-good</hi> defend<seg rend='roman'>;</seg></l>
-                            <fw type="catch"> How</fw>
-                            <pb n="A2r" />
-                            <l>How timely their <hi rend="italic">Provisions</hi> are provided<seg rend='roman'>;</seg> </l>
-                            <l>How orderly their <hi rend="italic">Labors</hi> are divided<seg rend='roman'>;</seg> </l>
-                            <l>What <hi rend="italic">Vertues</hi> patterns, and what grounds of <hi rend="italic">Art</hi>,</l>
+                            <fw type="catch"> How</fw><pb n="A2r" /><l>How timely their <hi rend="italic">Provisions</hi> are provided<seg rend='roman'>;</seg> </l>
+                            <l>How orderly their <hi rend="italic">Labors</hi> are divided<seg rend='roman'>;</seg> </l><l>What <hi rend="italic">Vertues</hi> patterns, and what grounds of <hi rend="italic">Art</hi>,</l>
                             <l>What <hi rend="italic">Pleasures</hi>, and what <hi rend="italic">Profits</hi> they impart: </l>
                             <l>When these, with all those other things I minde</l>
                             <l>Which in this <hi rend="italic">Booke</hi>, concerning <hi rend="italic"> Bees</hi>, I finde:</l>
@@ -2135,16 +2132,15 @@
                         presently perceiving it by the strong smell of the humour (for she smelleth
                         then as if she had stung, <ref target="#ch1sumn29"><seg rend="italic">v</seg><seg rend="italic">.</seg><seg rend="italic">n</seg><seg rend="italic">.</seg><seg rend="normal">2</seg><seg rend="normal">9</seg><seg rend="italic">.</seg></ref>) will be so
                         eager upon revenge, that by no meanes can they be pacified, untill they have
-                        the field.</note>
-                    <fw type="catch">thou</fw>
-                    <pb n="C2v" />
-                    <fw type="header"> Of the Nature and properties of Bees, </fw>
-                    <note subtype="summary" type="authorial" xml:id="ch1sumn36">36. <seg rend="italic">The six properties of a Bee-master. </seg></note>thou must be (6) no Stranger unto them. In
+                        the field.</note><fw type="catch">thou</fw><pb n="C2v" />
+                    <fw type="header"> Of the Nature and properties of Bees, </fw><note subtype="summary" type="authorial" xml:id="ch1sumn36">36. <seg rend="italic">The six properties of a Bee-master. </seg></note>thou must be (6) no Stranger unto them. In
                     a word, thou must be chaste, cleanly, sweet, sober, quiet, and familiar: so will
                     they love thee, and know thee from all other. <app subtype="del" type="minor">
                         <lem wit="#b1623" />
                         <rdg wit="#b1609" source="1609.xml#ch1ancs9 1609.xml#ch1ance9"><anchor xml:id="ch1ancs9" data-origfile="1609" type="attachmentCollation" subtype="start" />Not wearing any offensive apparell,
-                            <hi data-origfile="1609">v.n.</hi>27<anchor xml:id="ch1ance9" data-origfile="1609" type="attachmentCollation" subtype="end" /></rdg></app></p>
+                            <hi data-origfile="1609">v.n.</hi>27<anchor xml:id="ch1ance9" data-origfile="1609" type="attachmentCollation" subtype="end" /></rdg></app><note>this is the only difference
+                        
+                    </note></p>
                 <p xml:id="ch1par29"><note subtype="summary" type="authorial" xml:id="ch1sumn37">37. <seg rend="italic">Safer to walke, then to stand among Bees. </seg></note> At any time, when nothing
                     hath angred them, one may boldly walke along by <app subtype="change" type="vocabulary">
                         <lem wit="#b1623">them</lem>
