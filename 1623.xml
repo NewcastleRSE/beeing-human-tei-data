@@ -513,11 +513,8 @@
                             <l>How curiously they <hi rend="italic">Build</hi>; how chastly <hi rend="italic">Breed</hi>;</l>
                             <l>How seriously their <hi rend="italic">Bus'nesse</hi> they intend; </l>
                             <l>How stoutly they their <hi rend="italic">Common-good</hi> defend;</l>
-                            <fw type="catch"> How</fw>
-                            <pb n="A2r"></pb>
-                            <l>How timely their <hi rend="italic">Provisions</hi> are provided; </l>
-                            <l>How orderly their <hi rend="italic">Labors</hi> are divided; </l>
-                            <l>What <hi rend="italic">Vertues</hi> patterns, and what grounds of <hi rend="italic">Art</hi>,</l>
+                            <fw type="catch"> How</fw><pb n="A2r"></pb><l>How timely their <hi rend="italic">Provisions</hi> are provided; </l>
+                            <l>How orderly their <hi rend="italic">Labors</hi> are divided; </l><l>What <hi rend="italic">Vertues</hi> patterns, and what grounds of <hi rend="italic">Art</hi>,</l>
                             <l>What <hi rend="italic">Pleasures</hi>, and what <hi rend="italic">Profits</hi> they impart: </l>
                             <l>When these, with all those other things I minde</l>
                             <l>Which in this <hi rend="italic">Booke</hi>, concerning <hi rend="italic"> Bees</hi>, I finde:</l>
@@ -2102,11 +2099,8 @@
                         presently perceiving it by the strong smell of the humour (for she smelleth
                         then as if she had stung, <ref target="#ch1sumn29">v.n.29.</ref>) will be so
                         eager upon revenge, that by no meanes can they be pacified, untill they have
-                        the field.</note>
-                    <fw type="catch">thou</fw>
-                    <pb n="C2v"></pb>
-                    <fw type="header"> Of the Nature and properties of Bees, </fw>
-                    <note subtype="summary" type="authorial" xml:id="ch1sumn36">36. The six
+                        the field.</note><fw type="catch">thou</fw><pb n="C2v"></pb>
+                    <fw type="header"> Of the Nature and properties of Bees, </fw><note subtype="summary" type="authorial" xml:id="ch1sumn36">36. The six
                         properties of a Bee-master.</note>thou must be (6) no Stranger unto them. In
                     a word, thou must be chaste, cleanly, sweet, sober, quiet, and familiar: so will
                     they love thee, and know thee from all other. <app subtype="del" type="minor">
@@ -2114,7 +2108,9 @@
                         <rdg wit="#b1609">
                             <ptr target="1609.xml#ch1ancs9 1609.xml#ch1ance9"></ptr>
                         </rdg>
-                    </app></p>
+                    </app><note>this is the only difference
+                        
+                    </note></p>
                 <p xml:id="ch1par29"><note subtype="summary" type="authorial" xml:id="ch1sumn37">37.
                         Safer to walke, then to stand among Bees.</note> At any time, when nothing
                     hath angred them, one may boldly walke along by <app subtype="change" type="vocabulary">
