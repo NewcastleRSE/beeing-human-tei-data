@@ -5956,13 +5956,13 @@
                     <lem wit="#b1623">
                         <note type="authorial" subtype="gloss" xml:id="ch4glon3" place="inline">*The
                             first instance is beyond exception: neither doe I see how the other can
-                            be answered, unlesse peradventure it be replayed that such rule is
+                            be answered, unlesse peradventure it be replyed that such rule is
                             against Nature. </note>
                         <note type="authorial" subtype="gloss" xml:id="ch4glon4" place="inline"
-                                >†<persName>Aristotle</persName> his Master was
-                                <persName>Plato,</persName> whose Master was
-                                <persName>Socrates</persName>, whose Master was
-                                <persName>Xantippe</persName> that thundring showring Queene of
+                            >† <persName><hi rend="italic">Aristotle</hi></persName> his Master was
+                            <persName><hi rend="italic">Plato</hi></persName> whose Master was
+                            <persName><hi rend="italic">Socrates</hi></persName>, whose Master was
+                            <persName><hi rend="italic">Xantippe</hi></persName> that thundring showring Queene of
                             Shrewes. <quote>
                                 <foreign xml:lang="la">Xantippe Socratis Philosophi uxor morosa
                                     admodum fuisse fertur &amp; iurgiosa: irarumque &amp;
@@ -5972,7 +5972,7 @@
                             <quote>
                                 <foreign xml:lang="la">Socrates, cum in eum Xantippe prius convitia
                                     &amp; maledicta ingessisset, postea vero &amp; sordidis aquis
-                                    perfudisset, Nonne (inquit) dicebam Xantippen tonantem quandoque
+                                    perfudisset, Nonne (<hi rend="italic">inquit</hi>) dicebam Xantippen tonantem quandoque
                                     pluituram?</foreign>
                                 <bibl>Laertius lib: 2. in vita Socratis.</bibl></quote>
                         </note></lem>
@@ -5988,10 +5988,10 @@
                         <rdg wit="#b1609"><ptr target="1609.xml#ch4ancs25 1609.xml#ch4ance25"
                             /></rdg>
                     </app>in the end of the same chapter he yeeldeth himselfe to have no certaine
-                    knowledge thereof. <foreign xml:lang="la">Non tamen satis ad huc explorata quae
+                    knowledge thereof. <foreign xml:lang="la">Non tamen satis adhuc explorata quae
                         eveniant habemus.</foreign></p>
                 <p xml:id="ch4par15"><note type="authorial" subtype="summary" xml:id="ch4sumn12">12.
-                        When the Bees begin to breed.</note> To returne therefore to our purpose,
+                    When the Bees begin to breed.</note><hi rend="drop-capital">T</hi>O returne therefore to our purpose,
                     the Hony-Bees having, as those other <term> insecta</term>, conceived by the
                     Drones; the best about <term>Pisces</term> when they first gather upon flowers,
                     others in <term>Aries,</term> and the weaker later, begin <app type="minor"
@@ -6042,11 +6042,11 @@
                     one end, untill it be a live Worme or Grub: as soone as it liveth it is loose,
                     and lyeth in the bottome of the Cell round like a ring, one end touching the
                     other, till so the bottome can no longer containe it: after that, it lieth along
-                    in the Cell til it be growen to the full bignesse of a Bee: and then doth the
-                    Worme die and becommeth void of all motion and sense: and so is shut up in the
+                    in the Cell till it be growen to the full bignesse of a Bee: and then doth the
+                    Worme die, and becommeth void of all motion and sense: and so is shut up in the
                     Cell, the Bees covering the top close with wax. </p>
                 <p xml:id="ch4par18"><note type="authorial" subtype="summary" xml:id="ch4sumn17">17.
-                        The Grub being now dead groweth to the shape of a Bee and then liveth
+                        The Worme being dead groweth to the shape of a Bee and then liveth
                         againe.</note>
                     <app type="minor" subtype="change">
                         <lem wit="#b1623">The Grub being now</lem>
@@ -6084,7 +6084,7 @@
                         <lem wit="#b1623">she beginneth</lem>
                         <rdg wit="#b1609"><ptr target="1609.xml#ch4ancs33 1609.xml#ch4ance33"
                             /></rdg>
-                    </app> to move againe, and to live her second life:<app type="minor"
+                    </app> to move againe, and to live hir second life:<app type="minor"
                         subtype="del">
                         <lem wit="#b1623"/>
                         <rdg wit="#b1609"><ptr target="1609.xml#ch4ancs34 1609.xml#ch4ance34"
@@ -6117,9 +6117,9 @@
                             and faire water continually brought in fresh and fresh unto them; I have
                             knowne this effected in three weekes: although <bibl
                                 xml:id="ch4biblnX19">
-                                <persName>Plinie</persName></bibl> speakes of more then twice so
+                                <persName><hi rend="italic">Plinie</hi></persName></bibl> speakes of more then twice so
                             long a time. <quote><bibl><ptr target="#ch4biblnX19"/></bibl>
-                                <foreign xml:lang="la">Foetus intra 45 diem peragitur.</foreign>
+                                <foreign xml:lang="la">Foetus intra <hi rend="opposite">45</hi> diem peragitur.</foreign>
                             </quote></lem>
                         <rdg wit="#b1609"/>
                     </app></p>
@@ -6141,7 +6141,7 @@
                         <foreign xml:lang="la">Primordium regum colore cernitur fulvo, corpulentia
                             mellis crassioris, magnitudine ilico proximâ suae futurae soboli: nec
                             primum ex eo vermiculus gignitur, sed statim apis.</foreign>
-                    </quote> Item. <quote>
+                    </quote> Item, <quote>
                         <note type="authorial" subtype="bibliographic" xml:id="ch4bibln22">
                             <bibl>Colum:l.9.c.11</bibl>
                         </note>
@@ -6157,7 +6157,7 @@
                         <rdg wit="#b1609"><ptr target="1609.xml#ch4ancs35xx 1609.xml#ch4ance35xx"
                             /></rdg>
                     </app> broods of females, then last of all after the same manner in wider Cells
-                    made for the nonce <ref target="#ch4bibln23">v.</ref>
+                    made for the nonce, <ref target="#ch4bibln23">v.</ref>
                     <note type="authorial" subtype="bibliographic" xml:id="ch4bibln23">
                         <ref target="#ch6sumn10"> V.c.6.n.10.</ref>
                     </note> they breed the Male-bees or Drones: as was long since observed,
@@ -6187,7 +6187,7 @@
                 </note>
                 <p xml:id="ch4par23"><note type="authorial" subtype="summary" xml:id="ch4sumn21">21.
                         Two uses of the Drones.</note> These Cephens or Drones, when they are
-                    fledge, doe not onely serve for generation (as hath beene shewed) but also doe
+                    fledge, doe not onely serve for generation; (as hath beene shewed) but also doe
                     helpe the females much, by reason of their great heat, in hatching their broods. <quote>
                         <foreign xml:lang="la">In foetu adjuvant apes, multum ad calorem conferente
                             turba.</foreign>
@@ -6204,7 +6204,7 @@
                         <note type="authorial" subtype="bibliographic" xml:id="ch4bibln25">
                             <bibl> His.l.9.c.40.</bibl>
                         </note></quote>. And yet their hanging together will not <fw type="catch">
-                        serve</fw>
+                        serve</fw>Ny
                     <pb n="I1v"/>
                     <fw type="header"> Of the Breeding of Bees, </fw> serve their turne: for the
                     Bees, when they are disposed, will quickly make them part, and depart. When
@@ -6215,7 +6215,7 @@
                     goodnesse, so doe they also in power and authoritie, ruling and over-ruling them
                     at their pleasures. <quote>
                         <note type="authorial" subtype="bibliographic" xml:id="ch4bibln26">
-                            <bibl>Nat:hist,li.11.c.11.</bibl>
+                            <bibl>Nat.hist.li.11.c.11.</bibl>
                         </note>
                         <foreign xml:lang="la">Sunt quasi servitia verarum apum: quamobrem imperant
                             iis.</foreign>
@@ -6228,7 +6228,7 @@
                     conclusion from these true premisses, that they, by the example of these, may
                     arrogat to themselves the like superioritie: for <foreign xml:lang="la">Ex
                         particulare non est syllogizare,</foreign> and he that made these to command
-                    their males, commanded them to be commanded. But if they would so fain to have
+                    their males, commanded them to be commanded. But if they would so faine to have
                     it so, let them first imitate their singular virtues, their continuall industry
                     in gathering, their diligent watchfulnesse in keeping, <app type="minor"
                         subtype="add">
@@ -6256,11 +6256,11 @@
                         <rdg wit="#b1609"><ptr target="1609.xml#ch4ancs37x 1609.xml#ch4ance37x"
                             /></rdg>
                     </app> this they may note by the way, that albeit the females in this kinde have
-                    the Soveraigntie, yet have the males the lowder voice, as it is in other living
+                    the Soveraigntie, yet have the males the lowder voice: as it is in other living
                     things, Doves, Owsils, Thrushes, &amp;c. the males being knowne by their
                     sounding and shrill notes from the silent females. Yea the wives themselves will
                     not suffer that Hen to live, which presumeth to crow as the Cock doth: nature
-                    teaching that silence, and soft noise becommeth that Sex. </p>
+                    teaching, that silence and soft noise becommeth that Sex. </p>
                 <p xml:id="ch4par26"><note type="authorial" subtype="summary" xml:id="ch4sumn24">24.
                         When the Bees leave breeding, and beat away their Drones.</note> The Bees
                     breeding or laying of seeds beginneth to cease, in some by <term>Leo</term>, in
@@ -6279,7 +6279,7 @@
                     <app type="major" subtype="add">
                         <lem wit="#b1623">to like their <fw type="catch"> roome</fw>
                             <pb n="I2r"/>
-                            <fw type="header"> and of the Drone. </fw> roome better then their
+                            <fw type="header"> and of the Drone. </fw> roome better than their
                             company. At first not quite forgetting their old familiaritie, they
                             gently give them Tom Drums entertainment: they that will not take that
                             for a warning, but presume to force in againe among them, are more
@@ -6290,7 +6290,7 @@
                     </app></p>
                 <note type="authorial" subtype="gloss" place="inline" xml:id="ch4glon6">
                     <note type="authorial" subtype="summary" xml:id="ch4sumn25">25. The Bees
-                        compared to the Amazons.</note>
+                        compared to the <hi rend="opposite">Amazons.</hi></note>
                     <foreign xml:lang="la"><hi rend="opposite">*Amazones bellicosae erant Scythiae mulieres, quae cum
                         viris exultantes in Cappadociae ora juxta amnem Thermodonta consederunt:
                         ubi, viris plerisque per insidias accolarum trucidatis, reliquos qui domi
@@ -6310,7 +6310,7 @@
                         nequicquam dominantur. Nam post secundum examen aut in alveis morantes morte
                         mulctantur, <ref target="#ch4bibln27"> v.</ref>
                         <note type="authorial" subtype="bibliographic" xml:id="ch4bibln27">
-                            <ref target="#ch1sumn7">v.c.1.n.7.</ref>
+                            <ref target="#ch1sumn7">V.c.1.n.7.</ref>
                         </note> aut egressae fere fame pereunt, <ref target="#ch8sumn4">
                             v.c.8.n.4.</ref> Utriusque etiam populi mores non minùs conveniunt: nam
                         &amp; apes foeminae sunt bellicosae, quae non modo Europam &amp; quandam
@@ -6326,7 +6326,7 @@
                     after. </p>
                 <p xml:id="ch4par28"><note type="authorial" subtype="summary" xml:id="ch4sumn27">27.
                         When forward stalls begin.</note> The forward stockes, that have cast their
-                    last swarme in <term>Gemini</term> or soone after, begin at <term>Leo</term> :
+                    last swarme in <term>Gemini</term> or soone after, begin at <term>Leo</term>:
                         <note type="authorial" subtype="summary" xml:id="ch4sumn28"> 28. When the
                         backward.</note>
                     <app type="minor" subtype="add">
@@ -6337,7 +6337,7 @@
                         <lem wit="#b1623"/>
                         <rdg wit="#b1609"><ptr target="1609.xml#ch4ancs40 1609.xml#ch4ance40"
                             /></rdg>
-                    </app>, that cast not their last swarme much before <term> Leo</term> may stay
+                    </app>, that cast not their last swarme much before <term> Leo</term>, may stay
                     till the end of the same moneth: but usually about <term> Virgo,</term> or a
                     weeke after, they make a cleane riddance of them. </p>
                 <fw type="catch"> Those</fw>
@@ -6403,14 +6403,14 @@
                     fly abroad while others dare not wagge) have lost many of their Nymphes in a
                     tempestuous and stormie Spring; they will therefore destroy their Drones also.
                         <note type="authorial" subtype="summary" xml:id="ch4sumn34"> 34. And
-                        afterward breed new againe.</note> But having formerly conceived by them,
-                    they then begin the world anew as after an other Winter: and first breeding
+                        afterward breed new again.</note> But having formerly conceived by them,
+                    they then begin the world anew, as after an other Winter: and first breeding
                     Nymphs, in the end they breed Cephens againe. Which if they can compasse before
                     swarming time be past, they will swarme that yeare; otherwise they will be fat
                     and full, and excellent good either to keepe or kill.</p>
                 <p xml:id="ch4par34"><app type="major" subtype="add">
                         <lem wit="#b1623"><note type="authorial" subtype="summary"
-                                xml:id="ch4sumn35">35 <seg rend="italic">Sometime it is good to
+                                xml:id="ch4sumn35">35. <seg rend="italic">Sometime it is good to
                                     helpe the Bees in this work.</seg></note> Because the stockes
                             that have cast often, doe beare with their Drones so long, although
                             there be twise so many as bee needfull for the Bees that are leaft;
@@ -6418,7 +6418,7 @@
                             not amisse to prevent the Bees, and presently after the last swarme to
                             diminish their number, with a Drone-pot cloomed to the doore: specially
                             of them you meane to take, or see much opprest with superfluous
-                            multitude, <ref target="#ch3sumn43">v.c.3.n. 43.</ref></lem>
+                            multitude, <ref target="#ch3sumn43">v.c.3.n.43.</ref></lem>
                         <rdg wit="#b1609"/>
                     </app></p>
             </div>
@@ -6490,9 +6490,9 @@
                         When you may see the Queene-Bee.</note> If any man desire to see the Queene,
                     he hath now opportunitie, when she goeth forth with hir swarme: <app
                         type="reference" subtype="change">
-                        <lem wit="#b1623"><ref target="#ch5bibln1"> v</ref>
+                        <lem wit="#b1623"><ref target="#ch5bibln1"> v.</ref>
                             <note type="authorial" subtype="bibliographic" xml:id="ch5bibln1">
-                                <ref target="#ch5sumn34"> v.n.34</ref>
+                                <ref target="#ch5sumn34"> V.n.34</ref>
                             </note></lem>
                         <rdg wit="#b1609"><ptr target="1609.xml#ch5ancs1x 1609.xml#ch5ance1x"
                             /></rdg>
@@ -6503,7 +6503,7 @@
                     their last swarmes, <app type="reference" subtype="change">
                         <lem wit="#b1623"><ref target="#ch5bibln2">v.</ref>
                             <note type="authorial" subtype="bibliographic" xml:id="ch5bibln2">
-                                <ref target="#ch5sumn35">v.n.35.</ref>
+                                <ref target="#ch5sumn35">V.n.35.</ref>
                             </note></lem>
                         <rdg wit="#b1609"><ptr target="1609.xml#ch5ancs1xx 1609.xml#ch5ance1xx"
                             /></rdg>
@@ -6524,7 +6524,7 @@
                     the old for their defence, and for the greatest labours; <ref
                         target="#ch5bibln3">v.</ref>
                     <note type="authorial" subtype="bibliographic" xml:id="ch5bibln3">
-                        <ref target="#ch1sumn57"> V.c. 1.n.57.</ref>
+                        <ref target="#ch1sumn57"> V.c.1.n.57.</ref>
                     </note>and the old ones goe with the young in the swarme for their aid and
                     guidance in their worke. </p>
                 <p xml:id="ch5par4">The Drones they take with them for propagation of their kinde.
@@ -6549,7 +6549,7 @@
                         <lem wit="#b1623">, though sudden stormes doe hinder them. <ref
                                 target="#ch5bibln5">v.</ref>
                             <note type="authorial" subtype="bibliographic" xml:id="ch5bibln5">
-                                <ref target="#ch7sumn60">V.c. 7.n. 60.</ref>
+                                <ref target="#ch7sumn60">V.c.7.n.60.</ref>
                             </note></lem>
                         <rdg wit="#b1609"/>
                     </app><app type="major" subtype="del">
@@ -6563,22 +6563,22 @@
                             <rdg wit="#b1609"><ptr target="1609.xml#ch5ancs2 1609.xml#ch5ance2"
                                 /></rdg>
                         </app></foreign>
-                    <note type="authorial" subtype="bibliographic" xml:id="ch5bibln6">
-                        <bibl>Hist.l.4.c.22.</bibl>
-                    </note>
-                </quote></p>
+                   
+                </quote> <note type="authorial" subtype="bibliographic" xml:id="ch5bibln6">
+                    <bibl>Hist.l.4.c.22.</bibl>
+                </note></p>
                 <p xml:id="ch5par6"><app type="major" subtype="add">
                         <lem wit="#b1623"><ref target="#ch4glon6">*</ref>Dry weather makes plenty of
                             hony, and <ref target="#ch5glon2">†</ref> moist of swarms. But note that
                             the chiefe time for breeding swarmes is the Spring, <ref
                                 target="#ch5bibln7">v.</ref>
                             <note type="authorial" subtype="bibliographic" xml:id="ch5bibln7">
-                                <ref target="#ch4sumn13">V.c.4. n. 13.</ref>
+                                <ref target="#ch4sumn13">V.c.4.n.13.</ref>
                             </note> and for honie-gathering the Summer: <ref target="#ch5bibln8"
                                 >v.</ref>
                             <note type="authorial" subtype="bibliographic" xml:id="ch5bibln8">
-                                <ref target="#ch6sumn38">V.c.6.n.38.</ref>&amp;<ref
-                                    target="#ch6sumn39">39.c.</ref>
+                                <ref target="#ch6sumn38">V.c.6.n.38.</ref><ref
+                                    target="#ch6sumn39">39.</ref>&amp;c.
                             </note> so that when a dry Summer followeth a moist Spring, the <ref
                                 xml:id="ch5ednatt9" type="attachment" target="#ch5ednote9"
                                 >Bee-folds</ref><note xml:id="ch5ednote9" type="editorial"
@@ -6590,14 +6590,14 @@
                             but, because of the scarcity of hony, this increase will proove a
                             decrease: the more swarmes you have at the end of this Summer, the fewer
                                 <ref xml:id="ch5ednatt10" type="attachment" target="#ch5ednote10"
-                                >stalls</ref><note xml:id="ch5ednote10" type="editorial"
+                                    >stalls</ref><note xml:id="ch5ednote10" type="editorial"
                                 subtype="gloss" resp="#JR" source="OED">Hive of bees; a ‘stock’ of
                                 bees in or for a hive; also, a beehive (n.4, OED).</note> shall you
                             have at the beginning of the next. For, except some faire rathe swarmes,
                             and some good stockes, which cast betimes or not at all, they die all
                             for hunger; <ref xml:id="ch5ednatt11" type="attachment"
                                 target="#ch5ednote11">when they have spent their own pittance, and
-                                spoiled their fellowes.</ref><note xml:id="ch5ednote11"
+                                    spoiled their fellowes.</ref><note xml:id="ch5ednote11"
                                 type="editorial" subtype="gloss" resp="#OS" source="context">The
                                 economy of the hive is described here in human terms, as was common
                                 in the early modern period. <ref xml:id="ch5edlink2" type="link"
@@ -6605,7 +6605,7 @@
                                     >This article from the Folger Shakespeare Library</ref> gives a
                                 further discussion. </note> How to prevent this poverty, see <ref
                                 target="#ch5sumn11"> note 11.</ref>&amp;<ref target="#ch5sumn20">*
-                                in 20.</ref> and to prevent the losse &amp; spoile that would come
+                                   in 20.</ref> and to prevent the losse &amp; spoile that would come
                             thereof, take the light stocks, together with the small and late
                             swarmes, <ref target="#ch5bibln9">v.</ref>
                             <note type="authorial" subtype="bibliographic" xml:id="ch5bibln9">
@@ -6672,9 +6672,9 @@
                                 n., OED 1c).</note> after that a showre or gloomie cloud hath sent
                             them home together:</lem>
                         <rdg wit="#b1609"><ptr target="1609.xml#ch5ancs3 169.xml#ch5ance3"/></rdg>
-                    </app> in extreme hot and dry weather not so: <ref target="#ch5bibln11"> v</ref>
+                    </app> in extreme hot and dry weather not so: <ref target="#ch5bibln11"> v.</ref>
                     <note type="authorial" subtype="bibliographic" xml:id="ch5bibln11">
-                        <ref target="#ch5sumn20">V.n.20</ref>
+                        <ref target="#ch5sumn20">V.n.20.</ref>
                     </note> in so much that stalls being full and ready to swarme with the first,
                     are sometime so kept backe with cold dry windes in <term> Gemini,</term> and
                     with extreme heat and drought in <term>Cancer,</term> that they have not swarmed
@@ -6707,7 +6707,7 @@
                                 source="OED">Years when the growing season or harvest is
                                 late.</note>
                             <ref xml:id="ch5ednatt18x" type="attachment" target="#ch5ednote18x">
-                                such as was <date when="1621">1621.</date>&amp; <date when="1622"
+                                such as was <date when="1621">1621. </date>&amp; <date when="1622"
                                     >1622.</date></ref><note xml:id="ch5ednote18x" type="editorial"
                                 subtype="gloss" resp="#OS" source="context">As Butler edited his
                                 text for the second edition, he was able to include extra
@@ -6897,7 +6897,7 @@
                     </app>
                 </p>
                 <p xml:id="ch5par14"><note type="authorial" subtype="summary" xml:id="ch5sumn16">16.
-                        The vulgar Bees appoint the rising of the fore-Swarmes, &amp; that upon 4.
+                        The vulgar Bees appoint the rising of the fore-swarmes, &amp; that upon 4.
                         grounds.</note> The choice of the time when the first colonies, or
                     prime-swarmes shall goe forth, the rulers referre unto the commons: who by
                     reason of their continuall travell and businesse both without and within, doe
@@ -6966,7 +6966,7 @@
                     forth fledge-drones: <app type="reference" subtype="add">
                         <lem wit="#b1623"><ref target="#ch5bibln16">v.</ref>
                             <note type="authorial" subtype="bibliographic" xml:id="ch5bibln16"><ref
-                                    target="#ch4sumn20">v.c.4.n.20</ref></note></lem>
+                                    target="#ch4sumn20">V.c.4.n.20</ref></note></lem>
                         <rdg wit="#b1609"/>
                     </app> which is a signe that the first <fw type="catch"> brood</fw>
                     <pb n="K1r"/>
@@ -7042,7 +7042,7 @@
                             and when by this meanes they have gotten out so many, that you may see
                             them begin to dance <ref target="#ch5bibln17">v</ref>
                             <note type="authorial" subtype="bibliographic" xml:id="ch5bibln17">
-                                <ref target="#ch5sumn34">v.n.34.</ref>
+                                <ref target="#ch5sumn34">V.n.34.</ref>
                             </note> above the Hive; then doe they hastilie issue forth and
                             swarme.</lem>
                         <rdg wit="#b1609"/>
@@ -7065,7 +7065,7 @@
                             /></rdg>
                     </app>to swarme; <note type="authorial" subtype="summary" xml:id="ch5sumn19">
                         19. To lie forth continually is a signe they will not swarme.</note> so to
-                    lie forth continually (as in extreme hot and and dry summers they use to doe)
+                    lie forth continually (as in extreme hot and dry summers they use to doe)
                     under the stock or behinde the hive, &amp;c. (specially after
                         <term>Cancer</term> is come in) <app type="minor" subtype="change">
                         <lem wit="#b1623">is a signe and cause of not swarming</lem>
@@ -7074,7 +7074,7 @@
                     </app>. For the Bees, knowing by nature that the greatest companies doe prosper
                     best, untill they finde themselves so pestred with heat and throng of
                     multitudes, that the Hive can scarce hold any more, <ref xml:id="ch5ednatt34"
-                        type="attachment" target="#ch5ednote34">will have no mind to
+                        type="attachment" target="#ch5ednote34">will have no minde to
                         swarme</ref>:<note xml:id="ch5ednote34" type="editorial" subtype="gloss"
                         resp="#OS" source="context">Sometimes, the bees are characterised as having
                         a collective mind, but at other times individual minds (as in <ref
@@ -7176,7 +7176,7 @@
                             <lem wit="#b1623">Hive</lem>
                             <rdg wit="#b1609"><ptr target="1609.xml#ch5ancs29 1609.xml#ch5ance29"
                                 /></rdg>
-                        </app> as cool as may be, by watering and shadowing both <app
+                        </app> as coole as may be, by watering and shadowing both <app
                             type="vocabulary" subtype="change">
                             <lem wit="#b1623">it</lem>
                             <rdg wit="#b1609"><ptr target="1609.xml#ch5ancs30 1609.xml#ch5ance30"
@@ -7332,7 +7332,7 @@
                             from the middle of the Hive, with both the thicke ends one way to size
                             out the doore for this doubled stall: and so tie them with needle and
                             thread to the skirts fast in their places. These stickes doe also serve
-                            to keepe the Hive from slipping, and so save the Bees, that otherwise
+                            to keepe the Hive from slipping, and to save the Bees, that otherwise
                             might be prest to death betweene the two skirts. Then in a faire night,
                             so soon as it is dark, reare the full Hive with three <ref
                                 xml:id="ch5ednatt42x" type="attachment" target="#ch5ednote42x"
@@ -7348,7 +7348,7 @@
                                 subtype="gloss" resp="#JR" source="OED">Framework intended to hold
                                 anything steady (n.6, OED 2a).</note> behinde the stoole of foure
                             stakes, 2. two foot, and 2. foure foot long, pitched fast in distance
-                            equall, and fit to conteine the full Hive: being of the same compasse.
+                            equall, and fit to conteine the full Hive: which you may be sure of by fitting it to the leere Hive, being of the same compasse.
                             One of the short stakes set close to the middle of the backe of the
                             stoole, the other Northward opposite to it: one of the long ones on the
                             West part, and the other on the East. Then right in the middle, betweene
@@ -7373,7 +7373,7 @@
                                 <ref target="#ch1sumn40">v.c.1.n.40.</ref>
                             </note> let the assistant take hold of the Hive, &amp;, yeelding the top
                             toward his breast, reare the fur-side of the skirt from the
-                            East-bolster. When you see it fitting, embracing the hive as neere the
+                            East bolster. When you see it fitting, embracing the hive as neere the
                             skirt as you may, lift it up sheere from the other two bolsters, and set
                             it downe warily in the middle of the Brake, with the top in the hole as
                             upright as you can, and the doore to the backer part of the stoole, that
@@ -7411,7 +7411,7 @@
                                 source="OED">Hottest part of the summer (OED3 1a).</note> when Bees
                             are taken. <ref target="#ch5bibln23">v.</ref>
                             <note type="authorial" subtype="bibliographic" xml:id="ch5bibln23">
-                                <ref target="#ch10p1sumn1"> V.c.10. p.1.n.1.</ref>
+                                <ref target="#ch10p1sumn1"> V.c.10.p.1.n.1.</ref>
                             </note> But in no case let the doing hereof be deferred beyond the time
                             prescribed, <ref target="#ch5bibln24">v:</ref>
                             <note type="authorial" subtype="bibliographic" xml:id="ch5bibln24">
@@ -7538,8 +7538,8 @@
                         <media mimeType="audio/mp3" url="media/sound/Testsoundannotation.mp3">
                             <desc>A rendition of tooting</desc>
                         </media> This is the content of the note</note> as if she did pray hir
-                    Queene-mother to let them goe. <app type="minor" subtype="change">
-                        <lem wit="#b1623">Unto which voice if the <anchor xml:id="anchorStart3"
+                    Queene-mother to let them goe: <app type="minor" subtype="change">
+                        <lem wit="#b1623">unto which voice if the <anchor xml:id="anchorStart3"
                                 type="attachmentEditorialNote" subtype="start"
                                 corresp="#ch5ednote52y"/> Queene vouchsafe to reply,</lem>
                         <rdg wit="#b1609"><ptr target="1609.xml#ch5ancs51 1609.xml#ch5ance51"
@@ -7569,7 +7569,7 @@
                         <lem wit="#b1623">And therefore, unlesse foule weather stay with them till
                             it bee too late, <ref target="#ch5bibln25">v:</ref>
                             <note type="authorial" subtype="bibliographic" xml:id="ch5bibln25">
-                                <ref target="#ch5sumn36">V.n.36</ref>
+                                <ref target="#ch5sumn36">V.n.36.</ref>
                             </note></lem>
                         <rdg wit="#b1609"/>
                     </app>
@@ -7874,8 +7874,8 @@
                             sweeter. So that if <term>Musicke</term> were lost, it might be found
                             with the <ref target="#ch5bibln27">*</ref><term>Muses</term> Birds.
                                 <note type="authorial" subtype="bibliographic" xml:id="ch5bibln27">
-                                <bibl>*Var.l.3.c.15 V. Praefat.</bibl>
-                            </note></lem>
+                                    <bibl>*Var.l.3.c.15</bibl>
+                                </note><note type="authorial" subtype="bibliographic" xml:id="ch5bibln27x"><bibl>V.Praefat.</bibl></note></lem>
                         <rdg wit="#b1609"/>
                     </app></p>
                 <p xml:id="ch5par38"><app type="major" subtype="add">
@@ -7968,9 +7968,9 @@
                                     <l> To seeke new Cities, for new habitation,</l>
                                     <l> They send abroad their num'rous Colonies:</l>
                                     <l>
-                                        <hi>Antiope</hi> the prime Prince gone,</l>
+                                        <hi rend="italic">Antiope</hi> the prime Prince gone,</l>
                                     <l>
-                                        <hi>Orithya</hi> soone</l>
+                                        <hi rend="italic">Orithya</hi> soone</l>
                                     <l> Of hir Queene-mother, making mone,</l>
                                     <l> Begs the like boone:</l>
                                     <l> That with hir traine hir fortune she may seeke:</l>
@@ -8005,14 +8005,14 @@
                                 </lg>
 
                                 <lg type="verse" n="3">
-                                    <l>I When so increased in this prudent Nation,</l>
+                                    <l>I When so increased is this prudent Nation,</l>
                                     <l> That their owne limits cannot them suffice;</l>
                                     <l> To seeke new Cities, for new habitation,</l>
                                     <l> They send abroad their num'rous Colonies:</l>
                                     <l>
-                                        <hi>Antiope</hi> the prime Prince gone,</l>
+                                        <hi rend="italic">Antiope</hi> the prime Prince gone,</l>
                                     <l>
-                                        <hi>Orithya</hi> soone</l>
+                                        <hi rend="italic">Orithya</hi> soone</l>
                                     <l> Of hir Queene-mother, making mone,</l>
                                     <l> Begs the like boone:</l>
                                     <l> That with hir traine hir fortune she may seeke:</l>
@@ -8030,8 +8030,7 @@
                                         have ever bin, Whose lit-tle hearts in</l>
                                     <l> weaker sex (so great in field) No powers of the might'est
                                         Males can make to yeeld: They living aye,</l>
-                                    <l> and Ori-thyia faire, With o-ther Princes hir In-fantaes
-                                        are.</l>
+                                    <l> most sober and most chast, Their paine-got goods in pleasure scorne to wast.</l>
                                 </lg>
 
                                 <lg type="verse" n="2">
@@ -8041,7 +8040,7 @@
                                         imitate. One Sov'raign and but</l>
                                     <l> one commands this people loyall, the great Marpese with
                                         plenty blest of issue roy-all: An-to-o-pe.</l>
-                                    <l> and Ori-thyia faire, With o-ther PRinces hir In-fantaes
+                                    <l> and Ori-thyia faire, With o-ther Princes hir In-fantaes
                                         are.</l>
                                 </lg>
 
@@ -8065,7 +8064,7 @@
                             <lg xml:id="ch5musiccontratenorlyrics2">
                                 <head type="register">CONTRATENOR.</head>
                                 <lg type="verse" n="1">
-                                    <l>But all this while she doth chant it alone, Most hum-bly
+                                    <l>But all this while shee doth chant it alone, Most hum-bly
                                         begging in hir Do-rik straines,</l>
                                     <l> Of hir deare Liege leave to be gone: But comfort none shee
                                         yet obtaines.</l>
@@ -8132,7 +8131,7 @@
 
                                 <lg type="verse" n="3">
                                     <note type="authorial" subtype="other" xml:id="ch5musnote1"
-                                        place="inline"><hi>Sing this to the second Tune: and then
+                                        place="inline"><hi rend="italic">Sing this to the second Tune: and then
                                             end with the first verse of the first<lb/> Song:
                                             repeating in either the two last Straines</hi>.</note>
                                     <l>Importunate Orithya now hath wonne</l>
@@ -8160,7 +8159,7 @@
                                 </lg>
                                 <lg type="verse" n="3">
                                     <note type="authorial" subtype="other" xml:id="ch5musnote2"
-                                        place="inline"><hi>Sing this to the second Tune: and then
+                                        place="inline"><hi rend="italic">Sing this to the second Tune: and then
                                             end with the first verse of the first<lb/> Song:
                                             repeating in either the two last Straines.</hi></note>
                                     <l>The vulgar, when occas'on serves,</l>
@@ -8246,7 +8245,7 @@
                         one hive come within a fortnight.</note>
                     <app type="minor" subtype="add">
                         <lem wit="#b1623">Except in some extraordinarie plentifull yeares both for
-                            Breed and Honie. Such was 1616. wherein not onely many swarmes did
+                            Breed and Honie. Such as was 1616. wherein not onely many swarmes did
                             swarme as old stockes; but also old stockes having betimes swarmed
                             twice, about six weekes after began to swarme a fresh, as in an other
                             yeare: and so had, in effect, two Summers in one.</lem>
@@ -8261,7 +8260,7 @@
                     answer: and the next day she with seven more were brought forth dead. <ref
                         target="#ch5bibln29">v.</ref>
                     <note type="authorial" subtype="bibliographic" xml:id="ch5bibln29">
-                        <ref target="#ch1sumn7">V.c.1. n. 7.</ref>
+                        <ref target="#ch1sumn7">V.c.1.n.7.</ref>
                     </note></p>
                 <p xml:id="ch5par46"><app type="minor" subtype="add">
                         <lem wit="#b1623">Sometime though the Queene give consent to a third or
@@ -8328,20 +8327,20 @@
                             that otherwise some false neighbour might challenge for his: which
                             undoubtedly was the originall cause of this custome. But the pretended
                             reason is to me a meere fancie: although I know it to bee as ancient as
-                            common. For <persName>Claudian</persName> long agoe could say, <quote>
+                            common. For <persName><hi rend="italic"></hi>Claudian</persName> long agoe could say, <quote>
                                 <lg xml:lang="la">
                                     <l>-------------Cybeleia quassans</l>
                                     <l>Hiblaeus procul aera senex revocare fugaces</l>
                                     <l>Tinnitu conatur apes.------------</l>
                                 </lg>
                                 <note type="authorial" subtype="bibliographic" xml:id="ch5bibln31">
-                                    <bibl>De 6.consolatu.Honorii.</bibl>
+                                    <bibl>De 6.consolatu Honorii.</bibl>
                                 </note></quote></lem>
                         <rdg wit="#b1609"/>
                     </app>
                 </p>
                 <p xml:id="ch5par48"><app type="major" subtype="add">
-                        <lem wit="#b1623">And before him <persName>Virgil,</persName>
+                        <lem wit="#b1623">And before him <persName><hi rend="italic"></hi>Virgil,</persName>
                             <quote>
                                 <lg xml:lang="la">
                                     <l> Hinc ubi jam emissum caveis ad sidera coeli </l>
@@ -8358,7 +8357,7 @@
                 </p>
                 <p xml:id="ch5par49"><app type="minor" subtype="change">
                         <lem wit="#b1623">And before him old <bibl xml:id="ch5bibln32X1"
-                                    ><persName>Aristotle</persName></bibl>,</lem>
+                            ><persName><hi rend="italic">Aristotle</hi></persName></bibl>,</lem>
                         <rdg wit="#b1609"><ptr target="1609.xml#ch5ancs68 1609.xml#ch5ance68"
                             /></rdg>
                     </app>
@@ -8373,7 +8372,7 @@
                     </app>
                 </p>
                 <p xml:id="ch5par50"><note type="authorial" subtype="summary" xml:id="ch5sumn38">38.
-                        What to doe if a swarme be way-ward.</note> If you see them begin to flie
+                        What to doe if the swarme be way-ward.</note> If you see them begin to flie
                     aloft (which is a token they would be gone) cast dust among them to make them
                     come downe. <app type="major" subtype="add">
                         <lem wit="#b1623">If they be not stayed, but, hasting on still, goe beyond
@@ -8409,7 +8408,7 @@
                     <foreign xml:lang="la">Examen quod ex alveo tuo evolaverit, eousque intelligitur
                         esse tuum, donec in conspectu tuo est, nec difficilis persecutio ejus est:
                         alioquin occupantis est.</foreign>
-                    <bibl><hi rend="opposite">Justinian.l.2.institutionum juris tit. de rerum
+                    <bibl><hi rend="opposite">Justinian. l.2. institutionum juris. tit. de rerum
                             divisione.</hi></bibl>
                 </note>
                 <p xml:id="ch5par52"><note type="authorial" subtype="summary" xml:id="ch5sumn39">39.
@@ -8436,13 +8435,13 @@
                     by New-yeares-tide lost hir owne part and hir Partners: and being carelesse of
                     the Hive when the Bees were dead, she let it stand abroad till she had forgotten
                     it: The next Summer comming into hir Garden, she found some Bees passing to and
-                    fro hir Hive, which were then busie in clensing and dressing it: she wisely
+                    fro hir Hive, which were then busie in cleansing and dressing it: she wisely
                     fearing that the Bees came to carrie away the Wax that was leaft, bade hir
-                    Daughter take the Hive and carrie it in: The Wench following hir play did
+                    Daughter take the Hive and carrie it in. The Wench following hir play did
                     happily forget hir mothers command: and by that meanes the Hive stood still,
                     till the unexpected swarme came, that afterward stored hir garden. It is not
                     amisse therefore to follow the counsell of <bibl xml:id="ch5bibln32X2"
-                            ><persName>Columella:</persName></bibl>
+                        ><persName><hi rend="italic">Columella</hi>:</persName></bibl>
                     <note type="authorial" subtype="summary" xml:id="ch5sumn41"> 41. <foreign
                             xml:lang="la">Vacua alvearia stent semper parata in
                         Apiario.</foreign></note>
@@ -8618,14 +8617,14 @@
                                 which seemeth impossible, to know what number of Bees is in a
                                 swarme; if you know first that 4480.is a pound, because 280.
                                 weigheth one ounce, as 35. one dragme. So that two good swarmes
-                                united weighing 10.or 11. pound, doe conteine betweene 40. and 50.
-                                M, the number of a Campe Royall: which company cannot wel be larger
+                                united weighing 10. or 11. pound, doe conteine betweene 40. and 50.
+                                M, the number of a Campe-Royall: which company cannot wel be larger
                                 under one Leader, in the largest Hive.<ref target="#ch3sumn6">
                                     v.c.3.n.6</ref>. Of such a number did <persName>
-                                    Alexanders</persName> victorious Army consist. <bibl>For
-                                    Diod.Sic.l.17.</bibl> reckoneth up some 48.M. with those 13500.
-                                leaft behinde with <persName> Antipater.</persName> And <bibl>
-                                    Justin.l.9.</bibl> not mentioning this company, numbreth 36500.
+                                        <hi rend="italic">Alexanders</hi></persName> victorious Army consist. <bibl>For
+                                            <hi rend="italic">Diod.Sic.l.</hi>17.</bibl> reckoneth up some 48.M. with those 13500.
+                                leaft behinde with <persName><hi rend="italic">Antipater.</hi></persName> And <bibl>
+                                    <hi rend="italic">Justin.l.</hi>9.</bibl> not mentioning this company, numbreth 36500.
                                 which number is also great enough for a very faire swarm; as
                                 conteining the quantity of two reasonable swarmes united: there
                                 being also few single swarms so good, as to amount to 30000.</lem>
@@ -8699,7 +8698,7 @@
                         </app></note> Your Hive being fitted and dressed, <ref target="#ch5bibln36"
                         >v.</ref>
                     <note type="authorial" subtype="bibliographic" xml:id="ch5bibln36">
-                        <ref target="#ch3sumn8">v.c.3.n.8.</ref>
+                        <ref target="#ch3sumn8">V.c.3.n.8.</ref>
                     </note> you must have also in readinesse a Mantle, a Rest, and a Brush.</p>
                 <p xml:id="ch5par66"><note type="authorial" subtype="summary" xml:id="ch5sumn48"
                             ><app type="major" subtype="add">
@@ -8743,7 +8742,7 @@
                             inches in the middle of the bottome be cut away one inch high, abating
                             the new edges; and the foure inches at each end be hollowed in the
                             middle of the bottome from end to end, at the same height of one inch:
-                            an so this will be the forme of the side, </lem>
+                            and so this will be the forme of the side, </lem>
                         <rdg wit="#b1609"/>
                     </app></p>
                 <app type="major" subtype="add">
@@ -8840,10 +8839,10 @@
                         C, et al. (2023). Understanding Early Modern Beer: An Interdisciplinary
                         Case-Study. <hi>The Historical Journal</hi> 66(3), 516-549. </note> and wet
                     his hands and face therewith: and then let him goe about his businesse soberly
-                    and gently, taking good heed where he sets his foot, and how hee handleth them:
+                    and gently, taking good heed where hee sets his foot, and how hee handleth them:
                     for if he tread upon a Bee, or by any other meanes crush one of them; they
                     presently finding it, by the ranke smell of the poysonous humor, will be so
-                    angry; that he shall have worke enough to defend himselfe, unlesse he have on
+                    angry; that he shall have worke enough to defend himselfe, unlesse hee have on
                     his complete <app type="ortographic" subtype="change">
                         <lem wit="#b1623">harnesse:</lem>
                         <rdg wit="#b1609"><ptr target="1609.xml#ch5ancs85 1609.xml#ch5ance85"
@@ -8851,7 +8850,7 @@
                     </app>
                     <ref target="#ch5bibln40">v</ref>
                     <note type="authorial" subtype="bibliographic" xml:id="ch5bibln40">
-                        <ref target="#ch1sumn40"> v.c.1.n.40.</ref>
+                        <ref target="#ch1sumn40"> V.c.1.n.40.</ref>
                     </note> and being thus disquieted they wil be the worse to hive. <app
                         type="major" subtype="add">
                         <lem wit="#b1623">Moreover, the troubling of them doth oft times make them
@@ -8887,7 +8886,7 @@
                     <app type="major" subtype="add">
                         <lem wit="#b1623">First therefore note that a swarme is to be hived by 1.
                             shaking, or 2. cutting the bough whereon it hangeth, or by 3. wiping the
-                            Bees down, or 4.driving them up into the Hive. </lem>
+                            Bees down, or 4. driving them up into the Hive. </lem>
                         <rdg wit="#b1609"/>
                     </app></p>
                 <p xml:id="ch5par76"><note type="authorial" subtype="summary" xml:id="ch5sumn55">55.
@@ -9085,7 +9084,7 @@
                     maketh the rest more eagerly keepe the place: because some through the wet
                     cannot flie away, and their fellowes finding them there will still resort unto
                     them. But when you have moved them by other meanes as much as you may, put some
-                    morter or cloome into the hollow place, moving it forward by little and little
+                    morter or cloome into the hollow place, moving it forward by little and little,
                     so that you burie none of the Bees, untill you have spread it over the place:
                     and then will they <app type="vocabulary" subtype="del">
                         <lem wit="#b1623"/>
@@ -9101,7 +9100,7 @@
                     will doe if they may) then boare a hole above them: if beneath, beneath <fw
                         type="catch"> them:</fw>
                     <pb n="M3v"/>
-                    <fw type="header"> Of the Swarming of Bees, </fw> them: but be sure that the
+                    <fw type="header"> Of the Swarming of Bees, </fw> them: but bee sure that the
                     upper hole bee wide enough: rather than faile make two or three with a two-inch
                         <ref xml:id="ch5ednatt87" type="attachment" target="#ch5ednote87"
                         >auger</ref><note xml:id="ch5ednote87" type="editorial" subtype="gloss"
@@ -9164,7 +9163,7 @@
                         historical.’ (perch, n.1, OED3 2).</note> or at the least within sight and
                     hearing: and then (lest those which are leaft at the lighting place, by losing
                     their company a while, lose their lives also) first trouble them by the meanes
-                    mentioned. <ref target="#ch5sumn59">n.59</ref>. and then cause some of the hived
+                    mentioned <ref target="#ch5sumn59">n.59</ref>. and then cause some of the hived
                     part to arise by shaking them off the bough, and by wiping them downe that are
                     on the out-side of the Hive. Which, when they are up, will make such a noise,
                     that their fellowes may easily finde them. And <fw type="catch"> if</fw>
@@ -9173,7 +9172,7 @@
                     chance to be set upon when they come to the Hive; be-sprinkle the Mantle, the
                     Hive, and the Bees with a little strong drinke, and you shall part the fray. </p>
                 <p xml:id="ch5par91">And if any man marvaile why they of the same swarme shoulde so
-                    soone be strange one to another, seeing that Bees of one Hive being pent a whole
+                    soone be strange one to an other, seeing that Bees of one Hive being pent a whole
                     day in an other, are yet welcome to their fellowes at the last; I can give no
                     other reason but this, that they knowing a swarme may part, and so each part
                     become a severall company, they deeme these to be such by their long absence.
@@ -9202,7 +9201,7 @@
                     both, one towards an other by little and little till they be close together.
                     After they have stood so about halfe an houre, lift up the spleeted hive from
                     his Mantle and Rest, and shake the Bees out of the unspleeted hive upon the
-                    same: you may first knocke the hive downe, and then presently clap it twise or
+                    same: you may first knocke the hive downe, and then presently clap it twice or
                     thrice betweene your hands. This done, sprinkle both parts with good drinke, and
                     then without any stay set the spleeted hive over them, and they wil straight-way
                     up into it. But lay the unspleeted hive along hard by, not where it stood, but
@@ -9339,11 +9338,11 @@
                             come to their first quantitie againe, nor scarse swarme any more in that
                             vast roome. The other that they fight not, and destroy one an other.
                                 <note type="authorial" subtype="summary" xml:id="ch5sumn72">72.
-                                1.Superfluous multitude.</note>
+                                1. Superfluous multitude.</note>
                             <note type="authorial" subtype="bibliographic" xml:id="ch5bibln43">
-                                <ref target="#ch3sumn6">V.c.3. n.6.</ref>
+                                <ref target="#ch3sumn6">V.c.3.n.6.</ref>
                             </note>
-                            <note type="authorial" subtype="summary" xml:id="ch5sumn73">73. 2.Civill
+                            <note type="authorial" subtype="summary" xml:id="ch5sumn73">73. 2. Civill
                                 warre.</note> Unto which two inconveniences the swarmes that unite
                             themselves, if they be not aided, are obnoxious. <note type="authorial"
                                 subtype="summary" xml:id="ch5sumn74">74. To prevent the
@@ -9391,7 +9390,7 @@
                             Combes ends even with the skirts, and so set him againe on the Stoole
                             upon moveable <ref target="#ch5bibln44">v:</ref>
                             <note type="authorial" subtype="bibliographic" xml:id="ch5bibln44">
-                                <ref target="#ch3sumn29">V.c.3.n. 29.</ref>
+                                <ref target="#ch3sumn29">V.c.3.n.29.</ref>
                             </note> Doore-posts, and a thin bolster behinde: and presently clome up
                             the Hive as close as may be. </lem>
                         <rdg wit="#b1609"/>
@@ -9454,7 +9453,7 @@
                                 xml:id="ch5ednatt90" type="attachment" target="#ch5ednote90"
                                 >knit</ref><note xml:id="ch5ednote90" type="editorial"
                                 subtype="gloss" source="OED">‘Of bees: clustered together in a mass
-                                (now dialect)’ (v., OED 6c).</note> in the <term> Cone,</term> will
+                                (now dialect)’ (v., OED 6c).</note> in the <term> Cone</term>, will
                             not abide, but returne home againe: the cause whereof is windie, wet, or
                             cloudie weather, the not finding of a fit lighting-place, trouble in
                             hiving, the hot standing of the Hive without defence, and the missing of
@@ -9509,7 +9508,7 @@
                     <app type="vocabulary" subtype="add">
                         <lem wit="#b1623">And</lem>
                         <rdg wit="#b1609"/>
-                    </app> if anie of them be going into other Hives, (as sometimes, where the Hives
+                    </app> if any of them be going into other Hives, (as sometimes, where the Hives
                     stand neere together <app type="minor" subtype="change">
                         <lem wit="#b1623">or are many, some of them, specially the young Nymphs that
                             have not beene abroad before, will doe; <ref target="#ch5bibln45"
@@ -9606,7 +9605,7 @@
                     untill the weather be very pleasant. <note type="authorial" subtype="summary"
                         xml:id="ch5sumn88"> 88. A swarme may live six daies without Honie.</note>
                     They may live five or six daies in the Hive without Honie: but afterward they
-                    begin to string downe, hanging at an others heeles. <quote>
+                    begin to string downe, hanging at anothers heeles. <quote>
                         <foreign xml:lang="la"><ref xml:id="ch5ednatt91x" type="attatchment"
                                 target="#ch5ednote91x">Pedibus connexae ad limina
                                 pendent.</ref><note xml:id="ch5ednote91x" type="editorial"
@@ -9636,7 +9635,7 @@
                             unkinde or unconstant) leave them there till it mend. <ref
                                 target="#ch5bibln49">v:</ref>
                             <note type="authorial" subtype="bibliographic" xml:id="ch5bibln49">
-                                <ref target="#ch9sumn2"> V.c.9.n. 2.</ref>
+                                <ref target="#ch9sumn2"> V.c.9.n.2.</ref>
                             </note> for those that are not removed, but keepe still their first
                             standing, because they are not to seeke of their way home, they feare
                             the foule weather as little as the best. And therefore need not to be
@@ -12389,7 +12388,7 @@
                                 subtype="gloss" resp="#JR" source="OED"><hi>castlings]</hi> second
                                 (or third) swarms which leaves a hive in the season (n.2 OED
                                 2).</note> not over hived, before <term>Cancer</term>; yea and in
-                            kinde or backward Summers before <term> Mid-Cancer:</term> when the
+                            kinde or backward Summers before <term>Mid-Cancer:</term> when the
                             black-bery-blossomes are not yet come, <ref target="#ch8bibln1">v.</ref>
                             <note type="authorial" subtype="bibliographic" xml:id="ch8bibln1">
                                 <ref target="#ch5sumn11">V.c.5.n. 11.</ref>
@@ -12409,7 +12408,7 @@
                             <note type="authorial" subtype="bibliographic" xml:id="ch8bibln2">
                                 <ref target="#ch5sumn68"> V.c.5.n.68. </ref>
                             </note> yet omit not to save that little which they have, and your vaine
-                            labour and cost in feeding them. <ref target="#ch10p1sumn3">v.c. 10.
+                            labour and cost in feeding them. <ref target="#ch10p1sumn3">v.c.10.
                                 p.1.n.3.in III.</ref></lem>
                         <rdg wit="#b1609"/>
                     </app></p>
