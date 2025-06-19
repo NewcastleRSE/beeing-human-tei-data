@@ -5810,7 +5810,7 @@
                     <fw type="header"> and the Hiving of them. </fw> nine and three, <app subtype="add" type="minor">
                         <lem wit="#b1623">and sometime an houre sooner or later:</lem>
                         <rdg wit="#b1609"></rdg>
-                    </app> but chiefly betweene eleven and one. They choose rather the fore-noone,
+                    </app> but chiefly betweene eleven and one. They choose rather the <ref target="#ch5ednote17xxx" type="attachment" xml:id="ch5ednatt17xxx">fore-noone</ref>,<note xml:id="ch5ednote17xxx" type="editorial" subtype="gloss" resp="JR">= i.e. the morning</note>
                     if the weather please them: otherwise they will stay for a faire houre in the
                     after-noone. This time of the day therefore, in the swarming months, your Bees
                     must continually be attended.</p>
@@ -5830,12 +5830,12 @@
                                 text for the second edition, he was able to include extra
                                 information from the intervening years, like this passage about the
                                 conditions of 1621-2.</note> there have bin swarmes a weeke in
-                                <term>Leo</term>, which did well, (the Bramble, that was wont to be
+                            <term>Leo</term>, which did well, (the <ref target="#ch5ednote17xx" type="attachment" xml:id="ch5ednatt17xx">Bramble</ref>,<note xml:id="ch5ednote17xx" type="editorial" subtype="gloss" resp="JR"><ref target="https://www.woodlandtrust.org.uk/trees-woods-and-wildlife/plants/wild-flowers/bramble/">Read more about bramble on the woodland trust website.</ref></note> that was wont to be
                             a fortnight or three weekes <ref target="#ch5ednote18xx" type="attachment" xml:id="ch5ednatt18xx">rather</ref>,<note resp="#JR" source="OED" subtype="gloss" type="editorial" xml:id="ch5ednote18xx">Earlier (adv., OED3 1).</note>
                             <ref target="#ch5bibln12">v.</ref>
                             <note subtype="bibliographic" type="authorial" xml:id="ch5bibln12">
                                 <ref target="#ch6sumn39">V.c.6.n.39.</ref>
-                            </note> not blowing before that time:) Likewise in warme Countries in a
+                            </note> not <ref target="#ch5ednote18iv" type="attachment" xml:id="ch5ednatt18iv">blowing</ref><note xml:id="ch5ednote18iv" type="editorial" subtype="gloss" resp="JR">= blossoming (n.2, OED a)</note> before that time:) Likewise in warme Countries in a
                             kinde Spring, some have come somewhat before <term>Gemini</term>, but
                             this also is rare. </lem>
                         <rdg wit="#b1609"></rdg>
@@ -5866,13 +5866,13 @@
                 </p>
                 <note place="inline" subtype="gloss" type="authorial" xml:id="ch5glon4"><app subtype="add" type="minor">
                         <lem wit="#b1623">Note heere that in the <ref target="#ch5ednote22" type="attachment" xml:id="ch5ednatt22">Heath-countrie</ref>,<note resp="#JR" source="OED" subtype="gloss" type="editorial" xml:id="ch5ednote22">Open uncultivated ground (heath, OED 1a).</note>
-                            swarmes are usually lateward, namely in the latter part of <term>
+                            swarmes are usually <ref target="#ch5ednote22x" type="attachment" xml:id="ch5ednatt22x">lateward</ref>,<note xml:id="ch5ednote22x" type="editorial" subtype="gloss"></note> namely in the latter part of <term>
                                 Cancer</term> and the forepart of <term>Leo:</term> which some
                             yeeres prove better than the rathe.</lem>
                         <rdg wit="#b1609"></rdg>
                     </app>
                 </note>
-                <p xml:id="ch5par11">Those that swarme before the <ref target="#ch5ednote23" type="attachment" xml:id="ch5ednatt23">blowing</ref><note resp="#JR" source="OED" subtype="gloss" type="editorial" xml:id="ch5ednote23">Blossoming (v.2, OED 1a).</note> of knap-weed, come in very
+                <p xml:id="ch5par11">Those that swarme before the <ref target="#ch5ednote23" type="attachment" xml:id="ch5ednatt23">blowing</ref><note resp="#JR" source="OED" subtype="gloss" type="editorial" xml:id="ch5ednote23">Blossoming (v.2, OED 1a).</note> of <ref target="#ch5ednote23x" type="attachment" xml:id="ch5ednatt23x">knap-weed</ref>,<note xml:id="ch5ednote23x" type="editorial" subtype="gloss" resp="JR">‘The tightly packed, thistle-like purple flower heads of common knapweed bloom on all kinds of grasslands. Also regularly called black knapweed, this plant attracts clouds of butterflies.’ (<ref target=" https://www.wildlifetrusts.org/wildlife-explorer/wildflowers/common-knapweed">Wildlife Trusts</ref>)</note> come in very
                     good time: before the blowing of blackberies, <app subtype="add" type="reference">
                         <lem wit="#b1623"><ref target="#ch5bibln13">v.</ref></lem>
                         <rdg wit="#b1609"></rdg>
@@ -5882,7 +5882,8 @@
                             <lem wit="#b1623"><ref target="#ch6sumn39"> V.c.6.n.39. </ref></lem>
                             <rdg wit="#b1609"></rdg>
                         </app>
-                    </note> they may live and doe well: but blackbery-swarmes, <app subtype="add" type="minor">
+                    </note> they may live and doe well: but <ref target="#ch5ednote23xx" type="attachment" xml:id="ch5ednatt23xx">blackbery-swarmes</ref>,<note xml:id="ch5ednote23xx" type="editorial" subtype="gloss" resp="JR"
+                        >The honey made from blackberry blossom has ‘a thick but smooth and creamy texture and a delicate flavour with a fruity finish’. <ref target="https://beeswiki.com/blackberry-honey/">(Beeswiki)</ref> </note> <app subtype="add" type="minor">
                         <lem wit="#b1623">specially <ref target="#ch5ednote19x" type="attachment" xml:id="ch5ednatt19x">castlings</ref>,<note resp="#JR" source="OED" subtype="gloss" type="editorial" xml:id="ch5ednote19x">Second (or
                                 third) swarms which leaves a hive in the season (n.1 OED
                             2).</note></lem>
@@ -5945,7 +5946,7 @@
                     that, in the <app subtype="change" type="vocabulary">
                         <lem wit="#b1623">swarming,</lem>
                         <rdg wit="#b1609"><ptr target="1609.xml#ch5ancs16 1609.xml#ch5ance16"></ptr></rdg>
-                    </app> a blacke cloud rising stayeth part of them that are alreadie come forth,
+                    </app> a <ref target="#ch5ednote26x" type="attachment" xml:id="ch5ednatt26x">blacke cloud</ref><note xml:id="ch5ednote26x" type="editorial" subtype="gloss">The swarming bees: ‘innumerable body of insects, birds (cloud, n., OED 7). See also: ‘And see from yon old Oak, that mates the Skies, / How black the Clouds of swarming Bees arise’ (Virgil, Works, 1697, trans. Dryden, E5r).</note> rising stayeth part of them that are alreadie come forth,
                     and lie about the hives-doore: sometime when they are all up, either fearing a
                     cloud, or disliking the lighting-place, or being troubled in the hiving, part
                     doth returne.</p>
@@ -5974,7 +5975,8 @@
                 <p xml:id="ch5par14"><note subtype="summary" type="authorial" xml:id="ch5sumn16">16.
                         The vulgar Bees appoint the rising of the fore-Swarmes, &amp; that upon 4.
                         grounds.</note> The choice of the time when the first colonies, or
-                    prime-swarmes shall goe forth, the rulers referre unto the commons: who by
+                    prime-swarmes shall goe forth, the rulers referre unto the <ref target="#ch5ednote26xx" type="attachment" xml:id="ch5ednatt26xx">commons</ref>:<note xml:id="ch5ednote26xx" type="editorial" subtype="gloss" resp="JR" source="OED"
+                        >‘Ordinary people as distinguished from the aristocracy or upper classes; commoners or common people regarded as a class or group’ (OED 1a). </note> who by
                     reason of their continuall travell and businesse both without and within, doe
                     best know when all things are readie and fit for them: <ref target="#ch5ednote27" type="attachment" xml:id="ch5ednatt27">First within they will be sure that
                         they have a Prince ready to goe with them</ref><note resp="#VN" source="scholarship" subtype="gloss" type="editorial" xml:id="ch5ednote27"> In theory
@@ -6019,9 +6021,8 @@
                     </app></p>
                 <p xml:id="ch5par15"><note subtype="summary" type="authorial" xml:id="ch5sumn17">17.
                         Five signes of the first swarming.</note> When the Hives begin to be full,
-                    they will <ref target="#ch5ednote30" type="attachment" xml:id="ch5ednatt30">dronie</ref>,<note resp="#OS" source="OED" subtype="gloss" type="editorial" xml:id="ch5ednote30">Characterized by a continuous steady deep humming or
-                        buzzing sound, or a monotonous, dull tone. (adj., OED 2)</note> or yeeld
-                    forth fledge-drones: <app subtype="add" type="reference">
+                    they will <ref target="#ch5ednote30" type="attachment" xml:id="ch5ednatt30">dronie</ref>,<note resp="#OS" source="OED" subtype="gloss" type="editorial" xml:id="ch5ednote30">i.e. buzz, perhaps also test their wings. The adjective dronie connotes ‘a continuous steady deep humming or buzzing sound’. (adj.2, OED 2)</note> or yeeld
+                    forth <ref target="#ch5ednote30x" type="attachment" xml:id="ch5ednatt30x">fledge-drones</ref>:<note xml:id="ch5ednote30x" type="editorial" subtype="gloss" resp="JR">= worker bees ready to fly (i.e. their wings are fully developed).</note> <app subtype="add" type="reference">
                         <lem wit="#b1623"><ref target="#ch5bibln16">v.</ref>
                             <note subtype="bibliographic" type="authorial" xml:id="ch5bibln16"><ref target="#ch4sumn20">v.c.4.n.20</ref></note></lem>
                         <rdg wit="#b1609"></rdg>
