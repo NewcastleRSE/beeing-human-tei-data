@@ -5483,7 +5483,7 @@
                 <note place="inline" subtype="gloss" type="authorial" xml:id="ch4glon6">
                     <note subtype="summary" type="authorial" xml:id="ch4sumn25">25. The Bees
                         compared to the <hi rend="opposite">Amazons</hi>.</note>
-                    <foreign xml:lang="la" corresp="#ch4transn1"><hi rend="opposite">*Amazones bellicosae erant Scythiae
+                    <foreign corresp="#ch4transn1" xml:lang="la"><hi rend="opposite">*Amazones bellicosae erant Scythiae
                             mulieres, quae cum viris exultantes in Cappadociae ora juxta amnem
                             Thermodonta consederunt: ubi, viris plerisque per insidias accolarum
                             trucidatis, reliquos qui domi remanserant, ut ipsae solae rerum
@@ -5511,7 +5511,7 @@
                             possident: quae sui sexus prolem summa itidem cura enutrientes, mares
                             omnes tam viros quam filios caedere solent: ut &amp; ipsae vere Aeorpata
                             dici possint.</hi></foreign>
-                    <note xml:id="ch4transn1" type="editorial" subtype="translation" resp="#HH">The Amazons
+                    <note resp="#HH" subtype="translation" type="editorial" xml:id="ch4transn1">The Amazons
                         were very warlike Scythian women, who, running riot with their menfolk,
                         settled beside the River Thermodon in the country of Cappadocia: and there,
                         after many of the men had been slaughtered in ambushes by the locals, they
