@@ -368,6 +368,13 @@ def append_hi_summary_notes(tree, ns):
                 # ignores refs that are rendered as superscript
                 # print('I affect ' , el.get('target'));
                 continue
+            elif el.get('type') == 'attachment':
+                # ignores refs that are attachment points for editorial notes
+                # print('I affect ' , el.get('target'));
+                continue
+            elif el.get('type') == 'noteCrossRef':
+                # ignores refs that are cross-references to notes inside notes
+                continue
             else:
                 # default behaviour: each character is formatted individually
                 el.text = ''
