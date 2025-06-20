@@ -14,6 +14,9 @@ jobs:
         steps:
             - name: Checkout repository
               uses: actions/checkout@v4
+            - name: Run the normalisation script
+              id: run_normalisation
+              run: python scripts/normalise_whitespace.py
             - name: Run the consolidation script
               id: run_consolidation
               run: python scripts/automate_variation.py
