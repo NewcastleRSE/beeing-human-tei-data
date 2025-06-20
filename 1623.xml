@@ -127,6 +127,9 @@
                     <person xml:id="BGS">
                         <persName corresp="balu" key="BGS">Balu</persName>
                     </person>
+                    <person xml:id="HH">
+                        <persName corresp="henry" key="HH">Henry Howard</persName>
+                    </person>
                 </listPerson>
             </particDesc>
         </profileDesc>
@@ -5480,7 +5483,7 @@
                 <note place="inline" subtype="gloss" type="authorial" xml:id="ch4glon6">
                     <note subtype="summary" type="authorial" xml:id="ch4sumn25">25. The Bees
                         compared to the <hi rend="opposite">Amazons</hi>.</note>
-                    <foreign xml:lang="la"><hi rend="opposite">*Amazones bellicosae erant Scythiae
+                    <foreign corresp="#ch4transn1" xml:lang="la"><hi rend="opposite">*Amazones bellicosae erant Scythiae
                             mulieres, quae cum viris exultantes in Cappadociae ora juxta amnem
                             Thermodonta consederunt: ubi, viris plerisque per insidias accolarum
                             trucidatis, reliquos qui domi remanserant, ut ipsae solae rerum
@@ -5508,6 +5511,35 @@
                             possident: quae sui sexus prolem summa itidem cura enutrientes, mares
                             omnes tam viros quam filios caedere solent: ut &amp; ipsae vere Aeorpata
                             dici possint.</hi></foreign>
+                    <note resp="#HH" subtype="translation" type="editorial" xml:id="ch4transn1">The Amazons
+                        were very warlike Scythian women, who, running riot with their menfolk,
+                        settled beside the River Thermodon in the country of Cappadocia: and there,
+                        after many of the men had been slaughtered in ambushes by the locals, they
+                        slew the remainder who had stayed at home, so that they alone would be
+                        masters of their realm; and indeed, taking up arms, they looked after
+                        themselves keenly, holding their enemies in contempt, and in time extended
+                        their rule far and wide into Europe and part of Asia. But to prevent their
+                        race dying out, they made use of men living nearby as if they were their
+                        husbands, and after they had performed their duty they drove them off; and
+                        all the maidens they bore they nurtured and trained in arms, but the boys
+                        they unfeelingly killed, for which the Scythians called them Aeorpata, that
+                        is Man-killers, as Herodotus relates (book IV). The first queen of these
+                        women was called Marthesia or Marpesia, and she indeed bore several
+                        daughters, Antiope, Orithya, Menalippe and Hypolite, of who the two elder
+                        succeeded their mother, but the others were not fit for ruling. And so the
+                        realm of the Amazons characterises very appositely the nation of bees:
+                        Marpesia is the queen bee who produces several offspring; Antiope and
+                        Orithya are the chief daughters, who lead out the first and second swarms
+                        and govern them, Menalippe and Hypolite the ones who either do not control
+                        those chieftains at all or try without success. For after the second swarm
+                        either they remain in the hives and are punished with death, or no sooner
+                        have they left than they die of hunger. Also the behaviour of the two races
+                        is no less in accordance: for the female bees too are aggressive, and they
+                        hold sway not only over Europe and part of Asia, like the aforementioned,
+                        but over the entire earth. And in just the same way they feed with the
+                        greatest care their offspring of their own sex, but all the males, both
+                        husbands and sons, they are accustomed to kill, so that they too can be
+                        truly called Aeorpata. </note>
                 </note>
                 <p xml:id="ch4par27"><note subtype="summary" type="authorial" xml:id="ch4sumn26">26.
                         They rid not their Drones all at once.</note> But because in the same Hive

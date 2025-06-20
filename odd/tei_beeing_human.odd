@@ -619,6 +619,17 @@
               than English should be encoded with a <tag>foreign</tag> element with a corresponding
                 <att>xml:lang</att> attribute. The two most common language are Latin (<tag>foreign
                 xml:lang="la")</tag> and Ancient Greek (<tag>foreign xml:lang="grc")</tag></p>
+            <div xml:id="encForeignTranslation">
+              <head>Translations of foreign text</head>
+              <p>Translations of foreign text supplied by the editors are encoded in a <tag>note</tag> element, immediately following the <tag>foreign</tag> element. The <tag>note</tag> must be of <att>type</att> <val>editorial</val>, <att>subtype</att> translation, have a <att>resp</att> pointing to the id of the translator and, of course, a unique <att>xml:id</att>, in the format <code>chXtransnY</code>, with Y being the sequential number of the note.</p>
+              <p>In addition to this, the <tag>foreign</tag> element must now have an <att>corresp</att> attribute pointing to the <att>xml:id</att> of the note that translates it.</p>
+              <egXML xmlns="http://www.tei-c.org/ns/Examples">
+                <foreign xml:lang="la" corresp="#ch4transn1"><hi rend="opposite">*Amazones bellicosae erant Scythiae
+                  mulieres...</hi></foreign>
+                <note xml:id="ch4transn1" type="editorial" subtype="translation" resp="#HH">The Amazons
+                  were very warlike Scythian women... </note>
+              </egXML>
+            </div>
           </div>
           <div xml:id="encNotes">
             <head>Notes</head>
@@ -786,6 +797,20 @@
                       corresp="#anchorStart #anchorEnd">This is a test.</note></p>
                 </egXML>
               </div>
+              <div xml:id="encNotesCrossRef">
+                <head>Editorial notes with cross-references to other notes</head>
+                <p>It is possible for editorial notes to cross-reference eachother. Simply wrap the anchor with a <tag>ref</tag> of <att>type</att> <val>type="noteCrossRef"</val>, and a <att>target</att> pointing to the <att>xml:id</att> of the <ref>original point of attachment</ref> (not the note itself).</p>
+                <egXML xmlns="http://www.tei-c.org/ns/Examples">
+                  <p>This is the point of <ref xml:id="attachmentn1" type="attachment" target="#note1">attachment</ref> for one note</p>
+                  <note xml:id="note1" type="editorial" subtype="gloss" resp="nobody">This is the first note.</note>
+                  <p>And this is the point of <ref xml:id="attachmentn2" type="attachment" target="#note2">attachment</ref> for the second note</p>
+                  <note xml:id="note2" type="editorial" subtype="gloss" resp="nobody">This is the second note. Also, <ref type="noteCrossRef" target="#attachmentn1">see above</ref>.</note>
+                </egXML>
+              </div>
+            </div>
+            <div xml:id="encNotesTrans">
+              <head>Encoding notes for translation of foreign text</head>
+              <p>See <ref target="#encForeignTranslation">Translations of foreign text</ref>.</p>
             </div>
           </div>
           <div xml:id="encBibl">
@@ -1481,6 +1506,9 @@
                     <desc versionDate="2023-08-11" xml:lang="en">Marks the passage as being an
                       uncertain transcription. Use @cert to add more detail.</desc>
                   </valItem>
+                  <valItem mode="add" ident="translation">
+                    <desc versionDate="2025-06-20" xml:lang="en">Marks the passage as a translation of a cross-referenced passage. Use @xml:lang to indicate the target language of the translation and @resp to indicate the translator</desc>
+                  </valItem>
                 </valList>
               </attDef>
               <attDef ident="cert" mode="change">
@@ -1557,6 +1585,7 @@
             </content>
             <attList>
               <attDef ident="xml:lang" mode="change" usage="rec"/>
+              <attDef ident="corresp" mode="change" usage="rec"/>
             </attList>
           </elementSpec>
 
