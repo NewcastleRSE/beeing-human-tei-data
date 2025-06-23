@@ -4930,33 +4930,34 @@
                     and Latine, but also in the first language, wherein names were given to things
                     according to their natures, the honi-bee hath hir feminine appellation, as the
                     drone his masculine.<anchor xml:id="ch4ance12" data-origfile="1609" type="attachmentCollation" subtype="end" /></rdg></app>
-                </p>
-                <note subtype="bibliographic" type="authorial" xml:id="ch4othern6x"><bibl><seg rend="italic">Deborah</seg></bibl></note>
-                <note place="inline" subtype="gloss" type="authorial" xml:id="ch4glon1"><app subtype="change" type="minor">
+                    <note subtype="bibliographic" type="authorial" xml:id="ch4othern6x"><bibl><seg rend="italic">Deborah</seg></bibl></note>
+                    <note place="inline" subtype="gloss" type="authorial" xml:id="ch4glon1"><app subtype="change" type="minor">
                         <lem wit="#b1623">*<foreign xml:lang="la">Hic fucus, &#8001; &#954;&#951;&#966;&#942;&#957;: Ac haec apis,
-                                &#7969; &#956;&#941;&#955;&#953;&#963;&#963;&#945;, &#1491;&#1489;&#1493;&#1512;&#1492;, cum &#1492; faeminino </foreign></lem>
+                            &#7969; &#956;&#941;&#955;&#953;&#963;&#963;&#945;, &#1491;&#1489;&#1493;&#1512;&#1492;, cum &#1492; faeminino </foreign></lem>
                         <rdg wit="#b1609" source="1609.xml#ch4ancs13 1609.xml#ch4ance13"><anchor xml:id="ch4ancs13" data-origfile="1609" type="attachmentCollation" subtype="start" /><note data-origfile="1609">Haec apis <note cert="check" subtype="certainty" type="editorial" data-origfile="1609">greek and hebrew</note>
                     </note><anchor xml:id="ch4ance13" data-origfile="1609" type="attachmentCollation" subtype="end" /></rdg></app>
-                    <app subtype="add" type="major">
-                        <lem wit="#b1623">
-                            <persName>Melissa</persName> the daughter of
+                        <app subtype="add" type="major">
+                            <lem wit="#b1623">
+                                <persName>Melissa</persName> the daughter of
                                 <persName>Melissus</persName> King of Crete, being one of <persName>
-                                Jupiters</persName> nurces, is said to have beene by him transformed
-                            into the Honi-Bee: which retaineth still her gender, sex, and name. <quote>
-                                <foreign xml:lang="la">Didymus aiit duas Melissi fuisse filias,
-                                    Almatheam &amp; Melissam, quae Jovem puerum caprino lacte &amp;
-                                    melle nutrierant.</foreign>
-                                <bibl>Lact.lib.1.instit.c.22.</bibl>
-                            </quote>
-                            <quote>
-                                <foreign xml:lang="la">Nec sane rustico dignum est sciscitari,
-                                    fueritne mulier pulcherrima specie Melissa, quam Iupiter in Apem
-                                    convertit.</foreign>
-                                <bibl> Columella.lib.10.c.2.</bibl>
-                            </quote>
-                        </lem>
-                        <rdg wit="#b1609" />
-                    </app></note>
+                                    Jupiters</persName> nurces, is said to have beene by him transformed
+                                into the Honi-Bee: which retaineth still her gender, sex, and name. <quote>
+                                    <foreign xml:lang="la">Didymus aiit duas Melissi fuisse filias,
+                                        Almatheam &amp; Melissam, quae Jovem puerum caprino lacte &amp;
+                                        melle nutrierant.</foreign>
+                                    <bibl>Lact.lib.1.instit.c.22.</bibl>
+                                </quote>
+                                <quote>
+                                    <foreign xml:lang="la">Nec sane rustico dignum est sciscitari,
+                                        fueritne mulier pulcherrima specie Melissa, quam Iupiter in Apem
+                                        convertit.</foreign>
+                                    <bibl> Columella.lib.10.c.2.</bibl>
+                                </quote>
+                            </lem>
+                            <rdg wit="#b1609" />
+                        </app></note>
+                </p>
+                
                 <p xml:id="ch4par7"><note subtype="summary" type="authorial" xml:id="ch4sumn7">7. <seg rend="italic">The fourth reason is, that the wasps and dorres have drones, which are their males. </seg></note> Fourthly, wee see the like in the likest <term> insecta</term>
                     the Waspe and the Dorre: for the manifesting wherof I wil briefly shew you the
                     breeding of them both. </p>
