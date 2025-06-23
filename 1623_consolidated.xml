@@ -4931,7 +4931,6 @@
                     according to their natures, the honi-bee hath hir feminine appellation, as the
                     drone his masculine.<anchor xml:id="ch4ance12" data-origfile="1609" type="attachmentCollation" subtype="end" /></rdg></app>
                 </p>
-                <note subtype="bibliographic" type="authorial" xml:id="ch4othern6x"><bibl><seg rend="italic">Deborah</seg></bibl></note>
                 <note place="inline" subtype="gloss" type="authorial" xml:id="ch4glon1"><app subtype="change" type="minor">
                     <lem wit="#b1623">*<foreign xml:lang="la">Hic fucus, &#8001; &#954;&#951;&#966;&#942;&#957;: Ac haec apis,
                         &#7969; &#956;&#941;&#955;&#953;&#963;&#963;&#945;, &#1491;&#1489;&#1493;&#1512;&#1492;, cum &#1492; faeminino </foreign></lem>
@@ -4956,7 +4955,7 @@
                             </quote>
                         </lem>
                         <rdg wit="#b1609" />
-                    </app></note>
+                    </app><note subtype="bibliographic" type="authorial" xml:id="ch4othern6x"><bibl><seg rend="italic">Deborah</seg></bibl></note></note>
                 <p xml:id="ch4par7"><note subtype="summary" type="authorial" xml:id="ch4sumn7">7. <seg rend="italic">The fourth reason is, that the wasps and dorres have drones, which are their males. </seg></note> Fourthly, wee see the like in the likest <term> insecta</term>
                     the Waspe and the Dorre: for the manifesting wherof I wil briefly shew you the
                     breeding of them both. </p>

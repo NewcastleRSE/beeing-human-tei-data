@@ -4930,7 +4930,6 @@
                         <rdg wit="#b1609"><ptr target="1609.xml#ch4ancs12 1609.xml#ch4ance12"></ptr></rdg>
                     </app>
                 </p>
-                <note subtype="bibliographic" type="authorial" xml:id="ch4othern6x"><bibl><seg rend="italic">Deborah</seg></bibl></note>
                 <note place="inline" subtype="gloss" type="authorial" xml:id="ch4glon1"><app subtype="change" type="minor">
                     <lem wit="#b1623">*<foreign xml:lang="la">Hic fucus, ὁ κηφήν: Ac haec apis,
                         ἡ μέλισσα, דבורה, cum ה faeminino </foreign></lem>
@@ -4955,7 +4954,7 @@
                             </quote>
                         </lem>
                         <rdg wit="#b1609"></rdg>
-                    </app></note>
+                    </app><note subtype="bibliographic" type="authorial" xml:id="ch4othern6x"><bibl><seg rend="italic">Deborah</seg></bibl></note></note>
                 <p xml:id="ch4par7"><note subtype="summary" type="authorial" xml:id="ch4sumn7">7.
                         The fourth reason is, that the wasps and dorres have drones, which are their
                         males.</note> Fourthly, wee see the like in the likest <term> insecta</term>
