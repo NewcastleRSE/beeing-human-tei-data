@@ -6827,6 +6827,7 @@
                     </app></p>
                 <app subtype="add" type="major">
                     <lem wit="#b1623">
+                        <fw type="catch"></fw>
                         <pb n="K4v"></pb>
                         <figure type="music-notation">
                             <graphic url="media/music-notation/ch5/ch5musicnotation1.svg"></graphic>
@@ -6907,9 +6908,11 @@
                                     <l> And this she sings in measures mournefull sweete.</l>
                                 </lg>
                             </lg>
-
-
+                            <fw type="catch"></fw>
                             <pb n="L1r"></pb>
+                            <figure>
+                                <graphic url="media/music-notation/ch5/ch5musicnotation2.svg"></graphic>
+                            </figure>
                             <lg xml:id="ch5musicbassuslyrics1">
                                 <head type="register">I. BASSUS.</head>
                                 <lg n="1" type="verse">
