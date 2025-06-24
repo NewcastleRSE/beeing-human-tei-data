@@ -6910,7 +6910,7 @@
                             </lg>
                             <fw type="catch"></fw>
                             <pb n="L1r"></pb>
-                            <figure>
+                            <figure type="music-notation">
                                 <graphic url="media/music-notation/ch5/ch5musicnotation2.svg"></graphic>
                             </figure>
                             <lg xml:id="ch5musicbassuslyrics1">
@@ -6991,9 +6991,11 @@
                                 </lg>
                             </lg>
 
-
+                            <fw type="catch"></fw>
                             <pb n="L1v"></pb>
-
+                            <figure type="music-notation">
+                                <graphic url="media/music-notation/ch5/ch5musicnotation3.svg"></graphic>
+                            </figure>
                             <lg xml:id="ch5musiccontratenorlyrics2">
                                 <head type="register">CONTRATENOR.</head>
                                 <lg n="1" type="verse">
@@ -7041,9 +7043,12 @@
                                     <l> The Prince hir much-desired Sov'raigntie:</l>
                                 </lg>
                             </lg>
-
-                            <pb n="L2r"></pb>
                             
+                            <fw type="catch"></fw>
+                            <pb n="L2r"></pb>
+                            <figure type="music-notation">
+                                <graphic url="media/music-notation/ch5/ch5musicnotation4.svg"></graphic>
+                            </figure>
 
                             <lg xml:id="ch5musicbassuslyrics2">
                                 <head type="register">BASSUS.</head>
