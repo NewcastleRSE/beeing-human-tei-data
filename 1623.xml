@@ -3109,8 +3109,8 @@
                     </app></fw>
                 <app subtype="add" type="major">
                     <lem wit="#b1623"><figure>
-                            <figDesc>DIAGRAM</figDesc>
-                            <graphic url="#"></graphic>
+                            <figDesc></figDesc>
+                            <graphic url="media/diagrams/ch2/ch2fig1.svg"></graphic>
                         </figure></lem>
                     <rdg wit="#b1609"></rdg>
                 </app>
@@ -3197,8 +3197,8 @@
                     </app></p>
                 <app subtype="add" type="major">
                     <lem wit="#b1623"><figure>
-                            <figDesc>DIAGRAM</figDesc>
-                            <graphic url="#"></graphic>
+                            <figDesc></figDesc>
+                            <graphic url="media/diagrams/ch2/ch2fig2.svg"></graphic>
                         </figure>
                     </lem>
                     <rdg wit="#b1609"></rdg>
@@ -3341,8 +3341,7 @@
                     </app></p>
                 <app subtype="add" type="major">
                     <lem wit="#b1623"><figure>
-                            <graphic url="#"></graphic>
-                            <figDesc>DIAGRAM</figDesc>
+                            <graphic url="media/diagrams/ch3/ch3fig1.svg"></graphic>
                         </figure></lem>
                     <rdg wit="#b1609"></rdg>
                 </app>
@@ -3873,8 +3872,7 @@
                     </app></p>
                 <app subtype="add" type="major">
                     <lem wit="#b1623"><figure>
-                            <graphic url="#"></graphic>
-                            <figDesc>DIAGRAM</figDesc>
+                            <graphic url="media/diagrams/ch3/ch3fig2.svg"></graphic>
                         </figure></lem>
                     <rdg wit="#b1609"></rdg>
                 </app>
@@ -3913,8 +3911,7 @@
                 <fw type="header"> Of the Hives, </fw>
                 <app subtype="change" type="minor">
                     <lem wit="#b1623"><figure>
-                            <graphic url="#"></graphic>
-                            <figDesc>DIAGRAM</figDesc>
+                            <graphic url="media/diagrams/ch3/ch3fig3.svg"></graphic>
                         </figure></lem>
                     <rdg wit="#b1609"><ptr target="1609.xml#ch3ancs31x 1609.xml#ch3ance31x"></ptr></rdg>
                 </app>
@@ -8574,8 +8571,7 @@
                             hexagonial bases of three contiguous cells on the other side, meeting
                             all in one angle right in the centre of the opposite bottome: as in this
                             forme: <figure place="inline">
-                                <graphic url="#"></graphic>
-                                <figDesc>DIAGRAM</figDesc>
+                                <graphic rend="small" url="media/diagrams/ch6/ch6fig1.svg"></graphic>
                             </figure> which is so articiall, as well for strength as beauty; that no
                             schadon, though the thin bottome of his cell should faile, can breake
                             through into a cell of the other side. Hee that sees this, sees not a
@@ -9459,8 +9455,7 @@
                 <pb n="P3r"></pb>
                 <fw type="header"> Of the Bees Worke. </fw>
                 <figure>
-                    <graphic url="#"></graphic>
-                    <figDesc>DIAGRAM</figDesc>
+                    <graphic url="media/diagrams/ch6/ch6fig2.svg"></graphic>
                 </figure>
                 <p xml:id="ch6par51"><note subtype="summary" type="authorial" xml:id="ch6sumn58">58.
                         The trough-cover, and the use of it.</note>
@@ -9483,8 +9478,7 @@
                         <rdg wit="#b1609"></rdg>
                     </app></p>
                 <figure>
-                    <graphic url="#"></graphic>
-                    <figDesc>DIAGRAM</figDesc>
+                    <graphic rend="small" url="media/diagrams/ch6/ch6fig3.svg"></graphic>
                 </figure>
                 <p xml:id="ch6par53"><app subtype="add" type="major">
                         <lem wit="#b1623">Other fashions both of their Troughes, and of their
