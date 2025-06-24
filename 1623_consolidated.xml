@@ -6751,6 +6751,9 @@
                 <app subtype="add" type="major">
                     <lem wit="#b1623">
                         <pb n="K4v" />
+                        <figure type="music-notation">
+                            <graphic url="media/music-notation/ch5/ch5musicnotation1.svg" />
+                        </figure>
                         <lg type="song" xml:id="melissomeloslyrics">
                             <lg xml:id="ch5musiccontratenorlyrics1">
                                 <head type="register">I. CONTRATENOR</head>
