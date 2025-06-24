@@ -6827,7 +6827,11 @@
                     </app></p>
                 <app subtype="add" type="major">
                     <lem wit="#b1623">
+                        <fw type="catch"></fw>
                         <pb n="K4v"></pb>
+                        <figure type="music-notation">
+                            <graphic url="media/music-notation/ch5/ch5musicnotation1.svg"></graphic>
+                        </figure>
                         <lg type="song" xml:id="melissomeloslyrics">
                             <lg xml:id="ch5musiccontratenorlyrics1">
                                 <head type="register">I. CONTRATENOR</head>
@@ -6904,9 +6908,11 @@
                                     <l> And this she sings in measures mournefull sweete.</l>
                                 </lg>
                             </lg>
-
-
+                            <fw type="catch"></fw>
                             <pb n="L1r"></pb>
+                            <figure type="music-notation">
+                                <graphic url="media/music-notation/ch5/ch5musicnotation2.svg"></graphic>
+                            </figure>
                             <lg xml:id="ch5musicbassuslyrics1">
                                 <head type="register">I. BASSUS.</head>
                                 <lg n="1" type="verse">
@@ -6985,9 +6991,11 @@
                                 </lg>
                             </lg>
 
-
+                            <fw type="catch"></fw>
                             <pb n="L1v"></pb>
-
+                            <figure type="music-notation">
+                                <graphic url="media/music-notation/ch5/ch5musicnotation3.svg"></graphic>
+                            </figure>
                             <lg xml:id="ch5musiccontratenorlyrics2">
                                 <head type="register">CONTRATENOR.</head>
                                 <lg n="1" type="verse">
@@ -7035,9 +7043,12 @@
                                     <l> The Prince hir much-desired Sov'raigntie:</l>
                                 </lg>
                             </lg>
-
-                            <pb n="L2r"></pb>
                             
+                            <fw type="catch"></fw>
+                            <pb n="L2r"></pb>
+                            <figure type="music-notation">
+                                <graphic url="media/music-notation/ch5/ch5musicnotation4.svg"></graphic>
+                            </figure>
 
                             <lg xml:id="ch5musicbassuslyrics2">
                                 <head type="register">BASSUS.</head>
@@ -7098,6 +7109,7 @@
                     </lem>
                     <rdg wit="#b1609"></rdg>
                 </app>
+                <fw type="catch"></fw>
                 <pb n="L2v"></pb>
                 <fw type="header"> Of the Swarming of Bees, </fw>
                 <p xml:id="ch5par39"><note subtype="summary" type="authorial" xml:id="ch5sumn33">33.
