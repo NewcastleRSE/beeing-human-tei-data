@@ -3883,8 +3883,7 @@
                             <graphic url="media/diagrams/ch3/ch3fig3.svg" />
                         </figure></lem>
                     <rdg wit="#b1609" source="1609.xml#ch3ancs31x 1609.xml#ch3ance31x"><anchor xml:id="ch3ancs31x" data-origfile="1609" type="attachmentCollation" subtype="start" /><figure data-origfile="1609">
-                        <figDesc data-origfile="1609">DIAGRAM</figDesc>
-                        <graphic url="#" data-origfile="1609" />
+                        <graphic url="media/1609/diagrams/ch3/ch3fig1.svg" data-origfile="1609" />
                     </figure><anchor xml:id="ch3ance31x" data-origfile="1609" type="attachmentCollation" subtype="end" /></rdg></app>
                 <p xml:id="ch3par43">
                     <note subtype="summary" type="authorial" xml:id="ch3sumn31">31. <seg rend="italic">The use of it. </seg></note> The use of the <app subtype="change" type="vocabulary">
@@ -3906,8 +3905,7 @@
                     and fro. The fashion of which porch you may best understand by the figure of one
                     ende, thus represented. </p>
                 <figure data-origfile="1609">
-                    <figDesc data-origfile="1609">DIAGRAM</figDesc>
-                    <graphic url="#" data-origfile="1609" />
+                    <graphic url="media/1609/diagrams/ch3/ch3fig2.svg" data-origfile="1609" />
                 </figure>
                 <p xml:id="ch3par25" data-origfile="1609">Out of one square sticke, an inch one way and two inches the
                     other &amp; twenty in length, you may cut halfe a skore. For great swarmes and
@@ -6568,14 +6566,12 @@
                                 See Melissomelos, bars 32 and 62.</note> but alwaies endeth with
                                 <term>Minims</term> of the triple Moode.</lem>
                         <rdg wit="#b1609" source="1609.xml#ch5ancs57 1609.xml#ch5ance57"><anchor xml:id="ch5ancs57" data-origfile="1609" type="attachmentCollation" subtype="start" />They sing both in triple time: the princess thus <figure data-origfile="1609">
-                        <figDesc data-origfile="1609">MUSIC NOTATION</figDesc>
-                        <graphic url="#" data-origfile="1609" />
+                        <graphic url="media/1609/diagrams/ch5/ch5fig1.svg" data-origfile="1609" />
                     </figure> with more or fewer notes, as she pleaseth. And sometime she taketh a
                     higher key, specially toward their comming forth, and beginning the od minim in
                         <hi data-origfile="1609">Alami re</hi> shee tuneth the rest of hir notes in <hi data-origfile="1609">C sol fa</hi>
                     thus, <figure data-origfile="1609">
-                        <figDesc data-origfile="1609">MUSIC NOTATION</figDesc>
-                        <graphic url="#" data-origfile="1609" />
+                        <graphic url="media/1609/diagrams/ch5/ch5fig2.svg" data-origfile="1609" />
                     </figure><anchor xml:id="ch5ance57" data-origfile="1609" type="attachmentCollation" subtype="end" /></rdg></app></p>
                 <p xml:id="ch5par34"><note subtype="summary" type="authorial" xml:id="ch5sumn30">
                         <app subtype="add" type="major">
@@ -6610,8 +6606,7 @@
                             <ref target="#ch5edn61BHxxx" type="attachment" xml:id="ch5ednatt61BHxxx">continuing hir tune the time of nine or ten
                                     <term>Semibriefes</term> more or lesse.</ref><note resp="#BH" subtype="gloss" type="editorial" xml:id="ch5edn61BHxxx">repeating groups of three minims nine or ten times.</note></lem>
                         <rdg wit="#b1609" source="1609.xml#ch5ancs58 1609.xml#ch5ance58"><anchor xml:id="ch5ancs58" data-origfile="1609" type="attachmentCollation" subtype="start" />But the Queene in a deeper voice thus<seg rend='roman'>;</seg> <figure data-origfile="1609">
-                        <figDesc data-origfile="1609">MUSIC NOTATION</figDesc>
-                        <graphic url="#" data-origfile="1609" />
+                        <graphic url="media/1609/diagrams/ch5/ch5fig3.svg" data-origfile="1609" />
                     </figure> continuing the same, some foure or five semi-briefes, and sounding the
                     end of the every note in <hi data-origfile="1609">C sol fa ut.</hi><anchor xml:id="ch5ance58" data-origfile="1609" type="attachmentCollation" subtype="end" /></rdg></app></p>
                 <p xml:id="ch5par35"><note subtype="summary" type="authorial" xml:id="ch5sumn31">
