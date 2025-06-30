@@ -6807,15 +6807,15 @@
                         <rdg wit="#b1609"></rdg>
                     </app></p>
                 <p xml:id="ch5par38"><note subtype="bibliographic" type="editorial" xml:id="ch5bibln27x"><ref target="#preface">V. Praefat.</ref></note><app subtype="add" type="major">
-                        <lem wit="#b1623"><ref target="#ch5ednote71" type="attachment" xml:id="ch5ednatt71">The severall parts of whose Song comprizing
-                                these mentioned notes, with pawses interposed (as I have at severall
-                                times by a Winde-instrument, whose notes can neither rise nor fall,
-                                attentively observed)</ref><note resp="#MW" subtype="gloss" type="editorial" xml:id="ch5ednote71">This is most likely to
-                                have been a recorder. The pitch standard normally used by the
-                                Bassano family, who were based in England, was a semitone higher
-                                than modern concert pitch (Adrian Brown, ‘Sets or Consorts of
-                                Recorders c.1500-1670’, Galpin Society Journal, 75 (2023), pp. 10-30
-                                at 22-24).</note> I thought good heere to prick downe, that you may
+                        <lem wit="#b1623">The severall parts of whose Song comprizing
+                            these mentioned notes, with <ref target="#ch5ednote70x" type="attachment" xml:id="ch5ednatt70x">pawses interposed</ref><note xml:id="ch5ednote70x" type="editorial" subtype="gloss" resp="MW">In his transcriptions of bee-piping, Butler intersperses rests between each episode of piping: see <ref target="/music/melissomelos-edition"></ref>the music pages at, for instance, bars 28-29, 30-31, 34, 35-36 and 39.</note> (as I have at severall
+                                times by a <ref target="#ch5ednote71" type="attachment" xml:id="ch5ednatt71">Winde-instrument</ref><note resp="#MW" subtype="gloss" type="editorial" xml:id="ch5ednote71">This is most likely to
+                                    have been a recorder. The pitch standard normally used by the
+                                    Bassano family, who were based in England, was a semitone higher
+                                    than modern concert pitch (Adrian Brown, ‘Sets or Consorts of
+                                    Recorders c.1500-1670’, Galpin Society Journal, 75 (2023), pp. 10-30
+                                    at 22-24).</note>, whose notes can neither rise nor fall,
+                                attentively observed) I thought good heere to prick downe, that you may
                             see them in all these particulars of their Naturall Art. Onely I cannot
                             altogether warrant the Conclusion: because in that confused noise, which
                             the buzzing Bees in the busie time of their departing doe make, my dull
