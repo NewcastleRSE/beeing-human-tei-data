@@ -3189,16 +3189,16 @@
                     <fw type="header">
                         <hi>Of the breeding of Bees</hi>
                     </fw> with the hony-bee, <hi>v.</hi>
-                    <note subtype="bibliographic" type="authorial"><ref target="#">
+                    <note subtype="bibliographic" type="authorial"><ref target="#ch1sumn50">
                         <hi>v.c.</hi>1.<hi>n.</hi>50.</ref></note> ether abroad, as other <hi>insecta</hi>
                     do, or within the hive, where yet you may by means behold what they do;
                         <hi>v.</hi>
-                    <note subtype="bibliographic" type="authorial"><ref target="#">
-                        <hi>v.c.</hi>6.<hi>n</hi>4.&amp;5.</ref></note> yet without doubte is hee the
+                    <note subtype="bibliographic" type="authorial"><ref target="#ch6sumn4">
+                        <hi>v.c.</hi>6.<hi>n</hi>4.</ref>&amp;<ref target="#ch6sumn5">5.</ref></note> yet without doubte is hee the
                     male-bee, by whose natural heat and masculine vertue the hony-bee, which
                     breedeth both hony-bees &amp; drones, <hi>v.</hi>
-                    <note subtype="bibliographic" type="authorial"><ref target="#">
-                        <hi>v.n</hi>11.<hi>&amp;</hi>16</ref></note> secretly conceiveth. </p>
+                    <note subtype="bibliographic" type="authorial"><ref target="#ch4sumn11">
+                        <hi>v.n</hi>11.</ref><hi>&amp;</hi><ref target="#ch4sumn16">16</ref></note> secretly conceiveth. </p>
                 <p part="N" xml:id="ch4par2">
                     <note subtype="summary" type="authorial" xml:id="ch4sumn2">3 <hi>Divers reasons proving the drone to be the male. The first reason
                             is, that they are suffered in breeding time only</hi>
@@ -3208,8 +3208,8 @@
                         <hi>Leo</hi>, most before <hi>Virgo</hi>) they suffer them afterward they
                     begin to beat them away. Which if some <anchor xml:id="ch4ancs7"/>few<anchor xml:id="ch4ance7"/> doe not, before <hi>Scorpio</hi> they die naturally: and
                     from thenceforth al the winter, until the Bees breed new againe, <hi>v.</hi>
-                    <note subtype="bibliographic" type="authorial"><ref target="#">
-                        <hi>v.n.</hi>16.&amp;17.</ref></note> there is not a drone to be had <hi>In rerum
+                    <note subtype="bibliographic" type="authorial"><ref target="#ch4sumn16">
+                        <hi>v.n.</hi>16.</ref>&amp;<ref target="#ch6sumn17">17.</ref></note> there is not a drone to be had <hi>In rerum
                             natura</hi>.<note subtype="bibliographic" type="authorial"><bibl default="false" status="draft">Nat hist l.11. c 11.</bibl></note>
                     <note subtype="summary" type="authorial" xml:id="ch4sumn3">4 <hi>No drone in winter.</hi>
                     </note> When they are quite gone, then do the Bees lay no more seeds that yeere,
@@ -3219,7 +3219,7 @@
                             time the Bees breed no more</hi>
                     </note> Secondly, as the rather and the more the drones are, the more &amp;
                     greater are the swarms, (<hi>Certe quo major fuerit fucorum multitudo, eo major
-                        fiet examinum proventus v</hi>)<note subtype="bibliographic" type="authorial"><ref target="#">
+                        fiet examinum proventus v</hi>)<note subtype="bibliographic" type="authorial"><ref target="#ch5sumn4">
                         <hi>v.c.</hi>5 <hi>n</hi>4.</ref></note> so where the drones are few &amp;
                     late,there is smal increase &amp; therefore if you kill the drones of a hive
                     before the Bees have done swarming, and breeding (as some fondly have don before
@@ -3230,20 +3230,20 @@
                     </fw> chers) neither will the swarmes come forth that were formerly bred, nor
                     the stocke thence forth breed any more. After which time bringing in
                         <hi>Ambrosia v.</hi>
-                    <note subtype="bibliographic" type="authorial"><ref target="#">
+                    <note subtype="bibliographic" type="authorial"><ref target="#ch6sumn17">
                         <hi>v.c.</hi>6.<hi>n.</hi>17.</ref></note> as much as before, and having no yong
                     ones to spend part <anchor xml:id="ch4ancs9"/>of it, nor taking any pleasure to
                     worke it with the liquid <hi>nectar</hi>, as otherwise they use to doe,
                         <hi>v.</hi>
-                    <note subtype="bibliographic" type="authorial"><ref target="#">
+                    <note subtype="bibliographic" type="authorial"><ref target="#ch6sumn17">
                         <hi>v.c.</hi>6.<hi>n.</hi>17.</ref></note><anchor xml:id="ch4ance9"/> they lay it
                     up carelesly in their cells, where it corrupteth &amp; turneth to stopping
                         <hi>v.</hi>
-                    <note subtype="bibliographic" type="authorial"><ref target="#">
+                    <note subtype="bibliographic" type="authorial"><ref target="#ch6sumn18">
                         <hi>v.c.</hi>6.<hi>n</hi>18. &amp; 19.</ref></note> which will cause them so much
                     to mislike their hive, that the next <hi>Virgo</hi> they will easily yeeld it to
                     the robbers <hi>v.</hi>
-                    <note subtype="bibliographic" type="authorial"><ref target="#">
+                    <note subtype="bibliographic" type="authorial"><ref target="#ch7sumn23">
                         <hi>V.c.</hi>7<hi>n.</hi>23.</ref></note> And if by your industry they be then
                     preserved, in <hi>Pisces</hi> when breeding time is, finding <anchor xml:id="ch4ancs10"/>themselves<anchor xml:id="ch4ance10"/> barren, and
                     therefore loathing even themselves and all, they yeeld their goods to them that
@@ -3258,7 +3258,7 @@
                     </note> Thirdly because <hi>omne simile generat sibi simile</hi> Every living
                     thing doth breed male, or female of his kind, and experience doth teach us that
                     the Bees doe breed as well drones as honi bees <hi>v.</hi>
-                    <note subtype="bibliographic" type="authorial"><ref target="#">
+                    <note subtype="bibliographic" type="authorial"><ref target="#ch4sumn16">
                         <hi>v.n.</hi>16</ref></note> seeing the honi-bees are femals, it followeth
                     necessarily that the drones are the males of the <fw type="catch">same</fw>
                     <pb n="D6v"/>
@@ -3365,7 +3365,7 @@
                     when the females breed new againe. But one thing in the dorres &amp; waspes is
                     more strange than in the Bees. For whereas the Bees assone as they have bred
                     their first broode of females, doe presently breede drones, <hi>v.</hi>
-                    <note subtype="bibliographic" type="authorial"><ref target="#">
+                    <note subtype="bibliographic" type="authorial"><ref target="#ch4sumn16">
                         <hi>v.n.</hi>16.</ref></note> both which, when they are ripe multiply togither; the
                     young dorres and waspes in the beginning of sommer do not immediately take the
                     drones (for then there are none) but receive from their dams togither with their
@@ -3393,7 +3393,7 @@
                     reason against it but this. <hi>Arma ad pugnam viresque exercendas nulli feminae
                         a naturae a tribuuntur.</hi> Nature hath armed <anchor xml:id="ch4ancs23"/>the
                         Bees<anchor xml:id="ch4ance23"/> to chastice the drones, <hi>v.</hi>
-                    <note subtype="bibliographic" type="authorial"><ref target="#">
+                    <note subtype="bibliographic" type="authorial"><ref target="#ch4sumn20">
                         <hi>v.n.</hi>20</ref></note> and therefore the drones cannot be their males. </p>
                 <p part="N" xml:id="ch4par11">The weaknesse of which reason I marvaile he did not see, seeing
                     in all the kind of hawkes the female doth command the male, as being both
@@ -3466,8 +3466,8 @@
                     <note subtype="summary" type="authorial" xml:id="ch4sumn14">15 <hi>The breeding of the lady-bees.</hi>
                     </note> But the Lady-bees are bred in the severall palaces of the Queene,
                         <hi>v.</hi>
-                    <note subtype="bibliographic" type="authorial"><ref target="#">
-                        <hi>v.c.</hi>6.<hi>n.</hi>9.10</ref></note> after a peculiar and more excellent
+                    <note subtype="bibliographic" type="authorial"><ref target="#ch6sumn9">
+                        <hi>v.c.</hi>6.<hi>n.</hi>9</ref>.<ref target="#ch6sumn10">10</ref></note> after a peculiar and more excellent
                     manner. For the golden matter whereof they are made is not turned into a worme
                     at all, but immediately receiveth the shape of a Bee. <note subtype="bibliographic" type="authorial"><bibl default="false" status="draft">Hist.l.5.c.22</bibl></note>
                     <hi>Primordium regum colore cernitur fulvo, corpulentia mellis crassioris,
@@ -3485,7 +3485,7 @@
                     <fw type="header">
                         <hi>and of the drone.</hi>
                     </fw> manner in wider cells made for the nonce <hi>v.</hi>
-                    <note subtype="bibliographic" type="authorial"><ref target="#">
+                    <note subtype="bibliographic" type="authorial"><ref target="#ch6sumn8">
                         <hi>v.c.</hi>6.<hi>n.</hi>8.</ref></note> they breed the male-bees or drones: as
                     was long since observed, <hi>Sunt fuci sine aculeo velut imperfectae apes,
                         novissimequa a fessis &amp; iam emeritis inchoatae, serotinus foetus.</hi>
@@ -3624,7 +3624,7 @@
                     <hi>Virgo</hi>, somtime kil them not at all: but let them alone, untill they die
                     by nature: which is not long after: for few of them can live til <hi>Libra</hi>
                     &amp; the yongest not to the end of that month, <hi>v</hi>
-                    <note subtype="bibliographic" type="authorial"><ref target="#">
+                    <note subtype="bibliographic" type="authorial"><ref target="#ch4sumn4">
                         <hi>v.n.</hi>4</ref></note> Take heede to such stalls, for they are likely to die. </p>
                 <p part="N" xml:id="ch4par25">
                     <anchor xml:id="ch4ancs44"/><note subtype="summary" type="authorial" xml:id="ch4sumn27">28 <hi>The drones first banished are welcomed
@@ -7429,8 +7429,8 @@
                         </fw> &amp; religious discourse of that godly Divine Mr <hi>George
                             Carleton</hi>; where he maketh it cleere, that tithes are consecrated to
                         the Lord for ever, and that the commandement of paying them is moral and
-                        perpetual. <note subtype="bibliographic" type="authorial"><ref target="#">
-                            <hi>V.</hi> The maintenance of the minstery written by R. Eburn.</ref></note>
+                        perpetual. <note subtype="bibliographic" type="authorial"><bibl>
+                            <hi>V.</hi> The maintenance of the minstery written by R. Eburn.</bibl></note>
                         <hi>Council. Matisconense.</hi>2. which was held
                             <hi>An.Do.</hi>580.<hi>Can.</hi>5. hath these words. <hi>Leges divinae
                             consulentes sacerdotibus &amp; ministris ecclesiarum, pro haereditaria
@@ -7448,7 +7448,7 @@
                             <hi>Walafridus Strabo</hi>, whose words are these, '<hi>Decimas Deo
                             &amp; sacerdotibus eius dandas Abraham factis, Jacob promissis insinuat,
                             deinde lex statvit, &amp; omnes doctores sancti commemorant.</hi>
-                        <note subtype="bibliographic" type="authorial"><ref target="#"><hi rend="superscript">a</hi>v. Ibidem.</ref></note> <note subtype="bibliographic" type="authorial"><ref target="#"><hi rend="superscript">b</hi>v. The view pag.125.</ref></note> And therefore the constitutions
+                        <note subtype="bibliographic" type="authorial"><bibl><hi rend="superscript">a</hi>v. Ibidem.</bibl></note> <note subtype="bibliographic" type="authorial"><bibl><hi rend="superscript">b</hi>v. The view pag.125.</bibl></note> And therefore the constitutions
                         of princes, as of <hi rend="superscript">a</hi><hi>Charles</hi> the great, of <hi rend="superscript">b</hi><hi>William</hi> the
                         conqueror, &amp; other kings of this Realme both <fw type="catch">be-</fw>
                         <pb n="N3r"/>
@@ -7585,8 +7585,8 @@
                         but say, that it shal bee lawful to use all lawfull and reasonable meanes,
                             <hi>other than the parties owne corporall oath</hi>; this shal be an
                         occasion unto many, yea, if not to all, to almost all, to discharge
-                        themselves of al such dues. <note subtype="bibliographic" type="authorial"><ref target="#"><hi>An.</hi>27.H.8.c.20&amp;An.2&amp;3.<hi>Ed.6</hi>c.13.
-                        </ref></note>For albeit the personal tithes of the trads-man are no lesse due, as wel 
+                        themselves of al such dues. <note subtype="bibliographic" type="authorial"><bibl><hi>An.</hi>27.H.8.c.20&amp;An.2&amp;3.<hi>Ed.6</hi>c.13.
+                        </bibl></note>For albeit the personal tithes of the trads-man are no lesse due, as wel 
                         by temporal, as ecclesiastical law, than the predial tithes of the husbandmen; yet they 
                         which by their trafike or trade have gained cleerely 40, 50, yea hundreds of pounds, 
                         are not ashamed to come to the Church at Easter, like poore day-labourers, with their 
@@ -7624,15 +7624,15 @@
                             <hi>The conclusion to the Reader.</hi>
                         </fw> rest, either in matter, or quantity; it is added <hi>truelie and
                             justlie</hi>
-                        <note subtype="bibliographic" type="authorial"><ref target="#">
-                            <hi>An</hi>.27.<hi/>H.8.<hi/>c.20.</ref></note> for which an other act hath
+                        <note subtype="bibliographic" type="authorial"><bibl>
+                            <hi>An</hi>.27.<hi/>H.8.<hi/>c.20.</bibl></note> for which an other act hath
                             <hi>according to the ecclesiasticall lawes and ordinances of the church
                             of Englande</hi>: which laws are so farre from permitting the diminution
                         of tithes by any injurious custome, that they doe precisely forbid it.</p>
                     <p part="N" xml:id="ch10p4par11">
-                        <note subtype="bibliographic" type="authorial"><ref target="#">
+                        <note subtype="bibliographic" type="authorial"><bibl>
                             <hi>Caus</hi>.16.<hi>q.</hi>7.<hi>c.quicunque</hi>
-                        </ref></note> As namely in the booke of decrees. <hi>Quicunque, recognoverit in se
+                        </bibl></note> As namely in the booke of decrees. <hi>Quicunque, recognoverit in se
                             quod fideliter non dederit decimas suas, modo emendet quod minus fecit.
                             Quid est fideliter dare, nisi ut nec peius nec minus aliquando afferat
                             de grano, aut de vino, aut de fructibus arborum, aut de pecoribus,
@@ -7681,9 +7681,9 @@
                             tolluntur consuetudines diversae. Aliqui namque decimant secundum garbas,
                             proiiciendo eas sparsim in sulcos; alii decimant secundum acerves,
                             garbis invicem collectis: alii decimant non in</hi>
-                        <note subtype="bibliographic" type="authorial"><ref target="#">
+                        <note subtype="bibliographic" type="authorial"><bibl>
                             <hi>Linwood in glos.de decim.c.Quoniam verb. consuetudines.</hi>
-                        </ref></note>
+                        </bibl></note>
                         <fw type="catch">
                             <hi>campis</hi>
                         </fw>
@@ -7911,8 +7911,8 @@
                         with the plentiful dew of heaven shall enrich the earth, that thou maist be
                         enriched with the fruits thereof. They be the words of that holy Father S.
                             <hi>Augustine, Majores nostri ideo copiis omnibus abundabant quia Deo
-                                decimas dabant</hi>. Our <note subtype="bibliographic" type="authorial"><ref target="#">
-                                <hi>Homel</hi>.48.50.<hi>Homeliar<note ana="supplied by editor" subtype="other" type="editorial">i</note>um</hi>. </ref></note> Our <fw type="catch">
+                                decimas dabant</hi>. Our <note subtype="bibliographic" type="authorial"><bibl>
+                                <hi>Homel</hi>.48.50.<hi>Homeliar<note ana="supplied by editor" subtype="other" type="editorial">i</note>um</hi>. </bibl></note> Our <fw type="catch">
                             Fa-</fw>
                         <pb n="O4r"/>
                         <fw type="header">
