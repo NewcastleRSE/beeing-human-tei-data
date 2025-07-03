@@ -1730,7 +1730,7 @@
                         <rdg wit="#b1609" source="1609.xml#ch1ancs6 1609.xml#ch1ance6"><anchor xml:id="ch1ancs6" data-origfile="1609" type="attachmentCollation" subtype="start" />But if they have many Princes, as when two fly away with
                     one swarme, or when two swarmes are hived together<seg rend='roman'>;</seg> they strike one of them
                     presently, and sometime they bring her downe that evening to the mantle,
-                    <hi data-origfile="1609">v</hi>.<note anchored="true" subtype="bibliographic" type="authorial" data-origfile="1609">v.n.5.n.39:</note> where you may find hir covered with a
+                    <hi data-origfile="1609">v</hi>.<note subtype="bibliographic" type="authorial" xml:id="ch1bibln11" data-origfile="1609"><ref target="#ch5sumn39" data-origfile="1609">v.n.5.n.39:</ref></note> where you may find hir covered with a
                     little heape of Bees, otherwise the next day they carie her forth either dead or
                     deadly wounded. Likewise if the olde Queene bring forth many Princes (as she may
                     have six or seaven, yea sometime halfe a skore or more which superfluitie nature
@@ -2227,14 +2227,14 @@
                 <p xml:id="ch1par34"><note subtype="summary" type="authorial" xml:id="ch1sumn42">42. <seg rend="italic">The Bees senses. </seg></note>
                     <app subtype="del" type="major">
                         <lem wit="#b1623" />
-                        <rdg wit="#b1609" source="1609.xml#ch1ancs14 1609.xml#ch1ance14"><anchor xml:id="ch1ancs14" data-origfile="1609" type="attachmentCollation" subtype="start" /><note anchored="true" subtype="bibliographic" type="authorial" data-origfile="1609">Nat.hist.Ii.</note>
+                        <rdg wit="#b1609" source="1609.xml#ch1ancs14 1609.xml#ch1ance14"><anchor xml:id="ch1ancs14" data-origfile="1609" type="attachmentCollation" subtype="start" /><note subtype="bibliographic" type="authorial" xml:id="ch1bibln36" data-origfile="1609"><bibl default="false" status="draft" data-origfile="1609">Nat.hist.Ii.</bibl></note>
                     <hi data-origfile="1609">Quamvis non sint membra quae, velunt carina, sensus invehant<seg rend='roman'>;</seg> esse tamen iis
                         auditum, olfactum, gustatum, eximia praetereae naturae dona, solertiam</hi>
                     <fw type="catch" data-origfile="1609"> animum</fw><anchor xml:id="ch1ance14" data-origfile="1609" type="attachmentCollation" subtype="end" /></rdg></app>
                     <app subtype="del" type="major">
                         <lem wit="#b1623" />
                         <rdg wit="#b1609" source="1609.xml#ch1ancs14x 1609.xml#ch1ance14x"><anchor xml:id="ch1ancs14x" data-origfile="1609" type="attachmentCollation" subtype="start" /><hi data-origfile="1609">animum, artem quis facile crediderit.</hi>
-                    <note subtype="summary" type="authorial" xml:id="ch1sumn40" data-origfile="1609">41 <hi data-origfile="1609">Their sight dim.</hi>
+                    <note subtype="summary" type="authorial" xml:id="ch1sumn41" data-origfile="1609">41 <hi data-origfile="1609">Their sight dim.</hi>
                     </note><anchor xml:id="ch1ance14x" data-origfile="1609" type="attachmentCollation" subtype="end" /></rdg></app>And such are the sorts of Bees, with their integrall parts. Among which,
                     though there do not appear those outward <term> Organa</term> of senting which
                     other <term>Animals</term> have, nor is seene in the head that inward
@@ -2253,7 +2253,7 @@
                                     magnitudinem jumenti gradientis.<note subtype="bibliographic" type="authorial" xml:id="ch1bibln39">
                                         <bibl>Augustin.de Genesi ad literam.lib.3.</bibl>
                                     </note></lem>
-                                <rdg wit="#b1609" source="1609.xml#ch1ancs14 1609.xml#ch1ance14"><anchor xml:id="ch1ancs14" data-origfile="1609" type="attachmentCollation" subtype="start" /><note anchored="true" subtype="bibliographic" type="authorial" data-origfile="1609">Nat.hist.Ii.</note>
+                                <rdg wit="#b1609" source="1609.xml#ch1ancs14 1609.xml#ch1ance14"><anchor xml:id="ch1ancs14" data-origfile="1609" type="attachmentCollation" subtype="start" /><note subtype="bibliographic" type="authorial" xml:id="ch1bibln36" data-origfile="1609"><bibl default="false" status="draft" data-origfile="1609">Nat.hist.Ii.</bibl></note>
                     <hi data-origfile="1609">Quamvis non sint membra quae, velunt carina, sensus invehant<seg rend='roman'>;</seg> esse tamen iis
                         auditum, olfactum, gustatum, eximia praetereae naturae dona, solertiam</hi>
                     <fw type="catch" data-origfile="1609"> animum</fw><anchor xml:id="ch1ance14" data-origfile="1609" type="attachmentCollation" subtype="end" /></rdg></app></foreign>
@@ -2602,7 +2602,7 @@
                         <lem wit="#b1623" />
                         <rdg wit="#b1609" source="1609.xml#ch1ancs23 1609.xml#ch1ance23"><anchor xml:id="ch1ancs23" data-origfile="1609" type="attachmentCollation" subtype="start" />
                     <hi data-origfile="1609">v.</hi>
-                    <note anchored="true" subtype="bibliographic" type="authorial" data-origfile="1609">v.c.4.n.2</note><anchor xml:id="ch1ance23" data-origfile="1609" type="attachmentCollation" subtype="end" /></rdg></app> Which strange kind of breeding the Philosopher saith to be apparent unto
+                    <note subtype="bibliographic" type="authorial" xml:id="ch1bibln49" data-origfile="1609"><ref target="#ch4sumn2" data-origfile="1609">v.c.4.n.2</ref></note><anchor xml:id="ch1ance23" data-origfile="1609" type="attachmentCollation" subtype="end" /></rdg></app> Which strange kind of breeding the Philosopher saith to be apparent unto
                     sense and reason. <note subtype="bibliographic" type="authorial" xml:id="ch1bibln58">
                         <bibl>Generat.an.l.3.c.10.</bibl>
                     </note>
@@ -3020,7 +3020,7 @@
                         <rdg wit="#b1609" source="1609.xml#ch2ancs9x 1609.xml#ch2ance9x"><anchor xml:id="ch2ancs9x" data-origfile="1609" type="attachmentCollation" subtype="start" />Three
                     inches of which fore-part next the hive must remaine flat for the porch to stand
                     upon <hi data-origfile="1609">v.</hi>
-                    <note anchored="true" subtype="bibliographic" type="authorial" data-origfile="1609">v.c.3.n.25.</note> the rest is to be cut shelving that it may the better
+                    <note subtype="bibliographic" type="authorial" xml:id="ch2bibln8" data-origfile="1609"><ref target="#ch3sumn25" data-origfile="1609">v.c.3.n.25.</ref></note> the rest is to be cut shelving that it may the better
                     avoid the raine. And therfore if the hive be 15. inches over, the stoole shoulde
                     not be above 16. or 17. inches one way, and 21. or 22. at the most the other
                         way.<anchor xml:id="ch2ance9x" data-origfile="1609" type="attachmentCollation" subtype="end" /></rdg></app>
@@ -3923,8 +3923,8 @@
                     cold winde and frost in winter, which is very hurtfull unto the Bees.<anchor xml:id="ch3ance34x" data-origfile="1609" /> 3. and<anchor xml:id="ch3ancs34v" data-origfile="1609" />
                     withall keepeth out the mise,<anchor xml:id="ch3ance34v" data-origfile="1609" /> which in winter wont to make <anchor xml:id="ch3ancs34vi" data-origfile="1609" />most<anchor xml:id="ch3ance34vi" data-origfile="1609" /> spoile.
                         <hi data-origfile="1609">v</hi>
-                    <note anchored="true" subtype="bibliographic" type="authorial" data-origfile="1609">
-                        <hi data-origfile="1609">v.c.</hi>7.<hi data-origfile="1609">n.</hi>4.</note>
+                    <note subtype="bibliographic" type="authorial" xml:id="ch3bibln9" data-origfile="1609"><ref target="#ch7sumn4" data-origfile="1609">
+                        <hi data-origfile="1609">v.c.</hi>7.<hi data-origfile="1609">n.</hi>4.</ref></note>
                 </p>
                 <anchor xml:id="ch3ance33" data-origfile="1609" type="attachmentCollation" subtype="end" /></rdg></app>
                     <app subtype="change" type="minor">
@@ -4162,8 +4162,8 @@
                     <fw type="header" data-origfile="1609">
                         <hi data-origfile="1609">and the dressing of them.</hi>
                     </fw>
-                    <note anchored="true" subtype="bibliographic" type="authorial" data-origfile="1609">
-                        <hi data-origfile="1609">v.n.</hi>22</note> swarmes to passe at pleasure, all which time there is
+                    <note subtype="bibliographic" type="authorial" xml:id="ch3bibln10" data-origfile="1609"><ref target="#ch3sumn22" data-origfile="1609">
+                        <hi data-origfile="1609">v.n.</hi>22</ref></note> swarmes to passe at pleasure, all which time there is
                     no feare of enimies. <anchor xml:id="ch3ance40" data-origfile="1609" type="attachmentCollation" subtype="end" /></rdg></app>
                 </p>
                 <p xml:id="ch3par59"><term>Gemini</term> being past, if the weather be usually <app subtype="change" type="vocabulary">
@@ -4174,8 +4174,8 @@
                         <lem wit="#b1623">keepe on the hackles to coole the Hives, &amp;c. <ref target="#ch5sumn21"><seg rend="italic">v</seg><seg rend="italic">.</seg><seg rend="italic">c</seg><seg rend="italic">.</seg><seg rend="normal">5</seg><seg rend="italic">.</seg><seg rend="italic">n</seg><seg rend="italic">.</seg><seg rend="normal">2</seg><seg rend="normal">1</seg><seg rend="italic">.</seg></ref></lem>
                         <rdg wit="#b1609" source="1609.xml#ch3ancs42 1609.xml#ch3ance42"><anchor xml:id="ch3ancs42" data-origfile="1609" type="attachmentCollation" subtype="start" />coole the
                     hives, and to put in the Bees which will then lie forth. <hi data-origfile="1609">v.</hi>
-                    <note anchored="true" subtype="bibliographic" type="authorial" data-origfile="1609">
-                        <hi data-origfile="1609">v.c.</hi> 5 <hi data-origfile="1609">n.</hi> 20.</note><anchor xml:id="ch3ance42" data-origfile="1609" type="attachmentCollation" subtype="end" /></rdg></app><app subtype="del" type="major">
+                    <note subtype="bibliographic" type="authorial" xml:id="ch3bibln11" data-origfile="1609"><ref target="#ch5sumn20" data-origfile="1609">
+                        <hi data-origfile="1609">v.c.</hi> 5 <hi data-origfile="1609">n.</hi> 20.</ref></note><anchor xml:id="ch3ance42" data-origfile="1609" type="attachmentCollation" subtype="end" /></rdg></app><app subtype="del" type="major">
                         <lem wit="#b1623" />
                         <rdg wit="#b1609" source="1609.xml#ch3ancs42x 1609.xml#ch3ance42x"><anchor xml:id="ch3ancs42x" data-origfile="1609" type="attachmentCollation" subtype="start" />If you then desire that any of your two-yeere stalls, which
                     have not yet swarmed, should swarme, see whether the combs reach within an inch
@@ -4228,8 +4228,8 @@
                             cloomed to the doore. <ref target="#ch4sumn35"><seg rend="italic"> </seg><seg rend="italic">V</seg><seg rend="italic">.</seg><seg rend="italic">c</seg><seg rend="italic">.</seg><seg rend="normal">4</seg><seg rend="italic">.</seg><seg rend="italic">n</seg><seg rend="italic">.</seg><seg rend="normal">3</seg><seg rend="normal">5</seg><seg rend="italic">.</seg></ref></lem>
                         <rdg wit="#b1609" source="1609.xml#ch3ancs44 1609.xml#ch3ance44"><anchor xml:id="ch3ancs44" data-origfile="1609" type="attachmentCollation" subtype="start" />At <hi data-origfile="1609">Leo</hi>, when swarming is past, to the dores of the weaker
                     stalles (whether they be small swarmes, or stockes that have twise swarmed)
-                    fasten the barre <hi data-origfile="1609">v.</hi> with good cloome. <note anchored="true" subtype="bibliographic" type="authorial" data-origfile="1609">
-                        <hi data-origfile="1609">v.n.</hi> 23.</note><anchor xml:id="ch3ance44" data-origfile="1609" type="attachmentCollation" subtype="end" /></rdg></app>
+                    fasten the barre <hi data-origfile="1609">v.</hi> with good cloome. <note subtype="bibliographic" type="authorial" xml:id="ch3bibln13" data-origfile="1609"><ref target="#ch3sumn23" data-origfile="1609">
+                        <hi data-origfile="1609">v.n.</hi> 23.</ref></note><anchor xml:id="ch3ance44" data-origfile="1609" type="attachmentCollation" subtype="end" /></rdg></app>
                 </p>
                 <p xml:id="ch3par63"><app subtype="del" type="reference">
                         <lem wit="#b1623" />
@@ -4278,16 +4278,16 @@
                             </note> and see that the Hives bee close in all places.</lem>
                         <rdg wit="#b1609" source="1609.xml#ch3ancs46x 1609.xml#ch3ance46x"><p part="N" xml:id="ch3par36" data-origfile="1609">
                     
-                    <note anchored="true" subtype="bibliographic" type="authorial" data-origfile="1609">
+                    <note subtype="bibliographic" type="authorial" xml:id="ch3bibln16" data-origfile="1609"><ref target="#ch7sumn26" data-origfile="1609">
                         <hi data-origfile="1609">v.c.7.n.26.</hi>
-                    </note>
+                    </ref></note>
                 </p>
                 <p part="N" xml:id="ch3par37" data-origfile="1609">
                     <note subtype="summary" type="authorial" xml:id="ch3sumn39" data-origfile="1609">39 <hi data-origfile="1609">Set up the porch to the weaker.</hi>
                     </note>
-                    <note anchored="true" subtype="bibliographic" type="authorial" data-origfile="1609">
+                    <note subtype="bibliographic" type="authorial" xml:id="ch3bibln17" data-origfile="1609"><ref target="#ch3sumn25" data-origfile="1609">
                         <hi data-origfile="1609">v.25</hi>
-                    </note>
+                    </ref></note>
                 </p>
                 <p part="N" xml:id="ch3par38" data-origfile="1609">
                     <note subtype="summary" type="authorial" xml:id="ch3sumn40" data-origfile="1609">40 <hi data-origfile="1609">And keepe them shut til they offer to goe abroad.</hi>
@@ -4298,8 +4298,8 @@
                     offer to come abroad, though it be not before 9. 0r 10. 0r 11. a clock: and then
                     you may ether open it or halfe-open it, according to the flight of your Bees.
                         <hi data-origfile="1609">v.</hi>
-                    <note anchored="true" subtype="bibliographic" type="authorial" data-origfile="1609">
-                        <hi data-origfile="1609">v.n.</hi>25</note><anchor xml:id="ch3ance46x" data-origfile="1609" type="attachmentCollation" subtype="end" /></p>
+                    <note subtype="bibliographic" type="authorial" xml:id="ch3bibln18" data-origfile="1609"><ref target="#ch3sumn25" data-origfile="1609">
+                        <hi data-origfile="1609">v.n.</hi>25</ref></note><anchor xml:id="ch3ance46x" data-origfile="1609" type="attachmentCollation" subtype="end" /></p>
                 <anchor xml:id="ch3ance46x" data-origfile="1609" type="attachmentCollation" subtype="end" /></rdg></app>
                     <app subtype="add" type="minor">
                         <lem wit="#b1623">(Those that have lien forth or otherwise be verie full,
@@ -4335,8 +4335,8 @@
                     <fw type="header" data-origfile="1609">
                         <hi data-origfile="1609">Of the hives</hi>
                     </fw>
-                    <note anchored="true" subtype="bibliographic" type="authorial" data-origfile="1609">
-                        <hi data-origfile="1609">v.c.</hi>6<hi data-origfile="1609">n.</hi>13</note> combs. <hi data-origfile="1609">v.</hi>) take so much hay or
+                    <note subtype="bibliographic" type="authorial" xml:id="ch3bibln19" data-origfile="1609"><ref target="#ch6sumn13" data-origfile="1609">
+                        <hi data-origfile="1609">v.c.</hi>6<hi data-origfile="1609">n.</hi>13</ref></note> combs. <hi data-origfile="1609">v.</hi>) take so much hay or
                     straw, as wil fill the empty part of the hive within an inch or two of the
                     combes: and wrapping the same in some old linnen cloth, so that the strawes may
                     not offend the Bees, set it upon the stoole: and then having laid thereon a
@@ -4376,16 +4376,16 @@
                             </note></lem>
                         <rdg wit="#b1609" source="1609.xml#ch3ancs46x 1609.xml#ch3ance46x"><p part="N" xml:id="ch3par36" data-origfile="1609">
                     
-                    <note anchored="true" subtype="bibliographic" type="authorial" data-origfile="1609">
+                    <note subtype="bibliographic" type="authorial" xml:id="ch3bibln16" data-origfile="1609"><ref target="#ch7sumn26" data-origfile="1609">
                         <hi data-origfile="1609">v.c.7.n.26.</hi>
-                    </note>
+                    </ref></note>
                 </p>
                 <p part="N" xml:id="ch3par37" data-origfile="1609">
                     <note subtype="summary" type="authorial" xml:id="ch3sumn39" data-origfile="1609">39 <hi data-origfile="1609">Set up the porch to the weaker.</hi>
                     </note>
-                    <note anchored="true" subtype="bibliographic" type="authorial" data-origfile="1609">
+                    <note subtype="bibliographic" type="authorial" xml:id="ch3bibln17" data-origfile="1609"><ref target="#ch3sumn25" data-origfile="1609">
                         <hi data-origfile="1609">v.25</hi>
-                    </note>
+                    </ref></note>
                 </p>
                 <p part="N" xml:id="ch3par38" data-origfile="1609">
                     <note subtype="summary" type="authorial" xml:id="ch3sumn40" data-origfile="1609">40 <hi data-origfile="1609">And keepe them shut til they offer to goe abroad.</hi>
@@ -4396,8 +4396,8 @@
                     offer to come abroad, though it be not before 9. 0r 10. 0r 11. a clock: and then
                     you may ether open it or halfe-open it, according to the flight of your Bees.
                         <hi data-origfile="1609">v.</hi>
-                    <note anchored="true" subtype="bibliographic" type="authorial" data-origfile="1609">
-                        <hi data-origfile="1609">v.n.</hi>25</note><anchor xml:id="ch3ance46x" data-origfile="1609" type="attachmentCollation" subtype="end" /></p>
+                    <note subtype="bibliographic" type="authorial" xml:id="ch3bibln18" data-origfile="1609"><ref target="#ch3sumn25" data-origfile="1609">
+                        <hi data-origfile="1609">v.n.</hi>25</ref></note><anchor xml:id="ch3ance46x" data-origfile="1609" type="attachmentCollation" subtype="end" /></p>
                 <anchor xml:id="ch3ance46x" data-origfile="1609" type="attachmentCollation" subtype="end" /></rdg></app>
                 </p>
 
@@ -4879,8 +4879,8 @@
                         <rdg wit="#b1609" source="1609.xml#ch4ancs9 1609.xml#ch4ance9"><anchor xml:id="ch4ancs9" data-origfile="1609" type="attachmentCollation" subtype="start" />of it, nor taking any pleasure to
                     worke it with the liquid <hi data-origfile="1609">nectar</hi>, as otherwise they use to doe,
                         <hi data-origfile="1609">v.</hi>
-                    <note anchored="true" subtype="bibliographic" type="authorial" data-origfile="1609">
-                        <hi data-origfile="1609">v.c.</hi>6.<hi data-origfile="1609">n.</hi>17.</note><anchor xml:id="ch4ance9" data-origfile="1609" type="attachmentCollation" subtype="end" /></rdg></app>, they lay it up carelesly in their cells, where it corrupteth and turneth
+                    <note subtype="bibliographic" type="authorial" xml:id="ch4bibln9" data-origfile="1609"><ref target="#ch6sumn17" data-origfile="1609">
+                        <hi data-origfile="1609">v.c.</hi>6.<hi data-origfile="1609">n.</hi>17.</ref></note><anchor xml:id="ch4ance9" data-origfile="1609" type="attachmentCollation" subtype="end" /></rdg></app>, they lay it up carelesly in their cells, where it corrupteth and turneth
                     to <app subtype="add" type="vocabulary">
                         <lem wit="#b1623">stinking</lem>
                         <rdg wit="#b1609" />
@@ -4929,7 +4929,7 @@
                 <note place="inline" subtype="gloss" type="authorial" xml:id="ch4glon1"><app subtype="change" type="minor">
                     <lem wit="#b1623">*<foreign xml:lang="la">Hic fucus, &#8001; &#954;&#951;&#966;&#942;&#957;: Ac haec apis,
                         &#7969; &#956;&#941;&#955;&#953;&#963;&#963;&#945;, &#1491;&#1489;&#1493;&#1512;&#1492;, cum &#1492; faeminino </foreign></lem>
-                    <rdg wit="#b1609" source="1609.xml#ch4ancs13 1609.xml#ch4ance13"><anchor xml:id="ch4ancs13" data-origfile="1609" type="attachmentCollation" subtype="start" /><note anchored="true" subtype="gloss" type="authorial" data-origfile="1609">Haec apis <note anchored="true" cert="check" subtype="other" type="editorial" data-origfile="1609">greek and hebrew</note>
+                    <rdg wit="#b1609" source="1609.xml#ch4ancs13 1609.xml#ch4ance13"><anchor xml:id="ch4ancs13" data-origfile="1609" type="attachmentCollation" subtype="start" /><note subtype="gloss" type="authorial" xml:id="ch4glon1" data-origfile="1609">Haec apis <note cert="check" subtype="other" type="editorial" data-origfile="1609">greek and hebrew</note>
                     </note><anchor xml:id="ch4ance13" data-origfile="1609" type="attachmentCollation" subtype="end" /></rdg></app>
                     <app subtype="add" type="major">
                         <lem wit="#b1623">
@@ -5686,8 +5686,8 @@
                     </app><app subtype="del" type="major">
                         <lem wit="#b1623" />
                         <rdg wit="#b1609" source="1609.xml#ch5ancs1 1609.xml#ch5ance1"><p part="N" xml:id="ch5par6" data-origfile="1609">
-                    <note anchored="true" subtype="bibliographic" type="authorial" data-origfile="1609">His l.5.c.22.</note>
-                    <note anchored="true" subtype="bibliographic" type="authorial" data-origfile="1609">Nat hist li.XI.c.17.6</note><anchor xml:id="ch5ance1" data-origfile="1609" type="attachmentCollation" subtype="end" /><hi data-origfile="1609">Augent mella siccitates, sobolem imbres. <anchor xml:id="ch5ancs2" data-origfile="1609" />Humido vere melior foetus, sicco mel
+                    <note subtype="bibliographic" type="authorial" xml:id="ch5bibln3" data-origfile="1609"><bibl default="false" status="draft" data-origfile="1609">His l.5.c.22.</bibl></note>
+                    <note subtype="bibliographic" type="authorial" xml:id="ch5bibln4" data-origfile="1609"><bibl default="false" status="draft" data-origfile="1609">Nat hist li.XI.c.17.6</bibl></note><anchor xml:id="ch5ance1" data-origfile="1609" type="attachmentCollation" subtype="end" /><hi data-origfile="1609">Augent mella siccitates, sobolem imbres. <anchor xml:id="ch5ancs2" data-origfile="1609" />Humido vere melior foetus, sicco mel
                         copiosius.<anchor xml:id="ch5ance2" data-origfile="1609" /></hi>
                 </p>
                 <anchor xml:id="ch5ance1" data-origfile="1609" type="attachmentCollation" subtype="end" /></rdg></app></p>
@@ -6017,8 +6017,8 @@
                     another in swarming time, <app subtype="del" type="reference">
                         <lem wit="#b1623" />
                         <rdg wit="#b1609" source="1609.xml#ch5ancs23x 1609.xml#ch5ance23x"><anchor xml:id="ch5ancs23x" data-origfile="1609" type="attachmentCollation" subtype="start" /><hi data-origfile="1609">v.</hi>
-                    <note anchored="true" subtype="bibliographic" type="authorial" data-origfile="1609">
-                        <hi data-origfile="1609">v.n.</hi>7.</note><anchor xml:id="ch5ance23x" data-origfile="1609" type="attachmentCollation" subtype="end" /></rdg></app><app subtype="add" type="minor">
+                    <note subtype="bibliographic" type="authorial" xml:id="ch5bibln6" data-origfile="1609"><ref target="#ch5sumn7" data-origfile="1609">
+                        <hi data-origfile="1609">v.n.</hi>7.</ref></note><anchor xml:id="ch5ance23x" data-origfile="1609" type="attachmentCollation" subtype="end" /></rdg></app><app subtype="add" type="minor">
                         <lem wit="#b1623">and not before,</lem>
                         <rdg wit="#b1609" />
                     </app> and to grow into a Cluster that covereth the stoole in any place<seg rend='roman'>;</seg> <app subtype="add" type="minor">
@@ -6144,8 +6144,8 @@
                         <rdg wit="#b1609" source="1609.xml#ch5ancs32 1609.xml#ch5ance32"><anchor xml:id="ch5ancs32" data-origfile="1609" type="attachmentCollation" subtype="start" />If this cause them not to keepe in<seg rend='roman'>;</seg> then about eight or nine of
                     the clocke in cleere and calme weather, drive them gently into their hives with
                     your brush <hi data-origfile="1609">v.</hi>
-                    <note anchored="true" subtype="bibliographic" type="authorial" data-origfile="1609">
-                        <hi data-origfile="1609">v.n.</hi>39:</note><anchor xml:id="ch5ance32" data-origfile="1609" type="attachmentCollation" subtype="end" /></rdg></app><app subtype="del" type="minor">
+                    <note subtype="bibliographic" type="authorial" xml:id="ch5bibln7" data-origfile="1609"><ref target="#ch5sumn39" data-origfile="1609">
+                        <hi data-origfile="1609">v.n.</hi>39:</ref></note><anchor xml:id="ch5ance32" data-origfile="1609" type="attachmentCollation" subtype="end" /></rdg></app><app subtype="del" type="minor">
                         <lem wit="#b1623" />
                         <rdg wit="#b1609" source="1609.xml#ch5ancs33 1609.xml#ch5ance33"><anchor xml:id="ch5ancs33" data-origfile="1609" type="attachmentCollation" subtype="start" />and ever now and then powring a little water downe
                     the forepart of the hive, keepe the doore coole and moist until either the Bees
@@ -7411,11 +7411,11 @@
                     throughly fil them the next, and perhaps swarme: &amp; the third yeere if it be
                     kind they wil not faile. But then are they to be kept warme the first winter,
                         <hi data-origfile="1609">v.</hi>
-                    <note anchored="true" subtype="bibliographic" type="authorial" data-origfile="1609">
-                        <hi data-origfile="1609">v.c.</hi>3 <hi data-origfile="1609">n.</hi> 38.</note> Otherwise you maie put two good
+                    <note subtype="bibliographic" type="authorial" xml:id="ch5bibln10" data-origfile="1609"><ref target="#ch3sumn38" data-origfile="1609">
+                        <hi data-origfile="1609">v.c.</hi>3 <hi data-origfile="1609">n.</hi> 38.</ref></note> Otherwise you maie put two good
                     swarmes togither, <hi data-origfile="1609">v.</hi>
-                    <note anchored="true" subtype="bibliographic" type="authorial" data-origfile="1609">
-                        <hi data-origfile="1609">v.n.</hi>52.</note> and then they wilbe able to keepe themselves warme.<anchor xml:id="ch5ance81" data-origfile="1609" type="attachmentCollation" subtype="end" /></rdg></app>
+                    <note subtype="bibliographic" type="authorial" xml:id="ch5bibln11" data-origfile="1609"><ref target="#ch5sumn52" data-origfile="1609">
+                        <hi data-origfile="1609">v.n.</hi>52.</ref></note> and then they wilbe able to keepe themselves warme.<anchor xml:id="ch5ance81" data-origfile="1609" type="attachmentCollation" subtype="end" /></rdg></app>
                 </note>
                 <p xml:id="ch5par60"><app subtype="add" type="major">
                         <lem wit="#b1623">If this just proportion be not precisely kept, the Bees
@@ -7737,8 +7737,8 @@
                             </note> thred, wipe them downe into the hive,</lem>
                         <rdg wit="#b1609" source="1609.xml#ch5ancs90x 1609.xml#ch5ance90x"><anchor xml:id="ch5ancs90x" data-origfile="1609" type="attachmentCollation" subtype="start" />then must you be faine to sweepe them into the hive with the
                     Brush (not in any wise with a goose wing <hi data-origfile="1609">v.</hi>
-                    <note anchored="true" subtype="bibliographic" type="authorial" data-origfile="1609">
-                        <hi data-origfile="1609">v.c.</hi>I.<hi data-origfile="1609">n.</hi>23.</note>as some use to doe)<anchor xml:id="ch5ance90x" data-origfile="1609" type="attachmentCollation" subtype="end" /></rdg></app> and <app subtype="change" type="vocabulary">
+                    <note subtype="bibliographic" type="authorial" xml:id="ch5bibln14" data-origfile="1609"><ref target="#ch1sumn23" data-origfile="1609">
+                        <hi data-origfile="1609">v.c.</hi>I.<hi data-origfile="1609">n.</hi>23.</ref></note>as some use to doe)<anchor xml:id="ch5ance90x" data-origfile="1609" type="attachmentCollation" subtype="end" /></rdg></app> and <app subtype="change" type="vocabulary">
                         <lem wit="#b1623">set</lem>
                         <rdg wit="#b1609" source="1609.xml#ch5ancs100 1609.xml#ch5ance100"><anchor xml:id="ch5ancs100" data-origfile="1609" type="attachmentCollation" subtype="start" />then setting<anchor xml:id="ch5ance100" data-origfile="1609" type="attachmentCollation" subtype="end" /></rdg></app> them <app subtype="change" type="vocabulary">
                         <lem wit="#b1623">upon</lem>
@@ -8341,8 +8341,8 @@
                                 <ref target="#ch3sumn60"><seg rend="italic">v</seg><seg rend="italic">.</seg><seg rend="italic">c</seg><seg rend="italic">.</seg><seg rend="normal">3</seg><seg rend="italic">.</seg><seg rend="italic">n</seg><seg rend="normal">6</seg><seg rend="normal">0</seg></ref><ref target="#ch3sumn61"><seg rend="normal">6</seg><seg rend="normal">1</seg><seg rend="italic">.</seg></ref>
                             </note></lem>
                         <rdg wit="#b1609" source="1609.xml#ch6ancs4 1609.xml#ch6ance4"><anchor xml:id="ch6ancs4" data-origfile="1609" type="attachmentCollation" subtype="start" />to play &amp;
-                    recreat themselves: <hi data-origfile="1609">v</hi>)<note anchored="true" subtype="bibliographic" type="authorial" data-origfile="1609">
-                        <hi data-origfile="1609">v.c.</hi>1 <hi data-origfile="1609">n</hi>55</note><anchor xml:id="ch6ance4" data-origfile="1609" type="attachmentCollation" subtype="end" /></rdg></app> but so long as any good flowers grow, even from <term>Pisces</term> or a
+                    recreat themselves: <hi data-origfile="1609">v</hi>)<note subtype="bibliographic" type="authorial" xml:id="ch6bibln2" data-origfile="1609"><ref target="#ch1sumn55" data-origfile="1609">
+                        <hi data-origfile="1609">v.c.</hi>1 <hi data-origfile="1609">n</hi>55</ref></note><anchor xml:id="ch6ance4" data-origfile="1609" type="attachmentCollation" subtype="end" /></rdg></app> but so long as any good flowers grow, even from <term>Pisces</term> or a
                     litle before unto <term> Sagittarius</term> and, some yeares, somewhat after,
                     (which is full nine moneths) they lose no time, (<quote>
                         <foreign xml:lang="la">Nullus, dum per coelum licuit, perit dies</foreign>
@@ -8383,7 +8383,7 @@
                     <rdg wit="#b1609" source="1609.xml#ch6ancs6 1609.xml#ch6ance6"><anchor xml:id="ch6ancs6" data-origfile="1609" type="attachmentCollation" subtype="start" /><quote data-origfile="1609"><lg org="uniform" part="N" sample="complete" data-origfile="1609">
                         <l part="N" data-origfile="1609">Ac veluti lentis Cyclopes fulmina massis</l>
                         <l part="N" data-origfile="1609">Quum properant, alii taurinis follibus auras</l>
-                    <note anchored="true" subtype="bibliographic" type="authorial" data-origfile="1609">Virg.</note>
+                    <note subtype="bibliographic" type="authorial" xml:id="ch6bibln4" data-origfile="1609"><bibl default="false" status="draft" data-origfile="1609">Virg.</bibl></note>
                         <fw type="catch" data-origfile="1609">
                             <hi data-origfile="1609">Acci</hi>
                         </fw>
@@ -8741,8 +8741,8 @@
                         <rdg wit="#b1609" source="1609.xml#ch6ancs30 1609.xml#ch6ance30"><anchor xml:id="ch6ancs30" data-origfile="1609" type="attachmentCollation" subtype="start" />but the more part the stockes doe mingle and worke with
                         <hi data-origfile="1609">Nectar</hi>: whereas the swarmes at first do lay up pure <hi data-origfile="1609">Nectar</hi>
                     onlie, <hi data-origfile="1609">v.</hi>
-                    <note anchored="true" subtype="bibliographic" type="authorial" data-origfile="1609">
-                        <hi data-origfile="1609">v.n.</hi>26</note><anchor xml:id="ch6ance30" data-origfile="1609" type="attachmentCollation" subtype="end" /></rdg></app>And if any foolish Bee do carry in <term>Ambrosia,</term> it is put a dry
+                    <note subtype="bibliographic" type="authorial" xml:id="ch6bibln15" data-origfile="1609"><ref target="#ch6sumn26" data-origfile="1609">
+                        <hi data-origfile="1609">v.n.</hi>26</ref></note><anchor xml:id="ch6ance30" data-origfile="1609" type="attachmentCollation" subtype="end" /></rdg></app>And if any foolish Bee do carry in <term>Ambrosia,</term> it is put a dry
                     cell where it turneth to Stopping, <ref target="#ch6bibln17"><seg rend="italic"> </seg><seg rend="italic">v</seg><seg rend="italic">.</seg></ref>
                     <note subtype="bibliographic" type="authorial" xml:id="ch6bibln17">
                         <ref target="#ch6sumn21"><seg rend="italic">v</seg><seg rend="italic">.</seg><seg rend="italic">n</seg><seg rend="italic">.</seg><seg rend="normal">2</seg><seg rend="normal">1</seg><seg rend="italic">.</seg></ref>
@@ -8827,7 +8827,7 @@
                             kept in corrupter cells with drosse and courser hony, is called
                             ordinary. </lem>
                         <rdg wit="#b1609" source="1609.xml#ch6ancs34 1609.xml#ch6ance34"><anchor xml:id="ch6ancs34" data-origfile="1609" type="attachmentCollation" subtype="start" />And the live-hony is likewise of 2. sorts: that which is cleere &amp;
-                    crystalline gathered of a swarme, and taken the first yeere they cal virgin-hony, <note anchored="true" subtype="gloss" type="authorial" data-origfile="1609">Virgin-hony
+                    crystalline gathered of a swarme, and taken the first yeere they cal virgin-hony, <note subtype="gloss" type="authorial" xml:id="ch6glon3" data-origfile="1609">Virgin-hony
                     </note> which is there- <fw type="catch" data-origfile="1609">fore</fw>
                     <pb n="G7r" data-origfile="1609" />
                     <fw type="header" data-origfile="1609">
@@ -8844,8 +8844,8 @@
                         <rdg wit="#b1609" source="1609.xml#ch6ancs35 1609.xml#ch6ance35"><anchor xml:id="ch6ancs35" data-origfile="1609" type="attachmentCollation" subtype="start" />The virgin hony by standing turneth yelow: but it wil be a bright and
                     pure yelow, whereas the other is darke and duskie: except in plentiful yeeres of
                         <hi data-origfile="1609">Nectar</hi>: for then the first shoot, <hi data-origfile="1609">v.</hi> if it be wel handled,
-                    wilbe litle inferiour to Virgin-hony. <note anchored="true" subtype="bibliographic" type="authorial" data-origfile="1609">
-                        <hi data-origfile="1609">V.c.</hi>10.p.2.<hi data-origfile="1609">n.</hi>2.</note><anchor xml:id="ch6ance35" data-origfile="1609" type="attachmentCollation" subtype="end" /></rdg></app>
+                    wilbe litle inferiour to Virgin-hony. <note subtype="bibliographic" type="authorial" xml:id="ch6bibln21" data-origfile="1609"><ref target="#ch10p2sumn2" data-origfile="1609">
+                        <hi data-origfile="1609">V.c.</hi>10.p.2.<hi data-origfile="1609">n.</hi>2.</ref></note><anchor xml:id="ch6ance35" data-origfile="1609" type="attachmentCollation" subtype="end" /></rdg></app>
                     <note subtype="bibliographic" type="authorial" xml:id="ch6bibln25">
                         <ref target="#ch10p2sumn6"><seg rend="italic"> </seg><seg rend="italic">V</seg><seg rend="italic">.</seg><seg rend="italic">c</seg><seg rend="italic">.</seg><seg rend="normal">1</seg><seg rend="normal">0</seg><seg rend="italic">.</seg><seg rend="italic"> </seg><seg rend="italic">p</seg><seg rend="italic">.</seg><seg rend="normal">2</seg><seg rend="italic">.</seg><seg rend="italic">n</seg><seg rend="italic">.</seg><seg rend="normal">6</seg><seg rend="italic">.</seg></ref>
                     </note></p>
@@ -9488,8 +9488,8 @@
                     </fw> wil sodainly flie forth, as when they swarme, &amp; that so eagerly and
                     angerly, that you may easily know they doe not play, as sometime they use to do,
                         <hi data-origfile="1609">v.</hi>
-                    <note anchored="true" subtype="bibliographic" type="authorial" data-origfile="1609">
-                        <hi data-origfile="1609">V.c.</hi> I.n.57.</note> when they are wel pleased: neither wil they
+                    <note subtype="bibliographic" type="authorial" xml:id="ch7bibln1" data-origfile="1609"><ref target="#ch1sumn57" data-origfile="1609">
+                        <hi data-origfile="1609">V.c.</hi> I.n.57.</ref></note> when they are wel pleased: neither wil they
                     cease flying about, until he be gone. But for the most part they steale in the
                     night, when the Bees will not stirre. <anchor xml:id="ch7ance1" data-origfile="1609" type="attachmentCollation" subtype="end" /></rdg></app>
                 <p xml:id="ch7par3"><note subtype="summary" type="authorial" xml:id="ch7sumn3">3. <seg rend="italic">Remedies against the Mouse. </seg></note> For remedie, first you must looke that
@@ -10406,8 +10406,8 @@
                         <rdg wit="#b1609" source="1609.xml#ch7ancs37 1609.xml#ch7ance37"><anchor xml:id="ch7ancs37" data-origfile="1609" type="attachmentCollation" subtype="start" />Also the freezing Easterne windes, &amp; all great frosts kil many in
                     the hives that be open, or uncovered: and therefore at such times it is good to
                     shut them up close, <hi data-origfile="1609">v.</hi>
-                    <note anchored="true" subtype="bibliographic" type="authorial" data-origfile="1609">
-                        <hi data-origfile="1609">v.c.</hi>3.<hi data-origfile="1609">n.</hi>53.</note> and to see them well hacled,
+                    <note subtype="bibliographic" type="authorial" xml:id="ch7bibln22" data-origfile="1609"><ref target="#ch3sumn53" data-origfile="1609">
+                        <hi data-origfile="1609">v.c.</hi>3.<hi data-origfile="1609">n.</hi>53.</ref></note> and to see them well hacled,
                         <hi data-origfile="1609">v.c.</hi>3.<hi data-origfile="1609">n.</hi>16.<anchor xml:id="ch7ance37" data-origfile="1609" type="attachmentCollation" subtype="end" /></rdg></app><app subtype="add" type="minor">
                         <lem wit="#b1623">and most of all then, when, to shun the wind, they light
                             in the shade.</lem>
@@ -10684,7 +10684,7 @@
                     <fw type="header" data-origfile="1609">
                         <hi data-origfile="1609">Of the feeding of Bees.</hi>
                     </fw>
-                    <note anchored="true" subtype="gloss" type="authorial" data-origfile="1609"><hi rend="superscript" data-origfile="1609">b</hi>Wet, cold, and windy</note> they have more companie to spend it,<anchor xml:id="ch9ance6" data-origfile="1609" type="attachmentCollation" subtype="end" /></rdg></app>
+                    <note subtype="gloss" type="authorial" xml:id="ch9glon1" data-origfile="1609"><hi rend="superscript" data-origfile="1609">b</hi>Wet, cold, and windy</note> they have more companie to spend it,<anchor xml:id="ch9ance6" data-origfile="1609" type="attachmentCollation" subtype="end" /></rdg></app>
                     <app subtype="change" type="vocabulary">
                         <lem wit="#b1623">which</lem>
                         <rdg wit="#b1609" source="1609.xml#ch9ancs7 1609.xml#ch9ance7"><anchor xml:id="ch9ancs7" data-origfile="1609" type="attachmentCollation" subtype="start" />and<anchor xml:id="ch9ance7" data-origfile="1609" type="attachmentCollation" subtype="end" /></rdg></app>
@@ -10734,13 +10734,13 @@
                     tost, which being warme drinketh in the hony, whence they draw it out with their
                     tonges: but this waie wasteth hony, and doth not al- <fw type="catch" data-origfile="1609"> to-</fw>
                     <pb n="K2r" data-origfile="1609" />
-                    <note ana="Signature is incorrectly printed as K3" anchored="true" subtype="other" type="editorial" data-origfile="1609" />
+                    <note ana="Signature is incorrectly printed as K3" subtype="other" type="editorial" data-origfile="1609" />
                     <fw type="header" data-origfile="1609">
                         <hi data-origfile="1609">Of the feeding of Bees.</hi>
                     </fw> together avoid the former inconvenience. Others have other devises: but
                     indeed the only good waie is to give it them in a piec of a comb <hi data-origfile="1609">v.</hi>
-                    <note anchored="true" subtype="bibliographic" type="authorial" data-origfile="1609">
-                        <hi data-origfile="1609">v.n.</hi>19.</note> If you use to knock the hive, when you put in the
+                    <note subtype="bibliographic" type="authorial" xml:id="ch9bibln2" data-origfile="1609"><ref target="#ch9sumn19" data-origfile="1609">
+                        <hi data-origfile="1609">v.n.</hi>19.</ref></note> If you use to knock the hive, when you put in the
                     hony<seg rend='roman'>;</seg> they wil come down as duly as sheep to a cal, when they are to be fodered. </p>
                 <p part="N" xml:id="ch9par7" data-origfile="1609">
                     <note subtype="summary" type="authorial" xml:id="ch9sumn6" data-origfile="1609">7 <hi data-origfile="1609">This late feeding often fayleth.</hi>
@@ -10765,15 +10765,15 @@
                     </note> <anchor xml:id="ch9ance13" data-origfile="1609" type="attachmentCollation" subtype="end" /><anchor xml:id="ch9ancs14" data-origfile="1609" />For want of hony many other things have been used insteed thereof.
                         <anchor xml:id="ch9ance14" data-origfile="1609" /><hi data-origfile="1609">Aristotle</hi> mentioneth figges, and all such sweet things. <hi data-origfile="1609">Apiarii
                         ficus ac reliqua ad genus dulcia in cibum apponnut.</hi>
-                    <note anchored="true" subtype="bibliographic" type="authorial" data-origfile="1609">Hist.li.9.c.40.</note> and <hi data-origfile="1609">Plini</hi> speaking more particularly commen-
+                    <note subtype="bibliographic" type="authorial" xml:id="ch9bibln3" data-origfile="1609"><bibl default="false" status="draft" data-origfile="1609">Hist.li.9.c.40.</bibl></note> and <hi data-origfile="1609">Plini</hi> speaking more particularly commen-
                         <fw type="catch" data-origfile="1609"> deth</fw>
                     <fw ana="printing error, should be K2" type="sig" data-origfile="1609">K3</fw>
                     <pb n="K2v" data-origfile="1609" />
                     <fw type="header" data-origfile="1609">
                         <hi data-origfile="1609">Of the feeding of Bees.</hi>
                     </fw> deth raisings, and figges, and teased wooll wet <anchor xml:id="ch9ancs15" data-origfile="1609" />with meth, or honi-water,
-                    or<anchor xml:id="ch9ance15" data-origfile="1609" /> sweete wine made of raisings, or new wine boiled. <note anchored="true" subtype="bibliographic" type="authorial" data-origfile="1609">Nat hist. l. 21. c.
-                        14.</note>
+                    or<anchor xml:id="ch9ance15" data-origfile="1609" /> sweete wine made of raisings, or new wine boiled. <note subtype="bibliographic" type="authorial" xml:id="ch9bibln4" data-origfile="1609"><bibl default="false" status="draft" data-origfile="1609">Nat hist. l. 21. c.
+                        14.</bibl></note>
                     <hi data-origfile="1609">Si cibus deesse censeatur apibus, vuas passas siccasue, sicosque, tusas ad
                         fores earum posuisse conveniet: item lanas tractas madentes passo aut
                         defruto, aut aqua mulsa.</hi> And some of our country-men have practised to
@@ -11303,15 +11303,15 @@
                     <fw type="header" data-origfile="1609">
                         <hi data-origfile="1609">Of the feeding of Bees.</hi>
                     </fw>
-                    <note anchored="true" subtype="gloss" type="authorial" data-origfile="1609"><hi rend="superscript" data-origfile="1609">b</hi>Wet, cold, and windy</note> they have more companie to spend it,<anchor xml:id="ch9ance6" data-origfile="1609" type="attachmentCollation" subtype="end" /><anchor xml:id="ch9ancs7" data-origfile="1609" type="attachmentCollation" subtype="start" />and<anchor xml:id="ch9ance7" data-origfile="1609" type="attachmentCollation" subtype="end" /><hi rend="superscript" data-origfile="1609">b</hi>unkind weather oftentimes suffereth them not to<anchor xml:id="ch9ancs8" data-origfile="1609" type="attachmentCollation" subtype="start" /> goe forth for it.<anchor xml:id="ch9ance8" data-origfile="1609" type="attachmentCollation" subtype="end" /><anchor xml:id="ch9ancs9" data-origfile="1609" type="attachmentCollation" subtype="start" />live<anchor xml:id="ch9ance9" data-origfile="1609" type="attachmentCollation" subtype="end" /><anchor xml:id="ch9ancs10" data-origfile="1609" type="attachmentCollation" subtype="start" />abide<anchor xml:id="ch9ance10" data-origfile="1609" type="attachmentCollation" subtype="end" /><anchor xml:id="ch9ancs11" data-origfile="1609" type="attachmentCollation" subtype="start" />cold<anchor xml:id="ch9ance11" data-origfile="1609" type="attachmentCollation" subtype="end" /><hi data-origfile="1609">gemini</hi>
+                    <note subtype="gloss" type="authorial" xml:id="ch9glon1" data-origfile="1609"><hi rend="superscript" data-origfile="1609">b</hi>Wet, cold, and windy</note> they have more companie to spend it,<anchor xml:id="ch9ance6" data-origfile="1609" type="attachmentCollation" subtype="end" /><anchor xml:id="ch9ancs7" data-origfile="1609" type="attachmentCollation" subtype="start" />and<anchor xml:id="ch9ance7" data-origfile="1609" type="attachmentCollation" subtype="end" /><hi rend="superscript" data-origfile="1609">b</hi>unkind weather oftentimes suffereth them not to<anchor xml:id="ch9ancs8" data-origfile="1609" type="attachmentCollation" subtype="start" /> goe forth for it.<anchor xml:id="ch9ance8" data-origfile="1609" type="attachmentCollation" subtype="end" /><anchor xml:id="ch9ancs9" data-origfile="1609" type="attachmentCollation" subtype="start" />live<anchor xml:id="ch9ance9" data-origfile="1609" type="attachmentCollation" subtype="end" /><anchor xml:id="ch9ancs10" data-origfile="1609" type="attachmentCollation" subtype="start" />abide<anchor xml:id="ch9ance10" data-origfile="1609" type="attachmentCollation" subtype="end" /><anchor xml:id="ch9ancs11" data-origfile="1609" type="attachmentCollation" subtype="start" />cold<anchor xml:id="ch9ance11" data-origfile="1609" type="attachmentCollation" subtype="end" /><hi data-origfile="1609">gemini</hi>
                 </p>
                 <p part="N" xml:id="ch9par4" data-origfile="1609">
                     <note subtype="summary" type="authorial" xml:id="ch9sumn3" data-origfile="1609">4 <hi data-origfile="1609">Some are stored for a longer time, some for a lesse.</hi>
                     </note> <anchor xml:id="ch9ancs12" data-origfile="1609" type="attachmentCollation" subtype="start" />Of<anchor xml:id="ch9ance12" data-origfile="1609" type="attachmentCollation" subtype="end" /><anchor xml:id="ch9ancs13" data-origfile="1609" type="attachmentCollation" subtype="start" />some have provision only for six, some but for
                     foure or five: and some also not for so long a time: which you may well joine
                     with the unthriftie stockes. <hi data-origfile="1609">v.</hi>
-                    <note anchored="true" subtype="bibliographic" type="authorial" data-origfile="1609">
-                        <hi data-origfile="1609">v.n.</hi>1.</note> for they are not worth the feeding. </p>
+                    <note subtype="bibliographic" type="authorial" xml:id="ch9bibln1" data-origfile="1609"><ref target="#ch9sumn1" data-origfile="1609">
+                        <hi data-origfile="1609">v.n.</hi>1.</ref></note> for they are not worth the feeding. </p>
                 <p part="N" xml:id="ch9par5" data-origfile="1609">
                     <note subtype="summary" type="authorial" xml:id="ch9sumn4" data-origfile="1609">5 <hi data-origfile="1609">The usual time of feeding.</hi>
                     </note> When men perceive by the lightnesse of the hives that they wax leere and
@@ -11328,13 +11328,13 @@
                     tost, which being warme drinketh in the hony, whence they draw it out with their
                     tonges: but this waie wasteth hony, and doth not al- <fw type="catch" data-origfile="1609"> to-</fw>
                     <pb n="K2r" data-origfile="1609" />
-                    <note ana="Signature is incorrectly printed as K3" anchored="true" subtype="other" type="editorial" data-origfile="1609" />
+                    <note ana="Signature is incorrectly printed as K3" subtype="other" type="editorial" data-origfile="1609" />
                     <fw type="header" data-origfile="1609">
                         <hi data-origfile="1609">Of the feeding of Bees.</hi>
                     </fw> together avoid the former inconvenience. Others have other devises: but
                     indeed the only good waie is to give it them in a piec of a comb <hi data-origfile="1609">v.</hi>
-                    <note anchored="true" subtype="bibliographic" type="authorial" data-origfile="1609">
-                        <hi data-origfile="1609">v.n.</hi>19.</note> If you use to knock the hive, when you put in the
+                    <note subtype="bibliographic" type="authorial" xml:id="ch9bibln2" data-origfile="1609"><ref target="#ch9sumn19" data-origfile="1609">
+                        <hi data-origfile="1609">v.n.</hi>19.</ref></note> If you use to knock the hive, when you put in the
                     hony<seg rend='roman'>;</seg> they wil come down as duly as sheep to a cal, when they are to be fodered. </p>
                 <p part="N" xml:id="ch9par7" data-origfile="1609">
                     <note subtype="summary" type="authorial" xml:id="ch9sumn6" data-origfile="1609">7 <hi data-origfile="1609">This late feeding often fayleth.</hi>
@@ -11359,20 +11359,20 @@
                     </note> <anchor xml:id="ch9ance13" data-origfile="1609" type="attachmentCollation" subtype="end" /><anchor xml:id="ch9ancs14" data-origfile="1609" type="attachmentCollation" subtype="start" />For want of hony many other things have been used insteed thereof.
                         <anchor xml:id="ch9ance14" data-origfile="1609" type="attachmentCollation" subtype="end" /><hi data-origfile="1609">Aristotle</hi> mentioneth figges, and all such sweet things. <hi data-origfile="1609">Apiarii
                         ficus ac reliqua ad genus dulcia in cibum apponnut.</hi>
-                    <note anchored="true" subtype="bibliographic" type="authorial" data-origfile="1609">Hist.li.9.c.40.</note> and <hi data-origfile="1609">Plini</hi> speaking more particularly commen-
+                    <note subtype="bibliographic" type="authorial" xml:id="ch9bibln3" data-origfile="1609"><bibl default="false" status="draft" data-origfile="1609">Hist.li.9.c.40.</bibl></note> and <hi data-origfile="1609">Plini</hi> speaking more particularly commen-
                         <fw type="catch" data-origfile="1609"> deth</fw>
                     <fw ana="printing error, should be K2" type="sig" data-origfile="1609">K3</fw>
                     <pb n="K2v" data-origfile="1609" />
                     <fw type="header" data-origfile="1609">
                         <hi data-origfile="1609">Of the feeding of Bees.</hi>
                     </fw> deth raisings, and figges, and teased wooll wet <anchor xml:id="ch9ancs15" data-origfile="1609" type="attachmentCollation" subtype="start" />with meth, or honi-water,
-                    or<anchor xml:id="ch9ance15" data-origfile="1609" type="attachmentCollation" subtype="end" /><note anchored="true" subtype="bibliographic" type="authorial" data-origfile="1609">Nat hist. l. 21. c.
-                        14.</note>
+                    or<anchor xml:id="ch9ance15" data-origfile="1609" type="attachmentCollation" subtype="end" /><note subtype="bibliographic" type="authorial" xml:id="ch9bibln4" data-origfile="1609"><bibl default="false" status="draft" data-origfile="1609">Nat hist. l. 21. c.
+                        14.</bibl></note>
                     <hi data-origfile="1609">Si cibus deesse censeatur apibus, vuas passas siccasue, sicosque, tusas ad
                         fores earum posuisse conveniet: item lanas tractas madentes passo aut
                         defruto, aut aqua mulsa.</hi> And some of our country-men have practised to
                     give them bay salt, <anchor xml:id="ch9ancs16" data-origfile="1609" type="attachmentCollation" subtype="start" />and<anchor xml:id="ch9ance16" data-origfile="1609" type="attachmentCollation" subtype="end" /><anchor xml:id="ch9ancs17" data-origfile="1609" type="attachmentCollation" subtype="start" />the Bees<anchor xml:id="ch9ance17" data-origfile="1609" type="attachmentCollation" subtype="end" /></p>
-                <note anchored="true" subtype="gloss" type="authorial" data-origfile="1609">Touching the councell of <hi data-origfile="1609">Plinie.</hi> this is to bee noted, that if you
+                <note subtype="gloss" type="authorial" xml:id="ch9glon2" data-origfile="1609">Touching the councell of <hi data-origfile="1609">Plinie.</hi> this is to bee noted, that if you
                     place their food <hi data-origfile="1609">ad fores</hi> before the dore, it wil draw strange Bees
                     unto them: whereby the lives of the one, and the goods of the other wilbe
                     endangered: if you place it abroad from your hive, then wil it bee common: and
@@ -11447,8 +11447,8 @@
                     as wil suffice. This hony, when they have first taken their refection, they
                     convey into their voide cels: which because they cannot nowe shut up (as before
                         <hi data-origfile="1609">Virgo</hi>) for want of waxe, <hi data-origfile="1609">v.</hi>
-                    <note anchored="true" subtype="bibliographic" type="authorial" data-origfile="1609">
-                        <hi data-origfile="1609">v.c.</hi>6.<hi data-origfile="1609">n.</hi>13.</note> they do but halfe-fil. And therfore they
+                    <note subtype="bibliographic" type="authorial" xml:id="ch9bibln5" data-origfile="1609"><ref target="#ch6sumn13" data-origfile="1609">
+                        <hi data-origfile="1609">v.c.</hi>6.<hi data-origfile="1609">n.</hi>13.</ref></note> they do but halfe-fil. And therfore they
                     first spend of it, reserving that which was more safely laide up until the last. </p>
                 <p part="N" xml:id="ch9par15" data-origfile="1609">If insteed of this combe thus dressed you wil take a ful
                     honi-combe, then first open the cels with your knife: otherwise they wil not
