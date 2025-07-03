@@ -42,7 +42,7 @@
                 </licence>
             </publicationStmt>
             <sourceDesc default="false">
-                <biblStruct default="false" status="draft">
+                <biblStruct>
                     <monogr>
                         <author>Charles Butler</author>
                         <title>The Feminine Monarchie or a Treatise Concerning Bees and the due
@@ -114,12 +114,12 @@
                     </fw> derful, so comely for order and beauty, so excellent for art and wisdome,
                     and so full of pleasure and profit; that the contemplation thereof may well
                     beseeme an ingenious nature. And therefore not without cause are the Bees called
-                    the Muses birds.<note subtype="bibliographic" type="authorial" xml:id="frontbibln1"><bibl default="false" status="draft">
+                    the Muses birds.<note subtype="bibliographic" type="authorial" xml:id="frontbibln1"><bibl>
                         <hi>Var.l.3.ca.16.</hi>
                     </bibl></note>
                 </p>
                 <p part="N" xml:id="frontpar2">The love of which did so ravish <hi>Aristomachus</hi> and
-                        <hi>Philiseus</hi>, that, as <hi>Plinie</hi> reporteth,<note subtype="bibliographic" type="authorial" xml:id="frontbibln2"><bibl default="false" status="draft">
+                        <hi>Philiseus</hi>, that, as <hi>Plinie</hi> reporteth,<note subtype="bibliographic" type="authorial" xml:id="frontbibln2"><bibl>
                         <hi>Nat hist.li.II.</hi>
                     </bibl></note> they were pleased to spend most of their time in this pleasing busines.
                         <hi>Nequis</hi> (saith hee) <hi>miretur amore earum captos Aristomachum
@@ -173,7 +173,7 @@
                     may now freely reape the fruit of that, which the author hath deerly sowen unto
                     him.</p>
                 <p part="N" xml:id="frontpar5">
-                    <note subtype="bibliographic" type="authorial" xml:id="frontbibln4"><bibl default="false" status="draft">
+                    <note subtype="bibliographic" type="authorial" xml:id="frontbibln4"><bibl>
                         <hi>De generat.an.l.3.c.10</hi>
                     </bibl></note> The Philosopher intreating of the breeding of Bees, professeth himselfe
                     uncertaime of their sex: and therefore, willing in this uncertainty to grace so
@@ -1431,7 +1431,7 @@
                     </note> For first with the provision of a hive and some little care and
                     attendance, which need be no hinderance to other busines, but rather a
                     delightful recreation amid the same, they bring in store of sweete delicates
-                    most holesome both for meate and medicine, <note subtype="bibliographic" type="authorial" xml:id="ch1bibln1"><bibl default="false" status="draft">Ambrosius
+                    most holesome both for meate and medicine, <note subtype="bibliographic" type="authorial" xml:id="ch1bibln1"><bibl>Ambrosius
                         Hex.amer.l.5.cap.21.</bibl></note>
                     <hi>Fructum apum ab omnibus desideratur, &amp; quaeritur: nec pro personarum
                         diversitate discernitur, sed indiscreta sui gratia regibus pariter ac
@@ -1441,7 +1441,7 @@
                     <fw type="header">
                         <hi>Of the nature &amp; properties of Bees</hi>
                     </fw>
-                    <note subtype="bibliographic" type="authorial" xml:id="ch1bibln2"><bibl default="false" status="draft">Pli nat.hist I.ii.c.5</bibl></note>
+                    <note subtype="bibliographic" type="authorial" xml:id="ch1bibln2"><bibl>Pli nat.hist I.ii.c.5</bibl></note>
                     <hi>salutiest.</hi> And another saith, <hi>Mille ad usus vitae laborem tolerant
                         &amp; opera conficiunt</hi> : as they wel know who know the rare vertues of
                     hony and waxe: a taste whereof I wil give you in the last chapter. <note subtype="summary" type="authorial" xml:id="ch1sumn2">
@@ -1458,14 +1458,14 @@
                     </note> And thirdly in their labor and order at home and abroad they are so
                     admirable, that they may be a patterne unto men both of the one and of the
                     other. For unlesse they be let by wether, weaknes, or want of matter to worke
-                    on, their labour never ceaseth. <note subtype="bibliographic" type="authorial" xml:id="ch1bibln3"><bibl default="false" status="draft">Plin. nat. hist.l.ii.c.5</bibl></note> In
+                    on, their labour never ceaseth. <note subtype="bibliographic" type="authorial" xml:id="ch1bibln3"><bibl>Plin. nat. hist.l.ii.c.5</bibl></note> In
                     admiration whereof one saith, <hi>Quos efficacia industriaeque, tantae comparemus
                         nervos? quai vires? quos ratione medius fidius viros?</hi>
                     <note subtype="summary" type="authorial" xml:id="ch1sumn4">
                         <hi>4 Bees have a commonwealth</hi>
                     </note> &amp; for their order it is such that they may wel be said to have a
                     common wealth, since al that they do is in common without any privat respect.
-                    <note subtype="bibliographic" type="authorial" xml:id="ch1bibln4"><bibl default="false" status="draft">Nat hist III.31.c.5</bibl></note>
+                    <note subtype="bibliographic" type="authorial" xml:id="ch1bibln4"><bibl>Nat hist III.31.c.5</bibl></note>
                     <hi>Nihil norunt nisi commune:</hi> They work for al, they watch for al, they
                     fight for al. <note subtype="summary" type="authorial" xml:id="ch1sumn5">5 <hi>Their working, watching, fighting, dwelling, diet,
                             wealth and young ones are all in common.</hi>
@@ -1479,12 +1479,12 @@
                     <fw type="header">
                         <hi>and of their Queene.</hi>
                     </fw>
-                    <note subtype="bibliographic" type="authorial" xml:id="ch1bibln5"><bibl default="false" status="draft">Arist.hist.anim.lib.9.cap.40</bibl></note>
+                    <note subtype="bibliographic" type="authorial" xml:id="ch1bibln5"><bibl>Arist.hist.anim.lib.9.cap.40</bibl></note>
                     <hi>invicem, nec ullis aliis nocent; at vero apud suos alveos pugnant
                         acerimè</hi>: their dwelling and diet are common to al alike: they have like
                     common care both of their wealth and young ones.</p>
                 <p part="N" xml:id="ch1par2">
-                    <note subtype="bibliographic" type="authorial" xml:id="ch1bibln6"><bibl default="false" status="draft">Ambr.Hex.lib.5.ca.21</bibl></note>
+                    <note subtype="bibliographic" type="authorial" xml:id="ch1bibln6"><bibl>Ambr.Hex.lib.5.ca.21</bibl></note>
                     <hi>Solae in omni genere animantium communem omnibus sobolem habent, unam omnes
                         incolunt mansionem, unius patriae clauduntur limine, in commune omnibus
                         labor, communis cibus, communis operatio, communis usus, &amp; fructus
@@ -1492,7 +1492,7 @@
                     <note subtype="summary" type="authorial" xml:id="ch1sumn6">6 Bees alwaies loial to their soveraigne.</note> And al this under the
                     government of one Monarch, of whom above al things they have a principal care
                     &amp; respect, loving, reverencing, and obeying her in al things. </p>
-                <note subtype="bibliographic" type="authorial" xml:id="ch1bibln7"><bibl default="false" status="draft">Virg Geor</bibl></note>
+                <note subtype="bibliographic" type="authorial" xml:id="ch1bibln7"><bibl>Virg Geor</bibl></note>
                 <quote><lg org="uniform" part="N" sample="complete">
                         <l part="N">Praeterea regem non sic AEgyptus &amp; ingens</l>
                         <l part="N">Lydia, nec populi Parthorum aut Medus Hydaspes </l>
@@ -1516,7 +1516,7 @@
                     </fw> ner they attend her back againe. This I may say because I have seene it:
                     although the Philosopher be of another mind <hi>Reges</hi>, saith hee,
                         <hi>nunquam foris visuntur, niscum migratur.</hi>
-                    <note subtype="bibliographic" type="authorial" xml:id="ch1bibln8"><bibl default="false" status="draft">Hist.an.l.9.cap.40</bibl></note> If by hir voice she bid them goe, they swarme;
+                    <note subtype="bibliographic" type="authorial" xml:id="ch1bibln8"><bibl>Hist.an.l.9.cap.40</bibl></note> If by hir voice she bid them goe, they swarme;
                     if being abroad she dislike the weather, or lighting place, they quickly returne
                     home againe; while she cheereth them to battaile they fight
                     <hi>v</hi>,<note subtype="bibliographic" type="authorial" xml:id="ch1bibln9"><ref target="#ch7sumn32">Vid.c.7.n.32.</ref></note>
@@ -1526,7 +1526,7 @@
                         too.<anchor xml:id="ch1ance5"></anchor>
                     <hi>Rege mortuo maeret plebs ignava, non cibos convebit, non procedit, tristi
                         tantum murmure glomeratur circa corpus eius.</hi>
-                    <note subtype="bibliographic" type="authorial" xml:id="ch1bibln10"><bibl default="false" status="draft">Nat.hist.li.II.c.i7</bibl></note>
+                    <note subtype="bibliographic" type="authorial" xml:id="ch1bibln10"><bibl>Nat.hist.li.II.c.i7</bibl></note>
                     <note subtype="summary" type="authorial" xml:id="ch1sumn7">7 Bees endure no government, but a Monarchie</note><anchor xml:id="ch1ancs6"></anchor>But if they have many Princes, as when two fly away with
                     one swarme, or when two swarmes are hived together; they strike one of them
                     presently, and sometime they bring her downe that evening to the mantle,
@@ -1568,17 +1568,17 @@
                     </fw> long as the other Bees: which, like a kings sword, is borne rather for
                     shewe and authoritie, than for any other use: For it belongeth to her subjects,
                     as well to fight for her, as to provide for her.
-                    <note subtype="bibliographic" type="authorial" xml:id="ch1bibln12"><bibl default="false" status="draft">Nat.hist.li.II.cap.17.</bibl></note>
+                    <note subtype="bibliographic" type="authorial" xml:id="ch1bibln12"><bibl>Nat.hist.li.II.cap.17.</bibl></note>
                     <hi>Plinie</hi> writeth thus doubtingly of it. <hi>Non constat inter authores
                         rex nullumne solus habeat aculeum, maejestate tantum armatus, an dederit eum
                         quidem natura, sed usum eius illi tantum negaverit; illud constat imperatorem
                         aculeo non uti.</hi>
                 </p>
                 <p part="N" xml:id="ch1par5">But <hi>Arist</hi>; doth truely approve the later opinion as
-                    certaine: <note subtype="bibliographic" type="authorial" xml:id="ch1bibln13"><bibl default="false" status="draft">Hist.an.l.5.cap.21.</bibl></note>
+                    certaine: <note subtype="bibliographic" type="authorial" xml:id="ch1bibln13"><bibl>Hist.an.l.5.cap.21.</bibl></note>
                     <hi>Reges aculeos habent, sed non utuntur. Quecirca carere eos aculeis nonnulli
                         existimant.</hi> If you desire to see this stately Prince, read ca.5.n.27
-                    <note subtype="bibliographic" type="authorial" xml:id="ch1bibln14"><bibl default="false" status="draft">Nat.hist.iI.c.16</bibl></note>
+                    <note subtype="bibliographic" type="authorial" xml:id="ch1bibln14"><bibl>Nat.hist.iI.c.16</bibl></note>
                     <hi>Plinie</hi> describeth the Queene-bees thus, <hi>Omnibus forma semper
                         egregia, &amp; duplo quam caeteris maior, pennae breviores, crura recta,
                         ingressus celsior, in fronte macula quodam diademate candicans: Multum etiam
@@ -1600,15 +1600,15 @@
                         <hi>and of their Queene.</hi>
                     </fw> neth, where he saith, <hi>circa regem satellites quidam lictoresque,
                         assiduae custodes authoritatis.</hi>
-                    <note subtype="bibliographic" type="authorial" xml:id="ch1bibln15"><bibl default="false" status="draft">Nat.hist.li.II.c.17.</bibl></note> In lesse than a quarter of an houre you may see
+                    <note subtype="bibliographic" type="authorial" xml:id="ch1bibln15"><bibl>Nat.hist.li.II.c.17.</bibl></note> In lesse than a quarter of an houre you may see
                     three or foure of them come forth of a good stale; but chiefly in
                         <hi>Gemini</hi> before their continuall labour have worne these ornaments.
-                    So that he might well say <note subtype="bibliographic" type="authorial" xml:id="ch1bibln16"><bibl default="false" status="draft">Plin.Nat.hist.Li.II.c.5.</bibl></note>
+                    So that he might well say <note subtype="bibliographic" type="authorial" xml:id="ch1bibln16"><bibl>Plin.Nat.hist.Li.II.c.5.</bibl></note>
                     <hi>Rempublicam habent, consilia, ac duces.</hi> Al which he that seriously
                     considereth must with admiration acknowledge that singular wisdome, order, and
                     government in them, which in no other creature, man only excepted (if yet to be
                     excepted) is to be found; whence some have inferred a farther matter </p>
-                <note subtype="bibliographic" type="authorial" xml:id="ch1bibln17"><bibl default="false" status="draft">Vir.Geor.4</bibl></note>
+                <note subtype="bibliographic" type="authorial" xml:id="ch1bibln17"><bibl>Vir.Geor.4</bibl></note>
                 <quote><lg org="uniform" part="N" sample="complete">
                         <l part="N">His equidam signis atque haec exempla sequuti,</l>
                         <l part="N">Esse apibus partem divinae mentis, &amp; haustus </l>
@@ -1617,8 +1617,8 @@
                 <p part="N" xml:id="ch1par7">
                     <note subtype="summary" type="authorial" xml:id="ch1sumn11">11 <hi>Two sorts of Bees.</hi>
                     </note>
-                    <note subtype="bibliographic" type="authorial" xml:id="ch1bibln18"><bibl default="false" status="draft">Hist l.5.c.22</bibl></note> 
-                    <note subtype="bibliographic" type="authorial" xml:id="ch1bibln19"><bibl default="false" status="draft">Hist l.9.c.40</bibl></note> Aristotle maketh two sortes of Bees, the one (which is
+                    <note subtype="bibliographic" type="authorial" xml:id="ch1bibln18"><bibl>Hist l.5.c.22</bibl></note> 
+                    <note subtype="bibliographic" type="authorial" xml:id="ch1bibln19"><bibl>Hist l.9.c.40</bibl></note> Aristotle maketh two sortes of Bees, the one (which is
                     best) short, divers coloured, &amp; round; the other long like unto waspes.
                         <hi>Optimum genus apum quae breves variae &amp; in rotunditatem compactiles,
                         secundae quae longae &amp; vespis similes.</hi> And in an other place he
@@ -1717,7 +1717,7 @@
                     the spring a hungry stall forsaking his owne home presseth into their hive,
                     <hi>v</hi>.<note subtype="bibliographic" type="authorial" xml:id="ch1bibln27"><ref target="#ch1sumn46">v.c.n.46.</ref></note> they fal sodainly upon them with their
                     poisoned speeres (<hi>Apibus natura cuspides dedit, &amp; quidem
-                        venenatas</hi>)<note subtype="bibliographic" type="authorial" xml:id="ch1bibln28"><bibl default="false" status="draft">Nat.hist.li.21.c.13.21.</bibl></note> but then they make short
+                        venenatas</hi>)<note subtype="bibliographic" type="authorial" xml:id="ch1bibln28"><bibl>Nat.hist.li.21.c.13.21.</bibl></note> but then they make short
                     worke: for by that time they have put up their weapons, some die presently,
                         <note subtype="summary" type="authorial" xml:id="ch1sumn21">21. <hi>Stinging present death to Bees.</hi>
                     </note> others loosing the use of their wings tumble on the ground like mad
@@ -1746,7 +1746,7 @@
                     </ref>.</note> for the skin having received the sting holdeth it so fast, that when
                     they would be gon they leave both it and part of their entralls which are
                     fastned to it. <hi>Aculeum apibus natura dedit ventri
-                        consertum</hi>.<note subtype="bibliographic" type="authorial" xml:id="ch1bibln30"><bibl default="false" status="draft">Nat.hist.I.II.c.18.</bibl></note> If they light upon poultry
+                        consertum</hi>.<note subtype="bibliographic" type="authorial" xml:id="ch1bibln30"><bibl>Nat.hist.I.II.c.18.</bibl></note> If they light upon poultry
                     although their desire be to the quicke, if they can quicklie come at it, yet
                     will they put forth their speers as soone as they touch the feather; and if they
                     chance to hit the hard part thereof the sting sticketh fast, as in the skin: and
@@ -1800,7 +1800,7 @@
                     often without any hurt to themselves, the Bee never stingeth but once and then
                     shee leaveth hir speere and entrals, more or lesse behinde her, <hi>animamque in
                         vulnere ponit.</hi>
-                    <note subtype="bibliographic" type="authorial" xml:id="ch1bibln32"><bibl default="false" status="draft">
+                    <note subtype="bibliographic" type="authorial" xml:id="ch1bibln32"><bibl>
                         <hi>Virg. Georg.</hi> Hist.an.l.9.c.40.</bibl></note>
                     <hi>(Intereunt quae percusserint, quoniam fine intestini eruptione aculeus eximi
                         non potest).</hi> For within fowre and twentie howres after, or, if much of
@@ -1902,12 +1902,12 @@
                     elsewhere. For this thing hath beene long since observed by that great
                     philosopher. <hi>Necant</hi> (saith he) <hi>vel maxima animalia ictu sui aculei:
                         iam equus occisus ab apibus est.</hi>
-                    <note subtype="bibliographic" type="authorial" xml:id="ch1bibln35"><bibl default="false" status="draft">Arist.hist.an.l.9.c.40</bibl></note>
+                    <note subtype="bibliographic" type="authorial" xml:id="ch1bibln35"><bibl>Arist.hist.an.l.9.c.40</bibl></note>
                 </p>
                 <p part="N" xml:id="ch1par23">
                     <note subtype="summary" type="authorial" xml:id="ch1sumn40">40 <hi>The Bees senses.</hi>
                     </note>
-                    <anchor xml:id="ch1ancs14"></anchor><note subtype="bibliographic" type="authorial" xml:id="ch1bibln36"><bibl default="false" status="draft">Nat.hist.Ii.</bibl></note>
+                    <anchor xml:id="ch1ancs14"></anchor><note subtype="bibliographic" type="authorial" xml:id="ch1bibln36"><bibl>Nat.hist.Ii.</bibl></note>
                     <hi>Quamvis non sint membra quae, velunt carina, sensus invehant; esse tamen iis
                         auditum, olfactum, gustatum, eximia praetereae naturae dona, solertiam</hi>
                     <fw type="catch"> animum</fw><anchor xml:id="ch1ance14"></anchor>
@@ -1944,7 +1944,7 @@
                     <fw type="header">
                         <hi>Of the nature &amp; properties of Bees</hi>
                     </fw>
-                    <note subtype="bibliographic" type="authorial" xml:id="ch1bibln38"><bibl default="false" status="draft">Lucret.I.4.</bibl></note> ——<quote><lg org="uniform" part="N" sample="complete">
+                    <note subtype="bibliographic" type="authorial" xml:id="ch1bibln38"><bibl>Lucret.I.4.</bibl></note> ——<quote><lg org="uniform" part="N" sample="complete">
                             <l part="N">Ideoque per auras</l>
                             <l part="N"> Mellis apes, quamvis longè, ducuntur odore.</l>
                         </lg></quote> And by this sense they finde out any strange Bee, which is not
@@ -1956,7 +1956,7 @@
                     <note subtype="summary" type="authorial" xml:id="ch1sumn43">43 <hi>Hearing &amp; feeling.</hi>
                     </note> Their heareing and feeling are very quicke. If you touch their hives but
                     lightly, they presentlie perceiving it, make a generall noise: although
-                    <note subtype="bibliographic" type="authorial" xml:id="ch1bibln39"><bibl default="false" status="draft">Hist.an.l.9.cap.40</bibl></note>
+                    <note subtype="bibliographic" type="authorial" xml:id="ch1bibln39"><bibl>Hist.an.l.9.cap.40</bibl></note>
                     <hi>Aristotle</hi> doubt whether they heare, or not. <hi>Quanquam incertum est
                         an audiant.</hi> But if they did not heare, to what purpose is that musicke
                     made in the hives, before the swarming? <hi>v.c. 5. n 23.</hi>
@@ -2000,12 +2000,12 @@
                     </ref></note> Moreover, as skilfil Astronomers, they have for-knowledge of the
                     weather. <hi>Praedivinant enim ventos imbresque &amp; tunc se pleraeque continent
                         tectis.</hi> Item, <hi>Praesagiunt apes, &amp; hyemem &amp; imbres.</hi>
-                    <note subtype="bibliographic" type="authorial" xml:id="ch1bibln43"><bibl default="false" status="draft">Pl.nat,hist.l.11.c.10. Ar hist. an.l.9.c.40.</bibl></note> And in stormy &amp;
+                    <note subtype="bibliographic" type="authorial" xml:id="ch1bibln43"><bibl>Pl.nat,hist.l.11.c.10. Ar hist. an.l.9.c.40.</bibl></note> And in stormy &amp;
                     windie weather it is a wonder to see what cunning those that are abroad doe use
                     to shift the wind when they come home loaden: how they flie alow by the ground,
                     among the bushes, in the lanes, and the lee sides of the hedges. <hi>Juxta
                         terram volant in adverso flatu vepribus hebetato.</hi>
-                    <note subtype="bibliographic" type="authorial" xml:id="ch1bibln44"><bibl default="false" status="draft">Nat.hist.li.11.c.10.</bibl></note> But <fw type="catch"> above</fw>
+                    <note subtype="bibliographic" type="authorial" xml:id="ch1bibln44"><bibl>Nat.hist.li.11.c.10.</bibl></note> But <fw type="catch"> above</fw>
                     <pb n="B2v"></pb>
                     <fw type="header">
                         <hi>Of the nature and properties of Bees</hi>
@@ -2016,7 +2016,7 @@
                     selves, <hi>v.</hi>
                     <note subtype="bibliographic" type="authorial" xml:id="ch1bibln45"><ref target="#ch6sumn8">v.c.6.n.8.</ref></note> and the Nymph-seedes in the rest, which are of a smaller
                     size. <hi>v.</hi>
-                    <note subtype="bibliographic" type="authorial" xml:id="ch1bibln46"><bibl default="false" status="draft">v.c.6.n.7. Ambr.Hex.l.5.c.21.</bibl></note> So that what wanteth in the sight of
+                    <note subtype="bibliographic" type="authorial" xml:id="ch1bibln46"><bibl>v.c.6.n.7. Ambr.Hex.l.5.c.21.</bibl></note> So that what wanteth in the sight of
                     their eies, is fullie supplied in the sight of their minde. <hi>Cum sit infirma
                         robore apis, valida est vigore sapientiae &amp; amore virtutis.</hi> And yet
                     I have read of a greater knowledge than all this: How there were Bees so wise
@@ -2043,7 +2043,7 @@
                     with an altar in it, the wals adorned by marvelous skil of architecture with
                     windowes conveniently set in their places: also a dore and a steeple with bels.
                     And the host being laid upon the altar, the bees making a sweet noise flew round
-                    about it*. <note subtype="bibliographic" type="authorial" xml:id="ch1bibln47"><bibl default="false" status="draft"><anchor xml:id="ch1ancs18"></anchor>*Tho.Bozius de signis
+                    about it*. <note subtype="bibliographic" type="authorial" xml:id="ch1bibln47"><bibl><anchor xml:id="ch1ancs18"></anchor>*Tho.Bozius de signis
                             Eccles.lib.14.c.3.<anchor xml:id="ch1ance18"></anchor></bibl></note>
                 </p>
                 <p part="N" xml:id="ch1par29">But whether this doe more argue the supernatural knowledge and
@@ -2179,7 +2179,7 @@
                 <p part="N" xml:id="ch1par37">
                     <note subtype="summary" type="authorial" xml:id="ch1sumn51">51 <hi>Chastitie</hi>
                     </note> Their chastitie is to bee admired.
-                    <note subtype="bibliographic" type="authorial" xml:id="ch1bibln48"><bibl default="false" status="draft">Amb.Hex.<hi>l</hi>.5<hi>c </hi>21.Georg</bibl></note>
+                    <note subtype="bibliographic" type="authorial" xml:id="ch1bibln48"><bibl>Amb.Hex.<hi>l</hi>.5<hi>c </hi>21.Georg</bibl></note>
                     <hi>Integritas corporis virginalis omnibus communis. Illum adeo placuisse apibus
                         mirabere morem, quod non concubitu indulgent, &amp;c.</hi> They ingender not
                     as other living creaturs: onlie they suffer their drones among them for a
@@ -2188,7 +2188,7 @@
                     <hi>v.</hi>
                     <note subtype="bibliographic" type="authorial" xml:id="ch1bibln49"><ref target="#ch4sumn2">v.c.4.n.2</ref></note><anchor xml:id="ch1ance23"></anchor> Which strange kind of
                     breeding the Philosopher acknowledgeth in them to bee apparent unto sense and
-                    reason. <note subtype="bibliographic" type="authorial" xml:id="ch1bibln50"><bibl default="false" status="draft">Generat.an.l.3.c.10</bibl></note>
+                    reason. <note subtype="bibliographic" type="authorial" xml:id="ch1bibln50"><bibl>Generat.an.l.3.c.10</bibl></note>
                     <hi>Cum in genera piscium salis quaedam sit generatio nonnullorum, ut sine
                         coitu generet: hoc idem in apibus etiam evenire videtur quoad sensus
                         ratioque apparens admoneat.</hi>
@@ -2196,8 +2196,8 @@
                 <p part="N" xml:id="ch1par38">
                     <note subtype="summary" type="authorial" xml:id="ch1sumn52">52 <hi>Cleanlinesse</hi>
                     </note> For cleanlinesse and neatnesse they maie be a mirror to the finest
-                    dames. <note subtype="bibliographic" type="authorial" xml:id="ch1bibln51"><bibl default="false" status="draft">Hist. an.l.9.cap.40.</bibl></note>
-                    <note subtype="bibliographic" type="authorial" xml:id="ch1bibln52"><bibl default="false" status="draft">Nat.hist.li.11.c.10.</bibl></note>
+                    dames. <note subtype="bibliographic" type="authorial" xml:id="ch1bibln51"><bibl>Hist. an.l.9.cap.40.</bibl></note>
+                    <note subtype="bibliographic" type="authorial" xml:id="ch1bibln52"><bibl>Nat.hist.li.11.c.10.</bibl></note>
                     <hi>Mundissimum omnium hoc animal est.</hi> For neither will they suffer anie
                     slutterie within, if they maie goe abroad, <hi>a</hi>
                     <fw type="catch">
@@ -2209,7 +2209,7 @@
                     </fw>
                     <hi>amoliuntur omnia e medio, nullaeque inter opera spurcitiae tacent</hi>: nether
                     can they endure anie unsavourinesse without nigh unto them. <hi>Odere foedos
-                        odores</hi>:<note subtype="bibliographic" type="authorial" xml:id="ch1bibln53"><bibl default="false" status="draft">Hist an.l.9.c.40.</bibl></note> And for their persons (which are
+                        odores</hi>:<note subtype="bibliographic" type="authorial" xml:id="ch1bibln53"><bibl>Hist an.l.9.c.40.</bibl></note> And for their persons (which are
                     lovelie brown) though they be not long about it yet are they curious in trimming
                     and smoothing them from top to toe, like unto sober matrones, which love as well
                     to goe neate as plaine: pied and garish colours belong to the wasp, which is
@@ -2217,7 +2217,7 @@
                 <p part="N" xml:id="ch1par39">
                     <note subtype="summary" type="authorial" xml:id="ch1sumn53">53 <hi>The age of Bees</hi>
                     </note> Anent the age of Bees there are divers opinions: some thinke that they
-                    may live 4, or 5 yeares, yea some 6, or 7. <note subtype="bibliographic" type="authorial" xml:id="ch1bibln54"><bibl default="false" status="draft">Georg. 4 Hist.l.5.c.22.</bibl></note>
+                    may live 4, or 5 yeares, yea some 6, or 7. <note subtype="bibliographic" type="authorial" xml:id="ch1bibln54"><bibl>Georg. 4 Hist.l.5.c.22.</bibl></note>
                         (<hi>neque enim plus septima ducitor aestas. Aristotle</hi> speaketh of a
                     longer time <hi>Vita apium anni sex, nonnullae etiam 7; possunt complere: quod si
                         examen 9, aut decem annos duraverit prospere actum esse existimatur.</hi>
@@ -2226,7 +2226,7 @@
                     by succession: and so might they live in <hi>secula</hi> if the rottennes of
                     their combes and the noisone stopping could suffer them to abide the hives,
                         <hi>Nam genus immortale manet.</hi>
-                    <note subtype="bibliographic" type="authorial" xml:id="ch1bibln55"><bibl default="false" status="draft">Georg 4</bibl></note> But the truth is, a Bee is but a yeares birde, with some
+                    <note subtype="bibliographic" type="authorial" xml:id="ch1bibln55"><bibl>Georg 4</bibl></note> But the truth is, a Bee is but a yeares birde, with some
                     advantage. For the Bees of the former yeare, which until <hi>Gemini</hi> in the
                     next yeare doe looke so youthfullie that you cannot discerne them from their ful
                     growne nymphes which that spring they have bread, do from thence forth <fw type="catch"> chang</fw>
@@ -2260,7 +2260,7 @@
                         <hi>and of their Queene.</hi>
                     </fw> idelnes. And therefore generally they die in their delightful labour
                     either in the field or comming home: <hi>atque animas sub fasce dedere.</hi>
-                    <note subtype="bibliographic" type="authorial" xml:id="ch1bibln56"><bibl default="false" status="draft">Virg.</bibl></note> Somtimes as wel in sommer as winter the Bees take pleasure
+                    <note subtype="bibliographic" type="authorial" xml:id="ch1bibln56"><bibl>Virg.</bibl></note> Somtimes as wel in sommer as winter the Bees take pleasure
                     to play abroade before the hive, <note subtype="summary" type="authorial" xml:id="ch1sumn56">57 <hi>Bees wont efsoones to play</hi>
                     </note> specially those that are in good plight, flying in, and out, and about,
                     so thicke, and so earnestly, as if they were swarming or fighting; when indeede
@@ -2268,7 +2268,7 @@
                     have beene long kept in. <hi>Exercitationem interdum solemnem habent:
                         spatiataeque in aperto &amp; in altum elatae, gyris volatu editis, tum demum
                         redeunt.</hi>
-                    <note subtype="bibliographic" type="authorial" xml:id="ch1bibln57"><bibl default="false" status="draft">Nat.hist.li.11.c.20</bibl></note>
+                    <note subtype="bibliographic" type="authorial" xml:id="ch1bibln57"><bibl>Nat.hist.li.11.c.20</bibl></note>
                 </p>
                 <p part="N" xml:id="ch1par41">
                     <note subtype="summary" type="authorial" xml:id="ch1sumn57">58 <hi>They are soone killed with cold.</hi>
@@ -2328,7 +2328,7 @@
                         purpose.<anchor xml:id="ch2ance2"></anchor>
                     <hi>Hortis coronamentisque maxime alvearia &amp; apes conveniunt; res praecipus
                         quaestus compendiique cum favit.</hi>
-                    <note subtype="bibliographic" type="authorial" xml:id="ch2bibln1"><bibl default="false" status="draft">Nat.hist.li.21.c.12.</bibl></note>
+                    <note subtype="bibliographic" type="authorial" xml:id="ch2bibln1"><bibl>Nat.hist.li.21.c.12.</bibl></note>
                 </p>
                 <p part="N" xml:id="ch2par2">
                     <note subtype="summary" type="authorial" xml:id="ch2sumn2">2. <hi>That it be safely fenced from cattaile and windes.</hi>
@@ -2390,7 +2390,7 @@
                     </note> 3. That the place be sweete, not annoyed with any stinking savour. I
                     have knowne a stall in the spring being sufficiently provided of hony, &amp;
                     having bred yong, to forsake all because of poultry that roosted in a tree over
-                    them. <note subtype="bibliographic" type="authorial" xml:id="ch2bibln4"><bibl default="false" status="draft">Nat.hist.li.II.c.18.</bibl></note>
+                    them. <note subtype="bibliographic" type="authorial" xml:id="ch2bibln4"><bibl>Nat.hist.li.II.c.18.</bibl></note>
                     <hi>Odere foedes odores, proculque, fugiunt</hi>: And yet the smel of urin doth not
                     offend them; nay they wilbe very busy where it is shed. It is thought they use
                     it for physike. <hi>Remedium contra alui concitationem est urina hominum vel
@@ -2399,7 +2399,7 @@
                 <p part="N" xml:id="ch2par9">
                     <note subtype="summary" type="authorial" xml:id="ch2sumn7">7 <hi>Neither very cold in winter nor over hot in sommer.</hi>
                     </note> 4 That it be neither very cold in winter nor very hot in sommer.
-                    <note subtype="bibliographic" type="authorial" xml:id="ch2bibln5"><bibl default="false" status="draft">Hist.l.9.c.40.</bibl></note>
+                    <note subtype="bibliographic" type="authorial" xml:id="ch2bibln5"><bibl>Hist.l.9.c.40.</bibl></note>
                     <hi>Locus aestate non fervidus, hyeme tepidus.</hi> A bare flower is naught in
                     both seasons: because in winter it is over cold and by that meanes quickly
                     chilleth the Bees that light upon it; and in sommer it causeth them to lie forth
@@ -2735,7 +2735,7 @@
                     <note subtype="summary" type="authorial" xml:id="ch3sumn19">19 <hi>The hives alwaies close cloomed</hi>
                     </note> Next keepe the hives alwaies close for defence of the bees against their
                     enimies. The best cloome for that purpose is made of neates dunge:
-                    <hi>circumlini alveos fimo bubulo utilissimum</hi>:<note subtype="bibliographic" type="authorial" xml:id="ch3bibln6"><bibl default="false" status="draft">Nat hist. li 21.
+                    <hi>circumlini alveos fimo bubulo utilissimum</hi>:<note subtype="bibliographic" type="authorial" xml:id="ch3bibln6"><bibl>Nat hist. li 21.
                         cap. 14.</bibl></note> <anchor xml:id="ch3ancs26"></anchor>but let it be tempered and hardened with clay or other
                     morter, or for a neede with ashes, against the wet; and with sand or gravel
                     against the gnawing of Mise.<anchor xml:id="ch3ance26"></anchor> With this cloome close up the skirts and brackes of
@@ -2963,7 +2963,7 @@
                     <anchor xml:id="ch3ancs50x"></anchor>extreame<anchor xml:id="ch3ance50x"></anchor> cold wil kill many, &amp; weaken all: whereby <anchor xml:id="ch3ancs50xx"></anchor>they are made<anchor xml:id="ch3ance50xx"></anchor> unlustie <anchor xml:id="ch3ancs50xxx"></anchor>to
                     worke,<anchor xml:id="ch3ance50xxx"></anchor> as the Philosopher well noted. <hi>Si alveus justo amplior sit,
                         desidiodiores redduntur.</hi>
-                    <note subtype="bibliographic" type="authorial" xml:id="ch3bibln20"><bibl default="false" status="draft">His.l.9.c.40</bibl></note>
+                    <note subtype="bibliographic" type="authorial" xml:id="ch3bibln20"><bibl>His.l.9.c.40</bibl></note>
                 </p>
                 <p part="N" xml:id="ch3par40">
                     <note subtype="summary" type="authorial" xml:id="ch3sumn42">42 <hi>The reared stalles now to be set down againe</hi>
@@ -3184,7 +3184,7 @@
                     stomach, and then <anchor xml:id="ch4ancs5"></anchor>returneth<anchor xml:id="ch4ance5"></anchor> hee presently to his cheere. <hi>Fuci cum exeunt efferunt sese fusim in
                         sublimi gyroque volitant; quod ubi satis iam fecerint redeunt domum &amp;
                         epulis perfruuntur.</hi>
-                    <note subtype="bibliographic" type="authorial" xml:id="ch4bibln1"><bibl default="false" status="draft">Hist.li.9.c.40.</bibl></note> But for all this there is necessary use of him,
+                    <note subtype="bibliographic" type="authorial" xml:id="ch4bibln1"><bibl>Hist.li.9.c.40.</bibl></note> But for all this there is necessary use of him,
                     that hee may not be spared, as without whom the Bee cannot be. For albeit he be
                     not seen to ingender <fw type="catch">with</fw>
                     <pb n="D5v"></pb>
@@ -3212,7 +3212,7 @@
                     from thenceforth al the winter, until the Bees breed new againe, <hi>v.</hi>
                     <note subtype="bibliographic" type="authorial" xml:id="ch4bibln5"><ref target="#ch4sumn16">
                         <hi>v.n.</hi>16.</ref>&amp;<ref target="#ch6sumn17">17.</ref></note> there is not a drone to be had <hi>In rerum
-                            natura</hi>.<note subtype="bibliographic" type="authorial" xml:id="ch4bibln6"><bibl default="false" status="draft">Nat hist l.11. c 11.</bibl></note>
+                            natura</hi>.<note subtype="bibliographic" type="authorial" xml:id="ch4bibln6"><bibl>Nat hist l.11. c 11.</bibl></note>
                     <note subtype="summary" type="authorial" xml:id="ch4sumn3">4 <hi>No drone in winter.</hi>
                     </note> When they are quite gone, then do the Bees lay no more seeds that yeere,
                     but only hatch and breed up those that are already in the celles.</p>
@@ -3290,7 +3290,7 @@
                     combe to some eight inches over. Then making more roome beneath by moining &amp;
                     carrying out the earth, they hang an other combe under the first, by little
                     pins, and so an other, and an other, increasing stil in the same place til
-                    sommer bee done. For they goe not forth in swarmes as Bees doe. <note subtype="bibliographic" type="authorial" xml:id="ch4bibln13"><bibl default="false" status="draft">His
+                    sommer bee done. For they goe not forth in swarmes as Bees doe. <note subtype="bibliographic" type="authorial" xml:id="ch4bibln13"><bibl>His
                         l.9.c.42.</bibl></note>
                     <hi>Missio ut apum nulla vel crabronum vel vesparum fieri solet: sed qui subinde
                         oriantur novelli ibidem ma</hi>
@@ -3319,7 +3319,7 @@
                     <hi>Cancer</hi>, as I have said, they begin to nestle and breede. He that
                     killeth one of them killeth a whole nest of waspes. </p>
                 <p part="N" xml:id="ch4par7">And that the drone-waspes are the males, some were of opinion in
-                    the daies of <hi>Aristotle:</hi> for thus he writeth. <note subtype="bibliographic" type="authorial" xml:id="ch4bibln14"><bibl default="false" status="draft">His.li.9.41.</bibl></note>
+                    the daies of <hi>Aristotle:</hi> for thus he writeth. <note subtype="bibliographic" type="authorial" xml:id="ch4bibln14"><bibl>His.li.9.41.</bibl></note>
                     <hi>Si vespam ex pedibus ceperis bombilareque, siveris, advolant quae aculeo
                         carent, quod non faciunt, quae aculeatae sunt. Itaque argumento quidam hoc
                         utuntur quod alterae mares sunt, alterae foe-</hi>
@@ -3388,9 +3388,9 @@
                     discerne <hi>duos amplos &amp; candidos testes</hi>, two <anchor xml:id="ch4ancs21"></anchor>sufficient<anchor xml:id="ch4ance21"></anchor> witnesses of his
                     masculine sex.</p>
                 <p part="N" xml:id="ch4par10"><anchor xml:id="ch4ancs22"></anchor>The light of<anchor xml:id="ch4ance22"></anchor> this truth began to appeare many yeares agoe, even in
-                    Aristotles time. <note subtype="bibliographic" type="authorial" xml:id="ch4bibln16"><bibl default="false" status="draft">His l.5.c.21</bibl></note> <hi>Aliqui</hi> (saith he) <hi>mares esse fucos, foeminas vero
+                    Aristotles time. <note subtype="bibliographic" type="authorial" xml:id="ch4bibln16"><bibl>His l.5.c.21</bibl></note> <hi>Aliqui</hi> (saith he) <hi>mares esse fucos, foeminas vero
                         apes esse contendunt.</hi> Which opinion he reciteth in another place.
-                    <hi>Sunt qui fucos mares esse, apes foeminas arbitrentur</hi>.<note subtype="bibliographic" type="authorial" xml:id="ch4bibln17"><bibl default="false" status="draft">Generat:
+                    <hi>Sunt qui fucos mares esse, apes foeminas arbitrentur</hi>.<note subtype="bibliographic" type="authorial" xml:id="ch4bibln17"><bibl>Generat:
                         1.3.c.10.</bibl></note> Where though he doe not approve it, yet hath he no other
                     reason against it but this. <hi>Arma ad pugnam viresque exercendas nulli feminae
                         a naturae a tribuuntur.</hi> Nature hath armed <anchor xml:id="ch4ancs23"></anchor>the
@@ -3458,7 +3458,7 @@
                     <anchor xml:id="ch4ancs35"></anchor>she flieth abroad practising to worke:<anchor xml:id="ch4ance35"></anchor>
                     <anchor xml:id="ch4ancs35x"></anchor>and all this within the space of a month.<anchor xml:id="ch4ance35x"></anchor></p>
                 <p part="N" xml:id="ch4par15">
-                    <quote><note subtype="bibliographic" type="authorial" xml:id="ch4bibln19"><bibl default="false" status="draft">Hist.an.l.5.c.22.</bibl></note>
+                    <quote><note subtype="bibliographic" type="authorial" xml:id="ch4bibln19"><bibl>Hist.an.l.5.c.22.</bibl></note>
                         <hi>Foetu posito incubant, exclusus inde vermiculus, dum parvus est, iacet
                             in favo obliquus: postea sua apse facultate se erigit, cibumque capit.
                             Foetus apum &amp; fucorum candidus est: ex quo vermiculi fiunt, qui in
@@ -3471,10 +3471,10 @@
                     <note subtype="bibliographic" type="authorial" xml:id="ch4bibln20"><ref target="#ch6sumn9">
                         <hi>v.c.</hi>6.<hi>n.</hi>9</ref>.<ref target="#ch6sumn10">10</ref></note> after a peculiar and more excellent
                     manner. For the golden matter whereof they are made is not turned into a worme
-                    at all, but immediately receiveth the shape of a Bee. <note subtype="bibliographic" type="authorial" xml:id="ch4bibln21"><bibl default="false" status="draft">Hist.l.5.c.22</bibl></note>
+                    at all, but immediately receiveth the shape of a Bee. <note subtype="bibliographic" type="authorial" xml:id="ch4bibln21"><bibl>Hist.l.5.c.22</bibl></note>
                     <hi>Primordium regum colore cernitur fulvo, corpulentia mellis crassioris,
                         magnitudine illico proxima suae futurae soboli: nec primum ex eo vermiculus
-                        gignitur, sed statim apis.</hi> Item. <note subtype="bibliographic" type="authorial" xml:id="ch4bibln22"><bibl default="false" status="draft">Colum:l.9.c.11</bibl></note>
+                        gignitur, sed statim apis.</hi> Item. <note subtype="bibliographic" type="authorial" xml:id="ch4bibln22"><bibl>Colum:l.9.c.11</bibl></note>
                     <hi>Higinius negat ex vermiculo, ut caeteras apes, fieri ducem; sed in circuitu
                         favorum paulo majora, quam sint plebii seminis, inveniri foramina repleta
                         quasi sorde rubri coloris, ex quae protinus alatus rex figuratur.</hi>
@@ -3509,14 +3509,14 @@
                     generation as hath beene shewed, but also doe helpe the femals much, by reason
                     of their great heate, in hatching their broods. <hi>In foetu adjuvant apes,
                         multum ad calorem conferente turba.</hi>
-                    <note subtype="bibliographic" type="authorial" xml:id="ch4bibln24"><bibl default="false" status="draft">Pl.l.11.c.11</bibl></note>
+                    <note subtype="bibliographic" type="authorial" xml:id="ch4bibln24"><bibl>Pl.l.11.c.11</bibl></note>
                     <note subtype="summary" type="authorial" xml:id="ch4sumn18">19 <hi>Where they ly.</hi>
                     </note> And for these causes they are alwaies in breeding time mingled with them
                     throughout the hive. Although afterward (when they have beene much beaten, and
                     can goe no where single, but one or other will be on their jacks) they gather
                     altogether in a cluster, for their safty in one side of the hive: so that it is
                     true at some time which the Philosopher spake indefinitely, <hi>Tenent alves
-                        locum peniti</hi> <note subtype="bibliographic" type="authorial" xml:id="ch4bibln25"><bibl default="false" status="draft"> His.1.9.c.40 </bibl></note>
+                        locum peniti</hi> <note subtype="bibliographic" type="authorial" xml:id="ch4bibln25"><bibl> His.1.9.c.40 </bibl></note>
                     <fw type="catch">
                         <hi>orem</hi>
                     </fw>
@@ -3531,7 +3531,7 @@
                     <note subtype="summary" type="authorial" xml:id="ch4sumn19">20 <hi>The male bees are subject to the females.</hi>
                     </note> For the drones are but vassales to the hony-bees, which as they doe
                     excell them in virtue and goodnesse, so doe they also in power and authoritie,
-                    ruling and over-ruling them at their pleasures. <note subtype="bibliographic" type="authorial" xml:id="ch4bibln26"><bibl default="false" status="draft">Nat:hist,1.11.c.11.</bibl></note>
+                    ruling and over-ruling them at their pleasures. <note subtype="bibliographic" type="authorial" xml:id="ch4bibln26"><bibl>Nat:hist,1.11.c.11.</bibl></note>
                     <hi>Sunt quasi servitia verarum apus quamobrem imperant ijs.</hi> For albeit
                     generally among al creatures the males, as more worthy, doe master the femals;
                     yet in these the femals have the preeminence: and by the Gramarians leave the
@@ -3724,8 +3724,8 @@
                     are so beaten &amp; chilled upon a sodaine, that few are able to recover the
                     hive. </p>
                 <p part="N" xml:id="ch5par6">
-                    <note subtype="bibliographic" type="authorial" xml:id="ch5bibln3"><bibl default="false" status="draft">His l.5.c.22.</bibl></note>
-                    <note subtype="bibliographic" type="authorial" xml:id="ch5bibln4"><bibl default="false" status="draft">Nat hist li.XI.c.17.6</bibl></note><anchor xml:id="ch5ance1"></anchor>
+                    <note subtype="bibliographic" type="authorial" xml:id="ch5bibln3"><bibl>His l.5.c.22.</bibl></note>
+                    <note subtype="bibliographic" type="authorial" xml:id="ch5bibln4"><bibl>Nat hist li.XI.c.17.6</bibl></note><anchor xml:id="ch5ance1"></anchor>
                     <hi>Augent mella siccitates, sobolem imbres. <anchor xml:id="ch5ancs2"></anchor>Humido vere melior foetus, sicco mel
                         copiosius.<anchor xml:id="ch5ance2"></anchor></hi>
                 </p>
@@ -4446,12 +4446,12 @@
                     <note subtype="summary" type="authorial" xml:id="ch6sumn3">3. <hi>All the yeere after they loose no time</hi>
                     </note> and some yeeres somewhat after, which is full nine months, they loose no
                     time. <hi>Nullus, dum per caelum licuit, perit dies.</hi>
-                    <note subtype="bibliographic" type="authorial" xml:id="ch6bibln3"><bibl default="false" status="draft">Nat: hist, l.11 c.6.</bibl></note> But follow their <anchor xml:id="ch6ancs5"></anchor>sweet worke<anchor xml:id="ch6ance5"></anchor> tooth and
+                    <note subtype="bibliographic" type="authorial" xml:id="ch6bibln3"><bibl>Nat: hist, l.11 c.6.</bibl></note> But follow their <anchor xml:id="ch6ancs5"></anchor>sweet worke<anchor xml:id="ch6ance5"></anchor> tooth and
                     naile.</p>
                 <anchor xml:id="ch6ancs6"></anchor><quote><lg org="uniform" part="N" sample="complete">
                         <l part="N">Ac veluti lentis Cyclopes fulmina massis</l>
                         <l part="N">Quum properant, alii taurinis follibus auras</l>
-                    <note subtype="bibliographic" type="authorial" xml:id="ch6bibln4"><bibl default="false" status="draft">Virg.</bibl></note>
+                    <note subtype="bibliographic" type="authorial" xml:id="ch6bibln4"><bibl>Virg.</bibl></note>
                         <fw type="catch">
                             <hi>Acci</hi>
                         </fw>
@@ -4478,12 +4478,12 @@
                     with their fangs: which being kept soft with the heate of their little bodies,
                     of the aire, and of their hives is easily wrought into combs. This work is so
                     nimbly and closely done, that it can hardly be perceived: insomuch that
-                    <hi>Aristotle</hi> plainely confesseth. <note subtype="bibliographic" type="authorial" xml:id="ch6bibln5"><bibl default="false" status="draft">Hist.l.9.c.40.</bibl></note>
+                    <hi>Aristotle</hi> plainely confesseth. <note subtype="bibliographic" type="authorial" xml:id="ch6bibln5"><bibl>Hist.l.9.c.40.</bibl></note>
                     <hi>Nec vero quemadmodum operantur visum ad huc est</hi>
-                    <note subtype="bibliographic" type="authorial" xml:id="ch6bibln6"><bibl default="false" status="draft">Nat.hist.li.II.c.16</bibl></note> But <hi>Plinie</hi> willing to goe a little
+                    <note subtype="bibliographic" type="authorial" xml:id="ch6bibln6"><bibl>Nat.hist.li.II.c.16</bibl></note> But <hi>Plinie</hi> willing to goe a little
                     beyond him telleth us a tale of a lanthorne hive made at Rome, through which
                     forsooth their doings in the hive were discried, &amp; in another place of
-                    another like devise. <note subtype="bibliographic" type="authorial" xml:id="ch6bibln7"><bibl default="false" status="draft">Nat.hist.lib.31.c.14</bibl></note>
+                    another like devise. <note subtype="bibliographic" type="authorial" xml:id="ch6bibln7"><bibl>Nat.hist.lib.31.c.14</bibl></note>
                     <hi>Multi alvearia speculari lapide fecêre, ut operantes intus spectarent.</hi>
                     But unlesse the Bees also were transparent as well as the hive, this cannot be:
                     seeing they do alwaies frequently compasse the combes round about. A more likely
@@ -4531,7 +4531,7 @@
                     number of their feet: and of that length and widenesse, that each of them may
                     easily conteine a Bee. Which are so artificially wrought and joined together,
                     that S. <hi>Ambrose</hi> in the consideration thereof saith.
-                    <note subtype="bibliographic" type="authorial" xml:id="ch6bibln8"><bibl default="false" status="draft">Hexamer.l.5.c.21.</bibl></note>
+                    <note subtype="bibliographic" type="authorial" xml:id="ch6bibln8"><bibl>Hexamer.l.5.c.21.</bibl></note>
                     <hi>Qua castra quadrata tantum, possunt habere artis &amp; gratiae, quantum
                         habent crates favorum, in quibus minutae ac rotundae cellulae connexione sui
                         invincem fulciuntur? Quis enim architectus eas docuit hexagoniailla
@@ -4545,7 +4545,7 @@
                     <note subtype="summary" type="authorial" xml:id="ch6sumn8">8 <hi>The drone-combe.</hi>
                     </note> Besides these ordinary combes there is commonly one drone-comb in a
                     hive, wherein the Cephens are bred, made for the nonce with wider celles.
-                    <note subtype="bibliographic" type="authorial" xml:id="ch6bibln9"><bibl default="false" status="draft">His.l.9.c.40</bibl></note>
+                    <note subtype="bibliographic" type="authorial" xml:id="ch6bibln9"><bibl>His.l.9.c.40</bibl></note>
                     <hi>Sunt loculi ipsi sucorum ampliores, &amp; finguntur seorsim quoque, per se
                         favi fucorum.</hi> Although in some hives <anchor xml:id="ch6ancs11x"></anchor>the neather parts<anchor xml:id="ch6ance11x"></anchor> of the
                     drone-combes be made out with Nymph-celles. The <fw type="catch"> drone</fw>
@@ -4575,7 +4575,7 @@
                         <hi>v.</hi>
                     <note subtype="bibliographic" type="authorial" xml:id="ch6bibln10"><ref target="#ch4sumn15">
                         <hi>v.c.</hi>4.<hi>n.</hi>15</ref></note>
-                    <note subtype="bibliographic" type="authorial" xml:id="ch6bibln11"><bibl default="false" status="draft">Nat.hist.l.II.c.II.</bibl></note>
+                    <note subtype="bibliographic" type="authorial" xml:id="ch6bibln11"><bibl>Nat.hist.l.II.c.II.</bibl></note>
                     <hi>Plinie</hi> speaketh thus of them. <hi>Regias imperatoribus extruunt</hi>
                     <fw type="catch">
                         <hi>amplas.</hi>
@@ -4659,7 +4659,7 @@
                     <note subtype="summary" type="authorial" xml:id="ch6sumn21">21 <hi>This ambrosia is commonly taken for wax.</hi>
                     </note> a general error. For without al scruple or doubt men do count it &amp;
                     cal it wax (as did some also in time of olde, whose opinion <hi>Aristotle</hi>
-                    doth thus deliver. <note subtype="bibliographic" type="authorial" xml:id="ch6bibln13"><bibl default="false" status="draft">His.l.9.40.</bibl></note>
+                    doth thus deliver. <note subtype="bibliographic" type="authorial" xml:id="ch6bibln13"><bibl>His.l.9.40.</bibl></note>
                     <hi>Ceram apes perreptando flores capiunt priorum acumine pedum: mox priores in
                         medios abstergunt, &amp; medios in blaesa posteriorum.</hi>) But against (as
                     I shal shew you) both sense and reason. </p>
@@ -4704,13 +4704,13 @@
                         <hi>v.n.</hi>19.</ref></note><note subtype="summary" type="authorial" xml:id="ch6sumn24">24 <hi>And by authoritie</hi>
                     </note> as I have seene within a fortnight after the hiving. </p>
                 <p part="N" xml:id="ch6par19">And this though now it seeme new, yet was it knowne many ages
-                    agoe. <hi>Plinie</hi> writeth of it thus. <note subtype="bibliographic" type="authorial" xml:id="ch6bibln17"><bibl default="false" status="draft">Nat.hist.l.II.c.7.</bibl></note>
+                    agoe. <hi>Plinie</hi> writeth of it thus. <note subtype="bibliographic" type="authorial" xml:id="ch6bibln17"><bibl>Nat.hist.l.II.c.7.</bibl></note>
                     <hi>Praeter haec</hi> (I.<hi>praeter ceram &amp; nectar</hi>)<hi> convehitur
                         erithace, quam aliqui sandaracham, alii cerint hum vocant. Hic erit apum dum
                         operantur cibus: qui saepe invenitur in favorum inanitatibus sepositus; &amp;
                         ipse amari saporis.</hi> Speaking in the last words of that which is
                     corrupted. And before him <hi>Aristot.</hi> himselfe thus.
-                    <note subtype="bibliographic" type="authorial" xml:id="ch6bibln18"><bibl default="false" status="draft">His.l.9.c.40</bibl></note>
+                    <note subtype="bibliographic" type="authorial" xml:id="ch6bibln18"><bibl>His.l.9.c.40</bibl></note>
                     <hi>Mell apibus tum aestate tum hyeme cibo est: sed recondunt alterum quoque
                         cibarii genus, cui durities cerae proxima quod sandaracham non nulli
                         appellant.</hi>
@@ -4726,7 +4726,7 @@
                     see their little bellies strut with all. Men thinke because they see nothing on
                     their legs, that they come in leere: when they are better and more heavily laden
                     than the other. These bottles, assone as they come home, they emptie into their
-                    combes. <note subtype="bibliographic" type="authorial" xml:id="ch6bibln19"><bibl default="false" status="draft">Hist.an.li.c.22</bibl></note>
+                    combes. <note subtype="bibliographic" type="authorial" xml:id="ch6bibln19"><bibl>Hist.an.li.c.22</bibl></note>
                     <hi>Mel ore evomant in cellas.</hi>
                     <note subtype="summary" type="authorial" xml:id="ch6sumn26">26 <hi>At the first the Bees lay up meere nectar: afterward they mix it
                             with ambrosia.</hi>
@@ -4737,7 +4737,7 @@
                     which is alwaies yelow and soft;<anchor xml:id="ch6ance31"></anchor> <anchor xml:id="ch6ancs32"></anchor>wheras that is<anchor xml:id="ch6ance32"></anchor> is cleere as crystal at the first,
                     hard. <hi>Concresit autem mel concoctum iam tempore : initio enim ut aqua
                         dilutum est, &amp; primis diebus sine crassitudine cervitur.</hi>
-                    <note subtype="bibliographic" type="authorial" xml:id="ch6bibln20"><bibl default="false" status="draft">Hist.an.l.5.c.22</bibl></note>
+                    <note subtype="bibliographic" type="authorial" xml:id="ch6bibln20"><bibl>Hist.an.l.5.c.22</bibl></note>
                 </p>
                 <p part="N" xml:id="ch6par21">
                     <note subtype="summary" type="authorial" xml:id="ch6sumn27">27 <hi>Nectar of two sorts.</hi>
@@ -4802,7 +4802,7 @@
                         <hi>Sagitt.</hi> there never want some plantes or other containing these
                     sweets: which the Bees featly draw from them without any hurt to the fruites:
                         <hi>Fructibus nullis nocetur</hi>
-                    <note subtype="bibliographic" type="authorial" xml:id="ch6bibln22"><bibl default="false" status="draft">Nat.hist.lib II.c.8.</bibl></note>
+                    <note subtype="bibliographic" type="authorial" xml:id="ch6bibln22"><bibl>Nat.hist.lib II.c.8.</bibl></note>
                 </p>
                 <p part="N" xml:id="ch6par26">
                     <note subtype="summary" type="authorial" xml:id="ch6sumn32">32 <hi>Dandelion continueth longest.</hi>
@@ -4852,8 +4852,8 @@
                         yeeldeth only <hi>nectar</hi>: &amp; therefore he was deceived that said
                             <hi>crura thymo plena</hi>. Time, for the time it lasteth, yeeldeth most
                         and best hony: and therefore in old time was accounted chiefe
-                        <note subtype="bibliographic" type="authorial" xml:id="ch6bibln23"><bibl default="false" status="draft">Pl.nat.hist.l.II.c.21.</bibl></note>
-                        <note subtype="bibliographic" type="authorial" xml:id="ch6bibln24"><bibl default="false" status="draft">Arist.hist.l.9.c.40.</bibl></note> Virg.G.4</note>
+                        <note subtype="bibliographic" type="authorial" xml:id="ch6bibln23"><bibl>Pl.nat.hist.l.II.c.21.</bibl></note>
+                        <note subtype="bibliographic" type="authorial" xml:id="ch6bibln24"><bibl>Arist.hist.l.9.c.40.</bibl></note> Virg.G.4</note>
                     <hi>Thymus aptissimus ad mellificium. Pastus gratissimus apibus thymum est. Dum
                         Thymo pascentur apes dum rore cicadae.</hi>)<hi>Himettus</hi> in Greece, and
                         <hi>Hybla</hi> in Sicile were so <fw type="catch"> famous</fw>
@@ -4861,7 +4861,7 @@
                     <fw type="header">
                         <hi>Of the Bees worke,</hi>
                     </fw> famous for Bees and hony, because there grew such store of tyme
-                    <note subtype="bibliographic" type="authorial" xml:id="ch6bibln25"><bibl default="false" status="draft">Varro l.3.c.16.</bibl></note> (<hi>Propter hoc Siculum mel fert palmam, quod
+                    <note subtype="bibliographic" type="authorial" xml:id="ch6bibln25"><bibl>Varro l.3.c.16.</bibl></note> (<hi>Propter hoc Siculum mel fert palmam, quod
                         ibi thymum bonum &amp; frequeus est.</hi>) <anchor xml:id="ch6ancs41"></anchor>The rich knapweed &amp; blackbery
                     begin, in the end of <hi>Cancer.</hi><anchor xml:id="ch6ance41"></anchor>
                 </p>
@@ -4869,7 +4869,7 @@
                     <note subtype="summary" type="authorial" xml:id="ch6sumn38">38 <hi>Of honidews.</hi>
                     </note> But the greatest plentie of the purest <hi>nectar</hi> commeth from
                     above: which almightie God doth miraculously destill out of the aire
-                    (<hi>aeres mellis coelestia dona</hi>)<note subtype="bibliographic" type="authorial" xml:id="ch6bibln26"><bibl default="false" status="draft">Virg.</bibl></note> &amp; hath appointed
+                    (<hi>aeres mellis coelestia dona</hi>)<note subtype="bibliographic" type="authorial" xml:id="ch6bibln26"><bibl>Virg.</bibl></note> &amp; hath appointed
                     the <hi>Oake</hi> among al the trees of the wood to receive and keepe the same
                     upon his smooth and solide leaves, until either the Bees tong or the heate of
                     the sunne have drawne it away. <note subtype="summary" type="authorial" xml:id="ch6sumn39">39 <hi>The Bees worke most earnestly in a
@@ -4887,7 +4887,7 @@
                     <note subtype="summary" type="authorial" xml:id="ch6sumn40">40 <hi>What the honydew is</hi>
                     </note> </p>
                 <p part="N" xml:id="ch6par34">
-                    <note subtype="bibliographic" type="authorial" xml:id="ch6bibln27"><bibl default="false" status="draft">Nat.hist.li.II.c.12</bibl></note> What this <hi>mel roscidum</hi> shoulde bee,
+                    <note subtype="bibliographic" type="authorial" xml:id="ch6bibln27"><bibl>Nat.hist.li.II.c.12</bibl></note> What this <hi>mel roscidum</hi> shoulde bee,
                         <hi>Plini</hi> seemeth much to doubt where he saith <hi>Sive illud sit coeli
                         sudor sive quaedam syderum saliva,</hi>
                     <fw type="catch"> sive</fw>
@@ -4903,13 +4903,13 @@
                     sweete and soveraigne <hi>nectar:</hi> and then doth it descend unto the earth
                     in a dew or smale drizling raine: that he might wel say, <hi>Constat materiam,
                         ex qua melgignitur, rori esse congenerem.</hi>
-                    <note subtype="bibliographic" type="authorial" xml:id="ch6bibln28"><bibl default="false" status="draft">Gal. de aliment. l.3</bibl></note> Which opinion is the more probable, because
+                    <note subtype="bibliographic" type="authorial" xml:id="ch6bibln28"><bibl>Gal. de aliment. l.3</bibl></note> Which opinion is the more probable, because
                     that when the yeere us backward in his fruites, the honi-dewes are also
                     backward, comming only at such time as the <anchor xml:id="ch6ancs42"></anchor>fruits<anchor xml:id="ch6ance42"></anchor> have the most solid and best
                     juyce. Before, when the juyce is weake and watrish, and afterwarde, when it is
                     dried and wasted, they are not. <anchor xml:id="ch6ancs43"></anchor>And this is the reason <anchor xml:id="ch6ance43"></anchor>that in more hot &amp;
                     southernly climats, where the fruites are more forward, the hony-dews are more
-                    timely: as in <hi>Italy</hi> before <note subtype="bibliographic" type="authorial" xml:id="ch6bibln29"><bibl default="false" status="draft">Nat hist lib II.c.12</bibl></note>
+                    timely: as in <hi>Italy</hi> before <note subtype="bibliographic" type="authorial" xml:id="ch6bibln29"><bibl>Nat hist lib II.c.12</bibl></note>
                     <hi>Gemini, Non omnino</hi>, saith <hi>Plinie, priis vergiliarum
                         exortu</hi>:<hi>v.</hi>
                     <note subtype="bibliographic" type="authorial" xml:id="ch6bibln30"><ref target="#ch10p1sumn22">
@@ -4935,7 +4935,7 @@
                         <hi>Leo</hi> or after. They may happen at any time of the day: but for the
                     most part in the morning before it be light, <hi>Sub lucanis temporibus, Itaque tum
                         prima aurora folia arborum melle roscida inveniuntur.</hi>
-                    <note subtype="bibliographic" type="authorial" xml:id="ch6bibln31"><bibl default="false" status="draft">Nat.hist.li.II.c.12.</bibl></note> And then shall you have the Bees up in a
+                    <note subtype="bibliographic" type="authorial" xml:id="ch6bibln31"><bibl>Nat.hist.li.II.c.12.</bibl></note> And then shall you have the Bees up in a
                     morning assone as they can see, making such a shril noise where they go, that a
                     man may here them father than <anchor xml:id="ch6ancs44x"></anchor>he can<anchor xml:id="ch6ance44x"></anchor> see them.</p>
                 <p part="N" xml:id="ch6par37">
@@ -4958,7 +4958,7 @@
                     wil make an end, and not meddle with any flowre of other sorte untill they have
                     their load. <hi>Mos apibus ne florum plura genera petant uno eodemque profectu,
                         sed singulis singula.</hi> Insomuch as those which beginne with the flowre
-                    of the vetch wil not once touch <note subtype="bibliographic" type="authorial" xml:id="ch6bibln32"><bibl default="false" status="draft">Hist.an.l.9.c.40</bibl></note>
+                    of the vetch wil not once touch <note subtype="bibliographic" type="authorial" xml:id="ch6bibln32"><bibl>Hist.an.l.9.c.40</bibl></note>
                     <fw type="catch">the</fw>
                     <pb n="H2r"></pb>
                     <fw type="header">
@@ -4981,7 +4981,7 @@
                     the hive, &amp; the plentifulnes of the yeeres. With us it is counted a good
                     stall that yeeldeth two or three gawnes of poulse: although in a tree there have
                     beene found more than 7. or 8. But in other northerne countries we read of farre
-                    greater quantities. <note subtype="bibliographic" type="authorial" xml:id="ch6bibln33"><bibl default="false" status="draft">Nat.hist. li.II.c.14</bibl></note>
+                    greater quantities. <note subtype="bibliographic" type="authorial" xml:id="ch6bibln33"><bibl>Nat.hist. li.II.c.14</bibl></note>
                     <hi>Plinie</hi> affirmeth that there was seene in <hi>Germany</hi> a hony-comb
                     8. foot long. And <hi>Paulus Jovius</hi> that in <hi>Moscovia</hi> there are
                     found in the woods &amp; wildernesses great lakes of hony, which the Bees have
@@ -5020,11 +5020,11 @@
                         <hi>and labour.</hi>
                     </fw> water. <note subtype="summary" type="authorial" xml:id="ch6sumn51">51 <hi>Chiefly for their breed</hi>
                     </note> Some thinke it serveth <anchor xml:id="ch6ancs48"></anchor>chiefly<anchor xml:id="ch6ance48"></anchor> to feede their schadons. <hi>Aquam tum
-                        portant, cum prolem nutriunt</hi>:<note subtype="bibliographic" type="authorial" xml:id="ch6bibln34"><bibl default="false" status="draft">Hist. an.l.9.c.40.</bibl></note> and that
+                        portant, cum prolem nutriunt</hi>:<note subtype="bibliographic" type="authorial" xml:id="ch6bibln34"><bibl>Hist. an.l.9.c.40.</bibl></note> and that
                     not without reason, seeing that <hi>Ambrosia</hi> their daily food is hot and
                     drie: and indeed when the drones are done away, and breeding is ended, the Bees
                     are nothing so frequent at the watring-places. But <hi>Columella</hi> thinketh
-                    the use thereof to be more general, <note subtype="bibliographic" type="authorial" xml:id="ch6bibln35"><bibl default="false" status="draft">De re rust. l.9.c.5.</bibl></note>
+                    the use thereof to be more general, <note subtype="bibliographic" type="authorial" xml:id="ch6bibln35"><bibl>De re rust. l.9.c.5.</bibl></note>
                     <hi>sine qua neque favi, neque mella, nec pulli denique figurari queunt.</hi>
                 </p>
                 <p part="N" xml:id="ch6par45">
@@ -5033,7 +5033,7 @@
                         <hi rend="superscript">d</hi> defended from beasts, geese, ducks, and such
                     like. </p>
 
-                <note subtype="gloss" type="authorial" xml:id="ch6glon8"><hi rend="superscript">a</hi><note subtype="bibliographic" type="authorial" xml:id="ch6bibln36"><bibl default="false" status="draft">Virg.Geor</bibl></note><note subtype="summary" type="authorial" xml:id="ch6sumn53">53 <hi>How to find
+                <note subtype="gloss" type="authorial" xml:id="ch6glon8"><hi rend="superscript">a</hi><note subtype="bibliographic" type="authorial" xml:id="ch6bibln36"><bibl>Virg.Geor</bibl></note><note subtype="summary" type="authorial" xml:id="ch6sumn53">53 <hi>How to find
                             wild Bees.</hi>
                     </note>For they wil never go far for water, if any be to be had neere hand
                         <hi>Sub maenibus urbis aquantur.</hi> And therefore when you see Bees watring
@@ -5060,7 +5060,7 @@
                     throwne downe by tempestuous windes, &amp; so drowned: for which cause it is
                     good to lay lugs overthurt the water &amp; other staies, that recovering them
                     they may drie themselves againe, and so escape. <quote>
-                        <note subtype="bibliographic" type="authorial" xml:id="ch6bibln37"><bibl default="false" status="draft">Virg. Geor.</bibl></note>
+                        <note subtype="bibliographic" type="authorial" xml:id="ch6bibln37"><bibl>Virg. Geor.</bibl></note>
                         <lg org="uniform" part="N" sample="complete">
                             <l part="N">In medium seu stabit iners, seu profluet humor,</l>
                             <l part="N">Transversas salices &amp; grandia conice saxa.</l>
@@ -5198,8 +5198,8 @@
                     </fw> I cannot accuse. </p>
                 <p part="N" xml:id="ch7par7">The swallow taketh them as they fly, <hi>populatur hir
                         undo,</hi> &amp; alibi <hi>ea demum sola avium non nisi in volatu
-                            pascitur</hi>:<note subtype="bibliographic" type="authorial" xml:id="ch7bibln3"><bibl default="false" status="draft">Nat hist.l.II.c.18</bibl></note>
-                    <note subtype="bibliographic" type="authorial" xml:id="ch7bibln4"><bibl default="false" status="draft">Nat hist. l.10.c.24.</bibl></note> But I am perswaded she doth much lesse harme
+                            pascitur</hi>:<note subtype="bibliographic" type="authorial" xml:id="ch7bibln3"><bibl>Nat hist.l.II.c.18</bibl></note>
+                    <note subtype="bibliographic" type="authorial" xml:id="ch7bibln4"><bibl>Nat hist. l.10.c.24.</bibl></note> But I am perswaded she doth much lesse harme
                     than the Titmouse, although she have a worse name. <note subtype="summary" type="authorial" xml:id="ch7sumn7">7 <hi>The swallow</hi>
                     </note> These birds therefore are not to be suffered.</p>
 
@@ -5213,7 +5213,7 @@
                     </note> Let boies destroie their neasts in sommer, <anchor xml:id="ch7ancs6"></anchor>&amp; kill the old ons in
                     winter<anchor xml:id="ch7ance6"></anchor> with traps <anchor xml:id="ch7ancs7"></anchor>and pitfals<anchor xml:id="ch7ance7"></anchor> baited with oats or tallow. <hi>Aristotle</hi>
                     joineth the waspe, the little titmouse, the swallow, and the great titmouse
-                    together. <note subtype="bibliographic" type="authorial" xml:id="ch7bibln5"><bibl default="false" status="draft">His.l.9.c.40</bibl></note>
+                    together. <note subtype="bibliographic" type="authorial" xml:id="ch7bibln5"><bibl>His.l.9.c.40</bibl></note>
                     <hi>Inferunt injuriam apibus maxime vespae, &amp; aviculae quas paros vocant, atque
                         etiam hirundo, &amp; merops qui apiaster est. Quamobrem apiarum vesparum
                         latibula &amp; hirundinum ac meropum nidos propinquos alveis tollunt.</hi>
@@ -5229,7 +5229,7 @@
                     <note subtype="summary" type="authorial" xml:id="ch7sumn10">10 <hi>The hornets sting is dangerous.</hi>
                     </note> In destroying the hornets you must be wary: for one stinging doth
                     ofttimes cause an <anchor xml:id="ch7ancs8"></anchor>ague:<anchor xml:id="ch7ance8"></anchor> and lesse then thirtie, as some say, will kill a man.
-                    <note subtype="bibliographic" type="authorial" xml:id="ch7bibln6"><bibl default="false" status="draft">Nat.hist.l.II.c.21.</bibl></note>
+                    <note subtype="bibliographic" type="authorial" xml:id="ch7bibln6"><bibl>Nat.hist.l.II.c.21.</bibl></note>
                     <hi>Ictus crabronum baud temere sine febri est.</hi>
                     <fw type="catch">
                         <hi>Au</hi>
@@ -5299,7 +5299,7 @@
                     open, or other glasse covered with a paper that hath a hoale in the middle:
                     &amp; so you shall <anchor xml:id="ch7ancs20"></anchor>take<anchor xml:id="ch7ance20"></anchor> many: <anchor xml:id="ch7ancs21"></anchor>and if the meth or honi-water doe now and then
                     drowne a Bee with them, pitty them not, for they are theeves.<anchor xml:id="ch7ance21"></anchor>
-                    <note subtype="bibliographic" type="authorial" xml:id="ch7bibln8"><bibl default="false" status="draft">Hist.li.9.c.40.</bibl></note>
+                    <note subtype="bibliographic" type="authorial" xml:id="ch7bibln8"><bibl>Hist.li.9.c.40.</bibl></note>
                     <hi>Aristotle</hi> teacheth you an other way. <hi>Impugnantur</hi> (saith hee)
                         <hi>apes a vespis: quamobrem apiarii eas venantur constituta olla, &amp;
                         carne in ca posita. Ubi enim multae ad carnem accesserint, apposito operculo
@@ -5312,7 +5312,7 @@
                     little wormes, or crawling mothes, some in the skirts of the hive, some within
                     upon the stoole, and some without upon the hive, specially in the crackes of the
                     dawbed hives. <hi>Plinie</hi> speaketh thus of them
-                    <note subtype="bibliographic" type="authorial" xml:id="ch7bibln9"><bibl default="false" status="draft">Nat.hist.li.II.c.19.</bibl></note>
+                    <note subtype="bibliographic" type="authorial" xml:id="ch7bibln9"><bibl>Nat.hist.li.II.c.19.</bibl></note>
                     <hi>Papilio etiam ignavus luminibus accensis advolitans pestifer, nec uno modo:
                         nam &amp; ipse ceras depascit, &amp; relinquit excrementa quibus teredines
                         gignuntur.</hi>
@@ -5342,7 +5342,7 @@
                     lighting-place falleth into them: yea &amp; sometime where the Bees are few,
                     chiefly in the winter, they wil be bold to enter the hive, &amp; there weave
                     their cruell webbes, <hi>In foribus laxos suspendit aranea casses</hi>, <anchor xml:id="ch7ancs24"></anchor>and then
-                    are they very dangerous.<anchor xml:id="ch7ance24"></anchor> <note subtype="bibliographic" type="authorial" xml:id="ch7bibln10"><bibl default="false" status="draft">Virg.Nat hist. l.11.c.19.</bibl></note>
+                    are they very dangerous.<anchor xml:id="ch7ance24"></anchor> <note subtype="bibliographic" type="authorial" xml:id="ch7bibln10"><bibl>Virg.Nat hist. l.11.c.19.</bibl></note>
                     <hi>Aranei quoque vel maxime hostiles: cum praevaluere ut intexant, enecant
                         alveos.</hi>
                 </p>
@@ -5352,7 +5352,7 @@
                     hive, though hee ly but under the stoole, the Bees will not prosper. <note subtype="summary" type="authorial" xml:id="ch7sumn22">22 12
                             <hi>The frog</hi>
                     </note> He is said also to devoure them at the hive, as the frogge at the
-                    watring-place. <note subtype="bibliographic" type="authorial" xml:id="ch7bibln11"><bibl default="false" status="draft">Hist an.l.9.c.40</bibl></note>
+                    watring-place. <note subtype="bibliographic" type="authorial" xml:id="ch7bibln11"><bibl>Hist an.l.9.c.40</bibl></note>
                     <hi>Ranae apes, ubi ad aquam accesserint, rapiunt: quamobrem eas apiarii per
                         paludes &amp; stagna unde apes aquantur vena-</hi>
                     <fw type="catch">
@@ -5362,7 +5362,7 @@
                     <fw type="header">
                         <hi>Of the Bees enemies.</hi>
                     </fw>
-                    <note subtype="bibliographic" type="authorial" xml:id="ch7bibln12"><bibl default="false" status="draft">Ibidem.</bibl></note>
+                    <note subtype="bibliographic" type="authorial" xml:id="ch7bibln12"><bibl>Ibidem.</bibl></note>
                     <hi>ri solent. Rubeta etiam apes interimit: subiens enim aditus alves afflat,
                         &amp; observans rapit evolantes. Nullo haec affic: malo ab apibus potest, sed
                         ab apiario facile interimitur.</hi> Item <hi>insidiantur aquantibus ranae:
@@ -5424,7 +5424,7 @@
                     <fw type="header">
                         <hi>Of the Bees enemies.</hi>
                     </fw>
-                    <note subtype="bibliographic" type="authorial" xml:id="ch7bibln14"><bibl default="false" status="draft">Nat.hist.l.II.c.17</bibl></note> ded themselves for winter: of which opinion was
+                    <note subtype="bibliographic" type="authorial" xml:id="ch7bibln14"><bibl>Nat.hist.l.II.c.17</bibl></note> ded themselves for winter: of which opinion was
                         <hi>Plini</hi> where he said. <hi>Quod si defecerit alicuius alvei cibus,
                         impetum in proximas faciunt rapinae proposito</hi>. but indeed such are
                     fitter to be robbed, as before is said, than to be robbers. There is no thiefe
@@ -5530,7 +5530,7 @@
                     <note subtype="summary" type="authorial" xml:id="ch7sumn38">38 <hi>The battaile ended they bury their dead.</hi>
                     </note> The battaile being ended by repulse of the enimie, those corpses, which
                     the waspes have least, they honestly bury as far from the hives as they can
-                    beare them. <note subtype="bibliographic" type="authorial" xml:id="ch7bibln17"><bibl default="false" status="draft">
+                    beare them. <note subtype="bibliographic" type="authorial" xml:id="ch7bibln17"><bibl>
                         <hi>Virg.</hi>
                     </bibl></note>
                 </p>
@@ -5962,14 +5962,14 @@
                     </note> <anchor xml:id="ch9ance13"></anchor><anchor xml:id="ch9ancs14"></anchor>For want of hony many other things have been used insteed thereof.
                         <anchor xml:id="ch9ance14"></anchor><hi>Aristotle</hi> mentioneth figges, and all such sweet things. <hi>Apiarii
                         ficus ac reliqua ad genus dulcia in cibum apponnut.</hi>
-                    <note subtype="bibliographic" type="authorial" xml:id="ch9bibln3"><bibl default="false" status="draft">Hist.li.9.c.40.</bibl></note> and <hi>Plini</hi> speaking more particularly commen-
+                    <note subtype="bibliographic" type="authorial" xml:id="ch9bibln3"><bibl>Hist.li.9.c.40.</bibl></note> and <hi>Plini</hi> speaking more particularly commen-
                         <fw type="catch"> deth</fw>
                     <fw ana="printing error, should be K2" type="sig">K3</fw>
                     <pb n="K2v"></pb>
                     <fw type="header">
                         <hi>Of the feeding of Bees.</hi>
                     </fw> deth raisings, and figges, and teased wooll wet <anchor xml:id="ch9ancs15"></anchor>with meth, or honi-water,
-                    or<anchor xml:id="ch9ance15"></anchor> sweete wine made of raisings, or new wine boiled. <note subtype="bibliographic" type="authorial" xml:id="ch9bibln4"><bibl default="false" status="draft">Nat hist. l. 21. c.
+                    or<anchor xml:id="ch9ance15"></anchor> sweete wine made of raisings, or new wine boiled. <note subtype="bibliographic" type="authorial" xml:id="ch9bibln4"><bibl>Nat hist. l. 21. c.
                         14.</bibl></note>
                     <hi>Si cibus deesse censeatur apibus, vuas passas siccasue, sicosque, tusas ad
                         fores earum posuisse conveniet: item lanas tractas madentes passo aut
@@ -6121,7 +6121,7 @@
                         </note>
                         <hi>Pulli &amp; rubrae sordes sunt mals saporis, &amp; succi suo mella
                             corrumpunt.</hi>
-                        <note subtype="bibliographic" type="authorial" xml:id="ch10p1bibln1"><bibl default="false" status="draft">Col.l.9 c.15</bibl></note> Neither do the Bees any whit diminish the hony in
+                        <note subtype="bibliographic" type="authorial" xml:id="ch10p1bibln1"><bibl>Col.l.9 c.15</bibl></note> Neither do the Bees any whit diminish the hony in
                         their hives until the end of this month, unlesse much fowle weather keepe
                         them long in before. But if you see them in danger of robbing, rather than
                         loose al, take them sooner, and picke out the grubs as <fw type="catch">
@@ -6363,7 +6363,7 @@
                         <note subtype="summary" type="authorial" xml:id="ch10p1sumn22">22 <hi>Exsection used at two time.</hi>
                         </note>
                         
-                    <note place="inline" subtype="gloss" type="authorial" xml:id="ch10p1glon1"><note subtype="bibliographic" type="authorial" xml:id="ch10p1bibln7"><bibl default="false" status="draft">Var.i.3.c.17</bibl></note><hi>Virgiliarum ortus</hi> after <hi>Columel l.9.c.</hi>14. is the 48 day
+                    <note place="inline" subtype="gloss" type="authorial" xml:id="ch10p1glon1"><note subtype="bibliographic" type="authorial" xml:id="ch10p1bibln7"><bibl>Var.i.3.c.17</bibl></note><hi>Virgiliarum ortus</hi> after <hi>Columel l.9.c.</hi>14. is the 48 day
                         from <hi>aequinoctium vernum</hi>: after <hi>Var.</hi>: the 44. but then you
                         must understand that they accounted the <hi>aequinoctium</hi> to be in the 8
                         degree of <hi>Aries</hi> (although <hi>Hipparchus</hi>, as Col. saith, had
@@ -6383,14 +6383,14 @@
                         <fw type="header">
                             <hi>Of the fruit, &amp; profit of Bees.</hi>
                         </fw>
-                        <note subtype="bibliographic" type="authorial" xml:id="ch10p1bibln8"><bibl default="false" status="draft">l.9.c.15.</bibl></note> lumella <hi>dum adhuc rura pastionibus abundant,
+                        <note subtype="bibliographic" type="authorial" xml:id="ch10p1bibln8"><bibl>l.9.c.15.</bibl></note> lumella <hi>dum adhuc rura pastionibus abundant,
                             quinta pars favorum; posteriore cum iam metuitur hyems, tertia
                             relinquenda est.</hi> But <hi>Varro</hi> then requireth for their store
                         two third parts; <hi>ut ne plus tertia pars eximatur mellis, reliquum
                             hyemationi relinquatur</hi>. And <hi>Aristotle</hi> because (as Col.
                         granteth) <hi>hic modus non est in omnibus regionibus certus</hi>, doth not
                         prescribe any certaine part, but leaving it to the discretion of the
-                        Bee-master, saith, <note subtype="bibliographic" type="authorial" xml:id="ch10p1bibln9"><bibl default="false" status="draft"> His. an.I.9.c.40.</bibl></note> <hi>Cum favos apiarii eximunt, cibitantum relinquant,
+                        Bee-master, saith, <note subtype="bibliographic" type="authorial" xml:id="ch10p1bibln9"><bibl> His. an.I.9.c.40.</bibl></note> <hi>Cum favos apiarii eximunt, cibitantum relinquant,
                             quantum per hyemem sufficiat: quod si satis sit, servatur examen; sin
                             minus, vel moritur ibidem (sive discedat hyems abstet) vel de deserit
                             sedem, si serenum nanciscitur.</hi>
@@ -6459,13 +6459,13 @@
                         <note subtype="summary" type="authorial" xml:id="ch10p2sumn4">4 <hi>How to know good hony.</hi>
                         </note>
                         <hi>omni melle quod per se fluxit ut mustum oleumque appellaturque acaeton,
-                            maxime laudabile est</hi>.<note subtype="bibliographic" type="authorial" xml:id="ch10p2bibln2"><bibl default="false" status="draft">Nat. hist. li. II.c.15</bibl></note> Which you
+                            maxime laudabile est</hi>.<note subtype="bibliographic" type="authorial" xml:id="ch10p2bibln2"><bibl>Nat. hist. li. II.c.15</bibl></note> Which you
                         shall finde to have these properties: cleere, odoriferous, yelow like gold,
                         (unlesse it be virgin-hony, for that is more chrystalline) sharpe, sweet,
                         &amp; pleasant to the tast, of a meane consistence betweene thicke &amp;
                         thin, so clammy that beeing taken up upon your fingers ende, in falling it
                         wil not part but hang downe togither like a long string, as that useth to do
-                        which is clarified. <note subtype="bibliographic" type="authorial" xml:id="ch10p2bibln3"><bibl default="false" status="draft">L.I.de medicam.simp delectu.</bibl></note> And such doth
+                        which is clarified. <note subtype="bibliographic" type="authorial" xml:id="ch10p2bibln3"><bibl>L.I.de medicam.simp delectu.</bibl></note> And such doth
                             <hi>Jacobus Sylvius</hi> describe the best hony to be. <hi>Meloptimus
                             sit purum adeo ut totum perluceat, odorum, flavum, acerrimum,
                             dulcissimumque gustanti &amp; jucundissimum, consistentia nec crassa
@@ -6475,7 +6475,7 @@
                         <note subtype="summary" type="authorial" xml:id="ch10p2sumn5">5 <hi>The best hony in the bottome.</hi>
                         </note> But alwaies the best part of this best hony is that which is lowest
                         in the vessell. For as the best oile is in the top, and the best wine in the
-                        middle; so the best hony is in the bottome. <note subtype="bibliographic" type="authorial" xml:id="ch10p2bibln4"><bibl default="false" status="draft">Hist. an.l.9.c.40.</bibl></note>
+                        middle; so the best hony is in the bottome. <note subtype="bibliographic" type="authorial" xml:id="ch10p2bibln4"><bibl>Hist. an.l.9.c.40.</bibl></note>
                         <hi>Mellis exilior pars fluitat, quae eximenda est: pura vero &amp; valida
                             subsidit.</hi>
                     </p>
@@ -6708,7 +6708,7 @@
                         then warme the bottome of the bason, &amp; it wil easily come forth.
                             <note subtype="summary" type="authorial" xml:id="ch10p2sumn28">28 <hi>How to know good wax.</hi>
                         </note> The properties or tokens of good wax are, most yelow, sweet, fat,
-                        fast or close, light, pure, and void of all other matter. <note subtype="bibliographic" type="authorial" xml:id="ch10p2bibln7"><bibl default="false" status="draft">Syl. de med.
+                        fast or close, light, pure, and void of all other matter. <note subtype="bibliographic" type="authorial" xml:id="ch10p2bibln7"><bibl>Syl. de med.
                             simp. delectu.lib 1.</bibl></note>
                         <hi>Cera sit flavissima, odorata, pinguis, coacta, levis, pura, &amp; aliena
                             omni materia carens.</hi>
@@ -6814,7 +6814,7 @@
                                 hony unholesome.</hi>
                         </note> But al hony often &amp; immoderately taken (3) causeth obstruction,
                         and so in time (4) breedeth the scab. </p>
-                    <note subtype="bibliographic" type="authorial" xml:id="ch10p3bibln2"><bibl default="false" status="draft">(1)(2)Galen.l.4.simpl.med.dist.3.c.5.<hi>Item</hi> Seth.Picorius,&amp; Freitag
+                    <note subtype="bibliographic" type="authorial" xml:id="ch10p3bibln2"><bibl>(1)(2)Galen.l.4.simpl.med.dist.3.c.5.<hi>Item</hi> Seth.Picorius,&amp; Freitag
                         (3)Wikerus &amp; Freitagius (4) Lobel. </bibl></note>
                     <p part="N" xml:id="ch10p3par3">
                         <note subtype="summary" type="authorial" xml:id="ch10p3sumn6">6 <hi>The different operations of raw &amp; boiled honie.</hi>
@@ -6825,7 +6825,7 @@
                         use it to knit togither holow &amp; crooked ulcers, &amp; likewise (9) to
                         close other disjoined flesh. It is also good against the (10) pleurisie,
                         against the (11) phthisis, and al other diseases of the lungs. </p>
-                    <note subtype="bibliographic" type="authorial" xml:id="ch10p3bibln3"><bibl default="false" status="draft">(1)(2)(3) Freitag Pictor. &amp; Wikerus, (4) Freitag, &amp; Wiker. (5)
+                    <note subtype="bibliographic" type="authorial" xml:id="ch10p3bibln3"><bibl>(1)(2)(3) Freitag Pictor. &amp; Wikerus, (4) Freitag, &amp; Wiker. (5)
                         Wikerus (6) Pictorius (7) Gal.&amp; Seth.&amp; Fernelius
                         Methodi.l.6.12.Crudum cocto &amp; despumato detergentius quidem multo est
                         &amp; mordacius: sed eo minus agglutinat (8) ad sinuum glutinationes, Seth.
@@ -6939,7 +6939,7 @@
                         quantitie of clarified hony, and boile this togither til it be so thick,
                         that in stirring (for you must continually stirre it for feare of burning)
                         you may see the bottom, or being cooled on a trencher, it be thick enough to
-                        slise: then take it up and box it speedily. <note subtype="bibliographic" type="authorial" xml:id="ch10p3bibln4"><bibl default="false" status="draft">Fernel method l.7.de
+                        slise: then take it up and box it speedily. <note subtype="bibliographic" type="authorial" xml:id="ch10p3bibln4"><bibl>Fernel method l.7.de
                             e<note cert="low" resp="TSG" subtype="other" type="editorial">c</note>legmatis</bibl></note> This is very good to comfort and strengthen the stomake.
                         For want of quinces you may take wardens, peares, or aples, and specially
                         the pear-maine, giliflower, pipim, and roial. </p>
@@ -7003,7 +7003,7 @@
                         hony, until it be of convenient thicknes. <hi rend="superscript">a</hi>If
                         you prepare it for present uses, the lesse boiling wil serve, if you meane to 
                         keepe it, it requireth more, for which purpose the sunning of it is good: This 
-                        purgeth a little, specially being new. <note subtype="bibliographic" type="authorial" xml:id="ch10p3bibln6"><bibl default="false" status="draft">Sylv. med. simpl. mist. l3. Sylv. ibid.</bibl></note>
+                        purgeth a little, specially being new. <note subtype="bibliographic" type="authorial" xml:id="ch10p3bibln6"><bibl>Sylv. med. simpl. mist. l3. Sylv. ibid.</bibl></note>
                     </p>
                     <p part="N" xml:id="ch10p3par22">Or thus. Stiep one pound of red rose leaves in 4 pound
                         of water 24 howres. When the water is strained, put unto it 2 pound of fine
@@ -7108,7 +7108,7 @@
                         Emperor, by what meanes especially hee had so long preserved that vigour
                         both of mind and body, his answere was <hi>Intus mulso, foris oleo.</hi>
                     </p>
-                    <note subtype="bibliographic" type="authorial" xml:id="ch10p3bibln9"><bibl default="false" status="draft">
+                    <note subtype="bibliographic" type="authorial" xml:id="ch10p3bibln9"><bibl>
                         <hi rend="superscript">b (1.2.3:4) <hi>Pictorius, &amp; Plin.
                                 hist.l.22.c.24 (5) Lobel(6.7.8.9.10.) Plin.hist.l.22.c.24.</hi>
                         </hi>
@@ -7146,7 +7146,7 @@
                         in the paps, and (5) ten round pieces of wax of the bignes of so many
                         graines of millet or hempseede will not suffer the milke to curdle in the
                         stomach. </p>
-                    <note subtype="bibliographic" type="authorial" xml:id="ch10p3bibln10"><bibl default="false" status="draft">
+                    <note subtype="bibliographic" type="authorial" xml:id="ch10p3bibln10"><bibl>
                         1. <hi>Galen de simpl.med.facul.l.</hi>7 (22.2,3,4,5.)<hi>Georgius Pictorius.</hi>Cera flava magis emollit, relaxat, dolorem solvit: coque illam utimur ad abscessus calefaciendos, emolliendos, concoquendos, &amp; maturandos. <hi>Johannes Guintherius Andernacus.</hi> Omnis cera mollit, calefacit, explet corpora: reces melior. Datur in sorbitone dysentericis, favique ipsi in pulte alice prius toste, advetsaturilactis nature; ac milijmagnitudine decem grana cerae hausta non patiuntur coagularilac in stomacho. Si inguen tumeat, albam ceram in pube fixisse remedio est. Nex huius usus quos mixta aliis praestat, enumerare medicina potest.P.<hi>li.nat.hist.li.</hi>22.<hi>cap.</hi>24.
                     </bibl></note>
                     <p part="N" xml:id="ch10p3par32">
@@ -7253,7 +7253,7 @@
                         </note> A cere-cloath or <hi>ceratum</hi> so called of <hi>cera</hi> doth
                         consist chiefly of wax &amp; oile mixed in such proportion, as may make the
                         ointment of just consistence: &amp; <hi rend="superscript">g</hi>therfore being 
-                        made in sommer, or <note subtype="bibliographic" type="authorial" xml:id="ch10p3bibln12"><bibl default="false" status="draft"><hi rend="superscript">g</hi>Fer.meth.l.4.c.19 &amp; 20.</bibl></note>                                         
+                        made in sommer, or <note subtype="bibliographic" type="authorial" xml:id="ch10p3bibln12"><bibl><hi rend="superscript">g</hi>Fer.meth.l.4.c.19 &amp; 20.</bibl></note>                                         
                         <fw type="catch"> com-</fw>
                         <pb n="M7v"></pb>
                         <fw type="header">
@@ -7273,14 +7273,14 @@
                         </note> A cere-cloath to refresh the wearied sinews &amp; tired muscles is
                         thus to be made, take <hi rend="superscript">a</hi> oile &amp; wax of each
                         2 ounces, turpentine 2 drams, and hony halfe an ounce.</p>
-                    <note subtype="bibliographic" type="authorial" xml:id="ch10p3bibln13"><bibl default="false" status="draft"><hi rend="superscript">a</hi>
+                    <note subtype="bibliographic" type="authorial" xml:id="ch10p3bibln13"><bibl><hi rend="superscript">a</hi>
                         <hi>Fern. Method.l</hi>4.<hi>c.</hi>19.</bibl></note>
                     <p part="N" xml:id="ch10p3par42">
                         <note subtype="summary" type="authorial" xml:id="ch10p3sumn35">36 <hi>A cer-cloath to comfort the stomach.</hi>
                         </note> <note subtype="gloss" type="authorial" xml:id="ch10p3glon15"><hi rend="superscript">c</hi>Nardinum</note> To comfort the stomach and helpe concoction make a cerat thus take <hi rend="superscript">b</hi>
                         oile of mastich, of mint, of wormwood, of nutmeg &amp; <hi rend="superscript">c</hi> speeke, or any of
                         these, and a convenient quantitie of wax. </p>
-                    <note subtype="bibliographic" type="authorial" xml:id="ch10p3bibln14"><bibl default="false" status="draft">
+                    <note subtype="bibliographic" type="authorial" xml:id="ch10p3bibln14"><bibl>
                         <hi rend="superscript">b</hi><hi>Fern.Meth.l.5.c.22.</hi>
                     </bibl></note>
                     <p part="N" xml:id="ch10p3par43">For the wormes in the belly of a childe or other: take 1
@@ -7305,7 +7305,7 @@
                         joices, softly stirring al together until the quantitie of the joices be
                         wasted: &amp; then taking them of the fire, put in the turpentine, and mix
                         it with the rest. </p>
-                    <note subtype="bibliographic" type="authorial" xml:id="ch10p3bibln15"><bibl default="false" status="draft">
+                    <note subtype="bibliographic" type="authorial" xml:id="ch10p3bibln15"><bibl>
                         <hi rend="superscript">p</hi>Sylvus de
                         medicam.simpl.mist.l.3.&amp;Fern.meth.l.7.</bibl></note>
                     <p part="N" xml:id="ch10p3par45">
@@ -7336,14 +7336,14 @@
                         through my instruction, received the profite and pleasure, which these
                         divine creatures abundantly yeelde; be thankful unto God, give him his part
                         that giveth thee all, and pay justly the tithe of the increase:
-                        <note subtype="bibliographic" type="authorial" xml:id="ch10p4bibln1"><bibl default="false" status="draft">Lev.27.30.</bibl></note> for God maketh claime unto that part, as
+                        <note subtype="bibliographic" type="authorial" xml:id="ch10p4bibln1"><bibl>Lev.27.30.</bibl></note> for God maketh claime unto that part, as
                         peculiarly belonging to himselfe. So that, although he have assigned it to
                         the priests &amp; minsters for the time being, that are consecrated to do
                         him service at his altar; yes doth he hold himselfe perpetually interessed
                         therein. And therefore, howsoever some may thinke that in deteining tithes
                         they rob only men; yet the Lord doth charge such malefactours with a greater
                         crime, saying <hi>you have spoiled me:</hi>
-                        <note subtype="bibliographic" type="authorial" xml:id="ch10p4bibln2"><bibl default="false" status="draft">Mal.3.8.</bibl></note> &amp; when they taking it (as manie doe now) to be no
+                        <note subtype="bibliographic" type="authorial" xml:id="ch10p4bibln2"><bibl>Mal.3.8.</bibl></note> &amp; when they taking it (as manie doe now) to be no
                         such matter, did aske <hi>wherein have we spoiled thee</hi>? The Lord
                         answereth <hi>in tithes and offerings.</hi>
                     </p>
@@ -7381,7 +7381,7 @@
                         piece-meale from them, and so, cruelly to prey upon them, which in the meane
                         space doe pray for them? </p>
                     <p part="N" xml:id="ch10p4par4">It cannot be denied that tithes were once the Lords, when
-                        it was said, <note subtype="bibliographic" type="authorial" xml:id="ch10p4bibln3"><bibl default="false" status="draft">Lev.27.30.</bibl></note>
+                        it was said, <note subtype="bibliographic" type="authorial" xml:id="ch10p4bibln3"><bibl>Lev.27.30.</bibl></note>
                         <hi>All the tith of the land, both of the seed of the ground and of the
                             fruit of the trees, is the Lords, it is holy to the Lord.</hi> If it
                         were once his, why is it not his stil? Who is he that hath dispossessed him
@@ -7391,7 +7391,7 @@
                         sacraments, for the service of the same God in the Gospel? Our saviour reproving the
                         Scribes and Pharises, because they stood more upon the observation of the
                         smaller duties of the law, than of those that were greater; saith unto them
-                        <note subtype="bibliographic" type="authorial" xml:id="ch10p4bibln4"><bibl default="false" status="draft">Mat.23.</bibl></note>
+                        <note subtype="bibliographic" type="authorial" xml:id="ch10p4bibln4"><bibl>Mat.23.</bibl></note>
                         <hi>Yee tithe mint &amp; anise &amp; cummin, &amp; leave the weightier
                             matters of the law, as judgement and mercy and fidelity</hi>; giving his
                         sentence of them both, <hi>These things ought you to have done, and not to
@@ -7403,7 +7403,7 @@
                             <hi>The conclusion to the Reader.</hi>
                         </fw> mercy &amp; fidelity, which are the greater things, of the moral &amp;
                         perpetuall law of God. So doth that ancient father <hi>Origen</hi> expound
-                        these words of Christ, <note subtype="bibliographic" type="authorial" xml:id="ch10p4bibln5"><bibl default="false" status="draft">Hom. II in Num.</bibl></note> shewing that the commandement of paying tithes is to
+                        these words of Christ, <note subtype="bibliographic" type="authorial" xml:id="ch10p4bibln5"><bibl>Hom. II in Num.</bibl></note> shewing that the commandement of paying tithes is to
                         bee observed according to the letter, <hi>Ut haec observanda, etiam secundum
                             literam, ipsius Dei vocibus doceantur; dicit Dominus in evangeliis, vae
                             vobis, &amp;c. Vide ergo diligentius, quomodo sermo Domini vult fieri
@@ -7415,11 +7415,11 @@
                             utique, munerando sacerdotes, honorare Deum de datis &amp; muneribus
                             suis.</hi> Likewise S. <hi>Cyprian</hi>, who lived in his time. After
                         them <hi>Chrysotome</hi>, and <hi>Jerome</hi>, who hath many places to this
-                        purpose, as these, <note subtype="bibliographic" type="authorial" xml:id="ch10p4bibln6"><bibl default="false" status="draft">In Mal.3.8.</bibl></note>
+                        purpose, as these, <note subtype="bibliographic" type="authorial" xml:id="ch10p4bibln6"><bibl>In Mal.3.8.</bibl></note>
                         <hi>Quod de decimis diximus, quae olim dabantur a populo sacerdotibus &amp;
                             Levitis, in ecclesiae quoque, populis intelligite.</hi> And againe,
                             <hi>Ecclesiae populis praeceptum est dare decimus.</hi>
-                        <note subtype="bibliographic" type="authorial" xml:id="ch10p4bibln7"><bibl default="false" status="draft">Ibid.</bibl></note> Also S. <hi>Ambrose</hi>, S.
+                        <note subtype="bibliographic" type="authorial" xml:id="ch10p4bibln7"><bibl>Ibid.</bibl></note> Also S. <hi>Ambrose</hi>, S.
                             <hi>Augustine</hi>,<hi> Leo</hi> the first, <hi>Gregorie</hi> the great,
                         with the other good bishops of the Sea of Rome. Neither only these chief,
                         ancient, most learned, and godly fathers and doctors of the primitive
@@ -7431,7 +7431,7 @@
                         </fw> &amp; religious discourse of that godly Divine Mr <hi>George
                             Carleton</hi>; where he maketh it cleere, that tithes are consecrated to
                         the Lord for ever, and that the commandement of paying them is moral and
-                        perpetual. <note subtype="bibliographic" type="authorial" xml:id="ch10p4bibln8"><bibl default="false" status="draft">
+                        perpetual. <note subtype="bibliographic" type="authorial" xml:id="ch10p4bibln8"><bibl>
                             <hi>V.</hi> The maintenance of the minstery written by R. Eburn.</bibl></note>
                         <hi>Council. Matisconense.</hi>2. which was held
                             <hi>An.Do.</hi>580.<hi>Can.</hi>5. hath these words. <hi>Leges divinae
@@ -7450,7 +7450,7 @@
                             <hi>Walafridus Strabo</hi>, whose words are these, '<hi>Decimas Deo
                             &amp; sacerdotibus eius dandas Abraham factis, Jacob promissis insinuat,
                             deinde lex statvit, &amp; omnes doctores sancti commemorant.</hi>
-                        <note subtype="bibliographic" type="authorial" xml:id="ch10p4bibln9"><bibl default="false" status="draft"><hi rend="superscript">a</hi>v. Ibidem.</bibl></note> <note subtype="bibliographic" type="authorial" xml:id="ch10p4bibln10"><bibl default="false" status="draft"><hi rend="superscript">b</hi>v. The view pag.125.</bibl></note> And therefore the constitutions
+                        <note subtype="bibliographic" type="authorial" xml:id="ch10p4bibln9"><bibl><hi rend="superscript">a</hi>v. Ibidem.</bibl></note> <note subtype="bibliographic" type="authorial" xml:id="ch10p4bibln10"><bibl><hi rend="superscript">b</hi>v. The view pag.125.</bibl></note> And therefore the constitutions
                         of princes, as of <hi rend="superscript">a</hi><hi>Charles</hi> the great, of <hi rend="superscript">b</hi><hi>William</hi> the
                         conqueror, &amp; other kings of this Realme both <fw type="catch">be-</fw>
                         <pb n="N3r"></pb>
@@ -7488,7 +7488,7 @@
                         purpose, and making even those to maintaine their sacrilege, which were made
                         to a contrary ende. </p>
                     <p part="N" xml:id="ch10p4par7">
-                        <note subtype="bibliographic" type="authorial" xml:id="ch10p4bibln11"><bibl default="false" status="draft">An.45.Ed.3.</bibl></note> If in former times, when the land was so overgrowne
+                        <note subtype="bibliographic" type="authorial" xml:id="ch10p4bibln11"><bibl>An.45.Ed.3.</bibl></note> If in former times, when the land was so overgrowne
                         with trees that it had enough for it selfe and other countries also, it were
                         enacted, that <hi>wheras men did sel their great wood to merchants to their
                             owne profit, or in aide of the king in his wars, and the merchants were
@@ -7587,7 +7587,7 @@
                         but say, that it shal bee lawful to use all lawfull and reasonable meanes,
                             <hi>other than the parties owne corporall oath</hi>; this shal be an
                         occasion unto many, yea, if not to all, to almost all, to discharge
-                        themselves of al such dues. <note subtype="bibliographic" type="authorial" xml:id="ch10p4bibln12"><bibl default="false" status="draft"><hi>An.</hi>27.H.8.c.20&amp;An.2&amp;3.<hi>Ed.6</hi>c.13.
+                        themselves of al such dues. <note subtype="bibliographic" type="authorial" xml:id="ch10p4bibln12"><bibl><hi>An.</hi>27.H.8.c.20&amp;An.2&amp;3.<hi>Ed.6</hi>c.13.
                         </bibl></note>For albeit the personal tithes of the trads-man are no lesse due, as wel 
                         by temporal, as ecclesiastical law, than the predial tithes of the husbandmen; yet they 
                         which by their trafike or trade have gained cleerely 40, 50, yea hundreds of pounds, 
@@ -7614,7 +7614,7 @@
                         some tithes, that is, the withholding of tithes of great value for the
                         payment of trifles in liew thereof. (Whereas, if they would redeeme their
                         tith, in equitie they should give the ful valew; &amp; by the law of God they should 
-                        adde somewhat more.) <note subtype="bibliographic" type="authorial" xml:id="ch10p4bibln13"><bibl default="false" status="draft">Lev.17.31</bibl></note> And yet this Law, which is pretended 
+                        adde somewhat more.) <note subtype="bibliographic" type="authorial" xml:id="ch10p4bibln13"><bibl>Lev.17.31</bibl></note> And yet this Law, which is pretended 
                         to justifie this injurie, in the hardest constructuon that it may beare, can not 
                         imply any such matter, but doth indeed plainly command the contrary. For it 
                         doth not say they shal pay the twentith, or the fortieth, or the hundreth part (as 
@@ -7626,13 +7626,13 @@
                             <hi>The conclusion to the Reader.</hi>
                         </fw> rest, either in matter, or quantity; it is added <hi>truelie and
                             justlie</hi>
-                        <note subtype="bibliographic" type="authorial" xml:id="ch10p4bibln14"><bibl default="false" status="draft">
+                        <note subtype="bibliographic" type="authorial" xml:id="ch10p4bibln14"><bibl>
                             <hi>An</hi>.27.<hi></hi>H.8.<hi></hi>c.20.</bibl></note> for which an other act hath
                             <hi>according to the ecclesiasticall lawes and ordinances of the church
                             of Englande</hi>: which laws are so farre from permitting the diminution
                         of tithes by any injurious custome, that they doe precisely forbid it.</p>
                     <p part="N" xml:id="ch10p4par11">
-                        <note subtype="bibliographic" type="authorial" xml:id="ch10p4bibln15"><bibl default="false" status="draft">
+                        <note subtype="bibliographic" type="authorial" xml:id="ch10p4bibln15"><bibl>
                             <hi>Caus</hi>.16.<hi>q.</hi>7.<hi>c.quicunque</hi>
                         </bibl></note> As namely in the booke of decrees. <hi>Quicunque, recognoverit in se
                             quod fideliter non dederit decimas suas, modo emendet quod minus fecit.
@@ -7678,12 +7678,12 @@
                         or by the order of the flieces, &amp;c.) it is here commanded to bee such, <hi>as hath beene of
                             right used forty yeeres before the making of that act.</hi> For which an
                         other statute hath <hi> after the laudible usages and customes of the parish or
-                            place where hee dwelleth</hi>.<note subtype="bibliographic" type="authorial" xml:id="ch10p4bibln16"><bibl default="false" status="draft">An.27.H.8.c.20</bibl></note> Both which clauses are
+                            place where hee dwelleth</hi>.<note subtype="bibliographic" type="authorial" xml:id="ch10p4bibln16"><bibl>An.27.H.8.c.20</bibl></note> Both which clauses are
                         a plaine declaration of the ecclesiastical law, which saith, <hi>Non
                             tolluntur consuetudines diversae. Aliqui namque decimant secundum garbas,
                             proiiciendo eas sparsim in sulcos; alii decimant secundum acerves,
                             garbis invicem collectis: alii decimant non in</hi>
-                        <note subtype="bibliographic" type="authorial" xml:id="ch10p4bibln17"><bibl default="false" status="draft">
+                        <note subtype="bibliographic" type="authorial" xml:id="ch10p4bibln17"><bibl>
                             <hi>Linwood in glos.de decim.c.Quoniam verb. consuetudines.</hi>
                         </bibl></note>
                         <fw type="catch">
@@ -7835,7 +7835,7 @@
                         Tenthes &amp; Firstfruits, besides extraodrinarie Subsidies; and partly out
                         of the love, that anciently both Prince and people did beare to their
                         cleargie, there was a law made, that <hi>none of their goods</hi>
-                        <note subtype="bibliographic" type="authorial" xml:id="ch10p4bibln18"><bibl default="false" status="draft">An.14.E.3. An.18.E.3. An.1.Ri.2.</bibl></note>
+                        <note subtype="bibliographic" type="authorial" xml:id="ch10p4bibln18"><bibl>An.14.E.3. An.18.E.3. An.1.Ri.2.</bibl></note>
                         <fw type="catch">
                             <hi>should</hi>
                         </fw>
@@ -7913,7 +7913,7 @@
                         with the plentiful dew of heaven shall enrich the earth, that thou maist be
                         enriched with the fruits thereof. They be the words of that holy Father S.
                             <hi>Augustine, Majores nostri ideo copiis omnibus abundabant quia Deo
-                                decimas dabant</hi>. Our <note subtype="bibliographic" type="authorial" xml:id="ch10p4bibln19"><bibl default="false" status="draft">
+                                decimas dabant</hi>. Our <note subtype="bibliographic" type="authorial" xml:id="ch10p4bibln19"><bibl>
                                 <hi>Homel</hi>.48.50.<hi>Homeliar<note ana="supplied by editor" subtype="other" type="editorial">i</note>um</hi>. </bibl></note> Our <fw type="catch">
                             Fa-</fw>
                         <pb n="O4r"></pb>
@@ -7921,7 +7921,7 @@
                             <hi>The conclusion to the Reader.</hi>
                         </fw> Fathers did therefore abound in all riches, because they gave their
                         tithes to God: whom if thou wilt no heere, yet heere the truth it selfe.
-                        <note subtype="bibliographic" type="authorial" xml:id="ch10p4bibln20"><bibl default="false" status="draft">Mal.3.10.</bibl></note>
+                        <note subtype="bibliographic" type="authorial" xml:id="ch10p4bibln20"><bibl>Mal.3.10.</bibl></note>
                         <hi>Bring yee al the tithes into the store-house: that there may be meate in
                             mine house: and prove me now herewith (saith the Lord of hosts) if I wil
                             not open the windowes of heaven, and powre you out a blessing without
