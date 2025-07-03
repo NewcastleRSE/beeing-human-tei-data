@@ -3725,7 +3725,7 @@
                 <p part="N" xml:id="ch5par6">
                     <note subtype="bibliographic" type="authorial" xml:id="ch5bibln3"><bibl>His l.5.c.22.</bibl></note>
                     <note subtype="bibliographic" type="authorial" xml:id="ch5bibln4"><bibl>Nat hist li.XI.c.17.6</bibl></note><anchor xml:id="ch5ance1"></anchor>
-                    <foreign xml:lang="la" rend="italic">Augent mella siccitates, sobolem imbres. <anchor xml:id="ch5ancs2"></anchor>Humido vere melior foetus, sicco mel
+                    <foreign rend="italic" xml:lang="la">Augent mella siccitates, sobolem imbres. <anchor xml:id="ch5ancs2"></anchor>Humido vere melior foetus, sicco mel
                         copiosius.<anchor xml:id="ch5ance2"></anchor></foreign>
                 </p>
                 <p part="N" xml:id="ch5par7">
@@ -3992,7 +3992,7 @@
                     </note> When a swarme is up, it is a common <anchor xml:id="ch5ancs64"></anchor>fashion<anchor xml:id="ch5ance64"></anchor> <anchor xml:id="ch5ancs65"></anchor>to make a harsh noise<anchor xml:id="ch5ance65"></anchor> with a
                     pan, kettle, bason, or other like <anchor xml:id="ch5ancs66"></anchor>thing<anchor xml:id="ch5ance66"></anchor>, <anchor xml:id="ch5ancs67"></anchor>thereby<anchor xml:id="ch5ance67"></anchor> to stay them from flying away.
                     <anchor xml:id="ch5ancs68"></anchor>Which indeed is no new thing, as being used in <persName rend="italic">Aristotle</persName> his time:<anchor xml:id="ch5ance68"></anchor>
-                    <foreign xml:lang="la" rend="italic">Gau-</foreign>
+                    <foreign rend="italic" xml:lang="la">Gau-</foreign>
                     <fw type="catch">
                         <hi rend="italic">dere</hi>
                     </fw>
@@ -4001,7 +4001,7 @@
                     <fw type="header">
                         <hi rend="italic">Of the swarming of Bees</hi>
                     </fw>
-                    <foreign xml:lang="la" rend="italic">dere etiam plausu</foreign> (saith he) <foreign xml:lang="la" rend="italic">atque sonitu apes videntur. Quapropter
+                    <foreign rend="italic" xml:lang="la">dere etiam plausu</foreign> (saith he) <foreign rend="italic" xml:lang="la">atque sonitu apes videntur. Quapropter
                         tinnitu aeris, aut fictilis convocari eas in alveum ajunt.</foreign> <anchor xml:id="ch5ancs69"></anchor>But for any
                     thing that I have observed, if it doe no hurt, it doth no good: and at the least
                     they loose their labour that use it. <anchor xml:id="ch5ance69"></anchor>If you see them begin to fly aloft, which is a
@@ -4012,7 +4012,7 @@
                     sight &amp; hearing of them, you have lost all right and property in them,
                         <foreign rend="italic">Examen ex alveo tuo evolaverit, eo usque intellegitur esse tuum, donec
                         in conspectu quo est, nec difficilis persecutio eius est: alioquin
-                        occupantis est. Justinian. l.</foreign> 2. <foreign xml:lang="la" rend="italic">institutionum juris. tit. de re:
+                        occupantis est. Justinian. l.</foreign> 2. <foreign rend="italic" xml:lang="la">institutionum juris. tit. de re:
                         divis.</foreign>
                 </p>
                 <p part="N" xml:id="ch5par28">
@@ -4042,7 +4042,7 @@
                     <persName rend="italic">Columella.</persName>
                     <note subtype="summary" type="authorial" xml:id="ch5sumn33">33 <hi rend="italic">Vacua alvearia stet semper parata in apiario.</hi>
                     </note>
-                    <foreign xml:lang="la" rend="italic">Oportet autem vacua domicilia collocata in apiariis habere. Nam sunt
+                    <foreign rend="italic" xml:lang="la">Oportet autem vacua domicilia collocata in apiariis habere. Nam sunt
                         nonnulla examina, quae cum processerint, <ref target="#chglon1">†</ref>statim sedem
                         sibi quaerant in proximo, eandemque occupent quam vacuam repererint</foreign>. </p>
                 <note subtype="gloss" type="authorial" xml:id="ch5glon1">†Seu potius prius quaesitam, lustratam, &amp; paratam ad eant.
@@ -4409,7 +4409,7 @@
                     they not wagge (though they dy for it) untill the weather bee very pleasant.
                         <note subtype="summary" type="authorial" xml:id="ch5sumn62">62 <hi rend="italic">A swarme may live 5 daies without hony.</hi>
                     </note> They may live five daies in the hive without hony: but afterward they
-                    begin to string downe hanging at one anothers heels. <foreign xml:lang="la" rend="italic">Pedibus connexae ad
+                    begin to string downe hanging at one anothers heels. <foreign rend="italic" xml:lang="la">Pedibus connexae ad
                         limina pendent.</foreign> Which is a certaine signe of death, if they be not
                     presently relieved <anchor xml:id="ch5ancs110"></anchor>with hony and faire weather.<anchor xml:id="ch5ance110"></anchor></p>
                 <fw type="catch"> of</fw>

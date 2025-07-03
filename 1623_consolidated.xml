@@ -5644,13 +5644,13 @@
                             <note subtype="bibliographic" type="authorial" xml:id="ch5bibln1">
                                 <ref target="#ch5sumn34"><seg rend="italic"> </seg><seg rend="italic">v</seg><seg rend="italic">.</seg><seg rend="italic">n</seg><seg rend="italic">.</seg><seg rend="normal">3</seg><seg rend="normal">4</seg></ref>
                             </note></lem>
-                        <rdg wit="#b1609" source="1609.xml#ch5ancs1x 1609.xml#ch5ance1x"><anchor xml:id="ch5ancs1x" data-origfile="1609" type="attachmentCollation" subtype="start" /><hi rend="italic" data-origfile="1609">v.n.</hi>27<anchor xml:id="ch5ance1x" data-origfile="1609" type="attachmentCollation" subtype="end" /></rdg></app> and dead ones hee may finde many before the <ref target="#ch5ednote5" type="attachment" xml:id="ch5ednatt5">stooles,</ref><note resp="#JR" source="OED" subtype="gloss" type="editorial" xml:id="ch5ednote5">Stands of a beehive. Obsolete. (OED 10b).</note> when the stocks have <ref target="#ch5ednote5x" type="attachment" xml:id="ch5ednatt5x">cast
+                        <rdg wit="#b1609" source="1609.xml#ch5ancs1x 1609.xml#ch5ance1x"><anchor xml:id="ch5ancs1x" data-origfile="1609" type="attachmentCollation" subtype="start" /><ref target="#ch5sumn27" data-origfile="1609"><hi rend="italic" data-origfile="1609">v.n.</hi>27</ref><anchor xml:id="ch5ance1x" data-origfile="1609" type="attachmentCollation" subtype="end" /></rdg></app> and dead ones hee may finde many before the <ref target="#ch5ednote5" type="attachment" xml:id="ch5ednatt5">stooles,</ref><note resp="#JR" source="OED" subtype="gloss" type="editorial" xml:id="ch5ednote5">Stands of a beehive. Obsolete. (OED 10b).</note> when the stocks have <ref target="#ch5ednote5x" type="attachment" xml:id="ch5ednatt5x">cast
                         their last swarmes</ref>,<note resp="JR" subtype="gloss" type="editorial" xml:id="ch5ednote5x">i.e. swarmed (cast, v., OED 22).</note> <app subtype="change" type="reference">
                         <lem wit="#b1623"><ref target="#ch5bibln2"><seg rend="italic">v</seg><seg rend="italic">.</seg></ref>
                             <note subtype="bibliographic" type="authorial" xml:id="ch5bibln2">
                                 <ref target="#ch5sumn35"><seg rend="italic">V</seg><seg rend="italic">.</seg><seg rend="italic">n</seg><seg rend="italic">.</seg><seg rend="normal">3</seg><seg rend="normal">5</seg><seg rend="italic">.</seg></ref>
                             </note></lem>
-                        <rdg wit="#b1609" source="1609.xml#ch5ancs1xx 1609.xml#ch5ance1xx"><anchor xml:id="ch5ancs1xx" data-origfile="1609" type="attachmentCollation" subtype="start" /><hi rend="italic" data-origfile="1609">v.n.</hi>29<anchor xml:id="ch5ance1xx" data-origfile="1609" type="attachmentCollation" subtype="end" /></rdg></app> and also when many meet in one swarme. <ref target="#ch1sumn7"><seg rend="italic">v</seg><seg rend="italic">.</seg><seg rend="italic">c</seg><seg rend="italic">.</seg><seg rend="normal">1</seg><seg rend="italic">.</seg><seg rend="italic">n</seg><seg rend="italic">.</seg><seg rend="normal">7</seg></ref>. <app subtype="add" type="minor">
+                        <rdg wit="#b1609" source="1609.xml#ch5ancs1xx 1609.xml#ch5ance1xx"><anchor xml:id="ch5ancs1xx" data-origfile="1609" type="attachmentCollation" subtype="start" /><ref target="#ch5sumn29" data-origfile="1609"><hi rend="italic" data-origfile="1609">v.n.</hi>29</ref><anchor xml:id="ch5ance1xx" data-origfile="1609" type="attachmentCollation" subtype="end" /></rdg></app> and also when many meet in one swarme. <ref target="#ch1sumn7"><seg rend="italic">v</seg><seg rend="italic">.</seg><seg rend="italic">c</seg><seg rend="italic">.</seg><seg rend="normal">1</seg><seg rend="italic">.</seg><seg rend="italic">n</seg><seg rend="italic">.</seg><seg rend="normal">7</seg></ref>. <app subtype="add" type="minor">
                         <lem wit="#b1623">But then, being dead and shrunke together by the force of
                             the <ref target="#ch5ednote7x" type="attachment" xml:id="ch5ednatt7x">poison</ref>,<note resp="JR" subtype="gloss" type="editorial" xml:id="ch5ednote7x">Butler means the poison of the bee string: he describes the bee's barbed stinger or spear as poisoned in Chapter 1. This passage in Chapter 5 is linked to a description of how bees fight to the death in chapter 1: <q rend="marks">if they have many Princes, as when two flye away with one swarme, or when two swarmes are hived together<seg rend='roman'>;</seg> they will not be quiet till one of them be cassiered: which somtime they bring downe that evening to the mantle, where you may finde her covered with a little heape of Bees: otherwise the next day they carie her forth either dead or deadly wounded</q>.</note> they lose much of their stature and <ref target="#ch5ednote6" type="attachment" xml:id="ch5ednatt6">comlinesse.</ref><note resp="#OS" source="OED" subtype="gloss" type="editorial" xml:id="ch5ednote6">Attractiveness, beauty (OED 1)</note></lem>
                         <rdg wit="#b1609" />
@@ -5687,8 +5687,8 @@
                         <lem wit="#b1623" />
                         <rdg wit="#b1609" source="1609.xml#ch5ancs1 1609.xml#ch5ance1"><p part="N" xml:id="ch5par6" data-origfile="1609">
                     <note subtype="bibliographic" type="authorial" xml:id="ch5bibln3" data-origfile="1609"><bibl data-origfile="1609">His l.5.c.22.</bibl></note>
-                    <note subtype="bibliographic" type="authorial" xml:id="ch5bibln4" data-origfile="1609"><bibl data-origfile="1609">Nat hist li.XI.c.17.6</bibl></note><anchor xml:id="ch5ance1" data-origfile="1609" type="attachmentCollation" subtype="end" /><hi rend="italic" data-origfile="1609">Augent mella siccitates, sobolem imbres. <anchor xml:id="ch5ancs2" data-origfile="1609" />Humido vere melior foetus, sicco mel
-                        copiosius.<anchor xml:id="ch5ance2" data-origfile="1609" /></hi>
+                    <note subtype="bibliographic" type="authorial" xml:id="ch5bibln4" data-origfile="1609"><bibl data-origfile="1609">Nat hist li.XI.c.17.6</bibl></note><anchor xml:id="ch5ance1" data-origfile="1609" type="attachmentCollation" subtype="end" /><foreign rend="italic" xml:lang="la" data-origfile="1609">Augent mella siccitates, sobolem imbres. <anchor xml:id="ch5ancs2" data-origfile="1609" />Humido vere melior foetus, sicco mel
+                        copiosius.<anchor xml:id="ch5ance2" data-origfile="1609" /></foreign>
                 </p>
                 <anchor xml:id="ch5ance1" data-origfile="1609" type="attachmentCollation" subtype="end" /></rdg></app></p>
                 <p xml:id="ch5par5x"><quote>
@@ -5820,11 +5820,11 @@
                                 summer Solstice) but for Butler, who is using the old calendar
                                 (reformed 1752), 31 June.</note> in the ascending of the
                             Sunne,</lem>
-                        <rdg wit="#b1609" source="1609.xml#ch5ancs5  1609.xml#ch5ance5"><anchor xml:id="ch5ancs5" data-origfile="1609" type="attachmentCollation" subtype="start" /> in the ascending of the sun betweene <hi rend="italic" data-origfile="1609">Gemini</hi>
-                        &amp;<hi rend="italic" data-origfile="1609"> Cancer</hi><anchor xml:id="ch5ance5" data-origfile="1609" type="attachmentCollation" subtype="end" /></rdg></app> are rathe swarmes. <note subtype="summary" type="authorial" xml:id="ch5sumn10">10. <seg rend="italic">Late swarmes. </seg></note> Those that come <app subtype="change" type="minor">
+                        <rdg wit="#b1609" source="1609.xml#ch5ancs5  1609.xml#ch5ance5"><anchor xml:id="ch5ancs5" data-origfile="1609" type="attachmentCollation" subtype="start" /> in the ascending of the sun betweene <term rend="italic" data-origfile="1609">Gemini</term>
+                        &amp;<term rend="italic" data-origfile="1609"> Cancer</term><anchor xml:id="ch5ance5" data-origfile="1609" type="attachmentCollation" subtype="end" /></rdg></app> are rathe swarmes. <note subtype="summary" type="authorial" xml:id="ch5sumn10">10. <seg rend="italic">Late swarmes. </seg></note> Those that come <app subtype="change" type="minor">
                         <lem wit="#b1623">after, in his descending,</lem>
-                        <rdg wit="#b1609" source="1609.xml#ch5ancs6 1609.xml#ch5ance6"><anchor xml:id="ch5ancs6" data-origfile="1609" type="attachmentCollation" subtype="start" />in the descending betweene <hi rend="italic" data-origfile="1609">Cancer</hi>
-                        &amp; <hi rend="italic" data-origfile="1609"> Leo</hi><anchor xml:id="ch5ance6" data-origfile="1609" type="attachmentCollation" subtype="end" /></rdg></app> are late swarmes. But there are few that come in the first fortnight, and
+                        <rdg wit="#b1609" source="1609.xml#ch5ancs6 1609.xml#ch5ance6"><anchor xml:id="ch5ancs6" data-origfile="1609" type="attachmentCollation" subtype="start" />in the descending betweene <term rend="italic" data-origfile="1609">Cancer</term>
+                        &amp; <term rend="italic" data-origfile="1609"> Leo</term><anchor xml:id="ch5ance6" data-origfile="1609" type="attachmentCollation" subtype="end" /></rdg></app> are late swarmes. But there are few that come in the first fortnight, and
                     they very good: few also in the last fortnight, namely after <ref target="#ch5ednote21" type="attachment" xml:id="ch5ednatt21"><term>S.
                             Peters</term>-tide</ref>,<note resp="#JR" source="OED" subtype="gloss" type="editorial" xml:id="ch5ednote21"><hi>The feast of St Peter</hi> (in
                         the Church of England), celebrated on 29 June (OED).</note> and they <app subtype="change" type="vocabulary">
@@ -5874,7 +5874,7 @@
                         <app subtype="del" type="minor">
                         <lem wit="#b1623" />
                         <rdg wit="#b1609" source="1609.xml#ch5ancs14 1609.xml#ch5ance14"><anchor xml:id="ch5ancs14" data-origfile="1609" type="attachmentCollation" subtype="start" />prevent their
-                    rising, <hi rend="italic" data-origfile="1609">v.c.</hi>3.<hi rend="italic" data-origfile="1609">n</hi>.32. <anchor xml:id="ch5ance14" data-origfile="1609" type="attachmentCollation" subtype="end" /></rdg></app><app subtype="add" type="major">
+                    rising, <ref target="#ch3sumn32" data-origfile="1609"><hi rend="italic" data-origfile="1609">v.c.</hi>3.<hi rend="italic" data-origfile="1609">n</hi>.32.</ref> <anchor xml:id="ch5ance14" data-origfile="1609" type="attachmentCollation" subtype="end" /></rdg></app><app subtype="add" type="major">
                         <lem wit="#b1623">put such backe againe into the stocke: which you may
                             easily doe, so soone as they are hived, by knocking them downe upon a
                             table close to the doore: their fellowes that are behinde will soone be
@@ -5988,7 +5988,7 @@
                         mind the meaning of maiden, a damsel (OED 2b).</note> have beene a good
                     while flying abroad, and are now able to endure both weather and labour.<app subtype="del" type="reference">
                         <lem wit="#b1623" />
-                        <rdg wit="#b1609" source="1609.xml#ch5ancs19 1609.xml#ch5ance19"><anchor xml:id="ch5ancs19" data-origfile="1609" type="attachmentCollation" subtype="start" /><hi rend="italic" data-origfile="1609">v.c.</hi>4.<hi rend="italic" data-origfile="1609">n.</hi>16.<anchor xml:id="ch5ance19" data-origfile="1609" type="attachmentCollation" subtype="end" /></rdg></app>
+                        <rdg wit="#b1609" source="1609.xml#ch5ancs19 1609.xml#ch5ance19"><anchor xml:id="ch5ancs19" data-origfile="1609" type="attachmentCollation" subtype="start" /><ref target="#ch4sumn16" data-origfile="1609"><hi rend="italic" data-origfile="1609">v.c.</hi>4.<hi rend="italic" data-origfile="1609">n.</hi>16.</ref><anchor xml:id="ch5ance19" data-origfile="1609" type="attachmentCollation" subtype="end" /></rdg></app>
                 </p>
                 <p xml:id="ch5par16">Other signes of the Hives fulnesse and readinesse to swarm are
                     at the Hive-doore, First, the Bees hovering in cold evenings and mornings.
@@ -6016,7 +6016,7 @@
                         <rdg wit="#b1609" source="1609.xml#ch5ancs23 1609.xml#ch5ance23"><anchor xml:id="ch5ancs23" data-origfile="1609" type="attachmentCollation" subtype="start" />hivel<anchor xml:id="ch5ance23" data-origfile="1609" type="attachmentCollation" subtype="end" /></rdg></app>, but upon the stoole also: where when you see them begin to hang one upon
                     another in swarming time, <app subtype="del" type="reference">
                         <lem wit="#b1623" />
-                        <rdg wit="#b1609" source="1609.xml#ch5ancs23x 1609.xml#ch5ance23x"><anchor xml:id="ch5ancs23x" data-origfile="1609" type="attachmentCollation" subtype="start" /><hi rend="italic" data-origfile="1609">v.</hi>
+                        <rdg wit="#b1609" source="1609.xml#ch5ancs23x 1609.xml#ch5ance23x"><anchor xml:id="ch5ancs23x" data-origfile="1609" type="attachmentCollation" subtype="start" /><ref target="#ch5bibln6" data-origfile="1609"><hi rend="italic" data-origfile="1609">v.</hi></ref>
                     <note subtype="bibliographic" type="authorial" xml:id="ch5bibln6" data-origfile="1609"><ref target="#ch5sumn7" data-origfile="1609">
                         <hi rend="italic" data-origfile="1609">v.n.</hi>7.</ref></note><anchor xml:id="ch5ance23x" data-origfile="1609" type="attachmentCollation" subtype="end" /></rdg></app><app subtype="add" type="minor">
                         <lem wit="#b1623">and not before,</lem>
@@ -6029,7 +6029,7 @@
                     then begin they to flie away, first out of the Hive, and after from the
                         Cluster.<app subtype="del" type="reference">
                         <lem wit="#b1623" />
-                        <rdg wit="#b1609" source="1609.xml#ch5ancs24 1609.xml#ch5ance24"><anchor xml:id="ch5ancs24" data-origfile="1609" type="attachmentCollation" subtype="start" />:&amp;c. <hi rend="italic" data-origfile="1609">v.n.</hi>27.<anchor xml:id="ch5ance24" data-origfile="1609" type="attachmentCollation" subtype="end" /></rdg></app>
+                        <rdg wit="#b1609" source="1609.xml#ch5ancs24 1609.xml#ch5ance24"><anchor xml:id="ch5ancs24" data-origfile="1609" type="attachmentCollation" subtype="start" />:&amp;c. <ref target="#ch5sumn27" data-origfile="1609"><hi rend="italic" data-origfile="1609">v.n.</hi>27.</ref><anchor xml:id="ch5ance24" data-origfile="1609" type="attachmentCollation" subtype="end" /></rdg></app>
                     <app subtype="add" type="major">
                         <lem wit="#b1623">But commonly some few of them doe first flie forth and
                             play to &amp; fro the Hive-doore, so to till out more company unto them:
@@ -6143,7 +6143,7 @@
                             move the cluster gentlie with your Brush, and drive them in. </lem>
                         <rdg wit="#b1609" source="1609.xml#ch5ancs32 1609.xml#ch5ance32"><anchor xml:id="ch5ancs32" data-origfile="1609" type="attachmentCollation" subtype="start" />If this cause them not to keepe in<seg rend='roman'>;</seg> then about eight or nine of
                     the clocke in cleere and calme weather, drive them gently into their hives with
-                    your brush <hi rend="italic" data-origfile="1609">v.</hi>
+                    your brush <ref target="#ch5bibln7" data-origfile="1609"><hi rend="italic" data-origfile="1609">v.</hi></ref>
                     <note subtype="bibliographic" type="authorial" xml:id="ch5bibln7" data-origfile="1609"><ref target="#ch5sumn39" data-origfile="1609">
                         <hi rend="italic" data-origfile="1609">v.n.</hi>39:</ref></note><anchor xml:id="ch5ance32" data-origfile="1609" type="attachmentCollation" subtype="end" /></rdg></app><app subtype="del" type="minor">
                         <lem wit="#b1623" />
@@ -6223,7 +6223,7 @@
                     <app subtype="change" type="vocabulary">
                         <lem wit="#b1623">In the end of <term>Virgo</term></lem>
                         <rdg wit="#b1609" source="1609.xml#ch5ancs39 1609.xml#ch5ance39"><anchor xml:id="ch5ancs39" data-origfile="1609" type="attachmentCollation" subtype="start" />At
-                        <hi rend="italic" data-origfile="1609">Libra</hi><anchor xml:id="ch5ance39" data-origfile="1609" type="attachmentCollation" subtype="end" /></rdg></app><app subtype="del" type="minor">
+                        <term rend="italic" data-origfile="1609">Libra</term><anchor xml:id="ch5ance39" data-origfile="1609" type="attachmentCollation" subtype="end" /></rdg></app><app subtype="del" type="minor">
                         <lem wit="#b1623" />
                         <rdg wit="#b1609" source="1609.xml#ch5ancs40 1609.xml#ch5ance40"><anchor xml:id="ch5ancs40" data-origfile="1609" type="attachmentCollation" subtype="start" />you may<anchor xml:id="ch5ance40" data-origfile="1609" type="attachmentCollation" subtype="end" /></rdg></app> drive them all into the new Hive, <app subtype="add" type="minor">
                         <lem wit="#b1623">(which then, if the weather have held good, will be full
@@ -6556,7 +6556,7 @@
                         <graphic url="media/1609/diagrams/ch5/ch5fig1.svg" data-origfile="1609" />
                     </figure> with more or fewer notes, as she pleaseth. And sometime she taketh a
                     higher key, specially toward their comming forth, and beginning the od minim in
-                        <hi rend="italic" data-origfile="1609">Alami re</hi> shee tuneth the rest of hir notes in <hi rend="italic" data-origfile="1609">C sol fa</hi>
+                        <emph rend="italic" data-origfile="1609">Alami re</emph> shee tuneth the rest of hir notes in <emph rend="italic" data-origfile="1609">C sol fa</emph>
                     thus, <figure data-origfile="1609">
                         <graphic url="media/1609/diagrams/ch5/ch5fig2.svg" data-origfile="1609" />
                     </figure><anchor xml:id="ch5ance57" data-origfile="1609" type="attachmentCollation" subtype="end" /></rdg></app></p>
@@ -6595,7 +6595,7 @@
                         <rdg wit="#b1609" source="1609.xml#ch5ancs58 1609.xml#ch5ance58"><anchor xml:id="ch5ancs58" data-origfile="1609" type="attachmentCollation" subtype="start" />But the Queene in a deeper voice thus<seg rend='roman'>;</seg> <figure data-origfile="1609">
                         <graphic url="media/1609/diagrams/ch5/ch5fig3.svg" data-origfile="1609" />
                     </figure> continuing the same, some foure or five semi-briefes, and sounding the
-                    end of the every note in <hi rend="italic" data-origfile="1609">C sol fa ut.</hi><anchor xml:id="ch5ance58" data-origfile="1609" type="attachmentCollation" subtype="end" /></rdg></app></p>
+                    end of the every note in <emph rend="italic" data-origfile="1609">C sol fa ut.</emph><anchor xml:id="ch5ance58" data-origfile="1609" type="attachmentCollation" subtype="end" /></rdg></app></p>
                 <p xml:id="ch5par35"><note subtype="summary" type="authorial" xml:id="ch5sumn31">
                         <app subtype="add" type="major">
                             <lem wit="#b1623">31. <seg rend="italic">The other Ladies parts. </seg></lem>
@@ -6623,9 +6623,9 @@
                             hir selfe<seg rend='roman'>;</seg> so sometime by hir silence she denieth, though mournfully
                             intreated: and then the swarme tarieth, and the poore Ladie must die. </lem>
                         <rdg wit="#b1609" source="1609.xml#ch5ancs59 1609.xml#ch5ance59"><anchor xml:id="ch5ancs59" data-origfile="1609" type="attachmentCollation" subtype="start" />So that when they sing together,
-                    sometime they agree in a <hi rend="italic" data-origfile="1609">perfect third,</hi> sometime in a
-                    <hi rend="italic" data-origfile="1609">Diapente</hi>, &amp; (if you respect the termination of the base) somtime
-                    in a <hi rend="italic" data-origfile="1609">Diapason</hi>.<anchor xml:id="ch5ance59" data-origfile="1609" type="attachmentCollation" subtype="end" /></rdg></app></p>
+                    sometime they agree in a <term rend="italic" data-origfile="1609">perfect third,</term> sometime in a
+                    <term rend="italic" data-origfile="1609">Diapente</term>, &amp; (if you respect the termination of the base) somtime
+                    in a <term rend="italic" data-origfile="1609">Diapason</term>.<anchor xml:id="ch5ance59" data-origfile="1609" type="attachmentCollation" subtype="end" /></rdg></app></p>
                 <p xml:id="ch5par36">With these <app subtype="change" type="vocabulary">
                         <lem wit="#b1623">various and harmonious notes,</lem>
                         <rdg wit="#b1609" source="1609.xml#ch5ancs60 1609.xml#ch5ance60"><anchor xml:id="ch5ancs60" data-origfile="1609" type="attachmentCollation" subtype="start" />tunes<anchor xml:id="ch5ance60" data-origfile="1609" type="attachmentCollation" subtype="end" /></rdg></app> answering one an other, and some pawses betweene, they goe solemnly round
@@ -6639,7 +6639,7 @@
                     But none dare counterfeit the voice of the Prince: for that were treason to hir
                     person. And yet sometime one of them, in hope to part the swarme, wil steal out
                     with her: but if the swarm be not parted, or being parted be put together in one
-                    hive, it costeth her hir life. <hi rend="italic" data-origfile="1609">v.c.</hi>1.<hi rend="italic" data-origfile="1609">n.</hi>7.<anchor xml:id="ch5ance61" data-origfile="1609" type="attachmentCollation" subtype="end" /></rdg></app>
+                    hive, it costeth her hir life. <ref target="#ch1sumn7" data-origfile="1609"><hi rend="italic" data-origfile="1609">v.c.</hi>1.<hi rend="italic" data-origfile="1609">n.</hi>7.</ref><anchor xml:id="ch5ance61" data-origfile="1609" type="attachmentCollation" subtype="end" /></rdg></app>
                     <app subtype="add" type="major">
                         <lem wit="#b1623">Which Musicke as it cannot please and delight them that
                             listen to it<seg rend='roman'>;</seg> so must it be most sweet and pleasant to the young Prince
@@ -7317,7 +7317,7 @@
                     bignes &amp; time of the swarme.<anchor xml:id="ch5ance75" data-origfile="1609" type="attachmentCollation" subtype="end" /></rdg></app></p>
                 <p xml:id="ch5par56">A swarme <app subtype="change" type="vocabulary">
                         <lem wit="#b1623">before <term>Mid-gemini</term>,</lem>
-                        <rdg wit="#b1609" source="1609.xml#ch5ancs75x 1609.xml#ch5ance75x"><anchor xml:id="ch5ancs75x" data-origfile="1609" type="attachmentCollation" subtype="start" />of the beginning of <hi rend="italic" data-origfile="1609">Gemini</hi><anchor xml:id="ch5ance75x" data-origfile="1609" type="attachmentCollation" subtype="end" /></rdg></app> put into a Hive that conteineth <app subtype="change" type="vocabulary">
+                        <rdg wit="#b1609" source="1609.xml#ch5ancs75x 1609.xml#ch5ance75x"><anchor xml:id="ch5ancs75x" data-origfile="1609" type="attachmentCollation" subtype="start" />of the beginning of <term rend="italic" data-origfile="1609">Gemini</term><anchor xml:id="ch5ance75x" data-origfile="1609" type="attachmentCollation" subtype="end" /></rdg></app> put into a Hive that conteineth <app subtype="change" type="vocabulary">
                         <lem wit="#b1623">twice</lem>
                         <rdg wit="#b1609" source="1609.xml#ch5ancs76 1609.xml#ch5ance76"><anchor xml:id="ch5ancs76" data-origfile="1609" type="attachmentCollation" subtype="start" />thrise<anchor xml:id="ch5ance76" data-origfile="1609" type="attachmentCollation" subtype="end" /></rdg></app> so much as the <ref target="#ch5glon11"><seg rend="italic">*</seg></ref>swarme is: A swarm <app subtype="change" type="minor">
                         <lem wit="#b1623">at</lem>
@@ -7358,8 +7358,8 @@
                                 <ref target="#ch3sumn6"><seg rend="italic"> </seg><seg rend="italic">V</seg><seg rend="italic">.</seg><seg rend="italic">c</seg><seg rend="italic">.</seg><seg rend="normal">3</seg><seg rend="italic">.</seg><seg rend="italic">n</seg><seg rend="italic">.</seg><seg rend="normal">6</seg><seg rend="italic">.</seg></ref>
                             </note></lem>
                         <rdg wit="#b1609" source="1609.xml#ch5ancs80 1609.xml#ch5ance80"><anchor xml:id="ch5ancs80" data-origfile="1609" type="attachmentCollation" subtype="start" /> a peck at the beginning of
-                        <hi rend="italic" data-origfile="1609">Gemini</hi> should have a hive of three pecks: &amp; such a one at the
-                    beginning of <hi rend="italic" data-origfile="1609">Cancer</hi> shoulde have a hive of halfe a bushel.<anchor xml:id="ch5ance80" data-origfile="1609" type="attachmentCollation" subtype="end" /></rdg></app>
+                        <term rend="italic" data-origfile="1609">Gemini</term> should have a hive of three pecks: &amp; such a one at the
+                    beginning of <term rend="italic" data-origfile="1609">Cancer</term> shoulde have a hive of halfe a bushel.<anchor xml:id="ch5ance80" data-origfile="1609" type="attachmentCollation" subtype="end" /></rdg></app>
                     <app subtype="add" type="minor">
                         <lem wit="#b1623">But little and late swarmes are <ref target="#ch5ednote19" type="attachment" xml:id="ch5ednatt19">rather</ref><note resp="#JR" source="OED" subtype="gloss" type="editorial" xml:id="ch5ednote19">Earlier (adv., OED 3 1).</note> to be united.<ref target="#ch5bibln34"><seg rend="italic"> </seg><seg rend="italic">v</seg><seg rend="italic">.</seg></ref>
                             <note subtype="bibliographic" type="authorial" xml:id="ch5bibln34">
@@ -7408,10 +7408,10 @@
                     swarmes may at the least halfe fil them the first yeere: for then wil they
                     throughly fil them the next, and perhaps swarme: &amp; the third yeere if it be
                     kind they wil not faile. But then are they to be kept warme the first winter,
-                        <hi rend="italic" data-origfile="1609">v.</hi>
+                        <ref target="#ch5bibln10" data-origfile="1609"><hi rend="italic" data-origfile="1609">v.</hi></ref>
                     <note subtype="bibliographic" type="authorial" xml:id="ch5bibln10" data-origfile="1609"><ref target="#ch3sumn38" data-origfile="1609">
                         <hi rend="italic" data-origfile="1609">v.c.</hi>3 <hi rend="italic" data-origfile="1609">n.</hi> 38.</ref></note> Otherwise you maie put two good
-                    swarmes togither, <hi rend="italic" data-origfile="1609">v.</hi>
+                    swarmes togither, <ref target="#ch5bibln11" data-origfile="1609"><hi rend="italic" data-origfile="1609">v.</hi></ref>
                     <note subtype="bibliographic" type="authorial" xml:id="ch5bibln11" data-origfile="1609"><ref target="#ch5sumn52" data-origfile="1609">
                         <hi rend="italic" data-origfile="1609">v.n.</hi>52.</ref></note> and then they wilbe able to keepe themselves warme.<anchor xml:id="ch5ance81" data-origfile="1609" type="attachmentCollation" subtype="end" /></rdg></app>
                 </note>
@@ -7734,7 +7734,7 @@
                                 <ref target="#ch5sumn23"><seg rend="italic"> </seg><seg rend="italic">V</seg><seg rend="italic">.</seg><seg rend="italic">n</seg><seg rend="italic">.</seg><seg rend="normal">2</seg><seg rend="normal">3</seg><seg rend="italic">.</seg></ref>
                             </note> thred, wipe them downe into the hive,</lem>
                         <rdg wit="#b1609" source="1609.xml#ch5ancs90x 1609.xml#ch5ance90x"><anchor xml:id="ch5ancs90x" data-origfile="1609" type="attachmentCollation" subtype="start" />then must you be faine to sweepe them into the hive with the
-                    Brush (not in any wise with a goose wing <hi rend="italic" data-origfile="1609">v.</hi>
+                    Brush (not in any wise with a goose wing <ref target="#ch5bibln14" data-origfile="1609"><hi rend="italic" data-origfile="1609">v.</hi></ref>
                     <note subtype="bibliographic" type="authorial" xml:id="ch5bibln14" data-origfile="1609"><ref target="#ch1sumn23" data-origfile="1609">
                         <hi rend="italic" data-origfile="1609">v.c.</hi>I.<hi rend="italic" data-origfile="1609">n.</hi>23.</ref></note>as some use to doe)<anchor xml:id="ch5ance90x" data-origfile="1609" type="attachmentCollation" subtype="end" /></rdg></app> and <app subtype="change" type="vocabulary">
                         <lem wit="#b1623">set</lem>
@@ -7925,8 +7925,8 @@
                         <rdg wit="#b1609" />
                     </app><app subtype="del" type="major">
                         <lem wit="#b1623" />
-                        <rdg wit="#b1609" source="1609.xml#ch5ancs92 1609.xml#ch5ance92"><anchor xml:id="ch5ancs92" data-origfile="1609" type="attachmentCollation" subtype="start" /><hi rend="italic" data-origfile="1609">v.c.</hi>10.<hi rend="italic" data-origfile="1609">p.</hi>1.<hi rend="italic" data-origfile="1609">n</hi>17.beginning at <hi rend="italic" data-origfile="1609">late in an
-                        evening</hi>,<hi rend="italic" data-origfile="1609">&amp;c.</hi> unto <hi rend="italic" data-origfile="1609">and forthwith carrie</hi>, &amp; when
+                        <rdg wit="#b1609" source="1609.xml#ch5ancs92 1609.xml#ch5ance92"><anchor xml:id="ch5ancs92" data-origfile="1609" type="attachmentCollation" subtype="start" /><ref target="#ch10p1sumn17" data-origfile="1609"><hi rend="italic" data-origfile="1609">v.c.</hi>10.<hi rend="italic" data-origfile="1609">p.</hi>1.<hi rend="italic" data-origfile="1609">n</hi>17.</ref>beginning at <emph rend="italic" data-origfile="1609">late in an
+                        evening</emph>,<emph rend="italic" data-origfile="1609">&amp;c.</emph> unto <emph rend="italic" data-origfile="1609">and forthwith carrie</emph>, &amp; when
                     by clapping of the stranger you have gotten as many Bees forth as you can, first
                     pul out the little combe that they have made, putting it into the receiver:
                     &amp; then use the hive as the unspleeted hive.<anchor xml:id="ch5ance92" data-origfile="1609" type="attachmentCollation" subtype="end" /></rdg></app>
@@ -7954,7 +7954,7 @@
                 <p xml:id="ch5par94"><note subtype="summary" type="authorial" xml:id="ch5sumn68">68. <seg rend="italic">Uniting of swarmes is profitable. </seg></note><app subtype="del" type="minor">
                         <lem wit="#b1623" />
                         <rdg wit="#b1609" source="1609.xml#ch5ancs99 1609.xml#ch5ance99"><anchor xml:id="ch5ancs99" data-origfile="1609" type="attachmentCollation" subtype="start" />And thus may you do to those that are good, if
-                    you desire to have them excellent good, <hi rend="italic" data-origfile="1609">v.</hi>,<anchor xml:id="ch5ance99" data-origfile="1609" type="attachmentCollation" subtype="end" /></rdg></app> For being thus united they will labour cheerefully, gather store of
+                    you desire to have them excellent good, <ref target="#ch5bibln15" data-origfile="1609"><hi rend="italic" data-origfile="1609">v.</hi></ref>,<anchor xml:id="ch5ance99" data-origfile="1609" type="attachmentCollation" subtype="end" /></rdg></app> For being thus united they will labour cheerefully, gather store of
                     wealth, and stoutly defend themselves against all enemies: whereas if they were
                     kept asunder, they would surely perish the next robbing-time, or winter<seg rend='roman'>;</seg> or
                     living would doe you little good. And therefore if two swarmes rising at the
