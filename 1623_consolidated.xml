@@ -4877,8 +4877,8 @@
                     </note> as much as before, and having no young ones to spend part<app subtype="del" type="minor">
                         <lem wit="#b1623" />
                         <rdg wit="#b1609" source="1609.xml#ch4ancs9 1609.xml#ch4ance9"><anchor xml:id="ch4ancs9" data-origfile="1609" type="attachmentCollation" subtype="start" />of it, nor taking any pleasure to
-                    worke it with the liquid <hi rend="italic" data-origfile="1609">nectar</hi>, as otherwise they use to doe,
-                        <hi rend="italic" data-origfile="1609">v.</hi>
+                    worke it with the liquid <term rend="italic" data-origfile="1609">nectar</term>, as otherwise they use to doe,
+                        <ref target="#ch4bibln9" data-origfile="1609"><hi rend="italic" data-origfile="1609">v.</hi></ref>
                     <note subtype="bibliographic" type="authorial" xml:id="ch4bibln9" data-origfile="1609"><ref target="#ch6sumn17" data-origfile="1609">
                         <hi rend="italic" data-origfile="1609">v.c.</hi>6.<hi rend="italic" data-origfile="1609">n.</hi>17.</ref></note><anchor xml:id="ch4ance9" data-origfile="1609" type="attachmentCollation" subtype="end" /></rdg></app>, they lay it up carelesly in their cells, where it corrupteth and turneth
                     to <app subtype="add" type="vocabulary">
@@ -4982,7 +4982,7 @@
                         <lem wit="#b1623">When their breeding draweth toward an end, namely in
                                 <term>Virgo</term> and after,</lem>
                         <rdg wit="#b1609" source="1609.xml#ch4ancs14 1609.xml#ch4ance14"><anchor xml:id="ch4ancs14" data-origfile="1609" type="attachmentCollation" subtype="start" /> In their last brood, which is in
-                        <hi rend="italic" data-origfile="1609">Scorpio</hi>,<anchor xml:id="ch4ance14" data-origfile="1609" type="attachmentCollation" subtype="end" /></rdg></app> (besides the small or ordinary Waspes, <app subtype="add" type="minor">
+                        <term rend="italic" data-origfile="1609">Scorpio</term>,<anchor xml:id="ch4ance14" data-origfile="1609" type="attachmentCollation" subtype="end" /></rdg></app> (besides the small or ordinary Waspes, <app subtype="add" type="minor">
                         <lem wit="#b1623">which lie in all the upper combes) in the last or lowest
                             combe, made for the nonce with larger cells fit for larger bodies,</lem>
                         <rdg wit="#b1609" />
@@ -5541,7 +5541,7 @@
                     <rdg wit="#b1609" source="1609.xml#ch4ancs44 1609.xml#ch4ance44"><anchor xml:id="ch4ancs44" data-origfile="1609" type="attachmentCollation" subtype="start" /><note subtype="summary" type="authorial" xml:id="ch4sumn27" data-origfile="1609">28 <hi rend="italic" data-origfile="1609">The drones first banished are welcomed
                             to other hives</hi>
                     </note> Those drones that are beaten away betime are easily admitted into other
-                    hives. Ten daies before <hi rend="italic" data-origfile="1609">Virgo</hi> I once saw all the drones of more than a
+                    hives. Ten daies before <term rend="italic" data-origfile="1609">Virgo</term> I once saw all the drones of more than a
                     dozen stals gathered into one of them<seg rend='roman'>;</seg> where they were so thicke in an
                     afternoone, both within, and without the hive, that the little Bees could not
                     passe for the thronge. But in the ende for the most part they finde Tomme Drums
