@@ -1730,7 +1730,7 @@
                         <rdg wit="#b1609" source="1609.xml#ch1ancs6 1609.xml#ch1ance6"><anchor xml:id="ch1ancs6" data-origfile="1609" type="attachmentCollation" subtype="start" />But if they have many Princes, as when two fly away with
                     one swarme, or when two swarmes are hived together<seg rend='roman'>;</seg> they strike one of them
                     presently, and sometime they bring her downe that evening to the mantle,
-                    <hi rend="italic" data-origfile="1609">v</hi>.<note subtype="bibliographic" type="authorial" xml:id="ch1bibln11" data-origfile="1609"><ref target="#ch5sumn39" data-origfile="1609">v.n.5.n.39:</ref></note> where you may find hir covered with a
+                    <ref target="#ch1bibln11" data-origfile="1609"><hi rend="italic" data-origfile="1609">v</hi></ref>.<note subtype="bibliographic" type="authorial" xml:id="ch1bibln11" data-origfile="1609"><ref target="#ch5sumn39" data-origfile="1609">v.n.5.n.39:</ref></note> where you may find hir covered with a
                     little heape of Bees, otherwise the next day they carie her forth either dead or
                     deadly wounded. Likewise if the olde Queene bring forth many Princes (as she may
                     have six or seaven, yea sometime halfe a skore or more which superfluitie nature
@@ -2168,7 +2168,7 @@
                     provoked. They are also very gentle in the evenings<seg rend='roman'>;</seg> but then being wearie if
                     you stand in their way you trouble their lighting, and cause them to fall, &amp;
                     if you make them come forth when they are housed for al night, they can hardly
-                    see to get in againe. <hi rend="italic" data-origfile="1609">v.</hi><anchor xml:id="ch1ance12" data-origfile="1609" type="attachmentCollation" subtype="end" /></rdg></app><app subtype="del" type="major">
+                    see to get in againe. <ref target="#ch1bibln34" data-origfile="1609"><hi rend="italic" data-origfile="1609">v.</hi></ref><anchor xml:id="ch1ance12" data-origfile="1609" type="attachmentCollation" subtype="end" /></rdg></app><app subtype="del" type="major">
                         <lem wit="#b1623" />
                         <rdg wit="#b1609" source="1609.xml#ch1ancs12x 1609.xml#ch1ance12x"><anchor xml:id="ch1ancs12x" data-origfile="1609" type="attachmentCollation" subtype="start" />
                         <hi rend="italic" data-origfile="1609">v.n.</hi>41.<anchor xml:id="ch1ance12x" data-origfile="1609" type="attachmentCollation" subtype="end" /></rdg></app>
@@ -2228,12 +2228,12 @@
                     <app subtype="del" type="major">
                         <lem wit="#b1623" />
                         <rdg wit="#b1609" source="1609.xml#ch1ancs14 1609.xml#ch1ance14"><anchor xml:id="ch1ancs14" data-origfile="1609" type="attachmentCollation" subtype="start" /><note subtype="bibliographic" type="authorial" xml:id="ch1bibln36" data-origfile="1609"><bibl data-origfile="1609">Nat.hist.Ii.</bibl></note>
-                    <hi rend="italic" data-origfile="1609">Quamvis non sint membra quae, velunt carina, sensus invehant<seg rend='roman'>;</seg> esse tamen iis
-                        auditum, olfactum, gustatum, eximia praetereae naturae dona, solertiam</hi>
+                    <foreign rend="italic" xml:lang="la" data-origfile="1609">Quamvis non sint membra quae, velunt carina, sensus invehant<seg rend='roman'>;</seg> esse tamen iis
+                        auditum, olfactum, gustatum, eximia praetereae naturae dona, solertiam</foreign>
                     <fw type="catch" data-origfile="1609"> animum</fw><anchor xml:id="ch1ance14" data-origfile="1609" type="attachmentCollation" subtype="end" /></rdg></app>
                     <app subtype="del" type="major">
                         <lem wit="#b1623" />
-                        <rdg wit="#b1609" source="1609.xml#ch1ancs14x 1609.xml#ch1ance14x"><anchor xml:id="ch1ancs14x" data-origfile="1609" type="attachmentCollation" subtype="start" /><hi rend="italic" data-origfile="1609">animum, artem quis facile crediderit.</hi>
+                        <rdg wit="#b1609" source="1609.xml#ch1ancs14x 1609.xml#ch1ance14x"><anchor xml:id="ch1ancs14x" data-origfile="1609" type="attachmentCollation" subtype="start" /><foreign rend="italic" xml:lang="la" data-origfile="1609">animum, artem quis facile crediderit.</foreign>
                     <note subtype="summary" type="authorial" xml:id="ch1sumn41" data-origfile="1609">41 <hi rend="italic" data-origfile="1609">Their sight dim.</hi>
                     </note><anchor xml:id="ch1ance14x" data-origfile="1609" type="attachmentCollation" subtype="end" /></rdg></app>And such are the sorts of Bees, with their integrall parts. Among which,
                     though there do not appear those outward <term> Organa</term> of senting which
@@ -2254,8 +2254,8 @@
                                         <bibl>Augustin.de Genesi ad literam.lib.3.</bibl>
                                     </note></lem>
                                 <rdg wit="#b1609" source="1609.xml#ch1ancs14 1609.xml#ch1ance14"><anchor xml:id="ch1ancs14" data-origfile="1609" type="attachmentCollation" subtype="start" /><note subtype="bibliographic" type="authorial" xml:id="ch1bibln36" data-origfile="1609"><bibl data-origfile="1609">Nat.hist.Ii.</bibl></note>
-                    <hi rend="italic" data-origfile="1609">Quamvis non sint membra quae, velunt carina, sensus invehant<seg rend='roman'>;</seg> esse tamen iis
-                        auditum, olfactum, gustatum, eximia praetereae naturae dona, solertiam</hi>
+                    <foreign rend="italic" xml:lang="la" data-origfile="1609">Quamvis non sint membra quae, velunt carina, sensus invehant<seg rend='roman'>;</seg> esse tamen iis
+                        auditum, olfactum, gustatum, eximia praetereae naturae dona, solertiam</foreign>
                     <fw type="catch" data-origfile="1609"> animum</fw><anchor xml:id="ch1ance14" data-origfile="1609" type="attachmentCollation" subtype="end" /></rdg></app></foreign>
                     </quote></p>
                 <p xml:id="ch1par35">
@@ -2601,7 +2601,7 @@
                     conceive and breed for the preservation of their sweet kinde.<app subtype="del" type="other">
                         <lem wit="#b1623" />
                         <rdg wit="#b1609" source="1609.xml#ch1ancs23 1609.xml#ch1ance23"><anchor xml:id="ch1ancs23" data-origfile="1609" type="attachmentCollation" subtype="start" />
-                    <hi rend="italic" data-origfile="1609">v.</hi>
+                    <ref targe="#ch1bibln49" data-origfile="1609"><hi rend="italic" data-origfile="1609">v.</hi></ref>
                     <note subtype="bibliographic" type="authorial" xml:id="ch1bibln49" data-origfile="1609"><ref target="#ch4sumn2" data-origfile="1609">v.c.4.n.2</ref></note><anchor xml:id="ch1ance23" data-origfile="1609" type="attachmentCollation" subtype="end" /></rdg></app> Which strange kind of breeding the Philosopher saith to be apparent unto
                     sense and reason. <note subtype="bibliographic" type="authorial" xml:id="ch1bibln58">
                         <bibl>Generat.an.l.3.c.10.</bibl>
@@ -3073,7 +3073,7 @@
                     provoked. They are also very gentle in the evenings<seg rend='roman'>;</seg> but then being wearie if
                     you stand in their way you trouble their lighting, and cause them to fall, &amp;
                     if you make them come forth when they are housed for al night, they can hardly
-                    see to get in againe. <hi rend="italic" data-origfile="1609">v.</hi><anchor xml:id="ch1ance12" data-origfile="1609" type="attachmentCollation" subtype="end" /></rdg></app>
+                    see to get in againe. <ref target="#ch1bibln34" data-origfile="1609"><hi rend="italic" data-origfile="1609">v.</hi></ref><anchor xml:id="ch1ance12" data-origfile="1609" type="attachmentCollation" subtype="end" /></rdg></app>
                 </p>
                 <app subtype="del" type="major">
                     <lem wit="#b1623" />
