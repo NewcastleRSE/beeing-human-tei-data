@@ -3688,17 +3688,17 @@
                 <p part="N" xml:id="ch5par2">
                     <note subtype="summary" type="authorial" xml:id="ch5sumn2">2. <hi rend="italic">When you may see the queene-bee.</hi>
                     </note> If any man desire to see the queene, he hath now opportunity, when she
-                    goeth forth with her swarme: <anchor xml:id="ch5ancs1x"></anchor><hi rend="italic">v.n.</hi>27<anchor xml:id="ch5ance1x"></anchor> and dead ones he may find many
+                    goeth forth with her swarme: <anchor xml:id="ch5ancs1x"></anchor><ref target="#ch5sumn27"><hi rend="italic">v.n.</hi>27</ref><anchor xml:id="ch5ance1x"></anchor> and dead ones he may find many
                     before the stooles when the stocks have cast their last swarmes,
-                    <anchor xml:id="ch5ancs1xx"></anchor><hi rend="italic">v.n.</hi>29<anchor xml:id="ch5ance1xx"></anchor>. and also when many meete in one swarme,
-                        <hi rend="italic">v.c.</hi>1.<hi rend="italic">n.</hi>7.</p>
+                    <anchor xml:id="ch5ancs1xx"></anchor><ref target="#ch5sumn29"><hi rend="italic">v.n.</hi>29</ref><anchor xml:id="ch5ance1xx"></anchor>. and also when many meete in one swarme,
+                        <ref target="#ch1sumn7"><hi rend="italic">v.c.</hi>1.<hi rend="italic">n.</hi>7.</ref></p>
                 <p part="N" xml:id="ch5par3">
                     <note subtype="summary" type="authorial" xml:id="ch5sumn3">3 <hi rend="italic">The swarme no yonger than the stocke.</hi>
                     </note> Men thinke that the swarme consisteth only of yong Bees, and that the
                     old Bees only tary behinde: but indeed (though it may seeme strange) the swarme
                     is no yonger, than the stocke: for there are in both of both sortes. The yong
                     Bees remaine in the stock with the old for their defence and for the greatest
-                    labours, <hi rend="italic">v.</hi>
+                    labours, <ref target="#ch5bibln1"><hi rend="italic">v.</hi></ref>
                     <note subtype="bibliographic" type="authorial" xml:id="ch5bibln1"><ref target="#ch1sumn55"><hi rend="italic">V.c.</hi>I.<hi rend="italic">n. 55.</hi></ref></note>&amp; the old ones go with the yonge in the swarme
                     for their aid and guidance in their worke. </p>
                 <p part="N" xml:id="ch5par4">The drones they take with them for propa- <fw type="catch">gati-</fw>
@@ -3707,7 +3707,7 @@
                         <hi rend="italic">Of the swarming of Bees</hi>
                     </fw>
                     <note subtype="bibliographic" type="authorial" xml:id="ch5bibln2"><ref target="#ch4">
-                        <hi rend="italic">v.c.</hi>4</ref></note> gation of their kinde. <hi rend="italic">v.</hi>
+                        <hi rend="italic">v.c.</hi>4</ref></note> gation of their kinde. <ref target="#ch5bibln2"><hi rend="italic">v.</hi></ref>
                     <note subtype="summary" type="authorial" xml:id="ch5sumn4">4 <hi rend="italic">Many Drones in a swarme a good signe.</hi>
                     </note> And therefore those swarmes that have many Drones wil surely prosper:
                     and if they be rathe wil swarme againe, unlesse they bee over-hived: whereas
@@ -3725,18 +3725,18 @@
                 <p part="N" xml:id="ch5par6">
                     <note subtype="bibliographic" type="authorial" xml:id="ch5bibln3"><bibl>His l.5.c.22.</bibl></note>
                     <note subtype="bibliographic" type="authorial" xml:id="ch5bibln4"><bibl>Nat hist li.XI.c.17.6</bibl></note><anchor xml:id="ch5ance1"></anchor>
-                    <hi rend="italic">Augent mella siccitates, sobolem imbres. <anchor xml:id="ch5ancs2"></anchor>Humido vere melior foetus, sicco mel
-                        copiosius.<anchor xml:id="ch5ance2"></anchor></hi>
+                    <foreign xml:lang="la" rend="italic">Augent mella siccitates, sobolem imbres. <anchor xml:id="ch5ancs2"></anchor>Humido vere melior foetus, sicco mel
+                        copiosius.<anchor xml:id="ch5ance2"></anchor></foreign>
                 </p>
                 <p part="N" xml:id="ch5par7">
                     <note subtype="summary" type="authorial" xml:id="ch5sumn6">6 <hi rend="italic">Swarming wether</hi>
                     </note> Likewise in warme and calme weather the swarmes delighte to arise, but
                     specially in a <anchor xml:id="ch5ancs3"></anchor>gloome after a showre;<anchor xml:id="ch5ance3"></anchor> in extreme hot and dry wether not so:
-                        <hi rend="italic">v</hi>
+                        <ref target="#ch5bibln5"><hi rend="italic">v</hi></ref>
                     <note subtype="bibliographic" type="authorial" xml:id="ch5bibln5"><ref target="#ch5sumn19">
                         <hi rend="italic">V.n.</hi>19.</ref></note> in so much that stals being ful and ready to swarme
                     with the first, are somtime so kept backe with cold dry windes in
-                        <hi rend="italic">Gemini,</hi> and with extreme heat &amp; drought in <hi rend="italic">Cancer,</hi>
+                        <term rend="italic">Gemini,</term> and with extreme heat &amp; drought in <term rend="italic">Cancer,</term>
                     that they have not swarmed at al that yeere.</p>
                 <p part="N" xml:id="ch5par8">
                     <note subtype="summary" type="authorial" xml:id="ch5sumn7">7 <hi rend="italic">The swarming howres</hi>
@@ -3750,16 +3750,16 @@
                     day therefore in the swarming months your Bees must continually be attended.</p>
                 <p part="N" xml:id="ch5par9">
                     <note subtype="summary" type="authorial" xml:id="ch5sumn8">8 <hi rend="italic">The two swarming monthes.</hi>
-                    </note> The swarming months are two, <hi rend="italic">Gemini</hi> and <hi rend="italic">Cancer</hi>: one
+                    </note> The swarming months are two, <term rend="italic">Gemini</term> and <term rend="italic">Cancer</term>: one
                     month before the longest day, and an other after. <anchor xml:id="ch5ancs4"></anchor>I have heard of a swarme upon
                     <persName rend="italic">S. James</persName> his day, but surely those Bees had forgot themselves.<anchor xml:id="ch5ance4"></anchor>
                         <note subtype="summary" type="authorial" xml:id="ch5sumn9">9 <hi rend="italic">Rathe swarmes.</hi>
-                    </note> Those that come<anchor xml:id="ch5ancs5"></anchor> in the ascending of the sun betweene <hi rend="italic">Gemini</hi>
-                        &amp;<hi rend="italic"> Cancer</hi><anchor xml:id="ch5ance5"></anchor> are rathe swarmes. <note subtype="summary" type="authorial" xml:id="ch5sumn10">10 <hi rend="italic">Late swarms</hi>
-                    </note> Those that come <anchor xml:id="ch5ancs6"></anchor>in the descending betweene <hi rend="italic">Cancer</hi>
-                        &amp; <hi rend="italic"> Leo</hi><anchor xml:id="ch5ance6"></anchor> are late swarmes. But there are fewe that come in the
+                    </note> Those that come<anchor xml:id="ch5ancs5"></anchor> in the ascending of the sun betweene <term rend="italic">Gemini</term>
+                        &amp;<term rend="italic"> Cancer</term><anchor xml:id="ch5ance5"></anchor> are rathe swarmes. <note subtype="summary" type="authorial" xml:id="ch5sumn10">10 <hi rend="italic">Late swarms</hi>
+                    </note> Those that come <anchor xml:id="ch5ancs6"></anchor>in the descending betweene <term rend="italic">Cancer</term>
+                        &amp; <term rend="italic"> Leo</term><anchor xml:id="ch5ance6"></anchor> are late swarmes. But there are fewe that come in the
                     first fortnight, and they very good: few also in the last fortnight, namely
-                    after <hi rend="italic">S. Peters</hi>-tide, and they <anchor xml:id="ch5ancs7"></anchor>very<anchor xml:id="ch5ance7"></anchor> bad. <anchor xml:id="ch5ancs8"></anchor>Yet<anchor xml:id="ch5ance8"></anchor> the backwardnesse of the
+                    after <emph rend="italic">S. Peters</emph>-tide, and they <anchor xml:id="ch5ancs7"></anchor>very<anchor xml:id="ch5ance7"></anchor> bad. <anchor xml:id="ch5ancs8"></anchor>Yet<anchor xml:id="ch5ance8"></anchor> the backwardnesse of the
                     yeere, when it happeneth, <anchor xml:id="ch5ancs9"></anchor>may mend them much.<anchor xml:id="ch5ance9"></anchor> </p>
                 <p part="N" xml:id="ch5par10">Those that swarme before the blowing of knap-weed, come in very
                     good time: before the blowing of blackberies they may live and doe wel: but
@@ -3769,7 +3769,7 @@
                     <anchor xml:id="ch5ancs12"></anchor>will not<anchor xml:id="ch5ance12"></anchor> swarme the next yeere. And moreover they weaken the stocks from whence
                     they came, which otherwise would swarme betime <anchor xml:id="ch5ancs13"></anchor>the yeere following:<anchor xml:id="ch5ance13"></anchor> and then one
                     such swarme is worth three of those lateward ones. Wherefore <anchor xml:id="ch5ancs14"></anchor>prevent their
-                    rising, <hi rend="italic">v.c.</hi>3.<hi rend="italic">n</hi>.32. <anchor xml:id="ch5ance14"></anchor><fw type="catch">An</fw>
+                    rising, <ref target="#ch3sumn32"><hi rend="italic">v.c.</hi>3.<hi rend="italic">n</hi>.32.</ref> <anchor xml:id="ch5ance14"></anchor><fw type="catch">An</fw>
                 </p>
 
                 <pb n="E6v"></pb>
@@ -3822,7 +3822,7 @@
                     </note> When the hives begin to be ful, they will dronie, or yeelde foorth
                     fledge drones: which is a signe that the first broode of nymphes have beene a
                     good while flying abroade, and are now able to endure both weather and labour.
-                    <anchor xml:id="ch5ancs19"></anchor><hi rend="italic">v.c.</hi>4.<hi rend="italic">n.</hi>16.<anchor xml:id="ch5ance19"></anchor></p>
+                    <anchor xml:id="ch5ancs19"></anchor><ref target="#ch4sumn16"><hi rend="italic">v.c.</hi>4.<hi rend="italic">n.</hi>16.</ref><anchor xml:id="ch5ance19"></anchor></p>
                 <p part="N" xml:id="ch5par15">Other signes of the hives fulnesse and readinesse to swarme are
                     at the hive-dore. First the Bees hovering in colde eveninges and mornings.
                     Secondlie the moistenesse or sweating uppon the stoole. Thirdly their hastye
@@ -3838,13 +3838,13 @@
                     </note> <anchor xml:id="ch5ancs21"></anchor>Sometime,<anchor xml:id="ch5ance21"></anchor> when they swarme, <anchor xml:id="ch5ancs22"></anchor>they fly away as fast as they come forth:
                     but for the most part<anchor xml:id="ch5ance22"></anchor> they first gather together without at the dore not only
                     upon the <anchor xml:id="ch5ancs23"></anchor>hivel<anchor xml:id="ch5ance23"></anchor>, but upon the stoole also: where when you see them begin to hang
-                    one upon another in swarming time <anchor xml:id="ch5ancs23x"></anchor><hi rend="italic">v.</hi>
+                    one upon another in swarming time <anchor xml:id="ch5ancs23x"></anchor><ref target="#ch5bibln6"><hi rend="italic">v.</hi></ref>
                     <note subtype="bibliographic" type="authorial" xml:id="ch5bibln6"><ref target="#ch5sumn7">
                         <hi rend="italic">v.n.</hi>7.</ref></note><anchor xml:id="ch5ance23x"></anchor> &amp; to grow into a cluster that covereth the stoole
                     in any place; then be sure they will presently rise, if the weather hold. The
                     first that come forth will increase that cluster to some fourth part of the
                     swarme and then begin they to fly away first out of the hive, and after from the
-                    cluster<anchor xml:id="ch5ancs24"></anchor>:&amp;c. <hi rend="italic">v.n.</hi>27.<anchor xml:id="ch5ance24"></anchor></p>
+                    cluster<anchor xml:id="ch5ancs24"></anchor>:&amp;c. <ref target="#ch5sumn27"><hi rend="italic">v.n.</hi>27.</ref><anchor xml:id="ch5ance24"></anchor></p>
                 <p part="N" xml:id="ch5par17">But here you must note that as to fill the <anchor xml:id="ch5ancs25"></anchor>hives<anchor xml:id="ch5ance25"></anchor> dore, or to ly
                     forth a little now and then in foggie or sultrie mornings and evnings (which is
                     because then they are most offended by heate within and can best indure the aire
@@ -3853,7 +3853,7 @@
                             is a signe they will not swarme.</hi>
                     </note> so to ly forth continually (as in extreame hot and and dry sommers they
                     use to doe) under the stock or behind the hive &amp;c. specially after
-                        <hi rend="italic">Cancer</hi> is come in, <anchor xml:id="ch5ancs27"></anchor>is a meanes to hinder their swarming<anchor xml:id="ch5ance27"></anchor>. For the
+                        <term rend="italic">Cancer</term> is come in, <anchor xml:id="ch5ancs27"></anchor>is a meanes to hinder their swarming<anchor xml:id="ch5ance27"></anchor>. For the
                     Bees knowing by nature that the greatest companies doe prosper best; until they
                     find themselves so pes <fw type="catch">tred</fw>
                     <pb n="E8r"></pb>
@@ -3868,7 +3868,7 @@
                     be, by watering and shadowing both <anchor xml:id="ch5ancs30"></anchor>them<anchor xml:id="ch5ance30"></anchor> &amp; the place where <anchor xml:id="ch5ancs31"></anchor>they stand.<anchor xml:id="ch5ance31"></anchor> </p>
                 <p part="N" xml:id="ch5par19"><anchor xml:id="ch5ancs32"></anchor>If this cause them not to keepe in; then about eight or nine of
                     the clocke in cleere and calme weather, drive them gently into their hives with
-                    your brush <hi rend="italic">v.</hi>
+                    your brush <ref target="#ch5bibln7"><hi rend="italic">v.</hi></ref>
                     <note subtype="bibliographic" type="authorial" xml:id="ch5bibln7"><ref target="#ch5sumn39">
                         <hi rend="italic">v.n.</hi>39:</ref></note><anchor xml:id="ch5ance32"></anchor> <anchor xml:id="ch5ancs33"></anchor>and ever now and then powring a little water downe
                     the forepart of the hive, keepe the doore coole and moist until either the Bees
@@ -3887,7 +3887,7 @@
                     </fw> great and timely swarmes. But if the stall be of many yeeres,<anchor xml:id="ch5ance36"></anchor> <anchor xml:id="ch5ancs37"></anchor>then<anchor xml:id="ch5ance37"></anchor> turning
                     the <anchor xml:id="ch5ancs38"></anchor>bottome<anchor xml:id="ch5ance38"></anchor> of the hive upward set a leere prepared hive fast upon it: into
                     which they wil ascend and worke and breede there as well as in the old. <anchor xml:id="ch5ancs39"></anchor>At
-                        <hi rend="italic">Libra</hi><anchor xml:id="ch5ance39"></anchor> <anchor xml:id="ch5ancs40"></anchor>you may<anchor xml:id="ch5ance40"></anchor> drive <hi rend="italic">v.</hi>
+                        <term rend="italic">Libra</term><anchor xml:id="ch5ance39"></anchor> <anchor xml:id="ch5ancs40"></anchor>you may<anchor xml:id="ch5ance40"></anchor> drive <ref target="#ch5bibln8"><hi rend="italic">v.</hi></ref>
                     <note subtype="bibliographic" type="authorial" xml:id="ch5bibln8"><ref target="#ch10p1sumn17">
                         <hi rend="italic">v.c.</hi>10.<hi rend="italic">par.</hi>1.<hi rend="italic">n.</hi>17.</ref></note> them all into the new
                     hive, and take the old for your labour. </p>
@@ -3923,16 +3923,16 @@
                         <graphic url="media/1609/diagrams/ch5/ch5fig1.svg"></graphic>
                     </figure> with more or fewer notes, as she pleaseth. And sometime she taketh a
                     higher key, specially toward their comming forth, and beginning the od minim in
-                        <hi rend="italic">Alami re</hi> shee tuneth the rest of hir notes in <hi rend="italic">C sol fa</hi>
+                        <emph rend="italic">Alami re</emph> shee tuneth the rest of hir notes in <emph rend="italic">C sol fa</emph>
                     thus, <figure>
                         <graphic url="media/1609/diagrams/ch5/ch5fig2.svg"></graphic>
                     </figure><anchor xml:id="ch5ance57"></anchor> <anchor xml:id="ch5ancs58"></anchor>But the Queene in a deeper voice thus; <figure>
                         <graphic url="media/1609/diagrams/ch5/ch5fig3.svg"></graphic>
                     </figure> continuing the same, some foure or five semi-briefes, and sounding the
-                    end of the every note in <hi rend="italic">C sol fa ut.</hi><anchor xml:id="ch5ance58"></anchor> <anchor xml:id="ch5ancs59"></anchor>So that when they sing together,
-                    sometime they agree in a <hi rend="italic">perfect third,</hi> sometime in a
-                    <hi rend="italic">Diapente</hi>, &amp; (if you respect the termination of the base) somtime
-                    in a <hi rend="italic">Diapason</hi>.<anchor xml:id="ch5ance59"></anchor> With these <anchor xml:id="ch5ancs60"></anchor>tunes<anchor xml:id="ch5ance60"></anchor> answering one another, and some <fw type="catch"> pauses</fw>
+                    end of the every note in <emph rend="italic">C sol fa ut.</emph><anchor xml:id="ch5ance58"></anchor> <anchor xml:id="ch5ancs59"></anchor>So that when they sing together,
+                    sometime they agree in a <term rend="italic">perfect third,</term> sometime in a
+                    <term rend="italic">Diapente</term>, &amp; (if you respect the termination of the base) somtime
+                    in a <term rend="italic">Diapason</term>.<anchor xml:id="ch5ance59"></anchor> With these <anchor xml:id="ch5ancs60"></anchor>tunes<anchor xml:id="ch5ance60"></anchor> answering one another, and some <fw type="catch"> pauses</fw>
                     <fw type="sig">F</fw>
                     <pb n="F1v"></pb>
                     <fw type="header">
@@ -3946,7 +3946,7 @@
                     But none dare counterfeit the voice of the Prince: for that were treason to hir
                     person. And yet sometime one of them, in hope to part the swarme, wil steal out
                     with her: but if the swarm be not parted, or being parted be put together in one
-                    hive, it costeth her hir life. <hi rend="italic">v.c.</hi>1.<hi rend="italic">n.</hi>7.<anchor xml:id="ch5ance61"></anchor></p>
+                    hive, it costeth her hir life. <ref target="#ch1sumn7"><hi rend="italic">v.c.</hi>1.<hi rend="italic">n.</hi>7.</ref><anchor xml:id="ch5ance61"></anchor></p>
                 <p part="N" xml:id="ch5par23">
                     <note subtype="summary" type="authorial" xml:id="ch5sumn26">26 <hi rend="italic">Before the Bees swarme the voices come downe to the stoole.</hi>
                     </note> In the morning before the swarme come abroad, these <anchor xml:id="ch5ancs62"></anchor>Princes<anchor xml:id="ch5ance62"></anchor> come downe
@@ -3983,7 +3983,7 @@
                             swarmes of one hive come within a fortnight</hi>
                     </note> After the second swarm I have heard a yong Lady-bee call: but the Queene
                     not willing to part with any more of hir company did not answer: and the next
-                    day she with seaven more were brought forth dead. <hi rend="italic">v</hi>
+                    day she with seaven more were brought forth dead. <ref target="#ch5bibln9"><hi rend="italic">v</hi></ref>
                     <note subtype="bibliographic" type="authorial" xml:id="ch5bibln9"><ref target="#ch1sumn7">
                         <hi rend="italic">v.c.</hi>1.<hi rend="italic">n.</hi>7.</ref></note>
                 </p>
@@ -3992,7 +3992,7 @@
                     </note> When a swarme is up, it is a common <anchor xml:id="ch5ancs64"></anchor>fashion<anchor xml:id="ch5ance64"></anchor> <anchor xml:id="ch5ancs65"></anchor>to make a harsh noise<anchor xml:id="ch5ance65"></anchor> with a
                     pan, kettle, bason, or other like <anchor xml:id="ch5ancs66"></anchor>thing<anchor xml:id="ch5ance66"></anchor>, <anchor xml:id="ch5ancs67"></anchor>thereby<anchor xml:id="ch5ance67"></anchor> to stay them from flying away.
                     <anchor xml:id="ch5ancs68"></anchor>Which indeed is no new thing, as being used in <persName rend="italic">Aristotle</persName> his time:<anchor xml:id="ch5ance68"></anchor>
-                        <hi rend="italic">Gau-</hi>
+                    <foreign xml:lang="la" rend="italic">Gau-</foreign>
                     <fw type="catch">
                         <hi rend="italic">dere</hi>
                     </fw>
@@ -4001,8 +4001,8 @@
                     <fw type="header">
                         <hi rend="italic">Of the swarming of Bees</hi>
                     </fw>
-                    <hi rend="italic">dere etiam plausu</hi> (saith he) <hi rend="italic">atque sonitu apes videntur. Quapropter
-                        tinnitu aeris, aut fictilis convocari eas in alveum ajunt.</hi> <anchor xml:id="ch5ancs69"></anchor>But for any
+                    <foreign xml:lang="la" rend="italic">dere etiam plausu</foreign> (saith he) <foreign xml:lang="la" rend="italic">atque sonitu apes videntur. Quapropter
+                        tinnitu aeris, aut fictilis convocari eas in alveum ajunt.</foreign> <anchor xml:id="ch5ancs69"></anchor>But for any
                     thing that I have observed, if it doe no hurt, it doth no good: and at the least
                     they loose their labour that use it. <anchor xml:id="ch5ance69"></anchor>If you see them begin to fly aloft, which is a
                     token that they would be gon, cast dust among them to make them come down. <anchor xml:id="ch5ancs70"></anchor>Not
@@ -4010,10 +4010,10 @@
                     before they settle,<anchor xml:id="ch5ance70"></anchor> that though you follow them never so fast, you must be
                     content to leave them, happily to the happy finder. For when you have lost the
                     sight &amp; hearing of them, you have lost all right and property in them,
-                        <hi rend="italic">Examen ex alveo tuo evolaverit, eo usque intellegitur esse tuum, donec
+                        <foreign rend="italic">Examen ex alveo tuo evolaverit, eo usque intellegitur esse tuum, donec
                         in conspectu quo est, nec difficilis persecutio eius est: alioquin
-                        occupantis est. Justinian. l.</hi> 2. <hi rend="italic">institutionum juris. tit. de re:
-                        divis.</hi>
+                        occupantis est. Justinian. l.</foreign> 2. <foreign xml:lang="la" rend="italic">institutionum juris. tit. de re:
+                        divis.</foreign>
                 </p>
                 <p part="N" xml:id="ch5par28">
                     <note subtype="summary" type="authorial" xml:id="ch5sumn31">31 <hi rend="italic">Some swarmes provide their houses aforehand</hi>
@@ -4042,9 +4042,9 @@
                     <persName rend="italic">Columella.</persName>
                     <note subtype="summary" type="authorial" xml:id="ch5sumn33">33 <hi rend="italic">Vacua alvearia stet semper parata in apiario.</hi>
                     </note>
-                    <hi rend="italic">Oportet autem vacua domicilia collocata in apiariis habere. Nam sunt
+                    <foreign xml:lang="la" rend="italic">Oportet autem vacua domicilia collocata in apiariis habere. Nam sunt
                         nonnulla examina, quae cum processerint, <ref target="#chglon1">†</ref>statim sedem
-                        sibi quaerant in proximo, eandemque occupent quam vacuam repererint</hi>. </p>
+                        sibi quaerant in proximo, eandemque occupent quam vacuam repererint</foreign>. </p>
                 <note subtype="gloss" type="authorial" xml:id="ch5glon1">†Seu potius prius quaesitam, lustratam, &amp; paratam ad eant.
                     <hi rend="italic">v.n.</hi>31.</note>
                 <p part="N" xml:id="ch5par29">
@@ -4076,9 +4076,9 @@
                     <note subtype="summary" type="authorial" xml:id="ch5sumn37">37 <hi rend="italic">How to fit the hives to the swarmes</hi>
                     </note> When you see your swarme, first <anchor xml:id="ch5ancs75"></anchor>make choice of a hive for it. If you
                     would have it to cast the next yeere, you must take a hive proportionable to the
-                    bignes &amp; time of the swarme.<anchor xml:id="ch5ance75"></anchor> A swarme <anchor xml:id="ch5ancs75x"></anchor>of the beginning of <hi rend="italic">Gemini</hi><anchor xml:id="ch5ance75x"></anchor>
+                    bignes &amp; time of the swarme.<anchor xml:id="ch5ance75"></anchor> A swarme <anchor xml:id="ch5ancs75x"></anchor>of the beginning of <term rend="italic">Gemini</term><anchor xml:id="ch5ance75x"></anchor>
                     put into a hive that conteineth <anchor xml:id="ch5ancs76"></anchor>thrise<anchor xml:id="ch5ance76"></anchor> so much as the swarme is: A swarme <anchor xml:id="ch5ancs77"></anchor>of
-                    the beginning of<anchor xml:id="ch5ance77"></anchor> <hi rend="italic">Cancer</hi> into a hive that conteineth <anchor xml:id="ch5ancs78"></anchor>twise so much<anchor xml:id="ch5ance78"></anchor>: <anchor xml:id="ch5ancs79"></anchor>And
+                    the beginning of<anchor xml:id="ch5ance77"></anchor> <term rend="italic">Cancer</term> into a hive that conteineth <anchor xml:id="ch5ancs78"></anchor>twise so much<anchor xml:id="ch5ance78"></anchor>: <anchor xml:id="ch5ancs79"></anchor>And
                     others as they come later, so let the hives bee lesse in like proportion unto
                     these: So that the Bees may fill their hive that yeere, or at the least within
                     handful or a little more, which they may <fw type="catch"> make</fw>
@@ -4087,8 +4087,8 @@
                         <hi rend="italic">and the hiving of them</hi>
                     </fw> make up the next yeere in good time. For they wil seldom swarme before the
                     hive be full.<anchor xml:id="ch5ance79"></anchor> For example: a swarme of<anchor xml:id="ch5ancs80"></anchor> a peck at the beginning of
-                        <hi rend="italic">Gemini</hi> should have a hive of three pecks: &amp; such a one at the
-                    beginning of <hi rend="italic">Cancer</hi> shoulde have a hive of halfe a bushel.<anchor xml:id="ch5ance80"></anchor> </p>
+                        <term rend="italic">Gemini</term> should have a hive of three pecks: &amp; such a one at the
+                    beginning of <term rend="italic">Cancer</term> shoulde have a hive of halfe a bushel.<anchor xml:id="ch5ance80"></anchor> </p>
                 <p part="N" xml:id="ch5par31">
                     <note subtype="summary" type="authorial" xml:id="ch5sumn38">38 <hi rend="italic">How to make your stalls great</hi>
                     </note> <anchor xml:id="ch5ancs81"></anchor>But if you desire to have great &amp; faire stals, because little ones
@@ -4097,10 +4097,10 @@
                     swarmes may at the least halfe fil them the first yeere: for then wil they
                     throughly fil them the next, and perhaps swarme: &amp; the third yeere if it be
                     kind they wil not faile. But then are they to be kept warme the first winter,
-                        <hi rend="italic">v.</hi>
+                        <ref target="#ch5bibln10"><hi rend="italic">v.</hi></ref>
                     <note subtype="bibliographic" type="authorial" xml:id="ch5bibln10"><ref target="#ch3sumn38">
                         <hi rend="italic">v.c.</hi>3 <hi rend="italic">n.</hi> 38.</ref></note> Otherwise you maie put two good
-                    swarmes togither, <hi rend="italic">v.</hi>
+                    swarmes togither, <ref target="#ch5bibln11"><hi rend="italic">v.</hi></ref>
                     <note subtype="bibliographic" type="authorial" xml:id="ch5bibln11"><ref target="#ch5sumn52">
                         <hi rend="italic">v.n.</hi>52.</ref></note> and then they wilbe able to keepe themselves warme.<anchor xml:id="ch5ance81"></anchor> </p>
                 <p part="N" xml:id="ch5par32">
@@ -4113,7 +4113,7 @@
                 <p part="N" xml:id="ch5par33">
                     <note subtype="summary" type="authorial" xml:id="ch5sumn40">40 <hi rend="italic">What the hiver must doe.</hi>
                     </note> Al things necessary thus prepared, let the hiver, which must weare no
-                    offensive apparel, <hi rend="italic">v.</hi>
+                    offensive apparel, <ref target="#ch5bibln12"><hi rend="italic">v.</hi></ref>
                     <note subtype="bibliographic" type="authorial" xml:id="ch5bibln12"><ref target="#ch1sumn25">
                         <hi rend="italic">v.c.</hi>1.<hi rend="italic">n.</hi>25.</ref></note> first drinke of the best beere, and wet
                     his hands and face therewith: and then let him go about <fw type="catch">
@@ -4125,7 +4125,7 @@
                     &amp; how he handleth them: for if hee treade upon a Bee, or by any other meanes
                     crush one of them; they presently finding it, by the ranke smel of the poisonous
                     humor, wilbe so angry; that he shal have work enough to defend him selfe,
-                    unlesse he have on his complet <anchor xml:id="ch5ancs85"></anchor>harnis,<anchor xml:id="ch5ance85"></anchor> <hi rend="italic">v.</hi>
+                    unlesse he have on his complet <anchor xml:id="ch5ancs85"></anchor>harnis,<anchor xml:id="ch5ance85"></anchor> <ref target="#ch5bibln13"><hi rend="italic">v.</hi></ref>
                     <note subtype="bibliographic" type="authorial" xml:id="ch5bibln13"><ref target="#ch1sumn38">
                         <hi rend="italic">v.c.</hi>I.<hi rend="italic">n.</hi>38.</ref></note> and being thus disquieted they wilbe
                     the worse to hive. </p>
@@ -4192,7 +4192,7 @@
                     Brush drive them up by <anchor xml:id="ch5ancs89xxxx"></anchor>troubling<anchor xml:id="ch5ance89xxxx"></anchor> still the lower and waiward part. But if you
                     have no meanes to fasten the hive by tying it above, or propping it beneath with
                     prongs or the like, <anchor xml:id="ch5ancs90x"></anchor>then must you be faine to sweepe them into the hive with the
-                    Brush (not in any wise with a goose wing <hi rend="italic">v.</hi>
+                    Brush (not in any wise with a goose wing <ref target="#ch5bibln14"><hi rend="italic">v.</hi></ref>
                     <note subtype="bibliographic" type="authorial" xml:id="ch5bibln14"><ref target="#ch1sumn23">
                         <hi rend="italic">v.c.</hi>I.<hi rend="italic">n.</hi>23.</ref></note>as some use to doe)<anchor xml:id="ch5ance90x"></anchor> and <anchor xml:id="ch5ancs100"></anchor>then setting<anchor xml:id="ch5ance100"></anchor>
                     them <anchor xml:id="ch5ancs101"></anchor>on<anchor xml:id="ch5ance101"></anchor> the Mantle and Rest under the tree <anchor xml:id="ch5ancs90xx"></anchor>trouble the place as before<fw type="catch"> If</fw>
@@ -4264,7 +4264,7 @@
                     some inconvenience wil not suffer you to doe, yet set it within the length of a
                     pearch, or at the least within sight &amp; hearing: and then lest those which
                     are least at the lighting place, by loosing their company a while, loose their
-                    lives also; first trouble them by the meanes mentioned. <hi rend="italic">n.</hi>43. &amp;
+                    lives also; first trouble them by the meanes mentioned. <ref target="#ch5sumn43"><hi rend="italic">n.</hi>43.</ref> &amp;
                     then cause some of the hived parte to arise by shaking them of the bough, and by
                     wiping them downe that are on the outside of the hive. Which, when they are up,
                     will make such a noise, that their fellows may easily finde them. And if anie
@@ -4309,21 +4309,21 @@
                     the unspleeted hive along hard by, not where it stood, but on the other side:
                     and those that remaine in it wil follow their fellows. But if the parts be
                     farther a part than a pearch, then <anchor xml:id="ch5ancs91"></anchor>drive<anchor xml:id="ch5ance91"></anchor> them togither the same night,
-                         <anchor xml:id="ch5ancs92"></anchor><hi rend="italic">v.c.</hi>10.<hi rend="italic">p.</hi>1.<hi rend="italic">n</hi>17.beginning at <hi rend="italic">late in an
-                        evening</hi>,<hi rend="italic">&amp;c.</hi> unto <hi rend="italic">and forthwith carrie</hi>, &amp; when
+                         <anchor xml:id="ch5ancs92"></anchor><ref target="#ch10p1sumn17"><hi rend="italic">v.c.</hi>10.<hi rend="italic">p.</hi>1.<hi rend="italic">n</hi>17.</ref>beginning at <emph rend="italic">late in an
+                        evening</emph>,<emph rend="italic">&amp;c.</emph> unto <emph rend="italic">and forthwith carrie</emph>, &amp; when
                     by clapping of the stranger you have gotten as many Bees forth as you can, first
                     pul out the little combe that they have made, putting it into the receiver:
                     &amp; then use the hive as the unspleeted hive.<anchor xml:id="ch5ance92"></anchor></p>
                 <p part="N" xml:id="ch5par47">
                     <note subtype="summary" type="authorial" xml:id="ch5sumn53">53 <hi rend="italic">When &amp; how to put two swarmes togither.</hi>
                     </note> In like manner when you have little swarms <anchor xml:id="ch5ancs93"></anchor>about a gawne or under<anchor xml:id="ch5ance93"></anchor>,
-                    specially after <hi rend="italic">Cancer</hi>, put two or three of them togither, whether they
+                    specially after <term rend="italic">Cancer</term>, put two or three of them togither, whether they
                     rise in the same day, or in divers: <anchor xml:id="ch5ancs94"></anchor>(but then make that the receiver which was
                     first hived.)<anchor xml:id="ch5ance94"></anchor> For being thus united they wil labour cheerefully, gather store of
                     wealth, and stoutly defend themselves against al enimies: whereas if they were
                     kept a sunder, they would surely perish the next robbing-time, or winter, or
                     living would doe you little good. <anchor xml:id="ch5ancs99"></anchor>And thus may you do to those that are good, if
-                    you desire to have them excellent good, <hi rend="italic">v.</hi>,<anchor xml:id="ch5ance99"></anchor><note subtype="bibliographic" type="authorial" xml:id="ch5bibln15"><ref target="#ch5sumn38">
+                    you desire to have them excellent good, <ref target="#ch5bibln15"><hi rend="italic">v.</hi></ref>,<anchor xml:id="ch5ance99"></anchor><note subtype="bibliographic" type="authorial" xml:id="ch5bibln15"><ref target="#ch5sumn38">
                         <hi rend="italic">v.n.</hi>38.</ref></note> and therefore if two swarmes rising at the same time
                     do weld &amp; knit togither, (as lightly they wil doe, if they be within hearing
                     one of another) never trouble your selfe <fw type="catch"> to</fw>
@@ -4333,7 +4333,7 @@
                     </fw> to part them, nor to be sorry for the chance. For those two being all one,
                     are better than three such that are alone. Wherefore they are little acquainted
                     with the nature of <anchor xml:id="ch5ancs100"></anchor>Bees<anchor xml:id="ch5ance100"></anchor> that fetch their similitudes from them to crosse that
-                    rich, mighty, renowmed, thrice happy <hi rend="italic">Union.</hi> <anchor xml:id="ch5ancs101"></anchor>In joining two swarmes
+                    rich, mighty, renowmed, thrice happy <emph rend="italic">Union.</emph> <anchor xml:id="ch5ancs101"></anchor>In joining two swarmes
                     togither use them as if they were two parts of one:<anchor xml:id="ch5ance101"></anchor> <anchor xml:id="ch5ancs102"></anchor>And if they rise in divers
                     daies, drive the later into the former.<anchor xml:id="ch5ance102"></anchor> </p>
                 <p part="N" xml:id="ch5par48">
@@ -4373,11 +4373,11 @@
                     smale line, cary the swarme to his place. <note subtype="summary" type="authorial" xml:id="ch5sumn58">58 <hi rend="italic">How to set it on his
                             seat.</hi>
                     </note> And after a while, taking away the Mantle, set it upon his seate with
-                    the dore toward the South or rather Southwest: <hi rend="italic">v.</hi>
+                    the dore toward the South or rather Southwest: <ref target="#ch5bibln16"><hi rend="italic">v.</hi></ref>
                     <note subtype="bibliographic" type="authorial" xml:id="ch5bibln16"><ref target="#ch2sumn15">
                         <hi rend="italic">V.c.</hi>2.<hi rend="italic">n</hi>.15.</ref></note> and leaving only a breathing place, for
                     feare of stifling them <anchor xml:id="ch5ancs106"></anchor>if the hive be close, then<anchor xml:id="ch5ance106"></anchor> cloome it up close, and put on
-                    a hacle <hi rend="italic">v.</hi>
+                    a hacle <ref target="#ch5bibln17"><hi rend="italic">v.</hi></ref>
                     <note subtype="bibliographic" type="authorial" xml:id="ch5bibln17"><ref target="#ch3sumn13">
                         <hi rend="italic">V.c.</hi>3.<hi rend="italic">n.</hi>13</ref>.<hi rend="italic">&amp;</hi><ref target="#ch3sumn19">19.</ref></note> and so let it stand
                     til it bee faire and warme the next day. For if the hive be least open, in the
@@ -4409,8 +4409,8 @@
                     they not wagge (though they dy for it) untill the weather bee very pleasant.
                         <note subtype="summary" type="authorial" xml:id="ch5sumn62">62 <hi rend="italic">A swarme may live 5 daies without hony.</hi>
                     </note> They may live five daies in the hive without hony: but afterward they
-                    begin to string downe hanging at one anothers heels. <hi rend="italic">Pedibus connexae ad
-                        limina pendent.</hi> Which is a certaine signe of death, if they be not
+                    begin to string downe hanging at one anothers heels. <foreign xml:lang="la" rend="italic">Pedibus connexae ad
+                        limina pendent.</foreign> Which is a certaine signe of death, if they be not
                     presently relieved <anchor xml:id="ch5ancs110"></anchor>with hony and faire weather.<anchor xml:id="ch5ance110"></anchor></p>
                 <fw type="catch"> of</fw>
             </div>
