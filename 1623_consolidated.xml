@@ -2601,7 +2601,7 @@
                     conceive and breed for the preservation of their sweet kinde.<app subtype="del" type="other">
                         <lem wit="#b1623" />
                         <rdg wit="#b1609" source="1609.xml#ch1ancs23 1609.xml#ch1ance23"><anchor xml:id="ch1ancs23" data-origfile="1609" type="attachmentCollation" subtype="start" />
-                    <ref targe="#ch1bibln49" data-origfile="1609"><hi rend="italic" data-origfile="1609">v.</hi></ref>
+                    <ref target="#ch1bibln49" data-origfile="1609"><hi rend="italic" data-origfile="1609">v.</hi></ref>
                     <note subtype="bibliographic" type="authorial" xml:id="ch1bibln49" data-origfile="1609"><ref target="#ch4sumn2" data-origfile="1609">v.c.4.n.2</ref></note><anchor xml:id="ch1ance23" data-origfile="1609" type="attachmentCollation" subtype="end" /></rdg></app> Which strange kind of breeding the Philosopher saith to be apparent unto
                     sense and reason. <note subtype="bibliographic" type="authorial" xml:id="ch1bibln58">
                         <bibl>Generat.an.l.3.c.10.</bibl>
@@ -3370,7 +3370,7 @@
                             and thrive together. </lem>
                         <rdg wit="#b1609" source="1609.xml#ch3ancs2 1609.xml#ch3ance2"><anchor xml:id="ch3ancs2" data-origfile="1609" type="attachmentCollation" subtype="start" />The hives should conteine betweene a bushel and a halfe, as the time of
                     the yeare, and quantitie of the swarme doth require: how to fit the hives to the
-                    swarmes see <hi rend="italic" data-origfile="1609">c.</hi>5 <hi rend="italic" data-origfile="1609">n.</hi>37.<anchor xml:id="ch3ance2" data-origfile="1609" type="attachmentCollation" subtype="end" /></rdg></app></p>
+                    swarmes see <ref target="#ch5sumn37" data-origfile="1609"><hi rend="italic" data-origfile="1609">c.</hi>5 <hi rend="italic" data-origfile="1609">n.</hi>37.</ref><anchor xml:id="ch3ance2" data-origfile="1609" type="attachmentCollation" subtype="end" /></rdg></app></p>
                 <p xml:id="ch3par10"><app subtype="add" type="minor">
                         <lem wit="#b1623">The midling size of three pecks, or within a pottle, under
                             or over, as fitly conteining the naturall quantity of a good stall, is
@@ -3922,7 +3922,7 @@
                     </fw> a flea in her eare. <anchor xml:id="ch3ance33" data-origfile="1609" type="attachmentCollation" subtype="end" /><anchor xml:id="ch3ancs34x" data-origfile="1609" />2. The porch serveth also to breake the force of the
                     cold winde and frost in winter, which is very hurtfull unto the Bees.<anchor xml:id="ch3ance34x" data-origfile="1609" /> 3. and<anchor xml:id="ch3ancs34v" data-origfile="1609" />
                     withall keepeth out the mise,<anchor xml:id="ch3ance34v" data-origfile="1609" /> which in winter wont to make <anchor xml:id="ch3ancs34vi" data-origfile="1609" />most<anchor xml:id="ch3ance34vi" data-origfile="1609" /> spoile.
-                        <hi rend="italic" data-origfile="1609">v</hi>
+                        <ref target="#ch3bibln9" data-origfile="1609"><hi rend="italic" data-origfile="1609">v</hi></ref>
                     <note subtype="bibliographic" type="authorial" xml:id="ch3bibln9" data-origfile="1609"><ref target="#ch7sumn4" data-origfile="1609">
                         <hi rend="italic" data-origfile="1609">v.c.</hi>7.<hi rend="italic" data-origfile="1609">n.</hi>4.</ref></note>
                 </p>
@@ -4151,7 +4151,7 @@
                         </app></seg></note>
                     <app subtype="change" type="minor">
                         <lem wit="#b1623">At <term>Gemini</term> therefore set</lem>
-                        <rdg wit="#b1609" source="1609.xml#ch3ancs39x 1609.xml#ch3ance39x"><anchor xml:id="ch3ancs39x" data-origfile="1609" type="attachmentCollation" subtype="start" />From <hi rend="italic" data-origfile="1609">Gemini</hi> to <hi rend="italic" data-origfile="1609">Leo</hi> let<anchor xml:id="ch3ance39x" data-origfile="1609" type="attachmentCollation" subtype="end" /></rdg></app> the doores <ref target="#ch3bibln22"><seg rend="italic">v</seg><seg rend="italic">:</seg></ref>
+                        <rdg wit="#b1609" source="1609.xml#ch3ancs39x 1609.xml#ch3ance39x"><anchor xml:id="ch3ancs39x" data-origfile="1609" type="attachmentCollation" subtype="start" />From <term rend="italic" data-origfile="1609">Gemini</term> to <term rend="italic" data-origfile="1609">Leo</term> let<anchor xml:id="ch3ance39x" data-origfile="1609" type="attachmentCollation" subtype="end" /></rdg></app> the doores <ref target="#ch3bibln22"><seg rend="italic">v</seg><seg rend="italic">:</seg></ref>
                     <note subtype="bibliographic" type="authorial" xml:id="ch3bibln22">
                         <ref target="#ch3sumn28"><seg rend="italic">V</seg><seg rend="italic">.</seg><seg rend="italic">n</seg><seg rend="italic">.</seg><seg rend="normal">2</seg><seg rend="normal">8</seg><seg rend="italic">.</seg></ref>
                     </note> wide open, <app subtype="change" type="minor">
@@ -4173,14 +4173,14 @@
                     it is good to <app subtype="change" type="minor">
                         <lem wit="#b1623">keepe on the hackles to coole the Hives, &amp;c. <ref target="#ch5sumn21"><seg rend="italic">v</seg><seg rend="italic">.</seg><seg rend="italic">c</seg><seg rend="italic">.</seg><seg rend="normal">5</seg><seg rend="italic">.</seg><seg rend="italic">n</seg><seg rend="italic">.</seg><seg rend="normal">2</seg><seg rend="normal">1</seg><seg rend="italic">.</seg></ref></lem>
                         <rdg wit="#b1609" source="1609.xml#ch3ancs42 1609.xml#ch3ance42"><anchor xml:id="ch3ancs42" data-origfile="1609" type="attachmentCollation" subtype="start" />coole the
-                    hives, and to put in the Bees which will then lie forth. <hi rend="italic" data-origfile="1609">v.</hi>
+                    hives, and to put in the Bees which will then lie forth. <ref target="#ch3bibln11" data-origfile="1609"><hi rend="italic" data-origfile="1609">v.</hi></ref>
                     <note subtype="bibliographic" type="authorial" xml:id="ch3bibln11" data-origfile="1609"><ref target="#ch5sumn20" data-origfile="1609">
                         <hi rend="italic" data-origfile="1609">v.c.</hi> 5 <hi rend="italic" data-origfile="1609">n.</hi> 20.</ref></note><anchor xml:id="ch3ance42" data-origfile="1609" type="attachmentCollation" subtype="end" /></rdg></app><app subtype="del" type="major">
                         <lem wit="#b1623" />
                         <rdg wit="#b1609" source="1609.xml#ch3ancs42x 1609.xml#ch3ance42x"><anchor xml:id="ch3ancs42x" data-origfile="1609" type="attachmentCollation" subtype="start" />If you then desire that any of your two-yeere stalls, which
                     have not yet swarmed, should swarme, see whether the combs reach within an inch
                     of the stoole: if they doe not, make a false bottome to reach to that scantlet.
-                        <hi rend="italic" data-origfile="1609">v.n.</hi>41.<anchor xml:id="ch3ance42x" data-origfile="1609" type="attachmentCollation" subtype="end" /></rdg></app></p>
+                        <ref target="#ch3sumn41" data-origfile="1609"><hi rend="italic" data-origfile="1609">v.n.</hi>41.</ref><anchor xml:id="ch3ance42x" data-origfile="1609" type="attachmentCollation" subtype="end" /></rdg></app></p>
                 <p xml:id="ch3par60"><note subtype="summary" type="authorial" xml:id="ch3sumn39">39. <seg rend="italic"><term><hi rend="opposite">CANCER</hi></term>.</seg></note>
                     <note subtype="summary" type="authorial" xml:id="ch3sumn40">40. <seg rend="italic">To make the Bees swarme. </seg></note>
                     <app subtype="add" type="minor">
@@ -4204,7 +4204,7 @@
                         <rdg wit="#b1609" />
                     </app><app subtype="del" type="minor">
                         <lem wit="#b1623" />
-                        <rdg wit="#b1609" source="1609.xml#ch3ancs43 1609.xml#ch3ance43"><anchor xml:id="ch3ancs43" data-origfile="1609" type="attachmentCollation" subtype="start" />For in <hi rend="italic" data-origfile="1609">Leo</hi> those that are already very full of
+                        <rdg wit="#b1609" source="1609.xml#ch3ancs43 1609.xml#ch3ance43"><anchor xml:id="ch3ancs43" data-origfile="1609" type="attachmentCollation" subtype="start" />For in <term rend="italic" data-origfile="1609">Leo</term> those that are already very full of
                     Bees, whether they be good swarmes or stockes, doe oftimes kill their later
                     brood, some fledge, some before they can fly, lest they should be thronged for
                     want of roome, knowing that then it is to late for them to goe forth in swarmes.<anchor xml:id="ch3ance43" data-origfile="1609" type="attachmentCollation" subtype="end" /></rdg></app>
@@ -4228,7 +4228,7 @@
                             cloomed to the doore. <ref target="#ch4sumn35"><seg rend="italic"> </seg><seg rend="italic">V</seg><seg rend="italic">.</seg><seg rend="italic">c</seg><seg rend="italic">.</seg><seg rend="normal">4</seg><seg rend="italic">.</seg><seg rend="italic">n</seg><seg rend="italic">.</seg><seg rend="normal">3</seg><seg rend="normal">5</seg><seg rend="italic">.</seg></ref></lem>
                         <rdg wit="#b1609" source="1609.xml#ch3ancs44 1609.xml#ch3ance44"><anchor xml:id="ch3ancs44" data-origfile="1609" type="attachmentCollation" subtype="start" />At <hi rend="italic" data-origfile="1609">Leo</hi>, when swarming is past, to the dores of the weaker
                     stalles (whether they be small swarmes, or stockes that have twise swarmed)
-                    fasten the barre <hi rend="italic" data-origfile="1609">v.</hi> with good cloome. <note subtype="bibliographic" type="authorial" xml:id="ch3bibln13" data-origfile="1609"><ref target="#ch3sumn23" data-origfile="1609">
+                    fasten the barre <ref target="#ch3bibln13" data-origfile="1609"><hi rend="italic" data-origfile="1609">v.</hi></ref> with good cloome. <note subtype="bibliographic" type="authorial" xml:id="ch3bibln13" data-origfile="1609"><ref target="#ch3sumn23" data-origfile="1609">
                         <hi rend="italic" data-origfile="1609">v.n.</hi> 23.</ref></note><anchor xml:id="ch3ance44" data-origfile="1609" type="attachmentCollation" subtype="end" /></rdg></app>
                 </p>
                 <p xml:id="ch3par63"><app subtype="del" type="reference">
@@ -4242,7 +4242,7 @@
                             they are loath to meddle with them<seg rend='roman'>;</seg> you shall doe well to helpe them
                             some warme afternoone, and then will they take the worke out of your
                             hand, and spend the lesse time about it.</lem>
-                        <rdg wit="#b1609" source="1609.xml#ch3ancs43 1609.xml#ch3ance43"><anchor xml:id="ch3ancs43" data-origfile="1609" type="attachmentCollation" subtype="start" />For in <hi rend="italic" data-origfile="1609">Leo</hi> those that are already very full of
+                        <rdg wit="#b1609" source="1609.xml#ch3ancs43 1609.xml#ch3ance43"><anchor xml:id="ch3ancs43" data-origfile="1609" type="attachmentCollation" subtype="start" />For in <term rend="italic" data-origfile="1609">Leo</term> those that are already very full of
                     Bees, whether they be good swarmes or stockes, doe oftimes kill their later
                     brood, some fledge, some before they can fly, lest they should be thronged for
                     want of roome, knowing that then it is to late for them to goe forth in swarmes.<anchor xml:id="ch3ance43" data-origfile="1609" type="attachmentCollation" subtype="end" /></rdg></app>
@@ -4270,7 +4270,7 @@
                         <rdg wit="#b1609" source="1609.xml#ch3ancs46 1609.xml#ch3ance46"><anchor xml:id="ch3ancs46" data-origfile="1609" type="attachmentCollation" subtype="start" /> <note subtype="summary" type="authorial" xml:id="ch3sumn38" data-origfile="1609">38 <hi rend="italic" data-origfile="1609">To keepe the hives from robbing.</hi>
                     </note>first bee sure that the hives be close in all places: then fasten the
                     barrs either single or double, as you shall see cause, to such hives as are full
-                    of Bees: and to the weaker sort, which were barred in <hi rend="italic" data-origfile="1609">Leo</hi>,<anchor xml:id="ch3ance46" data-origfile="1609" type="attachmentCollation" subtype="end" /></rdg></app><app subtype="change" type="major">
+                    of Bees: and to the weaker sort, which were barred in <term rend="italic" data-origfile="1609">Leo</term>,<anchor xml:id="ch3ance46" data-origfile="1609" type="attachmentCollation" subtype="end" /></rdg></app><app subtype="change" type="major">
                         <lem wit="#b1623"><note subtype="summary" type="authorial" xml:id="ch3sumn47">47. <seg rend="italic">Set up the Winter-doores. </seg></note> set up the
                             Winter-doores, and fasten them with good cloome, <ref target="#ch3bibln25"><seg rend="italic">v</seg><seg rend="italic">.</seg></ref>
                             <note subtype="bibliographic" type="authorial" xml:id="ch3bibln25"><ref target="#ch7sumn28"><seg rend="italic">V</seg><seg rend="italic">.</seg><seg rend="italic">c</seg><seg rend="italic">.</seg><seg rend="normal">7</seg><seg rend="italic">.</seg><seg rend="italic">n</seg><seg rend="italic">.</seg><seg rend="normal">2</seg><seg rend="normal">8</seg><seg rend="italic">.</seg></ref>
@@ -4297,7 +4297,7 @@
                     &amp; not to open the same the next day till the weather be warme, and the Bees
                     offer to come abroad, though it be not before 9. 0r 10. 0r 11. a clock: and then
                     you may ether open it or halfe-open it, according to the flight of your Bees.
-                        <hi rend="italic" data-origfile="1609">v.</hi>
+                        <ref target="#ch3bibln18" data-origfile="1609"><hi rend="italic" data-origfile="1609">v.</hi></ref>
                     <note subtype="bibliographic" type="authorial" xml:id="ch3bibln18" data-origfile="1609"><ref target="#ch3sumn25" data-origfile="1609">
                         <hi rend="italic" data-origfile="1609">v.n.</hi>25</ref></note><anchor xml:id="ch3ance46x" data-origfile="1609" type="attachmentCollation" subtype="end" /></p>
                 <anchor xml:id="ch3ance46x" data-origfile="1609" type="attachmentCollation" subtype="end" /></rdg></app>
@@ -4329,14 +4329,14 @@
                         <rdg wit="#b1609" />
                     </app><app subtype="del" type="major">
                         <lem wit="#b1623" />
-                        <rdg wit="#1609" source="1609.xml#ch3ancs50 1609.xml#ch3ance50"><anchor xml:id="ch3ancs50" data-origfile="1609" type="attachmentCollation" subtype="start" />at <hi rend="italic" data-origfile="1609">Virgo</hi> (for after this
+                        <rdg wit="#1609" source="1609.xml#ch3ancs50 1609.xml#ch3ance50"><anchor xml:id="ch3ancs50" data-origfile="1609" type="attachmentCollation" subtype="start" />at <term rend="italic" data-origfile="1609">Virgo</term> (for after this
                     time they gather no more wax to enlarge their <fw type="catch" data-origfile="1609"> combs</fw>
                     <pb n="D1v" data-origfile="1609" />
                     <fw type="header" data-origfile="1609">
                         <hi rend="italic" data-origfile="1609">Of the hives</hi>
                     </fw>
                     <note subtype="bibliographic" type="authorial" xml:id="ch3bibln19" data-origfile="1609"><ref target="#ch6sumn13" data-origfile="1609">
-                        <hi rend="italic" data-origfile="1609">v.c.</hi>6<hi rend="italic" data-origfile="1609">n.</hi>13</ref></note> combs. <hi rend="italic" data-origfile="1609">v.</hi>) take so much hay or
+                        <hi rend="italic" data-origfile="1609">v.c.</hi>6<hi rend="italic" data-origfile="1609">n.</hi>13</ref></note> combs. <ref target="#ch3bibln19" data-origfile="1609"><hi rend="italic" data-origfile="1609">v.</hi></ref>) take so much hay or
                     straw, as wil fill the empty part of the hive within an inch or two of the
                     combes: and wrapping the same in some old linnen cloth, so that the strawes may
                     not offend the Bees, set it upon the stoole: and then having laid thereon a
@@ -4395,7 +4395,7 @@
                     &amp; not to open the same the next day till the weather be warme, and the Bees
                     offer to come abroad, though it be not before 9. 0r 10. 0r 11. a clock: and then
                     you may ether open it or halfe-open it, according to the flight of your Bees.
-                        <hi rend="italic" data-origfile="1609">v.</hi>
+                        <ref target="#ch3bibln18" data-origfile="1609"><hi rend="italic" data-origfile="1609">v.</hi></ref>
                     <note subtype="bibliographic" type="authorial" xml:id="ch3bibln18" data-origfile="1609"><ref target="#ch3sumn25" data-origfile="1609">
                         <hi rend="italic" data-origfile="1609">v.n.</hi>25</ref></note><anchor xml:id="ch3ance46x" data-origfile="1609" type="attachmentCollation" subtype="end" /></p>
                 <anchor xml:id="ch3ance46x" data-origfile="1609" type="attachmentCollation" subtype="end" /></rdg></app>
@@ -4499,7 +4499,7 @@
                     </app><app subtype="change" type="minor">
                         <lem wit="#b1623">and prove them againe in <term>Pisces</term> and
                                 <term>Aries.</term></lem>
-                        <rdg wit="#b1609" source="1609.xml#ch3ancs56x 1609.xml#ch3ance56x"><anchor xml:id="ch3ancs56x" data-origfile="1609" type="attachmentCollation" subtype="start" />and likewise in <hi rend="italic" data-origfile="1609">Pisces</hi> and <hi rend="italic" data-origfile="1609">Aries</hi>.<anchor xml:id="ch3ance56x" data-origfile="1609" type="attachmentCollation" subtype="end" /></rdg></app>
+                        <rdg wit="#b1609" source="1609.xml#ch3ancs56x 1609.xml#ch3ance56x"><anchor xml:id="ch3ancs56x" data-origfile="1609" type="attachmentCollation" subtype="start" />and likewise in <term rend="italic" data-origfile="1609">Pisces</term> and <term rend="italic" data-origfile="1609">Aries</term>.<anchor xml:id="ch3ance56x" data-origfile="1609" type="attachmentCollation" subtype="end" /></rdg></app>
                 </p>
                 <p xml:id="ch3par73"><note subtype="summary" type="authorial" xml:id="ch3sumn54">54. <seg rend="italic">Now set up the wickets to the best, and keep the rest shut till the Bees offer to goe abroad. </seg></note> At <term>Libra</term><app subtype="add" type="minor">
                         <lem wit="#b1623">, or before you see cause,</lem>
@@ -4513,9 +4513,9 @@
                     fit time for them to gather in<seg rend='roman'>;</seg> the theeves, both Waspes &amp; Bees will be
                     abroad, seeking where they may breake in and steale. <app subtype="del" type="reference">
                         <lem wit="#b1623" />
-                        <rdg wit="#b1609" source="1609.xml#ch3ancs59 1609.xml#ch3ance59"><anchor xml:id="ch3ancs59" data-origfile="1609" type="attachmentCollation" subtype="start" /><hi rend="italic" data-origfile="1609">v.c.</hi>7<hi rend="italic" data-origfile="1609">n.</hi>26.<anchor xml:id="ch3ance59" data-origfile="1609" type="attachmentCollation" subtype="end" /></rdg></app><app subtype="add" type="minor">
+                        <rdg wit="#b1609" source="1609.xml#ch3ancs59 1609.xml#ch3ance59"><anchor xml:id="ch3ancs59" data-origfile="1609" type="attachmentCollation" subtype="start" /><ref target="#ch7sumn26" data-origfile="1609"><hi rend="italic" data-origfile="1609">v.c.</hi>7<hi rend="italic" data-origfile="1609">n.</hi>26.</ref><anchor xml:id="ch3ance59" data-origfile="1609" type="attachmentCollation" subtype="end" /></rdg></app><app subtype="add" type="minor">
                         <lem wit="#b1623">But still let the weaker have their Wickets halfe-shut. </lem>
-                        <rdg wit="#b1609" source="1609.xml#ch3ancs59 1609.xml#ch3ance59"><anchor xml:id="ch3ancs59" data-origfile="1609" type="attachmentCollation" subtype="start" /><hi rend="italic" data-origfile="1609">v.c.</hi>7<hi rend="italic" data-origfile="1609">n.</hi>26.<anchor xml:id="ch3ance59" data-origfile="1609" type="attachmentCollation" subtype="end" /></rdg></app></p>
+                        <rdg wit="#b1609" source="1609.xml#ch3ancs59 1609.xml#ch3ance59"><anchor xml:id="ch3ancs59" data-origfile="1609" type="attachmentCollation" subtype="start" /><ref target="#ch7sumn26" data-origfile="1609"><hi rend="italic" data-origfile="1609">v.c.</hi>7<hi rend="italic" data-origfile="1609">n.</hi>26.</ref><anchor xml:id="ch3ance59" data-origfile="1609" type="attachmentCollation" subtype="end" /></rdg></app></p>
                 <p xml:id="ch3par74"><note subtype="summary" type="authorial" xml:id="ch3sumn55">55. <seg rend="italic"><term><hi rend="opposite">SCORPIO</hi></term></seg></note>
                     <note subtype="summary" type="authorial" xml:id="ch3sumn56">56. <seg rend="italic">Continue the shutting and opening of the wickets this moneth also. </seg></note> This shutting
                     &amp; opening of the <app subtype="change" type="vocabulary">
@@ -4559,7 +4559,7 @@
                             Tropicke, with a short and low course above our <term> Horison,</term>
                             there follow three <term>still</term> moneths, <term>Saggitarius</term>
                             , <term>Capricornus</term>, and <term>Aquarius</term></lem>
-                        <rdg wit="#b1609" source="1609.xml#ch3ancs62x 1609.xml#ch3ance62x"><anchor xml:id="ch3ancs62x" data-origfile="1609" type="attachmentCollation" subtype="start" /><hi rend="italic" data-origfile="1609">Saggitarius, Capricorn,</hi> and <hi rend="italic" data-origfile="1609">Aquarius</hi> are the three dead months
+                        <rdg wit="#b1609" source="1609.xml#ch3ancs62x 1609.xml#ch3ance62x"><anchor xml:id="ch3ancs62x" data-origfile="1609" type="attachmentCollation" subtype="start" /><term rend="italic" data-origfile="1609">Saggitarius</term>, <term rend="italic" data-origfile="1609">Capricorn</term>, and <term rend="italic" data-origfile="1609">Aquarius</term> are the three dead months
                     of the yeere<anchor xml:id="ch3ance62x" data-origfile="1609" type="attachmentCollation" subtype="end" /></rdg></app>: <app subtype="add" type="minor">
                         <lem wit="#b1623">in which as the plants lie still in the earth waiting the
                             Sunnes returne to revive them<seg rend='roman'>;</seg></lem>
@@ -4652,7 +4652,7 @@
                             feare of a piercing night-frost, you barre them up in the evening<seg rend='roman'>;</seg> let
                             them goe againe in the morning, unlesse either snow or boysterous windes
                             forbid you.</lem>
-                        <rdg wit="#b1609" source="1609.xml#ch3ancs64xxxx 1609.xml#ch3ance64xxxx"><anchor xml:id="ch3ancs64xxxx" data-origfile="1609" type="attachmentCollation" subtype="start" />And after Saint Pauls day or mid-<hi rend="italic" data-origfile="1609">aquarius</hi>
+                        <rdg wit="#b1609" source="1609.xml#ch3ancs64xxxx 1609.xml#ch3ance64xxxx"><anchor xml:id="ch3ancs64xxxx" data-origfile="1609" type="attachmentCollation" subtype="start" />And after Saint Pauls day or mid-<term rend="italic" data-origfile="1609">aquarius</term>
                     shut them not, unles the snow lie, or the frost hold two or three daies
                     togither. And if the faire wether, that let them out, continue, so that they use
                     daily to play abroad<seg rend='roman'>;</seg><anchor xml:id="ch3ance64xxxx" data-origfile="1609" type="attachmentCollation" subtype="end" /></rdg></app>
@@ -4672,7 +4672,7 @@
                     <note subtype="summary" type="authorial" xml:id="ch3sumn65">65. <seg rend="italic">The first faire day in Pisces, set the Bees at libertie. </seg></note>
                     <app subtype="change" type="vocabulary">
                         <lem wit="#b1623">Now therefore</lem>
-                        <rdg wit="#b1609" source="1609.xml#ch3ancs64xxxxx 1609.xml#ch3ance64xxxxx"><anchor xml:id="ch3ancs64xxxxx" data-origfile="1609" type="attachmentCollation" subtype="start" />In <hi rend="italic" data-origfile="1609">Pisces</hi><anchor xml:id="ch3ance64xxxxx" data-origfile="1609" type="attachmentCollation" subtype="end" /></rdg></app>, if not sooner, <app subtype="change" type="minor">
+                        <rdg wit="#b1609" source="1609.xml#ch3ancs64xxxxx 1609.xml#ch3ance64xxxxx"><anchor xml:id="ch3ancs64xxxxx" data-origfile="1609" type="attachmentCollation" subtype="start" />In <term rend="italic" data-origfile="1609">Pisces</term><anchor xml:id="ch3ance64xxxxx" data-origfile="1609" type="attachmentCollation" subtype="end" /></rdg></app>, if not sooner, <app subtype="change" type="minor">
                         <lem wit="#b1623">the weather being faire, halfe open the wickets of the
                             better sort, and so let them stand day and night. For the night-cold,
                             being now shorter and weaker, is not dangerous to such: and the day-cold
