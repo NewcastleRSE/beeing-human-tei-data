@@ -2325,7 +2325,7 @@
                     fighting, or other sodaine happe, wherin they may need your presente helpe.
                     Your garden of herbes &amp; flowers <anchor xml:id="ch2ancs2"></anchor>is fit for the
                         purpose.<anchor xml:id="ch2ance2"></anchor>
-                    <foreign xml:lang="la" rend="italic">Hortis coronamentisque maxime alvearia &amp; apes conveniunt; res praecipus
+                    <foreign rend="italic" xml:lang="la">Hortis coronamentisque maxime alvearia &amp; apes conveniunt; res praecipus
                         quaestus compendiique cum favit.</foreign>
                     <note subtype="bibliographic" type="authorial" xml:id="ch2bibln1"><bibl>Nat.hist.li.21.c.12.</bibl></note>
                 </p>
@@ -2390,16 +2390,16 @@
                     have knowne a stall in the spring being sufficiently provided of hony, &amp;
                     having bred yong, to forsake all because of poultry that roosted in a tree over
                     them. <note subtype="bibliographic" type="authorial" xml:id="ch2bibln4"><bibl>Nat.hist.li.II.c.18.</bibl></note>
-                    <foreign xml:lang="la" rend="italic">Odere foedes odores, proculque, fugiunt</foreign>: And yet the smel of urin doth not
+                    <foreign rend="italic" xml:lang="la">Odere foedes odores, proculque, fugiunt</foreign>: And yet the smel of urin doth not
                     offend them; nay they wilbe very busy where it is shed. It is thought they use
-                    it for physike. <foreign xml:lang="la" rend="italic">Remedium contra alui concitationem est urina hominum vel
+                    it for physike. <foreign rend="italic" xml:lang="la">Remedium contra alui concitationem est urina hominum vel
                         boum.</foreign>
                 </p>
                 <p part="N" xml:id="ch2par9">
                     <note subtype="summary" type="authorial" xml:id="ch2sumn7">7 <hi rend="italic">Neither very cold in winter nor over hot in sommer.</hi>
                     </note> 4 That it be neither very cold in winter nor very hot in sommer.
                     <note subtype="bibliographic" type="authorial" xml:id="ch2bibln5"><bibl>Hist.l.9.c.40.</bibl></note>
-                    <foreign xml:lang="la" rend="italic">Locus aestate non fervidus, hyeme tepidus.</foreign> A bare flower is naught in
+                    <foreign rend="italic" xml:lang="la">Locus aestate non fervidus, hyeme tepidus.</foreign> A bare flower is naught in
                     both seasons: because in winter it is over cold and by that meanes quickly
                     chilleth the Bees that light upon it; and in sommer it causeth them to lie forth
                     through excessive heate, <ref target="#ch2bibln6"><hi rend="italic">v.</hi></ref>
@@ -6447,7 +6447,7 @@
                         fire to helpe the running. </p>
                     <p part="N" xml:id="ch10p2par3">
                         <note subtype="summary" type="authorial" xml:id="ch10p2sumn3">3 <hi rend="italic">The first shoot is fine honie.</hi>
-                        </note> The first shoot put up apart for fine hony. <foreign xml:lang="la" rend="italic">In</foreign>
+                        </note> The first shoot put up apart for fine hony. <foreign rend="italic" xml:lang="la">In</foreign>
                         <fw type="catch">
                             <hi rend="italic">omni</hi>
                         </fw>
@@ -6457,7 +6457,7 @@
                         </fw>
                         <note subtype="summary" type="authorial" xml:id="ch10p2sumn4">4 <hi rend="italic">How to know good hony.</hi>
                         </note>
-                        <foreign xml:lang="la" rend="italic">omni melle quod per se fluxit ut mustum oleumque appellaturque acaeton,
+                        <foreign rend="italic" xml:lang="la">omni melle quod per se fluxit ut mustum oleumque appellaturque acaeton,
                             maxime laudabile est</foreign>.<note subtype="bibliographic" type="authorial" xml:id="ch10p2bibln2"><bibl>Nat. hist. li. II.c.15</bibl></note> Which you
                         shall finde to have these properties: cleere, odoriferous, yelow like gold,
                         (unlesse it be virgin-hony, for that is more chrystalline) sharpe, sweet,
@@ -6465,7 +6465,7 @@
                         thin, so clammy that beeing taken up upon your fingers ende, in falling it
                         wil not part but hang downe togither like a long string, as that useth to do
                         which is clarified. <note subtype="bibliographic" type="authorial" xml:id="ch10p2bibln3"><bibl>L.I.de medicam.simp delectu.</bibl></note> And such doth
-                            <persName rend="italic">Jacobus Sylvius</persName> describe the best hony to be. <foreign xml:lang="la" rend="italic">Meloptimus
+                            <persName rend="italic">Jacobus Sylvius</persName> describe the best hony to be. <foreign rend="italic" xml:lang="la">Meloptimus
                             sit purum adeo ut totum perluceat, odorum, flavum, acerrimum,
                             dulcissimumque gustanti &amp; jucundissimum, consistentia nec crassa
                             nec liquida, sed tam sibi cohaerens ut continuitatem suam, quasi linea
@@ -6475,7 +6475,7 @@
                         </note> But alwaies the best part of this best hony is that which is lowest
                         in the vessell. For as the best oile is in the top, and the best wine in the
                         middle; so the best hony is in the bottome. <note subtype="bibliographic" type="authorial" xml:id="ch10p2bibln4"><bibl>Hist. an.l.9.c.40.</bibl></note>
-                        <foreign xml:lang="la" rend="italic">Mellis exilior pars fluitat, quae eximenda est: pura vero &amp; valida
+                        <foreign rend="italic" xml:lang="la">Mellis exilior pars fluitat, quae eximenda est: pura vero &amp; valida
                             subsidit.</foreign>
                     </p>
                     <note subtype="gloss" type="authorial" xml:id="ch10p2glon1"><hi rend="superscript">b</hi>As among liquours oile excelleth in lightnes
@@ -6709,7 +6709,7 @@
                         </note> The properties or tokens of good wax are, most yelow, sweet, fat,
                         fast or close, light, pure, and void of all other matter. <note subtype="bibliographic" type="authorial" xml:id="ch10p2bibln7"><bibl>Syl. de med.
                             simp. delectu.lib 1.</bibl></note>
-                        <foreign xml:lang="la" rend="italic">Cera sit flavissima, odorata, pinguis, coacta, levis, pura, &amp; aliena
+                        <foreign rend="italic" xml:lang="la">Cera sit flavissima, odorata, pinguis, coacta, levis, pura, &amp; aliena
                             omni materia carens.</foreign>
                     </p>
                 </div>
