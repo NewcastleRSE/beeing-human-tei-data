@@ -9485,7 +9485,7 @@
                         <hi rend="italic" data-origfile="1609">Of the Bees enimies.</hi>
                     </fw> wil sodainly flie forth, as when they swarme, &amp; that so eagerly and
                     angerly, that you may easily know they doe not play, as sometime they use to do,
-                        <hi rend="italic" data-origfile="1609">v.</hi>
+                        <ref target="#ch7bibln1" data-origfile="1609"><hi rend="italic" data-origfile="1609">v.</hi></ref>
                     <note subtype="bibliographic" type="authorial" xml:id="ch7bibln1" data-origfile="1609"><ref target="#ch1sumn57" data-origfile="1609">
                         <hi rend="italic" data-origfile="1609">V.c.</hi> I.n.57.</ref></note> when they are wel pleased: neither wil they
                     cease flying about, until he be gone. But for the most part they steale in the
@@ -9786,7 +9786,7 @@
                     </note>
                     <app subtype="change" type="minor">
                         <lem wit="#b1623">within a moneth after</lem>
-                        <rdg wit="#b1609" source="1609.xml#ch7ancs10 1609.xml#ch7ance10"><anchor xml:id="ch7ancs10" data-origfile="1609" type="attachmentCollation" subtype="start" />about <hi rend="italic" data-origfile="1609">Leo,</hi> and the spring being
+                        <rdg wit="#b1609" source="1609.xml#ch7ancs10 1609.xml#ch7ance10"><anchor xml:id="ch7ancs10" data-origfile="1609" type="attachmentCollation" subtype="start" />about <term rend="italic" data-origfile="1609">Leo,</term> and the spring being
                     hot and dry somewhat rather,<anchor xml:id="ch7ance10" data-origfile="1609" type="attachmentCollation" subtype="end" /></rdg></app> shee first appeareth: and in a while she beginneth to feed upon dead and
                     weake Bees: which she quickly cutting of in the middle with hir Fangs, first
                     carrieth away the neather-part<seg rend='roman'>;</seg> and anon fetcheth the <app subtype="change" type="vocabulary">
@@ -9796,7 +9796,7 @@
                 <p xml:id="ch7par21"><note subtype="summary" type="authorial" xml:id="ch7sumn13">13. <seg rend="italic">When she stealeth Honie. </seg></note>
                     <app subtype="change" type="minor">
                         <lem wit="#b1623">Within a moneth after hir comming abroad,</lem>
-                        <rdg wit="#b1609" source="1609.xml#ch7ancs12 1609.xml#ch7ance12"><anchor xml:id="ch7ancs12" data-origfile="1609" type="attachmentCollation" subtype="start" />About <hi rend="italic" data-origfile="1609">Virgo</hi><anchor xml:id="ch7ance12" data-origfile="1609" type="attachmentCollation" subtype="end" /></rdg></app> shee waxeth bold, and adventureth into the Hives for honie: but, by
+                        <rdg wit="#b1609" source="1609.xml#ch7ancs12 1609.xml#ch7ance12"><anchor xml:id="ch7ancs12" data-origfile="1609" type="attachmentCollation" subtype="start" />About <term rend="italic" data-origfile="1609">Virgo</term><anchor xml:id="ch7ance12" data-origfile="1609" type="attachmentCollation" subtype="end" /></rdg></app> shee waxeth bold, and adventureth into the Hives for honie: but, by
                     reason of the strangenesse of hir voice and habit, shee is descried before shee
                     come neere: And at the first (while the weather is warme, and the Bees both
                     early and late keepe watch and ward at the Hives doore) comming single against
@@ -10082,7 +10082,7 @@
                         <lem wit="#b1623">In</lem>
                         <rdg wit="#b1609" source="1609.xml#ch7ancs26 1609.xml#ch7ance26"><anchor xml:id="ch7ancs26" data-origfile="1609" type="attachmentCollation" subtype="start" />At<anchor xml:id="ch7ance26" data-origfile="1609" type="attachmentCollation" subtype="end" /></rdg></app> the Spring<app subtype="del" type="minor">
                         <lem wit="#b1623" />
-                        <rdg wit="#b1609" source="1609.xml#ch7ancs27 1609.xml#ch7ance27"><anchor xml:id="ch7ancs27" data-origfile="1609" type="attachmentCollation" subtype="start" />specially in <hi rend="italic" data-origfile="1609">Aries,</hi><anchor xml:id="ch7ance27" data-origfile="1609" type="attachmentCollation" subtype="end" /></rdg></app> they are more earnest<seg rend='roman'>;</seg> <app subtype="add" type="minor">
+                        <rdg wit="#b1609" source="1609.xml#ch7ancs27 1609.xml#ch7ance27"><anchor xml:id="ch7ancs27" data-origfile="1609" type="attachmentCollation" subtype="start" />specially in <term rend="italic" data-origfile="1609">Aries,</term><anchor xml:id="ch7ance27" data-origfile="1609" type="attachmentCollation" subtype="end" /></rdg></app> they are more earnest<seg rend='roman'>;</seg> <app subtype="add" type="minor">
                         <lem wit="#b1623">finding now fit time to fetch after that which they leaft
                             behinde at Harvest, <ref target="#ch7bibln18"><seg rend="italic"> </seg><seg rend="italic">v</seg><seg rend="italic">.</seg></ref>
                             <note subtype="bibliographic" type="authorial" xml:id="ch7bibln18">
@@ -10403,10 +10403,10 @@
                         <lem wit="#b1623" />
                         <rdg wit="#b1609" source="1609.xml#ch7ancs37 1609.xml#ch7ance37"><anchor xml:id="ch7ancs37" data-origfile="1609" type="attachmentCollation" subtype="start" />Also the freezing Easterne windes, &amp; all great frosts kil many in
                     the hives that be open, or uncovered: and therefore at such times it is good to
-                    shut them up close, <hi rend="italic" data-origfile="1609">v.</hi>
+                    shut them up close, <ref target="#ch7bibln22" data-origfile="1609"><hi rend="italic" data-origfile="1609">v.</hi></ref>
                     <note subtype="bibliographic" type="authorial" xml:id="ch7bibln22" data-origfile="1609"><ref target="#ch3sumn53" data-origfile="1609">
                         <hi rend="italic" data-origfile="1609">v.c.</hi>3.<hi rend="italic" data-origfile="1609">n.</hi>53.</ref></note> and to see them well hacled,
-                        <hi rend="italic" data-origfile="1609">v.c.</hi>3.<hi rend="italic" data-origfile="1609">n.</hi>16.<anchor xml:id="ch7ance37" data-origfile="1609" type="attachmentCollation" subtype="end" /></rdg></app><app subtype="add" type="minor">
+                        <ref target="#ch3sumn16" data-origfile="1609"><hi rend="italic" data-origfile="1609">v.c.</hi>3.<hi rend="italic" data-origfile="1609">n.</hi>16</ref>.<anchor xml:id="ch7ance37" data-origfile="1609" type="attachmentCollation" subtype="end" /></rdg></app><app subtype="add" type="minor">
                         <lem wit="#b1623">and most of all then, when, to shun the wind, they light
                             in the shade.</lem>
                         <rdg wit="#b1609" />
@@ -10441,7 +10441,7 @@
                         <lem wit="#b1623">the Hives againe.</lem>
                         <rdg wit="#b1609" source="1609.xml#ch7ancs38 1609.xml#ch7ance38"><anchor xml:id="ch7ancs38" data-origfile="1609" type="attachmentCollation" subtype="start" />them<anchor xml:id="ch7ance38" data-origfile="1609" type="attachmentCollation" subtype="end" /></rdg></app><app subtype="del" type="major">
                         <lem wit="#b1623" />
-                        <rdg wit="#b1609" source="1609.xml#ch7ancs39 1609.xml#ch7ance39"><anchor xml:id="ch7ancs39" data-origfile="1609" type="attachmentCollation" subtype="start" />and in the 3 dead months <hi rend="italic" data-origfile="1609">Sagit. Capr.&amp; Aquar.</hi> because the sun
+                        <rdg wit="#b1609" source="1609.xml#ch7ancs39 1609.xml#ch7ance39"><anchor xml:id="ch7ancs39" data-origfile="1609" type="attachmentCollation" subtype="start" />and in the 3 dead months <term rend="italic" data-origfile="1609">Sagit.</term> <term rend="italic" data-origfile="1609">Capr.</term>&amp;<term rend="italic" data-origfile="1609"> Aquar.</term> because the sun
                     is then of smale force, drie the wicker hives with fire of straw: but then you
                     must be sure they be <fw type="sig" data-origfile="1609">close</fw>
                     <pb n="I6r" data-origfile="1609" />
