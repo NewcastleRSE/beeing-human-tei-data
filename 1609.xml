@@ -84,7 +84,7 @@
                 </byline>
                 <fw type="ornament">
                     <figure>
-                        <graphic url="./media/1609/diagrams/titlepage/titlepagefig1.svg" rend="small"></graphic>
+                        <graphic rend="small" url="./media/1609/diagrams/titlepage/titlepagefig1.svg"></graphic>
                     </figure>
                 </fw>
                 <docImprint>
@@ -259,7 +259,7 @@
                 </div>
                 <anchor xml:id="ch0ancs20"></anchor><fw type="ornament">
                     <figure>
-                        <graphic url="./media/1609/diagrams/dedication/dedicationfig2.svg"/>
+                        <graphic url="./media/1609/diagrams/dedication/dedicationfig2.svg"></graphic>
                     </figure>
                 </fw><anchor xml:id="ch0ance20"></anchor>
                 <pb n="b1r"></pb>
