@@ -259,10 +259,10 @@
                 </div>
                 <anchor xml:id="ch0ancs20"></anchor><fw type="ornament">
                     <figure>
-                        <graphic url="./media/1609/diagrams/dedication/dedicationfig2.svg"></graphic>
+                        <graphic url="./media/1609/diagrams/dedication/dedicationfig2.svg" rend="small"></graphic>
                     </figure>
                 </fw><anchor xml:id="ch0ance20"></anchor>
-                <pb n="b1r"></pb>
+                <pb n="b1r" rend="hidden"></pb>
                 <div type="poem">
                     <anchor xml:id="ch0ancs21"></anchor><head>
                         <hi rend="italic">To the Author:</hi>
@@ -307,7 +307,7 @@
                     <signed><persName rend="italic">A. Crosley.</persName></signed><anchor xml:id="ch0ance21"></anchor>
                 </div>
             </div>
-            <pb n="b1v"></pb>
+            <pb n="b1v" rend="hidden"></pb>
             <div type="contents">
                 <head>
                     <hi rend="italic">The contents of this Booke</hi>
@@ -1504,8 +1504,8 @@
                     <note subtype="summary" type="authorial" xml:id="ch1sumn6">6 Bees alwaies loial to their soveraigne.</note> And al this under the
                     government of one Monarch, of whom above al things they have a principal care
                     &amp; respect, loving, reverencing, and obeying her in al things. </p>
-                <note subtype="bibliographic" type="authorial" xml:id="ch1bibln7"><bibl>Virg Geor</bibl></note>
-                <quote><lg>
+                <quote><note subtype="bibliographic" type="authorial" xml:id="ch1bibln7"><bibl>Virg Geor</bibl></note>
+                <lg xml:lang="la" rend="italic">
                         <l>Praeterea regem non sic AEgyptus &amp; ingens</l>
                         <l>Lydia, nec populi Parthorum aut Medus Hydaspes </l>
                         <l>Observant: rege incolumi mens omnibus una est:</l>
@@ -1619,8 +1619,9 @@
                     considereth must with admiration acknowledge that singular wisdome, order, and
                     government in them, which in no other creature, man only excepted (if yet to be
                     excepted) is to be found; whence some have inferred a farther matter </p>
-                <note subtype="bibliographic" type="authorial" xml:id="ch1bibln17"><bibl>Vir.Geor.4</bibl></note>
-                <quote><lg>
+                <quote>
+                    <note subtype="bibliographic" type="authorial" xml:id="ch1bibln17"><bibl>Vir.Geor.4</bibl></note>
+                    <lg xml:lang="la" rend="italic">
                         <l>His equidam signis atque haec exempla sequuti,</l>
                         <l>Esse apibus partem divinae mentis, &amp; haustus </l>
                         <l>Aethereos dixere--</l>
@@ -1847,7 +1848,7 @@
                     corrected with a cup of beere; and therefore it is not good to come among them
                     before you have drunk: thou must not be given to (4) surfeting &amp; drunkennes:
                     thou must not come (5) puffing &amp; blowing or sweating unto them, nether
-                    hastily stirre among them, nor<ref target="#ch1glon1">*</ref> violently defend thy <note subtype="gloss" type="authorial" xml:id="ch1glon1">*Which not only
+                    hastily stirre among them, nor<ref target="#ch1glon1">*</ref> violently defend thy <note subtype="gloss" type="authorial" xml:id="ch1glon1" place="inline">*Which not only
                         increaseth their anger specially in hote wether, <ref target="#ch1sumn37"><hi rend="italic">v.n.</hi>37</ref>; but
                         inciteth others to take their partes: and if by striving and striking you
                         chance <fw type="catch"> to</fw>
@@ -2166,9 +2167,10 @@
                     necessarily inferreth hereupon, is better than all the rest. <foreign rend="italic" xml:lang="la">Ex his necesse
                         est dicamus in Eucharistia verum C. corpus esse.</foreign> But if thou wilt grant
                     me that hereby is proved the incredible knowlesge &amp; skill of the Bees, for
-                    my part I wil urge thee no farther. <fw type="catch">In</fw>
+                    my part I wil urge thee no farther.
                 </p>
 
+                <fw type="catch">In</fw>
                 <pb n="B5v"></pb>
 
                 <fw type="header">
@@ -2301,7 +2303,7 @@
                 <p xml:id="ch1par42">The Bee therefore excelling in many qualities, it is fuly said
                     in the proverbe. </p>
                 <p xml:id="ch1par43">
-                    <emph rend="italic">As <list>
+                    <seg rend="italic" type="special-list-ch1">As <list>
                             <item> Profitable</item>
                             <item>Laborious</item>
                             <item>Loyall</item>
@@ -2314,7 +2316,7 @@
                             <item>Neate </item>
                             <item>Browne </item>
                             <item>Chillie</item>
-                        </list>as a Bee</emph>
+                        </list>as a Bee</seg>
                 </p>
                 <fw type="ornament"></fw>
                 <fw type="ornament"></fw>
