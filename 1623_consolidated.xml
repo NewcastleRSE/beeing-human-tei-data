@@ -526,7 +526,7 @@
                         <lem wit="#b1623" />
                         <rdg wit="#b1609" source="1609.xml#ch0ancs20 1609.xml#ch0ance20"><anchor xml:id="ch0ancs20" data-origfile="1609" type="attachmentCollation" subtype="start" /><fw type="ornament" data-origfile="1609">
                     <figure data-origfile="1609">
-                        <graphic url="./media/1609/diagrams/dedication/dedicationfig2.svg" data-origfile="1609" />
+                        <graphic rend="small" url="./media/1609/diagrams/dedication/dedicationfig2.svg" data-origfile="1609" />
                     </figure>
                 </fw><anchor xml:id="ch0ance20" data-origfile="1609" type="attachmentCollation" subtype="end" /></rdg></app>
                 </div>
