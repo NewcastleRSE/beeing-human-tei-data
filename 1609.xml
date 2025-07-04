@@ -4444,7 +4444,7 @@
                     even from <term rend="italic">Pisces</term>, or a litle before unto <term rend="italic">Sagit.</term>
                     <note subtype="summary" type="authorial" xml:id="ch6sumn3">3. <hi rend="italic">All the yeere after they loose no time</hi>
                     </note> and some yeeres somewhat after, which is full nine months, they loose no
-                    time. <foreign xml:lang="la" rend="italic">Nullus, dum per caelum licuit, perit dies.</foreign>
+                    time. <foreign rend="italic" xml:lang="la">Nullus, dum per caelum licuit, perit dies.</foreign>
                     <note subtype="bibliographic" type="authorial" xml:id="ch6bibln3"><bibl>Nat: hist, l.11 c.6.</bibl></note> But follow their <anchor xml:id="ch6ancs5"></anchor>sweet worke<anchor xml:id="ch6ance5"></anchor> tooth and
                     naile.</p>
                 <anchor xml:id="ch6ancs6"></anchor><quote><lg org="uniform" part="N" sample="complete">
@@ -4478,12 +4478,12 @@
                     of the aire, and of their hives is easily wrought into combs. This work is so
                     nimbly and closely done, that it can hardly be perceived: insomuch that
                     <persName rend="italic">Aristotle</persName> plainely confesseth. <note subtype="bibliographic" type="authorial" xml:id="ch6bibln5"><bibl>Hist.l.9.c.40.</bibl></note>
-                    <foreign xml:lang="la" rend="italic">Nec vero quemadmodum operantur visum ad huc est</foreign>
+                    <foreign rend="italic" xml:lang="la">Nec vero quemadmodum operantur visum ad huc est</foreign>
                     <note subtype="bibliographic" type="authorial" xml:id="ch6bibln6"><bibl>Nat.hist.li.II.c.16</bibl></note> But <persName rend="italic">Plinie</persName> willing to goe a little
                     beyond him telleth us a tale of a lanthorne hive made at Rome, through which
                     forsooth their doings in the hive were discried, &amp; in another place of
                     another like devise. <note subtype="bibliographic" type="authorial" xml:id="ch6bibln7"><bibl>Nat.hist.lib.31.c.14</bibl></note>
-                    <foreign xml:lang="la" rend="italic">Multi alvearia speculari lapide fecêre, ut operantes intus spectarent.</foreign>
+                    <foreign rend="italic" xml:lang="la">Multi alvearia speculari lapide fecêre, ut operantes intus spectarent.</foreign>
                     But unlesse the Bees also were transparent as well as the hive, this cannot be:
                     seeing they do alwaies frequently compasse the combes round about. A more likely
                     way than that were to have a moveable piece in one side of the hive, which when
@@ -4531,7 +4531,7 @@
                     easily conteine a Bee. Which are so artificially wrought and joined together,
                     that S. <persName rend="italic">Ambrose</persName> in the consideration thereof saith.
                     <note subtype="bibliographic" type="authorial" xml:id="ch6bibln8"><bibl>Hexamer.l.5.c.21.</bibl></note>
-                    <foreign xml:lang="la" rend="italic">Qua castra quadrata tantum, possunt habere artis &amp; gratiae, quantum
+                    <foreign rend="italic" xml:lang="la">Qua castra quadrata tantum, possunt habere artis &amp; gratiae, quantum
                         habent crates favorum, in quibus minutae ac rotundae cellulae connexione sui
                         invincem fulciuntur? Quis enim architectus eas docuit hexagoniailla
                         cellarum indiscreta laterum aequalitate componere, ac tenues inter domorum
@@ -4545,7 +4545,7 @@
                     </note> Besides these ordinary combes there is commonly one drone-comb in a
                     hive, wherein the Cephens are bred, made for the nonce with wider celles.
                     <note subtype="bibliographic" type="authorial" xml:id="ch6bibln9"><bibl>His.l.9.c.40</bibl></note>
-                    <foreign xml:lang="la" rend="italic">Sunt loculi ipsi sucorum ampliores, &amp; finguntur seorsim quoque, per se
+                    <foreign rend="italic" xml:lang="la">Sunt loculi ipsi sucorum ampliores, &amp; finguntur seorsim quoque, per se
                         favi fucorum.</foreign> Although in some hives <anchor xml:id="ch6ancs11x"></anchor>the neather parts<anchor xml:id="ch6ance11x"></anchor> of the
                     drone-combes be made out with Nymph-celles. The <fw type="catch"> drone</fw>
                     <pb n="G4r"></pb>
@@ -4575,7 +4575,7 @@
                     <note subtype="bibliographic" type="authorial" xml:id="ch6bibln10"><ref target="#ch4sumn15">
                         <hi rend="italic">v.c.</hi>4.<hi rend="italic">n.</hi>15</ref></note>
                     <note subtype="bibliographic" type="authorial" xml:id="ch6bibln11"><bibl>Nat.hist.l.II.c.II.</bibl></note>
-                    <persName rend="italic">Plinie</persName> speaketh thus of them. <foreign xml:lang="la" rend="italic">Regias imperatoribus extruunt</foreign>
+                    <persName rend="italic">Plinie</persName> speaketh thus of them. <foreign rend="italic" xml:lang="la">Regias imperatoribus extruunt</foreign>
                     <fw type="catch">
                         <hi rend="italic">amplas.</hi>
                     </fw>
@@ -4583,7 +4583,7 @@
                     <fw type="header">
                         <hi rend="italic">Of the Bees worke</hi>
                     </fw>
-                    <foreign xml:lang="la" rend="italic">amplas, magnificas, separatas, tuberculo eminentes.</foreign>
+                    <foreign rend="italic" xml:lang="la">amplas, magnificas, separatas, tuberculo eminentes.</foreign>
                     <note subtype="summary" type="authorial" xml:id="ch6sumn11">11 <hi rend="italic">The common error anent these celles.</hi>
                     </note> The common people finding them alwaies in those stalls that die, take
                     them for certain signs of death, and cal them pipes <anchor xml:id="ch6ancs13"></anchor>forsooth<anchor xml:id="ch6ance13"></anchor>, or taps: and
@@ -4612,7 +4612,7 @@
                 <p part="N" xml:id="ch6par12">
                     <note subtype="summary" type="authorial" xml:id="ch6sumn16">16 <hi rend="italic">How ambrosia or grosse hony is gathered.</hi>
                     </note> The grosse hony is gathered by their fanges: from whence is it conveied
-                    by the fore legs to the thighes of the hin-legs (<foreign xml:lang="la" rend="italic">Quae flores conportant
+                    by the fore legs to the thighes of the hin-legs (<foreign rend="italic" xml:lang="la">Quae flores conportant
                         prioribus pedibus foemina onerant propter id natura scabra, pedes priores
                         rostro: totaeque onustae remeant sar-</foreign>
                     <fw type="catch">
@@ -4622,7 +4622,7 @@
                     <fw type="header">
                         <hi rend="italic">and labour.</hi>
                     </fw>
-                    <foreign xml:lang="la" rend="italic">cina pandatae</foreign>) and so nimbly, that unlesse you have a quicke eie, you
+                    <foreign rend="italic" xml:lang="la">cina pandatae</foreign>) and so nimbly, that unlesse you have a quicke eie, you
                     can scarce perceive it. </p>
                 <note subtype="gloss" type="authorial" xml:id="ch6glon1">This worke may best be seene in the spring, when they gather upon the
                     blackthorne: for then by reason of the cold they are not so quicke.</note>
@@ -4659,7 +4659,7 @@
                     </note> a general error. For without al scruple or doubt men do count it &amp;
                     cal it wax (as did some also in time of olde, whose opinion <persName rend="italic">Aristotle</persName>
                     doth thus deliver. <note subtype="bibliographic" type="authorial" xml:id="ch6bibln13"><bibl>His.l.9.40.</bibl></note>
-                    <foreign xml:lang="la" rend="italic">Ceram apes perreptando flores capiunt priorum acumine pedum: mox priores in
+                    <foreign rend="italic" xml:lang="la">Ceram apes perreptando flores capiunt priorum acumine pedum: mox priores in
                         medios abstergunt, &amp; medios in blaesa posteriorum.</foreign>) But against (as
                     I shal shew you) both sense and reason. </p>
                 <p part="N" xml:id="ch6par15">
@@ -4704,13 +4704,13 @@
                     </note> as I have seene within a fortnight after the hiving. </p>
                 <p part="N" xml:id="ch6par19">And this though now it seeme new, yet was it knowne many ages
                     agoe. <persName rend="italic">Plinie</persName> writeth of it thus. <note subtype="bibliographic" type="authorial" xml:id="ch6bibln17"><bibl>Nat.hist.l.II.c.7.</bibl></note>
-                    <foreign xml:lang="la" rend="italic">Praeter haec</foreign> (I.<foreign xml:lang="la" rend="italic">praeter ceram &amp; nectar</foreign>)<foreign xml:lang="la" rend="italic"> convehitur
+                    <foreign rend="italic" xml:lang="la">Praeter haec</foreign> (I.<foreign rend="italic" xml:lang="la">praeter ceram &amp; nectar</foreign>)<foreign rend="italic" xml:lang="la"> convehitur
                         erithace, quam aliqui sandaracham, alii cerint hum vocant. Hic erit apum dum
                         operantur cibus: qui saepe invenitur in favorum inanitatibus sepositus; &amp;
                         ipse amari saporis.</foreign> Speaking in the last words of that which is
                     corrupted. And before him <persName rend="italic">Aristot.</persName> himselfe thus.
                     <note subtype="bibliographic" type="authorial" xml:id="ch6bibln18"><bibl>His.l.9.c.40</bibl></note>
-                    <foreign xml:lang="la" rend="italic">Mell apibus tum aestate tum hyeme cibo est: sed recondunt alterum quoque
+                    <foreign rend="italic" xml:lang="la">Mell apibus tum aestate tum hyeme cibo est: sed recondunt alterum quoque
                         cibarii genus, cui durities cerae proxima quod sandaracham non nulli
                         appellant.</foreign>
                 </p>
@@ -4726,7 +4726,7 @@
                     their legs, that they come in leere: when they are better and more heavily laden
                     than the other. These bottles, assone as they come home, they emptie into their
                     combes. <note subtype="bibliographic" type="authorial" xml:id="ch6bibln19"><bibl>Hist.an.li.c.22</bibl></note>
-                    <foreign xml:lang="la" rend="italic">Mel ore evomant in cellas.</foreign>
+                    <foreign rend="italic" xml:lang="la">Mel ore evomant in cellas.</foreign>
                     <note subtype="summary" type="authorial" xml:id="ch6sumn26">26 <hi rend="italic">At the first the Bees lay up meere nectar: afterward they mix it
                             with ambrosia.</hi>
                     </note> <anchor xml:id="ch6ancs31"></anchor>The swarmes beginning at the tops of the hives do lay up cleere
@@ -4734,7 +4734,7 @@
                     afterward they worke <term rend="italic">Ambrosia</term> and <term rend="italic">Nectar</term> together. And this is
                     the cause why the hony in the upper part of the combes differeth from the rest
                     which is alwaies yelow and soft;<anchor xml:id="ch6ance31"></anchor> <anchor xml:id="ch6ancs32"></anchor>wheras that is<anchor xml:id="ch6ance32"></anchor> is cleere as crystal at the first,
-                    hard. <foreign xml:lang="la" rend="italic">Concresit autem mel concoctum iam tempore : initio enim ut aqua
+                    hard. <foreign rend="italic" xml:lang="la">Concresit autem mel concoctum iam tempore : initio enim ut aqua
                         dilutum est, &amp; primis diebus sine crassitudine cervitur.</foreign>
                     <note subtype="bibliographic" type="authorial" xml:id="ch6bibln20"><bibl>Hist.an.l.5.c.22</bibl></note>
                 </p>
@@ -4800,7 +4800,7 @@
                     bounty hath ordained to succeed one an other. So that from <term rend="italic">Pisces</term> to
                         <term rend="italic">Sagitt.</term> there never want some plantes or other containing these
                     sweets: which the Bees featly draw from them without any hurt to the fruites:
-                    <foreign xml:lang="la" rend="italic">Fructibus nullis nocetur</foreign>
+                    <foreign rend="italic" xml:lang="la">Fructibus nullis nocetur</foreign>
                     <note subtype="bibliographic" type="authorial" xml:id="ch6bibln22"><bibl>Nat.hist.lib II.c.8.</bibl></note>
                 </p>
                 <p part="N" xml:id="ch6par26">
@@ -4853,14 +4853,14 @@
                         and best hony: and therefore in old time was accounted chiefe
                         <note subtype="bibliographic" type="authorial" xml:id="ch6bibln23"><bibl>Pl.nat.hist.l.II.c.21.</bibl></note>
                         <note subtype="bibliographic" type="authorial" xml:id="ch6bibln24"><bibl>Arist.hist.l.9.c.40.</bibl></note> Virg.G.4</note>
-                    <foreign xml:lang="la" rend="italic">Thymus aptissimus ad mellificium. Pastus gratissimus apibus thymum est. Dum
-                        Thymo pascentur apes dum rore cicadae.</foreign>)<placeName xml:lang="la" rend="italic">Himettus</placeName> in Greece, and
+                    <foreign rend="italic" xml:lang="la">Thymus aptissimus ad mellificium. Pastus gratissimus apibus thymum est. Dum
+                        Thymo pascentur apes dum rore cicadae.</foreign>)<placeName rend="italic" xml:lang="la">Himettus</placeName> in Greece, and
                         <placeName rend="italic">Hybla</placeName> in Sicile were so <fw type="catch"> famous</fw>
                     <pb n="G8v"></pb>
                     <fw type="header">
                         <hi rend="italic">Of the Bees worke,</hi>
                     </fw> famous for Bees and hony, because there grew such store of tyme
-                    <note subtype="bibliographic" type="authorial" xml:id="ch6bibln25"><bibl>Varro l.3.c.16.</bibl></note> (<foreign xml:lang="la" rend="italic">Propter hoc Siculum mel fert palmam, quod
+                    <note subtype="bibliographic" type="authorial" xml:id="ch6bibln25"><bibl>Varro l.3.c.16.</bibl></note> (<foreign rend="italic" xml:lang="la">Propter hoc Siculum mel fert palmam, quod
                         ibi thymum bonum &amp; frequeus est.</foreign>) <anchor xml:id="ch6ancs41"></anchor>The rich knapweed &amp; blackbery
                     begin, in the end of <term rend="italic">Cancer.</term><anchor xml:id="ch6ance41"></anchor>
                 </p>
@@ -4868,7 +4868,7 @@
                     <note subtype="summary" type="authorial" xml:id="ch6sumn38">38 <hi rend="italic">Of honidews.</hi>
                     </note> But the greatest plentie of the purest <term rend="italic">nectar</term> commeth from
                     above: which almightie God doth miraculously destill out of the aire
-                    (<foreign xml:lang="la" rend="italic">aeres mellis coelestia dona</foreign>)<note subtype="bibliographic" type="authorial" xml:id="ch6bibln26"><bibl>Virg.</bibl></note> &amp; hath appointed
+                    (<foreign rend="italic" xml:lang="la">aeres mellis coelestia dona</foreign>)<note subtype="bibliographic" type="authorial" xml:id="ch6bibln26"><bibl>Virg.</bibl></note> &amp; hath appointed
                     the <emph rend="italic">Oake</emph> among al the trees of the wood to receive and keepe the same
                     upon his smooth and solide leaves, until either the Bees tong or the heate of
                     the sunne have drawne it away. <note subtype="summary" type="authorial" xml:id="ch6sumn39">39 <hi rend="italic">The Bees worke most earnestly in a
@@ -4887,20 +4887,20 @@
                     </note> </p>
                 <p part="N" xml:id="ch6par34">
                     <note subtype="bibliographic" type="authorial" xml:id="ch6bibln27"><bibl>Nat.hist.li.II.c.12</bibl></note> What this <term rend="italic">mel roscidum</term> shoulde bee,
-                    <persName rend="italic">Plini</persName> seemeth much to doubt where he saith <foreign xml:lang="la" rend="italic">Sive illud sit coeli
+                    <persName rend="italic">Plini</persName> seemeth much to doubt where he saith <foreign rend="italic" xml:lang="la">Sive illud sit coeli
                         sudor sive quaedam syderum saliva,</foreign>
                     <fw type="catch"> sive</fw>
                     <pb n="H1r"></pb>
                     <fw type="header">
                         <hi rend="italic">and labour.</hi>
                     </fw>
-                    <foreign xml:lang="la" rend="italic">sive purgantis se aeris succus.</foreign> But if conjectures might be admitted. I
+                    <foreign rend="italic" xml:lang="la">sive purgantis se aeris succus.</foreign> But if conjectures might be admitted. I
                     would rather judge it to be the very quintessence of all the sweetnesse of the
                     earth (which at that time is most plentiful) drawne up, as other dewes, in
                     vapors into the third region of the aire by the exceeding and continuall heate
                     of the sun; and there concret and condensated by the nightly cold into this most
                     sweete and soveraigne <term rend="italic">nectar:</term> and then doth it descend unto the earth
-                    in a dew or smale drizling raine: that he might wel say, <foreign xml:lang="la" rend="italic">Constat materiam,
+                    in a dew or smale drizling raine: that he might wel say, <foreign rend="italic" xml:lang="la">Constat materiam,
                         ex qua melgignitur, rori esse congenerem.</foreign>
                     <note subtype="bibliographic" type="authorial" xml:id="ch6bibln28"><bibl>Gal. de aliment. l.3</bibl></note> Which opinion is the more probable, because
                     that when the yeere us backward in his fruites, the honi-dewes are also
@@ -4909,7 +4909,7 @@
                     dried and wasted, they are not. <anchor xml:id="ch6ancs43"></anchor>And this is the reason <anchor xml:id="ch6ance43"></anchor>that in more hot &amp;
                     southernly climats, where the fruites are more forward, the hony-dews are more
                     timely: as in <placeName rend="italic">Italy</placeName> before <note subtype="bibliographic" type="authorial" xml:id="ch6bibln29"><bibl>Nat hist lib II.c.12</bibl></note>
-                    <foreign xml:lang="la" rend="italic">Gemini, Non omnino</foreign>, saith <foreign xml:lang="la" rend="italic"><persName>Plinie</persName>, priis vergiliarum
+                    <foreign rend="italic" xml:lang="la">Gemini, Non omnino</foreign>, saith <foreign rend="italic" xml:lang="la"><persName>Plinie</persName>, priis vergiliarum
                         exortu</foreign>:<ref target="#ch6bibln30"><hi rend="italic">v.</hi></ref>
                     <note subtype="bibliographic" type="authorial" xml:id="ch6bibln30"><ref target="#ch10p1sumn22">
                         <hi rend="italic">V.c.</hi>10.<hi rend="italic">p.</hi>1.<hi rend="italic">n.</hi>22</ref></note> whereas with us they fal
@@ -4932,7 +4932,7 @@
                     and last daies of this month: although the continuance of hote &amp; dry weather
                     may cause them come somwhat rather, or last somwhat longer, even until mid.
                         <term rend="italic">Leo</term> or after. They may happen at any time of the day: but for the
-                    most part in the morning before it be light, <foreign xml:lang="la" rend="italic">Sub lucanis temporibus, Itaque tum
+                    most part in the morning before it be light, <foreign rend="italic" xml:lang="la">Sub lucanis temporibus, Itaque tum
                         prima aurora folia arborum melle roscida inveniuntur.</foreign>
                     <note subtype="bibliographic" type="authorial" xml:id="ch6bibln31"><bibl>Nat.hist.li.II.c.12.</bibl></note> And then shall you have the Bees up in a
                     morning assone as they can see, making such a shril noise where they go, that a
@@ -4955,7 +4955,7 @@
                     <note subtype="summary" type="authorial" xml:id="ch6sumn47">47 <hi rend="italic">The bees gather but of one kinde of of flowre in one voiage.</hi>
                     </note> And in this great variety this is strange, that where they begin they
                     wil make an end, and not meddle with any flowre of other sorte untill they have
-                    their load. <foreign xml:lang="la" rend="italic">Mos apibus ne florum plura genera petant uno eodemque profectu,
+                    their load. <foreign rend="italic" xml:lang="la">Mos apibus ne florum plura genera petant uno eodemque profectu,
                         sed singulis singula.</foreign> Insomuch as those which beginne with the flowre
                     of the vetch wil not once touch <note subtype="bibliographic" type="authorial" xml:id="ch6bibln32"><bibl>Hist.an.l.9.c.40</bibl></note>
                     <fw type="catch">the</fw>
@@ -5018,13 +5018,13 @@
                     <fw type="header">
                         <hi rend="italic">and labour.</hi>
                     </fw> water. <note subtype="summary" type="authorial" xml:id="ch6sumn51">51 <hi rend="italic">Chiefly for their breed</hi>
-                    </note> Some thinke it serveth <anchor xml:id="ch6ancs48"></anchor>chiefly<anchor xml:id="ch6ance48"></anchor> to feede their schadons. <foreign xml:lang="la" rend="italic">Aquam tum
+                    </note> Some thinke it serveth <anchor xml:id="ch6ancs48"></anchor>chiefly<anchor xml:id="ch6ance48"></anchor> to feede their schadons. <foreign rend="italic" xml:lang="la">Aquam tum
                         portant, cum prolem nutriunt</foreign>:<note subtype="bibliographic" type="authorial" xml:id="ch6bibln34"><bibl>Hist. an.l.9.c.40.</bibl></note> and that
                     not without reason, seeing that <term rend="italic">Ambrosia</term> their daily food is hot and
                     drie: and indeed when the drones are done away, and breeding is ended, the Bees
                     are nothing so frequent at the watring-places. But <persName rend="italic">Columella</persName> thinketh
                     the use thereof to be more general, <note subtype="bibliographic" type="authorial" xml:id="ch6bibln35"><bibl>De re rust. l.9.c.5.</bibl></note>
-                    <foreign xml:lang="la" rend="italic">sine qua neque favi, neque mella, nec pulli denique figurari queunt.</foreign>
+                    <foreign rend="italic" xml:lang="la">sine qua neque favi, neque mella, nec pulli denique figurari queunt.</foreign>
                 </p>
                 <p part="N" xml:id="ch6par45">
                     <note subtype="summary" type="authorial" xml:id="ch6sumn52">52 <hi rend="italic">The making of the watering place</hi>. </note> The watring-place
