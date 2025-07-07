@@ -7252,7 +7252,7 @@
                                     <l>Tinnitusque cie, &amp; matris quate cymbala circum:</l>
                                     <l>Ipsae confident medicatis sedibus, ipsae</l>
                                     <l>Intima more suo sese in cunabula condent.</l>
-                                </lg></hi><note xml:id="ch5transn2" type="editorial" subtype="translation" resp="#HH">Hence when you see the swarm now leaving its hives and swimming through the liquid summer air to the stars of heaven … call up a tinkling and shake mother Cybele’s cymbals all about: they will settle in the homes that you have sprinkled,  they will bury themselves deep in their nests after their manner. Vergil,<hi rend="italic" Georgics</hi> IV.58–9, 64–6.
+                                </lg></hi><note xml:id="ch5transn2" type="editorial" subtype="translation" resp="#HH">Hence when you see the swarm now leaving its hives and swimming through the liquid summer air to the stars of heaven … call up a tinkling and shake mother Cybele’s cymbals all about: they will settle in the homes that you have sprinkled, they will bury themselves deep in their nests after their manner. Vergil,<hi rend="italic"> Georgics</hi> IV.58–9, 64–6.
                                 </note>
                                 <note subtype="bibliographic" type="authorial" xml:id="ch5bibln32">
                                     <bibl>Georg.4.</bibl>
@@ -7265,9 +7265,9 @@
                         <rdg wit="#b1609"><ptr target="1609.xml#ch5ancs68 1609.xml#ch5ance68"></ptr></rdg>
                     </app>
                     <quote><bibl><ptr target="#ch5bibln32X1"></ptr></bibl>
-                        <foreign xml:lang="la">Gaudere etiam plausu, &amp; sonitu apes videntur.
+                        <foreign xml:lang="la" corresp="#ch5transn3"><hi rend ="italic">Gaudere etiam plausu, &amp; sonitu apes videntur.
                             Quapropter tinnitu aeris aut Fictilis convocari eas in alveum aiunt.
-                        </foreign>
+                        </hi></foreign><note xml:id="ch5transn3" type="editorial" subtype="translation" resp="#HH">Bees seem even to take pleasure in clapping and noise; consequently they say they can be summoned to their hive by the ringing of bronze or earthenware. Aristotle, <hi rend="italic">History of Animals</hi> IX.40 (627a), in Latin translation</note>
                     </quote><app subtype="del" type="minor">
                         <lem wit="#b1623"></lem>
                         <rdg wit="#b1609"><ptr target="1609.xml#ch5ancs69 1609.xml#ch5ance69"></ptr></rdg>
@@ -7286,13 +7286,16 @@
                     </app></p>
                 <app subtype="add" type="major">
                     <lem wit="#b1623"><note place="inline" subtype="gloss" type="authorial" xml:id="ch5glon8">
-                            <foreign xml:lang="la">Fugientes persequi possum in fundum alienum vel
+                            <foreign xml:lang="la" corresp="#ch5tansn4"><hi rend="opposite">Fugientes persequi possum in fundum alienum vel
                                 invito Domino ac vetante <hi rend="opposite">Lege Thesaurus § ad
                                     exhibendum</hi>. Quia ius cuique acquisitum ei conservari debet.
                                     <hi rend="opposite">Lege Patre. § de iis qui sunt.</hi> Secus si
                                 apes feras novè in alieno praedio captarem. <hi rend="opposite">§
-                                    Apium, in fine de rerum divisione.</hi></foreign>
-                        </note></lem>
+                                    Apium, in fine de rerum divisione.</hi></hi></foreign>
+                    </note><note xml:id="ch5transn4" type="editorial" subtype="translation" resp="#HH">I can pursue escapees onto another man’s estate even if its lord is unwilling or forbids it. 
+                        For the law allows to anyone that his property should be protected.
+                        It is otherwise if I should newly capture wild bees on another man’s manor.
+                    </note></lem>
                     <rdg wit="#b1609"></rdg>
                 </app>
                 <p xml:id="ch5par51">
@@ -7304,9 +7307,11 @@
                     them, happily to the happy finder. For when you have lost the sight and hearing
                     of them, you have lost al right and propertie in them. </p>
                 <note place="inline" subtype="gloss" type="authorial" xml:id="ch5glon9">
-                    <foreign xml:lang="la">Examen quod ex alveo tuo evolaverit, eousque intelligitur
+                    <foreign xml:lang="la" corresp="#ch5transn5"><hi rend="opposite">Examen quod ex alveo tuo evolaverit, eousque intelligitur
                         esse tuum, donec in conspectu tuo est, nec difficilis persecutio ejus est:
-                        alioquin occupantis est.</foreign>
+                        alioquin occupantis est.</hi></foreign><note xml:id="ch5transn5" type="editorial" subtype="translation" resp="#HH">A swarm that has flown away from your hive is still considered to be yours as long as it is within your sight and the pursuit of it is straightforward: otherwise it belongs to whoever takes possession of it.
+                            Justinian, <hi rend="italic">Institutiones</hi> II.1, ‘De rerum divisione’ §14
+                        </note>
                     <bibl><hi rend="opposite">Justinian. l.2. institutionum juris tit. de rerum
                             divisione.</hi></bibl>
                 </note>
@@ -7340,11 +7345,11 @@
                     <note subtype="summary" type="authorial" xml:id="ch5sumn41"> 41. <foreign xml:lang="la">Vacua alvearia stent semper parata in
                         Apiario.</foreign></note>
                     <quote>
-                        <foreign xml:lang="la">Oportet autem vacua domicilia collocata in apiariis
+                        <foreign xml:lang="la" corresp="#ch5transn6"><hi rend="opposite">Oportet autem vacua domicilia collocata in apiariis
                             habere. Nam sunt nonnulla examina quae cum processerint, statim sedem
                             sibi quaerant in proximo, (Seu potius prius quaesitam, lustratam, &amp;
                             paratam adeant. v.n.39.) eandemque occupent quam vacuam
-                            repererint.</foreign>
+                            repererint.</hi></foreign><note xml:id="ch5transn6" type="editorial" subtype="translation" resp="#HH">And one ought to have empty hives placed in apiaries, for there are some swarms which, when they go out, immediately look for a home for themselves in the vicinity (or rather they go to one that has been previously sought out, surveyed and made ready: see no. 39 ) and take possession of the one that they find empty. Columella, <hi rend="italic">De re rustica</hi> IX.12</note>
                         <bibl><ptr target="#ch5bibln32X2"></ptr></bibl>
                     </quote></p>
                 <fw type="catch">When</fw>
@@ -7479,9 +7484,9 @@
                                 under one Leader, in the largest Hive.<ref target="#ch3sumn6">
                                     v.c.3.n.6</ref>. Of such a number did <persName>
                                     Alexanders</persName> victorious Army consist. <bibl>For
-                                    <hi rend="italic">Diod.Sic.l.</hi>17.</bibl> reckoneth up some 48.M. with those 13500.
+                                        <ref target="#ch5ednote95" type="attachment" xml:id="ch5ednatt95"><hi rend="italic">Diod.Sic.l.17.</hi></ref></bibl><note xml:id="ch5ednote95" type="editorial" subtype="gloss" resp="#HH">Diodorus Siculus, <hi rend="italic">Bibliotheca historica</hi> XVII</note> reckoneth up some 48.M. with those 13500.
                                 leaft behinde with <persName> Antipater.</persName> And <bibl>
-                                    <hi rend="italic">Justin.l</hi>.9.</bibl> not mentioning this company, numbreth 36500.
+                                    <ref target="#ch5ednote96" type="attachment" xml:id="ch5ednatt96"><hi rend="italic">Justin.l</hi>.9.</ref></bibl><note xml:id="ch5ednote96" type="editorial" subtype="gloss" resp="#HH">Justin or Justinus, <hi rend="italic">Epitoma Historiarum Philippicarum Pompei Trogi</hi> IX</note> not mentioning this company, numbreth 36500.
                                 which number is also great enough for a very faire swarm; as
                                 conteining the quantity of two reasonable swarmes united: there
                                 being also few single swarms so good, as to amount to 30000.</lem>
