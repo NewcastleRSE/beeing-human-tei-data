@@ -232,7 +232,7 @@
                 <epigraph>
                     <app subtype="add" type="major">
                         <lem wit="#b1623"><quote><bibl>Plaut: in Trucul: Act: 2. Sc. 6. </bibl><lb></lb>
-                                Pluris est oculatus testis unus, quam auriti decem.</quote></lem>
+                            <foreign xml:lang="la" corresp="#preftransn1">Pluris est oculatus testis unus, quam auriti decem.</foreign><note xml:id="preftransn1" type="editorial" subtype="translation" resp="#HH">One witness with eyes is of more value than ten with ears. Plautus, <hi rend="italic">Truculentus</hi> 489</note></quote></lem>
                         <rdg wit="#b1609"></rdg>
                     </app>
                 </epigraph>
@@ -254,9 +254,9 @@
                 <p xml:id="frontpar1">
                     <hi rend="drop-capital">T</hi>HE great Naturalist, to expresse the excellency of
                     the nature of Bees, saith thus, <quote>
-                        <foreign xml:lang="la">Inter omnia insecta principatus Apibus, &amp; jure
+                        <foreign xml:lang="la" corresp="#preftransn2">Inter omnia insecta principatus Apibus, &amp; jure
                             praecipua admiratio; solis ex eo genere hominum causa
-                            genitis</foreign><note subtype="bibliographic" type="authorial" xml:id="frontbibln1">
+                            genitis</foreign><note xml:id="preftransn2" type="editorial" subtype="translation" rend="#HH">Among all the insects the first place belongs to the bees, and our especial admiration by right, as they are the only ones of that race that are bred for man’s interest. Pliny, <hi rend="italic">Natural History</hi> XI.11(4)</note><note subtype="bibliographic" type="authorial" xml:id="frontbibln1">
                             <bibl rend="italic">Plin.Nat.hist.l.11,ca.5.</bibl>
                         </note>
                     </quote>. Of all <foreign xml:lang="la"> insecta</foreign> the Bees are chiefe,
