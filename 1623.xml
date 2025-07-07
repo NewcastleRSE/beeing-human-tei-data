@@ -294,8 +294,8 @@
                     may well beseeme an ingenious nature. And therefore (not without cause) are the
                     Bees called the Muses birds: <quote>
                         <app subtype="add" type="minor">
-                            <lem wit="#b1623"><foreign xml:lang="la">Apes cum causa Musarum esse
-                                    dicuntur volucres.</foreign></lem>
+                            <lem wit="#b1623"><foreign xml:lang="la" corresp="#preftransn3"><hi rend="opposite">Apes cum causa Musarum esse
+                                dicuntur volucres.</hi></foreign><note xml:id="preftransn3" type="editorial" subtype="translation" resp="#HH">Bees are called with good reason the birds of the Muses. Varro, <hi rend="italic">De Re Rustica</hi> III.16.7</note></lem>
                             <rdg wit="#b1609"></rdg>
                         </app>
                         <note subtype="bibliographic" type="authorial" xml:id="frontbibln2">
@@ -308,9 +308,9 @@
                         <note subtype="bibliographic" type="authorial" xml:id="frontbibln3">
                             <bibl rend="italic">Nat Hist.l.II.c.9.</bibl>
                         </note>
-                        <foreign xml:lang="la">Ne quis</foreign> (saith he) <foreign xml:lang="la">miretur amore earum captos Aristomachum Solensem duodesexaginta annis
-                            nihil aliud egisse; Philiscum vero Thasium in desertis apes colentem <hi rend="opposite">Agrium</hi> cognomimatum: qui ambo scripsere de
-                            his</foreign></quote> . <persName>Aristotle</persName> thought his
+                        <foreign xml:lang="la" corresp="#preftransn4">Ne quis</foreign> (saith he) <foreign xml:lang="la">miretur amore earum captos Aristomachum Solensem duodesexaginta annis
+                            nihil aliud egisse; Philiscum vero Thasium in desertis apes colentem <hi rend="opposite">Agrium</hi> cognominatum: qui ambo scripsere de
+                            his</foreign><note xml:id="preftransn4" type="editorial" subtype="translation">… so that no one should be amazed at two men captivated by love of them, one of whom, Aristomachus of Soli, did nothing else for 58 years; and Philiscus of Thasos cultivated bees in the wildernesses and was surnamed Agrius; both these wrote about them. <hi rend="italic">NH</hi> XI.19(9)</note></quote>. <persName>Aristotle</persName> thought his
                             <title><hi rend="italic">Historia animalium</hi></title> unperfect,
                     unlesse he had inserted a Tract of the Nature of Bees: of which hee discourseth
                     more at large, than he doth of any other living creature. <persName>
@@ -455,7 +455,7 @@
                     kingdome of Great <placeName rend="italic">Britaine</placeName>, and be
                     entertained of all sorts both learned and unlearned: although the <hi rend="italic">Muses Birds</hi> are fittest for the <term rend="italic">
                         Muses</term>, and the knowledge of their long-hidden secrets was chiefly
-                    published for the <term rend="italic">Muses</term> friends. <foreign xml:lang="la">Quibus me, quicquid sum, &amp; studia mea dico.</foreign>
+                    published for the <term rend="italic">Muses</term> friends. <foreign xml:lang="la" corresp="#preftransn5">Quibus me, quicquid sum, &amp; studia mea dico.</foreign><note xml:id="preftransn5" type="editorial" subtype="translation">To whom I dedicate myself, for what I am worth, and my studies.</note>
                     <placeName rend="italic">Wotton</placeName>. <app subtype="change" type="major">
                         <lem wit="#b1623"><date when="1623-05-30">May 30.1623.</date></lem>
                         <rdg wit="#b1609"><ptr target="1609.xml#ch0ancs18 1609.xml#ch0ance18"></ptr></rdg>
@@ -473,7 +473,7 @@
                         <rdg wit="#b1609"><ptr target="1609.xml#ch0ancs19 1609.xml#ch0ance19"></ptr></rdg>
                     </app>
                     <app subtype="add" type="major">
-                        <lem wit="#b1623"><lg rend="italic">
+                        <lem wit="#b1623"><foreign rend="lat" corresp="#preftrans6"><lg rend="italic">
                                 <l>
                                     <hi rend="drop-capital">Q</hi> Uae natura Apibus, quae membra,
                                     scientia, sensus, </l>
@@ -492,7 +492,9 @@
                             <lg rend="italic">
                                 <l>Aut a consilijs Apibus, Butlere, fuisti,</l>
                                 <l>Aut a consilijs est Apis ipsa tuis.</l>
-                            </lg></lem>
+                            </lg></foreign><note xml:id="preftransn6" type="editorial" subtype="translation">What nature bees have, what parts of the body, understanding, senses, abilities, lifespan, characteristics, duty, what place and dwelling, offspring, swarms, abode – in these pages are found everywhere a ready way of storing up these things; what ruler they have, their populace, government, commonwealth, customs, what are their weapons, enemies, wars, fortifications, generals; how they fly quickly through fields and woods; with what skill they construct their cells, with what toil they fill them; how these gifts from heaven benefit the human race, and how they may be managed to be of more benefit still; by you these amazing wonders in miniature, for so many centuries hidden in mystery, lie unlocked and open. 
+                                Either you have been privy to the counsels of the bees, Butler, or the bee itself is privy to yours.
+                            </note></lem>
                         <rdg wit="#b1609"></rdg>
                     </app>
                     <app subtype="del" type="other">
@@ -580,18 +582,18 @@
                 </app>
                 <div type="poem" xml:lang="la">
                     <head type="poemTitle"><app subtype="add" type="other">
-                            <lem wit="#b1623">Ad Carolum Butler.</lem>
+                        <lem wit="#b1623"><foreign rend="lat" corresp="#preftransn7">Ad Carolum Butler.</foreign><note xml:id="preftransn7" type="editorial" subtype="translation">To Charles Butler</note></lem>
                             <rdg wit="#b1609"></rdg>
                         </app></head>
                     <app subtype="add" type="major">
-                        <lem wit="#b1623"><lg>
+                        <lem wit="#b1623"><foreign rend="lat"><lg>
                                 <l><hi rend="drop-capital">A</hi>Ntè mel è chartis prompsisti, ut
                                         <hi rend="opposite">Rhetor</hi>, apinum,</l>
                                 <l>At nunc mellitas promis, ut <hi rend="opposite">Histor</hi>,
                                     apes.</l>
                                 <l>Incipis ex apibus, sed &amp; in mel desinis ipsum: </l>
                                 <l>Suaviter incoeptum suavius exit opus.</l>
-                            </lg></lem>
+                        </lg><note xml:id="pretransn7" type="editorial" subtype="translation">Previously you coaxed bees’ honey, like an orator, from paper, but now, like a learned man, you produce honeyed bees. You begin with bees, but end in very honey: a work that is sweetly begun ends yet sweeter.</note></foreign></lem>
                         <rdg wit="#b1609"></rdg>
                     </app>
                     <signed><app subtype="add" type="major">
@@ -1550,14 +1552,14 @@
                     some little care and attendance, which need be no hindrance to other businesse,
                     but rather a delightfull recreation amid the same; they bring in store of sweet
                     delicates, most holesome both for meat and medicine, <quote>
-                        <foreign xml:lang="la">Fructus apum ab omnibus desideratur &amp; quaeritur:
+                        <foreign xml:lang="la" corresp="#ch1transn1">Fructus apum ab omnibus desideratur &amp; quaeritur:
                             nec pro personarum diversitate discernitur, sed indiscreta sui gratia
                             regibus pariter ac mediocribus aequali suavitate dulcescit: nec solùm
-                            voluptati, sed etiam saluti est.</foreign>
+                            voluptati, sed etiam saluti est.</foreign><note xml:id="ch1transn1" type="editorial" subtype="translation">The produce of bees is desired and sought after by all: nor is there any distinction between different kinds of people, but its grace brings sweetness without distinction to kings and lowly men alike with equal loveliness: nor is it only pleasant, but also health-giving. St Ambrose, <hi rend="italic">Hexaemeron</hi> V.21.70</note>
                         <note subtype="bibliographic" type="authorial" xml:id="ch1bibln1"><bibl>Ambrosius Hexamer. l.5.cap.21.</bibl></note></quote> And an
                     other saith, <quote>
-                        <foreign xml:lang="la">Mille ad usus vitae laborem tolerant &amp; opera
-                            conficiunt:</foreign>
+                        <foreign xml:lang="la" corresp="#ch1transn2">Mille ad usus vitae laborem tolerant &amp; opera
+                            conficiunt:</foreign><note xml:id="ch1transn2" type="editorial" subtype="translation" resp="#HH">They endure toil and make their creations for a thousand practical uses of life.<hi rend="italic"> NH</hi> XI.11(4)</note>
                         <note subtype="bibliographic" type="authorial" xml:id="ch1bibln2"><bibl>Plin. nat.hist.l.11.c.5</bibl></note></quote> as they well
                     know, who know the rare vertues of Honie and Waxe: a taste whereof I will give
                     you in the last chapter. </p>
