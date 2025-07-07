@@ -68,7 +68,7 @@
     <text>
         <front>
             <pb n="a1r"></pb>
-            <titlePage>
+            <titlePage xml:id="titlepage">
                 <docTitle>
                     <titlePart type="main">THE <lb></lb>
                         <hi rend="italic">FEMININE MONARCHIE</hi><lb></lb> OR<lb></lb> <anchor xml:id="ch0ancs1"></anchor>A TREATISE CONCERNING
@@ -93,7 +93,7 @@
             </titlePage>
             <pb n="a1v" rend="hidden"></pb>
             <pb n="a2r" rend="hidden"></pb>
-            <div type="preface">
+            <div type="preface" xml:id="preface">
                 <head>THE PREFACE<lb></lb>
                     <hi rend="italic">to the Reader.</hi>
                 </head>
@@ -224,7 +224,7 @@
                 <signed>CHAR: BVTLER.</signed>
             </div>
             <pb n="a4v" rend="hidden"></pb>
-            <div type="dedication">
+            <div type="dedication" xml:id="dedication">
                 <fw type="ornament">
                     <figure>
                         <graphic url="media/1609/diagrams/dedication/dedicationfig1.svg"></graphic>
@@ -308,7 +308,7 @@
                 </div>
             </div>
             <pb n="b1v" rend="hidden"></pb>
-            <div type="contents">
+            <div type="contents" xml:id="contents">
                 <head>
                     <hi rend="italic">The contents of this Booke</hi>
                 </head>
@@ -4453,7 +4453,7 @@
                     time. <foreign rend="italic" xml:lang="la">Nullus, dum per caelum licuit, perit dies.</foreign>
                     <note subtype="bibliographic" type="authorial" xml:id="ch6bibln3"><bibl>Nat: hist, l.11 c.6.</bibl></note> But follow their <anchor xml:id="ch6ancs5"></anchor>sweet worke<anchor xml:id="ch6ance5"></anchor> tooth and
                     naile.</p>
-                <anchor xml:id="ch6ancs6"></anchor><quote><lg>
+                <anchor xml:id="ch6ancs6"></anchor><quote><lg xml:lang="la" rend="italic">
                         <l>Ac veluti lentis Cyclopes fulmina massis</l>
                         <l>Quum properant, alii taurinis follibus auras</l>
                     <note subtype="bibliographic" type="authorial" xml:id="ch6bibln4"><bibl>Virg.</bibl></note>
@@ -4744,14 +4744,11 @@
                         dilutum est, &amp; primis diebus sine crassitudine cervitur.</foreign>
                     <note subtype="bibliographic" type="authorial" xml:id="ch6bibln20"><bibl>Hist.an.l.5.c.22</bibl></note>
                 </p>
-                <p xml:id="ch6par21">
-                    <note subtype="summary" type="authorial" xml:id="ch6sumn27">27 <hi rend="italic">Nectar of two sorts.</hi>
-                    </note>
+                <p xml:id="ch6par22"><note subtype="summary" type="authorial" xml:id="ch6sumn27">27 <hi rend="italic">Nectar of two sorts.</hi>
+                </note>
                     <note subtype="gloss" type="authorial" xml:id="ch6glon2">
                         <hi rend="italic">Stone-honie and live-hony</hi>
-                    </note>
-                </p>
-                <p xml:id="ch6par22"><anchor xml:id="ch6ancs33"></anchor>So that the <term rend="italic">Nectar</term> or liquid hony is of two sorts: one
+                    </note><anchor xml:id="ch6ancs33"></anchor>So that the <term rend="italic">Nectar</term> or liquid hony is of two sorts: one
                     hard and white even like unto sugar, which is therfore called stone-hony, or
                     corne-hony: the other so soft that it will runne, which therefore is called
                     live-hony. <anchor xml:id="ch6ance33"></anchor><note subtype="summary" type="authorial" xml:id="ch6sumn28">28 <hi rend="italic">Live-hony of two sortes</hi>
@@ -4786,7 +4783,7 @@
                     the proverbe, <emph rend="italic">Evill gotten goods are soone spent</emph>. </p>
                 <p xml:id="ch6par24">This is <anchor xml:id="ch6ancs36"></anchor>true, <ref target="#ch6glon5"><hi rend="sucperscript">d</hi></ref><anchor xml:id="ch6ance36"></anchor><term rend="italic">Nectar</term> and
                     <term rend="italic">Ambrosia</term> togither </p>
-                <note subtype="gloss" type="authorial" xml:id="ch6glon5"><anchor xml:id="ch6ancs37"></anchor><hi rend="superscript">d</hi>Wherewith Jupiter was first nourished in the Ile
+                <note subtype="gloss" type="authorial" xml:id="ch6glon5" place="inline"><anchor xml:id="ch6ancs37"></anchor><hi rend="superscript">d</hi>Wherewith Jupiter was first nourished in the Ile
                     of Crete while the <hi rend="italic">curetes</hi> hid him from Saturne. Which gave occasion to
                     the Poets of this fiction, that the Bees were his nurces. <hi rend="italic">Dictaeo caeli regem
                         pavere sub autro. Virg. Geor.</hi> 4. And afterward when they woulde make
@@ -4852,13 +4849,13 @@
                     honysuckle, red weed, white honysuckle, which they like much better than the
                     red. &amp;c. </p>
                 <p xml:id="ch6par31">
-                    <note subtype="summary" type="authorial" xml:id="ch6sumn37">37 <hi rend="italic">Cancer</hi> In <hi rend="italic">Cancer</hi> with the forenamed, the blossome of
+                    <note subtype="summary" type="authorial" xml:id="ch6sumn37">37 <hi rend="italic">Cancer</hi></note> In <hi rend="italic">Cancer</hi> with the forenamed, the blossome of
                         the vetch, as well as the leafe, benet, malows, the soveraigne time, which
                         yeeldeth only <hi rend="italic">nectar</hi>: &amp; therefore he was deceived that said
                             <hi rend="italic">crura thymo plena</hi>. Time, for the time it lasteth, yeeldeth most
                         and best hony: and therefore in old time was accounted chiefe
                         <note subtype="bibliographic" type="authorial" xml:id="ch6bibln23"><bibl>Pl.nat.hist.l.II.c.21.</bibl></note>
-                        <note subtype="bibliographic" type="authorial" xml:id="ch6bibln24"><bibl>Arist.hist.l.9.c.40.</bibl></note> Virg.G.4</note>
+                        <note subtype="bibliographic" type="authorial" xml:id="ch6bibln24"><bibl>Arist.hist.l.9.c.40.</bibl></note> <note type="authorial" subtype="bibliographic" xml:id="ch6bibln24X"><bibl>Virg.G.4</bibl></note>
                     <foreign rend="italic" xml:lang="la">Thymus aptissimus ad mellificium. Pastus gratissimus apibus thymum est. Dum
                         Thymo pascentur apes dum rore cicadae.</foreign>)<placeName rend="italic" xml:lang="la">Himettus</placeName> in Greece, and
                         <placeName rend="italic">Hybla</placeName> in Sicile were so <fw type="catch"> famous</fw>
@@ -4888,11 +4885,9 @@
                     lasteth, they are exceeding earnest plying their busines like men in harvest:
                     you may see them so thick at the hives dore passing to and fro, that oftentimes
                     they throw downe one an other for hast. </p>
-                <p xml:id="ch6par33">
-                    <note subtype="summary" type="authorial" xml:id="ch6sumn40">40 <hi rend="italic">What the honydew is</hi>
-                    </note> </p>
                 <p xml:id="ch6par34">
-                    <note subtype="bibliographic" type="authorial" xml:id="ch6bibln27"><bibl>Nat.hist.li.II.c.12</bibl></note> What this <term rend="italic">mel roscidum</term> shoulde bee,
+                    <note subtype="summary" type="authorial" xml:id="ch6sumn40">40 <hi rend="italic">What the honydew is</hi>
+                    </note><note subtype="bibliographic" type="authorial" xml:id="ch6bibln27"><bibl>Nat.hist.li.II.c.12</bibl></note> What this <term rend="italic">mel roscidum</term> shoulde bee,
                     <persName rend="italic">Plini</persName> seemeth much to doubt where he saith <foreign rend="italic" xml:lang="la">Sive illud sit coeli
                         sudor sive quaedam syderum saliva,</foreign>
                     <fw type="catch"> sive</fw>
@@ -4925,8 +4920,7 @@
                     </note> The hoter and drier the sommer is, the greater and more frequent are the
                     hony-dews: <anchor xml:id="ch6ancs44"></anchor>&amp; as they are caused through heat, so are they at the last
                     dissolved by cold: but<anchor xml:id="ch6ance44"></anchor> much raine at any time, as comming from a higher region
-                    wa- <fw type="catch">sheth</fw>
-                    <fw type="sig">H</fw>
+                    wa- <fw type="sig">H</fw><fw type="catch">sheth</fw>
                     <pb n="H1v"></pb>
                     <fw type="header">
                         <hi rend="italic">Of the Bees worke,</hi>
@@ -4993,8 +4987,7 @@
                     forsaken, in the holow truncks of marvelous huge trees. <note subtype="gloss" type="authorial" xml:id="ch6glon7">De legatione
                         Moscovitarum, &amp; Munsterus de Moscovia.</note> In so much that hony &amp;
                     waxe are the most certaine commodities of that country. Where, by that occasion,
-                    he setteth down <fw type="catch"> this</fw>
-                    <fw type="sig">H2</fw>
+                    he setteth down <fw type="sig">H2</fw><fw type="catch"> this</fw>
                     <pb n="H2v"></pb>
                     <fw type="header">
                         <hi rend="italic">Of the Bees worke</hi>
@@ -5038,7 +5031,7 @@
                         <ref target="#ch6glon11"><hi rend="superscript">d</hi></ref> defended from beasts, geese, ducks, and such
                     like. </p>
 
-                <note subtype="gloss" type="authorial" xml:id="ch6glon8"><hi rend="superscript">a</hi><note subtype="bibliographic" type="authorial" xml:id="ch6bibln36"><bibl>Virg.Geor</bibl></note><note subtype="summary" type="authorial" xml:id="ch6sumn53">53 <hi rend="italic">How to find
+                <note subtype="gloss" type="authorial" xml:id="ch6glon8" place="inline"><hi rend="superscript">a</hi><note subtype="bibliographic" type="authorial" xml:id="ch6bibln36"><bibl>Virg.Geor</bibl></note><note subtype="summary" type="authorial" xml:id="ch6sumn53">53 <hi rend="italic">How to find
                             wild Bees.</hi>
                     </note>For they wil never go far for water, if any be to be had neere hand
                         <hi rend="italic">Sub maenibus urbis aquantur.</hi> And therefore when you see Bees watring
@@ -5061,12 +5054,12 @@
                 <fw type="header">
                     <hi rend="italic">Of the Bees worke</hi>
                 </fw>
-                <note subtype="gloss" type="authorial" xml:id="ch6glon9"><hi rend="superscript">b</hi>Left the Bees flying over the water unto it be
+                <note subtype="gloss" type="authorial" xml:id="ch6glon9" place="inline"><hi rend="superscript">b</hi>Left the Bees flying over the water unto it be
                     throwne downe by tempestuous windes, &amp; so drowned: for which cause it is
                     good to lay lugs overthurt the water &amp; other staies, that recovering them
                     they may drie themselves againe, and so escape. <quote>
                         <note subtype="bibliographic" type="authorial" xml:id="ch6bibln37"><bibl>Virg. Geor.</bibl></note>
-                        <lg>
+                        <lg xml:lang="la" rend="italic">
                             <l>In medium seu stabit iners, seu profluet humor,</l>
                             <l>Transversas salices &amp; grandia conice saxa.</l>
                             <l>Pontibus ut crebris possint consistere, &amp; alas</l>
@@ -5074,13 +5067,13 @@
                             <l>Sparserit, aut praeceps Neptuno immerserit Eurus.</l>
                         </lg></quote></note>
 
-                <note subtype="gloss" type="authorial" xml:id="ch6glon10"><hi rend="superscript">c</hi>That they may safely settle upon it, and that it
+                <note subtype="gloss" type="authorial" xml:id="ch6glon10" place="inline"><hi rend="superscript">c</hi>That they may safely settle upon it, and that it
                     maie alwaies be kept moist by the neerenes of the water. For they choose rather
                     to draw their drink out of moist earth than from the water it selfe, though it
                     never be so clear: peradventure that the earth having received his earthynes,
                     which before was insensibly mixte with the water, their triple searching tongue
                     might the better trie out the pure element of water. </note>
-                <note subtype="gloss" type="authorial" xml:id="ch6glon11"><hi rend="superscript">d</hi>Which otherwise wilbe the death of many for they
+                <note subtype="gloss" type="authorial" xml:id="ch6glon11" place="inline"><hi rend="superscript">d</hi>Which otherwise wilbe the death of many for they
                     are so earnest in their businesse, that though you offer to tread upon them,
                     they will not move. </note>
                 <p xml:id="ch6par46">
@@ -5117,7 +5110,7 @@
                 </fw>
             </div>
             <fw type="ornament"></fw>
-            <pb n="H4v"></pb>
+            <pb n="H4v" rend="hidden"></pb>
             <div n="7" type="chapter" xml:id="ch7">
                 <head type="chapter-title">
                     <hi rend="italic">Of the Bees enemies.</hi>
