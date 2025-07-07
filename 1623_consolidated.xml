@@ -8370,7 +8370,7 @@
                 </app>
                 <app subtype="del" type="major">
                     <lem wit="#b1623" />
-                    <rdg wit="#b1609" source="1609.xml#ch6ancs6 1609.xml#ch6ance6"><anchor xml:id="ch6ancs6" data-origfile="1609" type="attachmentCollation" subtype="start" /><quote data-origfile="1609"><lg data-origfile="1609">
+                    <rdg wit="#b1609" source="1609.xml#ch6ancs6 1609.xml#ch6ance6"><anchor xml:id="ch6ancs6" data-origfile="1609" type="attachmentCollation" subtype="start" /><quote data-origfile="1609"><lg rend="italic" xml:lang="la" data-origfile="1609">
                         <l data-origfile="1609">Ac veluti lentis Cyclopes fulmina massis</l>
                         <l data-origfile="1609">Quum properant, alii taurinis follibus auras</l>
                     <note subtype="bibliographic" type="authorial" xml:id="ch6bibln4" data-origfile="1609"><bibl data-origfile="1609">Virg.</bibl></note>
