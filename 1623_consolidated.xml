@@ -3796,7 +3796,7 @@
                     wide.<anchor xml:id="ch3ance18xx" data-origfile="1609" type="attachmentCollation" subtype="end" /></rdg></app>
                     <app subtype="del" type="minor">
                         <lem wit="#b1623" />
-                        <rdg wit="#b1609" source="1609.xml#ch3ancs29 1609.xml#ch3ance29"><anchor xml:id="ch3ancs29" data-origfile="1609" type="attachmentCollation" subtype="start" />Unto the hive-dore there belong a barre, a <fw type="catch" data-origfile="1609">
+                        <rdg wit="#b1609" source="1609.xml#ch3ancs29 1609.xml#ch3ance29"><anchor xml:id="ch3ancs29" data-origfile="1609" type="attachmentCollation" subtype="start" />Unto the hive-dore there belong a barre, a <fw type="catch" data-origfile="1609">porch
                        </fw>
                     <pb n="C7r" data-origfile="1609" />
                     <fw type="header" data-origfile="1609">
@@ -3909,7 +3909,7 @@
                     and fro. The fashion of which porch you may best understand by the figure of one
                     ende, thus represented. </p>
                 <figure data-origfile="1609">
-                    <graphic url="media/1609/diagrams/ch3/ch3fig2.svg" data-origfile="1609" />
+                    <graphic rend="small" url="media/1609/diagrams/ch3/ch3fig2.svg" data-origfile="1609" />
                 </figure>
                 <p xml:id="ch3par25" data-origfile="1609">Out of one square sticke, an inch one way and two inches the
                     other &amp; twenty in length, you may cut halfe a skore. For great swarmes and
@@ -4280,13 +4280,7 @@
                             <note subtype="bibliographic" type="authorial" xml:id="ch3bibln25"><ref target="#ch7sumn28"><seg rend="italic">V</seg><seg rend="italic">.</seg><seg rend="italic">c</seg><seg rend="italic">.</seg><seg rend="normal">7</seg><seg rend="italic">.</seg><seg rend="italic">n</seg><seg rend="italic">.</seg><seg rend="normal">2</seg><seg rend="normal">8</seg><seg rend="italic">.</seg></ref>
                                 <ref target="ch7sumn47"><seg rend="normal">4</seg><seg rend="normal">7</seg><seg rend="italic">.</seg></ref>
                             </note> and see that the Hives bee close in all places.</lem>
-                        <rdg wit="#b1609" source="1609.xml#ch3ancs46x 1609.xml#ch3ance46x"><p xml:id="ch3par36" data-origfile="1609">
-                    
-                    <note subtype="bibliographic" type="authorial" xml:id="ch3bibln16" data-origfile="1609"><ref target="#ch7sumn26" data-origfile="1609">
-                        <hi rend="italic" data-origfile="1609">v.c.7.n.26.</hi>
-                    </ref></note>
-                </p>
-                <p xml:id="ch3par37" data-origfile="1609">
+                        <rdg wit="#b1609" source="1609.xml#ch3ancs46x 1609.xml#ch3ance46x"><p xml:id="ch3par37" data-origfile="1609">
                     <note subtype="summary" type="authorial" xml:id="ch3sumn39" data-origfile="1609">39 <hi rend="italic" data-origfile="1609">Set up the porch to the weaker.</hi>
                     </note>
                     <note subtype="bibliographic" type="authorial" xml:id="ch3bibln17" data-origfile="1609"><ref target="#ch3sumn25" data-origfile="1609">
@@ -4378,13 +4372,7 @@
                             <note subtype="bibliographic" type="authorial" xml:id="ch3bibln28">
                                 <ref target="#ch3sumn33"><seg rend="italic">V</seg><seg rend="italic">.</seg><seg rend="italic">n</seg><seg rend="italic">.</seg><seg rend="italic"> </seg><seg rend="normal">3</seg><seg rend="normal">3</seg><seg rend="italic">.</seg></ref>
                             </note></lem>
-                        <rdg wit="#b1609" source="1609.xml#ch3ancs46x 1609.xml#ch3ance46x"><p xml:id="ch3par36" data-origfile="1609">
-                    
-                    <note subtype="bibliographic" type="authorial" xml:id="ch3bibln16" data-origfile="1609"><ref target="#ch7sumn26" data-origfile="1609">
-                        <hi rend="italic" data-origfile="1609">v.c.7.n.26.</hi>
-                    </ref></note>
-                </p>
-                <p xml:id="ch3par37" data-origfile="1609">
+                        <rdg wit="#b1609" source="1609.xml#ch3ancs46x 1609.xml#ch3ance46x"><p xml:id="ch3par37" data-origfile="1609">
                     <note subtype="summary" type="authorial" xml:id="ch3sumn39" data-origfile="1609">39 <hi rend="italic" data-origfile="1609">Set up the porch to the weaker.</hi>
                     </note>
                     <note subtype="bibliographic" type="authorial" xml:id="ch3bibln17" data-origfile="1609"><ref target="#ch3sumn25" data-origfile="1609">
