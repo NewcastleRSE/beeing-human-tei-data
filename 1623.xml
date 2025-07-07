@@ -5739,7 +5739,7 @@
                         <rdg wit="#b1609"><ptr target="1609.xml#ch5ancs1 1609.xml#ch5ance1"></ptr></rdg>
                     </app></p>
                 <p xml:id="ch5par5x"><quote>
-                        <foreign xml:lang="la">Augent mella siccitates, sobolem imbres.<app subtype="del" type="minor">
+                    <foreign xml:lang="la" corresp="ch5transn1"><hi rend="opposite">Augent mella siccitates, sobolem imbres.</hi><note xml:id="ch5transn1" type="editorial" subtype="translation" resp="#HH">Dry spells increase the amount of honey, rainstorms the number of bees. Pliny the Elder, <hi rend="italic">Natural History</hi> XI.18(17)</note><app subtype="del" type="minor">
                                 <lem wit="#b1623"></lem>
                                 <rdg wit="#b1609"><ptr target="1609.xml#ch5ancs2 1609.xml#ch5ance2"></ptr></rdg>
                             </app></foreign>
@@ -7246,13 +7246,14 @@
                 <p xml:id="ch5par48"><app subtype="add" type="major">
                         <lem wit="#b1623">And before him <persName>Virgil,</persName>
                             <quote>
-                                <lg xml:lang="la">
+                                <hi rend="opposite"><lg xml:lang="la" corresp="#ch5transn2">
                                     <l> Hinc ubi jam emissum caveis ad sidera coeli </l>
                                     <l>Nare per aestatem liquidam suspexeris agmen, &amp;c.</l>
                                     <l>Tinnitusque cie, &amp; matris quate cymbala circum:</l>
                                     <l>Ipsae confident medicatis sedibus, ipsae</l>
                                     <l>Intima more suo sese in cunabula condent.</l>
-                                </lg>
+                                </lg></hi><note xml:id="ch5transn2" type="editorial" subtype="translation" resp="#HH">Hence when you see the swarm now leaving its hives and swimming through the liquid summer air to the stars of heaven … call up a tinkling and shake mother Cybele’s cymbals all about: they will settle in the homes that you have sprinkled,  they will bury themselves deep in their nests after their manner. Vergil,<hi rend="italic" Georgics</hi> IV.58–9, 64–6.
+                                </note>
                                 <note subtype="bibliographic" type="authorial" xml:id="ch5bibln32">
                                     <bibl>Georg.4.</bibl>
                                 </note></quote></lem>
