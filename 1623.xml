@@ -1567,7 +1567,7 @@
                 <pb n="B1v"></pb>
                 <fw type="header"> Of the Nature and properties of Bees, </fw>
                 <p xml:id="ch1par3"><note subtype="summary" type="authorial" xml:id="ch1sumn2">2.
-                        Every Countrey fit for Bees.</note> Secondly, whereas <foreign xml:lang="la">non omnis fert omnia tellus,</foreign> some Countrey yeeldeth one fruit,
+                    Every Countrey fit for Bees.</note> Secondly, whereas <foreign xml:lang="la" corresp="#ch1transn3">non omnis fert omnia tellus,</foreign><note xml:id="ch1transn3" type="editorial" subtype="gloss" resp="#HH">Not every country bears all things. cf. Vergil, <hi rend="italic">Eclogues</hi> IV.39 </note> some Countrey yeeldeth one fruit,
                     some an other; some beareth one graine, some an other; some breedeth one kinde
                     of Cattle, some an other; there is no ground (of what nature soever it be,
                     whether it be hot or cold, wet or dry, hill or dale, woodland or champian,
@@ -1579,8 +1579,8 @@
                     both of the one and of the other. For unlesse they be let by weather, weaknesse,
                     or want of matter to worke on, their labour never ceaseth. In admiration
                     whereof, one saith, <quote>
-                        <foreign xml:lang="la">Quos efficaciae industriaeque tantae comparemus
-                            nervos? Quas vires? Quos ratione medius fidius viros?</foreign>
+                        <foreign xml:lang="la" corresp="#ch1transn4">Quos efficaciae industriaeque tantae comparemus
+                            nervos? Quas vires? Quos ratione medius fidius viros?</foreign><note xml:id="ch1transn4" type="editorial" subtype="translation" resp="#HH">Whose sinews may we offer for comparison with such great efficacy and industry? or what strength? What men, for heaven’s sake, can we match with them in terms of rationality? <hi rend="italic">NH</hi> XI.12(4)</note>
                         <note subtype="bibliographic" type="authorial" xml:id="ch1bibln3"><bibl>
                                 Plin.nat.hist.l.11.c.5.</bibl></note>
                     </quote>
@@ -1588,13 +1588,13 @@
                         Common-wealth.</note> And for their order, it is such, that they may well
                     bee said to have a Common-wealth, since all that they doe is in common, without
                     any private respect. <note subtype="bibliographic" type="authorial" xml:id="ch1bibln4"><bibl>Nat.hist.li.11.c.5</bibl></note>
-                    <foreign xml:lang="la">Nihil norunt nisi commune:</foreign> They worke for all,
+                    <foreign xml:lang="la" corresp="#ch1transn5">Nihil norunt nisi commune:</foreign><note xml:id="ch1transn5" type="editorial" subtype="translation" resp="#HH">They know nothing but the common interest. <hi rend="italic">NH</hi> XI.12(4)</note> They worke for all,
                     they watch for all, they fight for all. <note subtype="summary" type="authorial" xml:id="ch1sumn5"> 5. Their working, watching, fighting, dwelling, dyet,
                         wealth, and young ones are all in common.</note> In their private quarrels,
                     when they are from the Hive or common treasury, howsoever you use them, they
-                    will not resist, if by any meanes they can get away. <foreign xml:lang="la">Cum
+                    will not resist, if by any meanes they can get away. <foreign xml:lang="la" corresp="#ch1transn6">Cum
                         ruri sint, nec sibi invicem, nec ullis alijs nocent; at verò apud suos
-                        alveos pugnant acerrimè</foreign>. Their dwelling and dyet are common to all
+                        alveos pugnant acerrimè</foreign>.<note xml:id="ch1transn6" type="editorial" subtype="translation">When they are out and about they do no harm to each other nor to any others; but indeed around their own hives they fight most viciously.<hi rend="italic"> Historia Animalium </hi> IX.40 (626a)</note> Their dwelling and dyet are common to all
                     alike: they have like common care both of their wealth and young ones. <note subtype="bibliographic" type="authorial" xml:id="ch1bibln5">
                         <bibl>Arist.hist.anim.lib.9.cap.40.</bibl></note>
                     <note subtype="bibliographic" type="authorial" xml:id="ch1bibln6"><bibl>Ambr.Hex.lib.5.cap.21.<app subtype="add" type="reference">
@@ -1602,10 +1602,10 @@
                                 <rdg wit="#b1609"></rdg>
                             </app></bibl></note>
                     <quote>
-                        <foreign xml:lang="la">Solae in omni genere animantium communem omnibus
+                        <foreign xml:lang="la" corresp="#ch1trans7">Solae in omni genere animantium communem omnibus
                             sobolem habent, unam omnes incolunt mansionem, unius patriae clauduntur
                             limine, in commune omnibus labor, communis cibus, communis operatio,
-                            communis usus, &amp; fructus est.</foreign></quote>
+                            communis usus, &amp; fructus est.</foreign><note xml:id="ch1transn7" type="editorial" subtype="gloss">Alone of all kinds of living things they hold their offspring common to all; they all inhabit one dwelling place, they are enclosed within the borders of one homeland, their industry is common to all, their food is common, their work is common, the use and enjoyment of their property is common. Ambrose, <hi rend="italic">Hexaemeron</hi> V.20.67; cf Basil, <hi rend="italic">Homilies on the Hexaemeron</hi> VIII.4</note></quote>
                     <note subtype="summary" type="authorial" xml:id="ch1sumn6"> 6. Bees alwaies
                         loyall to their Soveraigne.</note> And all this under the government of one
                     Monarch, of whom above all things they have a principall care and respect,
