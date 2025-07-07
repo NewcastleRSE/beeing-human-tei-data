@@ -3143,7 +3143,7 @@
                     <note subtype="summary" type="authorial" xml:id="ch3sumn60">60 <hi rend="italic">In</hi> TAUR: <hi rend="italic">remove the porches</hi>
                     </note> At <term rend="italic">Taurus</term>, &amp; sooner, if sooner you see cause,<ref target="#ch3glon1"><hi rend="superscript">a</hi></ref>
                 </p>
-                <note subtype="gloss" type="authorial" xml:id="ch3glon1"><hi rend="superscript">a</hi>That is when either they keepe watch at the dore
+                <note subtype="gloss" type="authorial" xml:id="ch3glon1" place="inline"><hi rend="superscript">a</hi>That is when either they keepe watch at the dore
                     in the evenings, or be so encreased that they cannot easily passe to and fro in
                     their worke: for if the passage seeme too straight only in their playing fit,
                         <hi rend="italic">v.c.</hi>1.<hi rend="italic">n.</hi>57. that maketh no matter. </note>
@@ -3680,7 +3680,7 @@
                 </fw>
                 <fw type="ornament"></fw>
             </div>
-            <pb n="E5r"></pb>
+            <pb n="E5r" rend="hidden"></pb>
             <div n="5" type="chapter" xml:id="ch5">
                 <head type="chapter-title">
                     <hi rend="italic"> Of the swarming of Bees, and the hiving of them.</hi>
@@ -3776,9 +3776,9 @@
                     <anchor xml:id="ch5ancs12"></anchor>will not<anchor xml:id="ch5ance12"></anchor> swarme the next yeere. And moreover they weaken the stocks from whence
                     they came, which otherwise would swarme betime <anchor xml:id="ch5ancs13"></anchor>the yeere following:<anchor xml:id="ch5ance13"></anchor> and then one
                     such swarme is worth three of those lateward ones. Wherefore <anchor xml:id="ch5ancs14"></anchor>prevent their
-                    rising, <ref target="#ch3sumn32"><hi rend="italic">v.c.</hi>3.<hi rend="italic">n</hi>.32.</ref> <anchor xml:id="ch5ance14"></anchor><fw type="catch">An</fw>
+                    rising, <ref target="#ch3sumn32"><hi rend="italic">v.c.</hi>3.<hi rend="italic">n</hi>.32.</ref> <anchor xml:id="ch5ance14"></anchor>
                 </p>
-
+                <fw type="catch">An</fw>
                 <pb n="E6v"></pb>
 
                 <fw type="header">
@@ -3939,8 +3939,7 @@
                     end of the every note in <emph rend="italic">C sol fa ut.</emph><anchor xml:id="ch5ance58"></anchor> <anchor xml:id="ch5ancs59"></anchor>So that when they sing together,
                     sometime they agree in a <term rend="italic">perfect third,</term> sometime in a
                     <term rend="italic">Diapente</term>, &amp; (if you respect the termination of the base) somtime
-                    in a <term rend="italic">Diapason</term>.<anchor xml:id="ch5ance59"></anchor> With these <anchor xml:id="ch5ancs60"></anchor>tunes<anchor xml:id="ch5ance60"></anchor> answering one another, and some <fw type="catch"> pauses</fw>
-                    <fw type="sig">F</fw>
+                    in a <term rend="italic">Diapason</term>.<anchor xml:id="ch5ance59"></anchor> With these <anchor xml:id="ch5ancs60"></anchor>tunes<anchor xml:id="ch5ance60"></anchor> answering one another, and some <fw type="sig">F</fw><fw type="catch"> pauses</fw>
                     <pb n="F1v"></pb>
                     <fw type="header">
                         <hi rend="italic">Of the swarming of Bees</hi>
@@ -4000,10 +3999,10 @@
                     pan, kettle, bason, or other like <anchor xml:id="ch5ancs66"></anchor>thing<anchor xml:id="ch5ance66"></anchor>, <anchor xml:id="ch5ancs67"></anchor>thereby<anchor xml:id="ch5ance67"></anchor> to stay them from flying away.
                     <anchor xml:id="ch5ancs68"></anchor>Which indeed is no new thing, as being used in <persName rend="italic">Aristotle</persName> his time:<anchor xml:id="ch5ance68"></anchor>
                     <foreign rend="italic" xml:lang="la">Gau-</foreign>
+                    <fw type="sig">F2</fw>
                     <fw type="catch">
                         <hi rend="italic">dere</hi>
                     </fw>
-                    <fw type="sig">F2</fw>
                     <pb n="F2v"></pb>
                     <fw type="header">
                         <hi rend="italic">Of the swarming of Bees</hi>
@@ -4176,7 +4175,7 @@
                     bough or boughs (for sometime they will hang upon two or three) &amp; put them
                     into the hive: &amp; so bringing them down, set the hive upon the Mantle and
                     Rest, as before. But if the tree be very high, and you want a lader or other
-                    meanes to come downe gent- <fw type="catch">ly</fw><anchor xml:id="ch5ance89"></anchor>
+                    meanes to come downe gent- <anchor xml:id="ch5ance89"></anchor><fw type="catch">ly</fw>
                     <pb n="F5v"></pb>
                     <fw type="header">
                         <hi rend="italic">Of the swarming of Bees</hi>
@@ -4421,7 +4420,7 @@
                     presently relieved <anchor xml:id="ch5ancs110"></anchor>with hony and faire weather.<anchor xml:id="ch5ance110"></anchor></p>
                 <fw type="catch"> of</fw>
             </div>
-            <pb n="G2r"></pb>
+            <pb n="G2r" rend="hidden"></pb>
             <div n="6" type="chapter" xml:id="ch6">
 
                 <head type="chapter-title">
