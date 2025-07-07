@@ -2816,7 +2816,7 @@
                     and fro. The fashion of which porch you may best understand by the figure of one
                     ende, thus represented. </p>
                 <figure>
-                    <graphic url="media/1609/diagrams/ch3/ch3fig2.svg" rend="small"></graphic>
+                    <graphic rend="small" url="media/1609/diagrams/ch3/ch3fig2.svg"></graphic>
                 </figure>
                 <p xml:id="ch3par25">Out of one square sticke, an inch one way and two inches the
                     other &amp; twenty in length, you may cut halfe a skore. For great swarmes and
@@ -3505,7 +3505,7 @@
                     of others in <term rend="italic">Taurus</term>, and of all in <term rend="italic">Gemini</term>. By chance some few
                     Cephens may be bred betime with the femals: but they, as comming out of season,
                     are not suffered to live. </p>
-                <note subtype="gloss" type="authorial" xml:id="ch4glon2" place="inline"><hi rend="superscript">d</hi>The yong Bees are called schadons: <hi rend="italic">schadones
+                <note place="inline" subtype="gloss" type="authorial" xml:id="ch4glon2"><hi rend="superscript">d</hi>The yong Bees are called schadons: <hi rend="italic">schadones
                         sobolem dico.</hi> Hist l.5 c.22. The brood of femals, when they have the
                     shape of Bees, are first called Nymphs, and the yong drones Cephens: <hi rend="italic">Caetera
                         turba cum formam capere caepis Nymphae vocantur ut fuci cephenes</hi>
@@ -3573,7 +3573,7 @@
                 <note subtype="summary" type="authorial" xml:id="ch4sumn21">22 <hi rend="italic">The Bees compared to the Amazons.</hi>
                 </note>
 
-                <note subtype="gloss" type="authorial" xml:id="ch4glon3" rend="inline"><hi rend="superscript">a</hi>Amazones bellicosae erant Scythiae mulieres, quae
+                <note rend="inline" subtype="gloss" type="authorial" xml:id="ch4glon3"><hi rend="superscript">a</hi>Amazones bellicosae erant Scythiae mulieres, quae
                     cum viris exulantes in Cappadociae ora juxta amnem Thermodontae consederunt: ubi, viris
                     plerique; per insidias accolarum trucidatis, reliquos qui domi remanserant, ut
                     ipsae solae rerum potirentur, interficiunt: &amp; armis sumptis etiam cum
