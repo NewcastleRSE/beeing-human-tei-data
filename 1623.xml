@@ -1611,7 +1611,7 @@
                     Monarch, of whom above all things they have a principall care and respect,
                     loving, reverencing, and obeying her <ref target="#ch1bibln7">v:</ref> in all
                     things. <note subtype="bibliographic" type="authorial" xml:id="ch1bibln7"><bibl><app subtype="add" type="reference">
-                                <lem wit="#b1623">V. Praefat.</lem>
+                                <lem wit="#b1623">V. Praefat.</lem>P
                                 <rdg wit="#b1609"></rdg>
                             </app>Virg. Georg.</bibl></note>
                     <note subtype="bibliographic" type="authorial" xml:id="ch1biblnX1"><ref target="#ch7sumn27"><app subtype="add" type="reference">
@@ -1623,7 +1623,7 @@
                             </app></ref></note>
                 </p>
                 <quote>
-                    <lg xml:lang="la">
+                    <foreign xml:lang="la" corresp="#ch1transn8"> <lg> 
                         <l>Praeterea regem non sic Aegyptus &amp; ingens </l>
                         <l>Lydia, nec populi Parthorum aut Medus Hydaspes </l>
                         <l>Observant: rege incolumi mens omnibus una est:</l>
@@ -1637,7 +1637,7 @@
                         <l>Circumstant fremitu denso, stipantque frequentes,</l>
                         <l>Et saepe attollunt humeris, &amp; corpora bello</l>
                         <l>Objectant, pulchramque petunt per vulnera mortem. </l>
-                    </lg>
+                    </lg></foreign><note xml:id="ch1transn8" type="editorial" subtype="translation" resp="#HH">Moreover, Egypt does not respect its king like this, nor does vast Lydia, nor the peoples of the Parthians nor Median Hydaspes: if the king is safe, they all have a single mind; if he is lost, they break their bonds of faith and tear down the honeycombs they themselves built, and break up the structure of the comb. He is the warden of their work, he is the apple of their eye; and they all stand around him and throng him in a thick buzzing crowd, and often they lift him on their shoulders and throw their bodies into war, and look for a beautiful death from their wounds. Vergil, <hi rend="italic">Georgics</hi> IV.210ff</note>
                 </quote>
                 <p xml:id="ch1par6">If she goe forth to solace her selfe, (as sometime she will)
                     many of them attend <app subtype="del" type="minor">
@@ -1650,7 +1650,7 @@
                     extraordinarie noise, as if they spake the language of the Knight Marshals men,
                     and so away they flye together, and anone in like manner they attend her back
                     againe. This I may say, because I have seene it: although the Philosopher be of
-                    another minde: <quote><foreign xml:lang="la">Reges</foreign>, saith he, <foreign xml:lang="la">nunquam foris visuntur, nisi cum migratur.</foreign>
+                    another minde: <quote><foreign xml:lang="la">Reges</foreign>, saith he, <foreign xml:lang="la" corresp="#ch1transn9">nunquam foris visuntur, nisi cum migratur.</foreign><note xml:id="ch1transn9" type="editorial" subtype="gloss">The kings are never seen outside except when there is a swarming. <hi rend="italic">HA</hi> IX.40 (625b)</note>
                         <note subtype="bibliographic" type="authorial" xml:id="ch1bibln8">
                             <bibl>Hist.an.l.9.cap.40.</bibl></note></quote> If by hir voyce she bid
                     them goe, they swarme: if being abroad she dislike the weather, or
@@ -1671,9 +1671,9 @@
                     </app>
                     <note subtype="bibliographic" type="authorial" xml:id="ch1bibln11"><ref target="#ch7sumn42">V.c.7.n. 42.</ref></note>
                     <quote>
-                        <foreign xml:lang="la">Rege mortuo moeret plebs ignava, non cibos convehit,
+                        <foreign xml:lang="la" corresp="#ch1transn10">Rege mortuo moeret plebs ignava, non cibos convehit,
                             non procedit, tristi tantùm murmure glomeratur circa corpus
-                            ejus.</foreign>
+                            ejus.</foreign><note xml:id="ch1transn10" type="editorial" subtype="translation" resp="#HH">When the king dies the sluggardly populace goes into mourning; it does not bring in food, it does not go out, but only crowds round his body with a mournful humming. <hi rend="italic">NH</hi> XI.63(20)</note>
                         <note subtype="bibliographic" type="authorial" xml:id="ch1bibln12">
                             <bibl>Nat.hist.li.11.c.17.</bibl></note>
                     </quote>
@@ -1720,7 +1720,7 @@
                             not fight, yet will they not agree of their choice in two or three
                             daies, keeping their Queenes close on both sides. But then all this
                             while they never be at quiet day nor night, nor once offer to work,
-                            untill one of them being deposed, they be united in the other. <foreign xml:lang="la">Vide plura super hac re</foreign>
+                            untill one of them being deposed, they be united in the other. <foreign xml:lang="la" corresp="#ch1transn11">Vide plura super hac re</foreign><note xml:id="ch1transn11" type="editorial" subtype="translation" resp="#HH">See further on this subject</note>
                             <ref target="#ch5sumn74">c.5.n.74.</ref><ref target="#ch5sumn75">75.</ref><ref target="#ch5sumn76">76.</ref></lem>
                         <rdg wit="#b1609"></rdg>
                     </app></p>
@@ -1740,7 +1740,7 @@
                     expresse patterne of <hi rend="smallCapitals titleCase">A PERFECT MONARCHIE, THE
                         MOST NATURAL AND ABSOLUTE FORME OF GOVERNMENT.</hi>
                     <app subtype="add" type="minor">
-                        <lem wit="#b1623">Οὐκ ἄγαθον πολυκοιρανίη, εἷς κοίρανος ἔστω</lem>
+                        <lem wit="#b1623"><foreign xml:id="greek" corresp="#ch1transn12">Οὐκ ἄγαθον πολυκοιρανίη, εἷς κοίρανος ἔστω</foreign><note xml:id="ch1transn12" type="editorial" subtype="translation">Having too many lords is no good thing: let there be one lord. <hi rend="italic">Iliad</hi> II.204</note></lem>
                         <rdg wit="#b1609"></rdg>
                     </app>
                     <note subtype="bibliographic" type="authorial" xml:id="ch1bibln14">
@@ -1790,7 +1790,7 @@
                     </quote> But <persName>Aristotle</persName> doth truly approve the later
                     opinion, as certaine: <quote>
                         <note subtype="bibliographic" type="authorial" xml:id="ch1bibln17"><bibl>Hist.an.l.5.cap.21.</bibl></note>
-                        <foreign xml:lang="la">Reges aculeos habent, sed non utuntur. Quocirca
+                        <foreign xml:lang="la"> Reges aculeos habent, sed non utuntur. Quocirca
                             carere eos aculeis nonnulli existimant.</foreign>
                     </quote>
                     <persName> Plinie</persName> describeth them thus, <quote><note subtype="bibliographic" type="authorial" xml:id="ch1bibln18"><bibl>Nat.hist.l.11.c.16.</bibl></note>
