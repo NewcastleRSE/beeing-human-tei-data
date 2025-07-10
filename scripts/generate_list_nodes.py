@@ -33,7 +33,10 @@ def main():
             # print all refs
             for ref in refs:
                 target = ref.get("target")
-                source = f'ch{chapter.get("n")}'
+                if chapter.get("n") is None and chapter.get('type') == 'preface':
+                    source = 'preface';
+                else:
+                    source = f'ch{chapter.get("n")}'
                 if target:
                     # if target contains 'sumn'
                     if "sumn" in target:
@@ -53,7 +56,7 @@ def main():
                         
             if len(refs) == 0:
                 print("No refs found with target attribute.")
-            print(f'{chapter.get("n")}: {len(refs)} refs found with target attribute.')
+            print(f'{source}: {len(refs)} refs found with target attribute.')
 
 if __name__ == "__main__":
     main()
