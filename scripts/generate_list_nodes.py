@@ -18,7 +18,7 @@ def main():
         chapters = root.findall(".//TEI:div[@type='chapter']", namespaces=ns)
 
         # add div with id="preface" to the list of chapters
-        preface = root.find(".//TEI:div[@id='preface']", namespaces=ns)
+        preface = root.find(".//TEI:div[@type='preface']", namespaces=ns)
         if preface is not None:
             chapters.insert(0, preface)
 
@@ -53,6 +53,7 @@ def main():
                         
             if len(refs) == 0:
                 print("No refs found with target attribute.")
+            print(f'{chapter.get("n")}: {len(refs)} refs found with target attribute.')
 
 if __name__ == "__main__":
     main()
