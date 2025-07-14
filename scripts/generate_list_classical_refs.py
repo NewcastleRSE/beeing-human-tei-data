@@ -19,7 +19,9 @@ def process_file(xml_filename, output_csv):
         'plin.': 'plinie',
         'plini': 'plinie',
         'raymond lulli': 'raimundus lullius',
-        'plato,': 'plato'
+        'plato,': 'plato',
+        'arist': 'aristotle',
+        'colum': 'columella'
     }
 
     with open(output_csv, "w", encoding="utf-8") as out_file:
