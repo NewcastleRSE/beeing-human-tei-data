@@ -54,12 +54,12 @@ def process_file(xml_filename, output_csv):
         for author in classical_authors:
             # normalize the spelling of the author name
             author = author.lower()
+             # if the last character is a puncuation mark or a whitespace, remove it
+            if author[-1] in [".", ",", ":", ";", "!", "?", " "]:
+                author = author[:-1]
             # if the author is in the abbreviation dictionary, replace it
             if author in abbr:
                 author = abbr[author]
-            # if the last character is a puncuation mark or a whitespace, remove it
-            if author[-1] in [".", ",", ":", ";", "!", "?", " "]:
-                author = author[:-1]
             # write the author to the CSV file
             with open(output_csv, "a", encoding="utf-8") as out_file:
                 out_file.write(f'butler,{author}\n')
