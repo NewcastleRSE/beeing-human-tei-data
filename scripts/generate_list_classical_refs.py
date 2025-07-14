@@ -17,7 +17,8 @@ def process_file(xml_filename, output_csv):
         'columella.': 'columella',
         'columella,': 'columella',
         'plin.': 'plinie',
-        'raymond lulli': 'raimundus lullius'
+        'raymond lulli': 'raimundus lullius',
+        'plato,': 'plato'
     }
 
     with open(output_csv, "w", encoding="utf-8") as out_file:
