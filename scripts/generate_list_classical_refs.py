@@ -22,7 +22,7 @@ def process_file(xml_filename, output_csv):
     }
 
     with open(output_csv, "w", encoding="utf-8") as out_file:
-        out_file.write("source,destination\n")
+        out_file.write("source,target\n")
 
     with open(xml_filename, "r", encoding="utf-8") as f:
         xml_data = f.read()
