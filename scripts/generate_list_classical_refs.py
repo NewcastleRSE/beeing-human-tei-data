@@ -17,6 +17,7 @@ def process_file(xml_filename, output_csv):
         'columella.': 'columella',
         'columella,': 'columella',
         'plin.': 'plinie',
+        'plini': 'plinie',
         'raymond lulli': 'raimundus lullius',
         'plato,': 'plato'
     }
