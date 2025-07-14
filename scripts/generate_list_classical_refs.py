@@ -8,15 +8,18 @@ def process_file(xml_filename, output_csv):
 
     abbr = {
         'aristom.': 'aristomachus',
+        'aristom': 'aristomachus',
         'aristotles': 'aristotle',
         'orythia': 'orithya',
         'pliny': 'plinie',
         'plinie,': 'plinie',
         'plinie.': 'plinie',
         'var.': 'varro',
+        'var': 'varro',
         'columella.': 'columella',
         'columella,': 'columella',
         'plin.': 'plinie',
+        'plin': 'plinie',
         'plini': 'plinie',
         'raymond lulli': 'raimundus lullius',
         'plato,': 'plato',
