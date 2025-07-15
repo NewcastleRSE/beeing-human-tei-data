@@ -1741,7 +1741,7 @@
                         MOST NATURAL AND ABSOLUTE FORME OF GOVERNMENT.</hi>
                     <app subtype="add" type="minor">
                         <lem wit="#b1623"><foreign xml:id="greek" corresp="#ch1transn12">Οὐκ ἄγαθον πολυκοιρανίη, εἷς κοίρανος ἔστω</foreign><note xml:id="ch1transn12" type="editorial" subtype="translation">Having too many lords is no good thing: let there be one lord. <hi rend="italic">Iliad</hi> II.204</note></lem>
-                        <rdg wit="#b1609"></rdg>
+                        <rdg wit="#b1609"></rdg>n
                     </app>
                     <note subtype="bibliographic" type="authorial" xml:id="ch1bibln14">
                         <bibl><app subtype="add" type="reference">
@@ -1783,21 +1783,21 @@
                     to fight for her, as to provide for her. <persName>Plinie</persName> writeth
                     thus doubtingly of it: <quote>
                         <note subtype="bibliographic" type="authorial" xml:id="ch1bibln16"><bibl>Nat.hist.l.11.cap.17.</bibl></note>
-                        <foreign xml:lang="la">Non constat inter authores Rex nullumne solus habeat
+                        <foreign xml:lang="la" corresp="#ch1transn13">Non constat inter authores Rex nullumne solus habeat
                             aculeum, majestate tantum armatus, an dederit eum quidem natura, sed
                             usum ejus illi tantùm negaverit: illud constat imperatorem aculeo non
-                            uti.</foreign>
+                            uti.</foreign><note xml:id="ch1transn13" type="editorial" subtype="translation">There is no agreement among authorities as to whether the king alone has no sting, being armed only with his majesty, or whether nature has indeed endowed him with one, but simply denied him the use of it; but this is agreed, that the ruler does not use his sting. <hi rend="italic">NH</hi> XI.52(17)</note>
                     </quote> But <persName>Aristotle</persName> doth truly approve the later
                     opinion, as certaine: <quote>
                         <note subtype="bibliographic" type="authorial" xml:id="ch1bibln17"><bibl>Hist.an.l.5.cap.21.</bibl></note>
-                        <foreign xml:lang="la"> Reges aculeos habent, sed non utuntur. Quocirca
-                            carere eos aculeis nonnulli existimant.</foreign>
+                        <foreign xml:lang="la" corresp="#ch1transn14">Reges aculeos habent, sed non utuntur. Quocirca
+                            carere eos aculeis nonnulli existimant.</foreign><note xml:id="ch1transn14" type="editorial" subtype="translation">The kings have stings, but they do not use them. Accordingly some people think that they lack stings. <hi rend="italic">Historia Animalium</hi> V.21 fin. (553b)</note>
                     </quote>
                     <persName> Plinie</persName> describeth them thus, <quote><note subtype="bibliographic" type="authorial" xml:id="ch1bibln18"><bibl>Nat.hist.l.11.c.16.</bibl></note>
-                        <foreign xml:lang="la">Omnibus forma semper egregia, &amp; duplo quam
+                        <foreign xml:lang="la" corresp="#ch1transn15">Omnibus forma semper egregia, &amp; duplo quam
                             caeteris major, pennae breviores, crura recta, ingressus celsior, in
                             fronte macula quodam diademate candicans: Multum etiam nitore à vulgo
-                            differunt.</foreign>
+                            differunt.</foreign><note xml:id="ch1transn15" type="editorial" subtype="translation">Their appearance is always outstanding, and twice as big as the others’; their wings are shorter, their legs straight, their gait is elevated, and on their forehead is a white spot in a sort of diadem. They are also greatly distinguished from the hoi polloi by their lustre.</note>
                     </quote>
                     <app subtype="add" type="minor">
                         <lem wit="#b1623">If you desire to see this stately Prince, read <ref target="#ch5sumn34">cap.5. n.34.</ref> The breeding of her you may
@@ -1819,38 +1819,38 @@
                     as if there were degrees of those dignities among them. In all other respects
                     they are like to the vulgar. These I think are they that <persName>
                         Plinie</persName> meaneth, where he saith, <quote>
-                        <foreign xml:lang="la">Circa regem satellites quidam, lictoresque assiduae
-                            custodes authoritatis.</foreign>
+                        <foreign xml:lang="la" corresp="#ch1transn16">Circa regem satellites quidam, lictoresque assiduae
+                            custodes authoritatis.</foreign><note xml:id="ch1transn16" type="editorial" subtype="translation">Around the king are certain attendants and bodyguards, the untiring guardians of his authority. <hi rend="italic">NH</hi> XI.53(17)</note>
                         <note subtype="bibliographic" type="authorial" xml:id="ch1bibln19"><bibl>Nat.hist.li.11.c.17.</bibl></note>
                     </quote> In lesse than a quarter of an houre you may see three or foure of them
                     come forth of a good stall; but chiefly in <term>Gemini,</term> before their
                     continuall labour have worne these ornaments. So that he might well say, <quote>
                         <note subtype="bibliographic" type="authorial" xml:id="ch1bibln20"><bibl>Plin.Nat.hist.li.11.c.5.</bibl></note>
-                        <foreign xml:lang="la">Rempublicam habent, consilia, ac duces.</foreign>
+                        <foreign xml:lang="la" corresp="#ch1transn17">Rempublicam habent, consilia, ac duces.</foreign><note xml:id="ch1transn17" type="editorial" subtype="translation">They have a commonwealth, councils and generals. <hi rend="italic">NH</hi> XI.11(4)</note>
                     </quote> All which hee that seriously considereth, must with admiration
                     acknowledge that singular wisedome, order, and government in them, which in no
                     other creature, man onely excepted (if yet to be excepted) is to be found:
                     whence some have inferred a farther matter, <quote>
                         <note subtype="bibliographic" type="authorial" xml:id="ch1bibln21"><bibl>Vir.Geor.4</bibl></note>
-                        <lg rend="italic">
+                        <foreign xml:lang="la" corresp="#ch1transn18"><lg rend="italic">
                             <l>His equidem signis atque haec exempla sequuti,</l>
                             <l>Esse apibus partem divinae mentis, &amp; haustus </l>
                             <l>Aethereos dixêre--</l>
-                        </lg>
+                        </lg></foreign><note xml:id="ch1transn18" type="editorial" subtype="translation">Following from these tokens and these examples people have said that bees have a share of divine understanding, and a draught of heavenly ether. <hi rend="italic">Georgics</hi> IV.219ff</note>
                     </quote>
                 </p>
                 <p xml:id="ch1par13"><note subtype="summary" type="authorial" xml:id="ch1sumn12">12.
                         Two sorts of Bees.</note><note subtype="bibliographic" type="authorial" xml:id="ch1bibln22"><bibl>Hist.l.5.c.22.</bibl></note>
                     <persName> Aristotle</persName> maketh two sorts of Bees, the one (which is
                     best) short, divers coloured, and round; the other long, like unto waspes.
-                        <foreign xml:lang="la">Optimum genus apum quae breves, variae, &amp; in
+                        <foreign xml:lang="la" corresp="#ch1transn19">Optimum genus apum quae breves, variae, &amp; in
                         rotunditatem compactiles; secundae quae longae &amp; vespis
-                        similes.</foreign> And in another place he putteth a difference betweene
+                        similes.</foreign><note xml:id="ch1transn19" type="editorial" subtype="translation">The best kind of bees are those that are short, particoloured  and of a thick-set, round shape; there is a second kind that are long and similar to wasps. <hi rend="italic">HA</hi> V.22 init. (553b)</note> And in another place he putteth a difference betweene
                     wilde and tame: saying, <quote>
-                        <foreign xml:lang="la">Differunt inter se apes parentibus natae urbanis,
+                        <foreign xml:lang="la" corresp="#ch1transn20">Differunt inter se apes parentibus natae urbanis,
                             &amp; quae rustico montanoque victu educatis prodierint: sunt enim hae
                             sylvestres horridiores aspectu, &amp; iracundiores, &amp; minores; sed
-                            opere &amp; labore praestantiores.</foreign>
+                            opere &amp; labore praestantiores.</foreign><note xml:id="ch1transn20" type="editorial" subtype="translation">There is a distinction between bees born to parents in or around towns  and those who grow up reared on a rural and mountain diet: for the latter, woodland bees, are shaggier in appearance, and angrier and smaller; but they are readier for work and toil. <hi rend="italic">HA</hi> IX.40 (624b)</note>
                         <note subtype="bibliographic" type="authorial" xml:id="ch1bibln23"><bibl>Hist.l.9.c.40.</bibl></note>
                     </quote> Whom <persName> Plinie</persName> followeth almost <foreign xml:lang="la">verbatim:</foreign> saying <quote>
                         <foreign xml:lang="la">Apes sunt etiam rusticae sylvestresque, horridae
