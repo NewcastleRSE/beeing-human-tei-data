@@ -1853,11 +1853,11 @@
                             opere &amp; labore praestantiores.</foreign><note xml:id="ch1transn20" type="editorial" subtype="translation">There is a distinction between bees born to parents in or around towns  and those who grow up reared on a rural and mountain diet: for the latter, woodland bees, are shaggier in appearance, and angrier and smaller; but they are readier for work and toil. <hi rend="italic">HA</hi> IX.40 (624b)</note>
                         <note subtype="bibliographic" type="authorial" xml:id="ch1bibln23"><bibl>Hist.l.9.c.40.</bibl></note>
                     </quote> Whom <persName> Plinie</persName> followeth almost <foreign xml:lang="la">verbatim:</foreign> saying <quote>
-                        <foreign xml:lang="la">Apes sunt etiam rusticae sylvestresque, horridae
+                        <foreign xml:lang="la" corresp="#ch1transn21">Apes sunt etiam rusticae sylvestresque, horridae
                             aspectu, multo iracundiores; sed opere ac labore praestantiores.
                             Urbanarum duo genera: optimae breves, variae, &amp; in rotunditatem
                             compactiles; deteriores longae, &amp; quibus similitudo vesparum,
-                            etiamnum deterrimae ex ijs pilosae.</foreign>
+                            etiamnum deterrimae ex ijs pilosae.</foreign><note xml:id="ch1transn21" type="editorial" subtype="translation">There are also country and woodland bees, of shaggy appearance, and much angrier, but readier for work and toil. There are two kinds of town  bee: the best are short, particoloured  and of a thick-set, round shape; the less good variety are long and with a similarity to wasps, and moreover the very worst of them are hairy. <hi rend="italic">NH</hi> XI.59(19)</note>
                         <note subtype="bibliographic" type="authorial" xml:id="ch1bibln24">
                             <bibl>Nat.hist.li.11.c.18.</bibl></note>
                     </quote> But these differences my experience hath not found: neither doe I see
@@ -1950,8 +1950,8 @@
                             V:c.7.n.36.</ref></note> or when in the spring a hungry stall forsaking
                     his owne home presseth into their hive, <ref target="#ch1bibln31">v</ref> .
                         <note subtype="bibliographic" type="authorial" xml:id="ch1bibln31"><ref target="#ch7sumn49">V.c. 7.n. 49.</ref></note> they fall sodainly upon
-                    them with their poisoned speeres <foreign xml:lang="la">(Apibus natura cuspides
-                        dedit, &amp; quidem venenatas)</foreign>
+                    them with their poisoned speeres <foreign xml:lang="la" corresp="#ch1transn22">(Apibus natura cuspides
+                        dedit, &amp; quidem venenatas)</foreign><note xml:id="ch1transn22" type="editorial" subtype="translation">Nature has given bees javelins, and indeed poisoned ones. <hi rend="italic">NH</hi> XXI.78(45)</note>
                     <note subtype="bibliographic" type="authorial" xml:id="ch1bibln32">
                         <bibl>Nat.hist.li.21.c.13.</bibl></note> but then they make short worke. For
                     by that time they have put up their weapons, some die presently: <note subtype="summary" type="authorial" xml:id="ch1sumn23">23. Stinging present
@@ -1981,8 +1981,8 @@
                             31.</ref></note> For the skinne having received the sting, holdeth it so
                     fast, that when they would be gone, they leave both it and part of their entrals
                     which are fastned to it. <quote>
-                        <foreign xml:lang="la">Aculeum apibus natura dedit ventri
-                            consertum.</foreign>
+                        <foreign xml:lang="la" corresp="#ch1transn23">Aculeum apibus natura dedit ventri
+                            consertum.</foreign><note xml:id="ch1transn23" type="editorial" subtype="translation">Nature has given bees a sting that is attached to their belly. <hi rend="italic">NH</hi> XI.60(19)</note>
                         <note subtype="bibliographic" type="authorial" xml:id="ch1bibln34"><bibl>Nat.hist.l.11.c.18</bibl></note>
                     </quote> If they light upon Poultry, although their desire bee to the quicke, if
                     they can quickly come at it; yet will they put forth their speares as soone as
@@ -2037,9 +2037,9 @@
                         <note subtype="bibliographic" type="authorial" xml:id="ch1bibln35">
                             <bibl>Virg.Georg.Hist.an.l.9.c.40.</bibl>
                         </note>
-                        <foreign xml:lang="la">Animamque in vulnere ponit. (Intereunt quae
+                        <foreign xml:lang="la" corresp="#ch1transn24">Animamque in vulnere ponit.</foreign><note xml:id="ch1transn24" type="editorial" subtype="translation">And in inflicting the wound lays down its life. <hi rend="italic">Georgics</hi> IV.238</note> <foreign xml:lang="lat" corresp="#ch1transn25">(Intereunt quae
                             percusserint, quoniam sine intestini eruptione aculeus eximi non
-                            potest.)</foreign>
+                            potest.)</foreign><note xml:id="ch1transn25" type="editorial" subtype="translation">The ones that strike perish, because the sting cannot be pulled out without their being eviscerated. <hi rend="italic">HA</hi> IX.40 (926a)</note>
                     </quote> For within foure and twentie houres after, or, if much of hir entrals
                     come forth with the sting, within halfe that time, she dieth. <note subtype="summary" type="authorial" xml:id="ch1sumn32"> 32. The speere of it
                         selfe pierceth deeper when the Bee is gone.</note> But the speere reteining
@@ -2060,13 +2060,13 @@
                         <rdg wit="#b1609"></rdg>
                     </app> and divers other things. <app subtype="add" type="major">
                         <lem wit="#b1623"><quote>
-                                <foreign xml:lang="la">Id malvae peculiare est, ut imposita ictibus
-                                    vesparum &amp; apum dolores levet.</foreign>
+                                <foreign xml:lang="la" corresp="#ch1transn26">Id malvae peculiare est, ut imposita ictibus
+                                    vesparum &amp; apum dolores levet.</foreign><note xml:id="ch1transn26" type="editorial" subtype="translation">It is a special property of the mallow, that when placed on the stings of wasps and bees, it relieves the pain. Jean Fernel (Fernelius), <hi rend="italic">Therapeutices Universalis seu Medendi Rationis Libri Septem</hi>, VI.4</note>
                                 <bibl>Fern.Meth.l.6.cap.4.</bibl>
                             </quote>
                             <quote>
-                                <foreign xml:lang="la">Stercus vaccinum vesparum ictus sanat, &amp;
-                                    indito aceto tumores digerit.</foreign>
+                                <foreign xml:lang="la" corresp="#ch1transn27">Stercus vaccinum vesparum ictus sanat, &amp;
+                                    indito aceto tumores digerit.</foreign><note xml:id="ch1transn27" type="editorial" subtype="translation">Cattle dung heals wasp stings, and with the addition of vinegar dissolves the swellings. Jean Fernel, <hi rend="italic">Methodi Medendi</hi> V.27</note>
                             </quote>
                             <bibl> Fern.Meth.l.5.cap.27</bibl>. Rue drunken with Wine, <hi rend="italic">or rather with Hydromel,</hi> or the leaves stamped
                             with Honie and Salt, and laid to the wound, is good against stinging of
@@ -2076,7 +2076,7 @@
                     </app></p>
                 <p xml:id="ch1par27">
                     <app subtype="add" type="major">
-                        <lem wit="#b1623"><foreign xml:lang="la">Verum hoc mihi prae caeteris
+                        <lem wit="#b1623"><foreign xml:lang="la" corresp="#ch1transn28">Verum hoc mihi prae caeteris
                                 probatur remedium. Ut primum se quis ictum senserit, aculeum adhuc
                                 epidermidi inhaerentem cum ipsa ape instanter abstergat (nam si
                                 paulisper sinatur, dum veram cutem penetraverit; vehementior inde,
@@ -2085,7 +2085,7 @@
                                 saepiuscule prolvant, dum subsequens hoc comparetur emplastrum. <hi rend="opposite">R.</hi> Cardui Benedicti virentis contriti <hi rend="opposite">M.I.</hi> Ovi albumen quasi in oleum coagitatum:
                                 misce, fiat emplastrum, quod lini retrimentis impositum, vulneri
                                 linteo alligetur: ubi aruerit, recens repone: sed vulnus nequaquam
-                                fricetur.</foreign></lem>
+                                fricetur.</foreign><note xml:id="ch1transn28" type="editorial" subtype="translation">But I recommend this remedy above all the others: as soon as one feels the sting, one should, while the sting is still sticking into the epidermis, immediately wipe it away along with the bee itself (for if it is left alone for a little, until it has broken through the skin proper, then both the pain and the swelling will turn out worse, longer-lasting and harder to heal); then, as soon as it can be got, leaves of marrow should be used to bathe the wound fairly frequently in one’s own urine, while the following poultice is procured: R[eceipt]: of green groundsel, ground, one handful; the white of an egg beaten together as it were into an oil; mix, make a poultice, which, placed on the dross of flax, should be bound onto the wound with a linen cloth. Where it has dried, replace it with fresh; but it is in vain to rub the wound. Rembert Dodoens [???] II.83</note></lem>
                         <rdg wit="#b1609"></rdg>
                     </app>
                 </p>
@@ -2193,8 +2193,8 @@
                     the Horses were stung to death. I doubt not but through negligence many such
                     mischances have happened else-where. For this thing hath beene long since
                     observed by that great Philosopher. <quote>
-                        <foreign xml:lang="la">Necant <hi rend="opposite">(saith he)</hi> vel maxima
-                            animalia ictu sui aculei: jam equus occisus ab apibus est.</foreign>
+                        <foreign xml:lang="la" corresp="#ch1transn29">Necant <hi rend="opposite">(saith he)</hi> vel maxima
+                            animalia ictu sui aculei: jam equus occisus ab apibus est.</foreign><note xml:id="ch1transn29" type="editorial" subtype="translation">They can kill even the largest of animals with a strike of their sting: a horse has before now been killed by bees. <hi rend="italic">HA</hi> IX.40 (626a)</note>
                         <note subtype="bibliographic" type="authorial" xml:id="ch1bibln36">
                             <bibl>Arist.hist.an.l.9.c.40.</bibl>
                         </note></quote>
@@ -2214,16 +2214,16 @@
                         principall<ref target="#ch1bibln37">*</ref> part, which is the fountaine and
                     seat of all Senses, Phantasie, and Memorie; yet have they the Senses themselves,
                     both outward and inward: which their subtill and active spirits doe excite and
-                    quicken, for the works of their curious Art and singular Vertues. <note subtype="bibliographic" type="authorial" xml:id="ch1bibln37">* <bibl><hi rend="italic">Cerebrum commune sentiendi principium.</hi>
+                    quicken, for the works of their curious Art and singular Vertues. <note subtype="bibliographic" type="authorial" xml:id="ch1bibln37">* <bibl><hi rend="italic"><foreign xml:lang="la" corresp="#ch1transn30">Cerebrum commune sentiendi principium.</foreign><note xml:id="ch1transn30" type="editorial" subtype="translation">The brain is, common to all, the principal seat of the senses. <hi rend="italic">Fernelius</hi>, Physiologia V.14</note></hi>
                             Fer.Ph.l.5.c.14.</bibl></note><quote>
-                        <foreign xml:lang="la">Quamvis non sint membra quae, velut carina, sensus
+                        <foreign xml:lang="la" corresp="#ch1transn31">Quamvis non sint membra quae, velut carina, sensus
                             invehant; esse tamen his auditum, olfactum, gustatum, eximia praeterea
-                            naturae dona, solertiam, animum, artem quis facile crediderit. <note subtype="bibliographic" type="authorial" xml:id="ch1bibln38">
+                            naturae dona, solertiam, animum, artem quis facile crediderit. </foreign><note xml:id="ch1transn31" type="editorial" subtype="translation">Although they have no organs to carry their senses inwards like a vessel, who would readily believe that nevertheless they have hearing, smell, taste, and extraordinary gifts of nature besides: ingenuity, intellect, skill? <hi rend="italic">NH</hi> XI.7(2) </note><note subtype="bibliographic" type="authorial" xml:id="ch1bibln38">
                                 <bibl>Nat.hist.l.11.c.4</bibl></note>
                             <app subtype="add" type="major">
-                                <lem wit="#b1623">Creat Deus minima corpore acuta sensu animantia:
+                                <lem wit="#b1623"><foreign xml:lang="la" corresp="#ch1transn32">Creat Deus minima corpore acuta sensu animantia:
                                     ut majori attentione stupeamus agilitatem muscae volantis, quam
-                                    magnitudinem jumenti gradientis.<note subtype="bibliographic" type="authorial" xml:id="ch1bibln39">
+                                    magnitudinem jumenti gradientis.</foreign><note xml:id="ch1transn32" type="editorial" subtype="translation">God creates beings tiny in body with acute senses: so that when we pay more attention to it, we are astounded at the agility of a fly in flight more than at the size of a draught-ox that walks. Augustine, <hi rend="italic">De genesi ad litteram</hi> III.14.22</note><note subtype="bibliographic" type="authorial" xml:id="ch1bibln39">
                                         <bibl>Augustin.de Genesi ad literam.lib.3.</bibl>
                                     </note></lem>
                                 <rdg wit="#b1609"><ptr target="1609.xml#ch1ancs14 1609.xml#ch1ance14"></ptr></rdg>
@@ -2262,10 +2262,10 @@
                         <note subtype="bibliographic" type="authorial" xml:id="ch1bibln41">
                             <bibl>Lucret.l.4.</bibl>
                         </note>
-                        <foreign xml:lang="la"><lg>
+                        <foreign xml:lang="la" corresp="#ch1transn33"><lg>
                                 <l>——Ideoque per auras</l>
                                 <l>Mellis apes, quamvis longè, ducuntur odore.</l>
-                            </lg></foreign>
+                        </lg></foreign><note xml:id="ch1transn33" type="editorial" subtype="translation">For that reason bees are guided through the air by the smell of honey, even if it is far off. Lucretius, <hi rend="italic">De Natura Rerum</hi> IV.679f</note>
                     </quote> And by this sense they finde out any strange Bee, which is not
                     otherwise to be knowne from their owne company, and that in the darke Hive:
                     where, when they are disposed, they will by the same meanes cull out the Drones,
@@ -2282,7 +2282,7 @@
                         <bibl>Hist.an.l.9.cap.40.</bibl>
                     </note> although <persName> Aristotle</persName> doubt whether they heare, or
                     not. <quote>
-                        <foreign xml:lang="la">Quanquam incertum est an audiant.</foreign>
+                        <foreign xml:lang="la" corresp="#ch1transn34">Quanquam incertum est an audiant.</foreign><note xml:id="ch1transn34" type="editorial" subtype="translation">Although it is a matter of uncertainty whether they can hear. <hi rend="italic">HA</hi> IX.40 (927a)</note>
                     </quote> But if they did not heare, to what purpose is that musicke made in the
                     Hives, before the swarming? <ref target="#ch5sumn28">v.c.5.n.28</ref>. <app subtype="add" type="minor">
                         <lem wit="#b1623">and in the battaile, <ref target="#ch7sumn34">
@@ -2321,14 +2321,14 @@
                     </note> In private wrongs and injuries done to their persons (for which cause
                     men will soonest quarrell) they are very patient: but in defence of their Prince
                     and Common-wealth they doe most readily enter the field, <quote>
-                        <foreign xml:lang="la"><lg>
+                        <foreign xml:lang="la" corresp="#ch1transn36"><lg>
                                 <l>⸺Et corpora bello </l>
                                 <l>Objectant, pulchramque petunt per vulnera mortem. <ref target="#ch1bibln45X">v.</ref></l>
                                 <note subtype="bibliographic" type="authorial" xml:id="ch1bibln45">
                                     <bibl>Virg.</bibl>
                                 </note>
                                 <note subtype="bibliographic" type="authorial" xml:id="ch1bibln45X"><ref target="#ch1sumn5">V.n.5.</ref></note>
-                            </lg></foreign>
+                        </lg></foreign><note xml:id="ch1transn36" type="editorial" subtype="translation">And they throw their bodies into war, and look for a beautiful death from their wounds. Vergil, <hi rend="italic">Georgics</hi> IV.217f</note>
                     </quote>
                 </p>
                 <p xml:id="ch1par41"><note subtype="summary" type="authorial" xml:id="ch1sumn49">49.
