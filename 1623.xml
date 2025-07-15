@@ -1611,7 +1611,7 @@
                     Monarch, of whom above all things they have a principall care and respect,
                     loving, reverencing, and obeying her <ref target="#ch1bibln7">v:</ref> in all
                     things. <note subtype="bibliographic" type="authorial" xml:id="ch1bibln7"><bibl><app subtype="add" type="reference">
-                                <lem wit="#b1623">V. Praefat.</lem>P
+                                <lem wit="#b1623">V. Praefat.</lem>
                                 <rdg wit="#b1609"></rdg>
                             </app>Virg. Georg.</bibl></note>
                     <note subtype="bibliographic" type="authorial" xml:id="ch1biblnX1"><ref target="#ch7sumn27"><app subtype="add" type="reference">
@@ -1741,7 +1741,7 @@
                         MOST NATURAL AND ABSOLUTE FORME OF GOVERNMENT.</hi>
                     <app subtype="add" type="minor">
                         <lem wit="#b1623"><foreign xml:id="greek" corresp="#ch1transn12">Οὐκ ἄγαθον πολυκοιρανίη, εἷς κοίρανος ἔστω</foreign><note xml:id="ch1transn12" type="editorial" subtype="translation">Having too many lords is no good thing: let there be one lord. <hi rend="italic">Iliad</hi> II.204</note></lem>
-                        <rdg wit="#b1609"></rdg>n
+                        <rdg wit="#b1609"></rdg>
                     </app>
                     <note subtype="bibliographic" type="authorial" xml:id="ch1bibln14">
                         <bibl><app subtype="add" type="reference">
@@ -2227,7 +2227,7 @@
                                         <bibl>Augustin.de Genesi ad literam.lib.3.</bibl>
                                     </note></lem>
                                 <rdg wit="#b1609"><ptr target="1609.xml#ch1ancs14 1609.xml#ch1ance14"></ptr></rdg>
-                            </app></foreign>
+                            </app>
                     </quote></p>
                 <p xml:id="ch1par35">
                     <note subtype="summary" type="authorial" xml:id="ch1sumn43">43. Their sight
