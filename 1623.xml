@@ -2344,9 +2344,9 @@
                         <ref target="#ch6"> V.c.6. </ref>
                     </note> Moreover, as skilful Astronomers, they have fore-knowledge of the
                     weather. <quote>
-                        <foreign xml:lang="la">Praedivinant enim ventos imbresque, &amp; tunc se
-                            pleraeque continent tectis. <hi rend="opposite">Item</hi>, Praesagiunt
-                            apes &amp; hyemem &amp; imbres, <ref target="#ch1bibln49">v.</ref></foreign>
+                        <foreign xml:lang="la" corresp="#ch1transn38">Praedivinant enim ventos imbresque, &amp; tunc se
+                            pleraeque continent tectis. </foreign><note xml:id="ch1transn38" type="editorial" subtype="translation">For they can foretell winds and rainstorms, and then most of them keep together undercover. <hi rend="italic">NH</hi> XI.20(8)</note><hi rend="opposite">Item</hi>, <foreign xml:lang="la" corresp="#ch1transn39">Praesagiunt
+                                apes &amp; hyemem &amp; imbres, <ref target="#ch1bibln49">v.</ref></foreign><note xml:id="ch1transn39" type="editorial" subtype="translation">Bees can predict both stormy weather and rains.<hi rend="italic"> HA</hi> IX.40 fin. (927a)</note>
                         <note subtype="bibliographic" type="authorial" xml:id="ch1bibln48">
                             <bibl>Nat.hist.l.11.c.10.</bibl>
                         </note>
@@ -2360,8 +2360,8 @@
                     those that are abroad doe use to shift the wind when they come home loaden: how
                     they flie alow by the ground, among the bushes, in the lanes, and lee-sides of
                     the hedges. <quote>
-                        <foreign xml:lang="la">Iuxta terram volant in adverso flatu vepribus
-                            hebetato.</foreign>
+                        <foreign xml:lang="la" corresp="#ch1transn40">Iuxta terram volant in adverso flatu vepribus
+                            hebetato.</foreign><note xml:id="ch1transn40" type="editorial" subtype="translation">Where the wind is against them they fly close to the ground where the wind is weakened by the brambles. <hi rend="italic">NH</hi> XI.24(10)</note>
                         <note subtype="bibliographic" type="authorial" xml:id="ch1bibln51">
                             <bibl> Nat.hist.li.11.c.10.</bibl>
                         </note>
@@ -2380,8 +2380,8 @@
                     in the sight on their eies, is fully supplied in the sight of their minde.
                             <quote><note subtype="bibliographic" type="authorial" xml:id="ch1bibln54">
                             <bibl>Ambr.Hex.l.5.c.21</bibl></note>
-                        <foreign xml:lang="la">Cùm sit infirma robore apis, valida est vigore
-                            sapientiae &amp; amore virtutis.</foreign></quote>
+                        <foreign xml:lang="la" corresp="#ch1transn41">Cùm sit infirma robore apis, valida est vigore
+                            sapientiae &amp; amore virtutis.</foreign><note xml:id="ch1transn41" type="editorial" subtype="translation">Though the bee is of little strength, it is mighty in the vigour of its understanding and love of virtue. Ambrose, <hi rend="italic">Hexaemeron</hi> V.21.70</note></quote>
                 </p>
                 <p xml:id="ch1par42">And yet I have read of a greater knowledge than all this: How
                     there were Bees so wise and skilfull, as not onely to descrie a certaine little
@@ -2487,7 +2487,7 @@
                     behalfe for their satisfaction, set downe in my Authors owne words. </p>
                 <p xml:id="ch1par47">
                     <quote>
-                        <foreign xml:lang="la">Cum mulier quaedam simplicis ingenii nonnulla apum
+                        <foreign xml:lang="la" corresp="#ch1transn43">Cum mulier quaedam simplicis ingenii nonnulla apum
                             alvearia possideret, neque illae redderent expetitum fructum, sed lue
                             quadam tabescentes morerentur; de consilio alterius foeminae
                             simplicioris, accessit ad sacerdotem perceptura Eucharistiam: quam
@@ -2497,22 +2497,22 @@
                             exaedificatum ab apibus sacellum, constructum altare, parietes miro
                             Architecturae artificio suis fenestris appositè suis locis ornatos,
                             ostium, turrim, cum suis tintinabulis: Eucharistiam vero in altari
-                            repositam circumvolabant suavi susurro per strepentes apes.</foreign>
+                            repositam circumvolabant suavi susurro per strepentes apes.</foreign><note xml:id="ch1transn43" type="editorial" subtype="translation">A certain woman of simple understanding possessed some hives of bees, and when they did not produce the expected yield but were wasting away and dying from some disease, she went on the advice of another woman more simple still to the priest to take eucharist: when she had received it, however, she kept it in her mouth, and going back home took it out and placed it in one of the hives. The disease disappeared and honey flowed. And so in due course when the women had opened up the hives to take out the honey, she saw – a miraculous thing – that a sanctuary had been constructed by the bees, an altar built, with walls endowed by a wonderful skill of architecture with their windows properly in their places, a doorway and a tower with its bells; and indeed the bees flew around the eucharist placed upon the altar, making a loud noise with their sweet buzzing.</note>
                         <note subtype="other" type="editorial" xml:id="ch1par47note">this is the
                             first half of the story which continues in the next quote which includes
                             the reference<bibl>Tho: Bozius de signis Ecclesiae.
                             Lib.14.c.3.</bibl></note>
                     </quote>
                     <note subtype="gloss" type="authorial" xml:id="ch1glon3">
-                        <foreign xml:lang="la"><hi rend="opposite">Nam miranda canunt, sed non
-                                credenda Poetae.</hi></foreign>
+                        <foreign xml:lang="la" corresp="ch1transn42"><hi rend="opposite">Nam miranda canunt, sed non
+                            credenda Poetae.</hi></foreign><note xml:id="ch1transn42" type="editorial" subtype="translation">For the poets sing of things that are wonderful but not to be believed. <hi rend="italic">Distichs of Cato</hi>, III.18.2</note>
                     </note>
                 </p>
                 <fw type="catch"> The</fw>
                 <pb n="D2r"></pb>
                 <fw type="header"> and of their Queene. </fw>
                 <p xml:id="ch1par48">The other he reporteth thus. <quote>
-                        <foreign xml:lang="la">Quidam fures, ut argenteum vasculum in quo condita
+                        <foreign xml:lang="la" corresp="#ch1transn44">Quidam fures, ut argenteum vasculum in quo condita
                             erat Eucharistia auferrent, &amp; illam secum rapuerunt: sacratissimum
                             vero C. corpus sub alveari projecerunt. Post aliquot dies Dominus
                             alvearis videt apes certis horis saepius, dimissis operis ad cibos
@@ -2526,7 +2526,7 @@
                             Eucharistia, circa illud choros apum circumsonantes, &amp; excubias
                             agentes. Acceptum igitur Episcopus sacramentum maximo cum honore in
                             templum reportavit: quo multi accedentes ab innumeris sunt morbis
-                            curati.</foreign>
+                            curati.</foreign><note xml:id="ch1transn45" type="editorial" subtype="translation">Certain robbers, so as to make away with a silver vessel in which the eucharist was contained, stole that along with it; and indeed they threw the holiest body of Christ beneath a beehive. After some days the master of the hive saw the bees again and again at certain hours leave their work of bringing in food, were all at their eating in a kind of mellifluous music. And when by chance he had risen in the middle of the night he saw a very luminous light over the hive and the bees chanting most sweetly beyond all measure. Struck by such an extraordinarily unheard-of and altogether miraculous thing and stirred up by an inner admonition from God, he took the matter to the bishop. He, going there and taking several people along with him, saw, when the hive was opened, a most elegant vessel made of the whitest wax next to the topmost part of the hive, in which was placed the eucharist, and around it choirs of bees singing and keeping vigil. And so the bishop took the sacrament and carried back into the church with the greatest honour: and multitudes came to it and were cured of innumerable sicknesses. Thomas Bozius, <hi rend="italic">De Signis Ecclesiae Dei</hi>, XIV.3 </note>
                     </quote>
                     <app subtype="add" type="other">
                         <lem wit="#b1623"><bibl>Tho: Bozius de signis Ecclesiae.
@@ -2538,8 +2538,8 @@
                     which they kept and compassed, is said to have the gift of healing, which
                     others, though of as good a making, we know doe want. The conclusion, which my
                     Author necessarily inferreth hereupon, is better then all the rest. <quote>
-                        <foreign xml:lang="la">Ex his necesse est dicamus in Eucharistia verum C.
-                            corpus esse.</foreign>
+                        <foreign xml:lang="la" corresp="#ch1transn46">Ex his necesse est dicamus in Eucharistia verum C.
+                            corpus esse.</foreign><note xml:id="ch1transn46" type="editorial" subtype="translation">From these things we must necessarily say that the true body of Christ is in the eucharist.</note>
                     </quote> But if thou wilt grant me that hereby is proved the incredible
                     knowledge and skill of the Bees, for my part I will urge thee no farther.</p>
                 <p xml:id="ch1par50"><note subtype="summary" type="authorial" xml:id="ch1sumn51">51.
