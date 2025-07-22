@@ -3606,7 +3606,7 @@
                     </note></p>
                 <p xml:id="ch3par23">
                     <note subtype="summary" type="authorial" xml:id="ch3sumn16">16. How to make a
-                        hackle.</note> The best cover for Hives is a thicke hackle: <foreign xml:lang="la">Alvearia stramento operiri utilissimum.</foreign> Which is
+                        hackle.</note> The best cover for Hives is a thicke hackle: <foreign xml:lang="la" corresp="#ch3transn1">Alvearia stramento operiri utilissimum.</foreign><note xml:id="ch3transn1" type="editorial" subtype="translation">It is very useful for the hives to be covered with straw. <hi rend="italic">NH</hi> XXI.80(48)</note> Which is
                     thus to be made. Take foure or five handfulls of <ref target="#ch3glon5"><app subtype="add" type="reference">
                             <lem wit="#b1623">*</lem>
                             <rdg wit="#b1609"></rdg>
@@ -3780,7 +3780,7 @@
                         The Hives alwaies close cloomed.</note> Next keepe the Hives alwaies close
                     for defence of the Bees against their enemies. The best cloome for that purpose
                     is made of Neats dung: <quote>
-                        <foreign xml:lang="la">circumlini alveos fimo bubulo utilissimum</foreign>
+                        <foreign xml:lang="la" corresp="#ch3transn2">circumlini alveos fimo bubulo utilissimum</foreign><note xml:id="ch3transn2" type="editorial" subtype="translation">It is very useful for the hives to be spread all over with cow dung. <hi rend="italic">NH</hi> XXI.80(48)</note>
                         <note subtype="bibliographic" type="authorial" xml:id="ch3bibln9">
                             <bibl>Nat hist.li.21.cap.14.</bibl>
                         </note></quote>: <app subtype="change" type="minor">
@@ -4116,12 +4116,12 @@
                                 &amp;c.</foreign> Which two opposite parts the Poet doth fitly
                             distinguish and describe by the two times of fodering and of pasturing
                             Sheepe and Goats. <quote>
-                                <lg xml:lang="la">
+                                <lg xml:lang="la" corresp="#ch3transn3">
                                     <l>---Victumque feres &amp; virgea laetus</l>
                                     <l>Pabula, nec totâ claudes foenilia Bruma:</l>
                                     <l>At verò Zephyris quum laeta vocantibus Aestas,</l>
                                     <l>In saltus utrumque gregem &amp; Pascua mittes.</l>
-                                </lg>
+                                </lg><note xml:id="ch3transn3" type="editorial" subtype="translation">You will cheerfully bring fodder and brushwood for food, and will not shut up your hayloft for the whole winter: but when indeed glad summer comes at the zephyr’s summons, you will send your both your flocks into the woodland pastures and fields. <hi rend="italic">Georgics</hi> III.320ff.</note>
                                 <note place="margin" subtype="bibliographic" type="authorial" xml:id="ch3bibln19">
                                     <bibl>Georg.lib.3</bibl>
                                 </note></quote>
@@ -4329,8 +4329,8 @@
                         <lem wit="#b1623">in all their doings:</lem>
                         <rdg wit="#b1609"><ptr target="1609.xml#ch3ancs50xxx 1609.xml#ch3ance50xxx"></ptr></rdg>
                     </app> as the Philosopher well noted, <quote>
-                        <foreign xml:lang="la">Si alveus justo amplior sit, desidiosiores
-                            redduntur.</foreign>
+                        <foreign xml:lang="la" corresp="#ch3transn4">Si alveus justo amplior sit, desidiosiores
+                            redduntur.</foreign><note xml:id="ch3transn4" type="editorial" subtype="translation">If the hive is larger than is right, the bees become lazy. <hi rend="ch3transn4">HA</hi> IX.40 (627b init.)</note>
                         <note subtype="bibliographic" type="authorial" xml:id="ch3bibln27">
                             <bibl>Hist.l.9.c.40.</bibl>
                         </note></quote>
@@ -4802,9 +4802,9 @@
                         <lem wit="#b1623">returnes</lem>
                         <rdg wit="#b1609"><ptr target="1609.xml#ch4ancs5 1609.xml#ch4ance5"></ptr></rdg>
                     </app> he presently to his cheere. <quote>
-                        <foreign xml:lang="la">Fuci cum exeunt, efferunt sese fusim in sublimi,
+                        <foreign xml:lang="la" corresp="#ch3transn5">Fuci cum exeunt, efferunt sese fusim in sublimi,
                             gyroque volitant: quod ubi satis jam fecerint, redeunt domum, &amp;
-                            epulis perfruuntur.</foreign>
+                            epulis perfruuntur.</foreign><note xml:id="ch3transn5" type="editorial" subtype="translation">When the drones go out they rise up in a stream and fly about in a high circuit: when they have had enough of this they return home and enjoy their feasting. <hi rend="italic">HA</hi> IX.40 (624a)</note>
                         <note subtype="bibliographic" type="authorial" xml:id="ch4bibln1">
                             <bibl> Hist.an.li.9.c.40.</bibl>
                         </note>
@@ -4857,7 +4857,7 @@
                     <note subtype="bibliographic" type="authorial" xml:id="ch4bibln5">
                         <ref target="#ch4sumn18">V.n.18.</ref>&amp;<ref target="#ch4sumn19">19.</ref>
                     </note> there is not a Drone to be had <quote>
-                        <foreign xml:lang="la">In rerum natura.</foreign><note subtype="bibliographic" type="authorial" xml:id="ch4bibln6"><bibl>Nat hist
+                        <foreign xml:lang="la" corresp="#ch4transn6">In rerum natura.</foreign><note xml:id="ch5transn6" type="editorial" subtype="translation"></note>in the world<note subtype="bibliographic" type="authorial" xml:id="ch4bibln6"><bibl>Nat hist
                                 l.11.c.11.</bibl></note>
                     </quote> When they are quite gone, then doe the Bees lay no more seeds that
                     yeere, but onely hatch and breed up those that are already in the celles. <note subtype="bibliographic" type="authorial" xml:id="ch4bibln7">
@@ -4867,8 +4867,8 @@
                         The second reason is, that the Drones being taken away in breeding time, the
                         Bees breed no more.</note> Secondly, as the rather and the more the Drones
                     are, the more and greater are the swarmes; <quote>
-                        <foreign xml:lang="la">(Certe quo major fuerit fucorum multitudo, eo major
-                            fiet examinum proventus; v.)</foreign>
+                        <foreign xml:lang="la" corresp="#ch3transn6">(Certe quo major fuerit fucorum multitudo, eo major
+                            fiet examinum proventus; v.)</foreign><note xml:id="ch3transn6" type="editorial" subtype="translation">To be sure the larger the number of drones, the larger will be the growth of swarms. <hi rend="italic">NH</hi> XI.28(11)</note>
                     </quote> so where the Drones are few and late, there is small increase: and
                     therefore if you kill the Drones of a Hive before the Bees have done swarming
                     and breeding, (as some fondly have done before Mid-sommer, to save their hony
@@ -4917,7 +4917,7 @@
                     </app>, they are all gone. </p>
                 <p xml:id="ch4par6"><note subtype="summary" type="authorial" xml:id="ch4sumn6">6.
                         The third reason is, that they are bred by the Bees.</note> Thirdly, because
-                        <foreign xml:lang="la">omne simile generat sibi simile</foreign>, Every
+                    <foreign xml:lang="la" corresp="#ch3transn7">omne simile generat sibi simile</foreign>,<note xml:id="ch3transn7" type="editorial" subtype="translation">everything alike generates its like</note> Every
                     living thing doth breed Male, or Female of his kinde, and experience doth teach
                     us that the Bees doe <app subtype="add" type="vocabulary">
                         <lem wit="#b1623">yeerely</lem>
@@ -4933,8 +4933,8 @@
                     </app>
                 </p>
                 <note place="inline" subtype="gloss" type="authorial" xml:id="ch4glon1"><app subtype="change" type="minor">
-                    <lem wit="#b1623">*<foreign xml:lang="la">Hic fucus, ὁ κηφήν: Ac haec apis,
-                        ἡ μέλισσα, דבורה, cum ה faeminino </foreign></lem>
+                    <lem wit="#b1623">*<foreign xml:lang="la" corresp="#ch3transn8">Hic fucus, ὁ κηφήν: Ac haec apis,
+                        ἡ μέλισσα, דבורה, cum ה faeminino </foreign><note xml:id="ch3transn8" type="editorial" subtype="translation">fucus, kephēn – drone – is masculine in Latin and Greek, but apis, melissa – bee – is feminine; and also in Hebrew: dvora (Deborah), with a feminine ‘a’ ending</note></lem>
                     <rdg wit="#b1609"><ptr target="1609.xml#ch4ancs13 1609.xml#ch4ance13"></ptr></rdg>
                 </app>
                     <app subtype="add" type="major">
@@ -4943,15 +4943,15 @@
                             <persName>Melissus</persName> King of Crete, being one of <persName>
                                 Jupiters</persName> nurces, is said to have beene by him transformed
                             into the Honi-Bee: which retaineth still her gender, sex, and name. <quote>
-                                <foreign xml:lang="la">Didymus aiit duas Melissi fuisse filias,
+                                <foreign xml:lang="la" corresp="#ch3transn9">Didymus aiit duas Melissi fuisse filias,
                                     Almatheam &amp; Melissam, quae Jovem puerum caprino lacte &amp;
-                                    melle nutrierant.</foreign>
+                                    melle nutrierant.</foreign><note xml:id="ch3transn9" type="editorial" subtype="translation">Didymus has said that there were two daughters of Melissus, Almathea and Melissa, who nursed the boy Jupiter with goat’s milk and honey. Lactantius, <hi rend="italic">Divinae Institutiones</hi> I.22</note>
                                 <bibl>Lact.lib.1.instit.c.22.</bibl>
                             </quote>
                             <quote>
-                                <foreign xml:lang="la">Nec sane rustico dignum est sciscitari,
+                                <foreign xml:lang="la" corresp="#ch3transn10">Nec sane rustico dignum est sciscitari,
                                     fueritne mulier pulcherrima specie Melissa, quam Iupiter in Apem
-                                    convertit.</foreign>
+                                    convertit.</foreign><note xml:id="ch3transn10" type="editorial" subtype="translation">Nor indeed is it worthy of a countryman to enquire whether there was ever a woman of very beautiful appearance, Melissa, whom Jupiter turned into a bee. Columella, <hi rend="italic">De Re Rustica</hi> IX.2.3</note>
                                 <bibl> Columella.lib.10.c.2.</bibl>
                             </quote>
                         </lem>
@@ -4983,9 +4983,9 @@
                         <note subtype="bibliographic" type="authorial" xml:id="ch4bibln13">
                             <bibl>Hist.l.9.c.42.</bibl>
                         </note>
-                        <foreign xml:lang="la">Missio, ut apum, nulla vel crabronum vel vesparum
+                        <foreign xml:lang="la" corresp="#ch3transn11">Missio, ut apum, nulla vel crabronum vel vesparum
                             fieri solet: sed qui subinde oriantur novelli ibidem manent, &amp;
-                            alveum terrâ egestâ, faciunt ampliorem.</foreign>
+                            alveum terrâ egestâ, faciunt ampliorem.</foreign><note xml:id="ch3transn11" type="editorial" subtype="translation">There is no swarming of hornets or wasps as there is of bees: but the new creatures which continually come into existence remain where they are and enlarge the nest by carrying earth out. <hi rend="italic">HA</hi> IX.42 (629a)</note>
                     </quote>
                     <app subtype="change" type="minor">
                         <lem wit="#b1623">When their breeding draweth toward an end, namely in
@@ -5055,10 +5055,10 @@
                         <note subtype="bibliographic" type="authorial" xml:id="ch4bibln14">
                             <bibl>Hist.li.9.41.</bibl>
                         </note>
-                        <foreign xml:lang="la">Si vespam ex pedibus ceperis bombilareque siveris,
+                        <foreign xml:lang="la" corresp="#ch3transn12">Si vespam ex pedibus ceperis bombilareque siveris,
                             advolant quae aculeo carent: quod non faciunt quae aculeatae sunt.
                             Itaque argumento quidam hoc utuntur quod alterae mares sunt, alterae
-                            foeminae:</foreign>
+                            foeminae:</foreign><note xml:id="ch3transn12" type="editorial" subtype="translation">If you take a wasp by the feet and allow it to buzz, ones that lack a sting fly towards it: which those that are armed with a sting do not do. And so some people hold this as proof that the ones are male and the others female. <hi rend="italic">HA</hi> IX.41 (628b)</note>
                     </quote> which argument seemeth not unprobable, seeing the Fowlers
                     counterfeiting the call of the Hen-Quailes catch onely the Cocks.</p>
                 <p xml:id="ch4par10"><note subtype="summary" type="authorial" xml:id="ch4sumn9">9.
@@ -5119,7 +5119,7 @@
                 <p xml:id="ch4par11"><note subtype="summary" type="authorial" xml:id="ch4sumn10">10.
                         The fift reason is the apparent signes of their Sex.</note> By this time
                     thou wilt say with me, that the Drone is the male-Bee: Whereof if some curious
-                    Chirurgion would make an Anotomie, he should easily discerne <foreign xml:lang="la">Duos amplos &amp; candidos testes</foreign>, two <app subtype="change" type="vocabulary">
+                    Chirurgion would make an Anotomie, he should easily discerne <foreign xml:lang="la" corresp="#ch3transn13">Duos amplos &amp; candidos testes</foreign>,<note xml:id="ch3transn13" type="editorial" subtype="translation">two well-sized white testes</note> two <app subtype="change" type="vocabulary">
                         <lem wit="#b1623">lawfull</lem>
                         <rdg wit="#b1609"><ptr target="1609.xml#ch4ancs21 1609.xml#ch4ance21"></ptr></rdg>
                     </app> witnesses of his Masculine Sex.</p>
@@ -5133,16 +5133,16 @@
                         <note subtype="bibliographic" type="authorial" xml:id="ch4bibln16">
                             <bibl> His.l.5.c.21.</bibl>
                         </note>
-                        <foreign xml:lang="la">Aliqui <hi rend="opposite">(saith he)</hi> mares esse
-                            fucos, foeminas vero apes esse contendunt.</foreign>
+                        <foreign xml:lang="la" corresp="#ch3transn14">Aliqui <hi rend="opposite">(saith he)</hi> mares esse
+                            fucos, foeminas vero apes esse contendunt.</foreign><note xml:id="ch3transn14" type="editorial" subtype="translation">Some maintain that the males are the drones, and the females are the bees. <hi rend="italic">HA</hi> V.21  (553b init.)</note>
                     </quote> Which opinion he reciteth in another place. <quote>
-                        <foreign xml:lang="la">Sunt qui fuces mares esse, apes foeminas
-                            arbitrentur</foreign>
+                        <foreign xml:lang="la" corresp="#ch3transn15">Sunt qui fuces mares esse, apes foeminas
+                            arbitrentur</foreign><note xml:id="ch3transn15" type="editorial" subtype="translation">There are those who think that drones are male and the bees female. Aristotle, <hi rend="italic">De generatio animalium</hi> III.10 (759a)</note>
                     </quote>. Where though he doe not approve it; yet hath he no other resson
                     against it but this, <quote>
                         <note subtype="bibliographic" type="authorial" xml:id="ch4bibln17"><bibl>Generat.l.3.c.10.</bibl></note>
-                        <foreign xml:lang="la">Arma ad pugnam viresque exercendas nulli foeminae à
-                            natura tribuunutur.</foreign>
+                        <foreign xml:lang="la" corresp="#ch3transn16">Arma ad pugnam viresque exercendas nulli foeminae à
+                            natura tribuunutur.</foreign><note xml:id="ch3transn16" type="editorial" subtype="translation">Weapons for attacking and for the exercise of strength are not granted by nature to any female. Aristotle, <hi rend="italic">De generatio animalium</hi> III.10 (759b init.)</note>
                     </quote> Nature hath armed <app subtype="del" type="minor">
                         <lem wit="#b1623"></lem>
                         <rdg wit="#b1609"><ptr target="1609.xml#ch4ancs23 1609.xml#ch4ance23"></ptr></rdg>
