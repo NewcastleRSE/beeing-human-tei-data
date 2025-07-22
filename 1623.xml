@@ -8595,8 +8595,8 @@
                         <note subtype="bibliographic" type="authorial" xml:id="ch6bibln10">
                             <bibl>His.l.9.c.40.</bibl>
                         </note>
-                        <foreign xml:lang="la">Sunt loculi ipsi fucorum ampliores, &amp; finguntur
-                            seorsim quoque per se favi fucorum.</foreign>
+                        <foreign xml:lang="la" corresp="#ch6transn8">Sunt loculi ipsi fucorum ampliores, &amp; finguntur
+                            seorsim quoque per se favi fucorum.</foreign><note xml:id="ch6transn8" type="editorial" subtype="translation" resp="#HH">The cells of drones are larger, and the drones’ combs are also constructed by them separately. <hi rend="italic">HA</hi> IX.40 (624b)</note>
                     </quote> Although in some hives <app subtype="change" type="minor">
                         <lem wit="#b1623">part</lem>
                         <rdg wit="#b1609"><ptr target="1609.xml#ch6ancs11x 1609.xml#ch6ance11x"></ptr></rdg>
