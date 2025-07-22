@@ -2539,7 +2539,7 @@
                     others, though of as good a making, we know doe want. The conclusion, which my
                     Author necessarily inferreth hereupon, is better then all the rest. <quote>
                         <foreign xml:lang="la" corresp="#ch1transn46">Ex his necesse est dicamus in Eucharistia verum C.
-                            corpus esse.</foreign><note xml:id="ch1transn46" type="editorial" subtype="translation">From these things we must necessarily say that the true body of Christ is in the eucharist.</note>
+                            corpus esse.</foreign><note xml:id="ch1transn46" type="editorial" subtype="translation">From these things iwe must necessarily say that the true body of Christ is in the eucharist.</note>
                     </quote> But if thou wilt grant me that hereby is proved the incredible
                     knowledge and skill of the Bees, for my part I will urge thee no farther.</p>
                 <p xml:id="ch1par50"><note subtype="summary" type="authorial" xml:id="ch1sumn51">51.
@@ -2554,25 +2554,26 @@
                     another. <ref target="#ch7sumn25"> v.c.7.n.25.</ref></p>
                 <p xml:id="ch1par52"><note subtype="summary" type="authorial" xml:id="ch1sumn53">53.
                         Chastitie.</note> Their Chastitie is to be admired. <quote>
-                        <foreign xml:lang="la">Integritas corporis virginalis omnibus communis.
+                        <foreign xml:lang="la" corresp="#ch1transn47">Integritas corporis virginalis omnibus communis.
                                 <note subtype="bibliographic" type="authorial" xml:id="ch1bibln55">
                                 <bibl>Amb.Hex.l.5.c.21.</bibl>
-                            </note>
+                                </note></foreign><note xml:id="ch1transn47" type="editorial" subtype="translation">The chastity of the virgin body is common to all. Ambrose, <hi rend="italic">Hexameron</hi> V.21.67</note>
                             <fw type="catch"> Et </fw>
                             <pb n="D2v"></pb>
-                            <fw type="header"> Of the Nature and properties of Bees, </fw>
+                            <fw type="header"> Of the Nature and properties of Bees, </fw><foreign xml:lang="la" corresp="#ch1transn48">
                             <app subtype="add" type="minor">
-                                <lem wit="#b1623">Et certe apes semina non coeundo concipiunt. <hi rend="opposite">Item</hi>, Omnipotens creator apibus prolem
+                                <lem wit="#b1623">Et certe apes semina non coeundo concipiunt.</lem><rdg wit="#b1609"/></app></foreign><note xml:id="ch1transn48" type="editorial" subtype="translation">And to be sure bees do not become fertilised by semen through copulation. Augustine, <hi rend="italic">De Trinitate</hi> III.8.13</note><app subtype="add" type="minor">
+                                    <lem wit="#b1623"><foreign xml:id="la" corresp="#ch1transn49"><hi rend="opposite">Item</hi>, Omnipotens creator apibus prolem
                                     sine concubitu dedit. <note subtype="bibliographic" type="authorial" xml:id="ch1bibln55x"><bibl>August.de
-                                            Trinit.l.3. Idem de bono coniugali.</bibl></note></lem>
+                                        Trinit.l.3. Idem de bono coniugali.</bibl></note></foreign><note xml:id="ch1transn49" type="editorial" subtype="translation">The almighty creator gave to bees the ability to produce offspring without coitus. Augustine, <hi rend="italic">De Bono Conjugali</hi> 2.2</note></lem>
                                 <rdg wit="#b1609"></rdg>
-                            </app></foreign>
+                            </app>And to be sure bees do not become fertilised by semen through copulation. Augustine, <hi rend="italic">De Trinitate</hi> III.8.13
                     </quote></p>
                 <p xml:id="ch1par53"><quote>
-                        <foreign xml:lang="la"><lg rend="inline">
+                        <foreign xml:lang="la" corresp="#ch1transn50"><lg rend="inline">
                                 <l>Illum adeo placuisse apibus mirabere morem,</l>
                                 <l>Quod non concubitu indulgent, &amp;c.</l>
-                            </lg></foreign>
+                        </lg></foreign><note xml:id="ch1transn50" type="editorial" subtype="translation">You will be amazed at this behaviour that pleases the bees to such an extent that they do not indulge in coitus. Vergil, <hi rend="italic">Georgics</hi> IV.197f.</note>
                     </quote>
                     <note subtype="bibliographic" type="authorial" xml:id="ch1bibln56">
                         <bibl>Georg.</bibl>
@@ -2592,9 +2593,9 @@
                         <bibl>Generat.an.l.3.c.10.</bibl>
                     </note>
                     <quote>
-                        <foreign xml:lang="la">Cum in genere piscium talis quaedam sit generatio
+                        <foreign xml:lang="la" corresp="#ch1transn51">Cum in genere piscium talis quaedam sit generatio
                             nonnullorum, ut sine coitu generent; hoc idem in apibus etiam evenire
-                            videtur, quoad sensus ratioque apparens admoneat.</foreign>
+                            videtur, quoad sensus ratioque apparens admoneat.</foreign><note xml:id="ch1transn51" type="editorial" subtype="translation">Since something like it is the case with the reproduction of some kinds of fish, so that they reproduce asexually; this same thing seems also to happen with bees, inasmuch as sense and evident reason suggests it. Aristotle, <hi rend="italic">De generatio animalium</hi> III.10 (759b fin.) in Latin translation</note>
                     </quote></p>
                 <p xml:id="ch1par54"><note subtype="summary" type="authorial" xml:id="ch1sumn54">54.
                         Cleanlinesse</note> For cleanlinesse and neatnesse, they may be a Mirror to
@@ -2602,22 +2603,24 @@
                         <note subtype="bibliographic" type="authorial" xml:id="ch1bibln59">
                             <bibl>Hist.an.l.9.cap.40.</bibl>
                         </note>
-                        <foreign xml:lang="la">Mundissimum omnium hoc animal est.</foreign>
+                        <foreign xml:lang="la" corresp="#ch1transn52">Mundissimum omnium hoc animal est.</foreign><note xml:id="ch1transn52" type="editorial" subtype="translation">Mundissimum omnium hoc animal est. Hist.an.l.9.cap.40.
+                            This animal is the cleanliest of all. <hi rend="italic">HA</hi> IX.40 (626a)
+                        </note>
                     </quote> For neither will they suffer any slutterie within, if they may goe
                     abroad, <quote>
                         <note subtype="bibliographic" type="authorial" xml:id="ch1bibln60">
                             <quote><bibl>Nat.hist.li.11.c.10</bibl></quote>
                         </note>
-                        <foreign xml:lang="la">Amoliuntur omnia è medio, nullaeque inter opera
-                            spurcitiae jacent</foreign>
+                        <foreign xml:lang="la" corresp="#ch1transn53">Amoliuntur omnia è medio, nullaeque inter opera
+                            spurcitiae jacent</foreign><note xml:id="ch1transn53" type="editorial" subtype="translation">They carry everything away and no excrement lies among their works. <hi rend="italic">NH</hi> XI.25(10)</note>
                     </quote>; neither can they endure any unsavorinesse without nigh unto them. <quote>
-                        <foreign xml:lang="la">Odere foedos odores: <app subtype="add" type="minor">
-                                <lem wit="#b1623">Nulla harum assidet in loco inquinato, aut eo qui
-                                    malè oleat.<note subtype="bibliographic" type="authorial" xml:id="ch1bibln61">
+                        <foreign xml:lang="la" corresp="#ch1transn54">Odere foedos odores:</foreign><note xml:id="ch1transn54" type="editorial" subtype="translation">They hate foul smells. <hi rend="italic">NH</hi> XI.61(19) cf. <hi rend="italic">HA</hi> IX.40 (626a)</note><app subtype="add" type="minor">
+                                <lem wit="#b1623"><foreign xml:lang="la" corresp="#ch1transn55">Nulla harum assidet in loco inquinato, aut eo qui
+                                    malè oleat.</foreign><note xml:id="ch1transn55" type="editorial" subtype="translation"></note><note subtype="bibliographic" type="authorial" xml:id="ch1bibln61">
                                         <bibl>Hist.an.l.9.c.40</bibl>
                                     </note></lem>
                                 <rdg wit="#b1609"></rdg>
-                            </app></foreign>
+                        </app>
                     </quote>
                     <note subtype="bibliographic" type="authorial" xml:id="ch1bibln62">
                         <bibl> Var.l.3.c.15.</bibl>
@@ -2632,16 +2635,16 @@
                         <note subtype="bibliographic" type="authorial" xml:id="ch1bibln63">
                             <bibl>Georg.4.</bibl>
                         </note>
-                        <foreign xml:lang="la">Neque enim plus septima ducitur aestas.</foreign>
+                        <foreign xml:lang="la" corresp="#ch1transn56">Neque enim plus septima ducitur aestas.</foreign><note xml:id="ch1rtransn56" type="editorial" subtype="translation">For nor does their age extend beyond the seventh summer. <hi rend="italic">Georgics</hi> IV.207</note>
                     </quote>
                 </p>
                 <p xml:id="ch1par56"><persName>Aristotle</persName> speaketh of a longer time. <quote>
                         <note subtype="bibliographic" type="authorial" xml:id="ch1bibln63b">
                             <bibl>Hist.l.5.c.22.</bibl>
                         </note>
-                        <foreign xml:lang="la">Vita apum anni sex, nonnullae etiam 7 possunt
+                        <foreign xml:lang="la" corresp="#ch1trans57">Vita apum anni sex, nonnullae etiam 7 possunt
                             complere: quod si examen 9 aut decem annos duraverit prosperè actum esse
-                            existimatur.</foreign>
+                            existimatur.</foreign><note xml:id="ch1transn57" type="editorial" subtype="translation">The life of a bee is six years, and some can even live out seven: and if a swarm lasts nine or ten years, it is considered to have been managed successfully. <hi rend="italic">HA</hi> V.22 (554b init.)</note>
                     </quote> Which opinions are grounded upon this, that they see a stall sometimes
                     continue so long, before the Bees die altogether. But this continuance is onely
                     by succession: and so might they live in <term>secula</term>, if the rottennesse
@@ -2653,7 +2656,7 @@
                             </note></lem>
                         <rdg wit="#b1609"></rdg>
                     </app>would suffer them to abide the Hives. <quote>
-                        <foreign xml:lang="la">Nam genus immortale manet.</foreign>
+                        <foreign xml:lang="la" corresp="#ch1transn58">Nam genus immortale manet.</foreign><note xml:id="ch1transn58" type="editorial" subtype="translation">For the race continues undying. <hi rend="italic"></hi>Georgics IV.208</note>
                         <note subtype="bibliographic" type="authorial" xml:id="ch1bibln65">
                             <bibl>Georg.4.</bibl>
                         </note>
@@ -2720,9 +2723,9 @@
                     as if they were swarming or fighting: when indeed it is onely to solace
                     themselves: and this chiefly in warme weather, after they have beene long kept
                     in. <quote>
-                        <foreign xml:lang="la">Exercitationem interdum solennem habent: spatiataeque
+                        <foreign xml:lang="la" corresp="#ch1transn59">Exercitationem interdum solennem habent: spatiataeque
                             in aperto &amp; in altum datae, gyris volatu editis; tum domum
-                            redeunt.</foreign>
+                            redeunt.</foreign><note xml:id="ch1transn59" type="editorial" subtype="translation">Meanwhile they hold a ritual exercise, spreading about in the open and flying up high, and after making circles in flight they then return home. <hi rend="italic">NH</hi> XI.68(22)</note>
                         <note subtype="bibliographic" type="authorial" xml:id="ch1bibln68">
                             <bibl>Nat.hist.l.11.c.20</bibl>
                         </note>
@@ -2812,8 +2815,8 @@
                         <rdg wit="#b1609"><ptr target="1609.xml#ch2ancs2 #ch2ance2"></ptr></rdg>
                     </app>
                     <quote>
-                        <foreign xml:lang="la">Hortis coronamentisque maxime alvearia &amp; apes
-                            conveniunt, res praecipui quaestus compendijque cum favit.</foreign>
+                        <foreign xml:lang="la" corresp="ch2transn1">Hortis coronamentisque maxime alvearia &amp; apes
+                            conveniunt, res praecipui quaestus compendijque cum favit.</foreign><note xml:id="ch2transn1" type="editorial" subtype="translation">Beehives and bees are very greatly suited to gardens and flowers, a business of especial profit and economy, where circumstances have been favourable. <hi rend="italic">NH</hi> XXI.70(41)</note>
                         <note subtype="bibliographic" type="authorial" xml:id="ch2bibln1">
                             <bibl>Nat.hist.li.21.c.12.</bibl>
                         </note></quote>
@@ -2895,7 +2898,7 @@
                         <note subtype="bibliographic" type="authorial" xml:id="ch2bibln4">
                             <bibl>Nat.hist.li.11.c.18.</bibl>
                         </note>
-                        <foreign xml:lang="la">Odêre foedos odores, proculque fugiunt:</foreign>
+                        <foreign xml:lang="la" corresp="#ch2transn2">Odêre foedos odores, proculque fugiunt:</foreign><note xml:id="ch2transn2" type="editorial" subtype="translation">They hate foul smells, and fly far from them. <hi rend="italic">NH</hi> XI.61(19)</note>
                     </quote>: And yet the smell of urine doth not offend them: nay, they wil bee
                     very busie where it is shed. It is thought they use it for Physicke. <quote>
                         <note subtype="bibliographic" type="authorial" xml:id="ch2bibln5">
@@ -2904,8 +2907,8 @@
                                     <rdg wit="#b1609"></rdg>
                                 </app></bibl>
                         </note>
-                        <foreign xml:lang="la">Remedium contra alvi concitationem est urina hominum
-                            vel boum.</foreign>
+                        <foreign xml:lang="la" corresp="#ch2transn3">Remedium contra alvi concitationem est urina hominum
+                            vel boum.</foreign><note xml:id="ch2transn3" type="editorial" subtype="translation">A remedy against overexcitement in the hive is the urine of men or cattle.  </note>
                     </quote></p>
                 <p xml:id="ch2par11">
                     <note subtype="summary" type="authorial" xml:id="ch2sumn7">7. Neither very cold
