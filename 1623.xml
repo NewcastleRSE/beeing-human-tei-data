@@ -2917,10 +2917,10 @@
                         <bibl> Hist.l.9.c.40.</bibl>
                     </note>
                     <quote>
-                        <foreign xml:lang="la">Locus aestate non fervidus, hyeme tepidus, <ref target="#ch2bibln7"><app subtype="add" type="other">
+                        <foreign xml:lang="la" corresp="#ch2transn4">Locus aestate non fervidus, hyeme tepidus, <ref target="#ch2bibln7"><app subtype="add" type="other">
                                     <lem wit="#b1623">v:</lem>
                                     <rdg wit="#b1609"></rdg>
-                                </app></ref></foreign>
+                        </app></ref></foreign><note xml:id="ch2transn4" type="editorial" subtype="translation">A spot not hot in summer, and warm in winter. <hi rend="italic">HA</hi> IX.40 (626b)</note>
                     </quote>
                     <note subtype="bibliographic" type="authorial" xml:id="ch2bibln7">
                         <ref target="#ch3sumn36"><app subtype="add" type="other">
@@ -3142,12 +3142,12 @@
                         <rdg wit="#b1609"></rdg>
                     </app></p>
                 <app subtype="add" type="major">
-                    <lem wit="#b1623"><note place="inline" subtype="gloss" type="authorial" xml:id="ch2glon1">*<foreign xml:lang="la"><hi rend="opposite">Ptolomaeus</hi> obliquè eos notat, qui climactericos annos
+                    <lem wit="#b1623"><note place="inline" subtype="gloss" type="authorial" xml:id="ch2glon1">*<foreign xml:lang="la" corresp="#ch2transn5"><hi rend="opposite">Ptolomaeus</hi> obliquè eos notat, qui climactericos annos
                                 faciunt ex numerorum sola observatione, ut enneadicos &amp;
                                 hebdomaticos. Unde multis molesta senibus superstitio super anno
                                 sexagesimo tertio, quoniam pejus angui tigrideque formidant: sed
                                 peccat in his vulgus errore veniali, qui Philosophi esse volunt,
-                                quis excusaverit?</foreign>
+                                quis excusaverit?</foreign><note xml:id="ch2transn5" type="editorial" subtype="translation">Ptolemy has an indirect reference to those who make climacteric years purely by the observation of numbers, as they do enneads and septenaries. From which comes a bothersome superstition among many old folk concerning their sixty-third year, since they fear it more than a snake or a tiger. But though the common herd makes a forgivable error in this, what man who wishes to be a philosopher will excuse it? Giovanni Pico della Mirandola, <hi rend="italic">In Astrologiam</hi> VI.19 fin.</note>
                             <bibl>Pic.Miran.Lib.6.c.19.</bibl></note></lem>
                     <rdg wit="#b1609"></rdg>
                 </app>
