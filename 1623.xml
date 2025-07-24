@@ -9726,7 +9726,7 @@
                         </app></p>
                     <p xml:id="ch7par12">
                         <foreign xml:lang="la"><app subtype="add" type="major">
-                                <lem wit="#b1623">Sed instar omnium erit hoc unum. R. Farinae I.
+                                <lem wit="#b1623" corresp="#ch7transn1">Sed instar omnium erit hoc unum. R. Farinae I.
                                     avenacae novae aridae dulcis Drachmas IV. tere: 2. Arsenicae
                                     albae 3. semi-drachmam, inpulverem quam queas 4. minimum per se
                                     pertere: 5. sacchari puri semi-drachmam cum arsenica contere:
@@ -9766,7 +9766,15 @@
                                             decipulis facilè decipientur.</item>
                                     </list></lem>
                                 <rdg wit="#b1609"></rdg>
-                            </app></foreign>
+                        </app></foreign><note xml:id="ch7transn1" type="editorial" subtype="translation" resp="#HH">But this one will be the pattern for all of them. R[eceipt]: Grind four drachms of fresh sweet dry oatmeal (1); of white arsenic (2) grind a half-drachm (3) by itself into as fine a powder as you can (4); grind a half-drachm of pure sugar (5) with the arsenic; mix the sugared arsenic well with the oatmeal. Once this powder is made (6) put it down placed upon small tiles next to mouseholes and in places which mice frequent (having removed other food sources (7)). But on the first night leave out plain flour: for which, after it has been eaten, you should substitute sugared flour on the second night; on the third this triple powder should follow, and now that they are sufficiently daring and suspect nothing, this will kill the mice and rats  alike that are infesting your house all in one go. But if you want a more certain remedy against an infestation of rats, grind one drachm of sugar with one drachm of finely ground arsenic; mix the sugared arsenic well with one ounce of sweet ground brewing malt, and put it down in three or four places which they frequent; or in the same place raisins dotted inside with a small measure of pure ground arsenic. But take especial care that no dogs, chickens or other harmless animals taste them, which you may achieve if you only put it out at night and hide it away during the day.
+                            <list> <item>(1) or wheatmeal.</item> 
+                               <item>(2) true arsenic.</item>
+                                <item> (3) so that the arsenic should make up only a tenth part, for if it is preponderant, mice – and more so rats – smell the poison and refuse the food which if it is correctly made up they will devour eagerly; a little amount is enough.</item> 
+                                <item> (4) so that its hardness does not discourage it being chewed.</item> 
+                                <item> (5) both because the sweetness is enticing and because it crunches between the teeth like well-ground arsenic: for when they have eaten this on the second night without harm, on the third they will be less wary of the arsenic which it resembles in its crunchiness and colour.</item> 
+                                <item>(6) A quantity the size of an oatgrain is sufficient for each tile.</item> 
+                                <item>(7) for if there is other food around they will avoid the fake food, and when once the trick is detected, they will not be easily deceived by other traps. </item></list>
+                        </note>
                     </p>
                 </note>
                 <p xml:id="ch7par13"><note subtype="summary" type="authorial" xml:id="ch7sumn4">4.
@@ -9809,8 +9817,8 @@
                     </app></p>
                 <p xml:id="ch7par15">
                     <note subtype="summary" type="authorial" xml:id="ch7sumn7">7. 4. The
-                        Swallow.</note> The Swallow taketh them as they flie, <foreign xml:lang="la">Populatur hirundo, <hi rend="opposite">&amp; alibi</hi> Ea demum sola avium
-                        non nisi in volatu pascitur</foreign> : <note subtype="bibliographic" type="authorial" xml:id="ch7bibln4">
+                        Swallow.</note> The Swallow taketh them as they flie, <foreign xml:lang="la" corresp="#ch7transn2">Populatur hirundo</foreign>,<note xml:id="ch7transn2" type="editorial" subtype="translation" resp="#HH">The swallow ravages them. <hi rend="italic">NH</hi> XI.19(61) </note> <hi rend="opposite">&amp; <foreign xml:lang="la" corresp="#ch7transn3">alibi</foreign><note xml:id="ch7transn3" type="editorial" subtype="translation" resp="#HH">and elsewhere</note></hi> <foreign xml:lang="la" corresp="#ch7transn4">Ea demum sola avium
+                            non nisi in volatu pascitur</foreign><note xml:id="ch7transn4" type="editorial" subtype="translation" resp="#HH">Indeed it is unique among birds in feeding only in flight. <hi rend="italic">NH</hi> X.75(33)</note>: <note subtype="bibliographic" type="authorial" xml:id="ch7bibln4">
                         <bibl>Nat hist.li.11.c.18</bibl>
                     </note>
                     <note subtype="bibliographic" type="authorial" xml:id="ch7bibln5"><bibl>Nat
@@ -9822,8 +9830,8 @@
                         <note subtype="bibliographic" type="authorial" xml:id="ch7biblnX5">
                             <bibl>Virg.</bibl>
                         </note>
-                        <foreign xml:lang="la">--- Absint meropesque aliaeque volucres <lb></lb> Et
-                            manibus Progne pectus signata cruentis.</foreign>
+                        <foreign xml:lang="la" corresp="#ch7transn5">--- Absint meropesque aliaeque volucres <lb></lb> Et
+                            manibus Progne pectus signata cruentis.</foreign><note xml:id="ch7transn5" type="editorial" subtype="translation" resp="#HH">Let there be no […] bee-eaters or other birds, nor Procne  marked on her chest with her bloodstained hands <hi rend="italic">Georgics</hi> IV.13ff.</note>
                     </quote></p>
                 <p xml:id="ch7par16"><note subtype="summary" type="authorial" xml:id="ch7sumn8">8.
                         Remedie against the Titmouse and Swallow.</note> Let boyes destroy their
@@ -9844,10 +9852,10 @@
                         <note subtype="bibliographic" type="authorial" xml:id="ch7bibln6">
                             <bibl> His.l.9.c.40.</bibl>
                         </note>
-                        <foreign xml:lang="la">Inferunt injuriam apibus maximè vespae, &amp;
+                        <foreign xml:lang="la" corresp="#ch7transn6">Inferunt injuriam apibus maximè vespae, &amp;
                             aviculae quas paros vocant, atque etiam hirundo, &amp; merops qui
                             apiaster est. Quamobrem apiarii vesparum latibula &amp; hirundinum ac
-                            meropum nidos propinquos alveis tollunt.</foreign>
+                            meropum nidos propinquos alveis tollunt.</foreign><note xml:id="ch7transn6" type="editorial" subtype="translation" resp="#HH">Wasps do the greatest damage to bees, and the little birds they call tits, and also the swallow and Merops which is the bee-eater.  For this reason beekeepers remove wasps’ nests and any nests of swallows and bee-eaters that are near the hives. <hi rend="italic">HA</hi> IX.40 (626a)</note>
                     </quote></p>
                 <note place="inline" subtype="gloss" type="authorial" xml:id="ch7glon2"><app subtype="add" type="minor">
                         <lem wit="#b1623">*As Cage traps, Pit-falls, and Samsons-Posts (<ref target="#ch7glon1">v.* in n.3</ref>) But then set a Lath before the
@@ -9864,8 +9872,8 @@
                         <note subtype="bibliographic" type="authorial" xml:id="ch7bibln7">
                             <bibl>Virg.</bibl>
                         </note>
-                        <foreign xml:lang="la">Aut asper crabro imparibus se immiscuit
-                            armis.</foreign>
+                        <foreign xml:lang="la" corresp="#ch7transn7">Aut asper crabro imparibus se immiscuit
+                            armis.</foreign><note xml:id="ch7transn7" type="editorial" subtype="translation">…or the fierce hornet has come in with weapons they cannot match. <hi rend="italic">Georgics</hi> IV.245</note>
                     </quote></p>
                 <p xml:id="ch7par18">Hir manner is to fly about before the Hive, till she have spied
                     hir pray settled at the doore: and then suddenly she taketh it in hir feet, and
@@ -9882,8 +9890,8 @@
                         <note subtype="bibliographic" type="authorial" xml:id="ch7bibln8">
                             <bibl> Nat.hist.li.11.c.21.</bibl>
                         </note>
-                        <foreign xml:lang="la">Ictus crabronum haud temerè sine febri est. Auctores
-                            sunt ter novenis punctis interfici hominem.</foreign>
+                        <foreign xml:lang="la" corresp="#ch7transn8">Ictus crabronum haud temerè sine febri est. Auctores
+                            sunt ter novenis punctis interfici hominem.</foreign><note xml:id="ch7transn8" type="editorial" subtype="translation" resp="#HH">A hornet’s sting is not often unaccompanied by a fever. The authorities say that with twenty-seven such stings a man will be killed. <hi rend="italic">NH</hi> XI.73(24)</note>
                     </quote></p>
                 <p xml:id="ch7par20"><note subtype="summary" type="authorial" xml:id="ch7sumn11">11.
                         6. The Waspe.</note> The Waspe doth much more hurt than the Hornet. For the
@@ -10082,10 +10090,10 @@
                     </note>
                     <bibl xml:id="ch7biblnX12"><persName> Aristotle</persName></bibl> teacheth you
                     an other way. <quote>
-                        <foreign xml:lang="la"> Impugnantur <hi rend="opposite">(saith he)</hi> Apes
+                        <foreign xml:lang="la" corresp="#ch7transn9"> Impugnantur <hi rend="opposite">(saith he)</hi> Apes
                             à vespis: quamobrem Apiarii eas venantur constitutâ ollâ, &amp; carne in
                             ea positâ. Ubi enim multae ad carnem accesserint, apposito operculo
-                            super ignem ollam ponunt.</foreign>
+                            super ignem ollam ponunt.</foreign><note xml:id="ch7transn9" type="editorial" subtype="translation">Bees are attacked by wasps; for this reason beekeepers trap them by setting out a pot with meat placed in it. For when many wasps have come to the meat, they cover the pot and put it over the fire. (627b init.)</note>
                         <bibl><ptr target="#ch7biblnX12"></ptr></bibl></quote> You may also use other
                     meanes to kil them your selfe. How to helpe and defend your Bees against them,
                     see <ref target="#ch3sumn46"> c. 3.n.46,</ref><ref target="#ch3sumn47">47,</ref><ref target="#ch3sumn54">54,</ref>&amp;<ref target="#ch3sumn55">55.</ref></p>
@@ -10098,9 +10106,9 @@
                         <note subtype="bibliographic" type="authorial" xml:id="ch7bibln13">
                             <bibl>Nat.hist.li.11.c.19.</bibl>
                         </note>
-                        <foreign xml:lang="la">Papilio etiam ignavus luminibus accensis advolitans
+                        <foreign xml:lang="la" corresp="#ch7transn10">Papilio etiam ignavus luminibus accensis advolitans
                             pestifer, nec uno modo: nam &amp; ipse ceras depascit, &amp; relinquit
-                            excrementa quibus teredines gignuntur.</foreign>
+                            excrementa quibus teredines gignuntur.</foreign><note xml:id="ch7transn10" type="editorial" subtype="translation" resp="#HH">The weak-willed moth that flies towards lights is also pernicious, and not in only one way: for it both eats the wax and leaves droppings from which its grubs are hatched. <hi rend="italic">NH</hi> XI.65(21)</note>
                     </quote>
                 </p>
                 <p xml:id="ch7par29"><note subtype="summary" type="authorial" xml:id="ch7sumn19">
@@ -10151,11 +10159,11 @@
                         <note subtype="bibliographic" type="authorial" xml:id="ch7bibln14">
                             <bibl>Virg.Nat hist.l.11.c.19.</bibl>
                         </note>
-                        <foreign xml:lang="la">In foribus laxos suspendit aranea casses. <app subtype="del" type="minor">
+                        <foreign xml:lang="la" corresp="#ch7transn11">In foribus laxos suspendit aranea casses.</foreign><note xml:id="ch7transn11" type="editorial" subtype="translation" resp="#HH">The spider hangs her loose webs in the entrance. <hi rend="italic">Georgics</hi> IV.247</note> <app subtype="del" type="minor">
                                 <lem wit="#b1623"></lem>
                                 <rdg wit="#b1609"><ptr target="1609.xml#ch7ancs24 1609.xml#ch7ance24"></ptr></rdg>
-                            </app>Aranei quoq vel maximè hostiles: cum praevaluere ut intexant,
-                            enecant alveos. </foreign>
+                        </app> <foreign xml:lang="la" corresp="#ch7transn12">Aranei quoque vel maximè hostiles: cum praevaluere ut intexant,
+                            enecant alveos. </foreign><note xml:id="ch7transn12" type="editorial" subtype="translation" resp="#HH">Spiders too are the greatest of enemies: where they have succeeded in entangling them they destroy the hives.</note>
                     </quote></p>
                 <p xml:id="ch7par32"><note subtype="summary" type="authorial" xml:id="ch7sumn23">23.
                         11. The Toad.</note> The Toad is by nature so noysome to the Bees, that
@@ -10169,29 +10177,29 @@
                         <note subtype="bibliographic" type="authorial" xml:id="ch7bibln15">
                             <bibl> Ibidem.</bibl>
                         </note>
-                        <foreign xml:lang="la">Ranae Apes, ubi ad aquam accesserint, rapiunt:
+                        <foreign xml:lang="la" corresp="#ch7transn13">Ranae Apes, ubi ad aquam accesserint, rapiunt:
                             quamobrem eas Apiarii per paludes &amp; stagna, unde Apes aquantur,
-                            venari solent. Rubeta etiam Apes interimit: subiens enim aditus alvei
+                            venari solent.</foreign><note xml:id="ch7transn13" type="editorial" subtype="translation" resp="#HH">Frogs take bees when they have come for water; for this reason beekeepers will hunt them in the marshes and ponds where bees go for water. <hi rend="italic">HA</hi> IX.40 (626a)</note><foreign xml:lang="la" corresp="#ch7transn14"> Rubeta etiam Apes interimit: subiens enim aditus alvei
                             afflat, &amp; observans rapit evolantes. Nullo haec affici malo ab
-                            Apibus potest; sed ab Apiario facilè interimitur.</foreign>
+                            Apibus potest; sed ab Apiario facilè interimitur.</foreign><note xml:id="ch7transn14" type="editorial" subtype="translation" resp="#HH">The toad also kills bees: for coming up to the entrance of a hive, it will puff itself up and keep a lookout, and take the bees as they fly out. Nothing can be done by the bees about this affliction; but it is easily destroyed by the beekeeper. <hi rend="italic">AH</hi> IX.40 (626a fin.)</note>
                     </quote>
                     <quote><note subtype="bibliographic" type="authorial" xml:id="ch7bibln16">
                             <bibl>Nat.Hist.l.11.c.18.</bibl>
                         </note>
-                        <foreign xml:lang="la"><hi rend="opposite">Item</hi> Insidiantur aquantibus
+                        <foreign xml:lang="la" corresp="#ch7transn15"><hi rend="opposite">Item</hi> Insidiantur aquantibus
                             Ranae: quae maxima earum est operatio, tum cum sobolem faciunt. <ref target="#ch7bibln17">v.</ref>
                             <note subtype="bibliographic" type="authorial" xml:id="ch7bibln17">
                                 <ref target="#ch6sumn51"> V.c.6.n.51.</ref>
                             </note> Nec hae tantum quae stagna rivosque obsident, verum &amp;
                             rubetae veniunt ultro, adrepentesque foribus per eas sufflant: ad hoc
-                            provolant, confestimque abripiuntur.</foreign>
+                            provolant, confestimque abripiuntur.</foreign><note xml:id="ch7transn15" type="editorial" subtype="translation" resp="#HH">Frogs attack them as they go for water: which is their greatest task at the time when they produce their offspring. Nor are these the only pond- and river-dwellers, but besides them toads come too, and creeping up to the entrance they blow through them: the bees fly towards this and are straightway caught. <hi rend="italic">NH</hi> XI.62(19)</note>
                     </quote></p>
                 <lb></lb>
                 <p xml:id="ch7par33"><note subtype="summary" type="authorial" xml:id="ch7sumn25">25.
                         13. The Bee the Bees greatest enemie.</note>
                     <hi rend="drop-capital">B</hi>ut not any one of these, nor all these together
-                    doe halfe so much harme to the Bees, as the Bees. <term>Apes api,</term> as
-                        <term>homo homini, Lupus</term>. They make the greatest spoile both of Bees
+                    doe halfe so much harme to the Bees, as the Bees. <foreign xml:lang="la" corresp="#ch7transn16"><term>Apes api,</term> as
+                        <term>homo homini, Lupus</term>.</foreign><note xml:id="ch7transn16" type="editorial" subtype="translation" resp="#HH"></note> They make the greatest spoile both of Bees
                     and Honie. For as they of the same Hive live in inviolable peace one with an
                     other; so have they no entercourse, no friendship or societie with others, but
                     are rather at perpetuall defiance, and deadly feud with them. In fight they are
@@ -10279,8 +10287,8 @@
                     </note> stocks, which have not sufficiently provided themselves for winter. Of
                     which opinion was <bibl xml:id="ch7biblnX21"><persName> Plinie</persName></bibl>
                     where hee said. <quote>
-                        <foreign xml:lang="la">Quod si defecerit alicujs alvei cibus, impetum in
-                            proximas faciunt rapinae proposito.</foreign>
+                        <foreign xml:lang="la" corresp="#ch7transn17">Quod si defecerit alicujs alvei cibus, impetum in
+                            proximas faciunt rapinae proposito.</foreign><note xml:id="ch7transn17" type="editorial" subtype="translation" resp="#HH">But if a hive is lacking food, they make an attack on its neighbours with the intention of pillage. <hi rend="italic">NH</hi> XI.58(18)</note>
                         <bibl><ptr target="ch7biblnX21"></ptr></bibl></quote>. But indeed such are fitter
                     to be robbed, as before is said, than to be robbers. There is no theefe to the
                     rich theefe: who, although he have enough, and more then enough; yet by hooke or
@@ -10325,11 +10333,11 @@
                     shrill and sharpe note, as it were of a Flute.</p>
 
                 <quote>
-                    <foreign xml:lang="la"> ___________________&amp;vox<lb></lb> Auditur fractos sonitus
+                    <foreign xml:lang="la" corresp="#ch7transn18"> ___________________&amp;vox<lb></lb> Auditur fractos sonitus
                         imitata tubarum. <note subtype="bibliographic" type="authorial" xml:id="ch7bibln22">
                             <bibl>Virg.</bibl>
                         </note>
-                    </foreign>
+                    </foreign><note xml:id="ch7transn18" type="editorial" subtype="translation" resp="#HH">And a sound is heard like the broken blasts of trumpets. <hi rend="italic">Georgics</hi> IV.71f.</note>
                 </quote>
 
                 <p xml:id="ch7par39">Which I am out of doubt is tuned by their generall Commander,
@@ -10358,11 +10366,11 @@
                     <note subtype="bibliographic" type="authorial" xml:id="ch7bibln23">
                         <bibl>Virg.</bibl>
                     </note>
-                    <lg xml:lang="la">
-                        <l>Ingentes animos augusto in pectore versant,</l>
+                    <lg xml:lang="la" corresp="#ch7transn19">
+                        <l>Ingentes animos angusto in pectore versant,</l>
                         <l>Usque adeo obnixi non cedere, dum gravis aut hos,</l>
                         <l>Aut hos versa fugâ victor dare terga coegit.</l>
-                    </lg>
+                    </lg><note xml:id="ch7transn19" type="editorial" subtype="translation" resp="#HH">They have huge hearts beating in their tiny breasts, resolute and unyielding all the while until a stern victor has forced one side or the other to turn their backs in flight. <hi rend="italic">Georgics</hi> IV.83ff.</note>
                 </quote>
                 <p xml:id="ch7par42">In their fight they are so furious sometime, and so thicke
                     about the Garden; that, unlesse you have your complete harnesse, <ref target="#ch7bibln24">v.</ref>
@@ -10396,10 +10404,10 @@
                         The battaile ended they bury their dead.</note> The battaile being ended by
                     repulse of the enemy, those corpses, which the Waspes have leaft, they honestly
                     burie as far from the Hives as they can beare them. <quote>
-                        <lg xml:lang="la">
+                        <lg xml:lang="la" corresp="#ch7transn20">
                             <l>_______Tum corpora luce carentum</l>
                             <l>Exportant tectis, &amp; tristia funera ducunt.</l>
-                        </lg>
+                        </lg><note xml:id="ch7transn20" type="editorial" subtype="translation" resp="#HH">Then they carry out of the hive the bodies of the lifeless and lead a sad funeral procession. <hi rend="italic">Georgics</hi> IV.255f.</note>
                         <note subtype="bibliographic" type="authorial" xml:id="ch7bibln25">
                             <bibl> Virg.Geor. </bibl>
                         </note></quote></p>
@@ -10668,8 +10676,8 @@
                     </app></p>
                 <quote>
                     <note subtype="bibliographic" type="authorial" xml:id="ch7bibln33"><bibl>Nat.hist.l.11.c.19</bibl></note>
-                    <foreign xml:lang="la">Tot hostibus, tot casibus, tam munificum animal expositum
-                        est.</foreign>
+                    <foreign xml:lang="la" corresp="€ch7transn22">Tot hostibus, tot casibus, tam munificum animal expositum
+                        est.</foreign><note xml:id="ch7transn22" type="editorial" subtype="translation" resp="#HH">To so many enemies and so many misfortunes is so generous an animal exposed. <hi rend="italic">NH</hi> XI.67(21)</note>
                 </quote>
                 <p xml:id="ch7par70">
                     <app subtype="add" type="major">
@@ -10684,8 +10692,8 @@
                             I, with all my skill, be ever able to devise any; unlesse the wisest of
                             the Land, when they meet together, will joyne with me in the invention.
                             For the first the Bees are least destitute of their Keepers helpe,
-                            seeing at the times of greatest danger, he cannot alwaies be <foreign xml:lang="la">sub Dio</foreign> with them, nor they conveniently
-                                <foreign xml:lang="la">sub Lare</foreign> with him: although some
+                            seeing at the times of greatest danger, he cannot alwaies be <foreign xml:lang="la" corresp="#ch7transn21">sub Dio</foreign><note xml:id="ch7transn21" type="editorial" subtype="translation" resp="#HH">out in the open</note> with them, nor they conveniently
+                            <foreign xml:lang="la" corresp="#ch7transn23">sub Lare</foreign><note xml:id="ch7transn23" type="editorial" subtype="translation" resp="#HH">in his house</note> with him: although some
                             have, for their safetie, put this in practise, housing them and shutting
                             them up close all the Winter: but not without much inconvenience. For by
                             this meanes they are debarred of their necessarie recreation <ref target="#ch7bibln34">v:</ref>
@@ -10696,7 +10704,7 @@
                             And as they want herein their Keepers helpe, so have they no meanes to
                             save themselves, no not so much as the silly sheepe, which happily may
                             runne away. For their resistance, which against some Enemies doth often
-                            prevaile, against the violence of this flie <term> Tenebrio</term>
+                            prevaile, against the violence of this flie <foreign xml:lang="la" corresp="ch7transn24"><term>Tenebrio</term></foreign><note xml:id="ch7transn24" type="editorial" subtype="translation" resp="#HH">a thief in the darkness</note>
                             availeth nothing at all: who stealing upon <fw type="catch"> them</fw>
                             <pb n="S1r"></pb>
                             <fw type="header"> Of the Bees Enemies. </fw> them while they be at
@@ -10707,7 +10715,7 @@
                             I will not be bound for the truth of it, for it is no childe of mine:
                             but if any man desire to take it as it is, he shall have it as good
                             cheape as I. <quote>
-                                <foreign xml:lang="la">Cum noctu latro apes S. Medardi subripuisset,
+                                <foreign xml:lang="la" corresp="#ch7transn25">Cum noctu latro apes S. Medardi subripuisset,
                                     apes ipsae in sancti viri ultionem, relictis vasis suis, in
                                     malefactorem illum circumquaque diffugientem acerrima eatenus
                                     instimulatione persecutae sunt, quosque ad Sanctum, vellet
@@ -10715,7 +10723,7 @@
                                     suppliciter pro commisso crimine veniam precaretur. Cui mox ut
                                     Sanctus manum extendit benedictionis; apes, tanquam obedientes,
                                     ab ejus insecutione cessaverunt, &amp; antiquo Domini sui
-                                    dominio evidenter sese reddiderunt.</foreign>
+                                    dominio evidenter sese reddiderunt.</foreign><note xml:id="ch7transn25" type="editorial" subtype="translation" resp="#HH">When a thief had stolen St Medard’s bees by night, the bees themselves, revenging the holy man, left their containers and went after that evildoer with their sharpest of goads as he ran in all directions, until willy-nilly he returned to the saint, and falling at his feet he humbly begged forgiveness for his wrongdoing. And as soon as the saint held out to him the hand of blessing, the bees, as if obeying his command, left off their persecution and gave themselves up in plain sight to the former dominion of their master. Laurentius Surius in the <hi rend="italic">Life of St Medard</hi>, vol. III</note>
                                 <bibl>Laur. Surius in vita S. Medardi.Tom.3.</bibl>
                             </quote> When a Theefe by night had stollen <persName>S.
                                 Medards</persName> Bees, the Bees in their Masters quarrell, leaving
