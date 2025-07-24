@@ -8637,8 +8637,8 @@
                         <note subtype="bibliographic" type="authorial" xml:id="ch6bibln12">
                             <bibl>Nat.hist.l.11.c.11.</bibl>
                         </note>
-                        <foreign xml:lang="la">Regias imperatoribus extruunt amplas, magnificas,
-                            separatas, tuberculo eminentes.</foreign>
+                        <foreign xml:lang="la" corresp="#ch6transn9">Regias imperatoribus extruunt amplas, magnificas,
+                            separatas, tuberculo eminentes.</foreign><note xml:id="ch6transn9" type="editorial" subtype="translation" resp="#HH">For their rulers they construct great and splendid palaces, standing apart and projecting in a protuberance. <hi rend="italic">NH</hi> XI.2.</note>
                     </quote>
                     <note subtype="summary" type="authorial" xml:id="ch6sumn13">13. The common error
                         anent these celles.</note> The common people, finding them alwaies in those
@@ -8742,13 +8742,13 @@
                     <pb n="O2r"></pb>
                     <fw type="header"> Of the Bees Worke. </fw>
                     <app subtype="add" type="reference">
-                        <lem wit="#b1623">nurses. <quote><foreign xml:lang="la">Dictaeo caeli regem
-                                    pavêre sub antro.</foreign>
+                        <lem wit="#b1623">nurses. <quote><foreign xml:lang="la" corresp="#ch6transn10">Dictaeo caeli regem
+                            pavêre sub antro.</foreign><note xml:id="ch6transn10" type="editorial" subtype="translation" resp="#HH">They fed the king of heaven in a cave beneath Mount Dicte. <hi rend="italic">Georgics</hi> IV.152</note>
                                 <bibl> Virg.Geor.4.</bibl>
                             </quote> And afterward, when they would make him immortal; because of
                             the long-preserving vertue that hony hath, (<ref target="#ch10p3sumn1">v.c. 10.par.3.n.1.</ref>) they fained it to be his immortall food. <quote>
-                                <foreign xml:lang="la">Jupiter Ambrosia satur est &amp; nectare
-                                    vivit.</foreign>
+                                <foreign xml:lang="la" corresp="#ch6transn11">Jupiter Ambrosia satur est &amp; nectare
+                                    vivit.</foreign><note xml:id="ch6transn11" type="editorial" subtype="translation" resp="#HH">Jupiter grows fat on ambrosia and lives on nectar. Martial XI.57.3</note>
                                 <bibl> Mart.l. 11.Ep.58.</bibl>
                             </quote></lem>
                         <rdg wit="#b1609"></rdg>
@@ -8758,9 +8758,9 @@
                         How Ambrosia or grosse hony is gathered.</note> The grosse hony is gathered
                     by their fangs: from whence is it conveied by the fore-legs to the thighes of
                     the hin-legs (<quote>
-                        <foreign xml:lang="la">Quae flores comportant prioribus pedibus foemina
+                        <foreign xml:lang="la" corresp="ch6transn12">Quae flores comportant prioribus pedibus foemina
                             onerant propter id natura scabra, pedes priores rostro: totaeque onustae
-                            remeant farcina pandatae</foreign>
+                            remeant sarcina pandatae</foreign><note xml:id="ch6transn12" type="editorial" subtype="translation" resp="#HH">The ones that harvest flowers with their front legs load up their thighs which are of a scaly nature for this reason, and with their beak they load up their front legs: and when they are fully laden they go back rotund with their burden. <hi rend="italic">NH</hi> XI.21(10)</note>
                         <note subtype="bibliographic" type="authorial" xml:id="ch6bibln14">
                             <bibl> Nat.hist.li.11.c.10.</bibl>
                         </note>
@@ -8808,9 +8808,9 @@
                         <note subtype="bibliographic" type="authorial" xml:id="ch6bibln15">
                             <bibl>His.l.9.40.</bibl>
                         </note>
-                        <foreign xml:lang="la">Ceram apes perreptando flores capiunt priorum acumine
+                        <foreign xml:lang="la" corresp="#ch6transn13">Ceram apes perreptando flores capiunt priorum acumine
                             pedum: mox priores in medios abstergunt, &amp; medios in blaesa
-                            posteriorum.</foreign>
+                            posteriorum.</foreign><note xml:id="ch6transn13" type="editorial" subtype="translation" resp="#HH">The bees take wax on the tips of their front legs by crawling through flowers: after which they soon wipe their front legs clean on their middle legs, and the middle legs on the hollows of their back legs. <hi rend="italic">AH</hi> IX.40 (624a fin.–b init.)</note>
                     </quote>) But against (as I shall shew you) both sense and reason. </p>
                 <p xml:id="ch6par17"><note subtype="summary" type="authorial" xml:id="ch6sumn24">24.
                         Which error is disproved by sense.</note> If you put it to your tongue, it
@@ -8860,10 +8860,10 @@
                         <note subtype="bibliographic" type="authorial" xml:id="ch6bibln18">
                             <bibl> Nat.hist.l.11.c.7.</bibl>
                         </note>
-                        <foreign xml:lang="la">Praeter haec (id est praeter ceram &amp; nectar )
+                        <foreign xml:lang="la" corresp="#ch6transn14">Praeter haec (id est praeter ceram &amp; nectar )
                             convehitur erithace, quam aliqui sandaracham, alii cerinthum vocant. Hic
                             erit apum dum operantur cibus: qui saepe invenitur in favorum
-                            inanitatibus sepositus; &amp; ipse amari saporis.</foreign>
+                            inanitatibus sepositus; &amp; ipse amari saporis.</foreign><note xml:id="ch6transn14" type="editorial" subtype="translation" resp="#HH">Besides this (i.e. wax and nectar) erithace is brought, which some call sandaracha and others cerinthus.  This will be the bees’ food while they are working, and it is often found set aside in empty spaces in the combs; and it has a bitter flavour. <hi rend="italic">NH</hi> XI.17(7)</note>
                     </quote> Speaking in the last words of that which is corrupted <app subtype="add" type="reference">
                         <lem wit="#b1623"><ref target="#ch6bibln19">v</ref>
                             <note subtype="bibliographic" type="authorial" xml:id="ch6bibln19">
@@ -8874,9 +8874,9 @@
                         <note subtype="bibliographic" type="authorial" xml:id="ch6bibln20">
                             <bibl> Hist.l.9.c.40.</bibl>
                         </note>
-                        <foreign xml:lang="la">Mel apibus tum aestate tum hyeme cibo est: sed
+                        <foreign xml:lang="la" corresp="#ch6transn17">Mel apibus tum aestate tum hyeme cibo est: sed
                             recondunt alterum quoque cibarii genus, cui durities cerae proxima quod
-                            sandaracham nonnulli appellant.</foreign>
+                            sandaracham nonnulli appellant.</foreign><note xml:id="ch6transn17" type="editorial" subtype="translation" resp="#HH">Honey serves as food for bees both in summer and winter: but they also stow away another kind of food, of a hardness similar to wax, which some people call bee bread. <hi rend="italic">HA</hi> IX.40 (626a)</note>
                     </quote></p>
                 <fw type="catch"> The</fw>
                 <pb n="O3r"></pb>
@@ -8892,7 +8892,7 @@
                         <note subtype="bibliographic" type="authorial" xml:id="ch6bibln21">
                             <bibl> Hist.an.li.5.c.22.</bibl>
                         </note>
-                        <foreign xml:lang="la">Mel ore evomunt in cellas.</foreign>
+                        <foreign xml:lang="la" corresp="#ch6transn18">Mel ore evomunt in cellas.</foreign><note xml:id="ch6transn18" type="editorial" subtype="translation" resp="#HH">They vomit the honey from their mouth into the cells. <hi rend="italic">HA</hi> V.22 (554a)</note>
                     </quote>
                     <app subtype="del" type="minor">
                         <lem wit="#b1623"></lem>
@@ -8902,9 +8902,9 @@
                         <rdg wit="#b1609"><ptr target="1609.xml#ch6ancs32 1609.xml#ch6ance32"></ptr></rdg>
                     </app> cleere as Crystall at the first and liquid as water, when it is two or
                     three yeeres old, becommeth white and hard. <quote>
-                        <foreign xml:lang="la">Concrescit autem mel concoctum jam tempore: initio
+                        <foreign xml:lang="la" corresp="#ch6transn19">Concrescit autem mel concoctum jam tempore: initio
                             enim, ut aqua, dilutum est, &amp; primis diebus sine crassitudine
-                            cernitur.</foreign>
+                            cernitur.</foreign><note xml:id="ch6transn19" type="editorial" subtype="translation">And as it matures the honey condenses in time: for at the start it is dilute, like water, and in the first days appears to be without thickness. <hi rend="italic">HA</hi> V.22 (554a)</note>
                         <note subtype="bibliographic" type="authorial" xml:id="ch6bibln22">
                             <bibl>Hist.an.l.5.c.22</bibl>
                         </note>
@@ -8993,14 +8993,14 @@
                         <term>Pisces</term> to <term>Sagitt.</term> there never want some plants or
                     other, containing these sweets: which the Bees featly draw from them, without
                     any hurt to the fruits: <quote>
-                        <foreign xml:lang="la">Fructibus nullis nocetur</foreign>
+                        <foreign xml:lang="la" corresp="#ch6transn20">Fructibus nullis nocetur</foreign><note xml:id="ch6transn20" type="editorial" subtype="translation">No damage is done to any fruit. <hi rend="italic">NH</hi> XI.18(8)</note>
                         <note subtype="bibliographic" type="authorial" xml:id="ch6bibln27">
                             <bibl>Nat.hist.lib II.c.8.</bibl>
                         </note></quote>
                 </p>
                 <p xml:id="ch6par28"><note subtype="summary" type="authorial" xml:id="ch6sumn34">34.
                         Dandelion continueth longest.</note> The Dent-delion, or after the French
-                    pronounciation Dandelion, may well be called <foreign xml:lang="la">apiastrum</foreign> or <foreign xml:lang="la"> mellissophyllon</foreign>.
+                    pronounciation Dandelion, may well be called <foreign xml:lang="la" corresp="#ch6transn21">apiastrum</foreign> or <foreign xml:lang="la"> mellissophyllon</foreign>.<note xml:id="ch6transn21" type="editorial" subtype="translation" resp="#HH">[in fact used for balm (of which bees are fond), among other plants. The derivation of apiastrum from apis (bee) is indirect, coming via apium, parsley, another plant of which bees are fond.]</note>
                     For the Bees gather upon it almost all the yeere. The Dazy and Yelowcrea are
                     next for continuance, but nothing so much regarded. </p>
                 <p xml:id="ch6par29"><note subtype="summary" type="authorial" xml:id="ch6sumn35">35.
@@ -9055,7 +9055,7 @@
                     <note subtype="summary" type="authorial" xml:id="ch6sumn39">39. Cancer.</note>
                     In <term> Cancer</term> with the fore-named, the blossome of the Vetch, as well
                     as the Leafe, Benet, Malowes, the soveraigne Tyme, which yeeldeth only
-                        <term>Nectar:</term> and therefore he was deceived that said <foreign xml:lang="la">Crura Thymo plena</foreign>. Tyme, for the time it lasteth,
+                    <term>Nectar:</term> and therefore he was deceived that said <foreign xml:lang="la" corresp="#ch6transn22">Crura Thymo plena</foreign>.<note xml:id="ch6transn22" type="editorial" subtype="translation">Legs laden with thyme. <hi rend="italic">Georgics</hi> IV.181</note> Tyme, for the time it lasteth,
                     yeeldeth most and best Honie: and therefore in old time was accounted chiefe
                         <note subtype="bibliographic" type="authorial" xml:id="ch6bibln29">
                         <bibl> Pl.nat.hist.l.11.c.21.</bibl>
@@ -9065,10 +9065,10 @@
                     </note>
                     <quote>
                         <note subtype="bibliographic" type="authorial" xml:id="ch6bibln31"><bibl>Vir.Georg.4</bibl></note>
-                        <foreign xml:lang="la">(Thymus aptissimus ad mellificium. Pastus gratissimus
-                            apibus Thymum est. <lb></lb><lg>
+                        <foreign xml:lang="la" corresp="#ch6transn23">(Thymus aptissimus ad mellificium.</foreign><note xml:id="ch6transn23" type="editorial" subtype="translation" resp="#HH">Thyme is most suitable for making honey.</note><foreign xml:lang="la" corresp="#ch6transn24">Pastus gratissimus
+                            apibus Thymum est. <lb></lb></foreign><note xml:id="ch6transn24" type="editorial" subtype="translation" resp="#HH">The most agreeable fodder for bees is thyme. <hi rend="italic">HA</hi> IX.40 (626b)</note><foreign xml:lang="la" corresp="#ch6transn25"><lg>
                                 <l>Dum Thymo pascentur apes, dum rore cicadae.)</l>
-                            </lg></foreign>
+                            </lg></foreign><note xml:id="ch6transn26" type="editorial" subtype="translation" resp="#HH">While bees feed on thyme and cicadas feed on dew. Virgil, <hi rend="italic">Eclogues</hi> V.77</note>
                     </quote></p>
                 <p xml:id="ch6par34"><placeName>Himettus</placeName> in
                         <placeName>Greece</placeName>, and <placeName> Hybla</placeName> in
@@ -9077,8 +9077,8 @@
                         <note subtype="bibliographic" type="authorial" xml:id="ch6bibln32">
                             <bibl> Var.l.3.c.16.</bibl>
                         </note>
-                        <foreign xml:lang="la">Propter hoc Siculum mel fert palmam, quod ibi Thymum
-                            bonum &amp; frequens est.</foreign>
+                        <foreign xml:lang="la" corresp="#ch6transn27">Propter hoc Siculum mel fert palmam, quod ibi Thymum
+                            bonum &amp; frequens est.</foreign><note xml:id="ch6transn27" type="editorial" subtype="translation" resp="#HH">On account of this Sicilian honey carries the palm, because the thyme there is good and abundant. Varro, <hi rend="italic">De Re Rustica</hi> III.16.14</note>
                     </quote>
                     <app subtype="change" type="minor">
                         <lem wit="#b1623">The Knap-weed flourisheth about the middle of this moneth,
@@ -9097,11 +9097,11 @@
                         <note subtype="bibliographic" type="authorial" xml:id="ch6bibln33">
                             <bibl>Virg.Georg.</bibl>
                         </note>
-                        <foreign xml:lang="la">aerei mellis coelestia dona</foreign>
+                        <foreign xml:lang="la" corresp="#ch6transn28">aerei mellis coelestia dona</foreign><note xml:id="ch6transn28" type="editorial" subtype="translation" resp="#HH">The heavenly gift of honey from the air. <hi rend="italic">Georgics</hi> IV.1 </note>
                     </quote>) and hath appointed the <term>Oake</term> among all the trees of the
                     Wood, to receive and keepe the same upon his smooth and solide leaves, <app subtype="add" type="minor">
                         <lem wit="#b1609">(<quote>
-                                <foreign xml:lang="la">Et quercus sudabunt roscida mella</foreign>
+                            <foreign xml:lang="la" corresp="#ch6transn29">Et quercus sudabunt roscida mella</foreign><note xml:id="ch6transn29" type="editorial" subtype="translation">And the oaks exude honeydew. Virgil, <hi rend="italic">Eclogues</hi> IV.30</note>
                                 <note subtype="bibliographic" type="authorial" xml:id="ch6bibln34">
                                     <bibl>Virg.Pollio.</bibl>
                                 </note></quote> )</lem>
@@ -9130,11 +9130,11 @@
                     at the Hive-doore passing to and fro, that oftentimes they throw downe one an
                     other for haste. </p>
                 <p xml:id="ch6par36"><note subtype="summary" type="authorial" xml:id="ch6sumn42">42.
-                        What the Honie-dew is.</note> What this <foreign xml:lang="la">Mel
-                        Roscidum</foreign> should be, <persName> Plinie</persName> seemeth much to
+                        What the Honie-dew is.</note> What this <foreign xml:lang="la" corresp="#ch6transn30">Mel
+                            Roscidum</foreign><note xml:id="ch6transn30" type="editorial" subtype="translation" resp="#HH">honeydew</note> should be, <persName> Plinie</persName> seemeth much to
                     doubt where he saith <quote>
-                        <foreign xml:lang="la">Sive illud sit coeli sudor sive quaedam syderum
-                            saliva, sive purgantis se aeris succus.</foreign>
+                        <foreign xml:lang="la" corresp="#ch6transn31">Sive illud sit coeli sudor sive quaedam syderum
+                            saliva, sive purgantis se aeris succus.</foreign><note xml:id="ch6transn31" type="editorial" subtype="translation" resp="#HH">… whether this is a secretion of the sky or some kind of saliva of the stars, or moisture from the air purging itself. <hi rend="italic">NH</hi> XI.30(12)</note>
                         <note subtype="bibliographic" type="authorial" xml:id="ch6bibln36"><bibl>Nat.hist.li.11.c.12</bibl></note></quote> But, if conjectures
                     might be admitted, I would rather judge it to be the verie quintessence of all
                     the sweetnesse of the earth (which at that time is most plentifull) drawne up,
@@ -9143,8 +9143,8 @@
                     nightly cold into this most sweete and Soveraigne <term> Nectar:</term> and then
                     doth it descend unto the earth in a dew or small drizling raine: that he might
                     well say, <quote>
-                        <foreign xml:lang="la">Constat materiam, ex qua mel gignitur, rori esse
-                            congenerem.</foreign>
+                        <foreign xml:lang="la" corresp="#ch6transn32">Constat materiam, ex qua mel gignitur, rori esse
+                            congenerem.</foreign><note xml:id="ch6transn32" type="editorial" subtype="translation" resp="#HH">It is agreed that the matter out of which honey has its origin is related to dew. Galen, <hi rend="italic">De Alimentorum Facultatibus</hi> III.39 in Latin translation </note>
                         <note subtype="bibliographic" type="authorial" xml:id="ch6bibln37">
                             <bibl>Galen.de aliment. li.3</bibl>
                         </note>
@@ -9177,10 +9177,10 @@
                         Italy</placeName> before <quote>
                         <note subtype="bibliographic" type="authorial" xml:id="ch6bibln39">
                             <bibl>Nat.hist.lib.11.c.12</bibl>
-                        </note>
-                        <foreign xml:lang="la">Gemini. Non omnino, <hi rend="opposite">saith</hi>
+                        </note>Gemini.
+                        <foreign xml:lang="la" corresp="#ch6transn33"> Non omnino, <hi rend="opposite">saith</hi>
                             <persName> Plinie</persName>, prius vergiliarum exortu:</foreign>
-                    </quote>
+                        </quote><note xml:id="ch6transn33" type="editorial" subtype="translation" resp="#HH">…before the rising of the Pleiades, not at all. <hi rend="italic">NH</hi> XI.30(12)</note>
                     <ref target="#ch6bibln40">v.</ref>
                     <note subtype="bibliographic" type="authorial" xml:id="ch6bibln40">
                         <ref target="#ch10p1sumn20">V.c.10.p.1.n 20</ref>
@@ -9215,8 +9215,8 @@
                             <rdg wit="#b1609"></rdg>
                         </app></ref> after. They may happen at any time of the day: but for the most
                     part in the morning before it be light: <quote>
-                        <foreign xml:lang="la">Sub lucanis temporibus. Itaque tum prima aurora folia
-                            arborum melle roscida inveniuntur.</foreign>
+                        <foreign xml:lang="la" corresp="#ch6transn34">Sub lucanis temporibus. Itaque tum prima aurora folia
+                            arborum melle roscida inveniuntur.</foreign><note xml:id="ch6transn34" type="editorial" subtype="translation" resp="#HH">…in the times before dawn. As a result at daybreak the leaves of trees are found to be dewy with honey. <hi rend="italic">NH</hi> XI.30(12)</note>
                         <note subtype="bibliographic" type="authorial" xml:id="ch6bibln41">
                             <bibl>Nat.Hist.li.11.c.12.</bibl>
                         </note>
@@ -9275,10 +9275,10 @@
                         The Bees gather but of one kinde of of flower in one voyage.</note> And in
                     this great varietie this is strange, that where they beginne they will make an
                     end: and not meddle with any flowre of other sort, untill they have their load. <quote>
-                        <foreign xml:lang="la">Mos apibus ne florum plura genera petant uno eodemque
-                            profectu, sed singulis singula.</foreign>
+                        <foreign xml:lang="la" corresp="#ch6transn35">Mos apibus ne florum plura genera petant uno eodemque
+                            profectu, sed singulis singula.</foreign><note xml:id="ch6transn35" type="editorial" subtype="translation" resp="#HH">The bees’ way is not to seek out many kinds of flower on the same expedition, but a single kind on each one. <hi rend="italic">HA</hi> IX.40 (624b)</note>
                         <note subtype="bibliographic" type="authorial" xml:id="ch6bibln42">
-                            <bibl> Hist.ac.l.9.c.40</bibl>
+                            <bibl> Hist.an.l.9.c.40</bibl>
                         </note></quote> Insomuch as those which beginne with the flower of the Vetch
                     will not once touch the rich spotted leafe of the same, before they have beene
                     at home. Although when they come to a flower that yeeldeth both
@@ -9345,7 +9345,7 @@
                         <lem wit="#b1623">onely</lem>
                         <rdg wit="#b1609"><ptr target="1609.xml#ch6ancs48 1609.xml#ch6ance48"></ptr></rdg>
                     </app> to feede their Schadons: (<quote>
-                        <foreign xml:lang="la">Aquam tum portant, cum prolem nutriunt)</foreign>
+                        <foreign xml:lang="la" corresp="#ch6transn36">Aquam tum portant, cum prolem nutriunt)</foreign><note xml:id="ch6transn36" type="editorial" subtype="translation" resp="#HH">They carry water when they are feeding their young. <hi rend="italic">HA</hi> IX.40 (625b)</note>
                         <note subtype="bibliographic" type="authorial" xml:id="ch6bibln45">
                             <bibl>Hist.an.l.9.c.40.</bibl>
                         </note></quote>
@@ -9361,8 +9361,8 @@
                     Drones are done away, and breeding is ended, the Bees are nothing so frequent at
                     the watring-places. But <persName>Columella</persName> thinketh the use thereof
                     to be more generall, <quote>
-                        <foreign xml:lang="la">Sine qua neque favi, neque mella, nec pulli denique
-                            figurari queunt.</foreign>
+                        <foreign xml:lang="la" corresp="#ch6transn37">Sine qua neque favi, neque mella, nec pulli denique
+                            figurari queunt.</foreign><note xml:id="ch6transn37" type="editorial" subtype="translation" resp="#HH">Without which neither honeycombs nor honey nor lastly their young can be made. Columella, <hi rend="italic">De Re Rustica</hi> IX.5.5</note>
                         <note subtype="bibliographic" type="authorial" xml:id="ch6bibln47">
                             <bibl>De re rust. l.9.c.5.</bibl>
                         </note></quote>
@@ -9388,7 +9388,7 @@
                         Bees.</note>
                     <hi rend="superscript">a</hi> For they will never goe farre for water, if any be
                     to be had neere hand. <quote>
-                        <foreign xml:lang="la">Sub maenibus urbis aquantur.</foreign>
+                        <foreign xml:lang="la" corresp="#ch6transn38">Sub maenibus urbis aquantur.</foreign><note xml:id="ch6transn38" type="editorial" subtype="translation" resp="#HH">They go for water under the town walls. <hi rend="italic">Georgics</hi> IV.193</note>
                         <note subtype="bibliographic" type="authorial" xml:id="ch6bibln48">
                             <bibl>Virg.Geor.</bibl>
                         </note>
@@ -9412,13 +9412,13 @@
                     throwne downe by tempestuous winds, and so drowned: for which cause it is good
                     to lay lugs overthwart the water, and other staies; that recovering them they
                     may dry themselves againe, and so escape. <quote>
-                        <lg xml:lang="la">
-                            <l>In medium seu stabis iners, seu profluet humor,</l>
+                        <lg xml:lang="la" corresp="#ch6transn39">
+                            <l>In medium seu stabit iners, seu profluet humor,</l>
                             <l>Transversas salices &amp; grandia conice saxa.</l>
                             <l>Pontibus ut crebris possint consistere, &amp; alas</l>
                             <l>Pandere ad aestivum solem, si forte morantes</l>
                             <l>Sparserit, aut praeceps Neptuno immerserit Eurus.</l>
-                        </lg>
+                        </lg><note xml:id="ch6transn39" type="editorial" subtype="translation" resp="#HH">Whether the water stands motionless or flows in a stream, throw willows crosswise and large rocks into the middle of it, so that the bees can often rest on bridges and open their wings to the summer sun, if by chance a blustery east wind has showered those that were tarrying, or dipped them in the water. <hi rend="italic">Georgics</hi> IV.25ff.</note>
                         <note subtype="bibliographic" type="authorial" xml:id="ch6bibln49">
                             <bibl>Virg. Geor.</bibl>
                         </note>
