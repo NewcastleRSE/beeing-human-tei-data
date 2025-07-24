@@ -10738,8 +10738,8 @@
                         <rdg wit="#b1609"></rdg>
                     </app></p>
                 <p xml:id="ch7par71"><app subtype="add" type="major">
-                        <lem wit="#b1623">It were to be wished that <foreign xml:lang="la">Pares
-                                culpâ</foreign> might be <foreign xml:lang="la">Pares
+                        <lem wit="#b1623">It were to be wished that <foreign xml:lang="la" corresp="#ch7transn26">Pares
+                            culpâ</foreign><note xml:id="ch7transn27" type="editorial" subtype="translation" resp="#HH">equal in punishment</note> might be <foreign xml:lang="la" corresp="#ch7transn27">Pares
                                 paenâ</foreign>, that all like offendors might have like punishment.
                             But sith our Bees are not of <persName>S. Medards.</persName> kinde,
                             thus to rescue themselves from this michievous Enemie; it is meet their
@@ -10892,8 +10892,8 @@
                         <rdg wit="#b1609"><ptr target="1609.xml#ch9ancs13 1609.xml#ch9ance13"></ptr></rdg>
                     </app><app subtype="add" type="major">
                         <lem wit="#b1623">some swarmes are sufficiently provided: which you may
-                            reckon as Jewels, the verie <foreign xml:lang="la">Spes
-                            gregis</foreign>; whose increase the next yeere is certaine, if they be
+                            reckon as Jewels, the verie <foreign xml:lang="la" corresp="#ch8transn1">Spes
+                                gregis</foreign>;<note xml:id="ch8transn1" type="editorial" subtype="translation" resp="#HH">hope of the flock [cf. Virgil, <hi rend="italic">Eclogues</hi> I.15]</note> whose increase the next yeere is certaine, if they be
                             not over-hived. Some are not provided for halfe the time: and these, as
                             desperately poore, are not worth the <fw type="catch"> feeding.</fw>
                             <pb n="S2v"></pb>
@@ -11025,8 +11025,8 @@
                         <rdg wit="#b1609"><ptr target="1609.xml#ch9ancs14 1609.xml#ch9ance14"></ptr></rdg>
                     </app>
                     <persName>Aristotle</persName> mentioneth Figs, and all such sweet things. <quote>
-                        <foreign xml:lang="la">Apiarii ficus ac reliqua id genus dulcia cibum
-                            apponunt.</foreign>
+                        <foreign xml:lang="la" corresp="#ch8transn1x">Apiarii ficus ac reliqua id genus dulcia cibum
+                            apponunt.</foreign><note xml:id="ch8transn1x" type="editorial" subtype="translation" resp="#HH">Beekeepers provide figs and other sweets of that type for food. <hi rend="italic">HA</hi> IX.40 (626b)</note>
                         <note subtype="bibliographic" type="authorial" xml:id="ch8bibln9">
                             <bibl>Hist.li.9.c.40.</bibl>
                         </note>
@@ -11038,9 +11038,9 @@
                         <note subtype="bibliographic" type="authorial" xml:id="ch8bibln10">
                             <bibl>Nat hist.li.21.c.14.</bibl>
                         </note>
-                        <foreign xml:lang="la">Si cibus deesse censeatur apibus, uvas passas
+                        <foreign xml:lang="la" corresp="#ch8transn2">Si cibus deesse censeatur apibus, uvas passas
                             siccasve, sicosque, tusas ad fores earum posuisse conveniet, item lanas
-                            tractas madentes passo aut defruto, aut aqua mulsa.</foreign>
+                            tractas madentes passo aut defruto, aut aqua mulsa.</foreign><note xml:id="ch8transn2" type="editorial" subtype="translation" resp="#HH">If it is thought that the bees are lacking food, it will be a good idea to place raisins or dried grapes and bruised figs by the entrance to their hive; likewise pieces of spun wool soaked in raisin wine or boiled must, or honey-water. <hi rend="italic">NH</hi> XXI.82(48)</note>
                     </quote> And some of our Country-men have practised to give them Bay-salt,<app subtype="del" type="vocabulary">
                         <lem wit="#b1623"></lem>
                         <rdg wit="#b1609"><ptr target="1609.xml#ch9ancs16 1609.xml#ch9ance16"></ptr></rdg>
@@ -11056,14 +11056,14 @@
                     </app> be preseved by them without Honie. </p>
                 <note place="inline" subtype="gloss" type="authorial" xml:id="ch8glon4">Touching the
                     counsell of <persName> Plinie.</persName> this is to be noted, that if you place
-                    their food <foreign xml:lang="la">ad fores</foreign> before the doore, it will
+                    their food <foreign xml:lang="la" corresp="#ch8">ad fores</foreign> before the doore, it will
                     draw strange Bees unto them: whereby the lives of the one, and the goods of the
                     other will be indangered: if you place it abroad from your Hive, then will it be
                     common: and if within upon the stoole, which is best, then must you remove it in
                     time, or keep it close: <ref target="#ch8bibln11">v.</ref>
                     <note subtype="bibliographic" type="authorial" xml:id="ch8bibln11">
                         <ref target="#ch8sumn11"> V.n.11.</ref>
-                    </note> otherwise it will be no better for them, than if it were set <foreign xml:lang="la">ad fores</foreign>. And as for the device of teased Wooll, it
+                    </note> otherwise it will be no better for them, than if it were set <foreign xml:lang="la" corresp="#ch8transn3">ad fores</foreign>.<note xml:id="ch8transn3" type="editorial" subtype="translation" resp="#HH">by the entrance</note> And as for the device of teased Wooll, it
                     is a fitter meanes to catch Bees, than to feed them. For if the liquor be above
                     the Wooll, it will lime the wings of many; if not, many will be intangled in the
                     small haires, as Birds in a grin. Cover it therefore with a linnen cloth, so
@@ -11321,7 +11321,7 @@
                             use to be trying of masteries) <ref target="#ch9bibln1"> v.</ref>
                             <note subtype="bibliographic" type="authorial" xml:id="ch9bibln1">
                                 <ref target="#ch7sumn31"> V.c.7.n.31. </ref>
-                            </note> is dangerous for robbing. For the <term> Indiginae</term> or old
+                            </note> is dangerous for robbing. For the <foreign xml:lang="la" corresp="#ch9transn1"><term>Indiginae</term></foreign><note xml:id="ch9transn1" type="editorial" subtype="translation" resp="#HH">natives</note> or old
                             inhabitants of the Garden (as they goe about prying for booties) finding
                             new neighbours come among them, will be sure to visit them: and while
                             the chiefe of their strength is stragling abroad, seeking for their old
@@ -11456,8 +11456,8 @@
                         Hive heavier and the Honie worse: (for the young Bees as well as the Coome
                         corrupt the same, <note subtype="summary" type="authorial" xml:id="ch10p1sumn2">2. The best time for killing Bees.</note>
                         <quote>
-                            <foreign xml:lang="la">Pulli &amp; rubrae sordes sunt mali saporis,
-                                &amp; succo suo mella corrumpunt.</foreign>
+                            <foreign xml:lang="la" corresp="#ch9transn2">Pulli &amp; rubrae sordes sunt mali saporis,
+                                &amp; succo suo mella corrumpunt.</foreign><note xml:id="ch9transn2" type="editorial" subtype="translation" resp="#HH">The grubs and the dirty red stuff  have a bad taste and their juices infect the honey. Columella, <hi rend="italic">De Re Rustica</hi> IX.15.12</note>
                             <note subtype="bibliographic" type="authorial" xml:id="ch10p1bibln1">
                                 <bibl> Col.l.9.c.15</bibl>
                             </note>
@@ -11507,7 +11507,7 @@
                         And therefore, as in a wet hungry yeere you must keepe the best, so in a
                         drie yeere, rich and plentifull in Honie-dewes, the worst are like to prove
                         best for store. </p>
-                    <p xml:id="ch10p1par4">But generally take the best, and the worst. <foreign xml:lang="la">In medio virtus.</foreign> And ever suspect those that rid
+                    <p xml:id="ch10p1par4">But generally take the best, and the worst. <foreign xml:lang="la" corresp="#ch9transn3">In medio virtus.</foreign><note xml:id="ch9transn3" type="editorial" subtype="translation" resp="#HH">virtue lies in moderation</note> And ever suspect those that rid
                         not their Drones in time, <ref target="#ch10p1bibln5">v.</ref>
                         <note subtype="bibliographic" type="authorial" xml:id="ch10p1bibln5">
                             <ref target="#ch4sumn30"> V.c.4.n.30. </ref>
@@ -11723,13 +11723,13 @@
                         <hi rend="drop-capital">E</hi>xsection or Castration, is a third kinde of
                         taking: which is the cutting out of part of the Combes, part being leaft for
                         the Bees provision. And this was to be done at two times in the yeare,<ref target="#ch10p1glon5">*</ref>
-                        <foreign xml:lang="la">In ortu, &amp; occasu Vergiliarum</foreign>.<note subtype="summary" type="authorial" xml:id="ch10p1sumn20">20. Exsection
+                        <foreign xml:lang="la" corresp="#ch10transn1">In ortu, &amp; occasu Vergiliarum</foreign>.<note xml:id="ch10transn1" type="editorial" subtype="translation" resp="#HH">At the rising and the setting of the Pleiades</note><note subtype="summary" type="authorial" xml:id="ch10p1sumn20">20. Exsection
                             used at two times.</note></p>
                     <note place="inline" subtype="gloss" type="authorial" xml:id="ch10p1glon5">
-                        <foreign xml:lang="la">*Virgiliarum ortus</foreign> after <persName>
+                        <foreign xml:lang="la" corresp="#ch10transn2">*Virgiliarum ortus</foreign><note xml:id="ch10transn2" type="editorial" subtype="translation" resp="#HH">The rising of the Pleiades. cf. Columella, <hi rend="italic">De Re Rustica</hi> IX.14.1</note> after <persName>
                             Columella,</persName>
-                        <bibl>l.9.c.14.</bibl> is the eight and fortieth day from <term>Aequinoctium
-                            vernum</term>: after <persName>Var.</persName>: the foure and fortieth:
+                        <bibl>l.9.c.14.</bibl> is the eight and fortieth day from <foreign xml:lang="la" corresp="#ch10transn3"><term>Aequinoctium
+                            vernum</term></foreign>:<note xml:id="ch10transn3" type="editorial" subtype="translation" resp="#HH">spring equinox</note> after <persName>Var.</persName>: the foure and fortieth:
                         but then you must understand that they accounted the
                             <term>Aequinoctium</term> to bee in the eight degree of
                             <term>Aries:</term> (although <persName> Hipparchus</persName>, as
@@ -11743,30 +11743,30 @@
                         same degree of the opposite signe, is upon the fift day of November.</note>
                     <p xml:id="ch10p1par24"><note subtype="summary" type="authorial" xml:id="ch10p1sumn21">21. What part to be exsacted is uncertaine.</note>
                         But what part is to be taken, and what leaft, I find it not determined. <quote>
-                            <foreign xml:lang="la">Priore messe <hi rend="opposite">(saith
+                            <foreign xml:lang="la" corresp="#ch10transn4">Priore messe <hi rend="opposite">(saith
                                     Columella)</hi> dum adhuc rura pastionibus abundant, quinta pars
                                 favorum; posteriore, cum jam metuitur hyems, tertia relinquenda
-                                est.</foreign>
+                                est.</foreign><note xml:id="ch10transn4" type="editorial" subtype="translation" resp="#HH">In the earlier harvesting, while the countryside is still abundant with feed, a fifth of the honeycombs should be left, and in the later, when winter is threatening, a third. Columella, <hi rend="italic">De Re Rustica</hi> IX.15.8</note>
                             <note subtype="bibliographic" type="authorial" xml:id="ch10p1bibln16">
                                 <bibl> l.9. c.15</bibl>
                             </note>
                         </quote> But <bibl xml:id="ch10p1bibln16X1"><persName>Varro</persName></bibl> then requireth for their store two
                         third parts; <quote>
-                            <foreign xml:lang="la">Ut ne plus tertia pars eximatur mellis, reliquum
-                                hyemationi relinquatur</foreign>
+                            <foreign xml:lang="la" corresp="#ch10transn5">Ut ne plus tertia pars eximatur mellis, reliquum
+                                hyemationi relinquatur</foreign><note xml:id="ch10transn5" type="editorial" subtype="translation" resp="#HH">So that a part no more than a third should be removed, the rest should be left for overwintering. Varro, <hi rend="italic">De Re Rustica</hi> III.16.34</note>
                             <bibl><ptr target="#ch10p1bibln16X1"></ptr></bibl>
                         </quote>. And <bibl xml:id="ch10p1bibln16X2"><persName>
                             Aristotle</persName></bibl> because (as <persName>Columella</persName>
                         granteth) <quote>
-                            <foreign xml:lang="la">hic modus non est in omnibus regionibus
-                                certus</foreign>
+                            <foreign xml:lang="la" corresp="#ch10transn6">hic modus non est in omnibus regionibus
+                                certus</foreign><note xml:id="ch10transn6" type="editorial" subtype="translation" resp="#HH">This is not a certain measure for all regions. Columella, <hi rend="italic">De Re Rustica</hi> IX.15.9</note>
                             <bibl><ptr target="#ch10p1bibln16X2"></ptr></bibl></quote>; doth not
                         prescribe any certaine part, but leaving it to the discretion of the
                         Bee-master, saith, <quote>
-                            <foreign xml:lang="la">Cum favos apiarii eximunt, cibi tantum
+                            <foreign xml:lang="la" corresp="#ch10transn7">Cum favos apiarii eximunt, cibi tantum
                                 relinquant, quantum per hymem sufficiat: quod si satis sit, servatur
                                 examen; sin minus, vel moritur ibidem, (si ne discedat hyems obstet)
-                                vel deserit sedem, si serenum nanciscitur.</foreign>
+                                vel deserit sedem, si serenum nanciscitur.</foreign><note xml:id="ch10transn7" type="editorial" subtype="translation" resp="#HH">When they remove the honeycombs from the hive, they should leave as much food as may suffice for the winter: which, if it is enough, will preserve the swarm; but if it is less, the swarm will either die (if the winter weather prevents it from leaving), or will desert its hive, if it has fair weather. <hi rend="italic">HA</hi> IX.40 (626a init.)</note>
                             <note subtype="bibliographic" type="authorial" xml:id="ch10p1bibln16X3">
                                 <bibl> Hist.an.l.9.c.40.</bibl>
                             </note></quote>
@@ -11846,17 +11846,17 @@
                         But if, for some speciall use, you would have some Honie yet more fine and
                         pure; then onely slice the purer part of the Combes, being yet warme with
                         the temperate heat of the Bees, and so let the pure Live-honie runne through
-                        a cleane Clen-sieve. For, <quote><foreign xml:lang="la">In omni melle quod
+                        a cleane Clen-sieve. For, <quote><foreign xml:lang="la" corresp="#ch10transn8">In omni melle quod
                                 per se fluit (ut mustum oleumque) appellaturque acoeton, maxime
-                                laudabile est.</foreign> . <note subtype="bibliographic" type="authorial" xml:id="ch10p2bibln2">
+                                laudabile est.</foreign>.<note xml:id="ch10trans8" type="editorial" subtype="translation" resp="#HH">In all honey, the part that has trickled down of its own accord (like must and oil) and is called acoeton, honey-vinegar, is highly praiseworthy. <hi rend="italic">NH</hi> XI.38(15)</note> <note subtype="bibliographic" type="authorial" xml:id="ch10p2bibln2">
                                 <bibl>Nat. hist.l.II.c.15.</bibl>
                             </note></quote> Of all Honie that which runneth of it selfe, (as new
                         Wine and Oile) and is called <ref target="#ch10p2glon2">*</ref><term>Acoeton</term> is most commendable. </p>
                     <p xml:id="ch10p2par7">This <term>Acoeton</term> or finest <term>Nectar</term>,
                         for his incorrupted puritie, is called Virgin-Honie. <quote>
-                            <foreign xml:lang="la">Quod è favis sponte primum de fluit, virgineum
-                                mel vulgo appellatur.</foreign>
-                            <bibl>Plantinus in Fernel.l.7.de Meth.Med.</bibl>
+                            <foreign xml:lang="la" corresp="#ch10transn8">Quod è favis sponte primum defluit, virgineum
+                                mel vulgo appellatur.</foreign><note xml:id="ch10transn8" type="editorial" subtype="translation" resp="#HH">That which first trickles down of its own accord from the comb is popularly called virgin honey. Guillaume Plançon/Plantius, ‘In syrupum acidum scholia’ in Jean Fernel, <hi rend="italic">Methodi Medendi</hi>, VII</note>
+                            <bibl>Plantius in Fernel.l.7.de Meth.Med.</bibl>
                         </quote></p>
                     <p xml:id="ch10p2par8"><note subtype="summary" type="authorial" xml:id="ch10p2sumn6">6. Two sorts of virgin-honie.</note> Whereof there
                         are two sorts. The right Virgin-honie is of a Swarme: <ref target="#ch10p2bibln3">v.</ref>
@@ -11989,24 +11989,24 @@
                         fingers end, in falling it will not part, but hang together like a long
                         string, as that useth to doe which is clarified. And such doth
                             <persName>Jacobus Sylvius</persName> describe the best honie, <quote>
-                            <foreign xml:lang="la">Meloptimum sit purum adeo ut totum perluceat,
+                            <foreign xml:lang="la" corresp="#ch10transn10">Mel optimum sit purum adeo ut totum perluceat,
                                 odorum, flavum, acerrimum, dulcissimumque gustanti, &amp;
                                 jucundissimum, consistentiâ nec crassa nec liquida, sed tam sibi
                                 cohaerens ut continuitatem suam, quasi linea longissima, non
                                 intercisum servet, si digito attollitur: idem coquendo paucam spumam
-                                emittit.</foreign>
+                                emittit.</foreign><note xml:id="ch10transn10" type="editorial" subtype="translation" resp="#HH">The best honey should be pure enough to be wholly translucent, scented, tawny, very pungent and very sweet and pleasant to the taste, of a consistency neither dense nor liquid, but sufficiently sticky that it keeps its continuity unbroken, in as it were a very long line, if it is drawn away by the finger; and in cooking it gives off only a little froth. Jacobus Sylvius/Jacques Dubois</note>
                             <note subtype="other" type="editorial" xml:id="ch10p2biblnX15"> this is
                                 the first part of a quotation attributed below to <bibl>Fern. l.7.de
                                     Oxymel.</bibl></note>
                         </quote> And <persName> Guil.Plantius.</persName>
                         <quote>
-                            <foreign xml:lang="la">Mel probum est quod inter crassissimum &amp;
+                            <foreign xml:lang="la" corresp="#ch10transn11">Mel probum est quod inter crassissimum &amp;
                                 tenuissimum, sit mediocre, sapore dulcissimum, &amp; acerrimum,
                                 simulque dulcedinis sensum inferens &amp; vellicatu pungens linguam,
                                 colore pallidum aut subrutulum, &amp; pellucidum, odoratissimum
                                 &amp; recentissimum, quodque sublatum non facilè ob sequacem
                                 lentorem abrumpatur, pondere grave, &amp; inter coquendum spumae
-                                parum emittens.</foreign>
+                                parum emittens.</foreign><note xml:id="ch10transn11" type="editorial" subtype="translation" resp="#HH">The good honey is midway between the densest and the thinnest, very sweet in flavour and very pungent, and at the same time giving a sense of sweetness and pricking the tongue teasingly; pale and reddish in colour and translucent; very scented and fresh, and when drawn away not easily broken on account of its stickiness; heavy; and in cooking giving off little froth. Guillaume Plançon/Plantius, ‘In syrupum acidum scholia’ in Jean Fernel, <hi rend="italic">Methodi Medendi</hi>, VII</note>
                             <bibl>In Fern. l.7.de Oxymel. </bibl>
                         </quote></p>
                     <p xml:id="ch10p2par19"><note subtype="summary" type="authorial" xml:id="ch10p2sumn14">14. Good Honie with standing waxeth hard and
@@ -12024,14 +12024,14 @@
                             <ref target="#ch6sumn29"> V.c.6.n.29. </ref>
                         </note> into a thicke softnesse, and bright yelow colour. </p>
                     <note place="inline" subtype="gloss" type="authorial" xml:id="ch10p2glon3">*<quote>
-                            <foreign xml:lang="la">Quin Hispani &amp; Narbonenses mittunt albissimum
-                                &amp; longe praestantissimum, idemque praedurum.</foreign>
+                            <foreign xml:lang="la" corresp="#ch10transn12">Quin Hispani &amp; Narbonenses mittunt albissimum
+                                &amp; longe praestantissimum, idemque praedurum.</foreign><note xml:id="ch10transn12" type="editorial" subtype="translation" resp="#HH">Indeed Spain and southern France  produce that which is whitest and pre-eminent by far, and this honey is very hard. Jacobus Sylvius/Jacques Dubois, Book I on medicine</note>
                             <bibl>Sylv.l.I.med.</bibl>
                         </quote></note>
                     <note place="inline" subtype="gloss" type="authorial" xml:id="ch10p2glon4">†<quote>
-                            <foreign xml:lang="la">Nec Attico aut Hyblaeo inferius, cum regionis
+                            <foreign xml:lang="la" corresp="#ch10transn13">Nec Attico aut Hyblaeo inferius, cum regionis
                                 temperatura, &amp; thymi larga luxuries utrobique
-                                consentiant.</foreign>
+                                consentiant.</foreign><note xml:id="ch10transn13" type="editorial" subtype="translation" resp="#HH">Nor is it inferior to that of Attica or Hybla, since the aspect of the region and the abundance lushness of the thyme accords with them in both cases. Jacobus Sylvius/Jacques Dubois, Sylvius/Dubois, <hi rend="italic">De Medicamentorum Simplicium Delectu, Praeparationibus, Mistionis Modo</hi> II, ‘De spumatione’ </note>
                             <bibl>Idem.l.2.</bibl>
                         </quote></note>
                     <fw type="catch"> And</fw>
@@ -12042,13 +12042,13 @@
                         lowest in the vessell. <ref target="#ch10p2glon5">*</ref> For as the best
                         oyle is in the top, and the best wine in the middle; so the best Honie is in
                         the bottom. <quote>
-                            <foreign xml:lang="la">Mellis exilior pars fluitat, quae eximenda est:
-                                pura vero &amp; valida subsidit.</foreign>
+                            <foreign xml:lang="la" corresp="#ch10transn14">Mellis exilior pars fluitat, quae eximenda est:
+                                pura vero &amp; valida subsidit.</foreign><note xml:id="ch10transn14" type="editorial" subtype="translation" resp="#HH">The poorest part of the honey floats to the top and should be discarded: but the pure and good part sinks. <hi rend="italic">HA</hi> IX.40 (627a init.)</note>
                             <bibl>Arist.Hist.ani.l.9.c.40.</bibl>
                         </quote>
                         <quote>
-                            <foreign xml:lang="la">In imo vase quod sidit, supernatante
-                                pretiosius.</foreign>
+                            <foreign xml:lang="la" corresp="#ch10transn15">In imo vase quod sidit, supernatante
+                                pretiosius.</foreign><note xml:id="ch10transn15" type="editorial" subtype="translation" resp="#HH">That which sits at the bottom of the jar is more valuable than what floats above. Guillaume Plançon/Plantius, ‘In syrupum acidum scholia’ in Jean Fernel, <hi rend="italic">Methodi Medendi</hi>, VII</note>
                             <bibl>Plan.in Fern.l.7.de Oxymel.</bibl>
                         </quote></p>
                     <note place="inline" subtype="gloss" type="authorial" xml:id="ch10p2glon5">* As
@@ -12061,12 +12061,12 @@
                         is no heavier then nine of them. And Honie is heavier than Wine by the
                         halfe: for if you fill a measure with Wine, the same measure of Honie will
                         weigh that and halfe so much more. <quote>
-                            <foreign xml:lang="la">Quoniam Oleum levius est Vino parte <ref target="#ch10p2glon6">*</ref>
+                            <foreign xml:lang="la" corresp="#ch10transn16">Quoniam Oleum levius est Vino parte <ref target="#ch10p2glon6">*</ref>
                                 <note subtype="gloss" type="authorial" xml:id="ch10p2glon6">*
                                         <foreign xml:lang="la">Ceu potius decima.</foreign></note>
                                 nonâ, Mel verò gravius Vino parte dimidiâ; quaecunque mensura capit
                                 Mellis uncias quindecim, capit Vini uncias decem, &amp; Olei
-                                novem.</foreign>
+                                novem.</foreign><note xml:id="ch10transn16" type="editorial" subtype="translation" resp="#HH">Since oil is lighter than wine by a ratio of ten to nine, but honey is half as heavy again than wine, then any measuring-jar that takes fifteen ounces of honey will take ten ounces of wine and nine of oil. Jean Fernel, <hi rend="italic">Methodi Medendi</hi> IV.6</note>
                             <bibl>Fern.Meth.l.4.c.6.</bibl>
                         </quote></p>
                     <lb></lb>
@@ -12192,8 +12192,8 @@
                         you keepe, the better it will be. </p>
                     <p xml:id="ch10p2par32"><note subtype="summary" type="authorial" xml:id="ch10p2sumn24">24. The making of Methaeglen.</note>
                         <term>Metheglen</term> is the more generous or stronger <term>
-                            Hydromel:</term> being unto <term>Mede</term> as <term> Vinum</term> to
-                            <term>Lora.</term> For it beareth an Egge the breadth of a groat or six
+                            Hydromel:</term> being unto <term>Mede</term> as <foreign xml:lang="la" corresp="#ch10transn17"><term> Vinum</term></foreign><note xml:id="ch10transn17" type="editorial" subtype="translation" resp="#HH">wine </note> to
+                        <term><foreign xml:lang="la" corresp="#ch10transn18">Lora.</foreign></term><note xml:id="ch10transn18" type="editorial" subtype="translation" resp="#HH">a thin ‘after-wine’ made from the leftover grapeskins</note> For it beareth an Egge the breadth of a groat or six
                         pence: and is usually made of finer hony, with a lesse proportion of water;
                         namely, foure measures for one: receiving also in the composition as well
                         certaine sweet and holsome hearbs, as also a larger quantitie of spices:
@@ -12318,8 +12318,8 @@
                             <note subtype="bibliographic" type="authorial" xml:id="ch10p2bibln21">
                                 <bibl>Silv.de med.simpl.delectu.lib.1</bibl>
                             </note>
-                            <foreign xml:lang="la">Cera sit flavissima, odorata, pinguis, coacta,
-                                levis, pura, &amp; alienâ omni materiâ carens.</foreign>
+                            <foreign xml:lang="la" corresp="#ch10transn19">Cera sit flavissima, odorata, pinguis, coacta,
+                                levis, pura, &amp; alienâ omni materiâ carens.</foreign><note xml:id="ch10transn19" type="editorial" subtype="translation" resp="#HH">Wax should be very yellow, scented, fat, solid, light, pure and free from all extraneous material. Jacobus Sylvius/Jacques Dubois, <hi rend="italic">De Medicamentorum Simplicium Delectu, Praeparationibus, Mistionis Modo</hi> I, ‘Succorum delectus’</note>
                         </quote></p>
                     
                     <note place="inline" subtype="gloss" type="authorial" xml:id="ch10p2glon14">(1)
@@ -12582,7 +12582,7 @@
                         and changing them when they are warme, will turne into a water of a red
                         colour like blood. When it is all distilled, keepe the Receiver close shut,
                         and let it stand till it be cleere, and of the colour of a Rubie. Then
-                        distill it in <term>Balneo Mariae</term> seven times; and so it will lose
+                        distill it in <foreign xml:lang="la" corresp="#ch10transn9"><term>Balneo Mariae</term></foreign><note xml:id="ch10transn9" type="editorial" subtype="translation" resp="#HH">in a bain-marie</note> seven times; and so it will lose
                         this reddish colour, and become yellow as Gold, having a great smell and
                         exceeding pleasant. </p>
                     <note place="inline" subtype="gloss" type="authorial" xml:id="ch10p3glon7">*The
