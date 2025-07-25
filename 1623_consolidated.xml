@@ -500,7 +500,7 @@
                     <signed data-origfile="1609"><persName rend="roman" data-origfile="1609">Warnerus South</persName>, <foreign rend="roman" data-origfile="1609">Jurista Novi Collegij
                         Socius</foreign>.</signed><anchor xml:id="ch0ance19" data-origfile="1609" type="attachmentCollation" subtype="end" /></rdg></app>
                     <app subtype="add" type="major">
-                        <lem wit="#b1623"><foreign corresp="#preftrans6" xml:lang="la"><lg rend="italic">
+                        <lem wit="#b1623"><foreign corresp="#preftransn6" xml:lang="la"><lg rend="italic">
                                 <l>
                                     <hi rend="drop-capital">Q</hi> Uae natura Apibus, quae membra,
                                     scientia, sensus, </l>
@@ -642,7 +642,7 @@
                             <rdg wit="#b1609" />
                         </app></head>
                     <app subtype="add" type="major">
-                        <lem wit="#b1623"><foreign corresp="pretransn7" xml:lang="la"><lg>
+                        <lem wit="#b1623"><foreign corresp="#pretransn7" xml:lang="la"><lg>
                                 <l><hi rend="drop-capital">A</hi>Nt&#232; mel &#232; chartis prompsisti, ut
                                         <hi rend="opposite">Rhetor</hi>, apinum,</l>
                                 <l>At nunc mellitas promis, ut <hi rend="opposite">Histor</hi>,
@@ -1652,7 +1652,7 @@
                                 <rdg wit="#b1609" />
                             </app></bibl></note>
                     <quote>
-                        <foreign corresp="#ch1trans7" xml:lang="la">Solae in omni genere animantium communem omnibus
+                        <foreign corresp="#ch1transn7" xml:lang="la">Solae in omni genere animantium communem omnibus
                             sobolem habent, unam omnes incolunt mansionem, unius patriae clauduntur
                             limine, in commune omnibus labor, communis cibus, communis operatio,
                             communis usus, &amp; fructus est.</foreign><note resp="#HH" subtype="translation" type="editorial" xml:id="ch1transn7">Alone of all kinds of living things they hold their offspring common to all<seg rend='roman'>;</seg> they all inhabit one dwelling place, they are enclosed within the borders of one homeland, their industry is common to all, their food is common, their work is common, the use and enjoyment of their property is common. Ambrose, <hi rend="italic">Hexaemeron</hi> V.20.67<seg rend='roman'>;</seg> cf Basil, <hi rend="italic">Homilies on the Hexaemeron</hi> VIII.4</note></quote>
@@ -2527,7 +2527,7 @@
                             Lib.14.c.3.</bibl></note>
                     </quote>
                     <note subtype="gloss" type="authorial" xml:id="ch1glon3">
-                        <foreign corresp="ch1transn42" xml:lang="la"><hi rend="opposite">Nam miranda canunt, sed non
+                        <foreign corresp="#ch1transn42" xml:lang="la"><hi rend="opposite">Nam miranda canunt, sed non
                             credenda Poetae.</hi></foreign><note resp="#HH" subtype="translation" type="editorial" xml:id="ch1transn42">For the poets sing of things that are wonderful but not to be believed. <hi rend="italic">Distichs of Cato</hi>, III.18.2</note>
                     </note>
                 </p>
@@ -2535,7 +2535,7 @@
                 <pb n="D2r" />
                 <fw type="header"> and of their Queene. </fw>
                 <p xml:id="ch1par48">The other he reporteth thus. <quote>
-                        <foreign corresp="#ch1transn44" xml:lang="la">Quidam fures, ut argenteum vasculum in quo condita
+                    <foreign corresp="#ch1transn45" xml:lang="la">Quidam fures, ut argenteum vasculum in quo condita
                             erat Eucharistia auferrent, &amp; illam secum rapuerunt: sacratissimum
                             vero C. corpus sub alveari projecerunt. Post aliquot dies Dominus
                             alvearis videt apes certis horis saepius, dimissis operis ad cibos
@@ -2661,7 +2661,7 @@
                         <note subtype="bibliographic" type="authorial" xml:id="ch1bibln63b">
                             <bibl>Hist.l.5.c.22.</bibl>
                         </note>
-                        <foreign corresp="#ch1trans57" xml:lang="la">Vita apum anni sex, nonnullae etiam 7 possunt
+                    <foreign corresp="#ch1transn57" xml:lang="la">Vita apum anni sex, nonnullae etiam 7 possunt
                             complere: quod si examen 9 aut decem annos duraverit prosper&#232; actum esse
                             existimatur.</foreign><note resp="#HH" subtype="translation" type="editorial" xml:id="ch1transn57">The life of a bee is six years, and some can even live out seven: and if a swarm lasts nine or ten years, it is considered to have been managed successfully. <hi rend="italic">HA</hi> V.22 (554b init.)</note>
                     </quote> Which opinions are grounded upon this, that they see a stall sometimes
@@ -9314,7 +9314,7 @@
                         <rdg wit="#b1609" source="1609.xml#ch6ancs51 1609.xml#ch6ance51"><p xml:id="ch6par47" data-origfile="1609">Of a planke or other piece of timber 3. foot long, 13. inches
                     broad, and 3. inches thicke you may make a double trough with a partition. The
                     length of the concavities let be two foote, the breadth of each 4 inches, the
-                    depth at the par- <fw type="sig" data-origfile="1609">tition</fw>
+                    depth at the par- <fw type="catch" data-origfile="1609">tition</fw>
                     <pb n="H4r" data-origfile="1609" />
                     <fw type="header" data-origfile="1609">
                         <hi rend="italic" data-origfile="1609">and labour.</hi>
@@ -9992,7 +9992,7 @@
                         guests.<app subtype="del" type="minor">
                         <lem wit="#b1623" />
                         <rdg wit="#b1609" source="1609.xml#ch7ancs22 1609.xml#ch7ance22"><anchor xml:id="ch7ancs22" data-origfile="1609" type="attachmentCollation" subtype="start" />and specially of the
-                    snailes: which wil not long abide, if there be no <fw type="sig" data-origfile="1609">har-</fw>
+                    snailes: which wil not long abide, if there be no <fw type="catch" data-origfile="1609">har-</fw>
                     <pb n="H8r" data-origfile="1609" />
                     <fw type="header" data-origfile="1609">
                         <hi rend="italic" data-origfile="1609">Of the Bees enemies.</hi>
@@ -10454,7 +10454,7 @@
                         <lem wit="#b1623" />
                         <rdg wit="#b1609" source="1609.xml#ch7ancs39 1609.xml#ch7ance39"><anchor xml:id="ch7ancs39" data-origfile="1609" type="attachmentCollation" subtype="start" />and in the 3 dead months <term rend="italic" data-origfile="1609">Sagit.</term> <term rend="italic" data-origfile="1609">Capr.</term>&amp;<term rend="italic" data-origfile="1609"> Aquar.</term> because the sun
                     is then of smale force, drie the wicker hives with fire of straw: but then you
-                    must be sure they be <fw type="sig" data-origfile="1609">close</fw>
+                    must be sure they be <fw type="catch" data-origfile="1609">close</fw>
                     <pb n="I6r" data-origfile="1609" />
                     <fw type="header" data-origfile="1609">
                         <hi rend="italic" data-origfile="1609">Of the Bees enemies.</hi>
@@ -10775,8 +10775,7 @@
                     <anchor xml:id="ch9ance14" data-origfile="1609" /><persName rend="italic" data-origfile="1609">Aristotle</persName> mentioneth figges, and all such sweet things. <foreign rend="italic" xml:lang="la" data-origfile="1609">Apiarii
                         ficus ac reliqua ad genus dulcia in cibum apponnut.</foreign>
                     <note subtype="bibliographic" type="authorial" xml:id="ch9bibln3" data-origfile="1609"><bibl data-origfile="1609">Hist.li.9.c.40.</bibl></note> and <persName rend="italic" data-origfile="1609">Plini</persName> speaking more particularly commen-
-                        <fw type="catch" data-origfile="1609"> deth</fw>
-                    <fw ana="printing error, should be K2" type="sig" data-origfile="1609">K3</fw>
+                    <fw ana="printing error, should be K2" type="sig" data-origfile="1609">K3</fw><fw type="catch" data-origfile="1609"> deth</fw>
                     <pb n="K2v" data-origfile="1609" />
                     <fw type="header" data-origfile="1609">
                         <hi rend="italic" data-origfile="1609">Of the feeding of Bees.</hi>
@@ -11131,8 +11130,7 @@
                     </note> At <term rend="italic" data-origfile="1609">Pisces,</term> if you feare they will lacke, (which you may
                     perceive by their lightnes) doe like-wise, and supply their want: but then it is
                     best to give them their food in a morning, leaste colde and darknes overtake
-                    them, whiles greedy hun <fw type="catch" data-origfile="1609">ger</fw>
-                    <fw type="sig" data-origfile="1609">K4</fw>
+                    them, whiles greedy hun <fw type="sig" data-origfile="1609">K4</fw><fw type="catch" data-origfile="1609">ger</fw>
                     <pb n="K4v" data-origfile="1609" />
                     <fw type="header" data-origfile="1609">
                         <hi rend="italic" data-origfile="1609">Of the feeding of Bees.</hi>
@@ -11279,7 +11277,7 @@
                     houre after, having prepared an other stoole of the same height,<app subtype="del" type="minor">
                         <lem wit="#b1623" />
                         <rdg wit="#b1609" source="1609.xml#ch8ancs6 1609.xml#ch9ance6"><fw type="ornament" data-origfile="1609" />
-            <pb n="K1r" data-origfile="1609" />
+            <pb n="K1r" rend="hidden" data-origfile="1609" />
             <div n="9" type="chapter" xml:id="ch9" data-origfile="1609">
                 <head type="chapter-title" data-origfile="1609">
                     <hi rend="italic" data-origfile="1609">Of the feeding of Bees.</hi>
@@ -11369,8 +11367,7 @@
                     <anchor xml:id="ch9ance14" data-origfile="1609" type="attachmentCollation" subtype="end" /><persName rend="italic" data-origfile="1609">Aristotle</persName> mentioneth figges, and all such sweet things. <foreign rend="italic" xml:lang="la" data-origfile="1609">Apiarii
                         ficus ac reliqua ad genus dulcia in cibum apponnut.</foreign>
                     <note subtype="bibliographic" type="authorial" xml:id="ch9bibln3" data-origfile="1609"><bibl data-origfile="1609">Hist.li.9.c.40.</bibl></note> and <persName rend="italic" data-origfile="1609">Plini</persName> speaking more particularly commen-
-                        <fw type="catch" data-origfile="1609"> deth</fw>
-                    <fw ana="printing error, should be K2" type="sig" data-origfile="1609">K3</fw>
+                    <fw ana="printing error, should be K2" type="sig" data-origfile="1609">K3</fw><fw type="catch" data-origfile="1609"> deth</fw>
                     <pb n="K2v" data-origfile="1609" />
                     <fw type="header" data-origfile="1609">
                         <hi rend="italic" data-origfile="1609">Of the feeding of Bees.</hi>
@@ -11381,7 +11378,7 @@
                         fores earum posuisse conveniet: item lanas tractas madentes passo aut
                         defruto, aut aqua mulsa.</foreign> And some of our country-men have practised to
                     give them bay salt, <anchor xml:id="ch9ancs16" data-origfile="1609" type="attachmentCollation" subtype="start" />and<anchor xml:id="ch9ance16" data-origfile="1609" type="attachmentCollation" subtype="end" /><anchor xml:id="ch9ancs17" data-origfile="1609" type="attachmentCollation" subtype="start" />the Bees<anchor xml:id="ch9ance17" data-origfile="1609" type="attachmentCollation" subtype="end" /></p>
-                <note subtype="gloss" type="authorial" xml:id="ch9glon2" data-origfile="1609">Touching the councell of <hi rend="italic" data-origfile="1609">Plinie.</hi> this is to bee noted, that if you
+                <note place="inline" subtype="gloss" type="authorial" xml:id="ch9glon2" data-origfile="1609">Touching the councell of <hi rend="italic" data-origfile="1609">Plinie.</hi> this is to bee noted, that if you
                     place their food <hi rend="italic" data-origfile="1609">ad fores</hi> before the dore, it wil draw strange Bees
                     unto them: whereby the lives of the one, and the goods of the other wilbe
                     endangered: if you place it abroad from your hive, then wil it bee common: and
@@ -11415,8 +11412,7 @@
                     <note subtype="summary" type="authorial" xml:id="ch9sumn12" data-origfile="1609">13 <hi rend="italic" data-origfile="1609">Bees are to be fed according to their want.</hi>
                     </note> <anchor xml:id="ch9ancs21" data-origfile="1609" type="attachmentCollation" subtype="start" />The poore swarmes are to be fed much or little, longer or lesse while,
                     according to their want. What each swarme wanteth cannot certainely be knowne:
-                    neverthelesse, through some direction together with experience, you <fw type="catch" data-origfile="1609">may</fw>
-                    <fw type="sig" data-origfile="1609">K3</fw>
+                    neverthelesse, through some direction together with experience, you <fw type="sig" data-origfile="1609">K3</fw><fw type="catch" data-origfile="1609">may</fw>
                     <pb n="K3v" data-origfile="1609" />
                     <fw type="header" data-origfile="1609">
                         <hi rend="italic" data-origfile="1609">Of the feeding of Bees.</hi>
@@ -11468,8 +11464,7 @@
                     </note> At <term rend="italic" data-origfile="1609">Pisces,</term> if you feare they will lacke, (which you may
                     perceive by their lightnes) doe like-wise, and supply their want: but then it is
                     best to give them their food in a morning, leaste colde and darknes overtake
-                    them, whiles greedy hun <fw type="catch" data-origfile="1609">ger</fw>
-                    <fw type="sig" data-origfile="1609">K4</fw>
+                    them, whiles greedy hun <fw type="sig" data-origfile="1609">K4</fw><fw type="catch" data-origfile="1609">ger</fw>
                     <pb n="K4v" data-origfile="1609" />
                     <fw type="header" data-origfile="1609">
                         <hi rend="italic" data-origfile="1609">Of the feeding of Bees.</hi>

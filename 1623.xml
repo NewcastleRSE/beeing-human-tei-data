@@ -473,7 +473,7 @@
                         <rdg wit="#b1609"><ptr target="1609.xml#ch0ancs19 1609.xml#ch0ance19"></ptr></rdg>
                     </app>
                     <app subtype="add" type="major">
-                        <lem wit="#b1623"><foreign corresp="#preftrans6" xml:lang="la"><lg rend="italic">
+                        <lem wit="#b1623"><foreign corresp="#preftransn6" xml:lang="la"><lg rend="italic">
                                 <l>
                                     <hi rend="drop-capital">Q</hi> Uae natura Apibus, quae membra,
                                     scientia, sensus, </l>
@@ -586,7 +586,7 @@
                             <rdg wit="#b1609"></rdg>
                         </app></head>
                     <app subtype="add" type="major">
-                        <lem wit="#b1623"><foreign corresp="pretransn7" xml:lang="la"><lg>
+                        <lem wit="#b1623"><foreign corresp="#pretransn7" xml:lang="la"><lg>
                                 <l><hi rend="drop-capital">A</hi>Ntè mel è chartis prompsisti, ut
                                         <hi rend="opposite">Rhetor</hi>, apinum,</l>
                                 <l>At nunc mellitas promis, ut <hi rend="opposite">Histor</hi>,
@@ -1602,7 +1602,7 @@
                                 <rdg wit="#b1609"></rdg>
                             </app></bibl></note>
                     <quote>
-                        <foreign corresp="#ch1trans7" xml:lang="la">Solae in omni genere animantium communem omnibus
+                        <foreign corresp="#ch1transn7" xml:lang="la">Solae in omni genere animantium communem omnibus
                             sobolem habent, unam omnes incolunt mansionem, unius patriae clauduntur
                             limine, in commune omnibus labor, communis cibus, communis operatio,
                             communis usus, &amp; fructus est.</foreign><note resp="#HH" subtype="translation" type="editorial" xml:id="ch1transn7">Alone of all kinds of living things they hold their offspring common to all; they all inhabit one dwelling place, they are enclosed within the borders of one homeland, their industry is common to all, their food is common, their work is common, the use and enjoyment of their property is common. Ambrose, <hi rend="italic">Hexaemeron</hi> V.20.67; cf Basil, <hi rend="italic">Homilies on the Hexaemeron</hi> VIII.4</note></quote>
@@ -2504,7 +2504,7 @@
                             Lib.14.c.3.</bibl></note>
                     </quote>
                     <note subtype="gloss" type="authorial" xml:id="ch1glon3">
-                        <foreign corresp="ch1transn42" xml:lang="la"><hi rend="opposite">Nam miranda canunt, sed non
+                        <foreign corresp="#ch1transn42" xml:lang="la"><hi rend="opposite">Nam miranda canunt, sed non
                             credenda Poetae.</hi></foreign><note resp="#HH" subtype="translation" type="editorial" xml:id="ch1transn42">For the poets sing of things that are wonderful but not to be believed. <hi rend="italic">Distichs of Cato</hi>, III.18.2</note>
                     </note>
                 </p>
@@ -2512,7 +2512,7 @@
                 <pb n="D2r"></pb>
                 <fw type="header"> and of their Queene. </fw>
                 <p xml:id="ch1par48">The other he reporteth thus. <quote>
-                        <foreign corresp="#ch1transn44" xml:lang="la">Quidam fures, ut argenteum vasculum in quo condita
+                    <foreign corresp="#ch1transn45" xml:lang="la">Quidam fures, ut argenteum vasculum in quo condita
                             erat Eucharistia auferrent, &amp; illam secum rapuerunt: sacratissimum
                             vero C. corpus sub alveari projecerunt. Post aliquot dies Dominus
                             alvearis videt apes certis horis saepius, dimissis operis ad cibos
@@ -2642,7 +2642,7 @@
                         <note subtype="bibliographic" type="authorial" xml:id="ch1bibln63b">
                             <bibl>Hist.l.5.c.22.</bibl>
                         </note>
-                        <foreign corresp="#ch1trans57" xml:lang="la">Vita apum anni sex, nonnullae etiam 7 possunt
+                    <foreign corresp="#ch1transn57" xml:lang="la">Vita apum anni sex, nonnullae etiam 7 possunt
                             complere: quod si examen 9 aut decem annos duraverit prosperè actum esse
                             existimatur.</foreign><note resp="#HH" subtype="translation" type="editorial" xml:id="ch1transn57">The life of a bee is six years, and some can even live out seven: and if a swarm lasts nine or ten years, it is considered to have been managed successfully. <hi rend="italic">HA</hi> V.22 (554b init.)</note>
                     </quote> Which opinions are grounded upon this, that they see a stall sometimes
