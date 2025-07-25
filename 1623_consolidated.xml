@@ -5689,7 +5689,7 @@
                 </p>
                 <anchor xml:id="ch5ance1" data-origfile="1609" type="attachmentCollation" subtype="end" /></rdg></app></p>
                 <p xml:id="ch5par5x"><quote>
-                    <foreign corresp="ch5transn1" xml:lang="la"><hi rend="opposite">Augent mella siccitates, sobolem imbres.</hi><note resp="#HH" subtype="translation" type="editorial" xml:id="ch5transn1">Dry spells increase the amount of honey, rainstorms the number of bees. Pliny the Elder, <hi rend="italic">Natural History</hi> XI.18(17)</note><app subtype="del" type="minor">
+                    <foreign corresp="#ch5transn1" xml:lang="la"><hi rend="opposite">Augent mella siccitates, sobolem imbres.</hi><note resp="#HH" subtype="translation" type="editorial" xml:id="ch5transn1">Dry spells increase the amount of honey, rainstorms the number of bees. Pliny the Elder, <hi rend="italic">Natural History</hi> XI.18(17)</note><app subtype="del" type="minor">
                                 <lem wit="#b1623" />
                                 <rdg wit="#b1609" source="1609.xml#ch5ancs2 1609.xml#ch5ance2"><anchor xml:id="ch5ancs2" data-origfile="1609" type="attachmentCollation" subtype="start" />Humido vere melior foetus, sicco mel
                         copiosius.<anchor xml:id="ch5ance2" data-origfile="1609" type="attachmentCollation" subtype="end" /></rdg></app></foreign>
@@ -8659,7 +8659,7 @@
                 <p xml:id="ch6par13"><note subtype="summary" type="authorial" xml:id="ch6sumn18">18. <seg rend="italic">How Ambrosia or grosse hony is gathered. </seg></note> The grosse hony is gathered
                     by their fangs: from whence is it conveied by the fore-legs to the thighes of
                     the hin-legs (<quote>
-                        <foreign corresp="ch6transn12" xml:lang="la">Quae flores comportant prioribus pedibus foemina
+                        <foreign corresp="#ch6transn12" xml:lang="la">Quae flores comportant prioribus pedibus foemina
                             onerant propter id natura scabra, pedes priores rostro: totaeque onustae
                             remeant sarcina pandatae</foreign><note resp="#HH" subtype="translation" type="editorial" xml:id="ch6transn12">The ones that harvest flowers with their front legs load up their thighs which are of a scaly nature for this reason, and with their beak they load up their front legs: and when they are fully laden they go back rotund with their burden. <hi rend="italic">NH</hi> XI.21(10)</note>
                         <note subtype="bibliographic" type="authorial" xml:id="ch6bibln14">
@@ -10512,7 +10512,7 @@
                     </app></p>
                 <quote>
                     <note subtype="bibliographic" type="authorial" xml:id="ch7bibln33"><bibl>Nat.hist.l.11.c.19</bibl></note>
-                    <foreign corresp="&#8364;ch7transn22" xml:lang="la">Tot hostibus, tot casibus, tam munificum animal expositum
+                    <foreign corresp="#ch7transn22" xml:lang="la">Tot hostibus, tot casibus, tam munificum animal expositum
                         est.</foreign><note resp="#HH" subtype="translation" type="editorial" xml:id="ch7transn22">To so many enemies and so many misfortunes is so generous an animal exposed. <hi rend="italic">NH</hi> XI.67(21)</note>
                 </quote>
                 <p xml:id="ch7par70">
@@ -10540,7 +10540,7 @@
                             And as they want herein their Keepers helpe, so have they no meanes to
                             save themselves, no not so much as the silly sheepe, which happily may
                             runne away. For their resistance, which against some Enemies doth often
-                            prevaile, against the violence of this flie <foreign corresp="ch7transn24" xml:lang="la"><term>Tenebrio</term></foreign><note resp="#HH" subtype="translation" type="editorial" xml:id="ch7transn24">a thief in the darkness</note>
+                            prevaile, against the violence of this flie <foreign corresp="#ch7transn24" xml:lang="la"><term>Tenebrio</term></foreign><note resp="#HH" subtype="translation" type="editorial" xml:id="ch7transn24">a thief in the darkness</note>
                             availeth nothing at all: who stealing upon <fw type="catch"> them</fw>
                             <pb n="S1r" />
                             <fw type="header"> Of the Bees Enemies. </fw> them while they be at
@@ -10574,7 +10574,7 @@
                         <rdg wit="#b1609" />
                     </app></p>
                 <p xml:id="ch7par71"><app subtype="add" type="major">
-                        <lem wit="#b1623">It were to be wished that <foreign corresp="#ch7transn26" xml:lang="la">Pares
+                    <lem wit="#b1623">It were to be wished that <foreign corresp="#ch7transn27" xml:lang="la">Pares
                             culp&#226;</foreign><note resp="#HH" subtype="translation" type="editorial" xml:id="ch7transn27">equal in punishment</note> might be <foreign corresp="#ch7transn27" xml:lang="la">Pares
                                 paen&#226;</foreign>, that all like offendors might have like punishment.
                             But sith our Bees are not of <persName>S. Medards.</persName> kinde,
@@ -10945,7 +10945,7 @@
                         <rdg wit="#b1609" source="1609.xml#ch9ancs17 1609.xml#ch9ance17"><anchor xml:id="ch9ancs17" data-origfile="1609" type="attachmentCollation" subtype="start" />the Bees<anchor xml:id="ch9ance17" data-origfile="1609" type="attachmentCollation" subtype="end" /></rdg></app> be preseved by them without Honie. </p>
                 <note place="inline" subtype="gloss" type="authorial" xml:id="ch8glon4">Touching the
                     counsell of <persName> Plinie.</persName> this is to be noted, that if you place
-                    their food <foreign corresp="#ch8" xml:lang="la">ad fores</foreign> before the doore, it will
+                    their food <foreign corresp="#ch8transn3" xml:lang="la">ad fores</foreign> before the doore, it will
                     draw strange Bees unto them: whereby the lives of the one, and the goods of the
                     other will be indangered: if you place it abroad from your Hive, then will it be
                     common: and if within upon the stoole, which is best, then must you remove it in
