@@ -4851,7 +4851,7 @@
                     <note subtype="bibliographic" type="authorial" xml:id="ch4bibln5">
                         <ref target="#ch4sumn18"><seg rend="italic">V</seg><seg rend="italic">.</seg><seg rend="italic">n</seg><seg rend="italic">.</seg><seg rend="normal">1</seg><seg rend="normal">8</seg><seg rend="italic">.</seg></ref>&amp;<ref target="#ch4sumn19"><seg rend="normal">1</seg><seg rend="normal">9</seg><seg rend="italic">.</seg></ref>
                     </note> there is not a Drone to be had <quote>
-                        <foreign corresp="#ch4transn3" xml:lang="la">In rerum natura.</foreign><note subtype="translation" type="editorial" xml:id="ch4transn3" />in the world<note subtype="bibliographic" type="authorial" xml:id="ch4bibln6"><bibl>Nat hist
+                        <foreign corresp="#ch4transn3" xml:lang="la">In rerum natura.</foreign><note subtype="translation" type="editorial" xml:id="ch4transn3">in the world</note><note subtype="bibliographic" type="authorial" xml:id="ch4bibln6"><bibl>Nat hist
                                 l.11.c.11.</bibl></note>
                     </quote> When they are quite gone, then doe the Bees lay no more seeds that
                     yeere, but onely hatch and breed up those that are already in the celles. <note subtype="bibliographic" type="authorial" xml:id="ch4bibln7">
@@ -5166,7 +5166,7 @@
                                     scatebat.</foreign><note subtype="translation" type="editorial" xml:id="ch4transn18">Xanthippe, the wife of Socrates, is said to have been thoroughly peevish and quarrelsome, and she gushed with feminine rages and irritations day and night. Gellius, <hi rend="italic">Noctes Atticae</hi> I.17.1</note>
                                 <bibl>A Gellius l.1.c.17.</bibl></quote>
                             <quote>
-                                <foreign corresp="#ch3transn19" xml:lang="la">Socrates, cum in eum Xantippe prius convitia
+                                <foreign corresp="#ch4transn19" xml:lang="la">Socrates, cum in eum Xantippe prius convitia
                                     &amp; maledicta ingessisset, postea vero &amp; sordidis aquis
                                     perfudisset, Nonne <hi rend="opposite">(</hi>inquit<hi rend="opposite">)</hi> dicebam Xantippen tonantem quandoque
                                     pluituram?</foreign><note subtype="translation" type="editorial" xml:id="ch4transn19">When Xanthippe had first poured scolding and abuse on him, and then indeed sloshed him with dirty water, Socrates said: &#8216;Did I not say that Xanthippe never rained but she thundered?&#8217; Diogenes La&#235;rtius, <hi rend="italic">Life of Socrates</hi> II.17 (in Latin translation)</note>
