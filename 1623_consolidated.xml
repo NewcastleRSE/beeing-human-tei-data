@@ -500,7 +500,7 @@
                     <signed data-origfile="1609"><persName rend="roman" data-origfile="1609">Warnerus South</persName>, <foreign rend="roman" data-origfile="1609">Jurista Novi Collegij
                         Socius</foreign>.</signed><anchor xml:id="ch0ance19" data-origfile="1609" type="attachmentCollation" subtype="end" /></rdg></app>
                     <app subtype="add" type="major">
-                        <lem wit="#b1623"><foreign corresp="#preftrans6" rend="lat"><lg rend="italic">
+                        <lem wit="#b1623"><foreign corresp="#preftrans6" xml:lang="la"><lg rend="italic">
                                 <l>
                                     <hi rend="drop-capital">Q</hi> Uae natura Apibus, quae membra,
                                     scientia, sensus, </l>
@@ -638,11 +638,11 @@
                 </app>
                 <div type="poem" xml:lang="la">
                     <head type="poemTitle"><app subtype="add" type="other">
-                        <lem wit="#b1623"><foreign corresp="#preftransn7" rend="lat">Ad Carolum Butler.</foreign><note subtype="translation" type="editorial" xml:id="preftransn7">To Charles Butler</note></lem>
+                        <lem wit="#b1623"><foreign corresp="#preftransn7" xml:lang="la">Ad Carolum Butler.</foreign><note subtype="translation" type="editorial" xml:id="preftransn7">To Charles Butler</note></lem>
                             <rdg wit="#b1609" />
                         </app></head>
                     <app subtype="add" type="major">
-                        <lem wit="#b1623"><foreign rend="lat"><lg>
+                        <lem wit="#b1623"><foreign corresp="pretransn7" xml:lang="la"><lg>
                                 <l><hi rend="drop-capital">A</hi>Nt&#232; mel &#232; chartis prompsisti, ut
                                         <hi rend="opposite">Rhetor</hi>, apinum,</l>
                                 <l>At nunc mellitas promis, ut <hi rend="opposite">Histor</hi>,

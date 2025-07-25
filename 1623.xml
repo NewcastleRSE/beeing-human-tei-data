@@ -473,7 +473,7 @@
                         <rdg wit="#b1609"><ptr target="1609.xml#ch0ancs19 1609.xml#ch0ance19"></ptr></rdg>
                     </app>
                     <app subtype="add" type="major">
-                        <lem wit="#b1623"><foreign corresp="#preftrans6" rend="lat"><lg rend="italic">
+                        <lem wit="#b1623"><foreign corresp="#preftrans6" xml:lang="la"><lg rend="italic">
                                 <l>
                                     <hi rend="drop-capital">Q</hi> Uae natura Apibus, quae membra,
                                     scientia, sensus, </l>
@@ -582,11 +582,11 @@
                 </app>
                 <div type="poem" xml:lang="la">
                     <head type="poemTitle"><app subtype="add" type="other">
-                        <lem wit="#b1623"><foreign corresp="#preftransn7" rend="lat">Ad Carolum Butler.</foreign><note subtype="translation" type="editorial" xml:id="preftransn7">To Charles Butler</note></lem>
+                        <lem wit="#b1623"><foreign corresp="#preftransn7" xml:lang="la">Ad Carolum Butler.</foreign><note subtype="translation" type="editorial" xml:id="preftransn7">To Charles Butler</note></lem>
                             <rdg wit="#b1609"></rdg>
                         </app></head>
                     <app subtype="add" type="major">
-                        <lem wit="#b1623"><foreign rend="lat"><lg>
+                        <lem wit="#b1623"><foreign corresp="pretransn7" xml:lang="la"><lg>
                                 <l><hi rend="drop-capital">A</hi>Ntè mel è chartis prompsisti, ut
                                         <hi rend="opposite">Rhetor</hi>, apinum,</l>
                                 <l>At nunc mellitas promis, ut <hi rend="opposite">Histor</hi>,
