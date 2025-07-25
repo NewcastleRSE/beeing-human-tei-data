@@ -2825,7 +2825,7 @@
                         <rdg wit="#b1609" source="1609.xml#ch2ancs2 #ch2ance2"><anchor xml:id="ch2ancs2" data-origfile="1609" type="attachmentCollation" subtype="start" />is fit for the
                         purpose.<anchor xml:id="ch2ance2" data-origfile="1609" type="attachmentCollation" subtype="end" /></rdg></app>
                     <quote>
-                        <foreign corresp="ch2transn1" xml:lang="la">Hortis coronamentisque maxime alvearia &amp; apes
+                        <foreign corresp="#ch2transn1" xml:lang="la">Hortis coronamentisque maxime alvearia &amp; apes
                             conveniunt, res praecipui quaestus compendijque cum favit.</foreign><note subtype="translation" type="editorial" xml:id="ch2transn1">Beehives and bees are very greatly suited to gardens and flowers, a business of especial profit and economy, where circumstances have been favourable. <hi rend="italic">NH</hi> XXI.70(41)</note>
                         <note subtype="bibliographic" type="authorial" xml:id="ch2bibln1">
                             <bibl>Nat.hist.li.21.c.12.</bibl>
