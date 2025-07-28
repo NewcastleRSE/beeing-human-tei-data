@@ -6053,7 +6053,7 @@
                         <lem wit="#b1623">is a signe and cause of not swarming</lem>
                         <rdg wit="#b1609" source="1609.xml#ch5ancs27 1609.xml#ch5ance27"><anchor xml:id="ch5ancs27" data-origfile="1609" type="attachmentCollation" subtype="start" />is a meanes to hinder their swarming<anchor xml:id="ch5ance27" data-origfile="1609" type="attachmentCollation" subtype="end" /></rdg></app>. For the Bees, knowing by nature that the greatest companies doe prosper
                     best, untill they finde themselves so pestred with heat and throng of
-                    multitudes, that the Hive can scarce hold any more, will have <ref target="#ch5ednote34" type="attachment" xml:id="ch5ednatt34">no minde to</ref><note resp="#OS" source="context" subtype="gloss" type="editorial" xml:id="ch5ednote34">i.e. the hive of bees will have no wish or desire to (mind, n.1, OED 11.a) to swarm. Sometimes, the bees are characterised as having a collective mind, as in this instance<seg rend='roman'>;</seg> at other times individual minds (<ref target="#ch5par19"><seg rend="italic">a</seg><seg rend="italic">s</seg><seg rend="italic"> </seg><seg rend="italic">i</seg><seg rend="italic">n</seg><seg rend="italic"> </seg><seg rend="italic">s</seg><seg rend="italic">e</seg><seg rend="italic">c</seg><seg rend="italic">t</seg><seg rend="italic">i</seg><seg rend="italic">o</seg><seg rend="italic">n</seg><seg rend="italic"> </seg><seg rend="normal">2</seg><seg rend="normal">0</seg></ref>) <q rend="marks">their minds are so set</q>.</note>swarme: and
+                    multitudes, that the Hive can scarce hold any more, will have <ref target="#ch5ednote34" type="attachment" xml:id="ch5ednatt34">no minde to</ref><note resp="#OS" source="context" subtype="gloss" type="editorial" xml:id="ch5ednote34">i.e. the hive of bees will have no wish or desire to (mind, n.1, OED 11.a) to swarm. Sometimes, the bees are characterised as having a collective mind, as in this instance<seg rend='roman'>;</seg> at other times individual minds (<ref target="#ch5par19"><seg rend="italic">a</seg><seg rend="italic">s</seg><seg rend="italic"> </seg><seg rend="italic">i</seg><seg rend="italic">n</seg><seg rend="italic"> </seg><seg rend="italic">s</seg><seg rend="italic">e</seg><seg rend="italic">c</seg><seg rend="italic">t</seg><seg rend="italic">i</seg><seg rend="italic">o</seg><seg rend="italic">n</seg><seg rend="italic"> </seg><seg rend="normal">2</seg><seg rend="normal">0</seg></ref>) <q rend="marks">their minds are so set</q>.</note> swarme: and
                     when they have once taken to lie forth, the hive will alwaies seem empty, as
                     though they wanted company. </p>
                 <p xml:id="ch5par19"><app subtype="add" type="major">
@@ -6745,7 +6745,7 @@
                                 <lg n="1" type="verse">
                                     <l>As of all states the Monarchie is best, so of all Monarchies
                                         that Fe-mi-nine, Of</l>
-                                    <l> famous Amazons excels the rest, That on this earthie Sphaere
+                                    <l> famous <ref target="#ch5ednote29"><seg rend="italic">A</seg><seg rend="italic">m</seg><seg rend="italic">a</seg><seg rend="italic">z</seg><seg rend="italic">o</seg><seg rend="italic">n</seg><seg rend="italic">s</seg></ref> excels the rest, That on this earthie Sphaere
                                         have ever bin, Whose little hearts in</l>
                                     <l> weaker sex (so great in field) No power of the might'est
                                         Males can make to yeeld: They living aye,</l>
@@ -6753,12 +6753,12 @@
                                         scorne to wast.</l>
                                 </lg>
                                 <lg n="2" type="verse">
-                                    <l>They work in common for the common weale: Their labour's
+                                    <l>They work in common for the <ref target="#ch5ednote90" type="attachment" xml:id="ch5ednatt90">common weale</ref>:<note resp="#MW" subtype="gloss" type="editorial" xml:id="ch5ednote90">common good</note> Their labour's
                                         restlesse to maintaine their state: Their</l>
-                                    <l> Hexa-gonia no Beza-leell, for curious Art may passe, or
+                                    <l> <ref target="#ch5ednote91" type="attachment" xml:id="ch5ednatt91">Hexa-gonia</ref><note resp="#MW" subtype="gloss" type="editorial" xml:id="ch5ednote91">Hexagonia: the kingdom of the hexagon and thereby the bees, equivalent to Amazonia.  Not to be confused with an eponymous genus of poroid fungus, or with France (the self-styled <hi rend="italic">l'hexagon</hi>).</note> <ref target="#ch5ednote92" type="attachment" xml:id="ch5ednatt92">Beza-leell</ref>,<note resp="#MW" subtype="gloss" type="editorial" xml:id="ch5ednote92">A key Old Testament figure and the archetype of the divinely appointed craftsman, Belazel was chosen by God to make the Ark of the Covenant (Exodus 31:1-11). </note> for curious Art may passe, or
                                         imitate, One Sov'raign and but</l>
-                                    <l> one commands this people loyall, The great Marpese with
-                                        plentie blest of issue roy-all: An-ti-o-pe</l>
+                                    <l> one commands this people loyall, The great <ref target="#ch5ednote29" />Marpese with
+                                        plentie blest of issue roy-all: <ref target="#ch5ednote29"><seg rend="italic">A</seg><seg rend="italic">n</seg><seg rend="italic">-</seg><seg rend="italic">t</seg><seg rend="italic">i</seg><seg rend="italic">-</seg><seg rend="italic">o</seg><seg rend="italic">-</seg><seg rend="italic">p</seg><seg rend="italic">e</seg></ref></l>
                                     <l> and Ori-thyia fayre, With o-ther Princes hir In-fantaes
                                         are.</l>
                                 </lg>
@@ -6840,7 +6840,7 @@
                                         imitate, One Sov'raign and but</l>
                                     <l> one commands this people loyall, The great Marpese with
                                         plenty of issue roy-all: An-ti-o-pe</l>
-                                    <l> and Ori-thyia fayre, With o-ther Princes his In-fantaes
+                                    <l> and <ref target="#ch5ednote29"><seg rend="italic">O</seg><seg rend="italic">r</seg><seg rend="italic">i</seg><seg rend="italic">-</seg><seg rend="italic">t</seg><seg rend="italic">h</seg><seg rend="italic">y</seg><seg rend="italic">i</seg><seg rend="italic">a</seg></ref> fayre, With o-ther Princes his In-fantaes
                                         are.</l>
                                 </lg>
 
@@ -6886,7 +6886,7 @@
 
                                 <lg n="3" type="verse">
                                     <l>II To whose grave accents if hir Princely Grace</l>
-                                    <l> Vouchsafe with Trine Aspect reply to make,</l>
+                                    <l> Vouchsafe with <ref target="#ch5ednote93" type="attachment" xml:id="ch5ednatt93">Trine</ref><note resp="#MW" subtype="gloss" type="editorial" xml:id="ch5ednote93">three-fold (triune)</note> Aspect reply to make,</l>
                                     <l> To sweetest Treble tuning sweeter Base<seg rend='roman'>;</seg></l>
                                     <l> Hir mournefull suit a joyfull end doth take:</l>
                                     <l> And then, when fit time they espy</l>
@@ -6922,7 +6922,7 @@
                                     <l> (This watch-word past) abroad doe hie:</l>
                                     <l> Where, treading the Hey, right nimbly they prance,</l>
                                     <l> Thus waiting their Prince in and out they trace:</l>
-                                    <l> Who come, these Maids the Morice dance</l>
+                                    <l> Who come, these Maids the <ref target="#ch5ednote94" type="attachment" xml:id="ch5ednatt94">Morice dance</ref><note resp="#MW" subtype="gloss" type="editorial" xml:id="ch5ednote94">The earliest records of morris dancing in England are mid-15th century.  In Butler's time it was commonly associated with church ales, annual fund-raising events that involved communal drinking and dancing, but morris dancing fell into ecclesiastical disfavour from the 1630s onwards (John Forrest, *The History of Morris Dancing, 1458-1750* (Cambridge: Lutterworth Press, 1999), pp. 140-85).</note></l>
                                     <l> Along unto their resting-place.</l>
                                 </lg>
                             </lg>
@@ -6961,7 +6961,8 @@
                                 <head type="register">BASSUS.</head>
                                 <lg n="1" type="verse">
                                     <l>But all this while shee doth chant it alone, Most hum-bly
-                                        begging in hir Dorik straines,</l>
+                                        begging in hir <ref target="#ch5ednote96" type="attachment" xml:id="ch5ednatt96">Dorik</ref><note resp="#MW" subtype="gloss" type="editorial" xml:id="ch5ednote96">Probably referring to the Dorian mode (or First Mode, with tonic D): 'The Doric mode consisteth of sobre, slow-timed Notes... This [mode] moves to sobriety, prudence modesty and godliness' (Butler, *Principles of Musick* (1636), p. 1). Butler particularly associated First Mode with solemn, particularly sacred music (citing Cicero's letters to Brutus).
+                                        </note> straines,</l>
                                     <l> Of hir deare Liege leave to be gone: But comfort none shee
                                         yet obtaines.</l>
                                 </lg>
@@ -7284,8 +7285,8 @@
                                 therefore is a Pine-aple, of his figure, called
                                 <term>Conus.</term></lem>
                             <rdg wit="#b1609" />
-                        </app></note> For when they are once setled, <ref target="#ch5ednote91" type="attachment" xml:id="ch5ednatt91">they presently send forth
-                        spies</ref>,<note resp="#VN" source="journal article" subtype="gloss" type="editorial" xml:id="ch5ednote91">Honeybees typically send out scouts to
+                        </app></note> For when they are once setled, <ref target="#ch5ednote91xx" type="attachment" xml:id="ch5ednatt91xx">they presently send forth
+                        spies</ref>,<note resp="#VN" source="journal article" subtype="gloss" type="editorial" xml:id="ch5ednote91xx">Honeybees typically send out scouts to
                         find suitable new sites. When they return they collectively decide which is
                         the best one to move to. <l>(Seeley 2011: Chapter 6: Building a Consensus,
                             pp 118-146.)</l></note> to search out an abiding place: who if they
@@ -7392,7 +7393,7 @@
                                     Alexanders</persName> victorious Army consist. <bibl>For
                                         <ref target="#ch5ednote95" type="attachment" xml:id="ch5ednatt95"><hi rend="italic">Diod.Sic.l.17.</hi></ref></bibl><note resp="#HH" subtype="gloss" type="editorial" xml:id="ch5ednote95">Diodorus Siculus, <hi rend="italic">Bibliotheca historica</hi> XVII</note> reckoneth up some 48.M. with those 13500.
                                 leaft behinde with <persName> Antipater.</persName> And <bibl>
-                                    <ref target="#ch5ednote96" type="attachment" xml:id="ch5ednatt96"><hi rend="italic">Justin.l</hi>.9.</ref></bibl><note resp="#HH" subtype="gloss" type="editorial" xml:id="ch5ednote96">Justin or Justinus, <hi rend="italic">Epitoma Historiarum Philippicarum Pompei Trogi</hi> IX</note> not mentioning this company, numbreth 36500.
+                                    <ref target="#ch5ednote96" type="attachment" xml:id="ch5ednatt96x"><hi rend="italic">Justin.l</hi>.9.</ref></bibl><note resp="#HH" subtype="gloss" type="editorial" xml:id="ch5ednote96x">Justin or Justinus, <hi rend="italic">Epitoma Historiarum Philippicarum Pompei Trogi</hi> IX</note> not mentioning this company, numbreth 36500.
                                 which number is also great enough for a very faire swarm<seg rend='roman'>;</seg> as
                                 conteining the quantity of two reasonable swarmes united: there
                                 being also few single swarms so good, as to amount to 30000.</lem>
@@ -8127,7 +8128,7 @@
                         <rdg wit="#b1609" />
                     </app></p>
                 <p xml:id="ch5par103"><app subtype="add" type="major">
-                        <lem wit="#b1623"><note subtype="summary" type="authorial" xml:id="ch5sumn78">78. <seg rend="italic">The causes of a swarme going home againe. </seg></note> Sometime a swarme being abroad, yea <ref target="#ch5ednote90" type="attachment" xml:id="ch5ednatt90">knit</ref><note source="OED" subtype="gloss" type="editorial" xml:id="ch5ednote90"><q rend="marks">Of bees: clustered together in a mass
+                        <lem wit="#b1623"><note subtype="summary" type="authorial" xml:id="ch5sumn78">78. <seg rend="italic">The causes of a swarme going home againe. </seg></note> Sometime a swarme being abroad, yea <ref target="#ch5ednote90x" type="attachment" xml:id="ch5ednatt90x">knit</ref><note source="OED" subtype="gloss" type="editorial" xml:id="ch5ednote90x"><q rend="marks">Of bees: clustered together in a mass
                                     (now dialect)</q> (v., OED 6c).</note> in the <term>Cone</term>, will
                             not abide, but returne home againe: the cause whereof is windie, wet, or
                             cloudie weather, the not finding of a fit lighting-place, trouble in
@@ -8266,8 +8267,8 @@
                     untill the weather be very pleasant. <note subtype="summary" type="authorial" xml:id="ch5sumn88">88. <seg rend="italic">A swarme may live six daies without Honie. </seg></note>
                     They may live five or six daies in the Hive without Honie: but afterward they
                     begin to string downe, hanging at anothers heeles. <quote>
-                        <foreign xml:lang="la"><ref target="#ch5ednote91xx" type="attatchment" xml:id="ch5ednatt91xx"><seg rend="italic">P</seg><seg rend="italic">e</seg><seg rend="italic">d</seg><seg rend="italic">i</seg><seg rend="italic">b</seg><seg rend="italic">u</seg><seg rend="italic">s</seg><seg rend="italic"> </seg><seg rend="italic">c</seg><seg rend="italic">o</seg><seg rend="italic">n</seg><seg rend="italic">n</seg><seg rend="italic">e</seg><seg rend="italic">x</seg><seg rend="italic">a</seg><seg rend="italic">e</seg><seg rend="italic"> </seg><seg rend="italic">a</seg><seg rend="italic">d</seg><seg rend="italic"> </seg><seg rend="italic">l</seg><seg rend="italic">i</seg><seg rend="italic">m</seg><seg rend="italic">i</seg><seg rend="italic">n</seg><seg rend="italic">a</seg><seg rend="italic">
-</seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic">p</seg><seg rend="italic">e</seg><seg rend="italic">n</seg><seg rend="italic">d</seg><seg rend="italic">e</seg><seg rend="italic">n</seg><seg rend="italic">t</seg><seg rend="italic">.</seg></ref><note resp="#JR" source="OED" subtype="gloss" type="editorial" xml:id="ch5ednote91xx">Lat. <q rend="marks">linked foot to foot,
+                        <foreign xml:lang="la"><ref target="#ch5ednote91xxx" type="attatchment" xml:id="ch5ednatt91xxx"><seg rend="italic">P</seg><seg rend="italic">e</seg><seg rend="italic">d</seg><seg rend="italic">i</seg><seg rend="italic">b</seg><seg rend="italic">u</seg><seg rend="italic">s</seg><seg rend="italic"> </seg><seg rend="italic">c</seg><seg rend="italic">o</seg><seg rend="italic">n</seg><seg rend="italic">n</seg><seg rend="italic">e</seg><seg rend="italic">x</seg><seg rend="italic">a</seg><seg rend="italic">e</seg><seg rend="italic"> </seg><seg rend="italic">a</seg><seg rend="italic">d</seg><seg rend="italic"> </seg><seg rend="italic">l</seg><seg rend="italic">i</seg><seg rend="italic">m</seg><seg rend="italic">i</seg><seg rend="italic">n</seg><seg rend="italic">a</seg><seg rend="italic">
+</seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic">p</seg><seg rend="italic">e</seg><seg rend="italic">n</seg><seg rend="italic">d</seg><seg rend="italic">e</seg><seg rend="italic">n</seg><seg rend="italic">t</seg><seg rend="italic">.</seg></ref><note resp="#JR" source="OED" subtype="gloss" type="editorial" xml:id="ch5ednote91xxx">Lat. <q rend="marks">linked foot to foot,
                                 there by the portal they hang.</q> (Virgil, Georgics,
                             4.257).</note></foreign>
                         <note subtype="bibliographic" type="authorial" xml:id="ch5bibln48">
