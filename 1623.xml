@@ -9833,7 +9833,7 @@
                             <bibl>Virg.</bibl>
                         </note>
                         <foreign corresp="#ch7transn5" xml:lang="la">--- Absint meropesque aliaeque volucres <lb></lb> Et
-                            manibus Progne pectus signata cruentis.</foreign><note resp="#HH" subtype="translation" type="editorial" xml:id="ch7transn5">Let there be no […] bee-eaters or other birds, nor Procne  marked on her chest with her bloodstained hands <hi rend="italic">Georgics</hi> IV.13ff.</note>
+                            manibus Progne pectus signata cruentis.</foreign><note resp="#HH" subtype="translation" type="editorial" xml:id="ch7transn5">Let there be no […] bee-eaters or other birds, nor Procne [i.e.the swallow] marked on her chest with her bloodstained hands <hi rend="italic">Georgics</hi> IV.13ff.</note>
                     </quote></p>
                 <p xml:id="ch7par16"><note subtype="summary" type="authorial" xml:id="ch7sumn8">8.
                         Remedie against the Titmouse and Swallow.</note> Let boyes destroy their
@@ -9893,7 +9893,7 @@
                             <bibl> Nat.hist.li.11.c.21.</bibl>
                         </note>
                         <foreign corresp="#ch7transn8" xml:lang="la">Ictus crabronum haud temerè sine febri est. Auctores
-                            sunt ter novenis punctis interfici hominem.</foreign><note resp="#HH" subtype="translation" type="editorial" xml:id="ch7transn8">A hornet’s sting is not often unaccompanied by a fever. The authorities say that with twenty-seven such stings a man will be killed. <hi rend="italic">NH</hi> XI.73(24)</note>
+                            sunt ter novenis punctis interfici hominem.</foreign><note resp="#HH" subtype="translation" type="editorial" xml:id="ch7transn8">A hornet’s sting is often accompanied by a fever. The authorities say that with twenty-seven such stings a man will be killed. <hi rend="italic">NH</hi> XI.73(24)</note>
                     </quote></p>
                 <p xml:id="ch7par20"><note subtype="summary" type="authorial" xml:id="ch7sumn11">11.
                         6. The Waspe.</note> The Waspe doth much more hurt than the Hornet. For the
@@ -10095,7 +10095,7 @@
                         <foreign corresp="#ch7transn9" xml:lang="la"> Impugnantur <hi rend="opposite">(saith he)</hi> Apes
                             à vespis: quamobrem Apiarii eas venantur constitutâ ollâ, &amp; carne in
                             ea positâ. Ubi enim multae ad carnem accesserint, apposito operculo
-                            super ignem ollam ponunt.</foreign><note resp="#HH" subtype="translation" type="editorial" xml:id="ch7transn9">Bees are attacked by wasps; for this reason beekeepers trap them by setting out a pot with meat placed in it. For when many wasps have come to the meat, they cover the pot and put it over the fire. (627b init.)</note>
+                            super ignem ollam ponunt.</foreign><note resp="#HH" subtype="translation" type="editorial" xml:id="ch7transn9">Bees are attacked by wasps; for this reason beekeepers trap them by setting out a pot with meat placed in it. For when many wasps have come to the meat, they cover the pot and put it over the fire. <hi rend="italic">HA</hi>(627b init.)</note>
                         <bibl><ptr target="#ch7biblnX12"></ptr></bibl></quote> You may also use other
                     meanes to kil them your selfe. How to helpe and defend your Bees against them,
                     see <ref target="#ch3sumn46"> c. 3.n.46,</ref><ref target="#ch3sumn47">47,</ref><ref target="#ch3sumn54">54,</ref>&amp;<ref target="#ch3sumn55">55.</ref></p>
@@ -10183,7 +10183,7 @@
                             quamobrem eas Apiarii per paludes &amp; stagna, unde Apes aquantur,
                             venari solent.</foreign><note resp="#HH" subtype="translation" type="editorial" xml:id="ch7transn13">Frogs take bees when they have come for water; for this reason beekeepers will hunt them in the marshes and ponds where bees go for water. <hi rend="italic">HA</hi> IX.40 (626a)</note><foreign corresp="#ch7transn14" xml:lang="la"> Rubeta etiam Apes interimit: subiens enim aditus alvei
                             afflat, &amp; observans rapit evolantes. Nullo haec affici malo ab
-                            Apibus potest; sed ab Apiario facilè interimitur.</foreign><note resp="#HH" subtype="translation" type="editorial" xml:id="ch7transn14">The toad also kills bees: for coming up to the entrance of a hive, it will puff itself up and keep a lookout, and take the bees as they fly out. Nothing can be done by the bees about this affliction; but it is easily destroyed by the beekeeper. <hi rend="italic">AH</hi> IX.40 (626a fin.)</note>
+                            Apibus potest; sed ab Apiario facilè interimitur.</foreign><note resp="#HH" subtype="translation" type="editorial" xml:id="ch7transn14">The toad also kills bees: for coming up to the entrance of a hive, it will puff itself up and keep a lookout, and take the bees as they fly out. Nothing can be done by the bees about this affliction; but it is easily destroyed by the beekeeper. <hi rend="italic">HA</hi> IX.40 (626a fin.)</note>
                     </quote>
                     <quote><note subtype="bibliographic" type="authorial" xml:id="ch7bibln16">
                             <bibl>Nat.Hist.l.11.c.18.</bibl>
@@ -10201,7 +10201,7 @@
                         13. The Bee the Bees greatest enemie.</note>
                     <hi rend="drop-capital">B</hi>ut not any one of these, nor all these together
                     doe halfe so much harme to the Bees, as the Bees. <foreign corresp="#ch7transn16" xml:lang="la"><term>Apes api,</term> as
-                        <term>homo homini, Lupus</term>.</foreign><note resp="#HH" subtype="translation" type="editorial" xml:id="ch7transn16"></note> They make the greatest spoile both of Bees
+                        <term>homo homini, Lupus</term>.</foreign><note resp="#HH" subtype="translation" type="editorial" xml:id="ch7transn16">Bee is wolf to bee, as man is wolf to man.</note> They make the greatest spoile both of Bees
                     and Honie. For as they of the same Hive live in inviolable peace one with an
                     other; so have they no entercourse, no friendship or societie with others, but
                     are rather at perpetuall defiance, and deadly feud with them. In fight they are
@@ -10289,8 +10289,8 @@
                     </note> stocks, which have not sufficiently provided themselves for winter. Of
                     which opinion was <bibl xml:id="ch7biblnX21"><persName> Plinie</persName></bibl>
                     where hee said. <quote>
-                        <foreign corresp="#ch7transn17" xml:lang="la">Quod si defecerit alicujs alvei cibus, impetum in
-                            proximas faciunt rapinae proposito.</foreign><note resp="#HH" subtype="translation" type="editorial" xml:id="ch7transn17">But if a hive is lacking food, they make an attack on its neighbours with the intention of pillage. <hi rend="italic">NH</hi> XI.58(18)</note>
+                        <foreign corresp="#ch7transn17" xml:lang="la">Quod si defecerit alicujus alvei cibus, impetum in
+                            proximas faciunt rapinae proposito.</foreign><note resp="#HH" subtype="translation" type="editorial" xml:id="ch7transn17">But if a hive is lacking food, they attack neighbours with the intention of pillage. <hi rend="italic">NH</hi> XI.58(18)</note>
                         <bibl><ptr target="ch7biblnX21"></ptr></bibl></quote>. But indeed such are fitter
                     to be robbed, as before is said, than to be robbers. There is no theefe to the
                     rich theefe: who, although he have enough, and more then enough; yet by hooke or
@@ -10335,7 +10335,7 @@
                     shrill and sharpe note, as it were of a Flute.</p>
 
                 <quote>
-                    <foreign corresp="#ch7transn18" xml:lang="la"> ___________________&amp;vox<lb></lb> Auditur fractos sonitus
+                    <foreign corresp="#ch7transn18" xml:lang="la"> ___________________&amp; vox<lb></lb> Auditur fractos sonitus
                         imitata tubarum. <note subtype="bibliographic" type="authorial" xml:id="ch7bibln22">
                             <bibl>Virg.</bibl>
                         </note>
@@ -10741,8 +10741,8 @@
                     </app></p>
                 <p xml:id="ch7par71"><app subtype="add" type="major">
                     <lem wit="#b1623">It were to be wished that <foreign corresp="#ch7transn27" xml:lang="la">Pares
-                            culpâ</foreign><note resp="#HH" subtype="translation" type="editorial" xml:id="ch7transn27">equal in punishment</note> might be <foreign corresp="#ch7transn27" xml:lang="la">Pares
-                                paenâ</foreign>, that all like offendors might have like punishment.
+                        culpâ</foreign><note resp="#HH" subtype="translation" type="editorial" xml:id="ch7transn27">equal in guilt</note> might be <foreign corresp="#ch7transn27x" xml:lang="la">Pares
+                            paenâ</foreign>,<note xml:id="ch7transn27x" type="editorial" subtype="translation" resp="#HH">equal in punishment</note> that all like offendors might have like punishment.
                             But sith our Bees are not of <persName>S. Medards.</persName> kinde,
                             thus to rescue themselves from this michievous Enemie; it is meet their
                             merit procure them a protection: and as they provide for the health and
