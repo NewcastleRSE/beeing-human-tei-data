@@ -11041,7 +11041,7 @@
                             <bibl>Nat hist.li.21.c.14.</bibl>
                         </note>
                         <foreign corresp="#ch8transn2" xml:lang="la">Si cibus deesse censeatur apibus, uvas passas
-                            siccasve, sicosque, tusas ad fores earum posuisse conveniet, item lanas
+                            siccasve, sicosque tusas ad fores earum posuisse conveniet, item lanas
                             tractas madentes passo aut defruto, aut aqua mulsa.</foreign><note resp="#HH" subtype="translation" type="editorial" xml:id="ch8transn2">If it is thought that the bees are lacking food, it will be a good idea to place raisins or dried grapes and bruised figs by the entrance to their hive; likewise pieces of spun wool soaked in raisin wine or boiled must, or honey-water. <hi rend="italic">NH</hi> XXI.82(48)</note>
                     </quote> And some of our Country-men have practised to give them Bay-salt,<app subtype="del" type="vocabulary">
                         <lem wit="#b1623"></lem>
@@ -11850,14 +11850,14 @@
                         the temperate heat of the Bees, and so let the pure Live-honie runne through
                         a cleane Clen-sieve. For, <quote><foreign corresp="#ch10transn8" xml:lang="la">In omni melle quod
                                 per se fluit (ut mustum oleumque) appellaturque acoeton, maxime
-                                laudabile est.</foreign>.<note resp="#HH" subtype="translation" type="editorial" xml:id="ch10trans8">In all honey, the part that has trickled down of its own accord (like must and oil) and is called acoeton, honey-vinegar, is highly praiseworthy. <hi rend="italic">NH</hi> XI.38(15)</note> <note subtype="bibliographic" type="authorial" xml:id="ch10p2bibln2">
+                                laudabile est.</foreign>.<note resp="#HH" subtype="translation" type="editorial" xml:id="ch10transn8">In all honey, the part that has trickled down of its own accord (like must and oil) and is called acoeton, honey-vinegar, is highly praiseworthy. <hi rend="italic">NH</hi> XI.38(15)</note> <note subtype="bibliographic" type="authorial" xml:id="ch10p2bibln2">
                                 <bibl>Nat. hist.l.II.c.15.</bibl>
                             </note></quote> Of all Honie that which runneth of it selfe, (as new
                         Wine and Oile) and is called <ref target="#ch10p2glon2">*</ref><term>Acoeton</term> is most commendable. </p>
                     <p xml:id="ch10p2par7">This <term>Acoeton</term> or finest <term>Nectar</term>,
                         for his incorrupted puritie, is called Virgin-Honie. <quote>
-                            <foreign corresp="#ch10transn8" xml:lang="la">Quod è favis sponte primum defluit, virgineum
-                                mel vulgo appellatur.</foreign><note resp="#HH" subtype="translation" type="editorial" xml:id="ch10transn8">That which first trickles down of its own accord from the comb is popularly called virgin honey. Guillaume Plançon/Plantius, ‘In syrupum acidum scholia’ in Jean Fernel, <hi rend="italic">Methodi Medendi</hi>, VII</note>
+                            <foreign corresp="#ch10transn8x" xml:lang="la">Quod è favis sponte primum defluit, virgineum
+                                mel vulgo appellatur.</foreign><note resp="#HH" subtype="translation" type="editorial" xml:id="ch10transn8x">That which first trickles down of its own accord from the comb is popularly called virgin honey. Guillaume Plançon/Plantius, ‘In syrupum acidum scholia’ in Jean Fernel, <hi rend="italic">Methodi Medendi</hi>, VII</note>
                             <bibl>Plantius in Fernel.l.7.de Meth.Med.</bibl>
                         </quote></p>
                     <p xml:id="ch10p2par8"><note subtype="summary" type="authorial" xml:id="ch10p2sumn6">6. Two sorts of virgin-honie.</note> Whereof there
@@ -11887,8 +11887,8 @@
                             <ref target="#ch6sumn27"> V.c.6.n.27.</ref>&amp;<ref target="#ch6sumn28">28. </ref>
                         </note> in the top of the Combes, specially if there be any store, because
                         it will not runne, you must either wash into the warme Meth-liquor; or melt
-                        it with the Cells on a soft fire, or in a hot oven, or in <term>Balneo
-                            Mariae</term>, <ref target="#ch10p2bibln6">v:</ref>
+                        it with the Cells on a soft fire, or in a hot oven, or in <foreign xml:lang="la" corresp="#ch10transn30"><term>Balneo
+                            Mariae</term></foreign>,<note xml:id="ch10transn30" type="editorial" subtype="translation" resp="#HH">in a bain-marie</note> <ref target="#ch10p2bibln6">v:</ref>
                         <note subtype="bibliographic" type="authorial" xml:id="ch10p2bibln6">
                             <ref target="#ch3sumn7"> V.p.3.n.7. </ref>
                         </note> and so shall you have the Honie by it selfe, and the Wax swimming
@@ -12027,13 +12027,13 @@
                         </note> into a thicke softnesse, and bright yelow colour. </p>
                     <note place="inline" subtype="gloss" type="authorial" xml:id="ch10p2glon3">*<quote>
                             <foreign corresp="#ch10transn12" xml:lang="la">Quin Hispani &amp; Narbonenses mittunt albissimum
-                                &amp; longe praestantissimum, idemque praedurum.</foreign><note resp="#HH" subtype="translation" type="editorial" xml:id="ch10transn12">Indeed Spain and southern France  produce that which is whitest and pre-eminent by far, and this honey is very hard. Jacobus Sylvius/Jacques Dubois, Book I on medicine</note>
+                                &amp; longe praestantissimum, idemque praedurum.</foreign><note resp="#HH" subtype="translation" type="editorial" xml:id="ch10transn12">Indeed Spain and southern France produce that which is whitest and pre-eminent by far, and this honey is very hard. Jacobus Sylvius/Jacques Dubois, (not found)</note>
                             <bibl>Sylv.l.I.med.</bibl>
                         </quote></note>
                     <note place="inline" subtype="gloss" type="authorial" xml:id="ch10p2glon4">†<quote>
                             <foreign corresp="#ch10transn13" xml:lang="la">Nec Attico aut Hyblaeo inferius, cum regionis
                                 temperatura, &amp; thymi larga luxuries utrobique
-                                consentiant.</foreign><note resp="#HH" subtype="translation" type="editorial" xml:id="ch10transn13">Nor is it inferior to that of Attica or Hybla, since the aspect of the region and the abundance lushness of the thyme accords with them in both cases. Jacobus Sylvius/Jacques Dubois, Sylvius/Dubois, <hi rend="italic">De Medicamentorum Simplicium Delectu, Praeparationibus, Mistionis Modo</hi> II, ‘De spumatione’ </note>
+                                consentiant.</foreign><note resp="#HH" subtype="translation" type="editorial" xml:id="ch10transn13">Nor is it inferior to that of Attica or Hybla, since the aspect of the region and the abundant lushness of the thyme accords with them in both cases. Jacobus Sylvius/Jacques Dubois, Sylvius/Dubois, <hi rend="italic">De Medicamentorum Simplicium Delectu, Praeparationibus, Mistionis Modo</hi> II, ‘De spumatione’ </note>
                             <bibl>Idem.l.2.</bibl>
                         </quote></note>
                     <fw type="catch"> And</fw>
@@ -12432,20 +12432,20 @@
                             medicamentum asserimus.</foreign><note resp="#HH" subtype="translation" type="editorial" xml:id="ch10transn25">And in III.19: The authorities affirm the power of honey in prolonging life and living to a great old age. When Democritus the philosopher, who took endless pleasure in honey and put off the day of his death to his hundred and ninth year, was asked, as Athenaeus writes, in what way any healthy man might be able to live, replied, ‘if he keeps his outer parts moist with oil, and his inward parts with honey’. The Pythagoreans too had bread and honey for food. Aristoxenus asserts that men can live without illness if they always eat them at their meals. Licus writes that the Cyrnians lived long, because, dwelling in Sardinia, they always fed on honey. And rightly so, when a food that is so familiar and of its nature a happy friend on account of the sweetness it possesses, also takes away obstructions, removes indigestion, is gentle on the stomach, warms the condition of the body, encourages urine, assists the chest and lungs and relieves the tonsils and soft palate. Since it is capable of all these things, we assert with good reason that on the testimony of Dioscorides and Galen it is a suitable medicament for prolonging age and lengthening life.</note> (15) Seth &amp;
                             <persName>Plin.</persName>
                         <bibl>hist.l.7.c.3.</bibl>(16.) <persName> Pictorius</persName> (17.)
-                            <persName>Claudius Caesar</persName> scribit hippocentaurum in Thessalia
+                            <foreign xml:lang="la" corresp="ch10transn25x"><persName>Claudius Caesar</persName> scribit hippocentaurum in Thessalia
                         natum eo dem die interiisse. Et nos principatu illius allatum illi ex
-                        Aegypto in melle vidimus. <bibl>Pl.hist.l.7.c.3</bibl>
+                        Aegypto in melle vidimus.</foreign><note xml:id="ch10transn25x" type="editorial" subtype="translation" resp="#HH">The emperor Claudius writes that a hippocentaur [a centaur, half human and half horse] was born and died on the same day in Thessaly. And during his reign we ourselves saw one brought to him from Egypt embalmed in honey. <hi rend="italic">NH</hi> VII.3(3)</note><bibl>Pl.hist.l.7.c.3</bibl>
                         <bibl xml:id="ch10p3bibln2X1">(18)</bibl>
-                        <foreign xml:lang="la">Mel calidum siccumque ordine secundo aperit,
+                        <foreign xml:lang="la" corresp="#ch10transn25xx">Mel calidum siccumque ordine secundo aperit,
                             putredini obsistit, siccat, deterget, expurgatque meatus &amp;
                             ulcera.</foreign>
-                        <bibl>Fern. Method. lib.6,c.12.</bibl> Item, <foreign xml:lang="la">Mel
+                        <bibl>Fern. Method. lib.6,c.12.</bibl><foreign><note xml:id="ch10transn25xx" type="editorial" subtype="translation" resp="#HH">Honey is hot and dry in the second degree, unblocks, resists putrefaction, dries, cleanses and purges the alimentary canal and ulcers. Jean Fernel, <hi rend="italic">Methodi Medendi</hi>, VI.12</note><foreign xml:lang="la" corresp="#ch10transn25xxx">Item, Mel
                             &amp; saccharum potionibus admista vires naturales in morbis sopitas
                             &amp; languentes exuscitant &amp; erigunt: nativumque calorem qui solus
                             morbos concoquit &amp; mitificat, recreant: crassaque extenuando,
                             viscosa extergendo, &amp; obstructa expediendo purgationes quam
-                            facillimas praestant.</foreign>
-                        <bibl>Plantius in Fern. de Syrupis.</bibl> Item, <foreign xml:lang="la">Mel
+                            facillimas praestant.
+                            <bibl>Plantius in Fern. de Syrupis.</bibl></foreign><note xml:id="ch10transn25xxx" type="editorial" subtype="translation" resp="#HH">Honey and sugar mixed in drinks excites and rouses the natural forces when they are somnolent and languishing through illness; and restores that natural warmth which alone clears away and assuages illnesses; and by thinning what is solid, and clearing away what is viscous, and freeing what is obstructed, it offers the readiest of purgatives. Guillaume Plançon/Plantius, ‘In syrupum acidum scholia’ in Jean Fernel, <hi rend="italic">Methodi Medendi</hi>, VII ‘De syrupis’</note> <foreign xml:lang="la">Item, Mel
                             abstergendi vim habet, ora vasorum aperit, humores evocat, qua ratione
                             in sordida ulcera sinusque commodè infunditur, decoctum atque impositum
                             abscendentem carnem glutinat, medetur lichenibus, impetigini coctum cum
