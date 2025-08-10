@@ -12746,16 +12746,16 @@
                         </quote>
                     </p>
                     <note place="inline" subtype="gloss" type="authorial" xml:id="ch10p3glon13">*<quote>
-                            <foreign xml:lang="la" corresp="#ch10transn39">Ex melle confectus syrupus diutius asservatur; is
+                            <foreign xml:lang="la" corresp="#ch10transn49">Ex melle confectus syrupus diutius asservatur; is
                                 quoque magis incidit, ac detergit. Ex Saccharo suavior, sed non
-                                aeque efficax.</foreign><note xml:id="ch10transn39" type="editorial" subtype="translation" resp="#HH">A syrup confected from honey keeps for longer; this is also more biting and cleansing. One made of sugar is sweeter but not equally efficacious. <hi rend="italic">Methodi Medendi</hi> IV.12</note>
+                                aeque efficax.</foreign><note xml:id="ch10transn49" type="editorial" subtype="translation" resp="#HH">A syrup confected from honey keeps for longer; this is also more biting and cleansing. One made of sugar is sweeter but not equally efficacious. <hi rend="italic">Methodi Medendi</hi> IV.12</note>
                             <bibl>Fern.Meth.l. 4.c.12.</bibl>
                         </quote></note>
                     <p xml:id="ch10p3par25"><note subtype="summary" type="authorial" xml:id="ch10p3sumn18">18. Honie good in outward medicines.</note> Honie
                         is used in outward medicines for divers purposes: <ref target="#ch10p3glon14">*</ref>not onely to conteine the other
                         ingredients in forme of a Plaister; but also to open, to cleanse, to dry, to
                         digest, and to resist putrefaction. <note subtype="summary" type="authorial" xml:id="ch10p3sumn19"> 19. A salve for an old sore.</note> And therefore
-                        it hath the predominance in that excellent Salve called <ref target="#ch10p3glon15">†</ref><term>Unguentum Aegyptiacum:</term> which
+                        it hath the predominance in that excellent Salve called <ref target="#ch10p3glon15">†</ref><foreign xml:lang="la" corresp="#ch10transn50"><term>Unguentum Aegyptiacum:</term><note xml:id="ch10transn50" type="editorial" subtype="translation" resp="#HH">Egyptian unguent, known as ‘aegyptiacum’</note></foreign> which
                         serveth to cleanse and mundifie old sores, and to take away both dead and
                         proud flesh. The receipt whereof is this. Of Verdegrece five ounces, of
                         strong Vineger seven ounces, and of Honie foureteene. boile first the Honie
@@ -12765,10 +12765,10 @@
                         <fw type="header"> Of the fruit and profit of Bees. </fw> together, let them
                         boile until the Ointment have his just thicknesse and Purple colour. </p>
                     <note place="inline" subtype="gloss" type="authorial" xml:id="ch10p3glon14">*<quote>
-                            <foreign xml:lang="la">Mel panaciae &amp; aliis quibusdam emplastris
+                            <foreign xml:lang="la" corresp="#ch10transn51">Mel panaciae &amp; aliis quibusdam emplastris
                                 miscetur, ut corpus praebeat emplasticum, &amp; praeterea siccet,
-                                tergeat, digerat, à putredine vindicet. </foreign>
-                            <bibl> Sylv. de med.simpl.mist.l.3. </bibl>
+                                tergeat, digerat, à putredine vindicet. <bibl> Sylv. de med.simpl.mist.l.3.</bibl></foreign><note xml:id="ch10transn51" type="editorial" subtype="translation" resp="#HH">Honey is mixed with panacea and certain other poultices to produce a body that will stick in place, and moreover dries out, cleanses, digests and protects from putrefaction. Sylvius/Dubois, <hi rend="italic">De Medicamentorum Simplicium Delectu, Praeparationibus, Mistionis Modo</hi> III, ‘De emplastris’</note> 
+                           
                         </quote><quote>
                             <foreign corresp="#ch10transn26" xml:lang="la">Mel calidum siccumque ordine secundo aperit,
                                 putredini obsistit, siccat, deterget, expurgatque meatus &amp;
@@ -12802,7 +12802,7 @@
                         diminished. Therefore saith <persName>Lobel</persName>, <quote><bibl><ptr target="ch10p3glonX16"></ptr></bibl>
                             <foreign corresp="#ch10transn27" xml:lang="la">Mulsum, ubi aquae plurimum mellis non multum,
                                 diuturnâ intestinâque mellis ebullitione in vinum longè utilissimum
-                                abit.</foreign><note resp="#HH" subtype="translation" type="editorial" xml:id="ch10transn27">Mead, when it is mostly made of water and not greatly of honey, through the long-lasting and internal boiling up of the honey, turns into a wine that is usable for a long time. L’Obel/Lobelius</note>
+                                abit.</foreign><note resp="#HH" subtype="translation" type="editorial" xml:id="ch10transn27">Mead, when it is mostly made of water and not greatly of honey, through the long-lasting and internal boiling up of the honey [fermentation?], turns into a wine that is usable for a long time. L’Obel/Lobelius</note>
                         </quote> And <persName>Pictorius</persName>, <quote><bibl><ptr target="ch10p3glon16"></ptr></bibl>
                             <foreign corresp="#ch10transn28" xml:lang="la">Hydromel longâ vetustate transit in vinum
                                 stomacho convenientissimum.</foreign><note resp="#HH" subtype="translation" type="editorial" xml:id="ch10transn28">Mead that is of great age turns into a wine most useful for the stomach. Georg Pictorius</note>
@@ -13114,7 +13114,7 @@
         </body>
         <back>
             <trailer>
-                <quote type="trailer-quote"><bibl>PSAL. III.v.2.</bibl><lb></lb><foreign corresp="#ch10transn35" xml:lang="la"> Magne opera <emph>
+                <quote type="trailer-quote"><bibl>PSAL. III.v.2.</bibl><lb></lb><foreign corresp="#ch10transn35" xml:lang="la"> Magna opera <emph>
                     JEHOVAE</emph>, exquisita ab omnibus qui delectantur in illis.</foreign><note resp="#HH" subtype="translation" type="editorial" xml:id="ch10transn35">Great are the works of JEHOVAH, and sought out by all who delight in them. Psalm III.2</note></quote>
                 <hi rend="finis"><foreign corresp="#ch10transn36" xml:lang="la">FINIS.</foreign></hi><note resp="#HH" subtype="translation" type="editorial" xml:id="ch10transn36">THE END</note>
             </trailer>
