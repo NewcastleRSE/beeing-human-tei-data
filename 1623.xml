@@ -7239,11 +7239,11 @@
                             undoubtedly was the originall cause of this custome. But the pretended
                             reason is to me a meere fancie: although I know it to bee as ancient as
                             common. For <persName>Claudian</persName> long agoe could say, <quote>
-                                <lg xml:lang="la">
+                                <foreign><lg xml:lang="la" corresp="#ch5transn30">
                                     <l>-------------Cybeleia quassans</l>
                                     <l>Hiblaeus procul aera senex revocare fugaces</l>
                                     <l>Tinnitu conatur apes.------------</l>
-                                </lg>
+                                </lg></foreign><note xml:id="ch5transn30" type="editorial" subtype="translation" resp="#HH">The old man of Hybla striking Cybele’s bronze/copper [presumably a gong or cymbal] tries to call back the escaping bees with its ringing. Claudian, <hi rend="italic">De Sexto Consolatu Honorii</hi> 277ff.</note>
                                 <note subtype="bibliographic" type="authorial" xml:id="ch5bibln31">
                                     <bibl>De 6.consolatu Honorii.</bibl>
                                 </note></quote></lem>
@@ -7253,13 +7253,13 @@
                 <p xml:id="ch5par48"><app subtype="add" type="major">
                         <lem wit="#b1623">And before him <persName>Virgil,</persName>
                             <quote>
-                                <hi rend="opposite"><lg corresp="#ch5transn2" xml:lang="la">
-                                    <l> Hinc ubi jam emissum caveis ad sidera coeli </l>
+                                <foreign><lg corresp="#ch5transn2" xml:lang="la">
+                                    <l> Hinc ubi iam emissum caveis ad sidera Caeli </l>
                                     <l>Nare per aestatem liquidam suspexeris agmen, &amp;c.</l>
                                     <l>Tinnitusque cie, &amp; matris quate cymbala circum:</l>
                                     <l>Ipsae confident medicatis sedibus, ipsae</l>
                                     <l>Intima more suo sese in cunabula condent.</l>
-                                </lg></hi><note resp="#HH" subtype="translation" type="editorial" xml:id="ch5transn2">Hence when you see the swarm now leaving its hives and swimming through the liquid summer air to the stars of heaven … call up a tinkling and shake mother Cybele’s cymbals all about: they will settle in the homes that you have sprinkled, they will bury themselves deep in their nests after their manner. Virgil,<hi rend="italic"> Georgics</hi> IV.58–9, 64–6.
+                                </lg></foreign><note resp="#HH" subtype="translation" type="editorial" xml:id="ch5transn2">Hence when you see the swarm now leaving its hives and swimming through the liquid summer air to the stars of heaven … call up a tinkling and shake mother Cybele’s cymbals all about: they will settle in the homes that you have sprinkled [with scented herbs], they will bury themselves deep in their nests after their manner. Virgil,<hi rend="italic"> Georgics</hi> IV.58–9, 64–6.
                                 </note>
                                 <note subtype="bibliographic" type="authorial" xml:id="ch5bibln32">
                                     <bibl>Georg.4.</bibl>
@@ -7356,7 +7356,7 @@
                             habere. Nam sunt nonnulla examina quae cum processerint, statim sedem
                             sibi quaerant in proximo, (Seu potius prius quaesitam, lustratam, &amp;
                             paratam adeant. v.n.39.) eandemque occupent quam vacuam
-                            repererint.</hi></foreign><note resp="#HH" subtype="translation" type="editorial" xml:id="ch5transn6">And one ought to have empty hives placed in apiaries, for there are some swarms which, when they go out, immediately look for a home for themselves in the vicinity (or rather they go to one that has been previously sought out, surveyed and made ready: see no. 39 ) and take possession of the one that they find empty. Columella, <hi rend="italic">De re rustica</hi> IX.12</note>
+                            repererint.</hi></foreign><note resp="#HH" subtype="translation" type="editorial" xml:id="ch5transn6">And one ought to have empty hives placed in apiaries, for there are some swarms which, when they go out, immediately look for a home for themselves in the vicinity (or rather they go to one that has been previously sought out, surveyed and made ready: see note 39 ) and take possession of the one that they find empty. Columella, <hi rend="italic">De re rustica</hi> IX.12.4; the Latin in this parenthesis is Butler's, not Columella's.</note>
                         <bibl><ptr target="#ch5bibln32X2"></ptr></bibl>
                     </quote></p>
                 <fw type="catch">When</fw>
@@ -8468,7 +8468,7 @@
                                 <l>Excudunt <hi rend="opposite">(1.)</hi> ceras: &amp; <hi rend="opposite"> (2.)</hi> mella tenacia fingunt.</l>
                             </lg><note resp="#HH" subtype="translation" type="editorial" xml:id="ch6transn2">For the rest, when the golden sun has driven winter away and thrust it under the earth, and opened up the sky with summer light, they will fly ceaselessly around the pastures and woods, and reap from the purple flowers and lightly sip the river surfaces. From this they happily feed their young in the nest with a sweetness untold; from this they skilfully make their fresh wax and create sticky honey. <hi rend="italic">Georgics</hi> IV.51ff.</note>
                             <note subtype="bibliographic" type="authorial" xml:id="ch6bibln5">
-                                <bibl>Virg.</bibl>
+                                <note subtype="bibliographic" type="authorial" xml:id="ch6othern10x"><bibl>Virg.</bibl></note>
                             </note></quote></lem>
                     <rdg wit="#b1609"></rdg>
                 </app>
