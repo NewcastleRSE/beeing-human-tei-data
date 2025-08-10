@@ -5377,7 +5377,7 @@
                     are not suffered to live. </p>
                 <note place="inline" subtype="gloss" type="authorial" xml:id="ch4glon5">*The young
                     Bees are called Schadons: <quote>
-                        <foreign corresp="#ch4transn26" xml:lang="la">Schadones sobolem dico.</foreign><note resp="#HH" subtype="translation" type="editorial" xml:id="ch4transn26">I call the offspring ‘schadones’. <hi rend="italic">HA</hi> V.22 </note>
+                        <foreign corresp="#ch4transn26" xml:lang="la">Schadones sobolem dico.</foreign><note resp="#HH" subtype="translation" type="editorial" xml:id="ch4transn26">I call the offspring ‘schadones’. (Not found in Aristotle.)</note>
                         <bibl> Hist.l.5.c.22.</bibl></quote> The brood of females, when they have
                     the shape of Bees, are called Nymphs, and the young Drones Cephens: <quote>
                         <foreign corresp="#ch4transn27" xml:lang="la">Caetera turba, cum formam capere caepit, Nymphae
@@ -5745,7 +5745,7 @@
                         <rdg wit="#b1609"><ptr target="1609.xml#ch5ancs1 1609.xml#ch5ance1"></ptr></rdg>
                     </app></p>
                 <p xml:id="ch5par5x"><quote>
-                    <foreign corresp="#ch5transn1" xml:lang="la"><hi rend="opposite">Augent mella siccitates, sobolem imbres.</hi><note resp="#HH" subtype="translation" type="editorial" xml:id="ch5transn1">Dry spells increase the amount of honey, rainstorms the number of bees. Pliny the Elder, <hi rend="italic">Natural History</hi> XI.18(17)</note><app subtype="del" type="minor">
+                    <foreign corresp="#ch5transn1" xml:lang="la">Augent mella siccitates, sobolem imbres.<note resp="#HH" subtype="translation" type="editorial" xml:id="ch5transn1">Dry spells increase the amount of honey, rainstorms the number of bees. Pliny the Elder, <hi rend="italic">Natural History</hi> XI.18(17)</note><app subtype="del" type="minor">
                                 <lem wit="#b1623"></lem>
                                 <rdg wit="#b1609"><ptr target="1609.xml#ch5ancs2 1609.xml#ch5ance2"></ptr></rdg>
                             </app></foreign>
