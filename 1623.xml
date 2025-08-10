@@ -309,7 +309,7 @@
                             <bibl rend="italic">Nat Hist.l.II.c.9.</bibl>
                         </note>
                         <foreign corresp="#preftransn4" xml:lang="la">Ne quis</foreign> (saith he) <foreign xml:lang="la">miretur amore earum captos Aristomachum Solensem duodesexaginta annis
-                            nihil aliud egisse; Philiscum vero Thasium in desertis apes colentem <hi rend="opposite">Agrium</hi> cognominatum: qui ambo scripsere de
+                            nihil aliud egisse; Philiscum vero Thasium in desertis apes colentem <hi rend="opposite">Agrium</hi> cognomimatum: qui ambo scripsere de
                             his</foreign><note resp="#HH" subtype="translation" type="editorial" xml:id="preftransn4">… so that no one should be amazed at two men captivated by love of them, one of whom, Aristomachus of Soli, did nothing else for 58 years; and Philiscus of Thasos cultivated bees in the wildernesses and was surnamed Agrius; both these wrote about them. <hi rend="italic">NH</hi> XI.19(9)</note></quote>. <persName>Aristotle</persName> thought his
                             <title><hi rend="italic">Historia animalium</hi></title> unperfect,
                     unlesse he had inserted a Tract of the Nature of Bees: of which hee discourseth
@@ -492,8 +492,9 @@
                             <lg rend="italic">
                                 <l>Aut a consilijs Apibus, Butlere, fuisti,</l>
                                 <l>Aut a consilijs est Apis ipsa tuis.</l>
-                            </lg></foreign><note resp="#HH" subtype="translation" type="editorial" xml:id="preftransn6">What nature bees have, what parts of the body, understanding, senses, abilities, lifespan, characteristics, duty, what place and dwelling, offspring, swarms, abode – in these pages are found everywhere a ready way of storing up these things; what ruler they have, their populace, government, commonwealth, customs, what are their weapons, enemies, wars, fortifications, generals; how they fly quickly through fields and woods; with what skill they construct their cells, with what toil they fill them; how these gifts from heaven benefit the human race, and how they may be managed to be of more benefit still; by you these amazing wonders in miniature, for so many centuries hidden in mystery, lie unlocked and open. 
-                                Either you have been privy to the counsels of the bees, Butler, or the bee itself is privy to yours.
+                            </lg></foreign><note resp="#HH" subtype="translation" type="editorial" xml:id="preftransn6">What nature bees have, what parts of the body, understanding, senses, abilities, lifespan, characteristics, duty, what place and dwelling, offspring, swarms, abode – in these pages are found everywhere a ready way of storing up these things; what ruler they have, their populace, government, commonwealth, customs, what are their weapons, enemies, wars, fortifications, generals; how they fly quickly through fields and woods; with what skill they construct their cells, with what toil they fill them; how 
+                                benefit the human race, and how they may be managed to be of more benefit still; you have unlocked and laid these amazing wonders in miniature for so many centuries hidden in mystery 
+                                Either you have been privy to the counsels of the bees, Butler, or the bee itself is privy to yours
                             </note></lem>
                         <rdg wit="#b1609"></rdg>
                     </app>
@@ -1567,7 +1568,7 @@
                 <pb n="B1v"></pb>
                 <fw type="header"> Of the Nature and properties of Bees, </fw>
                 <p xml:id="ch1par3"><note subtype="summary" type="authorial" xml:id="ch1sumn2">2.
-                    Every Countrey fit for Bees.</note> Secondly, whereas <foreign corresp="#ch1transn3" xml:lang="la">non omnis fert omnia tellus,</foreign><note resp="#HH" subtype="translation" type="editorial" xml:id="ch1transn3">Not every country bears all things. cf. Vergil, <hi rend="italic">Eclogues</hi> IV.39 </note> some Countrey yeeldeth one fruit,
+                    Every Countrey fit for Bees.</note> Secondly, whereas <foreign corresp="#ch1transn3" xml:lang="la">non omnis fert omnia tellus,</foreign><note resp="#HH" subtype="translation" type="editorial" xml:id="ch1transn3">Not every country bears all things. cf. Virgil, <hi rend="italic">Eclogues</hi> IV.39 </note> some Countrey yeeldeth one fruit,
                     some an other; some beareth one graine, some an other; some breedeth one kinde
                     of Cattle, some an other; there is no ground (of what nature soever it be,
                     whether it be hot or cold, wet or dry, hill or dale, woodland or champian,
@@ -1637,7 +1638,7 @@
                         <l>Circumstant fremitu denso, stipantque frequentes,</l>
                         <l>Et saepe attollunt humeris, &amp; corpora bello</l>
                         <l>Objectant, pulchramque petunt per vulnera mortem. </l>
-                    </lg></foreign><note resp="#HH" subtype="translation" type="editorial" xml:id="ch1transn8">Moreover, Egypt does not respect its king like this, nor does vast Lydia, nor the peoples of the Parthians nor Median Hydaspes: if the king is safe, they all have a single mind; if he is lost, they break their bonds of faith and tear down the honeycombs they themselves built, and break up the structure of the comb. He is the warden of their work, he is the apple of their eye; and they all stand around him and throng him in a thick buzzing crowd, and often they lift him on their shoulders and throw their bodies into war, and look for a beautiful death from their wounds. Vergil, <hi rend="italic">Georgics</hi> IV.210ff</note>
+                    </lg></foreign><note resp="#HH" subtype="translation" type="editorial" xml:id="ch1transn8">Moreover, Egypt does not respect its king like this, nor does vast Lydia, nor the peoples of the Parthians nor Median Hydaspes: if the king is safe, they all have a single mind; if he is lost, they break their bonds of faith and tear down the honeycombs they themselves built, and break up the structure of the comb. He is the warden of their work, he is the apple of their eye; and they all stand around him and throng him in a thick buzzing crowd, and often they lift him on their shoulders and throw their bodies into war, and look for a beautiful death from their wounds. Virgil, <hi rend="italic">Georgics</hi> IV.210ff</note>
                 </quote>
                 <p xml:id="ch1par6">If she goe forth to solace her selfe, (as sometime she will)
                     many of them attend <app subtype="del" type="minor">
@@ -2328,7 +2329,7 @@
                                     <bibl>Virg.</bibl>
                                 </note>
                                 <note subtype="bibliographic" type="authorial" xml:id="ch1bibln45X"><ref target="#ch1sumn5">V.n.5.</ref></note>
-                        </lg></foreign><note resp="#HH" subtype="translation" type="editorial" xml:id="ch1transn36">And they throw their bodies into war, and look for a beautiful death from their wounds. Vergil, <hi rend="italic">Georgics</hi> IV.217f</note>
+                        </lg></foreign><note resp="#HH" subtype="translation" type="editorial" xml:id="ch1transn36">And they throw their bodies into war, and look for a beautiful death from their wounds. Virgil, <hi rend="italic">Georgics</hi> IV.217f</note>
                     </quote>
                 </p>
                 <p xml:id="ch1par41"><note subtype="summary" type="authorial" xml:id="ch1sumn49">49.
@@ -2573,7 +2574,7 @@
                         <foreign corresp="#ch1transn50" xml:lang="la"><lg rend="inline">
                                 <l>Illum adeo placuisse apibus mirabere morem,</l>
                                 <l>Quod non concubitu indulgent, &amp;c.</l>
-                        </lg></foreign><note resp="#HH" subtype="translation" type="editorial" xml:id="ch1transn50">You will be amazed at this behaviour that pleases the bees to such an extent that they do not indulge in coitus. Vergil, <hi rend="italic">Georgics</hi> IV.197f.</note>
+                        </lg></foreign><note resp="#HH" subtype="translation" type="editorial" xml:id="ch1transn50">You will be amazed at this behaviour that pleases the bees to such an extent that they do not indulge in coitus. Virgil, <hi rend="italic">Georgics</hi> IV.197f.</note>
                     </quote>
                     <note subtype="bibliographic" type="authorial" xml:id="ch1bibln56">
                         <bibl>Georg.</bibl>
@@ -7258,7 +7259,7 @@
                                     <l>Tinnitusque cie, &amp; matris quate cymbala circum:</l>
                                     <l>Ipsae confident medicatis sedibus, ipsae</l>
                                     <l>Intima more suo sese in cunabula condent.</l>
-                                </lg></hi><note resp="#HH" subtype="translation" type="editorial" xml:id="ch5transn2">Hence when you see the swarm now leaving its hives and swimming through the liquid summer air to the stars of heaven … call up a tinkling and shake mother Cybele’s cymbals all about: they will settle in the homes that you have sprinkled, they will bury themselves deep in their nests after their manner. Vergil,<hi rend="italic"> Georgics</hi> IV.58–9, 64–6.
+                                </lg></hi><note resp="#HH" subtype="translation" type="editorial" xml:id="ch5transn2">Hence when you see the swarm now leaving its hives and swimming through the liquid summer air to the stars of heaven … call up a tinkling and shake mother Cybele’s cymbals all about: they will settle in the homes that you have sprinkled, they will bury themselves deep in their nests after their manner. Virgil,<hi rend="italic"> Georgics</hi> IV.58–9, 64–6.
                                 </note>
                                 <note subtype="bibliographic" type="authorial" xml:id="ch5bibln32">
                                     <bibl>Georg.4.</bibl>
@@ -9180,7 +9181,7 @@
                             <bibl>Nat.hist.lib.11.c.12</bibl>
                         </note>Gemini.
                         <foreign corresp="#ch6transn33" xml:lang="la"> Non omnino, <hi rend="opposite">saith</hi>
-                            <persName> Plinie</persName>, prius vergiliarum exortu:</foreign>
+                            <persName> Plinie</persName>, prius Virgiliarum exortu:</foreign>
                         </quote><note resp="#HH" subtype="translation" type="editorial" xml:id="ch6transn33">…before the rising of the Pleiades, not at all. <hi rend="italic">NH</hi> XI.30(12)</note>
                     <ref target="#ch6bibln40">v.</ref>
                     <note subtype="bibliographic" type="authorial" xml:id="ch6bibln40">
@@ -11724,7 +11725,7 @@
                         <hi rend="drop-capital">E</hi>xsection or Castration, is a third kinde of
                         taking: which is the cutting out of part of the Combes, part being leaft for
                         the Bees provision. And this was to be done at two times in the yeare,<ref target="#ch10p1glon5">*</ref>
-                        <foreign corresp="#ch10transn1" xml:lang="la">In ortu, &amp; occasu Vergiliarum</foreign>.<note resp="#HH" subtype="translation" type="editorial" xml:id="ch10transn1">At the rising and the setting of the Pleiades</note><note subtype="summary" type="authorial" xml:id="ch10p1sumn20">20. Exsection
+                        <foreign corresp="#ch10transn1" xml:lang="la">In ortu, &amp; occasu Virgiliarum</foreign>.<note resp="#HH" subtype="translation" type="editorial" xml:id="ch10transn1">At the rising and the setting of the Pleiades</note><note subtype="summary" type="authorial" xml:id="ch10p1sumn20">20. Exsection
                             used at two times.</note></p>
                     <note place="inline" subtype="gloss" type="authorial" xml:id="ch10p1glon5">
                         <foreign corresp="#ch10transn2" xml:lang="la">*Virgiliarum ortus</foreign><note resp="#HH" subtype="translation" type="editorial" xml:id="ch10transn2">The rising of the Pleiades. cf. Columella, <hi rend="italic">De Re Rustica</hi> IX.14.1</note> after <persName>
@@ -11735,12 +11736,12 @@
                             <term>Aequinoctium</term> to bee in the eight degree of
                             <term>Aries:</term> (although <persName> Hipparchus</persName>, as
                             <persName>Columella</persName> saith, had then found it to be the first)
-                        With us the Cosmicall rising of <term> Vergiliae</term> or
+                        With us the Cosmicall rising of <term> Virgiliae</term> or
                             <term>Pleiades</term> being seven starres in the neck of <term>
                             Taurus</term>, and in the four and twentieth degree of that signe, is
                         knowne to be in the third of May, the five and fiftieth day after the true
                             <term> aequinoctium</term>: which jumpeth with the account of <persName>
-                            Columella.</persName> And <term>Vergiliarum occasus</term>, being in the
+                            Columella.</persName> And <term>Virgiliarum occasus</term>, being in the
                         same degree of the opposite signe, is upon the fift day of November.</note>
                     <p xml:id="ch10p1par24"><note subtype="summary" type="authorial" xml:id="ch10p1sumn21">21. What part to be exsacted is uncertaine.</note>
                         But what part is to be taken, and what leaft, I find it not determined. <quote>
