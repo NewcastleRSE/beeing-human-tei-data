@@ -2604,7 +2604,7 @@
                         <note subtype="bibliographic" type="authorial" xml:id="ch1bibln59">
                             <bibl>Hist.an.l.9.cap.40.</bibl>
                         </note>
-                        <foreign corresp="#ch1transn52" xml:lang="la">Mundissimum omnium hoc animal est.</foreign><note resp="#HH" subtype="translation" type="editorial" xml:id="ch1transn52">Mundissimum omnium hoc animal est. Hist.an.l.9.cap.40.
+                        <foreign corresp="#ch1transn52" xml:lang="la">Mundissimum omnium hoc animal est.</foreign><note resp="#HH" subtype="translation" type="editorial" xml:id="ch1transn52">
                             This animal is the cleanliest of all. <hi rend="italic">HA</hi> IX.40 (626a)
                         </note>
                     </quote> For neither will they suffer any slutterie within, if they may goe
@@ -2617,7 +2617,7 @@
                     </quote>; neither can they endure any unsavorinesse without nigh unto them. <quote>
                         <foreign corresp="#ch1transn54" xml:lang="la">Odere foedos odores:</foreign><note resp="#HH" subtype="translation" type="editorial" xml:id="ch1transn54">They hate foul smells. <hi rend="italic">NH</hi> XI.61(19) cf. <hi rend="italic">HA</hi> IX.40 (626a)</note><app subtype="add" type="minor">
                                 <lem wit="#b1623"><foreign corresp="#ch1transn55" xml:lang="la">Nulla harum assidet in loco inquinato, aut eo qui
-                                    malè oleat.</foreign><note resp="#HH" subtype="translation" type="editorial" xml:id="ch1transn55"></note><note subtype="bibliographic" type="authorial" xml:id="ch1bibln61">
+                                    malè oleat.</foreign><note resp="#HH" subtype="translation" type="editorial" xml:id="ch1transn55">None of them will settle on a place that is filthy or on one that smells bad. Varro, <hi rend="italic">De Re Rustica</hi> III.16</note><note subtype="bibliographic" type="authorial" xml:id="ch1bibln61">
                                         <bibl>Hist.an.l.9.c.40</bibl>
                                     </note></lem>
                                 <rdg wit="#b1609"></rdg>
@@ -2909,7 +2909,7 @@
                                 </app></bibl>
                         </note>
                         <foreign corresp="#ch2transn3" xml:lang="la">Remedium contra alvi concitationem est urina hominum
-                            vel boum.</foreign><note resp="#HH" subtype="translation" type="editorial" xml:id="ch2transn3">A remedy against overexcitement in the hive is the urine of men or cattle.  </note>
+                            vel boum.</foreign><note resp="#HH" subtype="translation" type="editorial" xml:id="ch2transn3">A remedy against overexcitement in the hive is the urine of men or cattle. (Not found in Pliny)</note>
                     </quote></p>
                 <p xml:id="ch2par11">
                     <note subtype="summary" type="authorial" xml:id="ch2sumn7">7. Neither very cold
@@ -4122,7 +4122,7 @@
                                     <l>Pabula, nec totâ claudes foenilia Bruma:</l>
                                     <l>At verò Zephyris quum laeta vocantibus Aestas,</l>
                                     <l>In saltus utrumque gregem &amp; Pascua mittes.</l>
-                                </lg><note resp="#HH" subtype="translation" type="editorial" xml:id="ch3transn3">You will cheerfully bring fodder and brushwood for food, and will not shut up your hayloft for the whole winter: but when indeed glad summer comes at the zephyr’s summons, you will send your both your flocks into the woodland pastures and fields. <hi rend="italic">Georgics</hi> III.320ff.</note>
+                                    <note resp="#HH" subtype="translation" type="editorial" xml:id="ch3transn3">You will cheerfully bring fodder and brushwood for food, and will not shut up your hayloft for the whole winter: but when indeed glad summer comes at the zephyr’s summons, you will send your both your flocks [i.e. flocks of sheep and goats] into the woodland pastures and fields. <hi rend="italic">Georgics</hi> III.320ff.</note></lg>
                                 <note place="margin" subtype="bibliographic" type="authorial" xml:id="ch3bibln19">
                                     <bibl>Georg.lib.3</bibl>
                                 </note></quote>
@@ -4934,8 +4934,8 @@
                     </app>
                 </p>
                 <note place="inline" subtype="gloss" type="authorial" xml:id="ch4glon1"><app subtype="change" type="minor">
-                    <lem wit="#b1623">*<foreign corresp="#ch4transn9" xml:lang="la">Hic fucus, ὁ κηφήν: Ac haec apis,
-                        ἡ μέλισσα, דבורה, cum ה faeminino </foreign><note resp="#HH" subtype="translation" type="editorial" xml:id="ch4transn9">fucus, kephēn – drone – is masculine in Latin and Greek, but apis, melissa – bee – is feminine; and also in Hebrew: dvora (Deborah), with a feminine ‘a’ ending</note></lem>
+                    <lem wit="#b1623">*<foreign xml:lang="la" corresp="#ch4transn9">Hic fucus, ὁ κηφήν: Ac haec apis,
+                        ἡ μέλισσα, דבורה, cum ה faeminino </foreign><note resp="#HH" subtype="translation" type="editorial" xml:id="ch4transn9">fucus, <hi rend="italic">kephēn</hi> – drone – is masculine in Latin and Greek, but apis, <hi rend="italic">melissa</hi> – bee – is feminine; and also in Hebrew: <hi rend="italic">dvora (Deborah)</hi>, with a feminine ‘a’ ending.</note></lem>
                     <rdg wit="#b1609"><ptr target="1609.xml#ch4ancs13 1609.xml#ch4ance13"></ptr></rdg>
                 </app>
                     <app subtype="add" type="major">
@@ -5137,7 +5137,7 @@
                         <foreign corresp="#ch4transn15" xml:lang="la">Aliqui <hi rend="opposite">(saith he)</hi> mares esse
                             fucos, foeminas vero apes esse contendunt.</foreign><note resp="#HH" subtype="translation" type="editorial" xml:id="ch4transn15">Some maintain that the males are the drones, and the females are the bees. <hi rend="italic">HA</hi> V.21  (553b init.)</note>
                     </quote> Which opinion he reciteth in another place. <quote>
-                        <foreign corresp="#ch4transn16" xml:lang="la">Sunt qui fuces mares esse, apes foeminas
+                        <foreign corresp="#ch4transn16" xml:lang="la">Sunt qui fucos mares esse, apes foeminas
                             arbitrentur</foreign><note resp="#HH" subtype="translation" type="editorial" xml:id="ch4transn16">There are those who think that drones are male and the bees female. Aristotle, <hi rend="italic">De generatio animalium</hi> III.10 (759a)</note>
                     </quote>. Where though he doe not approve it; yet hath he no other resson
                     against it but this, <quote>
