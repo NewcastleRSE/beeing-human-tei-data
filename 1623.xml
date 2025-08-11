@@ -8398,15 +8398,15 @@
             <fw type="ornament"></fw>
             <div n="6" type="chapter" xml:id="ch6">
                 <head type="chapter-number">CHAP. VI</head>
-                <head type="chapter-title">Of the Bees Worke<app subtype="del" type="minor">
+                <head type="chapter-title">Of the Bees Worke.<app subtype="del" type="minor">
                         <lem wit="#b1623"></lem>
                         <rdg wit="#b1609"><ptr target="1609.xml#ch6ancs1 1609.xml#ch6ance1"></ptr></rdg>
-                    </app>.</head>
+                    </app></head>
                 <p xml:id="ch6par1">
                     <note subtype="summary" type="authorial" xml:id="ch6sumn1">1. Bees most
                         industrious creatures.</note>
                     <hi rend="drop-capital"> U</hi>Nto the industrious nature of Bees nothing is
-                    more odious then sloth and idleness: while there is matter to worke upon
+                    more odious than sloth and idleness: while there is matter to worke upon
                     (unlesse they be let by unkinde weather) their <app subtype="change" type="vocabulary">
                         <lem wit="#b1623">worke</lem>
                         <rdg wit="#b1609"><ptr target="1609.xml#ch6ancs2 1609.xml#ch6ance2"></ptr></rdg>
@@ -8421,10 +8421,10 @@
                     </note></p>
                 <p xml:id="ch6par2"><note subtype="summary" type="authorial" xml:id="ch6sumn2">2. In
                         three months they cannot worke.</note> In the three still moneths indeed,
-                        <term>Sagittarius</term> , <term> Capricornus</term> and
+                        <term>Sagittarius</term>, <term> Capricornus</term> and
                         <term>Aquarius</term>, because then there is nothing to gather, they worke
-                    not: (yet when a faire day or houre commeth<app subtype="add" type="minor">
-                        <lem wit="#b1623">, as wearie of rest,</lem>
+                    not: (yet when a faire day or houre commeth,<app subtype="add" type="minor">
+                        <lem wit="#b1623"> as wearie of rest,</lem>
                         <rdg wit="#b1609"></rdg>
                     </app> they <app subtype="change" type="vocabulary">
                         <lem wit="#b1623">will</lem>
