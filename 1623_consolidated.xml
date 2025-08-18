@@ -7142,11 +7142,11 @@
                             undoubtedly was the originall cause of this custome. But the pretended
                             reason is to me a meere fancie: although I know it to bee as ancient as
                             common. For <persName>Claudian</persName> long agoe could say, <quote>
-                                <foreign><lg corresp="#ch5transn30" xml:lang="la">
+                                <lg corresp="#ch5transn30" xml:lang="la">
                                     <l>-------------Cybeleia quassans</l>
                                     <l>Hiblaeus procul aera senex revocare fugaces</l>
                                     <l>Tinnitu conatur apes.------------</l>
-                                </lg></foreign><note resp="#HH" subtype="translation" type="editorial" xml:id="ch5transn30">The old man of Hybla striking Cybele&#8217;s bronze/copper [presumably a gong or cymbal] tries to call back the escaping bees with its ringing. Claudian, <hi rend="italic">De Sexto Consolatu Honorii</hi> 277ff.</note>
+                                </lg><note resp="#HH" subtype="translation" type="editorial" xml:id="ch5transn30">The old man of Hybla striking Cybele&#8217;s bronze/copper [presumably a gong or cymbal] tries to call back the escaping bees with its ringing. Claudian, <hi rend="italic">De Sexto Consolatu Honorii</hi> 277ff.</note>
                                 <note subtype="bibliographic" type="authorial" xml:id="ch5bibln31">
                                     <bibl>De 6.consolatu Honorii.</bibl>
                                 </note></quote></lem>
@@ -7156,13 +7156,13 @@
                 <p xml:id="ch5par48"><app subtype="add" type="major">
                         <lem wit="#b1623">And before him <persName>Virgil,</persName>
                             <quote>
-                                <foreign><lg corresp="#ch5transn2" xml:lang="la">
+                                <lg corresp="#ch5transn2" xml:lang="la">
                                     <l> Hinc ubi iam emissum caveis ad sidera Caeli </l>
                                     <l>Nare per aestatem liquidam suspexeris agmen, &amp;c.</l>
                                     <l>Tinnitusque cie, &amp; matris quate cymbala circum:</l>
                                     <l>Ipsae confident medicatis sedibus, ipsae</l>
                                     <l>Intima more suo sese in cunabula condent.</l>
-                                </lg></foreign><note resp="#HH" subtype="translation" type="editorial" xml:id="ch5transn2">Hence when you see the swarm now leaving its hives and swimming through the liquid summer air to the stars of heaven &#8230; call up a tinkling and shake mother Cybele&#8217;s cymbals all about: they will settle in the homes that you have sprinkled [with scented herbs], they will bury themselves deep in their nests after their manner. Virgil,<hi rend="italic"> Georgics</hi> IV.58&#8211;9, 64&#8211;6.
+                                </lg><note resp="#HH" subtype="translation" type="editorial" xml:id="ch5transn2">Hence when you see the swarm now leaving its hives and swimming through the liquid summer air to the stars of heaven &#8230; call up a tinkling and shake mother Cybele&#8217;s cymbals all about: they will settle in the homes that you have sprinkled [with scented herbs], they will bury themselves deep in their nests after their manner. Virgil,<hi rend="italic"> Georgics</hi> IV.58&#8211;9, 64&#8211;6.
                                 </note>
                                 <note subtype="bibliographic" type="authorial" xml:id="ch5bibln32">
                                     <bibl>Georg.4.</bibl>
@@ -8377,7 +8377,7 @@
                                 <l>Excudunt <hi rend="opposite">(1.)</hi> ceras: &amp; <hi rend="opposite"> (2.)</hi> mella tenacia fingunt.</l>
                             </lg><note resp="#HH" subtype="translation" type="editorial" xml:id="ch6transn2">For the rest, when the golden sun has driven winter away and thrust it under the earth, and opened up the sky with summer light, they will fly ceaselessly around the pastures and woods, and reap from the purple flowers and lightly sip the river surfaces. From this they happily feed their young in the nest with a sweetness untold<seg rend='roman'>;</seg> from this they skilfully make their fresh wax and create sticky honey. <hi rend="italic">Georgics</hi> IV.51ff.</note>
                             <note subtype="bibliographic" type="authorial" xml:id="ch6bibln5">
-                                <note subtype="bibliographic" type="authorial" xml:id="ch6othern10x"><bibl>Virg.</bibl></note>
+                                <bibl>Virg.</bibl>
                             </note></quote></lem>
                     <rdg wit="#b1609" />
                 </app>
@@ -8652,7 +8652,7 @@
                             </quote> And afterward, when they would make him immortal<seg rend='roman'>;</seg> because of
                             the long-preserving vertue that hony hath, (<ref target="#ch10p3sumn1"><seg rend="italic">v</seg><seg rend="italic">.</seg><seg rend="italic">c</seg><seg rend="italic">.</seg><seg rend="italic"> </seg><seg rend="normal">1</seg><seg rend="normal">0</seg><seg rend="italic">.</seg><seg rend="italic">p</seg><seg rend="italic">a</seg><seg rend="italic">r</seg><seg rend="italic">.</seg><seg rend="normal">3</seg><seg rend="italic">.</seg><seg rend="italic">n</seg><seg rend="italic">.</seg><seg rend="normal">1</seg><seg rend="italic">.</seg></ref>) they fained it to be his immortall food. <quote>
                                 <foreign corresp="#ch6transn11" xml:lang="la">Jupiter Ambrosia satur est &amp; nectare
-                                    vivit.</foreign><note resp="#HH" subtype="translation" type="editorial" xml:id="ch6transn11">Jupiter grows fat on ambrosia and lives on nectar. Martial, <hi rend="italic">MEpigrams</hi> XI.57.3</note>
+                                    vivit.</foreign><note resp="#HH" subtype="translation" type="editorial" xml:id="ch6transn11">Jupiter grows fat on ambrosia and lives on nectar. Martial, <hi rend="italic">Epigrams</hi> XI.57.3</note>
                                 <bibl> Mart.l. 11.Ep.58.</bibl>
                             </quote></lem>
                         <rdg wit="#b1609" />
