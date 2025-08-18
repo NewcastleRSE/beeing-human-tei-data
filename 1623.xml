@@ -4934,7 +4934,7 @@
                     </app>
                 </p>
                 <note place="inline" subtype="gloss" type="authorial" xml:id="ch4glon1"><app subtype="change" type="minor">
-                    <lem wit="#b1623">*<foreign xml:lang="la" corresp="#ch4transn9">Hic fucus, ὁ κηφήν: Ac haec apis,
+                    <lem wit="#b1623">*<foreign corresp="#ch4transn9" xml:lang="la">Hic fucus, ὁ κηφήν: Ac haec apis,
                         ἡ μέλισσα, דבורה, cum ה faeminino </foreign><note resp="#HH" subtype="translation" type="editorial" xml:id="ch4transn9">fucus, <hi rend="italic">kephēn</hi> – drone – is masculine in Latin and Greek, but apis, <hi rend="italic">melissa</hi> – bee – is feminine; and also in Hebrew: <hi rend="italic">dvora (Deborah)</hi>, with a feminine ‘a’ ending.</note></lem>
                     <rdg wit="#b1609"><ptr target="1609.xml#ch4ancs13 1609.xml#ch4ance13"></ptr></rdg>
                 </app>
@@ -7239,11 +7239,11 @@
                             undoubtedly was the originall cause of this custome. But the pretended
                             reason is to me a meere fancie: although I know it to bee as ancient as
                             common. For <persName>Claudian</persName> long agoe could say, <quote>
-                                <foreign><lg xml:lang="la" corresp="#ch5transn30">
+                                <foreign><lg corresp="#ch5transn30" xml:lang="la">
                                     <l>-------------Cybeleia quassans</l>
                                     <l>Hiblaeus procul aera senex revocare fugaces</l>
                                     <l>Tinnitu conatur apes.------------</l>
-                                </lg></foreign><note xml:id="ch5transn30" type="editorial" subtype="translation" resp="#HH">The old man of Hybla striking Cybele’s bronze/copper [presumably a gong or cymbal] tries to call back the escaping bees with its ringing. Claudian, <hi rend="italic">De Sexto Consolatu Honorii</hi> 277ff.</note>
+                                </lg></foreign><note resp="#HH" subtype="translation" type="editorial" xml:id="ch5transn30">The old man of Hybla striking Cybele’s bronze/copper [presumably a gong or cymbal] tries to call back the escaping bees with its ringing. Claudian, <hi rend="italic">De Sexto Consolatu Honorii</hi> 277ff.</note>
                                 <note subtype="bibliographic" type="authorial" xml:id="ch5bibln31">
                                     <bibl>De 6.consolatu Honorii.</bibl>
                                 </note></quote></lem>
@@ -9727,7 +9727,7 @@
                             <rdg wit="#b1609"></rdg>
                         </app></p>
                     <p xml:id="ch7par12">
-                        <foreign xml:lang="la" corresp="#ch7transn1"><app subtype="add" type="major">
+                        <foreign corresp="#ch7transn1" xml:lang="la"><app subtype="add" type="major">
                                 <lem wit="#b1623">Sed instar omnium erit hoc unum. R. Farinae I.
                                     avenacae novae aridae dulcis Drachmas IV. tere: 2. Arsenicae
                                     albae 3. semi-drachmam, in pulverem quam queas 4. minimum per se
@@ -10742,7 +10742,7 @@
                 <p xml:id="ch7par71"><app subtype="add" type="major">
                     <lem wit="#b1623">It were to be wished that <foreign corresp="#ch7transn27" xml:lang="la">Pares
                         culpâ</foreign><note resp="#HH" subtype="translation" type="editorial" xml:id="ch7transn27">equal in guilt</note> might be <foreign corresp="#ch7transn27x" xml:lang="la">Pares
-                            paenâ</foreign>,<note xml:id="ch7transn27x" type="editorial" subtype="translation" resp="#HH">equal in punishment</note> that all like offendors might have like punishment.
+                            paenâ</foreign>,<note resp="#HH" subtype="translation" type="editorial" xml:id="ch7transn27x">equal in punishment</note> that all like offendors might have like punishment.
                             But sith our Bees are not of <persName>S. Medards.</persName> kinde,
                             thus to rescue themselves from this michievous Enemie; it is meet their
                             merit procure them a protection: and as they provide for the health and
@@ -11887,8 +11887,8 @@
                             <ref target="#ch6sumn27"> V.c.6.n.27.</ref>&amp;<ref target="#ch6sumn28">28. </ref>
                         </note> in the top of the Combes, specially if there be any store, because
                         it will not runne, you must either wash into the warme Meth-liquor; or melt
-                        it with the Cells on a soft fire, or in a hot oven, or in <foreign xml:lang="la" corresp="#ch10transn30"><term>Balneo
-                            Mariae</term></foreign>,<note xml:id="ch10transn30" type="editorial" subtype="translation" resp="#HH">in a bain-marie</note> <ref target="#ch10p2bibln6">v:</ref>
+                        it with the Cells on a soft fire, or in a hot oven, or in <foreign corresp="#ch10transn30" xml:lang="la"><term>Balneo
+                            Mariae</term></foreign>,<note resp="#HH" subtype="translation" type="editorial" xml:id="ch10transn30">in a bain-marie</note> <ref target="#ch10p2bibln6">v:</ref>
                         <note subtype="bibliographic" type="authorial" xml:id="ch10p2bibln6">
                             <ref target="#ch3sumn7"> V.p.3.n.7. </ref>
                         </note> and so shall you have the Honie by it selfe, and the Wax swimming
@@ -12432,35 +12432,35 @@
                             medicamentum asserimus.</foreign><note resp="#HH" subtype="translation" type="editorial" xml:id="ch10transn25">And in III.19: The authorities affirm the power of honey in prolonging life and living to a great old age. When Democritus the philosopher, who took endless pleasure in honey and put off the day of his death to his hundred and ninth year, was asked, as Athenaeus writes, in what way any healthy man might be able to live, replied, ‘if he keeps his outer parts moist with oil, and his inward parts with honey’. The Pythagoreans too had bread and honey for food. Aristoxenus asserts that men can live without illness if they always eat them at their meals. Licus writes that the Cyrnians lived long, because, dwelling in Sardinia, they always fed on honey. And rightly so, when a food that is so familiar and of its nature a happy friend on account of the sweetness it possesses, also takes away obstructions, removes indigestion, is gentle on the stomach, warms the condition of the body, encourages urine, assists the chest and lungs and relieves the tonsils and soft palate. Since it is capable of all these things, we assert with good reason that on the testimony of Dioscorides and Galen it is a suitable medicament for prolonging age and lengthening life.</note> (15) Seth &amp;
                             <persName>Plin.</persName>
                         <bibl>hist.l.7.c.3.</bibl>(16.) <persName> Pictorius</persName> (17.)
-                            <foreign xml:lang="la" corresp="ch10transn25x"><persName>Claudius Caesar</persName> scribit hippocentaurum in Thessalia
+                            <foreign corresp="ch10transn25x" xml:lang="la"><persName>Claudius Caesar</persName> scribit hippocentaurum in Thessalia
                         natum eo dem die interiisse. Et nos principatu illius allatum illi ex
-                        Aegypto in melle vidimus.</foreign><note xml:id="ch10transn25x" type="editorial" subtype="translation" resp="#HH">The emperor Claudius writes that a hippocentaur [a centaur, half human and half horse] was born and died on the same day in Thessaly. And during his reign we ourselves saw one brought to him from Egypt embalmed in honey. <hi rend="italic">NH</hi> VII.3(3)</note><bibl>Pl.hist.l.7.c.3</bibl>
+                        Aegypto in melle vidimus.</foreign><note resp="#HH" subtype="translation" type="editorial" xml:id="ch10transn25x">The emperor Claudius writes that a hippocentaur [a centaur, half human and half horse] was born and died on the same day in Thessaly. And during his reign we ourselves saw one brought to him from Egypt embalmed in honey. <hi rend="italic">NH</hi> VII.3(3)</note><bibl>Pl.hist.l.7.c.3</bibl>
                         <bibl xml:id="ch10p3bibln2X1">(18)</bibl>
-                        <foreign xml:lang="la" corresp="#ch10transn25xx">Mel calidum siccumque ordine secundo aperit,
+                        <foreign corresp="#ch10transn25xx" xml:lang="la">Mel calidum siccumque ordine secundo aperit,
                             putredini obsistit, siccat, deterget, expurgatque meatus &amp;
                             ulcera.</foreign>
-                        <bibl>Fern. Method. lib.6,c.12.</bibl><foreign><note xml:id="ch10transn25xx" type="editorial" subtype="translation" resp="#HH">Honey is hot and dry in the second degree, unblocks, resists putrefaction, dries, cleanses and purges the alimentary canal and ulcers. Jean Fernel, <hi rend="italic">Methodi Medendi</hi>, VI.12</note><foreign xml:lang="la" corresp="#ch10transn25xxx">Item, Mel
+                        <bibl>Fern. Method. lib.6,c.12.</bibl><foreign><note resp="#HH" subtype="translation" type="editorial" xml:id="ch10transn25xx">Honey is hot and dry in the second degree, unblocks, resists putrefaction, dries, cleanses and purges the alimentary canal and ulcers. Jean Fernel, <hi rend="italic">Methodi Medendi</hi>, VI.12</note><foreign corresp="#ch10transn25xxx" xml:lang="la">Item, Mel
                             &amp; saccharum potionibus admista vires naturales in morbis sopitas
                             &amp; languentes exuscitant &amp; erigunt: nativumque calorem qui solus
                             morbos concoquit &amp; mitificat, recreant: crassaque extenuando,
                             viscosa extergendo, &amp; obstructa expediendo purgationes quam
                             facillimas praestant.
-                            <bibl>Plantius in Fern. de Syrupis.</bibl></foreign><note xml:id="ch10transn25xxx" type="editorial" subtype="translation" resp="#HH">Honey and sugar mixed in drinks excites and rouses the natural forces when they are somnolent and languishing through illness; and restores that natural warmth which alone clears away and assuages illnesses; and by thinning what is solid, and clearing away what is viscous, and freeing what is obstructed, it offers the readiest of purgatives. Guillaume Plançon/Plantius, ‘In syrupum acidum scholia’ in Jean Fernel, <hi rend="italic">Methodi Medendi</hi>, VII ‘De syrupis’</note> <foreign xml:lang="la" corresp="#ch10transn37">Item, Mel
+                            <bibl>Plantius in Fern. de Syrupis.</bibl></foreign><note resp="#HH" subtype="translation" type="editorial" xml:id="ch10transn25xxx">Honey and sugar mixed in drinks excites and rouses the natural forces when they are somnolent and languishing through illness; and restores that natural warmth which alone clears away and assuages illnesses; and by thinning what is solid, and clearing away what is viscous, and freeing what is obstructed, it offers the readiest of purgatives. Guillaume Plançon/Plantius, ‘In syrupum acidum scholia’ in Jean Fernel, <hi rend="italic">Methodi Medendi</hi>, VII ‘De syrupis’</note> <foreign corresp="#ch10transn37" xml:lang="la">Item, Mel
                             abstergendi vim habet, ora vasorum aperit, humores evocat, qua ratione
                             in sordida ulcera sinusque commodè infunditur, decoctum atque impositum
                             abscedentem carnem glutinat, medetur lichenibus, impetigini coctum cum
-                            liquido alumine &amp; illitum.</foreign><note xml:id="ch10transn37" type="editorial" subtype="translation" resp="#HH">Honey has a power to cleanse, opens the mouths of the body’s vessels, summons humours, for which reason it is usefully infused into filthy ulcers and cavities; boiled down and placed on abscessed flesh it binds it together; boiled with liquid alum and applied on the skin it cures ringworms and impetigo.</note> Item <foreign xml:lang="la" corresp="#ch10transn38">aurium sonitui &amp; dolori cum fossili sale trito tepidum instillatur:
+                            liquido alumine &amp; illitum.</foreign><note resp="#HH" subtype="translation" type="editorial" xml:id="ch10transn37">Honey has a power to cleanse, opens the mouths of the body’s vessels, summons humours, for which reason it is usefully infused into filthy ulcers and cavities; boiled down and placed on abscessed flesh it binds it together; boiled with liquid alum and applied on the skin it cures ringworms and impetigo.</note> Item <foreign corresp="#ch10transn38" xml:lang="la">aurium sonitui &amp; dolori cum fossili sale trito tepidum instillatur:
                             lendes &amp; foeda capitis animalia illitum necat, oculorum caliginem
                             discutit, faucibus, tonsillis, anginae collutum gargarizatumque medetur,
                             urinam ciet, auxiliatur tussi; contra haustum meconium cum rosaceo
                             calidum assumitur, adversus venena fungorum &amp; rabiosi canis morsus
                             linctum aut potum proficit: crudum tamen alvum inflat, tussim lacessit:
-                            &amp; ea de re despumato utendum.</foreign><note xml:id="ch10transn38" type="editorial" subtype="translation" resp="#HH">for ringing and ache of the ears it is instilled warm with rock salt; applied by smearing it kills nits and foul creatures on the head; it dispels dimness of the eyes; with rinsing and gargling it soothes the throat, tonsils and quinsy; it encourages urine; it helps a cough; it is taken warm with oil of roses against a draught of poppy-juice; licked or drunk it is useful against mushroom poisoning and the bites of rabid dogs; but taken raw it inflates the belly and provokes coughing, and for that one should use it skimmed. Dioscorides, <hi rend="italic">De Medica Materia</hi> II.101 (in Latin translation by Jean-Antoine Sarasin/Saracenius) </note>
+                            &amp; ea de re despumato utendum.</foreign><note resp="#HH" subtype="translation" type="editorial" xml:id="ch10transn38">for ringing and ache of the ears it is instilled warm with rock salt; applied by smearing it kills nits and foul creatures on the head; it dispels dimness of the eyes; with rinsing and gargling it soothes the throat, tonsils and quinsy; it encourages urine; it helps a cough; it is taken warm with oil of roses against a draught of poppy-juice; licked or drunk it is useful against mushroom poisoning and the bites of rabid dogs; but taken raw it inflates the belly and provokes coughing, and for that one should use it skimmed. Dioscorides, <hi rend="italic">De Medica Materia</hi> II.101 (in Latin translation by Jean-Antoine Sarasin/Saracenius) </note>
                         <bibl>Dioscorid. lib.2, cap.101.</bibl>(19)(20)(21)(22)(23)(24)(25)
-                                <persName><hi rend="opposite">Pictorius</hi></persName>.<foreign xml:lang="la" corresp="ch10transn39">Mellis
+                                <persName><hi rend="opposite">Pictorius</hi></persName>.<foreign corresp="ch10transn39" xml:lang="la">Mellis
                         natura talis est, ut putrescere corpora non sinat; Faucibus, tonsillis,
                         anginae, omnibusque oris desideriis utilissimum, arescentique in febribus
-                        linguae. <bibl>Pl.hist.l.22.c.24.</bibl></foreign><note xml:id="ch10transn39" type="editorial" subtype="translation" resp="#HH">The nature of honey is such that it preserves bodies from putrefaction; it is most useful for the throat, tonsils, quinsy and all complaints of the mouth, and for a dry tongue in fevers. <hi rend="italic">NH</hi> XXII.108(49)</note>
+                        linguae. <bibl>Pl.hist.l.22.c.24.</bibl></foreign><note resp="#HH" subtype="translation" type="editorial" xml:id="ch10transn39">The nature of honey is such that it preserves bodies from putrefaction; it is most useful for the throat, tonsils, quinsy and all complaints of the mouth, and for a dry tongue in fevers. <hi rend="italic">NH</hi> XXII.108(49)</note>
                         (26)Lobel.(27)Pict.(28)Fernel.Method.l.7. </foreign></note>
                     <p xml:id="ch10p3par2"><note subtype="summary" type="authorial" xml:id="ch10p3sumn3">3. For whom Hony is the best.</note> Hony is most
                         fit for (1) old men, <ref target="#ch10p3bibln3"> v.</ref>
@@ -12477,13 +12477,13 @@
                         have hot livers: and in this point he preferreth our English Honie. <note subtype="summary" type="authorial" xml:id="ch10p3sumn4"> 4. English
                             Hony.</note>
                         <quote>
-                            <foreign xml:lang="la" corresp="#ch10transn40">Minus <hi rend="opposite">(saith he)</hi>
+                            <foreign corresp="#ch10transn40" xml:lang="la">Minus <hi rend="opposite">(saith he)</hi>
                                 speciosum ac delicatum Anglum: sed, quibusdam praesertim saltibus
                                 &amp; pascuis, ubi lana commendatior, <ref target="#ch10p3bibln4">v.</ref>
                                 <note subtype="bibliographic" type="authorial" xml:id="ch10p3bibln4">
                                     <ref target="#ch10p2sumn2"> V.p.2.n.11. </ref>
                                 </note> lectum, biliosa excrementa inferius extergendo pellit, &amp;
-                                aciei oculorum prodesse putatur.</foreign><note xml:id="ch10transn40" type="editorial" subtype="translation" resp="#HH">English honey is less attractive to look at and less delicate; but, especially when gathered from certain woods and pastures where the wool is particularly valued, it drives out bilious excrement by cleansing the lower part, and is thought to be of use to the eyesight. Matthias de L’Obel/Matthaeus Lobelius</note>
+                                aciei oculorum prodesse putatur.</foreign><note resp="#HH" subtype="translation" type="editorial" xml:id="ch10transn40">English honey is less attractive to look at and less delicate; but, especially when gathered from certain woods and pastures where the wool is particularly valued, it drives out bilious excrement by cleansing the lower part, and is thought to be of use to the eyesight. Matthias de L’Obel/Matthaeus Lobelius</note>
                         </quote> So that he seemeth to say, that our honie is hurtfull to none;
                         because it purgeth that evill humour, which other Hony, in some bodies, is
                         thought to breed. But the Proverb saith, <quote>Too much of one thing is
@@ -12512,10 +12512,10 @@
                             &amp; Wiker</bibl> (5) <bibl> Wikerus</bibl> (6) <bibl>Pictorius</bibl>
                         (7) <bibl>Gal.</bibl>bibl&gt;&amp; <bibl>Seth.</bibl>&amp; <quote>
                             <bibl>Fernelius Methodi.lib.6.c.12.</bibl>
-                            <foreign xml:lang="la" corresp="#ch10transn41">Crudum cocto &amp; despumato detergentius quidem
-                                multo est &amp; mordacius: sed eo minus agglutinat.</foreign><note xml:id="ch10transn41" type="editorial" subtype="translation" resp="#HH">Raw honey is indeed much more of a disinfectant and more stinging than boiled and skimmed; but for that reason is less binding. </note>
-                        </quote><foreign xml:lang="la" corresp="#ch10transn42">(8) ad sinuum glutinationes, Seth sinuosorum ulcerum,
-                            <bibl>Galen.</bibl></foreign><note xml:id="ch10transn42" type="editorial" subtype="translation" resp="#HH">For binding of the sinuses, Seth on ulcers of the sinus, Galen</note>(9)(10)(11) <bibl> Pictorius.</bibl>
+                            <foreign corresp="#ch10transn41" xml:lang="la">Crudum cocto &amp; despumato detergentius quidem
+                                multo est &amp; mordacius: sed eo minus agglutinat.</foreign><note resp="#HH" subtype="translation" type="editorial" xml:id="ch10transn41">Raw honey is indeed much more of a disinfectant and more stinging than boiled and skimmed; but for that reason is less binding. </note>
+                        </quote><foreign corresp="#ch10transn42" xml:lang="la">(8) ad sinuum glutinationes, Seth sinuosorum ulcerum,
+                            <bibl>Galen.</bibl></foreign><note resp="#HH" subtype="translation" type="editorial" xml:id="ch10transn42">For binding of the sinuses, Seth on ulcers of the sinus, Galen</note>(9)(10)(11) <bibl> Pictorius.</bibl>
                     </note>
                     <p xml:id="ch10p3par4"><note subtype="summary" type="authorial" xml:id="ch10p3sumn7">7. Two waies to clarifie Hony.</note> Honie is
                         clarified by boiling: and that either by it selfe, or else with a fourth
@@ -12706,25 +12706,25 @@
                         <fw type="header"> Of the fruit and profit of Bees. </fw> also hath with his
                         sweetnesse a power to <ref target="#ch10p3glon11">*</ref> preserve, as being
                         a <ref target="#ch10p3glon12">†</ref> kinde of Honie. </p>
-                    <note place="inline" subtype="gloss" type="authorial" xml:id="ch10p3glon11"><foreign xml:lang="la" corresp="#ch10transn43">*Condiuntur fructus aut melle, aut Saccharo. <bibl>Fernel.Meth.l.4.c.17
-                        &amp; Sylv.simpl.med.mist.l.3.</bibl></foreign><note xml:id="ch10transn43" type="editorial" subtype="translation" resp="#HH">The fruits are preserved either in honey or in sugar. Jean Fernel, Methodi Medendi, IV.17; Sylvius/Dubois, <hi rend="italic">De Medicamentorum Simplicium Delectu, Praeparationibus, Mistionis Modo</hi> III</note>
+                    <note place="inline" subtype="gloss" type="authorial" xml:id="ch10p3glon11"><foreign corresp="#ch10transn43" xml:lang="la">*Condiuntur fructus aut melle, aut Saccharo. <bibl>Fernel.Meth.l.4.c.17
+                        &amp; Sylv.simpl.med.mist.l.3.</bibl></foreign><note resp="#HH" subtype="translation" type="editorial" xml:id="ch10transn43">The fruits are preserved either in honey or in sugar. Jean Fernel, Methodi Medendi, IV.17; Sylvius/Dubois, <hi rend="italic">De Medicamentorum Simplicium Delectu, Praeparationibus, Mistionis Modo</hi> III</note>
                     </note>
                     <note place="inline" subtype="gloss" type="authorial" xml:id="ch10p3glon12">† <quote>
-                            <foreign xml:lang="la" corresp="#ch10transn44">Saccharum quod ex India &amp; faelici Arabia
+                            <foreign corresp="#ch10transn44" xml:lang="la">Saccharum quod ex India &amp; faelici Arabia
                                 convehitur, concrescit in calamis: estque mellis species, nostrate
                                 certè minus dulce, sed similes ei vires obtinens, quod ad
                                 abstergendum, desiccandum, &amp; digerendum pertinet.
-                                <bibl>Galen.de simpl.med.facult.lib.7.</bibl></foreign><note xml:id="ch10transn44" type="editorial" subtype="translation" resp="#HH">Sugar which is brought from India and Arabia Felix [southern Arabia, Yemen] grows in canes: and it is a kind of honey, certainly less sweet than our native variety, but having similar powers to it, as regards cleansing, drying out and digesting. Galen, <hi rend="italic">De Simplicium Medicamentorum Facultatibus</hi> VII, s.v. ‘mel’</note>
+                                <bibl>Galen.de simpl.med.facult.lib.7.</bibl></foreign><note resp="#HH" subtype="translation" type="editorial" xml:id="ch10transn44">Sugar which is brought from India and Arabia Felix [southern Arabia, Yemen] grows in canes: and it is a kind of honey, certainly less sweet than our native variety, but having similar powers to it, as regards cleansing, drying out and digesting. Galen, <hi rend="italic">De Simplicium Medicamentorum Facultatibus</hi> VII, s.v. ‘mel’</note>
                         </quote> Item, <quote>
-                            <foreign xml:lang="la" corresp="#ch10transn45"><hi rend="opposite">Est &amp; quoddam mellis
+                            <foreign corresp="#ch10transn45" xml:lang="la"><hi rend="opposite">Est &amp; quoddam mellis
                                     concreti genus quod Saccharum nominant: quodque in India &amp;
-                                    faelici Arabia in arundinibus reperitur.</hi></foreign><note xml:id="ch10transn45" type="editorial" subtype="translation" resp="#HH">There is too a kind of solid honey which they call sugar, and which is found in canes in India and Arabia Felix. Source not found.</note><foreign xml:lang="la" corresp="ch10transn46"> Saccharum est mel
+                                    faelici Arabia in arundinibus reperitur.</hi></foreign><note resp="#HH" subtype="translation" type="editorial" xml:id="ch10transn45">There is too a kind of solid honey which they call sugar, and which is found in canes in India and Arabia Felix. Source not found.</note><foreign corresp="ch10transn46" xml:lang="la"> Saccharum est mel
                                 in arundinibus collectum.
-                                        <bibl>Plin.l. 42.c.8.</bibl></foreign><note xml:id="ch10transn46" type="editorial" subtype="translation" resp="#HH">Sugar is honey that collects in canes. <hi rend="italic">NH</hi> XII.17(8)</note>
+                                        <bibl>Plin.l. 42.c.8.</bibl></foreign><note resp="#HH" subtype="translation" type="editorial" xml:id="ch10transn46">Sugar is honey that collects in canes. <hi rend="italic">NH</hi> XII.17(8)</note>
                         </quote>
                         <quote>
-                            <foreign xml:lang="la" corresp="#ch10transn47">Saccharum mellis species cum sit, siccat quoque
-                                &amp; abstergit.</foreign><note xml:id="ch10transn47" type="editorial" subtype="translation" resp="#HH">Since sugar is a species of honey, it also dries out and cleanses. Fernel, <hi resp="italic">Methodi Medendi</hi> VI.12</note>
+                            <foreign corresp="#ch10transn47" xml:lang="la">Saccharum mellis species cum sit, siccat quoque
+                                &amp; abstergit.</foreign><note resp="#HH" subtype="translation" type="editorial" xml:id="ch10transn47">Since sugar is a species of honey, it also dries out and cleanses. Fernel, <hi resp="italic">Methodi Medendi</hi> VI.12</note>
                             <bibl> Fern.Meth.l.6.c. 12.</bibl>
                         </quote></note>
                     <p xml:id="ch10p3par24"><note subtype="summary" type="authorial" xml:id="ch10p3sumn17">17. Honie to be preferred before Sugar.</note> But
@@ -12746,16 +12746,16 @@
                         </quote>
                     </p>
                     <note place="inline" subtype="gloss" type="authorial" xml:id="ch10p3glon13">*<quote>
-                            <foreign xml:lang="la" corresp="#ch10transn49">Ex melle confectus syrupus diutius asservatur; is
+                            <foreign corresp="#ch10transn49" xml:lang="la">Ex melle confectus syrupus diutius asservatur; is
                                 quoque magis incidit, ac detergit. Ex Saccharo suavior, sed non
-                                aeque efficax.</foreign><note xml:id="ch10transn49" type="editorial" subtype="translation" resp="#HH">A syrup confected from honey keeps for longer; this is also more biting and cleansing. One made of sugar is sweeter but not equally efficacious. <hi rend="italic">Methodi Medendi</hi> IV.12</note>
+                                aeque efficax.</foreign><note resp="#HH" subtype="translation" type="editorial" xml:id="ch10transn49">A syrup confected from honey keeps for longer; this is also more biting and cleansing. One made of sugar is sweeter but not equally efficacious. <hi rend="italic">Methodi Medendi</hi> IV.12</note>
                             <bibl>Fern.Meth.l. 4.c.12.</bibl>
                         </quote></note>
                     <p xml:id="ch10p3par25"><note subtype="summary" type="authorial" xml:id="ch10p3sumn18">18. Honie good in outward medicines.</note> Honie
                         is used in outward medicines for divers purposes: <ref target="#ch10p3glon14">*</ref>not onely to conteine the other
                         ingredients in forme of a Plaister; but also to open, to cleanse, to dry, to
                         digest, and to resist putrefaction. <note subtype="summary" type="authorial" xml:id="ch10p3sumn19"> 19. A salve for an old sore.</note> And therefore
-                        it hath the predominance in that excellent Salve called <ref target="#ch10p3glon15">†</ref><foreign xml:lang="la" corresp="#ch10transn50"><term>Unguentum Aegyptiacum:</term><note xml:id="ch10transn50" type="editorial" subtype="translation" resp="#HH">Egyptian unguent, known as ‘aegyptiacum’</note></foreign> which
+                        it hath the predominance in that excellent Salve called <ref target="#ch10p3glon15">†</ref><foreign corresp="#ch10transn50" xml:lang="la"><term>Unguentum Aegyptiacum:</term><note resp="#HH" subtype="translation" type="editorial" xml:id="ch10transn50">Egyptian unguent, known as ‘aegyptiacum’</note></foreign> which
                         serveth to cleanse and mundifie old sores, and to take away both dead and
                         proud flesh. The receipt whereof is this. Of Verdegrece five ounces, of
                         strong Vineger seven ounces, and of Honie foureteene. boile first the Honie
@@ -12765,9 +12765,9 @@
                         <fw type="header"> Of the fruit and profit of Bees. </fw> together, let them
                         boile until the Ointment have his just thicknesse and Purple colour. </p>
                     <note place="inline" subtype="gloss" type="authorial" xml:id="ch10p3glon14">*<quote>
-                            <foreign xml:lang="la" corresp="#ch10transn51">Mel panaciae &amp; aliis quibusdam emplastris
+                            <foreign corresp="#ch10transn51" xml:lang="la">Mel panaciae &amp; aliis quibusdam emplastris
                                 miscetur, ut corpus praebeat emplasticum, &amp; praeterea siccet,
-                                tergeat, digerat, à putredine vindicet. <bibl> Sylv. de med.simpl.mist.l.3.</bibl></foreign><note xml:id="ch10transn51" type="editorial" subtype="translation" resp="#HH">Honey is mixed with panacea and certain other poultices to produce a body that will stick in place, and moreover dries out, cleanses, digests and protects from putrefaction. Sylvius/Dubois, <hi rend="italic">De Medicamentorum Simplicium Delectu, Praeparationibus, Mistionis Modo</hi> III, ‘De emplastris’</note> 
+                                tergeat, digerat, à putredine vindicet. <bibl> Sylv. de med.simpl.mist.l.3.</bibl></foreign><note resp="#HH" subtype="translation" type="editorial" xml:id="ch10transn51">Honey is mixed with panacea and certain other poultices to produce a body that will stick in place, and moreover dries out, cleanses, digests and protects from putrefaction. Sylvius/Dubois, <hi rend="italic">De Medicamentorum Simplicium Delectu, Praeparationibus, Mistionis Modo</hi> III, ‘De emplastris’</note> 
                            
                         </quote><quote>
                             <foreign corresp="#ch10transn26" xml:lang="la">Mel calidum siccumque ordine secundo aperit,
