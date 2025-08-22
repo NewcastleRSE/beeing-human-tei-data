@@ -8702,7 +8702,7 @@
                         Wax is gathered onely in foure months.</note> The time when <app subtype="change" type="vocabulary">
                         <lem wit="#b1623">Bees</lem>
                         <rdg wit="#b1609"><ptr target="1609.xml#ch6ancs22 1609.xml#ch6ance22"></ptr></rdg>
-                    </app> gather wax, is onely betweene <term> Taurus</term> and <term>Virgo</term>
+                    </app> gather wax, is onely betweene <term> Taurus</term> and <term>Virgo:</term>
                     (unlesse <term> Aries</term> be <app subtype="change" type="minor">
                         <lem wit="#b1623">milde and warme:</lem>
                         <rdg wit="#b1609"><ptr target="1609.xml#ch6ancs23 1609.xml#ch6ance23"></ptr></rdg>
@@ -8733,7 +8733,7 @@
                 <note place="inline" subtype="gloss" type="authorial" xml:id="ch6glon1"><app subtype="add" type="reference">
                         <lem wit="#b1623">*Yea rather this is the true <term>Nectar</term> &amp;
                                 <term>Ambrosia</term> wherwith <term> Jupiter</term> was first
-                            nourished in the Ile of Crete, <ref target="#ch4sumn6">v.c 4.n.6.</ref>
+                            nourished in the Ile of Crete, <ref target="#ch4sumn6">v.c.4.n.6.</ref>
                             while the <term> Curetes</term> hid him from <term>Saturn</term>. Which gave
                             occassion to the Poets of this fiction, that the Bees were his </lem>
                         <rdg wit="#b1609"></rdg>
@@ -8748,7 +8748,7 @@
                             the long-preserving vertue that hony hath, (<ref target="#ch10p3sumn1">v.c.10.par.3.n.1.</ref>) they fained it to be his immortall food. <quote>
                                 <foreign corresp="#ch6transn11" xml:lang="la">Jupiter Ambrosia satur est &amp; nectare
                                     vivit.</foreign><note resp="#HH" subtype="translation" type="editorial" xml:id="ch6transn11">Jupiter grows fat on ambrosia and lives on nectar. Martial XI.57.3</note>
-                                <bibl> Mart.l. 11.Ep.58.</bibl>
+                                <bibl> <hi rend="italic">Mart.l.</hi>11.<hi rend="italic">Ep.</hi>58.</bibl>
                             </quote></lem>
                         <rdg wit="#b1609"></rdg>
                     </app>
@@ -8756,17 +8756,17 @@
                 <p xml:id="ch6par13"><note subtype="summary" type="authorial" xml:id="ch6sumn18">18.
                         How Ambrosia or grosse hony is gathered.</note> The grosse hony is gathered
                     by their fangs: from whence is it conveied by the fore-legs to the thighes of
-                    the hin-legs (<quote>
-                        <foreign corresp="#ch6transn12" xml:lang="la">Quae flores comportant prioribus pedibus foemina
+                    the hin-legs <quote>
+                        <foreign corresp="#ch6transn12" xml:lang="la">(Quae flores comportant prioribus pedibus foemina
                             onerant propter id natura scabra, pedes priores rostro: totaeque onustae
-                            remeant sarcina pandatae</foreign><note resp="#HH" subtype="translation" type="editorial" xml:id="ch6transn12">The ones that harvest flowers with their front legs load up their thighs which are of a scaly nature for this reason, and with their beak they load up their front legs: and when they are fully laden they go back rotund with their burden. <hi rend="italic">NH</hi> XI.21(10)</note>
+                            remeant sarcina pandatae)</foreign><note resp="#HH" subtype="translation" type="editorial" xml:id="ch6transn12">The ones that harvest flowers with their front legs load up their thighs which are of a scaly nature for this reason, and with their beak they load up their front legs: and when they are fully laden they go back rotund with their burden. <hi rend="italic">NH</hi> XI.21(10)</note>
                         <note subtype="bibliographic" type="authorial" xml:id="ch6bibln14">
                             <bibl> Nat.hist.li.11.c.10.</bibl>
                         </note>
-                    </quote> ) and that so nimbly, that unlesse you have a quicke eie, you can
+                    </quote> and that so nimbly, that unlesse you have a quicke eie, you can
                     scarce perceive it. </p>
-                <p xml:id="ch6par14">This worke may best be seene in the spring, when they gather
-                    upon the blackthorne: for then by reason of the cold they are not so quicke.</p>
+                <p xml:id="ch6par14"><note place="inline" subtype="gloss" type="authorial" xml:id="ch6glon2">This worke may best be seene in the spring, when they gather
+                    upon the blackthorne: for then by reason of the cold they are not so quicke.</note></p>
                 <p xml:id="ch6par15"><note subtype="summary" type="authorial" xml:id="ch6sumn19">19.
                         Ambrosia, is the Schadons food, as water their drinke.</note>
                     <app subtype="del" type="minor">
@@ -8803,14 +8803,14 @@
                         This Ambrosia is commonly taken for wax.</note> Anent this leg-stuffe or
                     grosse hony there is a generall error. For, without all scruple or doubt, men
                     doe count it and call it wax: (as did some also in time of old, whose opinion
-                        <persName>Aristotle</persName> doth thus deliver. <quote>
+                        <persName>Aristotle</persName> doth thus deliver: <quote>
                         <note subtype="bibliographic" type="authorial" xml:id="ch6bibln15">
                             <bibl>His.l.9.40.</bibl>
                         </note>
                         <foreign corresp="#ch6transn13" xml:lang="la">Ceram apes perreptando flores capiunt priorum acumine
                             pedum: mox priores in medios abstergunt, &amp; medios in blaesa
-                            posteriorum.</foreign><note resp="#HH" subtype="translation" type="editorial" xml:id="ch6transn13">The bees take wax on the tips of their front legs by crawling through flowers: after which they soon wipe their front legs clean on their middle legs, and the middle legs on the hollows of their back legs. <hi rend="italic">AH</hi> IX.40 (624a fin.–b init.)</note>
-                    </quote>) But against (as I shall shew you) both sense and reason. </p>
+                            posteriorum.)</foreign><note resp="#HH" subtype="translation" type="editorial" xml:id="ch6transn13">The bees take wax on the tips of their front legs by crawling through flowers: after which they soon wipe their front legs clean on their middle legs, and the middle legs on the hollows of their back legs. <hi rend="italic">AH</hi> IX.40 (624a fin.–b init.)</note>
+                    </quote> But against (as I shall shew you) both sense and reason. </p>
                 <p xml:id="ch6par17"><note subtype="summary" type="authorial" xml:id="ch6sumn24">24.
                         Which error is disproved by sense.</note> If you put it to your tongue, it
                     hath the taste of hony: which wax hath not. If you feele it betweene your warme
@@ -8826,14 +8826,14 @@
                     <note subtype="bibliographic" type="authorial" xml:id="ch6bibln16">
                         <ref target="#ch6sumn14">v.n.14.</ref>
                     </note> even as those little fallings of the new swarmes; (which is wax indeed)
-                    this leg-honie is of divers colours, white, black, yellow, greene, red, tawny,
+                    this leg-honie is of divers colours, white, blacke, yellow, greene, red, tawny,
                     orenge, murry, and of sundry midling colours. Therefore sense doth say it is no
                     wax. </p>
                 <p xml:id="ch6par18"><note subtype="summary" type="authorial" xml:id="ch6sumn25">25.
-                        And reason.</note> The reasons are two. The first is because when they
+                        And reason.</note> The reasons are two. The first is, because when they
                     gather abundance of this stuffe, they have never the more wax. The other because
                     when they make most wax, they gather none of this. </p>
-                <p xml:id="ch6par19">For proofe of the first, All Bees betweene <term>Virgo</term>
+                <p xml:id="ch6par19">For proofe of the first, All the Bees betweene <term>Virgo</term>
                     and <term>Taurus</term> do gather abundance of it: and yet are not their combes
                     in this time any whit enlarged. Also one of those old stalls that are full of
                     combes, doth carry more of this matter all the summer long than many swarmes:
@@ -8851,7 +8851,7 @@
                     </app>And if any foolish Bee do carry in <term>Ambrosia,</term> it is put a dry
                     cell where it turneth to Stopping, <ref target="#ch6bibln17"> v.</ref>
                     <note subtype="bibliographic" type="authorial" xml:id="ch6bibln17">
-                        <ref target="#ch6sumn21">v.n.21.</ref>
+                        <ref target="#ch6sumn21">V.n.21.</ref>
                     </note> as I have seene within a fortnight after the hiving. </p>
                 <p xml:id="ch6par21"><note subtype="summary" type="authorial" xml:id="ch6sumn26">26.
                         And by authoritie.</note> And this, though now it seeme new, yet was it
@@ -8864,17 +8864,17 @@
                             erit apum dum operantur cibus: qui saepe invenitur in favorum
                             inanitatibus sepositus; &amp; ipse amari saporis.</foreign><note resp="#HH" subtype="translation" type="editorial" xml:id="ch6transn14">Besides this (i.e. wax and nectar) erithace is brought, which some call sandaracha and others cerinthus.  This will be the bees’ food while they are working, and it is often found set aside in empty spaces in the combs; and it has a bitter flavour. <hi rend="italic">NH</hi> XI.17(7)</note>
                     </quote> Speaking in the last words of that which is corrupted <app subtype="add" type="reference">
-                        <lem wit="#b1623"><ref target="#ch6bibln19">v</ref>
+                        <lem wit="#b1623"><ref target="#ch6bibln19">v.</ref>
                             <note subtype="bibliographic" type="authorial" xml:id="ch6bibln19">
                                 <ref target="#ch6sumn21"> V.n.21.</ref>
                             </note></lem>
                         <rdg wit="#b1609"></rdg>
-                    </app>. And before him <persName> Aristotle</persName> himselfe thus. <quote>
+                    </app> And before him <persName> Aristotle</persName> himselfe thus: <quote>
                         <note subtype="bibliographic" type="authorial" xml:id="ch6bibln20">
                             <bibl> Hist.l.9.c.40.</bibl>
                         </note>
                         <foreign corresp="#ch6transn17" xml:lang="la">Mel apibus tum aestate tum hyeme cibo est: sed
-                            recondunt alterum quoque cibarii genus, cui durities cerae proxima quod
+                            recondunt alterum quoque cibarii genus, cui durities cerae proxima, quod
                             sandaracham nonnulli appellant.</foreign><note resp="#HH" subtype="translation" type="editorial" xml:id="ch6transn17">Honey serves as food for bees both in summer and winter: but they also stow away another kind of food, of a hardness similar to wax, which some people call bee bread. <hi rend="italic">HA</hi> IX.40 (626a)</note>
                     </quote></p>
                 <fw type="catch"> The</fw>
@@ -8886,7 +8886,7 @@
                     bottles, which are within them like unto bladders: each of them will hold a drop
                     at once. You may see their little bellies strut withall. Men thinke, because
                     they see nothing on their legs, that they come in leere: when they are better
-                    and more heavily laden then the other. These bottles, as soone as they come
+                    and more heavily laden than the other. These bottles, as soone as they come
                     home, they empty into their combes. <quote>
                         <note subtype="bibliographic" type="authorial" xml:id="ch6bibln21">
                             <bibl> Hist.an.li.5.c.22.</bibl>
@@ -8897,7 +8897,7 @@
                         <lem wit="#b1623"></lem>
                         <rdg wit="#b1609"><ptr target="1609.xml#ch6ancs31 1609.xml#ch6ance31"></ptr></rdg>
                     </app><app subtype="change" type="vocabulary">
-                        <lem wit="#b1623">This <term> Nectar</term> being</lem>
+                        <lem wit="#b1623">This <term> Nectar</term>, being</lem>
                         <rdg wit="#b1609"><ptr target="1609.xml#ch6ancs32 1609.xml#ch6ance32"></ptr></rdg>
                     </app> cleere as Crystall at the first and liquid as water, when it is two or
                     three yeeres old, becommeth white and hard. <quote>
