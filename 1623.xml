@@ -10769,10 +10769,10 @@
                     </app></p>
                 <app subtype="add" type="major">
                     <lem wit="#b1623"><quote>
-                            <lg>
-                                <l>Who so keepe well Sheepe and Been,</l>
+                        <hi rend="italic"><lg>
+                               <l>Who so keepe well Sheepe and Been,</l>
                                 <l>Sleepe or wake, their thrift comes in.</l>
-                            </lg>
+                            </lg></hi>
                             <bibl><ptr target="#ch7biblnX35"></ptr></bibl></quote></lem>
                     <rdg wit="#b1609"></rdg>
                 </app>
@@ -10793,7 +10793,7 @@
                             Country, who, by good admonition, better imploiments, or conscience of
                             the sinne, are oft-times reclaimed: Whereas these Night-Ravens, for the
                             most part, are base cowardly Knaves, neither fit for service, nor
-                            labour, a meere burthen to the Common- <fw type="catch"> wealth:</fw>
+                            labour; a meere burthen to the Common- <fw type="catch"> wealth:</fw>
                             <pb n="S2r"></pb>
                             <fw type="header"> Of the Feeding of Bees. </fw> wealth: and as
                             incorrigible as sheep-biting Curres, which being once flesh't, doe
