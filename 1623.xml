@@ -6487,14 +6487,14 @@
                         <lem wit="#b1623">note,</lem>
                         <rdg wit="#b1609"><ptr target="1609.xml#ch5ancs50 1609.xml#ch5ance50"></ptr></rdg>
                     </app> as if she did pray hir Queene-mother to let them goe: <app subtype="change" type="minor">
-                        <lem wit="#b1623">unto which voice if the <anchor corresp="#ch5ednote52y" subtype="start" type="attachmentEditorialNote" xml:id="anchorStart3"></anchor> Queene vouchsafe to reply,</lem>
+                        <lem wit="#b1623">unto which voice if the <anchor corresp="#ch5ednote52y" subtype="start" type="attachmentEditorialNote" xml:id="anchorStart3x"></anchor> Queene vouchsafe to reply,</lem>
                         <rdg wit="#b1609"><ptr target="1609.xml#ch5ancs51 1609.xml#ch5ance51"></ptr></rdg>
                     </app>
                     <app subtype="add" type="minor">
                         <lem wit="#b1623">tuning hir <fw type="catch"> Base </fw>
                             <pb n="K3v"></pb>
                             <fw type="header"> Of the Swarming of Bees, </fw>
-                            <term>Base</term><anchor corresp="#ch5ednote52y" subtype="end" type="attachmentEditorialNote" xml:id="anchorEnd3"></anchor><note corresp="#anchorStart3 #anchorEnd3" resp="#MW" source="Butlercrossref" subtype="gloss" type="editorial" xml:id="ch5ednote52y"><q rend="marks">The
+                            <term>Base</term><anchor corresp="#ch5ednote52y" subtype="end" type="attachmentEditorialNote" xml:id="anchorEnd3x"></anchor><note corresp="#anchorStart3x #anchorEnd3x" resp="#MW" source="Butlercrossref" subtype="gloss" type="editorial" xml:id="ch5ednote52y"><q rend="marks">The
                                 Bass is so called, because it is the basis or foundation of the the
                                 Song, unto which all other Parts bee set: and it is to be sung with
                                 a deep, ful, and pleasing Voice</q> (Butler, <hi rend="italic">Principles of Musick</hi>,
