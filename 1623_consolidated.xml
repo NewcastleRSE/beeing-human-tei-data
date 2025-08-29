@@ -10658,7 +10658,7 @@
                 <p xml:id="ch8par1"><app subtype="add" type="minor">
                         <lem wit="b1623"><hi rend="drop-capital">T</hi>Hree moneths of the twelve
                             are rich and plentifull (in which the Bees gather abundantly, and store
-                            themselves for all the yeere) <term> Gemini</term>, Cancer,
+                            themselves for all the yeere) <term> Gemini</term>, <term>Cancer</term>,
                                 <term>Leo</term><seg rend='roman'>;</seg> but <term>Cancer</term> is better than both the
                             other.</lem>
                         <rdg wit="#b1609" />
@@ -10689,7 +10689,7 @@
                     sorts:<anchor xml:id="ch9ance5" data-origfile="1609" type="attachmentCollation" subtype="end" /></rdg></app>
                     <app subtype="change" type="minor">
                         <lem wit="#b1623">but this breeding time the mouths are multiplied more
-                            often than the meat,</lem>
+                            than the meat,</lem>
                         <rdg wit="#b1609" source="1609.xml#ch9ancs6 1609.xml#ch9ance6"><anchor xml:id="ch9ancs6" data-origfile="1609" type="attachmentCollation" subtype="start" />but then <fw type="catch" data-origfile="1609"> they</fw>
                     <pb n="K1v" data-origfile="1609" />
                     <fw type="header" data-origfile="1609">
@@ -10719,7 +10719,7 @@
                         <rdg wit="#b1609" source="1609.xml#ch9ancs10 1609.xml#ch9ance10"><anchor xml:id="ch9ancs10" data-origfile="1609" type="attachmentCollation" subtype="start" />abide<anchor xml:id="ch9ance10" data-origfile="1609" type="attachmentCollation" subtype="end" /></rdg></app> the <app subtype="change" type="vocabulary">
                         <lem wit="#b1623">sharpe</lem>
                         <rdg wit="#b1609" source="1609.xml#ch9ancs11 1609.xml#ch9ance11"><anchor xml:id="ch9ancs11" data-origfile="1609" type="attachmentCollation" subtype="start" />cold<anchor xml:id="ch9ance11" data-origfile="1609" type="attachmentCollation" subtype="end" /></rdg></app> aire: and therefore, for want of some store to feed on betweene whiles at
-                    home, I have knowne some die after Mid-<term> Gemini.</term>
+                    home, I have knowne some die after Mid-<term>Gemini.</term>
                 </p>
                 <p xml:id="ch8par2"><note subtype="summary" type="authorial" xml:id="ch8sumn2">2. <seg rend="italic">Three sorts of swarmes diversely provided. </seg></note>
                     <app subtype="change" type="vocabulary">
@@ -10810,7 +10810,7 @@
                             kinde or backward Summers before <term>Mid-Cancer:</term> when the
                             black-bery-blossomes are not yet come, <ref target="#ch8bibln1"><seg rend="italic">v</seg><seg rend="italic">.</seg></ref>
                             <note subtype="bibliographic" type="authorial" xml:id="ch8bibln1">
-                                <ref target="#ch5sumn11"><seg rend="italic">V</seg><seg rend="italic">.</seg><seg rend="italic">c</seg><seg rend="italic">.</seg><seg rend="normal">5</seg><seg rend="italic">.</seg><seg rend="italic">n</seg><seg rend="italic">.</seg><seg rend="italic"> </seg><seg rend="normal">1</seg><seg rend="normal">1</seg><seg rend="italic">.</seg></ref>
+                                <ref target="#ch5sumn11"><seg rend="italic">V</seg><seg rend="italic">.</seg><seg rend="italic">c</seg><seg rend="italic">.</seg><seg rend="normal">5</seg><seg rend="italic">.</seg><seg rend="italic">n</seg><seg rend="italic">.</seg><seg rend="normal">1</seg><seg rend="normal">1</seg><seg rend="italic">.</seg></ref>
                             </note> nor the hony-deawes gone: For such have sufficient both company
                             and time, to make sufficient provision.</lem>
                         <rdg wit="#b1609" />
@@ -10825,8 +10825,8 @@
                             <note subtype="bibliographic" type="authorial" xml:id="ch8bibln2">
                                 <ref target="#ch5sumn68"><seg rend="italic"> </seg><seg rend="italic">V</seg><seg rend="italic">.</seg><seg rend="italic">c</seg><seg rend="italic">.</seg><seg rend="normal">5</seg><seg rend="italic">.</seg><seg rend="italic">n</seg><seg rend="italic">.</seg><seg rend="normal">6</seg><seg rend="normal">8</seg><seg rend="italic">.</seg><seg rend="italic"> </seg></ref>
                             </note> yet omit not to save that little which they have, and your vaine
-                            labour and cost in feeding them. <ref target="#ch10p1sumn3"><seg rend="italic">v</seg><seg rend="italic">.</seg><seg rend="italic">c</seg><seg rend="italic">.</seg><seg rend="normal">1</seg><seg rend="normal">0</seg><seg rend="italic">.</seg><seg rend="italic">
-</seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic">p</seg><seg rend="italic">.</seg><seg rend="normal">1</seg><seg rend="italic">.</seg><seg rend="italic">n</seg><seg rend="italic">.</seg><seg rend="normal">3</seg><seg rend="italic">.</seg><seg rend="italic">i</seg><seg rend="italic">n</seg><seg rend="italic"> </seg><seg rend="italic">I</seg><seg rend="italic">I</seg><seg rend="italic">I</seg><seg rend="italic">.</seg></ref></lem>
+                            labour and cost in feeding them. <ref target="#ch10p1sumn3"><seg rend="italic">v</seg><seg rend="italic">.</seg><seg rend="italic">c</seg><seg rend="italic">.</seg><seg rend="normal">1</seg><seg rend="normal">0</seg><seg rend="italic">.</seg><seg rend="italic">p</seg><seg rend="italic">.</seg><seg rend="normal">1</seg><seg rend="italic">.</seg><seg rend="italic">n</seg><seg rend="italic">.</seg><seg rend="normal">3</seg><seg rend="italic">.</seg><seg rend="italic">i</seg><seg rend="italic">n</seg><seg rend="italic"> </seg><seg rend="italic">I</seg><seg rend="italic">I</seg><seg rend="italic">I</seg><seg rend="italic">.</seg></ref></lem>
+                            
                         <rdg wit="#b1609" />
                     </app></p>
                 <p xml:id="ch8par5"><note subtype="summary" type="authorial" xml:id="ch8sumn5">5. <seg rend="italic">The third onely are to be fed. </seg></note>
@@ -10841,11 +10841,11 @@
                     <app subtype="add" type="major">
                         <lem wit="#b1623">As for Stockes that have stood two yeeres, and yet have
                             not sufficient stocke for these seven moneths<seg rend='roman'>;</seg> (whether they be such as
-                            have gotten it, or having gotten it have lost it againe) they are out of
+                            have not gotten it, or having gotten it have lost it againe) they are out of
                             proofe: and therefore fit to be taken, not fed. <ref target="#ch10p1sumn3"><seg rend="italic"> </seg><seg rend="italic">v</seg><seg rend="italic">.</seg><seg rend="italic">c</seg><seg rend="italic">.</seg><seg rend="normal">1</seg><seg rend="normal">0</seg><seg rend="italic">.</seg><seg rend="italic"> </seg><seg rend="italic">p</seg><seg rend="italic">.</seg><seg rend="normal">1</seg><seg rend="italic">.</seg><seg rend="italic">n</seg><seg rend="italic">.</seg><seg rend="normal">3</seg><seg rend="italic">.</seg><seg rend="italic">i</seg><seg rend="italic">n</seg><seg rend="italic"> </seg><seg rend="italic">I</seg><seg rend="italic">I</seg><seg rend="italic">I</seg><seg rend="italic">.</seg></ref></lem>
                         <rdg wit="#b1609" />
                     </app></p>
-                <p xml:id="ch8par7"><note subtype="summary" type="authorial" xml:id="ch8sumn7">7. <seg rend="italic">Trie your swarmes in Virgo. </seg></note>
+                <p xml:id="ch8par7"><note subtype="summary" type="authorial" xml:id="ch8sumn7">7. <seg rend="italic">Trie your swarmes in <hi rend="opposite">Virgo.</hi></seg></note>
                     <app subtype="add" type="major">
                         <lem wit="#b1623">But because unkinde summers may make good warmes but
                             poore, as contrarily a plentifull summer may much mend the worst<seg rend='roman'>;</seg> after
@@ -10870,7 +10870,7 @@
                             </note> in Bees, the double weight in honie and wax<seg rend='roman'>;</seg> that swarme is
                             desperately poore, <ref target="#ch8bibln5"><seg rend="italic">v</seg><seg rend="italic">.</seg></ref>
                             <note subtype="bibliographic" type="authorial" xml:id="ch8bibln5">
-                                <ref target="#ch8sumn2"><seg rend="italic"> </seg><seg rend="italic">V</seg><seg rend="italic">.</seg><seg rend="italic">n</seg><seg rend="italic">.</seg><seg rend="normal">2</seg></ref>
+                                <ref target="#ch8sumn2"><seg rend="italic"> </seg><seg rend="italic">V</seg><seg rend="italic">.</seg><seg rend="italic">n</seg><seg rend="italic">.</seg><seg rend="normal">2</seg><seg rend="italic">.</seg></ref>
                             </note> and fitter to be taken than fed<ref target="#ch8glon2"><seg rend="italic">*</seg></ref>.
                             If the swarme with his store doe weigh betweene fifteene and twentie,
                             due feeding <ref target="#ch8bibln6"><seg rend="italic">v</seg><seg rend="italic">.</seg></ref>
@@ -10878,8 +10878,8 @@
                                 <ref target="#ch8sumn14"><seg rend="italic"> </seg><seg rend="italic">V</seg><seg rend="italic">.</seg><seg rend="italic">n</seg><seg rend="italic">.</seg><seg rend="normal">1</seg><seg rend="normal">4</seg><seg rend="italic">,</seg><seg rend="italic">&amp;</seg><seg rend="italic">c</seg><seg rend="italic">.</seg><seg rend="italic"> </seg></ref>
                             </note> may save him. If betweene twentie and five and twentie, hee is
                             able to shift for himselfe, and live without helpe. If betweene five and
-                            twenty and thirtie, esteeme him as right good, plentifully provided even
-                            for a hard winter, and fitted to be forward the next spring <ref target="#ch8glon3"><seg rend="italic">&#8224;</seg></ref>. And above the greater the store is, the
+                            twentie and thirtie, esteeme him as right good, plentifully provided even
+                            for a hard winter, and fitted to be forward the next spring <ref target="#ch8glon3"><hi rend="roman">&#8224;</hi></ref>. And above the greater the store is, the
                             better increase it promiseth. Unlesse, in some extraordinarie yeere, the
                             Hive be cloyed with too much: <ref target="#ch8bibln7"><seg rend="italic"> </seg><seg rend="italic">v</seg><seg rend="italic">.</seg></ref>
                             <note subtype="bibliographic" type="authorial" xml:id="ch8bibln7">
@@ -10897,31 +10897,31 @@
                             yet such though never so good, will perish neverthelesse, if they chance
                             to lose their Queene: <ref target="#ch8bibln8"><seg rend="italic">v</seg><seg rend="italic">.</seg></ref>
                             <note subtype="bibliographic" type="authorial" xml:id="ch8bibln8">
-                                <ref target="#ch1sumn6"><seg rend="italic">V</seg><seg rend="italic">.</seg><seg rend="italic">c</seg><seg rend="italic">.</seg><seg rend="normal">1</seg><seg rend="italic">.</seg><seg rend="italic"> </seg><seg rend="italic">n</seg><seg rend="italic">.</seg><seg rend="normal">6</seg><seg rend="italic">.</seg></ref>
+                                <ref target="#ch1sumn6"><seg rend="italic">V</seg><seg rend="italic">.</seg><seg rend="italic">c</seg><seg rend="italic">.</seg><seg rend="normal">1</seg><seg rend="italic">.</seg><seg rend="italic">n</seg><seg rend="italic">.</seg><seg rend="normal">6</seg><seg rend="italic">.</seg></ref>
                             </note> which sometime happeneth to those that are much troubled in the
-                                hiving.<ref target="#ch5sumn52"><seg rend="italic">v</seg><seg rend="italic">.</seg><seg rend="italic">c</seg><seg rend="italic">.</seg><seg rend="italic"> </seg><seg rend="normal">5</seg><seg rend="italic">.</seg><seg rend="italic"> </seg><seg rend="italic">n</seg><seg rend="italic">.</seg><seg rend="normal">5</seg><seg rend="normal">2</seg><seg rend="italic">.</seg></ref></note>
-                        <p xml:id="ch8par8"><note subtype="summary" type="authorial" xml:id="ch8sumn9">9. <seg rend="italic">Trie againe in Pisces or Aries. </seg></note>
+                                hiving. <ref target="#ch5sumn52"><seg rend="italic">v</seg><seg rend="italic">.</seg><seg rend="italic">c</seg><seg rend="italic">.</seg><seg rend="italic"> </seg><seg rend="normal">5</seg><seg rend="italic">.</seg><seg rend="italic"> </seg><seg rend="italic">n</seg><seg rend="italic">.</seg><seg rend="normal">5</seg><seg rend="normal">2</seg><seg rend="italic">.</seg></ref></note>
+                        <p xml:id="ch8par8"><note subtype="summary" type="authorial" xml:id="ch8sumn9">9. <seg rend="italic">Trie againe in <hi rend="opposite">Pisces</hi> or <hi rend="opposite">Aries.</hi></seg></note>
                             Moreover, because a long winter and a rough spring following, with some
                             other accidents, may waste them that were good, as, on the other side, a
                             short winter and a milde spring may helpe those that were scantily
                             provided<seg rend='roman'>;</seg> it shall not be amisse to try againe in <term> Pisces</term>
                             or <term>Aries,</term> those that you suspect<seg rend='roman'>;</seg> and to feed them if you
-                            see cause.<ref target="#ch8sumn15"><seg rend="italic">v</seg><seg rend="italic">.</seg><seg rend="italic">n</seg><seg rend="italic">.</seg><seg rend="normal">1</seg><seg rend="normal">5</seg><seg rend="italic">.</seg></ref>&amp;<ref target="#ch8sumn16"><seg rend="normal">1</seg><seg rend="normal">6</seg><seg rend="italic">.</seg></ref></p></lem>
+                            see cause. <ref target="#ch8sumn15"><seg rend="italic">v</seg><seg rend="italic">.</seg><seg rend="italic">n</seg><seg rend="italic">.</seg><seg rend="normal">1</seg><seg rend="normal">5</seg><seg rend="italic">.</seg></ref>&amp;<ref target="#ch8sumn16"><seg rend="normal">1</seg><seg rend="normal">6</seg><seg rend="italic">.</seg></ref></p></lem>
                     <rdg wit="#b1609" />
                 </app>
                 <lb />
                 <p xml:id="ch8par9"><note subtype="summary" type="authorial" xml:id="ch8sumn10">10. <seg rend="italic">The Bees food. </seg></note>
                     <app subtype="change" type="minor">
                         <lem wit="#b1623"><hi rend="drop-capital">T</hi>HE naturall food of Bees is
-                            Honie: for want, or sparing whereof, many other things have beene
+                            Honie: for want, or for sparing whereof, many other things have beene
                             devised.</lem>
                         <rdg wit="#b1609" source="1609.xml#ch9ancs14 1609.xml#ch9ance14"><anchor xml:id="ch9ancs14" data-origfile="1609" type="attachmentCollation" subtype="start" />For want of hony many other things have been used insteed thereof.
                     <anchor xml:id="ch9ance14" data-origfile="1609" type="attachmentCollation" subtype="end" /></rdg></app>
                     <persName>Aristotle</persName> mentioneth Figs, and all such sweet things. <quote>
-                        <foreign corresp="#ch8transn1x" xml:lang="la">Apiarii ficus ac reliqua id genus dulcia cibum
+                        <foreign corresp="#ch8transn1x" xml:lang="la">Apiarii ficus ac reliqua id genus dulcia in cibum
                             apponunt.</foreign><note resp="#HH" subtype="translation" type="editorial" xml:id="ch8transn1x">Beekeepers provide figs and other sweets of that type for food. <hi rend="italic">HA</hi> IX.40 (626b)</note>
                         <note subtype="bibliographic" type="authorial" xml:id="ch8bibln9">
-                            <bibl>Hist.li.9.c.40.</bibl>
+                            <bibl>Hist.l.9.c.40.</bibl>
                         </note>
                     </quote> and <persName> Plinie,</persName> speaking more particularly,
                     commendeth Raysings, and Figs, and teased Wooll, wet<app subtype="del" type="minor">
@@ -10932,7 +10932,7 @@
                             <bibl>Nat hist.li.21.c.14.</bibl>
                         </note>
                         <foreign corresp="#ch8transn2" xml:lang="la">Si cibus deesse censeatur apibus, uvas passas
-                            siccasve, sicosque tusas ad fores earum posuisse conveniet, item lanas
+                            siccasve, ficosque tusas ad fores earum posuisse conveniet, item lanas
                             tractas madentes passo aut defruto, aut aqua mulsa.</foreign><note resp="#HH" subtype="translation" type="editorial" xml:id="ch8transn2">If it is thought that the bees are lacking food, it will be a good idea to place raisins or dried grapes and bruised figs by the entrance to their hive<seg rend='roman'>;</seg> likewise pieces of spun wool soaked in raisin wine or boiled must, or honey-water. <hi rend="italic">NH</hi> XXI.82(48)</note>
                     </quote> And some of our Country-men have practised to give them Bay-salt,<app subtype="del" type="vocabulary">
                         <lem wit="#b1623" />
@@ -10946,7 +10946,7 @@
                         <lem wit="#b1623">they</lem>
                         <rdg wit="#b1609" source="1609.xml#ch9ancs17 1609.xml#ch9ance17"><anchor xml:id="ch9ancs17" data-origfile="1609" type="attachmentCollation" subtype="start" />the Bees<anchor xml:id="ch9ance17" data-origfile="1609" type="attachmentCollation" subtype="end" /></rdg></app> be preseved by them without Honie. </p>
                 <note place="inline" subtype="gloss" type="authorial" xml:id="ch8glon4">Touching the
-                    counsell of <persName> Plinie.</persName> this is to be noted, that if you place
+                    counsell of <persName> Plinie,</persName> this is to be noted, that if you place
                     their food <foreign corresp="#ch8transn3" xml:lang="la">ad fores</foreign> before the doore, it will
                     draw strange Bees unto them: whereby the lives of the one, and the goods of the
                     other will be indangered: if you place it abroad from your Hive, then will it be
@@ -10973,7 +10973,7 @@
                             upon. This Prop may be a woodden grate seven or eight inches square,
                             made of two sides halfe an inch deepe, and three ribs fastened into them
                             with Dove-railes, or with small nailes. For a need two severall square
-                            stickes may serve: but then you cannot so quickly either see it in, or
+                            stickes may serve: but then you cannot so quickly either set it in, or
                             take it out. </lem>
                         <rdg wit="#b1609" />
                     </app></p>
@@ -10982,8 +10982,8 @@
                             and the Bees worke is past) place this upon the stoole: so that the
                             Feeding-combe be reared as neere the Hive-combes as may be, not touching
                             them, lest the Bees fasten this and them together. Then see that the
-                            Hive, set downe in his place, be close every where: and at the doore but
-                            room enough for a Bee or two to passe. Then will these Bees to worke
+                            Hive, set downe in his place, be close everie where: and at the doore but
+                            roome enough for a Bee or two to passe. Then will these Bees to worke
                             afresh, not ceasing day nor night untill they have rid the Combe cleane:
                             which within eight and fortie houres will be effected. If they need any
                             more, the next evening doe <fw type="catch"> likewise.</fw>
@@ -11023,7 +11023,7 @@
                             they cannot now shut them up, as before <term>Virgo,</term> for want of
                             wax<seg rend='roman'>;</seg> <ref target="#ch8bibln13"><seg rend="italic"> </seg><seg rend="italic">v</seg><seg rend="italic">.</seg></ref>
                             <note subtype="bibliographic" type="authorial" xml:id="ch8bibln13">
-                                <ref target="#ch6sumn15"><seg rend="italic"> </seg><seg rend="italic">V</seg><seg rend="italic">.</seg><seg rend="italic">c</seg><seg rend="italic">.</seg><seg rend="normal">6</seg><seg rend="italic">.</seg><seg rend="italic"> </seg><seg rend="italic">n</seg><seg rend="italic">.</seg><seg rend="normal">1</seg><seg rend="normal">5</seg><seg rend="italic">.</seg></ref>
+                                <ref target="#ch6sumn15"><seg rend="italic"> </seg><seg rend="italic">V</seg><seg rend="italic">.</seg><seg rend="italic">c</seg><seg rend="italic">.</seg><seg rend="normal">6</seg><seg rend="italic">.</seg><seg rend="italic">n</seg><seg rend="italic">.</seg><seg rend="normal">1</seg><seg rend="normal">5</seg><seg rend="italic">.</seg></ref>
                             </note> they doe but halfe-fill. And therefore they first spend of this
                             last gotten hony, reserving that, which was more safely laid up, unto
                             the last. </lem>
@@ -11033,7 +11033,7 @@
                     <app subtype="change" type="minor">
                         <lem wit="#b1623">It is good</lem>
                         <rdg wit="#b1609" source="1609.xml#ch9ancs18 1609.xml#ch9ance18"><anchor xml:id="ch9ancs18" data-origfile="1609" type="attachmentCollation" subtype="start" />But it is far better <anchor xml:id="ch9ance18" data-origfile="1609" type="attachmentCollation" subtype="end" /></rdg></app> to feed Bees before they need: (that they may save their store, which
-                    they have shut up in their Cells, until the spring) namely, in <app subtype="del" type="major">
+                    they have shut up in their Cells, untill the spring) namely, in <app subtype="del" type="major">
                         <lem wit="#b1623" />
                         <rdg wit="#b1609" source="1609.xml#ch9ancs19 1609.xml#ch9ance19"><p xml:id="ch9par11" data-origfile="1609">
                     <note subtype="summary" type="authorial" xml:id="ch9sumn11" data-origfile="1609">12 <hi rend="italic" data-origfile="1609">The benefit of rathe feeding.</hi>
@@ -11048,7 +11048,7 @@
                         <lem wit="#b1623">the later part of <term> Virgo,</term> when the Combes are
                             taken, <ref target="#ch8bibln14"><seg rend="italic">v</seg><seg rend="italic">.</seg></ref>
                             <note subtype="bibliographic" type="authorial" xml:id="ch8bibln14">
-                                <ref target="#ch10p1sumn2"><seg rend="italic">V</seg><seg rend="italic">.</seg><seg rend="italic">c</seg><seg rend="italic">.</seg><seg rend="italic"> </seg><seg rend="normal">1</seg><seg rend="normal">0</seg><seg rend="italic">.</seg><seg rend="italic">p</seg><seg rend="italic">.</seg><seg rend="normal">1</seg><seg rend="italic">.</seg><seg rend="italic">n</seg><seg rend="italic">.</seg><seg rend="italic"> </seg><seg rend="normal">2</seg><seg rend="italic">.</seg></ref>
+                                <ref target="#ch10p1sumn2"><seg rend="italic">V</seg><seg rend="italic">.</seg><seg rend="italic">c</seg><seg rend="italic">.</seg><seg rend="normal">1</seg><seg rend="normal">0</seg><seg rend="italic">.</seg><seg rend="italic">p</seg><seg rend="italic">.</seg><seg rend="normal">1</seg><seg rend="italic">.</seg><seg rend="italic">n</seg><seg rend="italic">.</seg><seg rend="normal">2</seg><seg rend="italic">.</seg></ref>
                             </note> or in <term> Libra.</term> For those that have spent their owne
                             store, and have little or nothing leaft in the end of Winter, as so
                             discouraged and so feeble with fasting<seg rend='roman'>;</seg> that knowing their thin bodies
@@ -11065,7 +11065,7 @@
                     will abroad, and fetch in that fruitfull <term> Ambrosia,</term> which causeth
                     them presently to <app subtype="change" type="vocabulary">
                         <lem wit="#b1623">increase and multiply</lem>
-                        <rdg wit="#b1609" source="1609.xml#ch9ancs20 1609.xml#ch9ance20"><anchor xml:id="ch9ancs20" data-origfile="1609" type="attachmentCollation" subtype="start" />breed<anchor xml:id="ch9ance20" data-origfile="1609" type="attachmentCollation" subtype="end" /></rdg></app>. <ref target="#ch4sumn12"><seg rend="italic"> </seg><seg rend="italic">v</seg><seg rend="italic">.</seg><seg rend="italic">c</seg><seg rend="italic">.</seg><seg rend="italic"> </seg><seg rend="normal">4</seg><seg rend="italic">.</seg><seg rend="italic">n</seg><seg rend="italic">.</seg><seg rend="normal">1</seg><seg rend="normal">2</seg><seg rend="italic">.</seg></ref></p>
+                        <rdg wit="#b1609" source="1609.xml#ch9ancs20 1609.xml#ch9ance20"><anchor xml:id="ch9ancs20" data-origfile="1609" type="attachmentCollation" subtype="start" />breed<anchor xml:id="ch9ance20" data-origfile="1609" type="attachmentCollation" subtype="end" /></rdg></app>. <ref target="#ch4sumn12"><seg rend="italic"> </seg><seg rend="italic">v</seg><seg rend="italic">.</seg><seg rend="italic">c</seg><seg rend="italic">.</seg><seg rend="normal">4</seg><seg rend="italic">.</seg><seg rend="italic">n</seg><seg rend="italic">.</seg><seg rend="normal">1</seg><seg rend="normal">2</seg><seg rend="italic">.</seg></ref></p>
                 <app subtype="del" type="major">
                     <lem wit="#b1623" />
                     <rdg wit="#b1609" source="1609.xml#ch9ancs21 1609.xml#ch9ance21"><p xml:id="ch9par13" data-origfile="1609">
@@ -11118,7 +11118,7 @@
                         <rdg wit="#b1609" source="1609.xml#ch9ancs25 1609.xml#ch9ance25"><anchor xml:id="ch9ancs25" data-origfile="1609" type="attachmentCollation" subtype="start" />knife<anchor xml:id="ch9ance25" data-origfile="1609" type="attachmentCollation" subtype="end" /></rdg></app>, that it may sinke into the Cells: (for which purpose Live-hony is <app subtype="del" type="vocabulary">
                         <lem wit="#b1623" />
                         <rdg wit="#b1609" source="1609.xml#ch9ancs26 1609.xml#ch9ance26"><anchor xml:id="ch9ancs26" data-origfile="1609" type="attachmentCollation" subtype="start" />the<anchor xml:id="ch9ance26" data-origfile="1609" type="attachmentCollation" subtype="end" /></rdg></app>best) <app subtype="add" type="minor">
-                        <lem wit="#b1623">then use this honied combe as the Hony-combe. <ref target="#ch8sumn11"><seg rend="italic"> </seg><seg rend="italic">v</seg><seg rend="italic">.</seg><seg rend="italic">n</seg><seg rend="italic">.</seg><seg rend="italic"> </seg><seg rend="normal">1</seg><seg rend="normal">1</seg><seg rend="italic">.</seg></ref></lem>
+                        <lem wit="#b1623">then use this honied combe as the Hony-combe. <ref target="#ch8sumn11"><seg rend="italic"> </seg><seg rend="italic">v</seg><seg rend="italic">.</seg><seg rend="italic">n</seg><seg rend="italic">.</seg><seg rend="normal">1</seg><seg rend="normal">1</seg><seg rend="italic">.</seg></ref></lem>
                         <rdg wit="#b1609" />
                     </app></p>
                 <app subtype="del" type="major">
@@ -11156,7 +11156,7 @@
                     <app subtype="add" type="major">
                         <lem wit="#b1623">If either these fed Bees, or any other, chance afterward
                             to lacke (namely in <term> Taurus</term>, or somwhat before or after)
-                            then feed them daily untill mid-<term> Gemini</term>, giving them,
+                            then feed them daily untill mid-<term>Gemini</term>, giving them,
                             everie evening or morning betimes, a spoonefull of Honie<seg rend='roman'>;</seg> and taking
                             away the Combe againe before other Bees be at worke. But this is to be
                             done without intermission: for the Bees will duly looke for it, and
@@ -11177,7 +11177,7 @@
             <pb n="T1r" />
             <fw type="ornament" />
             <div n="9" type="chapter" xml:id="ch9">
-                <head type="chapter-number">CHAP. IX</head>
+                <head type="chapter-number">CHAP. IX.</head>
                 <head type="chapter-title">Of the removing of Bees.</head>
                 <p xml:id="ch9par1"><note subtype="summary" type="authorial" xml:id="ch9sumn1">1. <seg rend="italic">Five things to be avoided in removing Bees. </seg></note>
                     <app subtype="add" type="major">
@@ -11187,7 +11187,7 @@
                             and losse of Bees. </lem>
                         <rdg wit="#b1609" />
                     </app></p>
-                <p xml:id="ch9par2"><note subtype="summary" type="authorial" xml:id="ch9sumn2">2. <seg rend="italic">Remove alwaies in faire weather </seg></note> Remove alwaies in a faire day, and,
+                <p xml:id="ch9par2"><note subtype="summary" type="authorial" xml:id="ch9sumn2">2. <seg rend="italic">Remove alwaies in faire weather. </seg></note> Remove alwaies in a faire day, and,
                     as neere as you can guesse, in setled weather. For when they are moved to
                     another place, if it be within their circuit or walke<seg rend='roman'>;</seg> they will flie to their
                     old standing as soone as they are let goe, and hanker about it <app subtype="del" type="vocabulary">
@@ -11247,9 +11247,9 @@
                         <rdg wit="#b1609" />
                     </app></p>
                 <p xml:id="ch9par7"><note subtype="summary" type="authorial" xml:id="ch9sumn5">5. <seg rend="italic">The Autumne and Spring are fit times for removing. </seg></note> The fittest time
-                    is either in <term> Libra</term> and the fore-part of <term>Scorpio</term>, that
+                    is either in <term> Libra</term>, and the fore-part of <term>Scorpio</term>, that
                     they may thoroughly know their new standing before the weather be too cold<seg rend='roman'>;</seg> or
-                    in <term> Aries</term> and the later part of <term>Pisces,</term> that they may
+                    in <term> Aries</term>, and the later part of <term>Pisces,</term> that they may
                     be acquainted with it before much gathering of Honie. </p>
                 <p xml:id="ch9par8">Neverthelesse, if you have Bees in other mens keeping, whose
                     care and skill you mistrust<seg rend='roman'>;</seg> you were better to remove them <app subtype="add" type="minor">
@@ -11260,8 +11260,8 @@
                         <rdg wit="#b1609" source="1609.xml#ch8ancs5 1609.xml#ch8ance5"><anchor xml:id="ch8ancs5" data-origfile="1609" type="attachmentCollation" subtype="start" />in sommer before
                         <term rend="italic" data-origfile="1609">Virgo</term> for feare of robbing<seg rend='roman'>;</seg> or in winter for feare of mise &amp;
                     other evils,<anchor xml:id="ch8ance5" data-origfile="1609" type="attachmentCollation" subtype="end" /></rdg></app> than to hazard all by their ignorance and negligence.</p>
-                <p xml:id="ch9par9"><note subtype="summary" type="authorial" xml:id="ch9sumn6">6. <seg rend="italic">Libra, the best moneth in all the yeere. </seg></note> But if you may choose,
-                    remove in <term>Libra</term> onely, which is simply the best.</p>
+                <p xml:id="ch9par9"><note subtype="summary" type="authorial" xml:id="ch9sumn6">6. <seg rend="italic"><hi rend="opposite">Libra</hi>, the best moneth in all the yeere.</seg></note> But if you may choose,
+                    remove in <term>Libra</term> onely: which is simply the best.</p>
                 <p xml:id="ch9par10"><note subtype="summary" type="authorial" xml:id="ch9sumn7">7. <seg rend="italic">When to remove a swarme. </seg></note>
                     <app subtype="add" type="major">
                         <lem wit="#b1623">And for the removing of a Swarme into an other Garden,
@@ -11280,7 +11280,7 @@
                         <lem wit="#b1623" />
                         <rdg wit="#b1609" source="1609.xml#ch8ancs6 1609.xml#ch8ance6"><anchor xml:id="ch8ancs6" data-origfile="1609" type="attachmentCollation" subtype="start" />&amp; of sufficient breadth,<anchor xml:id="ch8ance6" data-origfile="1609" type="attachmentCollation" subtype="end" /></rdg></app> and covered it with your Mantle, so, that the middle of the mantle be
                     over the middle of the stoole<seg rend='roman'>;</seg> move the stall with his stoole, if you may, a
-                    little aside<seg rend='roman'>;</seg> and set the covered stoole close <fw type="catch"> to</fw>
+                    little aside<seg rend='roman'>;</seg> and set this covered stoole close <fw type="catch"> to</fw>
                     <pb n="T2r" />
                     <fw type="header"> Of the Removing of Bees. </fw> to the old stoole, either
                     beside it, or before it. This done, lift up the stall from his old stoole and
@@ -11288,7 +11288,7 @@
                     remaine) with your Brush<seg rend='roman'>;</seg> either take the stoole away, or cover it with a cloth.
                     And then if your new stoole be onely a planke without legs, borne up by some
                     other meanes<seg rend='roman'>;</seg> it is good to set it upon the old. Within a while when the Bees
-                    are all in, knit the mantle at the foure corners over the top of the Hive so as
+                    are all in, knit the mantle at the foure corners over the top of the Hive, so as
                     the knots may not slip: and presently binde it to the Hive about the middle
                     slackly with a small line, and wrest it fast with a little sticke. And so is the
                     stall readie to be removed.</p>
@@ -11314,14 +11314,14 @@
                     </app></note>
                 <p xml:id="ch9par14"><note subtype="summary" type="authorial" xml:id="ch9sumn12">12. <seg rend="italic">How a bad. </seg></note> If it be light, one may carrie it in his hand. But,
                     howsoever, be sure it hang perpendicularly for feare of breaking the Combes<seg rend='roman'>;</seg>
-                    specially if you chance to remove before <term>Libra</term>, when the waxe is
-                    soft and the lower parts of the Combes are heavie with <app subtype="change" type="vocabulary">
+                    specially if you chance to remove before <term>Libra</term>, when the wax is
+                    soft, and the lower parts of the Combes are heavie with <app subtype="change" type="vocabulary">
                         <lem wit="#b1623">Schadons</lem>
                         <rdg wit="#b1609" source="1609.xml#ch8ancs9 1609.xml#ch8ance9"><anchor xml:id="ch8ancs9" data-origfile="1609" type="attachmentCollation" subtype="start" />yong Bees<anchor xml:id="ch8ance9" data-origfile="1609" type="attachmentCollation" subtype="end" /></rdg></app><app subtype="add" type="minor">
                         <lem wit="#b1623">, as well as the upper with Honie. </lem>
                         <rdg wit="#b1609" />
                     </app></p>
-                <p xml:id="ch9par15"><note subtype="summary" type="authorial" xml:id="ch9sumn13">13. <seg rend="italic">What to doe when they are brought home. </seg></note> When you have brought the
+                <p xml:id="ch9par15"><note subtype="summary" type="authorial" xml:id="ch9sumn13">13. <seg rend="italic">What to do when they are brought home. </seg></note> When you have brought the
                     Stall home, you may let it stand bound as it is, all night in the house. The
                     morrow, when the weather serveth, set him on his seat: <app subtype="add" type="minor">
                         <lem wit="#b1623">but if it be foule all the next day, keepe him still bound
