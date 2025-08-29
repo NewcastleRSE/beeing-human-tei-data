@@ -5755,7 +5755,7 @@
                     </quote></p>
                 <p xml:id="ch5par6"><app subtype="add" type="major">
                         <lem wit="#b1623"><ref target="#ch4glon6">*</ref>Dry weather makes plenty of
-                            hony, and <ref target="#ch5glon2">†</ref> <ref target="#ch4ednote8x" type="attachment" xml:id="ch5ednatt8x">moist of swarms</ref>.<note xml:id="ch4ednote8x" type="editorial" subtype="gloss" resp="#JR">Cloud of swarms? Butler may be using ‘moist’ as a noun poetically.</note> But note that
+                            hony, and <ref target="#ch5glon2">†</ref> <ref target="#ch4ednote8x" type="attachment" xml:id="ch5ednatt8x">moist of swarms</ref>.<note resp="#JR" subtype="gloss" type="editorial" xml:id="ch4ednote8x">Cloud of swarms? Butler may be using ‘moist’ as a noun poetically.</note> But note that
                             the chiefe time for breeding swarmes is the Spring, <ref target="#ch5bibln7">v.</ref>
                             <note subtype="bibliographic" type="authorial" xml:id="ch5bibln7">
                                 <ref target="#ch4sumn13">V.c.4.n.13.</ref>
@@ -5898,7 +5898,7 @@
                 </p>
                 <note place="inline" subtype="gloss" type="authorial" xml:id="ch5glon4"><app subtype="add" type="minor">
                         <lem wit="#b1623">Note heere that in the <ref target="#ch5ednote22" type="attachment" xml:id="ch5ednatt22">Heath-countrie</ref>,<note resp="#JR" source="OED" subtype="gloss" type="editorial" xml:id="ch5ednote22">Open uncultivated ground (heath, OED 1a).</note>
-                            swarmes are usually <ref target="#ch5ednote22x" type="attachment" xml:id="ch5ednatt22x">lateward</ref>,<note subtype="gloss" type="editorial" xml:id="ch5ednote22x" resp="#JR">Late; at a late hour; after the proper time or season. Now archaic and rare. (adv., OED 3)</note> namely in the latter part of <term>
+                            swarmes are usually <ref target="#ch5ednote22x" type="attachment" xml:id="ch5ednatt22x">lateward</ref>,<note resp="#JR" subtype="gloss" type="editorial" xml:id="ch5ednote22x">Late; at a late hour; after the proper time or season. Now archaic and rare. (adv., OED 3)</note> namely in the latter part of <term>
                                 Cancer</term> and the forepart of <term>Leo:</term> which some
                             yeeres prove better than the rathe.</lem>
                         <rdg wit="#b1609"></rdg>
@@ -5977,7 +5977,7 @@
                     that, in the <app subtype="change" type="vocabulary">
                         <lem wit="#b1623">swarming,</lem>
                         <rdg wit="#b1609"><ptr target="1609.xml#ch5ancs16 1609.xml#ch5ance16"></ptr></rdg>
-                    </app> a <ref target="#ch5ednote26x" type="attachment" xml:id="ch5ednatt26x">blacke cloud</ref><note subtype="gloss" type="editorial" xml:id="ch5ednote26x" resp="#JR">The swarming bees: <q rend="marks">innumerable body of insects, birds</q> (cloud, n., OED 7). See also: <q rend="marks">And see from yon old Oak, that mates the Skies, / How black the Clouds of swarming Bees arise</q> (Virgil, Works, 1697, trans. Dryden, E5r).</note> rising stayeth part of them that are alreadie come forth,
+                    </app> a <ref target="#ch5ednote26x" type="attachment" xml:id="ch5ednatt26x">blacke cloud</ref><note resp="#JR" subtype="gloss" type="editorial" xml:id="ch5ednote26x">The swarming bees: <q rend="marks">innumerable body of insects, birds</q> (cloud, n., OED 7). See also: <q rend="marks">And see from yon old Oak, that mates the Skies, / How black the Clouds of swarming Bees arise</q> (Virgil, Works, 1697, trans. Dryden, E5r).</note> rising stayeth part of them that are alreadie come forth,
                     and lie about the hives-doore: sometime when they are all up, either fearing a
                     cloud, or disliking the lighting-place, or being troubled in the hiving, part
                     doth returne.</p>
@@ -6449,7 +6449,7 @@
                     </app>, yea and of the day among foure or five is permitted unto them, as best
                     knowing the disposition of the weather. </p>
                 <p xml:id="ch5par32"><note subtype="summary" type="authorial" xml:id="ch5sumn28">28.
-                    <anchor corresp="#ch5ednote49v" xml:id="anchorstart3" type="attachmentEditorialNote" subtype="start"/><anchor corresp="#ch5ednote49x" subtype="start" type="attachmentEditorialNote" xml:id="anchorStart2"></anchor>The Bees Musicke.<anchor corresp="#ch5ednote49x" subtype="end" type="attachmentEditorialNote" xml:id="anchorEnd2"></anchor><anchor corresp="#ch5ednote49v" xml:id="anchorEnd3" type="attachmentEditorialNote" subtype="end"/></note><note corresp="#anchorStart2 #anchorEnd2" resp="#LB" source="journal" subtype="gloss" type="editorial" xml:id="ch5ednote49x">Tooting and quacking
+                    <anchor corresp="#ch5ednote49v" subtype="start" type="attachmentEditorialNote" xml:id="anchorstart3"></anchor><anchor corresp="#ch5ednote49x" subtype="start" type="attachmentEditorialNote" xml:id="anchorStart2"></anchor>The Bees Musicke.<anchor corresp="#ch5ednote49x" subtype="end" type="attachmentEditorialNote" xml:id="anchorEnd2"></anchor><anchor corresp="#ch5ednote49v" subtype="end" type="attachmentEditorialNote" xml:id="anchorEnd3"></anchor></note><note corresp="#anchorStart2 #anchorEnd2" resp="#LB" source="journal" subtype="gloss" type="editorial" xml:id="ch5ednote49x">Tooting and quacking
                         are sophisticated acoustic signals generated by honeybee queens through
                         thoracic muscle vibrations (wings do not vibrate). These signals are
                         transmitted as substrate-borne vibrations through the combs and perceived by
