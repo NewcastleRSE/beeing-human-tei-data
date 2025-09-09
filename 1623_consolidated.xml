@@ -11330,7 +11330,7 @@
             <fw type="catch"> CHAP.</fw>
             <pb n="T2v" />
             <div n="10" type="chapter" xml:id="ch10">
-                <head type="chapter-number">Chap. X.</head>
+                <head type="chapter-number">CHAP. X.</head>
                 <head type="chapter-title">Of the fruit and profit of Bees.</head>
                 <p xml:id="ch10par1">Wherein is shewed first the <term>Vindemiation</term> or taking
                     of the Combes: secondly the trying of the <term>Wax</term> and
@@ -11352,9 +11352,9 @@
                         corrupt the same, <note subtype="summary" type="authorial" xml:id="ch10p1sumn2">2. <seg rend="italic">The best time for killing Bees. </seg></note>
                         <quote>
                             <foreign corresp="#ch9transn2" xml:lang="la">Pulli &amp; rubrae sordes sunt mali saporis,
-                                &amp; succo suo mella corrumpunt.</foreign><note resp="#HH" subtype="translation" type="editorial" xml:id="ch9transn2">The grubs and the dirty red stuff  have a bad taste and their juices infect the honey. Columella, <hi rend="italic">De Re Rustica</hi> IX.15.12</note>
+                                &amp; succo suo mella corrumpunt)</foreign><note resp="#HH" subtype="translation" type="editorial" xml:id="ch9transn2">The grubs and the dirty red stuff  have a bad taste and their juices infect the honey. Columella, <hi rend="italic">De Re Rustica</hi> IX.15.12</note>
                             <note subtype="bibliographic" type="authorial" xml:id="ch10p1bibln1">
-                                <bibl> Col.l.9.c.15</bibl>
+                                <bibl> Col.l.9.c.15.</bibl>
                             </note>
                         </quote> and after that time, the weather waxeth colder, not so fit for the
                         running and working of the Honie: and the Honie is likely to decrease,
@@ -11375,13 +11375,13 @@
                         lightly are fat, and therefore worth the taking: but they are also good for
                         store, unlesse the frequent Honi-dewes have made them over fat. But those of
                         that age which have cast twice (except they were very forward and had beat
-                        away their Drones betimes) are they not likely to<ref target="#ch10p1glon1"><seg rend="italic">*</seg></ref> continue, and therefore are to be taken. </p>
+                        away their Drones betimes) are they not likely to<ref target="#ch10p1glon1"><seg rend="italic">*</seg></ref> continue: and therefore are to be taken. </p>
                     <note place="inline" subtype="gloss" type="authorial" xml:id="ch10p1glon1">*If
                         you would have any such to stand an other yeere, and not to bee weakened by
                         his late castling<seg rend='roman'>;</seg> put it backe into the stocke againe, <ref target="#ch5sumn11"><seg rend="italic"> </seg><seg rend="italic">v</seg><seg rend="italic">.</seg><seg rend="italic">c</seg><seg rend="italic">.</seg><seg rend="normal">5</seg><seg rend="italic">.</seg><seg rend="italic">n</seg><seg rend="italic">.</seg><seg rend="normal">1</seg><seg rend="normal">1</seg><seg rend="italic">.</seg><seg rend="italic"> </seg></ref></note>
                     <p xml:id="ch10p1par3">Likewise all poore swarms unworthy to be fed, <ref target="#ch10p1bibln3"><seg rend="italic">v</seg><seg rend="italic">.</seg></ref>
                         <note subtype="bibliographic" type="authorial" xml:id="ch10p1bibln3">
-                            <ref target="#ch8sumn4"><seg rend="italic">v</seg><seg rend="italic">.</seg><seg rend="italic">c</seg><seg rend="italic">.</seg><seg rend="italic"> </seg><seg rend="normal">8</seg><seg rend="italic">.</seg><seg rend="italic">n</seg><seg rend="italic">.</seg><seg rend="italic"> </seg><seg rend="normal">4</seg><seg rend="italic">.</seg></ref>
+                            <ref target="#ch8sumn4"><seg rend="italic">v</seg><seg rend="italic">.</seg><seg rend="italic">c</seg><seg rend="italic">.</seg><seg rend="normal">8</seg><seg rend="italic">.</seg><seg rend="italic">n</seg><seg rend="italic">.</seg><seg rend="normal">4</seg><seg rend="italic">.</seg></ref>
                         </note> and all light stocks whose stocks are decayed: <ref target="#ch10p1bibln4"><seg rend="italic"> </seg><seg rend="italic">v</seg><seg rend="italic">.</seg></ref>
                         <note subtype="bibliographic" type="authorial" xml:id="ch10p1bibln4">
                             <ref target="#ch8sumn6"><seg rend="italic"> </seg><seg rend="italic">V</seg><seg rend="italic">.</seg><seg rend="italic">c</seg><seg rend="italic">.</seg><seg rend="normal">8</seg><seg rend="italic">.</seg><seg rend="italic">n</seg><seg rend="italic">.</seg><seg rend="normal">6</seg><seg rend="italic">.</seg><seg rend="italic"> </seg></ref>
@@ -11421,7 +11421,7 @@
                         <pb n="T3v" />
                         <fw type="header"> Of the fruit and profit of Bees. </fw> deepe and almost
                         as wide as the Hive-skirts: laying the small earth round about the brims.
-                        Then having a litte-sticke slit in one end, &amp; shript at the other, take
+                        Then having a little sticke slit in one end, &amp; shript at the other, take
                         a <ref target="ch10p1glon2"><seg rend="italic">&#8224;</seg></ref> Brimstone-match 5. or 6. inches long,
                         and about the bignesse of your little finger, and making it fast in the
                         slit, sticke the sticke in the middle or side of the hoale<seg rend='roman'>;</seg> so that the top
@@ -11435,7 +11435,7 @@
                         store-Bees be at rest: which otherwise will trouble you in handling the
                         Honie, if by any meanes they may come at you. But if the weather be cold
                         enough to keepe them in, or the house bee close enough to keepe them out<seg rend='roman'>;</seg>
-                        you may take whay time of the day you please. </note>
+                        you may take what time of the day you please. </note>
                     <note place="inline" subtype="gloss" type="authorial" xml:id="ch10p1glon3">&#8224;Matches are made of linnen rags and Brimstone, after the manner that maids
                         make Sluts. First, melt pounded Brimstone: then take a linnen rag a foot
                         long, and holding both the ends in one hand, dip the rest in the melted
@@ -11453,9 +11453,9 @@
                         Bees being dead, carrie the Hive into the house, &amp;c. <ref target="#ch10p2"><seg rend="italic"> </seg><seg rend="italic">S</seg><seg rend="italic">e</seg><seg rend="italic">e</seg><seg rend="italic"> </seg><seg rend="italic">P</seg><seg rend="italic">a</seg><seg rend="italic">r</seg><seg rend="italic">t</seg><seg rend="italic"> </seg><seg rend="normal">2</seg><seg rend="italic">.</seg><seg rend="italic"> </seg></ref> If any Bees escape, they will die
                         that night: but if you feare they will doe any harme, you may kill them
                         presently upon the Stoole. </p>
-                    <p xml:id="ch10p1par9"><note subtype="summary" type="authorial" xml:id="ch10p1sumn7">7. <seg rend="italic">The second kinde of Vindemiation. </seg></note> ANother
+                    <p xml:id="ch10p1par9"><note subtype="summary" type="authorial" xml:id="ch10p1sumn7">7. <seg rend="italic">The second kinde of Vindemiation. </seg></note> <hi rend="drop-capital">A</hi>Nother
                         way to take the Combes is by Driving the Bees. The maner of it is this. At
-                        Mid-summer, or wihin two or three daies after, in a faire morning an houre
+                        Mid-summer, or within two or three daies after, in a faire morning an houre
                         before Sun- <fw type="catch"> rising,</fw>
                         <pb n="T4r" />
                         <fw type="header"> Of the fruit and profit of Bees. </fw> rising, lift the
@@ -11484,13 +11484,13 @@
                     <p xml:id="ch10p1par11"><note subtype="summary" type="authorial" xml:id="ch10p1sumn9">9. <seg rend="italic">This driving of Bees unprofitable. </seg></note> This
                         kinde of taking is much applauded at the first, because men thinke thereby
                         to save both Bees and Honie: but it falleth out with them as it is in the <quote>
-                            <bibl>Proverbe,</bibl>All covet, all lose.</quote>
+                            <bibl>Proverbe,</bibl><hi rend="italic">All covet, all lose.</hi></quote>
                         <note subtype="summary" type="authorial" xml:id="ch10p1sumn10">10. <seg rend="italic">The Honie taken is little and naught. </seg></note>For the Honie is neither so good, as
                         being not yet in season, and to bee corrupted with the Schadons, <ref target="#ch10p1bibln10"><seg rend="italic">v</seg><seg rend="italic">.</seg></ref>
                         <note subtype="bibliographic" type="authorial" xml:id="ch10p1bibln10">
                             <ref target="#ch10p1sumn2"><seg rend="italic"> </seg><seg rend="italic">V</seg><seg rend="italic">.</seg><seg rend="italic">n</seg><seg rend="italic">.</seg><seg rend="normal">2</seg><seg rend="italic">.</seg><seg rend="italic"> </seg></ref>
                         </note> which can hardly be cleane taken from it<seg rend='roman'>;</seg> neither so much by almost
-                        the one halfe, sith there remaine yet six or seven weekes of
+                        the one halfe, sith there remaine yet six or seven weeekes of
                         Honie-gathering. </p>
                     <p xml:id="ch10p1par12"><note subtype="summary" type="authorial" xml:id="ch10p1sumn11">11. <seg rend="italic">And the Bees driven, few and poore. </seg></note> And
                         the Bees, as men forcibly driven from their goods and children, are so
@@ -11517,22 +11517,22 @@
                         </note> and some in <term>Aquarius</term> or <term> Pisces,</term> before
                         they begin to breed againe. <ref target="#ch4sumn12"><seg rend="italic"> </seg><seg rend="italic">v</seg><seg rend="italic">.</seg><seg rend="italic">c</seg><seg rend="italic">.</seg><seg rend="normal">4</seg><seg rend="italic">.</seg><seg rend="italic">n</seg><seg rend="italic">.</seg><seg rend="normal">1</seg><seg rend="normal">2</seg><seg rend="italic">.</seg><seg rend="italic"> </seg></ref>
                     </p>
-                    <p xml:id="ch10p1par15"><note subtype="summary" type="authorial" xml:id="ch10p1sumn14">14. <seg rend="italic">Driving in Virgo. </seg></note> In <term>Virgo</term>
-                        such stalls onely are to be driven, as are fit to bee killed. <ref target="#ch10p1bibln12"><seg rend="italic">v</seg><seg rend="italic">.</seg></ref>
+                    <p xml:id="ch10p1par15"><note subtype="summary" type="authorial" xml:id="ch10p1sumn14">14. <seg rend="italic">Driving in <hi rend="opposite">Virgo.</hi></seg></note> In <term>Virgo</term>
+                        such stalls onely are to be driven, as are fit to bee killed: <ref target="#ch10p1bibln12"><seg rend="italic">v</seg><seg rend="italic">.</seg></ref>
                         <note subtype="bibliographic" type="authorial" xml:id="ch10p1bibln12">
                             <ref target="#ch10p1sumn3"><seg rend="italic"> </seg><seg rend="italic">V</seg><seg rend="italic">.</seg><seg rend="italic">n</seg><seg rend="italic">.</seg><seg rend="normal">3</seg><seg rend="italic">.</seg><seg rend="italic"> </seg></ref>
                         </note> and that into yeerlings or two-yeerlings, which that yeere have cast
                         twice, and therefore have few Bees leaft in them<seg rend='roman'>;</seg> but yet have Honie enough. </p>
-                    <p xml:id="ch10p1par16"><note subtype="summary" type="authorial" xml:id="ch10p1sumn15">15. <seg rend="italic">The manner of driving in <term>Virgo</term>.</seg></note> The manner of it is this. Having first placed
+                    <p xml:id="ch10p1par16"><note subtype="summary" type="authorial" xml:id="ch10p1sumn15">15. <seg rend="italic">The manner of driving in <term><hi rend="italic">Virgo</hi></term>.</seg></note> The manner of it is this. Having first placed
                         these two stalles, the <term>Remover</term> that is driven, and the <term>
                             Receiver,</term> as neere as may be one to another, and so let them
-                        stand together six or seaven daies, til they be well acquainted with their
-                        standings<seg rend='roman'>;</seg> when you see the weather being faire and constant, late in an
+                        stand together six or seven daies, till they be well acquainted with their
+                        standings<seg rend='roman'>;</seg> when you see the weather faire and constant, late in an
                         evening, about ten a clocke, set the <term> Remover</term> fast on the
                         ground in a <ref target="#ch5ednote42yy" type="attachment" xml:id="ch5ednatt42yy">Brake</ref>,<note resp="#JR" source="OED" subtype="gloss" type="editorial" xml:id="ch5ednote42yy"><hi>Brake]</hi>
                             framework intended to hold anything steady (n.6, OED 2a).</note>
                         <ref target="#ch10p1bibln13"><seg rend="italic">v</seg><seg rend="italic">.</seg></ref>h <note subtype="bibliographic" type="authorial" xml:id="ch10p1bibln13">
-                            <ref target="#ch10p1sumn24"><seg rend="italic"> </seg><seg rend="italic">V</seg><seg rend="italic">.</seg><seg rend="italic">c</seg><seg rend="italic">.</seg><seg rend="italic">n</seg><seg rend="italic">.</seg><seg rend="normal">2</seg><seg rend="normal">4</seg><seg rend="italic">.</seg><seg rend="italic"> </seg></ref>
+                            <ref target="#ch10p1sumn24"><seg rend="italic"> </seg><seg rend="italic">V</seg><seg rend="italic">.</seg><seg rend="italic">c</seg><seg rend="italic">.</seg><seg rend="normal">5</seg><seg rend="italic">.</seg><seg rend="italic">n</seg><seg rend="italic">.</seg><seg rend="normal">2</seg><seg rend="normal">4</seg><seg rend="italic">.</seg><seg rend="italic"> </seg></ref>
                         </note> and the <term>Receiver</term> upon: and binde them close together,
                         as in the former driving. And then, by often clapping the <term>
                             Remover</term> betweene your hands about the space of a quarter of an
@@ -11540,7 +11540,7 @@
                         the <term>Receiver,</term> and so mingled them all together<seg rend='roman'>;</seg> let them so
                         stand til the morning. In the morning about Sun-rising, if the weather bee
                         faire<seg rend='roman'>;</seg> (otherwise you must stay <ref target="#ch10p1glon4"><seg rend="italic">*</seg></ref> longer)
-                        doe the like: having first shut and covered the other stalls, <ref target="#ch5sumn25"><seg rend="italic"> </seg><seg rend="italic">v</seg><seg rend="italic">.</seg><seg rend="italic">c</seg><seg rend="italic">.</seg><seg rend="normal">5</seg><seg rend="italic">.</seg><seg rend="italic">n</seg><seg rend="italic">.</seg><seg rend="normal">2</seg><seg rend="normal">5</seg><seg rend="italic">.</seg><seg rend="italic"> </seg></ref></p>
+                        doe the like: having first shut and covered the other stalls. <ref target="#ch5sumn25"><seg rend="italic"> </seg><seg rend="italic">v</seg><seg rend="italic">.</seg><seg rend="italic">c</seg><seg rend="italic">.</seg><seg rend="normal">5</seg><seg rend="italic">.</seg><seg rend="italic">n</seg><seg rend="italic">.</seg><seg rend="normal">2</seg><seg rend="normal">5</seg><seg rend="italic">.</seg><seg rend="italic"> </seg></ref></p>
                     <note place="inline" subtype="gloss" type="authorial" xml:id="ch10p1glon4">*If
                         the weather fit not the next day, you may safely stay till it doe fit<seg rend='roman'>;</seg> so
                         that no Bees get forth in the meane space. </note>
@@ -11555,7 +11555,7 @@
                         while clap him twice or thrice, which will make many of the Bees to fly
                         forth. Then remove him to another place about the former distance, and there
                         doe likewise: and so to an other, and an other, untill few or no Bees will
-                        come forth by this meanes <fw type="catch"> And</fw>
+                        come forth by this meanes. <fw type="catch"> And</fw>
                         <pb n="V1r" />
                         <fw type="header"> Of the fruit and profit of Bees. </fw> And ever when you
                         be come to a new place, and there have got out some Bees<seg rend='roman'>;</seg> leave there the
@@ -11568,7 +11568,7 @@
                         Hive: and then resting it on the edge of a Kiver, and turning the Bees
                         toward your readiest hand<seg rend='roman'>;</seg> with two or three claps force them out into the
                         Kiver: and then suddenly carry the Hive to an other place: and when you see
-                        more bees ascended, have it backe to againe to the Kiver, and there clap
+                        more bees ascended, have it backe againe to the Kiver, and there clap
                         them out as before. This iterate as often as you see any store arise unto
                         the upmost part of the Hive-skirt. Which when they cease to doe, the Hive is
                         well nigh rid of his Bees. Betweene whiles, carrie the Kiver to the stall,
@@ -11593,11 +11593,11 @@
                         Hives, those that you find by their lightnesse, unlikely to indure the
                         Spring for lacke of food, you may in like manner drive into such provided
                         Stalls, as have fewest Bees: and so wil those <term>Receivers</term> be much
-                        the better, and cast both the rather, and the greater Swarmes. And if by
+                        the better, and cast both the rather, and greater Swarmes. And if by
                         chance, at any time after, <fw type="catch"> you</fw>
                         <pb n="V1v" />
                         <fw type="header"> Of the fruit and profit of Bees. </fw> you find a Stall
-                        decayed, thus may you save them. Otherwise, if he be fit to be fed (<ref target="#ch8sumn5"><seg rend="italic"> </seg><seg rend="italic">v</seg><seg rend="italic">.</seg><seg rend="italic">c</seg><seg rend="italic">.</seg><seg rend="normal">8</seg><seg rend="italic">.</seg><seg rend="italic">n</seg><seg rend="italic">.</seg><seg rend="normal">5</seg><seg rend="italic">.</seg><seg rend="italic"> </seg></ref>) feed him, <ref target="#ch8sumn15"><seg rend="italic">v</seg><seg rend="italic">.</seg><seg rend="italic">c</seg><seg rend="italic">.</seg><seg rend="normal">8</seg><seg rend="italic">.</seg><seg rend="italic">n</seg><seg rend="italic">.</seg><seg rend="normal">1</seg><seg rend="normal">5</seg><seg rend="italic">.</seg><seg rend="italic"> </seg><seg rend="italic">a</seg><seg rend="italic">n</seg><seg rend="italic">d</seg><seg rend="italic"> </seg><seg rend="normal">1</seg><seg rend="normal">6</seg><seg rend="italic">.</seg></ref></p>
+                        decayed, thus may you save them. Otherwise, if he be fit to be fed (<ref target="#ch8sumn5"><seg rend="italic">v</seg><seg rend="italic">.</seg><seg rend="italic">c</seg><seg rend="italic">.</seg><seg rend="normal">8</seg><seg rend="italic">.</seg><seg rend="italic">n</seg><seg rend="italic">.</seg><seg rend="normal">5</seg><seg rend="italic">.</seg></ref>) feed him, <ref target="#ch8sumn15">v.c.8.n.15. <hi rend="opposite">and</hi> 16.</ref></p>
                     <p xml:id="ch10p1par21"><note subtype="summary" type="authorial" xml:id="ch10p1sumn18">18. <seg rend="italic">How to revive those that are chilled in driving. </seg></note> If, the weather being not warme, you finde some Bees
                         chilled about the Hive<seg rend='roman'>;</seg> fill your warme hands full of them, and anone they
                         will flie away to their fellowes. <ref target="#ch10p1bibln15"><seg rend="italic">v</seg><seg rend="italic">:</seg></ref>
@@ -11608,43 +11608,43 @@
                     <p xml:id="ch10p1par22">This driving will not bee so troublesom as the former,
                         because the poore Bees will easily change their hungry home for a place of
                         plentie. </p>
-                    <lb />
+                   
                     <p xml:id="ch10p1par23"><note subtype="summary" type="authorial" xml:id="ch10p1sumn19">19. <seg rend="italic">A third kind of Vindemiation. </seg></note>
                         <hi rend="drop-capital">E</hi>xsection or Castration, is a third kinde of
                         taking: which is the cutting out of part of the Combes, part being leaft for
                         the Bees provision. And this was to be done at two times in the yeare,<ref target="#ch10p1glon5"><seg rend="italic">*</seg></ref>
                         <foreign corresp="#ch10transn1" xml:lang="la">In ortu, &amp; occasu Virgiliarum</foreign>.<note resp="#HH" subtype="translation" type="editorial" xml:id="ch10transn1">At the rising and the setting of the Pleiades</note><note subtype="summary" type="authorial" xml:id="ch10p1sumn20">20. <seg rend="italic">Exsection used at two times. </seg></note></p>
                     <note place="inline" subtype="gloss" type="authorial" xml:id="ch10p1glon5">
-                        <foreign corresp="#ch10transn2" xml:lang="la">*Virgiliarum ortus</foreign><note resp="#HH" subtype="translation" type="editorial" xml:id="ch10transn2">The rising of the Pleiades. cf. Columella, <hi rend="italic">De Re Rustica</hi> IX.14.1</note> after <persName>
+                        <foreign corresp="#ch10transn2" xml:lang="la">*Vergiliarum ortus</foreign><note resp="#HH" subtype="translation" type="editorial" xml:id="ch10transn2">The rising of the Pleiades. cf. Columella, <hi rend="italic">De Re Rustica</hi> IX.14.1</note> after <persName>
                             Columella,</persName>
-                        <bibl>l.9.c.14.</bibl> is the eight and fortieth day from <foreign corresp="#ch10transn3" xml:lang="la"><term>Aequinoctium
-                            vernum</term></foreign>:<note resp="#HH" subtype="translation" type="editorial" xml:id="ch10transn3">spring equinox</note> after <persName>Var.</persName>: the foure and fortieth:
+                        <bibl>l.9.c.14.</bibl> is the eight and fortieth day from <foreign corresp="#ch10transn3" xml:lang="la"><term>AEquinoctium
+                            vernum</term></foreign>:<note resp="#HH" subtype="translation" type="editorial" xml:id="ch10transn3">spring equinox</note> after <persName>Var.</persName> the foure and fortieth:
                         but then you must understand that they accounted the
                             <term>Aequinoctium</term> to bee in the eight degree of
                             <term>Aries:</term> (although <persName> Hipparchus</persName>, as
-                            <persName>Columella</persName> saith, had then found it to be the first)
+                            <persName>Columella</persName> saith, had then found it to be in the first.)
                         With us the Cosmicall rising of <term> Virgiliae</term> or
-                            <term>Pleiades</term> being seven starres in the neck of <term>
-                            Taurus</term>, and in the four and twentieth degree of that signe, is
+                            <term>Pleiades</term>, being seven starres in the necke of <term>
+                            Taurus</term>, and in the foure and twentieth degree of that signe, is
                         knowne to be in the third of May, the five and fiftieth day after the true
-                            <term> aequinoctium</term>: which jumpeth with the account of <persName>
+                            <term> AEquinoctium</term>: which jumpeth with the account of <persName>
                             Columella.</persName> And <term>Virgiliarum occasus</term>, being in the
                         same degree of the opposite signe, is upon the fift day of November.</note>
                     <p xml:id="ch10p1par24"><note subtype="summary" type="authorial" xml:id="ch10p1sumn21">21. <seg rend="italic">What part to be exsacted is uncertaine. </seg></note>
-                        But what part is to be taken, and what leaft, I find it not determined. <quote>
+                        But what part is to be taken, and what leaft, I finde it not determined. <quote>
                             <foreign corresp="#ch10transn4" xml:lang="la">Priore messe <hi rend="opposite">(saith
                                     Columella)</hi> dum adhuc rura pastionibus abundant, quinta pars
                                 favorum<seg rend='roman'>;</seg> posteriore, cum jam metuitur hyems, tertia relinquenda
                                 est.</foreign><note resp="#HH" subtype="translation" type="editorial" xml:id="ch10transn4">In the earlier harvesting, while the countryside is still abundant with feed, a fifth of the honeycombs should be left, and in the later, when winter is threatening, a third. Columella, <hi rend="italic">De Re Rustica</hi> IX.15.8</note>
                             <note subtype="bibliographic" type="authorial" xml:id="ch10p1bibln16">
-                                <bibl> l.9. c.15</bibl>
+                                <bibl> l.9.c.15</bibl>
                             </note>
                         </quote> But <bibl xml:id="ch10p1bibln16X1"><persName>Varro</persName></bibl> then requireth for their store two
                         third parts<seg rend='roman'>;</seg> <quote>
                             <foreign corresp="#ch10transn5" xml:lang="la">Ut ne plus tertia pars eximatur mellis, reliquum
-                                hyemationi relinquatur</foreign><note resp="#HH" subtype="translation" type="editorial" xml:id="ch10transn5">So that a part no more than a third should be removed, the rest should be left for overwintering. Varro, <hi rend="italic">De Re Rustica</hi> III.16.34</note>
+                                hyemationi relinquatur.</foreign><note resp="#HH" subtype="translation" type="editorial" xml:id="ch10transn5">So that a part no more than a third should be removed, the rest should be left for overwintering. Varro, <hi rend="italic">De Re Rustica</hi> III.16.34</note>
                             <bibl><ptr target="#ch10p1bibln16X1" /></bibl>
-                        </quote>. And <bibl xml:id="ch10p1bibln16X2"><persName>
+                        </quote> And <bibl xml:id="ch10p1bibln16X2"><persName>
                             Aristotle</persName></bibl> because (as <persName>Columella</persName>
                         granteth) <quote>
                             <foreign corresp="#ch10transn6" xml:lang="la">hic modus non est in omnibus regionibus
@@ -11653,7 +11653,7 @@
                         prescribe any certaine part, but leaving it to the discretion of the
                         Bee-master, saith, <quote>
                             <foreign corresp="#ch10transn7" xml:lang="la">Cum favos apiarii eximunt, cibi tantum
-                                relinquant, quantum per hymem sufficiat: quod si satis sit, servatur
+                                relinquant, quantum per hyemem sufficiat: quod si satis sit, servatur
                                 examen<seg rend='roman'>;</seg> sin minus, vel moritur ibidem, (si ne discedat hyems obstet)
                                 vel deserit sedem, si serenum nanciscitur.</foreign><note resp="#HH" subtype="translation" type="editorial" xml:id="ch10transn7">When they remove the honeycombs from the hive, they should leave as much food as may suffice for the winter: which, if it is enough, will preserve the swarm<seg rend='roman'>;</seg> but if it is less, the swarm will either die (if the winter weather prevents it from leaving), or will desert its hive, if it has fair weather. <hi rend="italic">HA</hi> IX.40 (626a init.)</note>
                             <note subtype="bibliographic" type="authorial" xml:id="ch10p1bibln16X3">
@@ -11668,11 +11668,11 @@
                         Countries, as <placeName>Greece</placeName>, <placeName>Sicily,
                             Italy</placeName>, &amp;c. <note subtype="summary" type="authorial" xml:id="ch10p1sumn23">23. <seg rend="italic">Neither first. </seg></note>But the former exsection,
                         to wit, in the Spring, <persName> Aristotle</persName> no where mentioneth:
-                        and surely it must needs doe more harme then good, seeing the Hives are then
-                        full of Schadons which being spild, spill their swarming<seg rend='roman'>;</seg> and the store of
+                        and surely it must needs doe more harme than good, seeing the Hives are then
+                        full of Schadons, which being spild, spill their swarming<seg rend='roman'>;</seg> and the store of
                         Honie, which they seeke for, is then well spent. </p>
                     <p xml:id="ch10p1par26"><note subtype="summary" type="authorial" xml:id="ch10p1sumn24">24. <seg rend="italic">Nor second. </seg></note> And that also in the
-                        Autumne (which yet is the fitter time) seemeth no lesse unprofitable then
+                        Autumne (which yet is the fitter time) seemeth no lesse unprofitable than
                         troublesom: because the Bees, in the Spring following, if they lacke not
                         Honie to live on, yet shall they lacke Cells to lay their young in, whereby
                         their breed will bee hindered. And at neither time can it be done without
@@ -11682,7 +11682,7 @@
                         unfitting. And therefore I say the lesse of it: referring the curious Reader
                         unto the fifteenth Chapter of the ninth Booke of <persName>
                             Columella,</persName> and unto <persName>Georgius Pictorious,</persName>
-                        who in his fourteenth Chapter writeth thereof at large. </p>
+                        who in his foureteenth Chapter writeth thereof at large. </p>
                 </div>
                 <div n="2" type="section" xml:id="ch10p2">
                     <head type="section-title">The second part of this Chapter sheweth the trying of
@@ -11726,7 +11726,7 @@
                         Honie runne his first shoot. <note subtype="summary" type="authorial" xml:id="ch10p2sumn4">4. <seg rend="italic">The first shoot for fine ordinary Honie. </seg></note>
                         But this is to be understood of the darker part of the Combes: for the pure
                         white Cells in the upper part (which containe nothing but pure white, or
-                        yellowish Live Honie) you may as well crush betweene your hands: and this
+                        yellowish Live-Honie) you may as well crush betweene your hands: and this
                         will be fine ordinarie Honie. </p>
                     <p xml:id="ch10p2par6"><note subtype="summary" type="authorial" xml:id="ch10p2sumn5">5. <seg rend="italic">Or for Virgin-Honie, which is most fine. </seg></note>
                         But if, for some speciall use, you would have some Honie yet more fine and
@@ -11735,7 +11735,7 @@
                         a cleane Clen-sieve. For, <quote><foreign corresp="#ch10transn8" xml:lang="la">In omni melle quod
                                 per se fluit (ut mustum oleumque) appellaturque acoeton, maxime
                                 laudabile est.</foreign>.<note resp="#HH" subtype="translation" type="editorial" xml:id="ch10transn8">In all honey, the part that has trickled down of its own accord (like must and oil) and is called acoeton, honey-vinegar, is highly praiseworthy. <hi rend="italic">NH</hi> XI.38(15)</note> <note subtype="bibliographic" type="authorial" xml:id="ch10p2bibln2">
-                                <bibl>Nat. hist.l.II.c.15.</bibl>
+                                <bibl>Nat.hist.l.11.c.15.</bibl>
                             </note></quote> Of all Honie that which runneth of it selfe, (as new
                         Wine and Oile) and is called <ref target="#ch10p2glon2"><seg rend="italic">*</seg></ref><term>Acoeton</term> is most commendable. </p>
                     <p xml:id="ch10p2par7">This <term>Acoeton</term> or finest <term>Nectar</term>,
@@ -11862,7 +11862,7 @@
                         Honie as Wooll.</p>
                     <p xml:id="ch10p2par18"><note subtype="summary" type="authorial" xml:id="ch10p2sumn13">13. <seg rend="italic">How to know good Honie </seg></note> Good Honie, when
                         it hath wrought, hath these properties whereby it is knowne: It is cleere,
-                        odoriferous, yelow like pale gold, (but right Virgin-honie is more
+                        odoriferous, yelow like pale gold (but right Virgin-honie is more
                         crystalline at the first, <ref target="#ch10p2bibln15"><seg rend="italic"> </seg><seg rend="italic">v</seg><seg rend="italic">.</seg></ref>
                         <note subtype="bibliographic" type="authorial" xml:id="ch10p2bibln15">
                             <ref target="#ch6sumn29"><seg rend="italic"> </seg><seg rend="italic">V</seg><seg rend="italic">.</seg><seg rend="italic">c</seg><seg rend="italic">.</seg><seg rend="normal">6</seg><seg rend="italic">.</seg><seg rend="italic">n</seg><seg rend="italic">.</seg><seg rend="normal">2</seg><seg rend="normal">9</seg><seg rend="italic"> </seg></ref>
@@ -11870,7 +11870,7 @@
                         betweene thicke and thinne, so clammie, that beeing taken up upon your
                         fingers end, in falling it will not part, but hang together like a long
                         string, as that useth to doe which is clarified. And such doth
-                            <persName>Jacobus Sylvius</persName> describe the best honie, <quote>
+                            <persName>Jacobus Sylvius</persName> describe the best honie. <quote>
                             <foreign corresp="#ch10transn10" xml:lang="la">Mel optimum sit purum adeo ut totum perluceat,
                                 odorum, flavum, acerrimum, dulcissimumque gustanti, &amp;
                                 jucundissimum, consistenti&#226; nec crassa nec liquida, sed tam sibi
@@ -11893,7 +11893,7 @@
                         </quote></p>
                     <p xml:id="ch10p2par19"><note subtype="summary" type="authorial" xml:id="ch10p2sumn14">14. <seg rend="italic">Good Honie with standing waxeth hard and white </seg></note> This good Honie, specially that part which is in the
                         bottom, will in time grow (like unto Corne-honie, <ref target="#ch10p2bibln16"><seg rend="italic">v</seg><seg rend="italic">.</seg></ref>
-                        <note subtype="bibliographic" type="authorial" xml:id="ch10p2bibln16"><ref target="ch6sumn27"><seg rend="italic">V</seg><seg rend="italic">.</seg><seg rend="italic">c</seg><seg rend="italic">.</seg><seg rend="normal">6</seg><seg rend="italic">.</seg><seg rend="italic">n</seg><seg rend="italic">.</seg><seg rend="normal">2</seg><seg rend="normal">7</seg></ref>&amp;<ref target="ch6sumn28"><seg rend="normal">2</seg><seg rend="normal">8</seg></ref></note> in the uppermost part of the Combes) hard and
+                        <note subtype="bibliographic" type="authorial" xml:id="ch10p2bibln16"><ref target="ch6sumn27"><seg rend="italic">V</seg><seg rend="italic">.</seg><seg rend="italic">c</seg><seg rend="italic">.</seg><seg rend="normal">6</seg><seg rend="italic">.</seg><seg rend="italic">n</seg><seg rend="italic">.</seg><seg rend="normal">2</seg><seg rend="normal">7</seg></ref>&amp;<ref target="ch6sumn28"><seg rend="normal">2</seg><seg rend="normal">8</seg><seg rend="italic">.</seg></ref></note> in the uppermost part of the Combes) hard and
                         white: such as is the Honie of <ref target="#ch10p2glon3"><seg rend="italic">*</seg></ref>
                         <placeName> Spaine</placeName> and <placeName>Narbona</placeName> in
                             <placeName> France,</placeName> which is accounted the chiefest, and
@@ -11913,7 +11913,7 @@
                             <foreign corresp="#ch10transn13" xml:lang="la">Nec Attico aut Hyblaeo inferius, cum regionis
                                 temperatura, &amp; thymi larga luxuries utrobique
                                 consentiant.</foreign><note resp="#HH" subtype="translation" type="editorial" xml:id="ch10transn13">Nor is it inferior to that of Attica or Hybla, since the aspect of the region and the abundant lushness of the thyme accords with them in both cases. Jacobus Sylvius/Jacques Dubois, Sylvius/Dubois, <hi rend="italic">De Medicamentorum Simplicium Delectu, Praeparationibus, Mistionis Modo</hi> II, &#8216;De spumatione&#8217; </note>
-                            <bibl>Idem.l.2.</bibl>
+                            <bibl>Idem l.2.</bibl>
                         </quote></note>
                     <fw type="catch"> And</fw>
                     <pb n="V4v" />
@@ -11943,7 +11943,7 @@
                         weigh that and halfe so much more. <quote>
                             <foreign corresp="#ch10transn16" xml:lang="la">Quoniam Oleum levius est Vino parte <ref target="#ch10p2glon6"><seg rend="italic">*</seg></ref>
                                 <note subtype="gloss" type="authorial" xml:id="ch10p2glon6">*
-                                        <foreign xml:lang="la">Ceu potius decima.</foreign></note>
+                                    <foreign xml:lang="la"><hi rend="italic">Ceu potius decima.</hi></foreign></note>
                                 non&#226;, Mel ver&#242; gravius Vino parte dimidi&#226;<seg rend='roman'>;</seg> quaecunque mensura capit
                                 Mellis uncias quindecim, capit Vini uncias decem, &amp; Olei
                                 novem.</foreign><note resp="#HH" subtype="translation" type="editorial" xml:id="ch10transn16">Since oil is lighter than wine by a ratio of ten to nine, but honey is half as heavy again than wine, then any measuring-jar that takes fifteen ounces of honey will take ten ounces of wine and nine of oil. Jean Fernel, <hi rend="italic">Methodi Medendi</hi> IV.6</note>
@@ -11998,7 +11998,7 @@
                         Clensieve is unto the Tap-waze for Methe, as the Strainer to the Ridder for
                         Honie. <ref target="#ch10p2sumn7"><seg rend="italic"> </seg><seg rend="italic">v</seg><seg rend="italic">:</seg><seg rend="italic">n</seg><seg rend="italic">.</seg><seg rend="normal">7</seg><seg rend="italic">.</seg><seg rend="italic"> </seg></ref>
                     </note>
-                    <p xml:id="ch10p2par25"><note subtype="summary" type="authorial" xml:id="ch10p2sumn18">18. <seg rend="italic">Two sorts of Hydromel, Mede and Metheglen. </seg></note>
+                    <p xml:id="ch10p2par25"><note subtype="summary" type="authorial" xml:id="ch10p2sumn18">18. <seg rend="italic">Two sorts of Hydromel, Mede and Maetheglen. </seg></note>
                         <term>Meth</term> or <term> Hydromel</term> is of two sorts: the weaker and
                         the stronger, <term>Mede</term> and <term> Methaeglen.</term></p>
                     <p xml:id="ch10p2par26"><note subtype="summary" type="authorial" xml:id="ch10p2sumn19">19. <seg rend="italic">When the liquor is strong enoug for Mede. </seg></note> For the making of <term> Mede</term>, if the Must, when it
@@ -12036,8 +12036,8 @@
                         stead of twice slacking the fire, you may twice coole the boyling Must with
                         cold Must reserved: or else be sure that it doe boyle all the while onely at
                         one side, and not all over. </note>
-                    <p xml:id="ch10p2par29"><note subtype="summary" type="authorial" xml:id="ch10p2sumn22">22. <seg rend="italic">A receipt of Spices. </seg></note>After all this, put
-                        in the spices, <abbr> viz.</abbr> to a dozen gallons of the skimmed Must
+                    <p xml:id="ch10p2par29"><note subtype="summary" type="authorial" xml:id="ch10p2sumn22">22. <seg rend="italic">The receipt of Spices. </seg></note>After all this, put
+                        in the spices, <abbr> <hi rend="italic">viz.</hi></abbr> to a dozen gallons of the skimmed Must
                         Ginger one ounce, Cinamom halfe an ounce, Cloves and Mace <emph>Ana</emph>
                         two drams, Pepper and Graines <emph>Ana</emph> one dramme, all
                         grosse-beaten, the one halfe of each being sowed in a bag, the other loose:
@@ -12050,7 +12050,7 @@
                         and set it a cooling: the next day, when it is setled, poure it out, through
                         a Haire-sive or linnen bag, into the Kive: (reserving still the Lees for the
                         Bees) and there let it stand covered three or foure daies till it worke<seg rend='roman'>;</seg> and
-                        let it worke two daies, <fw type="catch"> Then</fw>
+                        let it worke two daies. <fw type="catch"> Then</fw>
                         <pb n="X2r" />
                         <fw type="header"> Of the fruit and profit of Bees. </fw> Then draw it
                         through the Tapwaze, and tun it into a Barrell scalded with Bay-leaves,
@@ -12064,7 +12064,7 @@
                         broken<seg rend='roman'>;</seg> the <term>Meth</term> will turne soure. But so will it make
                         excellent Vinegar, and the sooner, if it be set in the Sun: which the longer
                         you keepe, the better it will be. </p>
-                    <p xml:id="ch10p2par32"><note subtype="summary" type="authorial" xml:id="ch10p2sumn24">24. <seg rend="italic">The making of Methaeglen. </seg></note>
+                    <p xml:id="ch10p2par32"><note subtype="summary" type="authorial" xml:id="ch10p2sumn24">24. <seg rend="italic">The making of <hi rend="opposite">Methaeglen.</hi></seg></note>
                         <term>Metheglen</term> is the more generous or stronger <term>
                             Hydromel:</term> being unto <term>Mede</term> as <foreign corresp="#ch10transn17" xml:lang="la"><term> Vinum</term></foreign><note resp="#HH" subtype="translation" type="editorial" xml:id="ch10transn17">wine </note> to
                         <term><foreign corresp="#ch10transn18" xml:lang="la">Lora.</foreign></term><note resp="#HH" subtype="translation" type="editorial" xml:id="ch10transn18">a thin &#8216;after-wine&#8217; made from the leftover grapeskins</note> For it beareth an Egge the breadth of a groat or six
@@ -12077,7 +12077,7 @@
                             <emph> ana</emph> halfe an ounce, Pepper, Graines, <emph>ana</emph> two
                         drams, the one halfe of each being bag'd, the other boiled loose. So that
                         whereas the ordinarie <term>Mede</term> will scarce last halfe a yeere<seg rend='roman'>;</seg> good
-                            <term> Methelglen</term> the longer it is kept, the more delicate and
+                            <term> Methaelglen</term> the longer it is kept, the more delicate and
                         holsome it will be: and withall the cleerer and brighter, according to the
                             <term>Etymon</term> of the name. <ref target="#ch10p3glon17"><seg rend="italic">v</seg><seg rend="italic">.</seg><seg rend="italic"> </seg><seg rend="italic">*</seg><seg rend="italic"> </seg><seg rend="italic">i</seg><seg rend="italic">n</seg><seg rend="italic">
 </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic">p</seg><seg rend="italic">.</seg><seg rend="normal">3</seg><seg rend="italic">.</seg><seg rend="italic">n</seg><seg rend="italic">.</seg><seg rend="normal">2</seg><seg rend="normal">3</seg><seg rend="italic">.</seg></ref></p>
@@ -12086,7 +12086,7 @@
                         who therein doe passe all other people. One excellent receit I will here
                         recite: and it is of that which our renowmed Queene of happie memorie did so
                         well like, that she would everie yeere have a vessell of it. </p>
-                    <p xml:id="ch10p2par34"><note subtype="summary" type="authorial" xml:id="ch10p2sumn25">25. <seg rend="italic">The Queenes Methaeglen. </seg></note> First, gather a
+                    <p xml:id="ch10p2par34"><note subtype="summary" type="authorial" xml:id="ch10p2sumn25">25. <seg rend="italic">The Queenes <hi rend="italic">Methaeglen.</hi></seg></note> First, gather a
                         bushell of Sweete-briar-leaves, and a bushell of Tyme, halfe a bushell of
                         Rose-marie, and a pecke of Bay-leaves. Seeth all these, being well washed in
                         a Furnace of <fw type="catch"> faire</fw>
@@ -12151,7 +12151,7 @@
                         spoone. </p>
                     <p xml:id="ch10p2par38"><note subtype="summary" type="authorial" xml:id="ch10p2sumn31">31. <seg rend="italic">And keepe the cake from cracking. </seg></note> This
                         done, set not the cake abroad, or where it may coole hastily upon, but in
-                        the warme house: and if it be great, cover the mould with a Plaster, as
+                        the warme house: and if it be great, cover the mould with a Platter, as
                         close as you can, to keepe the top from cooling, till the (10.) inward heat
                         be alayed: and so let it stand, not moving the mould till the cake be cold.
                         If it sticke, a little warming of the vessell or mould will presently loose
@@ -12169,7 +12169,7 @@
                         best) being presently cooled, lie beneath the drosse. <bibl xml:id="ch10p2bibln19X1">(8.)</bibl> To keepe the Wax from sticking to
                         the sides of the mould, and consequently to helpe save the Cake from
                         cracking. For Wax shrinketh in cooling, as new walles in drying: and
-                        therefore if the Cake sticke not, if shrinketh together from the sides, then
+                        therefore if the Cake sticke not, if shrinketh together from the sides, and so is lesse than the mould, and whole: but if it sticke fast to the sides, then
                         must it needs cracke, one part shrinking from another (specially if it coole
                         hastily upon) as it happneth commonly in great Cakes: For small ones, whose
                         inward heat is <fw type="catch"> alayed</fw>
@@ -12183,7 +12183,7 @@
                         must needs either cracke the Cake, or heave it make it hollow, or both,
                         specially if it be verie great: for then will the heat be both stronger and
                         longer: but this is helped by not sticking. <ref target="#ch10p2bibln19X1"><seg rend="italic">
-</seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic">v</seg><seg rend="italic">.</seg><seg rend="italic"> </seg><seg rend="italic">a</seg><seg rend="italic">n</seg><seg rend="italic">t</seg><seg rend="italic">e</seg><seg rend="italic"> </seg><seg rend="italic">n</seg><seg rend="italic">u</seg><seg rend="italic">m</seg><seg rend="italic">.</seg><seg rend="italic"> </seg></ref> (8.)</note>
+</seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic">v</seg><seg rend="italic">.</seg><seg rend="italic"> </seg><seg rend="italic">a</seg><seg rend="italic">n</seg><seg rend="italic">t</seg><seg rend="italic">&#232;</seg><seg rend="italic"> </seg><seg rend="italic">n</seg><seg rend="italic">u</seg><seg rend="italic">m</seg><seg rend="italic">.</seg><seg rend="italic"> </seg></ref> (8.)</note>
                     <p xml:id="ch10p2par39"><note subtype="summary" type="authorial" xml:id="ch10p2sumn32">32. <seg rend="italic">How to know good Wax. </seg></note> The properties of
                         tokens of good Wax are (1) most yellow, sweet, fat, (2) fast or close, (3)
                         light, (4) pure, and void of all other matter. <quote>
@@ -12199,7 +12199,7 @@
                         gold the deepest, so in Wax and Hony (<ref target="#ch10p2sumn13"><seg rend="italic">v</seg><seg rend="italic">.</seg><seg rend="italic">n</seg><seg rend="italic">.</seg><seg rend="normal">1</seg><seg rend="normal">3</seg></ref>) the palest yellow is best: yea the pure Virgin-wax at the
                         first is white. <ref target="#ch6sumn14"><seg rend="italic"> </seg><seg rend="italic">v</seg><seg rend="italic">.</seg><seg rend="italic">c</seg><seg rend="italic">.</seg><seg rend="normal">6</seg><seg rend="italic">.</seg><seg rend="italic">n</seg><seg rend="italic">.</seg><seg rend="normal">1</seg><seg rend="normal">4</seg><seg rend="italic">.</seg><seg rend="italic"> </seg></ref> (2) not hollow
                         as the froth is. (3.) For Wax, like Oile, is best at the top, as Hony in the
-                        bottom (<ref target="#ch10p2sumn15"><seg rend="italic"> </seg><seg rend="italic">v</seg><seg rend="italic">.</seg><seg rend="italic">n</seg><seg rend="italic">.</seg><seg rend="normal">1</seg><seg rend="normal">5</seg></ref>) except the hollow froth,
+                        bottom (<ref target="#ch10p2sumn15"><seg rend="italic">v</seg><seg rend="italic">.</seg><seg rend="italic">n</seg><seg rend="italic">.</seg><seg rend="normal">1</seg><seg rend="normal">5</seg></ref>) except the hollow froth,
                         which is to be skimmed away. <ref target="#ch10p2sumn30"><seg rend="italic"> </seg><seg rend="italic">v</seg><seg rend="italic">.</seg><seg rend="italic">n</seg><seg rend="italic">.</seg><seg rend="normal">3</seg><seg rend="normal">0</seg><seg rend="italic">.</seg><seg rend="italic"> </seg></ref> (4)
                         and therefore the bottom, unto which the drosse doth ascend, is not good.
                     </note>
@@ -12221,16 +12221,16 @@
                         which, by reason thereof, have little appetite, (11) it purgeth those things
                         which hurt the cleerenesse of the eyes, (12) it nourisheth verie much, (13)
                         it breedeth good bloud, (14) it stirreth up and preserveth naturall heat,
-                        and prolongeth old age (<ref target="#ch10p3glon1"><seg rend="italic">r</seg><seg rend="italic">e</seg><seg rend="italic">a</seg><seg rend="italic">d</seg><seg rend="italic">e</seg><seg rend="italic"> </seg><seg rend="italic">t</seg><seg rend="italic">h</seg><seg rend="italic">e</seg><seg rend="italic"> </seg><seg rend="italic">n</seg><seg rend="italic">o</seg><seg rend="italic">t</seg><seg rend="italic">e</seg><seg rend="italic"> </seg></ref>)
+                        and prolongeth old age (<ref target="#ch10p3glon1"><seg rend="italic">r</seg><seg rend="italic">e</seg><seg rend="italic">a</seg><seg rend="italic">d</seg><seg rend="italic">e</seg><seg rend="italic"> </seg><seg rend="italic">t</seg><seg rend="italic">h</seg><seg rend="italic">e</seg><seg rend="italic"> </seg><seg rend="italic">n</seg><seg rend="italic">o</seg><seg rend="italic">t</seg><seg rend="italic">e</seg></ref>)
                         (15) it keepeth all things uncorrupt, which are put into it, and therefore
                         (16) Physicians doe temper therewith such medicines as they meane to keepe
                             <fw type="catch"> long:</fw>
                         <pb n="X4r" />
                         <fw type="header"> Of the fruit and profit of Bees. </fw> long: (17) yea the
-                        bodies of the dead, being embalmed with Hony have beene thereby preserved
+                        bodies of the dead, being embalmed with Hony, have beene thereby preserved
                         from putrefaction. <note subtype="summary" type="authorial" xml:id="ch10p3sumn2">2. <seg rend="italic">Against both outward and inward griefes. </seg></note>
                         (18) It is a soveraigne medicament both for outward and inward maladies<seg rend='roman'>;</seg>
-                            (<ref target="#ch10p3bibln2X1"><seg rend="italic"> </seg><seg rend="italic">r</seg><seg rend="italic">e</seg><seg rend="italic">a</seg><seg rend="italic">d</seg><seg rend="italic">e</seg><seg rend="italic"> </seg><seg rend="italic">t</seg><seg rend="italic">h</seg><seg rend="italic">e</seg><seg rend="italic"> </seg><seg rend="italic">n</seg><seg rend="italic">o</seg><seg rend="italic">t</seg><seg rend="italic">e</seg><seg rend="italic">.</seg><seg rend="italic"> </seg></ref>) (19) It helpeth
+                            (<ref target="#ch10p3bibln2X1"><seg rend="italic"> </seg><seg rend="italic">r</seg><seg rend="italic">e</seg><seg rend="italic">a</seg><seg rend="italic">d</seg><seg rend="italic">e</seg><seg rend="italic"> </seg><seg rend="italic">t</seg><seg rend="italic">h</seg><seg rend="italic">e</seg><seg rend="italic"> </seg><seg rend="italic">n</seg><seg rend="italic">o</seg><seg rend="italic">t</seg><seg rend="italic">e</seg><seg rend="italic">.</seg></ref>) (19) It helpeth
                         the griefes of the jawes, (20) the kernels growing within the mouth, (21)
                         and the squinancie or inflammation of the muscle of the inner gargil, for
                         which purpose it is gargarized, <note subtype="summary" type="authorial" xml:id="ch10p3sumnX1">
@@ -12337,7 +12337,7 @@
                         <note subtype="bibliographic" type="authorial" xml:id="ch10p3bibln3">
                             <ref target="#ch10p3glon1"><seg rend="italic">V</seg><seg rend="italic">.</seg><seg rend="italic">(</seg><seg rend="normal">1</seg><seg rend="normal">4</seg><seg rend="italic">)</seg><seg rend="italic">i</seg><seg rend="italic">n</seg><seg rend="italic"> </seg><seg rend="italic">n</seg><seg rend="italic">o</seg><seg rend="italic">t</seg><seg rend="italic">e</seg><seg rend="italic"> </seg><seg rend="normal">1</seg><seg rend="italic">.</seg></ref>
                         </note> for women &amp; children, for such as are rheumaticke and
-                        flegmaticke, and generally for all that are of a cold temperature.(2) To
+                        flegmaticke, and generally for all that are of a cold temperature. (2) To
                         young men, and those that are of a hot constitution it is not so good,
                         because it is easily turned into choller: &amp; yet
                             <persName>Lobel</persName> saith wee know that Honie taken fasting doth
@@ -12350,22 +12350,22 @@
                                 speciosum ac delicatum Anglum: sed, quibusdam praesertim saltibus
                                 &amp; pascuis, ubi lana commendatior, <ref target="#ch10p3bibln4"><seg rend="italic">v</seg><seg rend="italic">.</seg></ref>
                                 <note subtype="bibliographic" type="authorial" xml:id="ch10p3bibln4">
-                                    <ref target="#ch10p2sumn2"><seg rend="italic"> </seg><seg rend="italic">V</seg><seg rend="italic">.</seg><seg rend="italic">p</seg><seg rend="italic">.</seg><seg rend="normal">2</seg><seg rend="italic">.</seg><seg rend="italic">n</seg><seg rend="italic">.</seg><seg rend="normal">1</seg><seg rend="normal">1</seg><seg rend="italic">.</seg><seg rend="italic"> </seg></ref>
+                                    <ref target="#ch10p2sumn2"><seg rend="italic"> </seg><seg rend="italic">V</seg><seg rend="italic">.</seg><seg rend="italic">p</seg><seg rend="italic">.</seg><seg rend="normal">2</seg><seg rend="italic">,</seg><seg rend="italic">n</seg><seg rend="italic">.</seg><seg rend="normal">1</seg><seg rend="normal">2</seg><seg rend="italic">.</seg><seg rend="italic"> </seg></ref>
                                 </note> lectum, biliosa excrementa inferius extergendo pellit, &amp;
                                 aciei oculorum prodesse putatur.</foreign><note resp="#HH" subtype="translation" type="editorial" xml:id="ch10transn40">English honey is less attractive to look at and less delicate<seg rend='roman'>;</seg> but, especially when gathered from certain woods and pastures where the wool is particularly valued, it drives out bilious excrement by cleansing the lower part, and is thought to be of use to the eyesight. Matthias de L&#8217;Obel/Matthaeus Lobelius</note>
                         </quote> So that he seemeth to say, that our honie is hurtfull to none<seg rend='roman'>;</seg>
                         because it purgeth that evill humour, which other Hony, in some bodies, is
-                        thought to breed. But the Proverb saith, <quote>Too much of one thing is
-                            good for nothing:<bibl>Prov.25.</bibl></quote> and the Wis-man in his
-                        Proverbs, <quote><bibl>27.</bibl>It is not good to eat much Honie.</quote>
-                        and in the <quote><bibl>16, 6. </bibl>Hast thou found Honie? eat so much as
-                            is sufficient for thee:</quote>&amp;c. <note subtype="summary" type="authorial" xml:id="ch10p3sumn5">5. <seg rend="italic">Too much Hony unholsome. </seg></note> For all Hony often and immoderately taken (3) causeth
+                        thought to breed. But the Proverb saith, <quote><hi rend="italic">Too much of one thing is
+                            good for nothing:</hi></quote> and the Wis-man in his
+                        Proverbs, <quote><hi rend="italic">It is not good to eat much Honie.</hi></quote><bibl>Prov.25, 27.</bibl>
+                        and in the <quote><bibl>16, 6. </bibl><hi rend="italic">Hast thou found Honie? eat so much as
+                            is sufficient for thee:</hi></quote>&amp;c. <note subtype="summary" type="authorial" xml:id="ch10p3sumn5">5. <seg rend="italic">Too much Hony unholsome. </seg></note> For all Hony often and immoderately taken (3) causeth
                         obstruction, (4) contrarie to his naturall qualitie, and so in time (5)
                         breedeth the scab. </p>
                     <note place="inline" subtype="gloss" type="authorial" xml:id="ch10p3glon2">(1)(2)<bibl> Galen.l.4.simpl.med.dist.3.c.5.</bibl><foreign xml:lang="la">Item</foreign>
                         <bibl> Seth.Pictorius,&amp;Freitag.</bibl>(3)<bibl>Wikerus &amp; Freitagius
-                        </bibl> (4)<ref target="#ch10p3bibln2X1"><seg rend="italic">v</seg><seg rend="italic">i</seg><seg rend="italic">d</seg><seg rend="italic">e</seg><seg rend="italic">
-</seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic"> </seg><seg rend="italic">(</seg><seg rend="normal">8</seg><seg rend="italic">)</seg><seg rend="italic">&amp;</seg><seg rend="italic">(</seg><seg rend="normal">1</seg><seg rend="normal">8</seg><seg rend="italic">)</seg><seg rend="italic">s</seg><seg rend="italic">u</seg><seg rend="italic">p</seg><seg rend="italic">r</seg><seg rend="italic">a</seg><seg rend="italic">.</seg></ref>(5)<bibl>Lobel.</bibl>
+                        </bibl> (4)<ref target="#ch10p3bibln2X1">vide
+                            <hi rend="opposite">(8)&amp;(18)supra.</hi></ref>(5)<bibl>Lobel.</bibl>
                     </note>
                     <p xml:id="ch10p3par3"><note subtype="summary" type="authorial" xml:id="ch10p3sumn6">6. <seg rend="italic">The different operations of raw &amp; boiled Hony. </seg></note> Raw Hony doth (1) more loose the belly, (2) causeth the
                         cough, and (3) filleth the entrailes with winde, specially if it be of the
@@ -12377,11 +12377,11 @@
                         lungs. </p>
                     <note place="inline" subtype="gloss" type="authorial" xml:id="ch10p3glon3">(1)(2)(3) <bibl>Freitag Pictor. &amp; Wikerus,</bibl> (4) <bibl>Freitag,
                             &amp; Wiker</bibl> (5) <bibl> Wikerus</bibl> (6) <bibl>Pictorius</bibl>
-                        (7) <bibl>Gal.</bibl>bibl&gt;&amp; <bibl>Seth.</bibl>&amp; <quote>
+                        (7) <bibl>Gal.</bibl>&gt;&amp; <bibl>Seth, </bibl>&amp; <quote>
                             <bibl>Fernelius Methodi.lib.6.c.12.</bibl>
-                            <foreign corresp="#ch10transn41" xml:lang="la">Crudum cocto &amp; despumato detergentius quidem
-                                multo est &amp; mordacius: sed eo minus agglutinat.</foreign><note resp="#HH" subtype="translation" type="editorial" xml:id="ch10transn41">Raw honey is indeed much more of a disinfectant and more stinging than boiled and skimmed<seg rend='roman'>;</seg> but for that reason is less binding. </note>
-                        </quote><foreign corresp="#ch10transn42" xml:lang="la">(8) ad sinuum glutinationes, Seth sinuosorum ulcerum,
+                            <foreign corresp="#ch10transn41" xml:lang="la"><hi rend="italic">Crudum cocto &amp; despumato detergentius quidem
+                                multo est &amp; mordacius: sed eo minus agglutinat.</hi></foreign><note resp="#HH" subtype="translation" type="editorial" xml:id="ch10transn41">Raw honey is indeed much more of a disinfectant and more stinging than boiled and skimmed<seg rend='roman'>;</seg> but for that reason is less binding. </note>
+                        </quote><foreign corresp="#ch10transn42" xml:lang="la">(8) ad sinuum glutinationes, Seth. sinuosorum ulcerum,
                             <bibl>Galen.</bibl></foreign><note resp="#HH" subtype="translation" type="editorial" xml:id="ch10transn42">For binding of the sinuses, Seth on ulcers of the sinus, Galen</note>(9)(10)(11) <bibl> Pictorius.</bibl>
                     </note>
                     <p xml:id="ch10p3par4"><note subtype="summary" type="authorial" xml:id="ch10p3sumn7">7. <seg rend="italic">Two waies to clarifie Hony. </seg></note> Honie is
@@ -12436,7 +12436,7 @@
                         you wash any wound there-with, or otherfore<seg rend='roman'>;</seg> it will heale quickly. It is
                         also good against the Cough, Catarre, and paines of the Melt, and against
                         many other diseases. Being given for the space of six and fortie daies
-                        together to one that hath the Palsie, it helpeth him. Which thing <fw type="catch"> John </fw>
+                        together to one that hath the Palsie, it helpeth him. Which thing <fw type="catch"> <hi rend="italic">John</hi></fw>
                         <pb n="Y2r" />
                         <fw type="header"> Of the fruit and profit of Bees. </fw>
                         <persName>John Hester</persName> a Practical Chymist, in his key of
@@ -12473,7 +12473,7 @@
                         having pared and strained them, mix there-with the like quantitie of
                         clarified Honie: and boile this together till it be so thicke, that in
                         stirring (for you must continually stirre it for feare of burning) you may
-                        see the bottom<seg rend='roman'>;</seg> or, being cooled on a Trencher, it be thicke enoug to slice:
+                        see the bottom<seg rend='roman'>;</seg> or, being cooled on a Trencher, it be thicke enough to slice:
                         then take it up and box it speedily. You may also adde a quantitie of
                         Almonds, and Nut-kernels: also Cinamom, Ginger, Cloves and Mace, of each a
                         like quan- <fw type="catch"> titie,</fw>
@@ -12486,7 +12486,7 @@
                     <p xml:id="ch10p3par15"><note subtype="summary" type="authorial" xml:id="ch10p3sumn13">13. <seg rend="italic">Marchpane. </seg></note> Marchpane may be made after
                         this manner. Boile and clarifie by it selfe, so much Honie as you think
                         meet: when it is cold, take to every pound of Honie the white of an Egge,
-                        and beat them together in a Bason, till they be incorporat together and wax
+                        and beat them together in a Bason, till they bee incorporat together and wax
                         white, and when you have boiled it againe two or three walmes upon a fire of
                         coles, continually stirring it, then put to it such quantitie of<ref target="#ch10p3glon9"><seg rend="italic">*</seg></ref> blanched Almonds or Nut-kernels stamped,
                         as shall make it of a just consistence: and after a warme or two more, when
@@ -12525,33 +12525,34 @@
                             <seg rend="italic">Melrosatum</seg>
                         </note>
                         <note subtype="gloss" type="authorial" xml:id="ch10p3glon10">
-                            <foreign xml:lang="la">*Cum uncij aque tribus mediocriter
+                            <foreign xml:lang="la">*Cum unciis aquae tribus mediocriter
                                 despumetur.</foreign>
                             <ref target="#ch10p3sumn7"><seg rend="italic"> </seg><seg rend="italic">v</seg><seg rend="italic">.</seg><seg rend="italic">n</seg><seg rend="italic">.</seg><seg rend="normal">7</seg><seg rend="italic">.</seg></ref>
                         </note> clarified tenne ounces, boile this together: when it beginneth to
                         boile, adde of the leaves of fresh Red Roses clipt with Scissors in little
                         pieces foure ounces, boile them to the consumption of the juice, and
                         presently put up the Conserves into some earthen vessell: Keepe it long
-                        therein: for in time it waxeth better and better. <bibl>Sylv.l.3 de
-                            med.simp.mist.</bibl>
+                        therein: for in time it waxeth better and better. <bibl><hi rend="italic">Sylv.l.</hi>3.<hi rend="italic">de
+                            med.simp.mist.</hi></bibl>
                     </p>
                     <p xml:id="ch10p3par20">
                         <note subtype="summary" type="authorial" xml:id="ch10p3sumnX3">Melviolatun. <seg rend="italic" /></note>
-                        <note subtype="summary" type="authorial" xml:id="ch10p3sumn16">16. <seg rend="italic">Syrups. Syrup of Roses. </seg></note> After the same manner is made Conserves of
+                        <note subtype="summary" type="authorial" xml:id="ch10p3sumn16">16. <seg rend="italic">Syrups. <lb />
+                            Syrup of Roses.</seg></note> After the same manner is made Conserves of
                         Violets. Syrup of Roses make thus. Steep fresh Roses in hot water over the
                         Embers, (the vessel being covered) untill the Roses wax pale: then straine
-                        out the Roses, and put fresh in their places, until they are also pale: this
+                        out the Roses, and put fresh in their places, untill they are also pale: this
                         doe ten times, or untill the water be red. And this being purged with Whites
                         of Egges, (to every pinte of liquor one) boile it gently with like quantitie
                         of fine Honie, untill it be of convenient thicknesse. If you prepare it for
                         present uses, the lesse boiling will serve: if you meane to keepe it, it
-                        requireth more, for which purpose the sunning of it is good: This purgeth a
-                        little, specially being new. <bibl> Sylv.Med.S.Mist.l.3.</bibl>
+                        requireth more, for which purpose the sunning of it is good. This purgeth a
+                        little, specially being new. <bibl><hi rend="italic">Sylv.Med.S.Mist.l.</hi>3.</bibl>
                     </p>
                     <p xml:id="ch10p3par21">Or thus. Steep one pound of Red Rose leaves in foure
                         pound of water foure and twentie houres. When the water is strained, put
                         unto it two pound of fine Honie, and boile it to the thicknesse of a Syrup,
-                        taking of the skumme as it riseth. It tempereth the hot affections of the
+                        taking off the skumme as it riseth. It tempereth the hot affections of the
                         braine, it quencheth thirst, it strengthneth the stomacke, it procureth
                         sleep, and stayeth thin rheumes <bibl> Fern.Meth.lib.7.</bibl>
                     </p>
@@ -12560,12 +12561,12 @@
                         is made, after the same manner, of fragrant Violets, and steeped untill the
                         liquor be blew. Being well boiled it may be kept a yeare without vinewing or
                         corruption. It tempereth and purgeth hot and sharp humours<seg rend='roman'>;</seg> and therefore is
-                        good in a Pleurisie: it expelleth Melancholie and the effects thereof, as
+                        good in a Pleurisie: it expelleth Melancholie, and the effects thereof, as
                         head-ach, waking, dreaming, and heavinesse of heart: it is fit to be used
-                        before, and after purging. <bibl>Plantius in Fernel. meth.l.7</bibl></p>
+                        before, and after purging. <bibl><hi rend="italic">Plantius in Fernel.meth.l.7.</hi></bibl></p>
                     <p xml:id="ch10p3par23">If any man like better to make these Confections with
-                            <term>Sugar</term>, let them take the like quantity of Honie, for
-                            <term>Sugar</term>
+                        <term><hi rend="opposite">Sugar</hi></term>, let them take the like quantity of Honie: for
+                        <term><hi rend="opposite">Sugar</hi></term>
                         <fw type="catch"> also</fw>
                         <pb n="Y3v" />
                         <fw type="header"> Of the fruit and profit of Bees. </fw> also hath with his
@@ -12575,11 +12576,11 @@
                         &amp; Sylv.simpl.med.mist.l.3.</bibl></foreign><note resp="#HH" subtype="translation" type="editorial" xml:id="ch10transn43">The fruits are preserved either in honey or in sugar. Jean Fernel, Methodi Medendi, IV.17<seg rend='roman'>;</seg> Sylvius/Dubois, <hi rend="italic">De Medicamentorum Simplicium Delectu, Praeparationibus, Mistionis Modo</hi> III</note>
                     </note>
                     <note place="inline" subtype="gloss" type="authorial" xml:id="ch10p3glon12">&#8224; <quote>
-                            <foreign corresp="#ch10transn44" xml:lang="la">Saccharum quod ex India &amp; faelici Arabia
+                            <foreign corresp="#ch10transn44" xml:lang="la"><hi rend="opposite">Saccharum quod ex India &amp; faelici Arabia
                                 convehitur, concrescit in calamis: estque mellis species, nostrate
                                 cert&#232; minus dulce, sed similes ei vires obtinens, quod ad
                                 abstergendum, desiccandum, &amp; digerendum pertinet.
-                                <bibl>Galen.de simpl.med.facult.lib.7.</bibl></foreign><note resp="#HH" subtype="translation" type="editorial" xml:id="ch10transn44">Sugar which is brought from India and Arabia Felix [southern Arabia, Yemen] grows in canes: and it is a kind of honey, certainly less sweet than our native variety, but having similar powers to it, as regards cleansing, drying out and digesting. Galen, <hi rend="italic">De Simplicium Medicamentorum Facultatibus</hi> VII, s.v. &#8216;mel&#8217;</note>
+                                <bibl>Galen.de simpl.med.facult.lib.7.</bibl></hi></foreign><note resp="#HH" subtype="translation" type="editorial" xml:id="ch10transn44">Sugar which is brought from India and Arabia Felix [southern Arabia, Yemen] grows in canes: and it is a kind of honey, certainly less sweet than our native variety, but having similar powers to it, as regards cleansing, drying out and digesting. Galen, <hi rend="italic">De Simplicium Medicamentorum Facultatibus</hi> VII, s.v. &#8216;mel&#8217;</note>
                         </quote> Item, <quote>
                             <foreign corresp="#ch10transn45" xml:lang="la"><hi rend="opposite">Est &amp; quoddam mellis
                                     concreti genus quod Saccharum nominant: quodque in India &amp;
@@ -12590,12 +12591,12 @@
                         <quote>
                             <foreign corresp="#ch10transn47" xml:lang="la">Saccharum mellis species cum sit, siccat quoque
                                 &amp; abstergit.</foreign><note resp="#HH" subtype="translation" type="editorial" xml:id="ch10transn47">Since sugar is a species of honey, it also dries out and cleanses. Fernel, <hi resp="italic">Methodi Medendi</hi> VI.12</note>
-                            <bibl> Fern.Meth.l.6.c. 12.</bibl>
+                            <bibl><hi rend="italic"> Fern.Meth.l.</hi>6.c.12.</bibl>
                         </quote></note>
                     <p xml:id="ch10p3par24"><note subtype="summary" type="authorial" xml:id="ch10p3sumn17">17. <seg rend="italic">Honie to be preferred before Sugar. </seg></note> But
-                        in respect of the marvellous efficacie, which fine <ref target="#ch10p3bibln6"><seg rend="italic">v</seg><seg rend="italic">.</seg></ref>
+                        in respect of the marvellous efficacie, which fine <ref target="#ch10p3bibln6"><seg rend="italic">v</seg><seg rend="italic">.</seg></ref> and pure Honie hath in preserving health,
                         <note subtype="bibliographic" type="authorial" xml:id="ch10p3bibln6">
-                            <ref target="#ch10p2sumn4"><seg rend="italic">V</seg><seg rend="italic">.</seg><seg rend="italic">p</seg><seg rend="italic">.</seg><seg rend="normal">2</seg><seg rend="italic"> </seg><seg rend="italic">n</seg><seg rend="italic">.</seg><seg rend="normal">4</seg></ref>
+                            <ref target="#ch10p2sumn4"><seg rend="italic">V</seg><seg rend="italic">.</seg><seg rend="italic">p</seg><seg rend="italic">.</seg><seg rend="normal">2</seg><seg rend="italic"> </seg><seg rend="italic">n</seg><seg rend="italic">.</seg><seg rend="normal">4</seg><seg rend="italic">.</seg></ref>
                         </note>
                         <note subtype="bibliographic" type="authorial" xml:id="ch10p3bibln7">
                             <ref target="#ch10sumn1"><seg rend="italic"> </seg><seg rend="italic">V</seg><seg rend="italic">.</seg><seg rend="italic">n</seg><seg rend="italic">.</seg><seg rend="normal">1</seg><seg rend="italic">.</seg></ref>&amp;<ref target="#ch10sumn2"><seg rend="normal">2</seg><seg rend="italic">.</seg></ref>
@@ -12603,9 +12604,9 @@
                         Celestiall <term> Nectar.</term> Although some queint &amp; Ladilike palats
                         (whom nothing but that which is farre saught and deare bought can please)
                         unhappily neglect it. In preserving Fruits it hath more power through the
-                        viscositie thereof. Also Conserves and Syrups being made with Honie<ref target="#ch10p3glon13"><seg rend="italic">*</seg></ref> continue longer, and doe more kindly
+                        viscositie thereof. Also Conserves, and Syrups being made with Honie<ref target="#ch10p3glon13"><seg rend="italic">*</seg></ref> continue longer, and doe more kindly
                         worke their effects. So that wee may conclude with <quote>
-                            <bibl>Ecclesiasticus, cap. 11.3.</bibl>
+                            <bibl><hi rend="italic">Ecclesiasticus</hi>, cap. 11.3.</bibl>
                             <hi rend="italic">The Bee is little among such as flye: but hir Fruit is
                                 the chiefe of sweet things.</hi>
                         </quote>
@@ -12620,41 +12621,42 @@
                         is used in outward medicines for divers purposes: <ref target="#ch10p3glon14"><seg rend="italic">*</seg></ref>not onely to conteine the other
                         ingredients in forme of a Plaister<seg rend='roman'>;</seg> but also to open, to cleanse, to dry, to
                         digest, and to resist putrefaction. <note subtype="summary" type="authorial" xml:id="ch10p3sumn19">19. <seg rend="italic">A salve for an old sore. </seg></note> And therefore
-                        it hath the predominance in that excellent Salve called <ref target="#ch10p3glon15"><seg rend="italic">&#8224;</seg></ref><foreign corresp="#ch10transn50" xml:lang="la"><term>Unguentum Aegyptiacum:</term><note resp="#HH" subtype="translation" type="editorial" xml:id="ch10transn50">Egyptian unguent, known as &#8216;aegyptiacum&#8217;</note></foreign> which
+                        it hath the predominance in that excellent Salve, called <ref target="#ch10p3glon15"><seg rend="italic">&#8224;</seg></ref><foreign corresp="#ch10transn50" xml:lang="la"><term>Unguentum AEgyptiacum:</term><note resp="#HH" subtype="translation" type="editorial" xml:id="ch10transn50">Egyptian unguent, known as &#8216;aegyptiacum&#8217;</note></foreign> which
                         serveth to cleanse and mundifie old sores, and to take away both dead and
                         proud flesh. The receipt whereof is this. Of Verdegrece five ounces, of
-                        strong Vineger seven ounces, and of Honie foureteene. boile first the Honie
+                        strong Vineger seven ounces, and of Honie foureteene: boile first the Honie
                         and Vineger, and stirre them together: after a little while put in the
                         Verdegrece, being pounded to powder: and then, stirring all <fw type="catch"> together</fw>
                         <pb n="Y4r" />
                         <fw type="header"> Of the fruit and profit of Bees. </fw> together, let them
-                        boile until the Ointment have his just thicknesse and Purple colour. </p>
+                        boile untill the Ointment have his just thicknesse and Purple colour. </p>
                     <note place="inline" subtype="gloss" type="authorial" xml:id="ch10p3glon14">*<quote>
-                            <foreign corresp="#ch10transn51" xml:lang="la">Mel panaciae &amp; aliis quibusdam emplastris
+                            <foreign corresp="#ch10transn51" xml:lang="la"><hi rend="opposite">Mel panaciae &amp; aliis quibusdam emplastris
                                 miscetur, ut corpus praebeat emplasticum, &amp; praeterea siccet,
-                                tergeat, digerat, &#224; putredine vindicet. <bibl> Sylv. de med.simpl.mist.l.3.</bibl></foreign><note resp="#HH" subtype="translation" type="editorial" xml:id="ch10transn51">Honey is mixed with panacea and certain other poultices to produce a body that will stick in place, and moreover dries out, cleanses, digests and protects from putrefaction. Sylvius/Dubois, <hi rend="italic">De Medicamentorum Simplicium Delectu, Praeparationibus, Mistionis Modo</hi> III, &#8216;De emplastris&#8217;</note> 
+                                tergeat, digerat, &#224; putredine vindicet. <bibl> Sylv. de med.simpl.mist.l.3.</bibl></hi></foreign><note resp="#HH" subtype="translation" type="editorial" xml:id="ch10transn51">Honey is mixed with panacea and certain other poultices to produce a body that will stick in place, and moreover dries out, cleanses, digests and protects from putrefaction. Sylvius/Dubois, <hi rend="italic">De Medicamentorum Simplicium Delectu, Praeparationibus, Mistionis Modo</hi> III, &#8216;De emplastris&#8217;</note> 
                            
                         </quote><quote>
                             <foreign corresp="#ch10transn26" xml:lang="la">Mel calidum siccumque ordine secundo aperit,
                                 putredini obsistit, siccat, deterget, expurgatque meatus &amp;
-                                ulcera<seg rend='roman'>;</seg> nec ut sal, corporum substantiam coarctat.</foreign><note resp="#HH" subtype="translation" type="editorial" xml:id="ch10transn26">Honey is hot and dry in the second degree, unblocks, resists putrefaction, dries, cleanses and purges the alimentary canal and ulcers<seg rend='roman'>;</seg> and unlike salt it does not condense the substance of a body. Jean Fernel, <hi rend="italic">Methodi Medendi</hi>, VI.12</note>
+                                ulcera<seg rend='roman'>;</seg> nec ut sal, corporum substantiam coarctat.</foreign></quote><note resp="#HH" subtype="translation" type="editorial" xml:id="ch10transn26">Honey is hot and dry in the second degree, unblocks, resists putrefaction, dries, cleanses and purges the alimentary canal and ulcers<seg rend='roman'>;</seg> and unlike salt it does not condense the substance of a body. Jean Fernel, <hi rend="italic">Methodi Medendi</hi>, VI.12</note>
                             <bibl> Fern.Meth.l.6.c.12. </bibl>
-                        </quote></note>
+                        </note>
                     <note place="inline" subtype="gloss" type="authorial" xml:id="ch10p3glon15">&#8224;<bibl> Sylv.de.med.simp.mist.l.3.sect.10.&amp;Fern.Meth.l.7.
                         </bibl></note>
                     <p xml:id="ch10p3par26">
                         <note subtype="summary" type="authorial" xml:id="ch10p3sumn20">20. <seg rend="italic">Another. </seg></note>
                         <hi rend="italic">Another of like vertue, but not so much corrosive.</hi>
                     </p>
-                    <p xml:id="ch10p3par27">Boile a quart of good Ale in a Skillet to halfe a pinte:
+                    <p xml:id="ch10p3par27">Boile a quart of good Ale in a Skillet to halfe a pinte,
                         skimming off the froth as it ariseth: then put in a spoonfull of good Honie:
                         and skimming still as need is, let it boile to the halfe, or till it be so
                         clammy that being taken up upon a stickes end it will not drop, but string
                         downe like clarified Honie. </p>
                     <lb />
-                    <p xml:id="ch10p3par28"><note subtype="summary" type="authorial" xml:id="ch10p3sumn21">21. <seg rend="italic">The properties and vertues of Mede and Methaeglen </seg></note>
+                    <p xml:id="ch10p3par28"><note subtype="summary" type="authorial" xml:id="ch10p3sumn21">21. <seg rend="italic">The properties and vertues of <hi rend="opposite">Mede</hi> and
+                        <hi rend="opposite"> Methaeglen</hi></seg></note>
                         <hi rend="drop-capital">W</hi>hat are the vertues and properties of
-                            <term>Meth</term> or <term>Hydromel</term> may partly be knowne by that
+                            <term>Meth</term> or <term>Hydromel,</term> may partly be knowne by that
                         which hath beene said of Honie. For seeing Honie is the chiefe matter
                         whereof it is made<seg rend='roman'>;</seg> it must needs, together with the substance of Honie,
                         participate the naturall qualities thereof. The which, by the purifying in
@@ -12676,7 +12678,7 @@
                         Physick, now and then<seg rend='roman'>;</seg> he shall receive much benefit by it against Quartan
                         Agues, against Cacexies, and against the diseases of the braine, as the
                             <term> Epilepsie,</term> or the falling Evill: for which Wine is
-                        pernicious: it (6) cureth the Yellow Jaundice: it (7) is also good against
+                        pernicious: it (6) cureth the Yellow Jaundise: it (7) is also good against
                         Henne-bane with Milke, and against the <fw type="catch"> Winter-</fw>
                         <pb n="Y4v" />
                         <fw type="header"> Of the fruit and profit of Bees. </fw> Winter-cherrie, it
@@ -12691,11 +12693,12 @@
                             <foreign xml:lang="la">Intus mulso, foris oleo.</foreign>
                         </quote>
                     </p>
-                    <note place="inline" subtype="gloss" type="authorial" xml:id="ch10p3glon16"><bibl>(1.2.3:4) Pictorius, &amp; Plin. hist.l.22.c.24</bibl></note>
-                    <note place="inline" subtype="gloss" type="authorial" xml:id="ch10p3glonX16"><bibl>(5)Lobel </bibl></note>
-                    <note place="inline" subtype="gloss" type="authorial" xml:id="ch10p3glonXX16"><bibl>(6.7.8.9.10.) Plin.hist.l.22.c.24.</bibl>
+                    <note place="inline" subtype="gloss" type="authorial" xml:id="ch10p3glon16"><bibl>(1.2.3.4) <hi rend="italic">Pictorius</hi>, &amp; <hi rend="italic">Plin.hist.l.</hi>22.<hi rend="italic">c.</hi>24</bibl></note>
+                    <note place="inline" subtype="gloss" type="authorial" xml:id="ch10p3glonX16"><bibl>(5) <hi rend="italic">Lobel</hi> </bibl></note>
+                    <note place="inline" subtype="gloss" type="authorial" xml:id="ch10p3glonXX16"><bibl>(6.7.8.9.10.) <hi rend="italic">Plin.hist.l.</hi>22.<hi rend="italic">c.</hi>24.</bibl>
                     </note>
-                    <p xml:id="ch10p3par29"><note subtype="summary" type="authorial" xml:id="ch10p3sumn22">22. <seg rend="italic">Meth much used of the ancient Britaines. </seg></note> The same thing is more manifested by the generall
+                    <p xml:id="ch10p3par29"><note subtype="summary" type="authorial" xml:id="ch10p3sumn22">22. <seg rend="italic"><hi rend="opposite">Meth</hi> much used of the ancient
+                        <hi rend="opposite">Britaines.</hi></seg></note> The same thing is more manifested by the generall
                         example of the ancient <term> Britaines:</term> who, above all other
                         Nations, have ever beene addicted to <term> Meth</term> and <term>
                             Methaeglen.</term> For under Heaven there is no fairer people of
@@ -12705,7 +12708,7 @@
                                 putant illi, sed<ref target="#ch10p3glon17"><seg rend="italic">*</seg></ref> Graeco nomine
                                 dictus, est altera liquida &amp; limpida Septentrionis
                                 theriaca.</foreign><note resp="#HH" subtype="translation" type="editorial" xml:id="ch10transn29">The Welsh drink of Methaeglen, which is called not by a native name, as they believe, but by a Greek one, is the other liquid, transparent antidote against venomous bites in the North. L&#8217;Obel/Lobelius</note>
-                        </quote><note subtype="summary" type="authorial" xml:id="ch10p3sumn23">23. <seg rend="italic">Whence Meth and Methaeglen have their name. </seg></note></p>
+                        </quote><note subtype="summary" type="authorial" xml:id="ch10p3sumn23">23. <seg rend="italic">Whence <hi rend="opposite" />Meth and <hi rend="opposite">Methaeglen</hi> have their name. </seg></note></p>
                     <note place="inline" subtype="gloss" type="authorial" xml:id="ch10p3glon17"><foreign corresp="#ch10transn30x" xml:lang="la">*<term> Hydromel</term> borealibus, quibus vineta desunt, pro vino est.
                         Ideoque Cambris &#224; &#956;&#941;&#952;&#965; <term> Meth</term> dicitur. Pro qua voce Germani
                         (quibus Teutonico idiomate solenne est D
@@ -12717,7 +12720,7 @@
                             <term>Hydromel</term> est praestantius, &#224; &#956;&#941;&#952;&#965; &#945;&#7984;&#947;&#955;&#942;&#949;&#957; sive contract&#232;
                         &#945;&#7984;&#947;&#955;&#8134;&#957;, id est, vinum splendidum denominatur: qu&#242;d (mod&#242; vetus sit &amp;
                         rite confectum) non minus colore succino, quam sapore &amp; virtute prae
-                        vinis vinaceis splendeat. De hoc Mercator in <placeName><hi rend="opposite">Transylvania</hi></placeName>. <q>Ex melle incolae delicatum potum
+                        vinis vinaceis splendeat. De hoc Mercator in <hi rend="opposite"><placeName>Transylvania</placeName>. <q>Ex melle incolae delicatum potum
                             conficiunt: qui etiam rerum peritis, vinum Creticum ceu Malvaticum
                             opinantibus, facile imponat.</q> Et Ulysses Aldrovander de mulso. <q>Fit
                             praeterea ex melle potus genus toti nunc Sarmatiae, vicinisque
@@ -12731,7 +12734,7 @@
                         illustris: foris vero amoenissimis ac foecundissimis hortis &amp; agris
                         variisque pomorum ac fructuum generibus luxurians. Claret hodie haec civitas
                         ob Medonem (potionem ex melle) qui null&#226; paratur quam in hac civitate
-                        excellentior. </foreign><note resp="#HH" subtype="translation" type="editorial" xml:id="ch10transn30x">Mead serves for wine for Northerners, who lack vines. Therefore by the Welsh it is called &#8216;Meth&#8217;, from the Greek methy. For this word the Germans (whose habit in the Teutonic idiom is always to replace Th with D, as in &#8216;De, Dis, Dat, Dunder&#8217; for &#8216;The, This, That, Thunder&#8217;) and indeed even the English and other Northern peoples of Germanic origin corruptly say &#8216;Mead&#8217;. The Poles and Lithuanians drink greatly of mead, because they have honey in abundance, according to Andreas Matthiolus. But Methaeglen, which is a particularly fine mead, is so named from methy aigl&#275;en, or in contracted form aigl&#275;n, that is &#8216;splendid wine&#8217;: because (as long as it is old and properly made) it outshines wines from the vine no less for its amber colour than for its flavour and virtues. On this, Mercator on Transylvania: The natives make a delicate drink from honey, which easily deceives even experts who suppose it to be Cretan or Malvasia wine. And Ulisse Aldrovandi on mead: There is made moreover a kind of drink from honey that is now familiar to all Sarmatia and the Muscovites who are its neighbours. From there it also spread throughout almost the whole of Europe and especially throughout Germany. It is boiled with the addition of many aromatics (they call it mead), and is often so fine that it is only found at nobler tables, and only the aristocracy drink it. Again, Mercator on Bohemia, on the city of Cheb: The whole city is very decorative and all most beautiful: within the city with its beautiful buildings, a civilised and urbane population, and splendid men outstanding in egregious virtue, and outside with most pleasant and productive gardens and orchards abounding in different kinds of apples and fruit. This city is famous today for its mead (a drink from honey) which is found nowhere more excellent than in this city.</note></note>
+                        excellentior. </hi></foreign><note resp="#HH" subtype="translation" type="editorial" xml:id="ch10transn30x">Mead serves for wine for Northerners, who lack vines. Therefore by the Welsh it is called &#8216;Meth&#8217;, from the Greek methy. For this word the Germans (whose habit in the Teutonic idiom is always to replace Th with D, as in &#8216;De, Dis, Dat, Dunder&#8217; for &#8216;The, This, That, Thunder&#8217;) and indeed even the English and other Northern peoples of Germanic origin corruptly say &#8216;Mead&#8217;. The Poles and Lithuanians drink greatly of mead, because they have honey in abundance, according to Andreas Matthiolus. But Methaeglen, which is a particularly fine mead, is so named from methy aigl&#275;en, or in contracted form aigl&#275;n, that is &#8216;splendid wine&#8217;: because (as long as it is old and properly made) it outshines wines from the vine no less for its amber colour than for its flavour and virtues. On this, Mercator on Transylvania: The natives make a delicate drink from honey, which easily deceives even experts who suppose it to be Cretan or Malvasia wine. And Ulisse Aldrovandi on mead: There is made moreover a kind of drink from honey that is now familiar to all Sarmatia and the Muscovites who are its neighbours. From there it also spread throughout almost the whole of Europe and especially throughout Germany. It is boiled with the addition of many aromatics (they call it mead), and is often so fine that it is only found at nobler tables, and only the aristocracy drink it. Again, Mercator on Bohemia, on the city of Cheb: The whole city is very decorative and all most beautiful: within the city with its beautiful buildings, a civilised and urbane population, and splendid men outstanding in egregious virtue, and outside with most pleasant and productive gardens and orchards abounding in different kinds of apples and fruit. This city is famous today for its mead (a drink from honey) which is found nowhere more excellent than in this city.</note></note>
                     <p xml:id="ch10p3par30">And as good and old <term>Methaeglen</term> excelleth
                         all Wines, as <fw type="catch"> well</fw>
                         <pb n="Z1r" />
@@ -12769,7 +12772,7 @@
                     <p xml:id="ch10p3par33">Moreover, it maketh the most excellent<seg rend='roman'>;</seg> light fit for
                         the uses of the most excellent<seg rend='roman'>;</seg> for cleernesse, sweetnesse, neatnesse, to be
                         preferred before all other: Which <bibl xml:id="ch10p3bibln8X1"><persName>
-                                Scaliger</persName> in his <title>aenigmatica,</title></bibl> giving
+                                Scaliger</persName> in his <title>AEnigmatica,</title></bibl> giving
                         it the precedence, doth intimate.</p>
                     <quote>
                         <lg corresp="#ch10transn31" xml:lang="la">
@@ -12801,7 +12804,7 @@
                         </quote></note>
                     <p xml:id="ch10p3par34"><note subtype="summary" type="authorial" xml:id="ch10p3sumn25">25. <seg rend="italic">Artificiall Wax. </seg></note> This naturall yellow
                         Wax is by Art, for certaine purposes, made white, red, and greene. </p>
-                    <p xml:id="ch10p3par35"><note subtype="summary" type="authorial" xml:id="ch10p3sumn26">26. <seg rend="italic">To make white Wax </seg></note> Wax is whited after
+                    <p xml:id="ch10p3par35"><note subtype="summary" type="authorial" xml:id="ch10p3sumn26">26. <seg rend="italic">To make white Wax. </seg></note> Wax is whited after
                         this manner. Take the whitest and purest Wax: which, being cut into small
                         peeces, put into an earthen vessell, and poure Sea-water or Brine into it,
                         as much as may suffice to boile it. And cast in also a little Niter: all
@@ -12815,17 +12818,17 @@
                         bottom of it in cold water, dip it into the hot vessell, and assoone as this
                         wet bottom toucheth the wax, pull it out againe, and you shall have sticking
                         to the bottom a thin cake: which when you have taken off, wet the bottom
-                        againe, and dip it as before: and thus do till you have taken up all the wax
+                        againe, and dip it as before: and thus doe till you have taken up all the wax
                         in cakes. These cakes hang in the open aire upon a line drawne through them,
                         so that they may not touch one an other, besprinkling them with water in the
                         Sun-shine untill they be white. If any man would have wax whiter, let him
-                        boile it oftner, and do all other things in like manner as before. </p>
+                        boile it oftner, and doe all other things in like manner as before. </p>
                     <quote>
-                        <foreign corresp="#ch10transn34" xml:lang="la">Hanc dealbandae cera rationem docuit
+                        <foreign corresp="#ch10transn34" xml:lang="la">Hanc dealbandae cerae rationem docuit
                             Dioscorides,</foreign><note resp="#HH" subtype="translation" type="editorial" xml:id="ch10transn34">This method of making wax white is given by Dioscorides [<hi rend="italic">De Medica Materia</hi>], II.105</note>
-                        <bibl>l.2.c.105.</bibl>
+                        <bibl><hi rend="italic">l</hi>.2.<hi rend="italic">c.</hi>105.</bibl>
                     </quote>
-                    <p xml:id="ch10p3par36"><note subtype="summary" type="authorial" xml:id="ch10p3sumn27">27. <seg rend="italic">To make red Wax. </seg></note> To make Wax red, Take
+                    <p xml:id="ch10p3par36"><note subtype="summary" type="authorial" xml:id="ch10p3sumn27">27. <seg rend="italic">To make red Wax. </seg></note> To make Wax red, Take to
                         one pound of Wax, in Summer three ounces of cleere Turpentine, in Winter
                         foure. <fw type="catch"> These</fw>
                         <pb n="Z2r" />
@@ -12835,7 +12838,7 @@
                         Marble or Glasse, and sweet Oile, of each one ounce: stirre all these and
                         mix them well together. For want of <term>Vermilion</term>, <note subtype="gloss" type="authorial" xml:id="ch10p3glon20">
                             *Cinabrium</note> they take three times so much red Lead, but that is
-                        not so good. <note subtype="summary" type="authorial" xml:id="ch10p3sumnX5">Minimum. <seg rend="italic" /></note><lb />
+                        not so good. <note subtype="summary" type="authorial" xml:id="ch10p3sumnX5">Minium. <seg rend="italic" /></note><lb />
                     </p>
                     <p xml:id="ch10p3par37"><note subtype="summary" type="authorial" xml:id="ch10p3sumn28">28. <seg rend="italic">To make greene Wax. </seg></note> To make greene Wax,
                         take in stead of <term> Vermilion,</term> the like quantitie of
@@ -12844,7 +12847,7 @@
                     <lb />
                     <p xml:id="ch10p3par38"><note subtype="summary" type="authorial" xml:id="ch10p3sumn29">29. <seg rend="italic">Oile of wax. </seg></note> And such is Wax in his
                         kinde, both Naturall and Artificiall. Naturall Wax is altered by
-                        distillation into an Oile of marvelous vertue. <persName>Raymond
+                        distillation into an Oile of marvellous vertue. <persName>Raymond
                             Lulli</persName> greatly commendeth it, proving it to be rather a
                         C&#339;lestiall or Divine medicine than humane<seg rend='roman'>;</seg> because in wounds it worketh
                         miraculously: which therefore is not so well allowed of the common
@@ -12872,7 +12875,7 @@
                         therof adding foure ounces of the powder of red Bricke finely bruised<seg rend='roman'>;</seg> put
                         it all together into your Retort of Glasse well luted: <ref target="#ch10p3bibln9"><seg rend="italic">v</seg><seg rend="italic">.</seg></ref>
                         <note subtype="bibliographic" type="authorial" xml:id="ch10p3bibln9">
-                            <ref target="#ch10p3sumn10"><seg rend="italic"> </seg><seg rend="italic">V</seg><seg rend="italic">.</seg><seg rend="italic">n</seg><seg rend="italic">.</seg><seg rend="normal">1</seg><seg rend="normal">0</seg><seg rend="italic"> </seg></ref>
+                            <ref target="#ch10p3sumn10"><seg rend="italic"> </seg><seg rend="italic">V</seg><seg rend="italic">.</seg><seg rend="italic">n</seg><seg rend="italic">.</seg><seg rend="normal">1</seg><seg rend="normal">0</seg><seg rend="italic">.</seg><seg rend="italic"> </seg></ref>
                         </note> then set the Retort into an Earthen pot, filling it round about and
                         beneath with fine sifted Ashes or Sand<seg rend='roman'>;</seg> and set the pot with the Bodie in it
                         on a Furnace, and so distill it with a soft fire. And there will come forth
@@ -12904,25 +12907,25 @@
                         Powders and other like Ingredients, if there be any: and assone as you have
                         stirred them well together, (before the liquor be very hot) set it a cooling
                         and make your <term> Cere-cloth.</term>
-                    </p>
+                    </p><fw type="catch">A <hi rend="italic">Cere-</hi></fw>
                     <pb n="Z3r" />
                     <fw type="header"> Of the fruit and profit of Bees. </fw>
-                    <p xml:id="ch10p3par44"><note subtype="summary" type="authorial" xml:id="ch10p3sumn34">34. <seg rend="italic">A Cere-cloth to refresh the Sinews and Muscles. </seg></note> A <term> Cere-cloth</term> to refresh the wearied
+                    <p xml:id="ch10p3par44"><note subtype="summary" type="authorial" xml:id="ch10p3sumn34">34. <seg rend="italic">A Cere-cloth to refresh the Sinewes and Muscles. </seg></note> A <term> Cere-cloth</term> to refresh the wearied
                         Sinewes and tired Muscles is thus to be made. Take (2) Oile and Wax
                             <emph>ana</emph> two ounces, Turpentine two drams, &amp; Hony halfe an
                         ounce. </p>
                     <p xml:id="ch10p3par45"><note subtype="summary" type="authorial" xml:id="ch10p3sumn35">35. <seg rend="italic">A Cere-cloth to comfort the stomacke. </seg></note>
                         To comfort the stomacke and helpe concoction, make a <term> Cerat</term>
                         thus. Take (3) Oile of Masticke, of Mint, of Wormwood, of Nutmeg, and <ref target="#ch10p3glon21"><seg rend="italic">*</seg></ref>Speeke, or any of these, and a convenient
-                        quantitie of Wax. <note subtype="gloss" type="authorial" xml:id="ch10p3glon21">+Nardinum</note>
+                        quantitie of Wax. <note subtype="gloss" type="authorial" xml:id="ch10p3glon21">+Nardinum.</note>
                     </p>
                     <p xml:id="ch10p3par46"><note subtype="summary" type="authorial" xml:id="ch10p3sumn36">36. <seg rend="italic">A Cere-cloth for the Wormes. </seg></note> For the
                         wormes in the belly of a childe or other, Take Wax and Rozin <emph>
                             Ana</emph> one ounce, Treacle one spoonfull, Aloes two drams. Melt &amp;
-                        mingle the Wax &amp; Rozin together in a Pewter-dish, upon a Chasing-dish
+                        mingle the Wax &amp; Rozin together in a Pewter-dish, upon a Chafing-dish
                         and Coales: being melted, skimme it cleane: then taking it off, put in the
-                        Treacle, and stirre it upon, and stirre it in, so that it may not be clod.
-                        And if, by this time, it be too cold to come from the dish: warme it a
+                        Treacle, and stirre it among: then having pounded the Aloes to powder, strew it upon, and stirre it in, so that it may not be clod.
+                        And if, by this time, it be too cold to come from the dish<seg rend='roman'>;</seg> warme it a
                         little upon the Chafing-dish againe: then having wet the Table with Butter,
                         poure it thereon, and worke it together with your knife: and so make it up
                         in a Roule. To make the Dish cleane, warme it, and wipe it with a woollen
@@ -12933,7 +12936,7 @@
                         through, the plaister may lie both closer and faster: and for the Brest,
                         spread it upon a square peece three inches broad, and twice so long: and lay
                         it athurt the Brest, betweene, or close under the Paps.</p>
-                    <p xml:id="ch10p3par48">This doe twice together, and let the Plasters remaine
+                    <p xml:id="ch10p3par48">This doe twice together, and let the Plaisters remaine
                         each time upon the place, untill the heat of the stomacke have dried them,
                         and made them loose: which, in some that are much troubled with the wormes,
                         will be within foure and twentie houres<seg rend='roman'>;</seg> although in some they will sticke a
@@ -12942,12 +12945,12 @@
                             <bibl> Fern.Meth.lib.4,c.19.&amp;20.</bibl> (2) <bibl>Fern.
                             Meth.l.4.c.19.</bibl> (3) <bibl>Fern.Meth.l.5.c.22.</bibl></note>
                     <p xml:id="ch10p3par49"><note subtype="summary" type="authorial" xml:id="ch10p3sumn37">37. <seg rend="italic">A Salve for a greene wound. </seg></note> For example
-                        of a Salve, take <term>Emplastrum de janua.</term> marvellous effectuall in
+                        of a Salve, take <term>Emplastrum de janua,</term> marvellous effectuall in
                         curing greene wounds and new ulcers. <fw type="catch"> It</fw>
                         <pb n="Z3v" />
                         <fw type="header"> Of the fruit and profit of Bees. </fw> It asswageth
                         inflammation, it cleanseth, it closeth, and filleth with flesh, and maketh
-                        whole. It is thus made: <ref target="#ch10p3glon23"><seg rend="italic">*</seg></ref> Takethe juice of
+                        whole. It is thus made: <ref target="#ch10p3glon23"><seg rend="italic">*</seg></ref> Take the juice of
                         Parsley, Plantan, and Betonie, <emph> ana</emph> one pound: Wax, Pitch,
                         Rozin, and Turpentine, <emph>ana</emph> halfe a pound: boile the Wax, Pitch,
                         and Rozin in the Juices, softly stirring all together, untill the quantitie
@@ -12971,7 +12974,7 @@
         </body>
         <back>
             <trailer>
-                <quote type="trailer-quote"><bibl>PSAL. III.v.2.</bibl><lb /><foreign corresp="#ch10transn35" xml:lang="la"> Magna opera <emph>
+                <quote type="trailer-quote"><bibl>PSAL. III.<hi rend="italic">v</hi>.2.</bibl><lb /><foreign corresp="#ch10transn35" xml:lang="la"> Magna opera <emph>
                     JEHOVAE</emph>, exquisita ab omnibus qui delectantur in illis.</foreign><note resp="#HH" subtype="translation" type="editorial" xml:id="ch10transn35">Great are the works of JEHOVAH, and sought out by all who delight in them. Psalm III.2</note></quote>
                 <hi rend="finis"><foreign corresp="#ch10transn36" xml:lang="la">FINIS.</foreign></hi><note resp="#HH" subtype="translation" type="editorial" xml:id="ch10transn36">THE END</note>
             </trailer>
