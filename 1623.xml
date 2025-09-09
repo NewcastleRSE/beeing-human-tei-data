@@ -8392,15 +8392,15 @@
             <fw type="ornament"></fw>
             <div n="6" type="chapter" xml:id="ch6">
                 <head type="chapter-number">CHAP. VI</head>
-                <head type="chapter-title">Of the Bees Worke<app subtype="del" type="minor">
+                <head type="chapter-title">Of the Bees Worke.<app subtype="del" type="minor">
                         <lem wit="#b1623"></lem>
                         <rdg wit="#b1609"><ptr target="1609.xml#ch6ancs1 1609.xml#ch6ance1"></ptr></rdg>
-                    </app>.</head>
+                    </app></head>
                 <p xml:id="ch6par1">
                     <note subtype="summary" type="authorial" xml:id="ch6sumn1">1. Bees most
                         industrious creatures.</note>
                     <hi rend="drop-capital"> U</hi>Nto the industrious nature of Bees nothing is
-                    more odious then sloth and idleness: while there is matter to worke upon
+                    more odious than sloth and idleness: while there is matter to worke upon
                     (unlesse they be let by unkinde weather) their <app subtype="change" type="vocabulary">
                         <lem wit="#b1623">worke</lem>
                         <rdg wit="#b1609"><ptr target="1609.xml#ch6ancs2 1609.xml#ch6ance2"></ptr></rdg>
@@ -8411,11 +8411,11 @@
                     <fw type="header"> Of the Bees Worke. </fw> for their paines past, but continue
                     still their travaile unto death: <ref target="#ch6bibln1">v.</ref>
                     <note subtype="bibliographic" type="authorial" xml:id="ch6bibln1">
-                        <ref target="#ch1sumn58"> v.c.1.n.58.</ref>
+                        <ref target="#ch1sumn58"> V.c.1.n.58.</ref>
                     </note></p>
                 <p xml:id="ch6par2"><note subtype="summary" type="authorial" xml:id="ch6sumn2">2. In
-                        three months they cannot worke.</note> In the three still moneths indeed,
-                        <term>Sagittarius</term> , <term> Capricornus</term> and
+                        three monthes they cannot worke.</note> In the three still moneths indeed,
+                        <term>Sagittarius</term>, <term> Capricornus,</term> and
                         <term>Aquarius</term>, because then there is nothing to gather, they worke
                     not: (yet when a faire day or houre commeth<app subtype="add" type="minor">
                         <lem wit="#b1623">, as wearie of rest,</lem>
@@ -8425,16 +8425,14 @@
                         <rdg wit="#b1609"><ptr target="1609.xml#ch6ancs3 1609.xml#ch6ance3"></ptr></rdg>
                     </app> abroad, <app subtype="change" type="minor">
                         <lem wit="#b1623">imploying themselves in divers necessarie offices: <ref target="#ch6bibln2">v.</ref>) <note subtype="bibliographic" type="authorial" xml:id="ch6bibln2">
-                                <ref target="#ch3sumn60">v.c.3.n60</ref><ref target="#ch3sumn61">61.</ref>
+                                <ref target="#ch3sumn60">V.c.3.n.60.</ref><ref target="#ch3sumn61">61.</ref>
                             </note></lem>
                         <rdg wit="#b1609"><ptr target="1609.xml#ch6ancs4 1609.xml#ch6ance4"></ptr></rdg>
                     </app> but so long as any good flowers grow, even from <term>Pisces</term> or a
-                    litle before unto <term> Sagittarius</term> and, some yeares, somewhat after,
-                    (which is full nine moneths) they lose no time, (<quote>
-                        <foreign corresp="#ch6transn1" xml:lang="la">Nullus, dum per coelum licuit, perit dies</foreign><note resp="#HH" subtype="translation" type="editorial" xml:id="ch6transn1">Not a day is lost as long as the weather allows it. <hi rend="italic">NH</hi> XI.14(5)</note>
-                        <note subtype="bibliographic" type="authorial" xml:id="ch6bibln3">
-                            <bibl>Nat.hist.l.11.cap.6.</bibl>
-                        </note></quote> ) <note subtype="summary" type="authorial" xml:id="ch6sumn3"> 3. All the yeare after they lose no time.</note> but follow their <app subtype="change" type="vocabulary">
+                    litle before, unto <term> Sagittarius</term> and, some yeares, somewhat after,
+                    (which is full nine moneths) they lose no time, <quote>
+                        <foreign corresp="#ch6transn1" xml:lang="la">(Nullus, dum per coelum licuit, perit dies)</foreign><note resp="#HH" subtype="translation" type="editorial" xml:id="ch6transn1">Not a day is lost as long as the weather allows it. <hi rend="italic">NH</hi> XI.14(5)</note>
+                        </quote> <note subtype="summary" type="authorial" xml:id="ch6sumn3"> 3. All the yeare after they lose no time.</note> but follow their <app subtype="change" type="vocabulary">
                         <lem wit="#b1623">businesse</lem>
                         <rdg wit="#b1609"><ptr target="1609.xml#ch6ancs5 1609.xml#ch6ance5"></ptr></rdg>
                     </app> tooth and naile. <note subtype="summary" type="authorial" xml:id="ch6sumn4">4. Three fruits of Bees labour.</note>
@@ -8476,7 +8474,7 @@
                     </app>
                     <app subtype="add" type="minor">
                         <lem wit="#b1623"><hi rend="drop-capital">T</hi>heir first worke is the
-                            ground of the other two, and for neasts and nurseries to breed their
+                            ground of the other two, the Artificial Cells serving both for Coffers to lay their sweet treasure in, and for neasts and nurseries to breed their
                             young in.</lem>
                         <rdg wit="#b1609"></rdg>
                     </app>
@@ -8518,7 +8516,7 @@
                         working of the combes.</note> But if your curiositie would so faine behold
                     the manner of their curious and artificiall building, the onely way is this. In
                         <term> Gemnini</term> set up a last yeeres midling swarme two or three
-                    handfulls above the stoole and then when most of the Bees are abroad (but most
+                    handfulls above the stoole: and then when most of the Bees are abroad (but most
                     fitly in the forenoone when they are most quiet) you may behinde the stoole
                     behold them working on the edges of their combes: and having blowne their liquid
                     and soft wax out of their mouthes (as the Waspes doe their drossie stuffe, which
@@ -8528,7 +8526,7 @@
                         How much wax they bring at once.</note> How much wax they bring at once,
                     doth appeare by the new swarmes: whose first weekes worke is spent chiefly in
                     building combes: wherein they are so earnest, that it falleth out with them as
-                    it is in the Proverbe, <quote><bibl>proverbs</bibl>The more haste the worse
+                    it is in the <bibl>Proverbe</bibl>, <quote>The more haste the worse
                         speed.</quote> For many of their burdens doe fall from them before they can
                     fasten them to the Combes. You may then see great store of them upon the stoole
                     by the skirts of the hive, like unto the white scales, which fall from young
@@ -8538,7 +8536,7 @@
                     of that doubt. </p>
                 <p xml:id="ch6par5"><note subtype="summary" type="authorial" xml:id="ch6sumn9">9.
                         The admirable Architecture of their combs and cells.</note> The Bees combes
-                    are placed otherwise then the Waspes: for the Waspes hang theirs one <app subtype="change" type="vocabulary">
+                    are placed otherwise than the Waspes: for the Waspes hang theirs one <app subtype="change" type="vocabulary">
                         <lem wit="#b1623">under</lem>
                         <rdg wit="#b1609"><ptr target="1609.xml#ch6ancs10 1609.xml#ch6ance10"></ptr></rdg>
                     </app> another, and the Bees theirs one <app subtype="change" type="vocabulary">
@@ -8550,7 +8548,7 @@
                     the number of their feet: and of that length and widenesse, that each of them
                     may easily containe a Bee. Which are so artificiallie wrought and joined
                     together, that <persName>S. Ambrose</persName> in the consideration thereof
-                    saith. <quote>
+                    saith: <quote>
                         <note subtype="bibliographic" type="authorial" xml:id="ch6bibln9">
                             <bibl>Hexamer.l.5.c.21.</bibl>
                         </note>
@@ -8579,7 +8577,7 @@
                                 <graphic rend="small" url="media/diagrams/ch6/ch6fig1.svg"></graphic>
                             </figure> which is so articiall, as well for strength as beauty; that no
                             schadon, though the thin bottome of his cell should faile, can breake
-                            through into a cell of the other side. Hee that sees this, sees not a
+                            through into a cell of the other side. Hee that sees this, sees he not a
                             wonder? </lem>
                         <rdg wit="#b1609"></rdg>
                     </app></p>
@@ -8615,7 +8613,7 @@
                         The Queenes cels are built single in divers places.</note> But the Queenes
                     cells are built single, every one by himselfe: and that in divers places of the
                     Hive, some above, and some beneath: that, as other princes, she may for her
-                    delight remove at hir pleasure. But, for the most part, in the out-sides <fw type="sig">of</fw>
+                    delight remove at hir pleasure. But, for the most part, in the out-sides <fw type="catch">of</fw>
                     <pb n="O1v"></pb>
                     <fw type="header"> Of the Bees Worke. </fw> of the combes: for although it be
                     fit for Princes to be neere their chiefe Cities; yet doe they not love to be
@@ -8623,7 +8621,7 @@
                     which is the most perfect figure, as the six square is most fit for comely
                     joining many such buildings together. They are also larger than the rest, to
                     shew that subjects houses should not match their Soveraignes in greatnesse. In
-                    these Palaces do they breed their young Princes, <ref target="#ch6bibln11">
+                    these Palaces do they breed their young Princes. <ref target="#ch6bibln11">
                         v.</ref>
                     <note subtype="bibliographic" type="authorial" xml:id="ch6bibln11">
                         <ref target="#ch4sumn18">V.c.4.n.18.</ref>
@@ -8698,7 +8696,7 @@
                         Wax is gathered onely in foure months.</note> The time when <app subtype="change" type="vocabulary">
                         <lem wit="#b1623">Bees</lem>
                         <rdg wit="#b1609"><ptr target="1609.xml#ch6ancs22 1609.xml#ch6ance22"></ptr></rdg>
-                    </app> gather wax, is onely betweene <term> Taurus</term> and <term>Virgo</term>
+                    </app> gather wax, is onely betweene <term> Taurus</term> and <term>Virgo:</term>
                     (unlesse <term> Aries</term> be <app subtype="change" type="minor">
                         <lem wit="#b1623">milde and warme:</lem>
                         <rdg wit="#b1609"><ptr target="1609.xml#ch6ancs23 1609.xml#ch6ance23"></ptr></rdg>
@@ -8710,10 +8708,10 @@
                     those 3 <hi rend="italic"><app subtype="change" type="vocabulary">
                             <lem wit="#b1623">still</lem>
                             <rdg wit="#b1609"><ptr target="1609.xml#ch6ancs24 1609.xml#ch6ance24"></ptr></rdg>
-                        </app></hi> moneths, when the weather keepeth in both Bees and flowers, <app subtype="add" type="reference">
+                        </app></hi> moneths, when the weather keepeth in both Bees and flowers. <app subtype="add" type="reference">
                         <lem wit="#b1623"><ref target="#ch6bibln13">v.</ref>
                             <note subtype="bibliographic" type="authorial" xml:id="ch6bibln13">
-                                <ref target="#ch3sumn59">V.c. 3. n. 59.</ref>
+                                <ref target="#ch3sumn59">V.c.3.n.59.</ref>
                             </note></lem>
                         <rdg wit="#b1609"></rdg>
                     </app>
@@ -8729,8 +8727,8 @@
                 <note place="inline" subtype="gloss" type="authorial" xml:id="ch6glon1"><app subtype="add" type="reference">
                         <lem wit="#b1623">*Yea rather this is the true <term>Nectar</term> &amp;
                                 <term>Ambrosia</term> wherwith <term> Jupiter</term> was first
-                            nourished in the Ile of Crete, <ref target="#ch4sumn6">v.c. 4.n.6.</ref>
-                            while the <term> Curetes</term> hid him from Saturn. Which gave
+                            nourished in the Ile of Crete, <ref target="#ch4sumn6">v.c.4.n.6.</ref>
+                            while the <term> Curetes</term> hid him from <term>Saturn</term>. Which gave
                             occassion to the Poets of this fiction, that the Bees were his </lem>
                         <rdg wit="#b1609"></rdg>
                     </app><fw type="catch"> nurses.</fw>
@@ -8739,12 +8737,12 @@
                     <app subtype="add" type="reference">
                         <lem wit="#b1623">nurses. <quote><foreign corresp="#ch6transn10" xml:lang="la">Dictaeo caeli regem
                             pavêre sub antro.</foreign><note resp="#HH" subtype="translation" type="editorial" xml:id="ch6transn10">They fed the king of heaven in a cave beneath Mount Dicte. <hi rend="italic">Georgics</hi> IV.152</note>
-                                <bibl> Virg.Geor.4.</bibl>
+                            <bibl><hi rend="italic"> Virg.Geor.</hi>4.</bibl>
                             </quote> And afterward, when they would make him immortal; because of
-                            the long-preserving vertue that hony hath, (<ref target="#ch10p3sumn1">v.c. 10.par.3.n.1.</ref>) they fained it to be his immortall food. <quote>
+                            the long-preserving vertue that hony hath, (<ref target="#ch10p3sumn1">v.c.10.par.3.n.1.</ref>) they fained it to be his immortall food. <quote>
                                 <foreign corresp="#ch6transn11" xml:lang="la">Jupiter Ambrosia satur est &amp; nectare
-                                    vivit.</foreign><note resp="#HH" subtype="translation" type="editorial" xml:id="ch6transn11">Jupiter grows fat on ambrosia and lives on nectar. Martial, <hi rend="italic">Epigrams</hi> XI.57.3</note>
-                                <bibl> Mart.l. 11.Ep.58.</bibl>
+                                    vivit.</foreign><note resp="#HH" subtype="translation" type="editorial" xml:id="ch6transn11">Jupiter grows fat on ambrosia and lives on nectar. Martial XI.57.3</note>
+                                <bibl> <hi rend="italic">Mart.l.</hi>11.<hi rend="italic">Ep.</hi>58.</bibl>
                             </quote></lem>
                         <rdg wit="#b1609"></rdg>
                     </app>
@@ -8752,17 +8750,17 @@
                 <p xml:id="ch6par13"><note subtype="summary" type="authorial" xml:id="ch6sumn18">18.
                         How Ambrosia or grosse hony is gathered.</note> The grosse hony is gathered
                     by their fangs: from whence is it conveied by the fore-legs to the thighes of
-                    the hin-legs (<quote>
-                        <foreign corresp="#ch6transn12" xml:lang="la">Quae flores comportant prioribus pedibus foemina
+                    the hin-legs <quote>
+                        <foreign corresp="#ch6transn12" xml:lang="la">(Quae flores comportant prioribus pedibus foemina
                             onerant propter id natura scabra, pedes priores rostro: totaeque onustae
-                            remeant sarcina pandatae</foreign><note resp="#HH" subtype="translation" type="editorial" xml:id="ch6transn12">The ones that harvest flowers with their front legs load up their thighs which are of a scaly nature for this reason, and with their beak they load up their front legs: and when they are fully laden they return with their burden. <hi rend="italic">NH</hi> XI.21(10)</note>
+                            remeant sarcina pandatae)</foreign><note resp="#HH" subtype="translation" type="editorial" xml:id="ch6transn12">The ones that harvest flowers with their front legs load up their thighs which are of a scaly nature for this reason, and with their beak they load up their front legs: and when they are fully laden they go back rotund with their burden. <hi rend="italic">NH</hi> XI.21(10)</note>
                         <note subtype="bibliographic" type="authorial" xml:id="ch6bibln14">
                             <bibl> Nat.hist.li.11.c.10.</bibl>
                         </note>
                     </quote> ) and that so nimbly, that unlesse you have a quicke eie, you can
                     scarce perceive it. </p>
-                <p xml:id="ch6par14">This worke may best be seene in the spring, when they gather
-                    upon the blackthorne: for then by reason of the cold they are not so quicke.</p>
+                <p xml:id="ch6par14"><note place="inline" subtype="gloss" type="authorial" xml:id="ch6glon2">This worke may best be seene in the spring, when they gather
+                    upon the blackthorne: for then by reason of the cold they are not so quicke.</note></p>
                 <p xml:id="ch6par15"><note subtype="summary" type="authorial" xml:id="ch6sumn19">19.
                         Ambrosia, is the Schadons food, as water their drinke.</note>
                     <app subtype="del" type="minor">
@@ -8799,14 +8797,14 @@
                         This Ambrosia is commonly taken for wax.</note> Anent this leg-stuffe or
                     grosse hony there is a generall error. For, without all scruple or doubt, men
                     doe count it and call it wax: (as did some also in time of old, whose opinion
-                        <persName>Aristotle</persName> doth thus deliver. <quote>
+                        <persName>Aristotle</persName> doth thus deliver: <quote>
                         <note subtype="bibliographic" type="authorial" xml:id="ch6bibln15">
                             <bibl>His.l.9.40.</bibl>
                         </note>
                         <foreign corresp="#ch6transn13" xml:lang="la">Ceram apes perreptando flores capiunt priorum acumine
                             pedum: mox priores in medios abstergunt, &amp; medios in blaesa
-                            posteriorum.</foreign><note resp="#HH" subtype="translation" type="editorial" xml:id="ch6transn13">The bees take wax on the tips of their front legs by crawling through flowers: after which they soon wipe their front legs clean on their middle legs, and the middle legs on the hollows of their back legs. <hi rend="italic">HA</hi> IX.40 (624a fin.–b init.)</note>
-                    </quote>) But against (as I shall shew you) both sense and reason. </p>
+                            posteriorum.)</foreign><note resp="#HH" subtype="translation" type="editorial" xml:id="ch6transn13">The bees take wax on the tips of their front legs by crawling through flowers: after which they soon wipe their front legs clean on their middle legs, and the middle legs on the hollows of their back legs. <hi rend="italic">AH</hi> IX.40 (624a fin.–b init.)</note>
+                    </quote> But against (as I shall shew you) both sense and reason. </p>
                 <p xml:id="ch6par17"><note subtype="summary" type="authorial" xml:id="ch6sumn24">24.
                         Which error is disproved by sense.</note> If you put it to your tongue, it
                     hath the taste of hony: which wax hath not. If you feele it betweene your warme
@@ -8822,14 +8820,14 @@
                     <note subtype="bibliographic" type="authorial" xml:id="ch6bibln16">
                         <ref target="#ch6sumn14">v.n.14.</ref>
                     </note> even as those little fallings of the new swarmes; (which is wax indeed)
-                    this leg-honie is of divers colours, white, black, yellow, greene, red, tawny,
+                    this leg-honie is of divers colours, white, blacke, yellow, greene, red, tawny,
                     orenge, murry, and of sundry midling colours. Therefore sense doth say it is no
                     wax. </p>
                 <p xml:id="ch6par18"><note subtype="summary" type="authorial" xml:id="ch6sumn25">25.
-                        And reason.</note> The reasons are two. The first is because when they
+                        And reason.</note> The reasons are two. The first is, because when they
                     gather abundance of this stuffe, they have never the more wax. The other because
                     when they make most wax, they gather none of this. </p>
-                <p xml:id="ch6par19">For proofe of the first, All Bees betweene <term>Virgo</term>
+                <p xml:id="ch6par19">For proofe of the first, All the Bees betweene <term>Virgo</term>
                     and <term>Taurus</term> do gather abundance of it: and yet are not their combes
                     in this time any whit enlarged. Also one of those old stalls that are full of
                     combes, doth carry more of this matter all the summer long than many swarmes:
@@ -8847,7 +8845,7 @@
                     </app>And if any foolish Bee do carry in <term>Ambrosia,</term> it is put a dry
                     cell where it turneth to Stopping, <ref target="#ch6bibln17"> v.</ref>
                     <note subtype="bibliographic" type="authorial" xml:id="ch6bibln17">
-                        <ref target="#ch6sumn21">v.n.21.</ref>
+                        <ref target="#ch6sumn21">V.n.21.</ref>
                     </note> as I have seene within a fortnight after the hiving. </p>
                 <p xml:id="ch6par21"><note subtype="summary" type="authorial" xml:id="ch6sumn26">26.
                         And by authoritie.</note> And this, though now it seeme new, yet was it
@@ -8860,17 +8858,17 @@
                             erit apum dum operantur cibus: qui saepe invenitur in favorum
                             inanitatibus sepositus; &amp; ipse amari saporis.</foreign><note resp="#HH" subtype="translation" type="editorial" xml:id="ch6transn14">Besides this (i.e. wax and nectar) erithace is brought, which some call sandaracha and others cerinthus.  This will be the bees’ food while they are working, and it is often found set aside in empty spaces in the combs; and it has a bitter flavour. <hi rend="italic">NH</hi> XI.17(7)</note>
                     </quote> Speaking in the last words of that which is corrupted <app subtype="add" type="reference">
-                        <lem wit="#b1623"><ref target="#ch6bibln19">v</ref>
+                        <lem wit="#b1623"><ref target="#ch6bibln19">v.</ref>
                             <note subtype="bibliographic" type="authorial" xml:id="ch6bibln19">
                                 <ref target="#ch6sumn21"> V.n.21.</ref>
                             </note></lem>
                         <rdg wit="#b1609"></rdg>
-                    </app>. And before him <persName> Aristotle</persName> himselfe thus. <quote>
+                    </app> And before him <persName> Aristotle</persName> himselfe thus: <quote>
                         <note subtype="bibliographic" type="authorial" xml:id="ch6bibln20">
                             <bibl> Hist.l.9.c.40.</bibl>
                         </note>
                         <foreign corresp="#ch6transn17" xml:lang="la">Mel apibus tum aestate tum hyeme cibo est: sed
-                            recondunt alterum quoque cibarii genus, cui durities cerae proxima quod
+                            recondunt alterum quoque cibarii genus, cui durities cerae proxima, quod
                             sandaracham nonnulli appellant.</foreign><note resp="#HH" subtype="translation" type="editorial" xml:id="ch6transn17">Honey serves as food for bees both in summer and winter: but they also stow away another kind of food, of a hardness similar to wax, which some people call bee bread. <hi rend="italic">HA</hi> IX.40 (626a)</note>
                     </quote></p>
                 <fw type="catch"> The</fw>
@@ -8882,7 +8880,7 @@
                     bottles, which are within them like unto bladders: each of them will hold a drop
                     at once. You may see their little bellies strut withall. Men thinke, because
                     they see nothing on their legs, that they come in leere: when they are better
-                    and more heavily laden then the other. These bottles, as soone as they come
+                    and more heavily laden than the other. These bottles, as soone as they come
                     home, they empty into their combes. <quote>
                         <note subtype="bibliographic" type="authorial" xml:id="ch6bibln21">
                             <bibl> Hist.an.li.5.c.22.</bibl>
@@ -8893,7 +8891,7 @@
                         <lem wit="#b1623"></lem>
                         <rdg wit="#b1609"><ptr target="1609.xml#ch6ancs31 1609.xml#ch6ance31"></ptr></rdg>
                     </app><app subtype="change" type="vocabulary">
-                        <lem wit="#b1623">This <term> Nectar</term> being</lem>
+                        <lem wit="#b1623">This <term> Nectar</term>, being</lem>
                         <rdg wit="#b1609"><ptr target="1609.xml#ch6ancs32 1609.xml#ch6ance32"></ptr></rdg>
                     </app> cleere as Crystall at the first and liquid as water, when it is two or
                     three yeeres old, becommeth white and hard. <quote>
@@ -8910,7 +8908,7 @@
                         <seg rend="italic">Live-hony and stone-hony.</seg>
                     </note>
                     <app subtype="change" type="minor">
-                        <lem wit="#b1623">While it coninueth liquid, and will runne of it selfe, it
+                        <lem wit="#b1623">While it coninueth liquid, and will runne of it selfe, it is called live-hony: when it is turned white and hard (even like unto sugar) it
                             is called corn-hony, or stone-hony. </lem>
                         <rdg wit="#b1609"><ptr target="1609.xml#ch6ancs33 1609.xml#ch6ance33"></ptr></rdg>
                     </app></p>
@@ -8924,7 +8922,7 @@
                             </note> layd up in virgin-wax, <ref target="#ch6bibln24"> v.</ref>
                             <note subtype="bibliographic" type="authorial" xml:id="ch6bibln24">
                                 <ref target="#ch6sumn14"> V.n.14.</ref>
-                            </note> and taken the same yeere, is the right virgin honie: the other,
+                            </note> and taken the same yeere, is the right virgin-honie:<note subtype="summary" type="authorial" xml:id="ch6bibln24x"><hi rend="italic">Virgin-hony.</hi></note> the other,
                             which is yellow and thicker, gathered by an old stall, and therefore
                             kept in corrupter cells with drosse and courser hony, is called
                             ordinary. </lem>
@@ -8940,7 +8938,7 @@
                         <rdg wit="#b1609"><ptr target="1609.xml#ch6ancs35 1609.xml#ch6ance35"></ptr></rdg>
                     </app>
                     <note subtype="bibliographic" type="authorial" xml:id="ch6bibln25">
-                        <ref target="#ch10p2sumn6"> V.c.10. p.2.n.6.</ref>
+                        <ref target="#ch10p2sumn6"> V.c.10.p.2.n.6.</ref>
                     </note></p>
                 <p xml:id="ch6par25"><note subtype="summary" type="authorial" xml:id="ch6sumn31">31.
                         All hony, courser or finer, according to the soile.</note><app subtype="add" type="major">
@@ -8952,12 +8950,12 @@
                             than the heath, and the champion or field country, better than the
                             woodlands. The reason is, because where the flowers are most fragrant
                             and vertuous, as well of the fields as gardens, in the purest and
-                            sweetest aire; there are the honi-dewes, which are extracted from them,
+                            sweetest aire; there the honi-dewes, which are extracted from them,
                             are most fine and pure, <ref target="#ch6sumn40">v.n.40.</ref></lem>
                         <rdg wit="#b1609"></rdg>
                     </app></p>
                 <p xml:id="ch6par26"><note subtype="summary" type="authorial" xml:id="ch6sumn32">32.
-                        The full cels they close with wax.</note> When the cells are full, they
+                        The full cells they close with wax.</note> When the cells are full, they
                     close them up with little filmes of wax, which they wil not breake untill winter
                     and hunger drive them to it. And thus doe they all the summer, <fw type="catch">
                         descending</fw>
@@ -8965,12 +8963,12 @@
                     <fw type="header"> Of the Bees Worke. </fw> descending lower and lower from one
                     cell to another, untill <term>Virgo</term>: after which time they lay up no more
                     in store. For honie then waxeth scarce abroad: and thence-forth they can gather
-                    no more wax to shut it in. As for that which they purchase by sight and
+                    no more wax to shut it in. As for that which they purchase by fight and
                     forraging, it doth them little good. For the most part of it they presentlie
                     spend: and if they save any, they halfe fill a few cels with it: which being
                     uncovered, either themselves or some other theeves quicklie devoure: according
                     to the <quote>
-                        <bibl>Proverbe,</bibl>Evill gotten goods are soone spent</quote>.</p>
+                        <bibl>Proverbe,</bibl><hi rend="italic">Evill gotten goods are soone spent</hi></quote>.</p>
                 <p xml:id="ch6par27"><note subtype="summary" type="authorial" xml:id="ch6sumn33">33.
                         Nectar &amp; Ambrosia made of many simples, whereof each moneth yeeldeth
                         variety.</note> This <app subtype="del" type="minor">
@@ -8988,9 +8986,9 @@
                         <term>Pisces</term> to <term>Sagitt.</term> there never want some plants or
                     other, containing these sweets: which the Bees featly draw from them, without
                     any hurt to the fruits: <quote>
-                        <foreign corresp="#ch6transn20" xml:lang="la">Fructibus nullis nocetur</foreign><note resp="#HH" subtype="translation" type="editorial" xml:id="ch6transn20">No damage is done to any fruit. <hi rend="italic">NH</hi> XI.18(8)</note>
+                        <foreign corresp="#ch6transn20" xml:lang="la">Fructibus nullis nocetur.</foreign><note resp="#HH" subtype="translation" type="editorial" xml:id="ch6transn20">No damage is done to any fruit. <hi rend="italic">NH</hi> XI.18(8)</note>
                         <note subtype="bibliographic" type="authorial" xml:id="ch6bibln27">
-                            <bibl>Nat.hist.lib II.c.8.</bibl>
+                            <bibl>Nat.hist.lib.II.c.8.</bibl>
                         </note></quote>
                 </p>
                 <p xml:id="ch6par28"><note subtype="summary" type="authorial" xml:id="ch6sumn34">34.
@@ -9012,10 +9010,10 @@
                     middle of this month the chiefest plants begin to flourish in great abundance:
                     as Apple, Crab, Barbery, Beech, Crowpickes, Charlocke, Rosemary, &amp;c. But
                     specially the plentifull Vetch and Maple. They gather on the flowre of the Maple
-                    a whole month together, and somewhat on the flowre of the Vetch when his time is
+                    a whole month together, and somewhat on the flowre of the Vetch when his time is,
                         <ref target="#ch6bibln28">v.</ref>
                     <note subtype="bibliographic" type="authorial" xml:id="ch6bibln28">
-                        <ref target="#ch6sumn39"> V.n. 39.</ref>
+                        <ref target="#ch6sumn39"> V.n.39.</ref>
                     </note> but the greatest store of hony is drawne out of the black Spot of the
                         <fw type="catch"> little</fw>
                     <pb n="O4r"></pb>
@@ -9051,7 +9049,7 @@
                     In <term> Cancer</term> with the fore-named, the blossome of the Vetch, as well
                     as the Leafe, Benet, Malowes, the soveraigne Tyme, which yeeldeth only
                     <term>Nectar:</term> and therefore he was deceived that said <foreign corresp="#ch6transn22" xml:lang="la">Crura Thymo plena</foreign>.<note resp="#HH" subtype="translation" type="editorial" xml:id="ch6transn22">Legs laden with thyme. <hi rend="italic">Georgics</hi> IV.181</note> Tyme, for the time it lasteth,
-                    yeeldeth most and best Honie: and therefore in old time was accounted chiefe
+                    yeeldeth most and best Honie: and therefore in old time was accounted chiefe,
                         <note subtype="bibliographic" type="authorial" xml:id="ch6bibln29">
                         <bibl> Pl.nat.hist.l.11.c.21.</bibl>
                     </note>
@@ -9059,7 +9057,7 @@
                         <bibl> Hist.l.9.c.40.</bibl>
                     </note>
                     <quote>
-                        <note subtype="bibliographic" type="authorial" xml:id="ch6bibln31"><bibl>Vir.Georg.4</bibl></note>
+                        <note subtype="bibliographic" type="authorial" xml:id="ch6bibln31"><bibl>Vir.Georg.4.</bibl></note>
                         <foreign corresp="#ch6transn23" xml:lang="la">(Thymus aptissimus ad mellificium.</foreign><note resp="#HH" subtype="translation" type="editorial" xml:id="ch6transn23">Thyme is most suitable for making honey. [This phrase does not appear in modern editions of Pliny.]</note><foreign corresp="#ch6transn24" xml:lang="la">Pastus gratissimus
                             apibus Thymum est. <lb></lb></foreign><note resp="#HH" subtype="translation" type="editorial" xml:id="ch6transn24">The most agreeable fodder for bees is thyme. <hi rend="italic">HA</hi> IX.40 (626b)</note><foreign corresp="#ch6transn25" xml:lang="la"><lg>
                                 <l>Dum Thymo pascentur apes, dum rore cicadae.)</l>
@@ -9088,12 +9086,12 @@
                 <p xml:id="ch6par35"><note subtype="summary" type="authorial" xml:id="ch6sumn40">40.
                         Of Honie-dewes.</note> But the greatest plentie of the purest <term>
                         Nectar</term> commeth from above: which Almightie God doth miraculously
-                    destill out of the Aire (<quote>
+                    destill out of the Aire, (<quote>
                         <note subtype="bibliographic" type="authorial" xml:id="ch6bibln33">
                             <bibl>Virg.Georg.</bibl>
                         </note>
                         <foreign corresp="#ch6transn28" xml:lang="la">aerei mellis coelestia dona</foreign><note resp="#HH" subtype="translation" type="editorial" xml:id="ch6transn28">The heavenly gift of honey from the air. <hi rend="italic">Georgics</hi> IV.1 </note>
-                    </quote>) and hath appointed the <term>Oake</term> among all the trees of the
+                    </quote>) and hath ordained the <term>Oake</term> among all the trees of the
                     Wood, to receive and keepe the same upon his smooth and solide leaves, <app subtype="add" type="minor">
                         <lem wit="#b1609">(<quote>
                             <foreign corresp="#ch6transn29" xml:lang="la">Et quercus sudabunt roscida mella</foreign><note resp="#HH" subtype="translation" type="editorial" xml:id="ch6transn29">And the oaks exude honeydew. Virgil, <hi rend="italic">Eclogues</hi> IV.30</note>
@@ -9127,13 +9125,13 @@
                 <p xml:id="ch6par36"><note subtype="summary" type="authorial" xml:id="ch6sumn42">42.
                         What the Honie-dew is.</note> What this <foreign corresp="#ch6transn30" xml:lang="la">Mel
                             Roscidum</foreign><note resp="#HH" subtype="translation" type="editorial" xml:id="ch6transn30">honeydew</note> should be, <persName> Plinie</persName> seemeth much to
-                    doubt where he saith <quote>
-                        <foreign corresp="#ch6transn31" xml:lang="la">Sive illud sit coeli sudor sive quaedam syderum
+                    doubt where he saith, <quote>
+                        <foreign corresp="#ch6transn31" xml:lang="la">Sive illud sit coeli sudor, sive quaedam syderum
                             saliva, sive purgantis se aeris succus.</foreign><note resp="#HH" subtype="translation" type="editorial" xml:id="ch6transn31">… whether this is a secretion of the sky or some kind of saliva of the stars, or moisture from the air purging itself. <hi rend="italic">NH</hi> XI.30(12)</note>
-                        <note subtype="bibliographic" type="authorial" xml:id="ch6bibln36"><bibl>Nat.hist.li.11.c.12</bibl></note></quote> But, if conjectures
+                        <note subtype="bibliographic" type="authorial" xml:id="ch6bibln36"><bibl>Nat.hist.li.11.c.12.</bibl></note></quote> But, if conjectures
                     might be admitted, I would rather judge it to be the verie quintessence of all
                     the sweetnesse of the earth (which at that time is most plentifull) drawne up,
-                    as other dewes, in vapours into the third Region of the Aire, by the exceeding
+                    as other dewes, in vapors into the third Region of the Aire, by the exceeding
                     and continuall heat of the Sunne; and there concrete and condensated by the
                     nightly cold into this most sweete and Soveraigne <term> Nectar:</term> and then
                     doth it descend unto the earth in a dew or small drizling raine: that he might
@@ -9144,9 +9142,9 @@
                             <bibl>Galen.de aliment. li.3</bibl>
                         </note>
                     </quote> Which opinion is the more probable <app subtype="add" type="minor">
-                        <lem wit="#b1623">for these reasons</lem>
+                        <lem wit="#b1623">for these reasons.</lem>
                         <rdg wit="#b1609"></rdg>
-                    </app>. <app subtype="add" type="vocabulary">
+                    </app> <app subtype="add" type="vocabulary">
                         <lem wit="#b1623">First</lem>
                         <rdg wit="#b1609"></rdg>
                     </app> because that when the yeare is backward in his fruits, the Honie-dewes
@@ -9223,8 +9221,8 @@
                         <lem wit="#b1623"></lem>
                         <rdg wit="#b1609"><ptr target="1609.xml#ch6ancs44x 1609.xml#ch6ance44x"></ptr></rdg>
                     </app>see them. </p>
-                <note place="inline" subtype="gloss" type="authorial" xml:id="ch6glon2"><app subtype="add" type="major">
-                        <lem wit="#b1623">*In the yeare <date when="1613">1613</date>, almost two
+                <note place="inline" subtype="gloss" type="authorial" xml:id="ch6glon2x"><app subtype="add" type="major">
+                        <lem wit="#b1623">*In the yeare <date when="1613">1613</date>. almost two
                             moneths after the usuall time, namely in the later part of
                                 <term>Virgo,</term> there fell divers Honie-dewes: which came to
                             passe by reason that continuall wet kept them backe in their due time,
@@ -9238,7 +9236,7 @@
                         <rdg wit="#b1609"></rdg>
                     </app></note>
                 <p xml:id="ch6par39"><note subtype="summary" type="authorial" xml:id="ch6sumn45">45
-                        What Leo yeeldeth.</note> In <term> Leo</term> Vetches, Malowes, Tyme,
+                    <hi rend="italic">What Leo yeeldeth.</hi></note> In <term> Leo</term> Vetches, Malowes, Tyme,
                     Knap-weede, Blacke-berie, white Honie-suckle, Redweed, Thistle, <app subtype="add" type="minor">
                         <lem wit="#b1623">Melone,</lem>
                         <rdg wit="#b1609"></rdg>
@@ -9277,7 +9275,7 @@
                         </note></quote> Insomuch as those which beginne with the flower of the Vetch
                     will not once touch the rich spotted leafe of the same, before they have beene
                     at home. Although when they come to a flower that yeeldeth both
-                        <term>Nectar</term> and <fw type="catch"> Ambrosia, </fw>
+                    <term>Nectar</term> and <fw type="catch"> <hi rend="italic">Ambrosia</hi>, </fw>
                     <pb n="P1v"></pb>
                     <fw type="header"> Of the Bees Worke. </fw>
                     <term>Ambrosia,</term>, they wil use sometime the Tongue, and sometime the
@@ -9285,8 +9283,8 @@
                 <p xml:id="ch6par45"><note subtype="summary" type="authorial" xml:id="ch6sumn50">50.
                         They gather Honie out of poison.</note> But this may seeme more strange and
                     wonderfull, that out of the most stinking and poisonfull weeds, as Redweed, <ref target="#ch6glon3">*</ref>Margs,<note subtype="gloss" type="authorial" xml:id="ch6glon3">*Mathers or May-weed, <foreign xml:lang="la">Cotula
-                            fœtida</foreign></note> Henbane, and the like, they gather most sweet
-                    and holesome Honie: and yet regard not the best and sweetest Hearbs and Flowers,
+                            foetida.</foreign></note> Henbane, and the like, they gather most sweet
+                    and holesome Honie: and yet regard not some of the best and sweetest Hearbs and Flowers,
                     as the Rose, the Prim-rose, Clove-Giliflowers; <app subtype="del" type="minor">
                         <lem wit="#b1623"></lem>
                         <rdg wit="#b1609"><ptr target="1609.xml#ch6ancs46 1609.xml#ch6ance46"></ptr></rdg>
@@ -9326,16 +9324,16 @@
                     The Beare being thus sud- <fw type="catch"> dainly</fw>
                     <pb n="P2r"></pb>
                     <fw type="header"> Of the Bees Worke. </fw> dainely affrighted, what with the
-                    handling, and what with the noise, made up again with all speed possible: the
-                    man held, and the Beare pulled, untill with maine force he had drawne <emph>Dun
-                        out of the mire</emph>: and then, being let goe, away he trots <emph>more
-                        afeard then hurt,</emph> leaving the smeared swaine in a joyful feare. </p>
+                    handling, and what with the noise, made up againe with all speed possible: the
+                    man held, and the Beare pulled, untill with maine force he had drawne <emph><hi rend="italic">Dun
+                        out of the mire</hi></emph>: and then, being let goe, away he trots, <emph><hi rend="italic">more
+                            afeard than hurt,</hi></emph> leaving the smeared Swaine in a joyfull feare. </p>
                 <lb></lb>
                 <p xml:id="ch6par47"><note subtype="summary" type="authorial" xml:id="ch6sumn52">52.
                         Bees have necessarie use of water.</note>
                     <hi rend="drop-capital">T</hi>HE Bees earnest and hot Labour, and the drought of
-                    the Aire, together with their cholerike Complexion, which their very colour
-                    bewrayeth, doth cause them much to desire cold Water. <note subtype="summary" type="authorial" xml:id="ch6sumn53"> 53. Chiefly for their breed</note>
+                    the Aire, together with their cholerike Complexion, which their very hue
+                    bewrayeth, doth cause them much to desire cold Water. <note subtype="summary" type="authorial" xml:id="ch6sumn53"> 53. Chiefly for their breed.</note>
                     Some thinke it serveth <app subtype="change" type="vocabulary">
                         <lem wit="#b1623">onely</lem>
                         <rdg wit="#b1609"><ptr target="1609.xml#ch6ancs48 1609.xml#ch6ance48"></ptr></rdg>
@@ -9345,18 +9343,18 @@
                             <bibl>Hist.an.l.9.c.40.</bibl>
                         </note></quote>
                     <ref target="#ch7sumn24"><app subtype="add" type="reference">
-                            <lem wit="#b1623">v:</lem>
+                        <lem wit="#b1623"><hi rend="italic">v:</hi></lem>
                             <rdg wit="#b1609"></rdg>
                         </app></ref>
                     <note subtype="bibliographic" type="authorial" xml:id="ch6bibln46"><ref target="#ch7sumn24"><app subtype="add" type="reference">
-                                <lem wit="#b1623">V.c.7.n.24.</lem>
+                                <lem wit="#b1623"><ref target="#ch7sumn24">V.c.7.n.24.</ref></lem>
                                 <rdg wit="#b1609"></rdg>
                             </app></ref></note> and that not without reason, seeing that
                         <term>Ambrosia</term> their daily food is hot and dry: and indeed when the
                     Drones are done away, and breeding is ended, the Bees are nothing so frequent at
                     the watring-places. But <persName>Columella</persName> thinketh the use thereof
                     to be more generall, <quote>
-                        <foreign corresp="#ch6transn37" xml:lang="la">Sine qua neque favi, neque mella, nec pulli denique
+                        <foreign corresp="#ch6transn37" xml:lang="la">Sine qua neque favi, neque mella nec pulli denique
                             figurari queunt.</foreign><note resp="#HH" subtype="translation" type="editorial" xml:id="ch6transn37">Without which neither honeycombs nor honey nor lastly their young can be made. Columella, <hi rend="italic">De Re Rustica</hi> IX.5.5</note>
                         <note subtype="bibliographic" type="authorial" xml:id="ch6bibln47">
                             <bibl>De re rust. l.9.c.5.</bibl>
@@ -9424,7 +9422,7 @@
                     never be so clear: peradventure that the earth having received his earthinesse,
                     which before was insensibly mixt with the water, their triple searching tongue
                     might the better trie out the pure element of water. </note>
-                <note place="inline" subtype="gloss" type="authorial" xml:id="ch6glon7"><hi rend="superscript">d</hi>Which otherwise will be the death of many for they
+                <note place="inline" subtype="gloss" type="authorial" xml:id="ch6glon7"><hi rend="superscript">d</hi>Which otherwise will be the death of many: for they
                     are so earnest in their businesse, that though you offer to tread upon them,
                     they will not move. </note>
                 <p xml:id="ch6par49"><app subtype="del" type="major">
@@ -9466,7 +9464,7 @@
                         The trough-cover, and the use of it.</note>
                     <app subtype="add" type="major">
                         <lem wit="#b1609">And to keepe the Bees from danger of drowning, unto which
-                            they are very obnoxious, for it they but touch the water with their
+                            they are very obnoxious, (for it they but touch the water with their
                             wings, they cannot rise from it) let each Quarter of the Trough have his
                             Cover, in thicknesse about halfe an inch, in bredth and length fitting
                             to his Quarter; but so, that without let it may rise and fall without
@@ -9498,7 +9496,7 @@
                         <lem wit="#b1623">A new Trough thus framed and fitted, is to be seasoned
                             before it be used, by often scalding it, and changing the foule water;
                             untill, having stood a day or two, it remaineth cleare, and without a
-                            glittering slime: afterward the older and more earthie it is, the better
+                            glistering slime: afterward the older and more earthie it is, the better
                             they like it. </lem>
                         <rdg wit="#b1609"></rdg>
                     </app></p>
@@ -9539,7 +9537,7 @@
                     <app subtype="add" type="minor">
                         <lem wit="#b1623">You may also make good Troughes of Free-stone, with
                             woodden partitions let into the stone: but they are more apt to chill
-                            the Bees in cold weather, until they be mossie.</lem>
+                            the Bees in cold weather, untill they be mossie.</lem>
                         <rdg wit="#b1609"></rdg>
                     </app></p>
                 <p xml:id="ch6par57"><note subtype="summary" type="authorial" xml:id="ch6sumn61">61.
@@ -9567,7 +9565,7 @@
                     </app>
                     <ref target="#ch6bibln51">v.</ref>
                     <note subtype="bibliographic" type="authorial" xml:id="ch6bibln51">
-                        <ref target="#ch4sumn13">V.c.4.n. 13.</ref>
+                        <ref target="#ch4sumn13">V.c.4.n.13.</ref>
                     </note> when the colde raine or winde hath kept them in some part of the day,
                     they wil lie so thick upon the ground, if you have any store; that you can
                     scarce tread beside them. At such time therefore let no heedlesse stranger come
@@ -9581,7 +9579,7 @@
                 <p xml:id="ch7par1">
                     <note subtype="summary" type="authorial" xml:id="ch7sumn1">1. The Bees Enemies
                         are many.</note><hi rend="drop-capital">T</hi>He good Bee, as other good
-                    things, hath many Enemies, from which she needeth your helpe to defend her:
+                    things, hath many Enemies, from which shee needeth your helpe to defend her:
                     namely, 1.the Mouse, 2.the Wood-pecker, 3.the Tit-mouse, 4.the Swalow, 5.the
                     Hornet, 6.the Waspe, 7.the Moth, 8.the Snaile, 9.the Emet 10.the Spider, 11.the
                     Toad, 12.the Frog, 13.the Bee, and 14.the Weather.</p>
@@ -9605,7 +9603,7 @@
                     your Hives, whether they be of straw or wicker, be close and fast wrought. For
                     if the straw be loose and soft, they will more easily gnaw their way thorow: and
                     if the wicker be thinne, when they have torne down the cloome, they will creepe
-                    in betweene the twigges. Next see that the Hives bee daubed close round about
+                    in betweene the twigges. Next see that the Hives be daubed close round about
                     the skirts, that there be no entring but by the Doore: which in the end of
                         <term> Taurus,</term> when the Bees come downe to watch, and thenceforth all
                     the Summer, they will keepe well enough both day and night: but <app subtype="change" type="vocabulary">
@@ -9712,7 +9710,7 @@
                     <p xml:id="ch7par11"><app subtype="add" type="major">
                             <lem wit="#b1623"><note subtype="summary" type="authorial" xml:id="ch7sumnX8">
                                     <seg rend="italic">The baiting of the Sweeke.</seg>
-                                </note> But first bait the Sweeke with the thinne peece of good
+                                </note> But first bait the Sweeke with a thinne peece of good
                                 Cheese, or Bacon, or Suet, tyed with a thread upon the inner end.
                                 And bee sure that the Prop doe stand so fickle that it may easily be
                                 loosed: and that the Roofe when it falleth, lie flat and even with
@@ -9720,8 +9718,8 @@
                             <rdg wit="#b1609"></rdg>
                         </app></p>
                     <p xml:id="ch7par12">
-                        <foreign corresp="#ch7transn1" xml:lang="la"><app subtype="add" type="major">
-                                <lem wit="#b1623">Sed instar omnium erit hoc unum. R. Farinae I.
+                        <foreign xml:lang="la"><app subtype="add" type="major">
+                                <lem corresp="#ch7transn1" wit="#b1623">Sed instar omnium erit hoc unum. R. Farinae 1.
                                     avenacae novae aridae dulcis Drachmas IV. tere: 2. Arsenicae
                                     albae 3. semi-drachmam, in pulverem quam queas 4. minimum per se
                                     pertere: 5. sacchari puri semi-drachmam cum arsenica contere:
@@ -9743,8 +9741,8 @@
                                     merâ pertritâ intus modicè aspersas. Sed diligentèr cura, ne
                                     Canes, Gallinae, aliave innocua animalia istud degustent: quod
                                     facies, si noctu tantum expositum interdiu recondas. <list>
-                                        <item>1. Vel triticeae.</item>
-                                        <item>2. Verae</item>
+                                        <item>1. Val triticeae.</item>
+                                        <item>2. Verae.</item>
                                         <item>3. Ut arsenica sit tantum decima compositionis portio:
                                             nam si praedominetur; mures, &amp; magis sorices, virus
                                             odorantes recusant escam, quam rite compositam avidè
@@ -9775,7 +9773,7 @@
                 <p xml:id="ch7par13"><note subtype="summary" type="authorial" xml:id="ch7sumn4">4.
                         2. The Wood-pecker.</note> The Wood-pecker or Yippingale, if hee finde any
                     hoale in the Hive against the Honie, doth with his long round tongue draw it
-                    out: but he doth more harme to Wood-Bees then Garden-Bees.</p>
+                    out: but he doth more harme to Wood-Bees than Garden-Bees.</p>
                 <p xml:id="ch7par14"><note subtype="summary" type="authorial" xml:id="ch7sumn5">5.
                         3. The Tit-mouse.</note> Of Titmise, there are three sorts. The great
                     Titmouse <app subtype="add" type="minor">
@@ -9806,7 +9804,7 @@
                     The little Russet one in Winter feedeth only on dead Bees; but in the Spring he
                     will take part with the great one. The little greene Titmouse I cannot accuse:
                         <app subtype="add" type="minor">
-                        <lem wit="#b1623">except it be only for eating a few dead Bees and that but
+                        <lem wit="#b1623">except it be only for eating a few dead Bees, and that but
                             seldome in some hungrie time.</lem>
                         <rdg wit="#b1609"></rdg>
                     </app></p>
@@ -9814,10 +9812,10 @@
                     <note subtype="summary" type="authorial" xml:id="ch7sumn7">7. 4. The
                         Swallow.</note> The Swallow taketh them as they flie, <foreign corresp="#ch7transn2" xml:lang="la">Populatur hirundo</foreign>,<note resp="#HH" subtype="translation" type="editorial" xml:id="ch7transn2">The swallow ravages them. <hi rend="italic">NH</hi> XI.19(61) </note> <hi rend="opposite">&amp; <foreign corresp="#ch7transn3" xml:lang="la">alibi</foreign><note resp="#HH" subtype="translation" type="editorial" xml:id="ch7transn3">and elsewhere</note></hi> <foreign corresp="#ch7transn4" xml:lang="la">Ea demum sola avium
                             non nisi in volatu pascitur</foreign><note resp="#HH" subtype="translation" type="editorial" xml:id="ch7transn4">Indeed it is unique among birds in feeding only in flight. <hi rend="italic">NH</hi> X.75(33)</note>: <note subtype="bibliographic" type="authorial" xml:id="ch7bibln4">
-                        <bibl>Nat hist.li.11.c.18</bibl>
+                        <bibl>Nat. hist.li.11.c.18</bibl>
                     </note>
                     <note subtype="bibliographic" type="authorial" xml:id="ch7bibln5"><bibl>Nat
-                            hist.li.10.cap.24</bibl>.</note> But I am perswaded she doth much lesse
+                            hist.li.10.cap.24</bibl>.</note> But I am perswaded shee doth much lesse
                     harme than the Titmouse, although she have a worse name. The Long-winged Hauke
                     makes the fairer flight; but the short-winged is the Kitchen-hauke. These birds
                     therefore are not to be suffered. <lb></lb>
@@ -9891,12 +9889,12 @@
                 <p xml:id="ch7par20"><note subtype="summary" type="authorial" xml:id="ch7sumn11">11.
                         6. The Waspe.</note> The Waspe doth much more hurt than the Hornet. For the
                     Hornet now and then killeth a Bee: but the Waspe wasteth the Honie, whereby many
-                    whole Stalls doe perish. For besides the harme that she doth hir selfe, she doth
+                    whole Stalls doe perish. For, besides the harme that she doth hir selfe, she doth
                     ofttimes set the Robber <ref target="#ch7bibln9"> v.</ref>
                     <note subtype="bibliographic" type="authorial" xml:id="ch7bibln9">
                         <ref target="#ch7sumn25"> V.n.25. </ref>
                     </note> on worke: who, when the Waspe hath begun, will be readie to take part
-                    with her, add then all goes to wracke. A Waspe is by nature harder and stronger
+                    with her, and then all goes to wracke. A Waspe is by nature harder and stronger
                     then a Bee, specially in <term>Libra</term>: insomuch that ofttimes she breaketh
                     from two or three of them, though they have all hold of her at once: and perhaps
                     killeth one of them out of hand. <note subtype="summary" type="authorial" xml:id="ch7sumn12">12. When she feeds upon Bees.</note> At
@@ -9911,13 +9909,13 @@
                         <rdg wit="#b1609"><ptr target="1609.xml#ch7ancs9 1609.xml#ch7ance9"></ptr></rdg>
                     </app> beginneth to bee bred: <ref target="#ch7bibln10"> v.</ref>
                     <note subtype="bibliographic" type="authorial" xml:id="ch7bibln10">
-                        <ref target="#ch4sumn8">v.c.4.n.8.</ref>
+                        <ref target="#ch4sumn8">V.c.4.n.8.</ref>
                     </note>
                     <app subtype="change" type="minor">
                         <lem wit="#b1623">within a moneth after</lem>
                         <rdg wit="#b1609"><ptr target="1609.xml#ch7ancs10 1609.xml#ch7ance10"></ptr></rdg>
                     </app> shee first appeareth: and in a while she beginneth to feed upon dead and
-                    weake Bees: which she quickly cutting of in the middle with hir Fangs, first
+                    weake Bees: which shee quickly cutting off in the middle with hir Fangs, first
                     carrieth away the neather-part; and anon fetcheth the <app subtype="change" type="vocabulary">
                         <lem wit="#b1623">other</lem>
                         <rdg wit="#b1609"><ptr target="1609.xml#ch7ancs11 1609.xml#ch7ance11"></ptr></rdg>
@@ -9930,14 +9928,14 @@
                         <rdg wit="#b1609"><ptr target="1609.xml#ch7ancs12 1609.xml#ch7ance12"></ptr></rdg>
                     </app> shee waxeth bold, and adventureth into the Hives for honie: but, by
                     reason of the strangenesse of hir voice and habit, shee is descried before shee
-                    come neere: And at the first (while the weather is warme, and the Bees both
+                    come neere. And at the first (while the weather is warme, and the Bees both
                     early and late keepe watch and ward at the Hives doore) comming single against
                     many, she is commonly <app subtype="change" type="vocabulary">
                         <lem wit="#b1623">repulsed,</lem>
                         <rdg wit="#b1609"><ptr target="1609.xml#ch7ancs13 1609.xml#ch7ance13"></ptr></rdg>
-                    </app> and sent backe againe with a Flea in hir eare: and if by chance she slip
-                    in, she doth not alwaies escape. Sometime she is killed in the Hive, and brought
-                    forth dead: and sometime without doore, when she hath got hir prey. But
+                    </app> and sent backe againe with a Flea in hir eare: and if by chance shee slip
+                    in, shee doth not alwaies escape. Sometime shee is killed in the Hive, and brought
+                    forth dead: and sometime without the doore, when she hath got hir prey. But
                     afterwards, the weather waxing cold, and specially in mornings and evenings, and
                     the Bees therefore retiring from the doore higher into the Hive; the Waspes make
                     great spoile, <app subtype="change" type="minor">
@@ -9969,8 +9967,8 @@
                             come to flie abroad and feed; they pine and faint, so that either they
                             breed not at all, or verie late. And when a warme fit in the beginning
                             of <term> Aries</term> having let them abroad, cold and stormie weather
-                            commeth suddenly upon them; they are shut up againe, and so starve the
-                            the most part with hunger and cold: that your Bees shall not be much
+                            commeth suddenly upon them; they are shut up againe, and so starve for the
+                            most part with hunger and cold: that your Bees shall not be much
                             troubled with them in such a yeere. Yea continuance of wet, though
                             without cold, is such an enemy to the Waspes; that in the yeere 1613,
                             though, the former Summer being exceeding dry, the Waspes were
@@ -10008,7 +10006,7 @@
                 <p xml:id="ch7par25">The <app subtype="change" type="vocabulary">
                         <lem wit="#b1623">ready</lem>
                         <rdg wit="#b1609"><ptr target="1609.xml#ch7ancs16 1609.xml#ch7ance16"></ptr></rdg>
-                    </app> way to rid them is, If they be in <app subtype="del" type="minor">
+                    </app> way to rid them, is, If they be in <app subtype="del" type="minor">
                         <lem wit="#b1623"></lem>
                         <rdg wit="#b1609"><ptr target="1609.xml#ch7ancs17 1609.xml#ch7ance17"></ptr></rdg>
                     </app><app subtype="add" type="major">
@@ -10028,7 +10026,7 @@
                             you shall know by the easie entrance of the Spade) then dig downe round
                             about it: and having thus rounded the Nest, stamp the earth downe upon
                             the Combes, and so have you done. If you finde not the Nest because it
-                            lyeth <ref target="#ch7glon5">†</ref> deepe; then dig up the ground a
+                            lyeth <ref target="#ch7glon5"><hi rend="opposite">†</hi></ref> deepe; then dig up the ground a
                             foot about the hoale; and having found their way, stop it fast with
                             earth, and tread in that you digged out, and let them alone. If this be
                             done in the day when many are abroad; the evening or morning following
@@ -10081,23 +10079,23 @@
                         <rdg wit="#b1609"></rdg>
                     </app></p>
                 <p xml:id="ch7par27"><note subtype="bibliographic" type="authorial" xml:id="ch7bibln12">
-                        <bibl>Hist.li.9.c.40.</bibl>
+                        <bibl>Hist.l.9.c.40.</bibl>
                     </note>
                     <bibl xml:id="ch7biblnX12"><persName> Aristotle</persName></bibl> teacheth you
-                    an other way. <quote>
+                    an other way: <quote>
                         <foreign corresp="#ch7transn9" xml:lang="la"> Impugnantur <hi rend="opposite">(saith he)</hi> Apes
                             à vespis: quamobrem Apiarii eas venantur constitutâ ollâ, &amp; carne in
                             ea positâ. Ubi enim multae ad carnem accesserint, apposito operculo
                             super ignem ollam ponunt.</foreign><note resp="#HH" subtype="translation" type="editorial" xml:id="ch7transn9">Bees are attacked by wasps; for this reason beekeepers trap them by setting out a pot with meat placed in it. For when many wasps have come to the meat, they cover the pot and put it over the fire. <hi rend="italic">HA</hi>(627b init.)</note>
                         <bibl><ptr target="#ch7biblnX12"></ptr></bibl></quote> You may also use other
                     meanes to kil them your selfe. How to helpe and defend your Bees against them,
-                    see <ref target="#ch3sumn46"> c. 3.n.46,</ref><ref target="#ch3sumn47">47,</ref><ref target="#ch3sumn54">54,</ref>&amp;<ref target="#ch3sumn55">55.</ref></p>
+                    see <ref target="#ch3sumn46"> c.3.n.46,</ref><ref target="#ch3sumn47">47,</ref><ref target="#ch3sumn54">54,</ref><ref target="#ch3sumn55">55.</ref></p>
                 <p xml:id="ch7par28"><note subtype="summary" type="authorial" xml:id="ch7sumn18">18.
                         7. The Moth.</note> The flying Moth lyeth betweene the Hackle and the Hive,
                     and breedeth little Wormes, or crawling Moths, some in the skirts of the Hive,
                     some within upon the Stoole, wrapt in the drosse or scouring of the Combes, and
                     some without upon the Hive, specially in the cracks of the dawbed Hives.
-                        <persName>Plinie</persName> speaketh thus of them <quote>
+                        <persName>Plinie</persName> speaketh thus of them: <quote>
                         <note subtype="bibliographic" type="authorial" xml:id="ch7bibln13">
                             <bibl>Nat.hist.li.11.c.19.</bibl>
                         </note>
@@ -10119,7 +10117,7 @@
                             no harbour of long Grasse, Weeds, or other things about the Hives. <note subtype="summary" type="authorial" xml:id="ch7sumn20">20. What harme
                                 the Moth doth.</note> But as for the Moth, if you suffer her, your
                             selfe shall have more cause than your Bees to bee offended. For albeit
-                            in the cold Spring shee breed above the Hives, hatching hir young by the
+                            in the cold Spring shee breed about the Hives, hatching hir young by the
                             heat of the Bees; yet when the heat of the aire will suffice for that
                             purpose, shee chooseth rather to lay her blotes in woollen, their
                             naturall nest and nourishment: especially if it bee nappie, that there
@@ -10128,7 +10126,7 @@
                             they creepe out of their skins flying Moths. The Maides that sunne their
                             clothes to rid the Fleas, let them take heed how they doe it neere the
                             Bee-fold, lest they bring in worse enemies than they carried out. If the
-                            Woollen be oylie or greasie they like it the better: and for that cause
+                            Woollen bee oylie or greasie they like it the better: and for that cause
                             good Huswives Yarne lyeth not long unwoven.</lem>
                         <rdg wit="#b1609"></rdg>
                     </app></p>
@@ -10147,12 +10145,12 @@
                         10. The Spider.</note> The Spider, as the Moth, doth use to harbour betweene
                     the Hackle and the Hive: where commonly she hath a Bee or twaine in store to
                     feed on, an unfit messe for such a mouth: Sometime she hangeth hir Nets under
-                    the Stoole; which easily intangle a wearie Bee, when she commeth laden home, and
+                    the Stoole; which easily intangle a wearie Bee, when shee commeth laden home, and
                     missing of the lighting place falleth into them: yea, and sometime where the
                     Bees are few, chiefly in the winter, they will bee bold to enter the Hive, and
-                    there weave their fatall Webbes, <quote>
+                    there weave their fatall Webbes. <quote>
                         <note subtype="bibliographic" type="authorial" xml:id="ch7bibln14">
-                            <bibl>Virg.Nat hist.l.11.c.19.</bibl>
+                            <bibl>Virg.Nat.Hist.l.11.c.19.</bibl>
                         </note>
                         <foreign corresp="#ch7transn11" xml:lang="la">In foribus laxos suspendit aranea casses.</foreign><note resp="#HH" subtype="translation" type="editorial" xml:id="ch7transn11">The spider hangs her loose webs in the entrance. <hi rend="italic">Georgics</hi> IV.247</note> <app subtype="del" type="minor">
                                 <lem wit="#b1623"></lem>
@@ -10765,10 +10763,10 @@
                     </app></p>
                 <app subtype="add" type="major">
                     <lem wit="#b1623"><quote>
-                            <lg>
-                                <l>Who so keepe well Sheepe and Been,</l>
+                        <hi rend="italic"><lg>
+                               <l>Who so keepe well Sheepe and Been,</l>
                                 <l>Sleepe or wake, their thrift comes in.</l>
-                            </lg>
+                            </lg></hi>
                             <bibl><ptr target="#ch7biblnX35"></ptr></bibl></quote></lem>
                     <rdg wit="#b1609"></rdg>
                 </app>
@@ -10789,7 +10787,7 @@
                             Country, who, by good admonition, better imploiments, or conscience of
                             the sinne, are oft-times reclaimed: Whereas these Night-Ravens, for the
                             most part, are base cowardly Knaves, neither fit for service, nor
-                            labour, a meere burthen to the Common- <fw type="catch"> wealth:</fw>
+                            labour; a meere burthen to the Common- <fw type="catch"> wealth:</fw>
                             <pb n="S2r"></pb>
                             <fw type="header"> Of the Feeding of Bees. </fw> wealth: and as
                             incorrigible as sheep-biting Curres, which being once flesh't, doe
