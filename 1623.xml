@@ -232,7 +232,7 @@
                 <epigraph>
                     <app subtype="add" type="major">
                         <lem wit="#b1623"><quote><bibl>Plaut: in Trucul: Act: 2. Sc. 6. </bibl><lb></lb>
-                            <foreign corresp="#preftransn1" xml:lang="la">Pluris est oculatus testis unus, quam auriti decem.</foreign><note resp="#HH" subtype="translation" type="editorial" xml:id="preftransn1">One witness with eyes is of more value than ten with ears. Plautus, <hi rend="italic">Truculentus</hi> 489</note></quote></lem>
+                            <foreign corresp="#preftransn1" xml:lang="la"><hi rend="italic">Pluris est oculatus testis unus, quam auriti decem.</hi></foreign><note resp="#HH" subtype="translation" type="editorial" xml:id="preftransn1">One witness with eyes is of more value than ten with ears. Plautus, <hi rend="italic">Truculentus</hi> 489</note></quote></lem>
                         <rdg wit="#b1609"></rdg>
                     </app>
                 </epigraph>
@@ -8734,7 +8734,7 @@
                     <fw type="header"> Of the Bees Worke. </fw>
                     <app subtype="add" type="reference">
                         <lem wit="#b1623">nurses. <quote><foreign corresp="#ch6transn10" xml:lang="la">Dictaeo caeli regem
-                            pavêre sub antro.</foreign><note resp="#HH" subtype="translation" type="editorial" xml:id="ch6transn10">They fed the king of heaven  in a cave beneath Mount Dicte. Virgil,<hi rend="italic">Georgics</hi> IV.152</note>
+                            pavêre sub antro.</foreign><note resp="#HH" subtype="translation" type="editorial" xml:id="ch6transn10">They fed the king of heaven  in a cave beneath Mount Dicte. Virgil, <hi rend="italic">Georgics</hi> IV.152</note>
                             <bibl><hi rend="italic"> Virg.Geor.</hi>4.</bibl>
                             </quote> And afterward, when they would make him immortal; because of
                             the long-preserving vertue that hony hath, (<ref target="#ch10p3sumn1">v.c.10.par.3.n.1.</ref>) they fained it to be his immortall food. <quote>
@@ -8801,7 +8801,7 @@
                         </note>
                         <foreign corresp="#ch6transn13" xml:lang="la">Ceram apes perreptando flores capiunt priorum acumine
                             pedum: mox priores in medios abstergunt, &amp; medios in blaesa
-                            posteriorum.)</foreign><note resp="#HH" subtype="translation" type="editorial" xml:id="ch6transn13">The bees take wax on the tips of their front legs by crawling through flowers: after which they soon wipe their front legs clean on their middle legs, and the middle legs on the hollows of their back legs. <hi rend="italic">AH</hi> IX.40 (624a fin.–b init.)</note>
+                            posteriorum.)</foreign><note resp="#HH" subtype="translation" type="editorial" xml:id="ch6transn13">The bees take wax on the tips of their front legs by crawling through flowers: after which they soon wipe their front legs clean on their middle legs, and the middle legs on the hollows of their back legs. <hi rend="italic">HA</hi> IX.40 (624a fin.–b init.)</note>
                     </quote> But against (as I shall shew you) both sense and reason. </p>
                 <p xml:id="ch6par17"><note subtype="summary" type="authorial" xml:id="ch6sumn24">24.
                         Which error is disproved by sense.</note> If you put it to your tongue, it
