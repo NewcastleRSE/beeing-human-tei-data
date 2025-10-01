@@ -232,7 +232,7 @@
                 <epigraph>
                     <app subtype="add" type="major">
                         <lem wit="#b1623"><quote><bibl>Plaut: in Trucul: Act: 2. Sc. 6. </bibl><lb></lb>
-                            <foreign corresp="#preftransn1" xml:lang="la">Pluris est oculatus testis unus, quam auriti decem.</foreign><note resp="#HH" subtype="translation" type="editorial" xml:id="preftransn1">One witness with eyes is of more value than ten with ears. Plautus, <hi rend="italic">Truculentus</hi> 489</note></quote></lem>
+                            <foreign corresp="#preftransn1" xml:lang="la"><hi rend="italic">Pluris est oculatus testis unus, quam auriti decem.</hi></foreign><note resp="#HH" subtype="translation" type="editorial" xml:id="preftransn1">One witness with eyes is of more value than ten with ears. Plautus, <hi rend="italic">Truculentus</hi> 489</note></quote></lem>
                         <rdg wit="#b1609"></rdg>
                     </app>
                 </epigraph>
@@ -2596,7 +2596,7 @@
                     <quote>
                         <foreign corresp="#ch1transn51" xml:lang="la">Cum in genere piscium talis quaedam sit generatio
                             nonnullorum, ut sine coitu generent; hoc idem in apibus etiam evenire
-                            videtur, quoad sensus ratioque apparens admoneat.</foreign><note resp="#HH" subtype="translation" type="editorial" xml:id="ch1transn51">Since something like it is the case with the reproduction of some kinds of fish, so that they reproduce asexually; this same thing seems also to happen with bees, inasmuch as sense and evident reason suggests it. Aristotle, <hi rend="italic">De generatio animalium</hi> III.10 (759b fin.) in Latin translation</note>
+                            videtur, quoad sensus ratioque apparens admoneat.</foreign><note resp="#HH" subtype="translation" type="editorial" xml:id="ch1transn51">Since something like it is the case with the reproduction of some kinds of fish, so that they reproduce asexually; this same thing seems also to happen with bees, inasmuch as sense and evident reason suggests it. Aristotle, <hi rend="italic">De generatio animalium</hi> III.10 (759b fin.) (in Latin translation)</note>
                     </quote></p>
                 <p xml:id="ch1par54"><note subtype="summary" type="authorial" xml:id="ch1sumn54">54.
                         Cleanlinesse</note> For cleanlinesse and neatnesse, they may be a Mirror to
@@ -2655,7 +2655,7 @@
                             </note></lem>
                         <rdg wit="#b1609"></rdg>
                     </app>would suffer them to abide the Hives. <quote>
-                        <foreign corresp="#ch1transn58" xml:lang="la">Nam genus immortale manet.</foreign><note resp="#HH" subtype="translation" type="editorial" xml:id="ch1transn58">For the race continues undying. Virgil, <hi rend="italic"></hi>Georgics IV.208</note>
+                        <foreign corresp="#ch1transn58" xml:lang="la">Nam genus immortale manet.</foreign><note resp="#HH" subtype="translation" type="editorial" xml:id="ch1transn58">For the race continues undying. Virgil, <hi rend="italic">Georgics</hi> IV.208</note>
                         <note subtype="bibliographic" type="authorial" xml:id="ch1bibln65">
                             <bibl>Georg.4.</bibl>
                         </note>
@@ -5118,7 +5118,7 @@
                 <p xml:id="ch4par11"><note subtype="summary" type="authorial" xml:id="ch4sumn10">10.
                         The fift reason is the apparent signes of their Sex.</note> By this time
                     thou wilt say with me, that the Drone is the male-Bee: Whereof if some curious
-                    Chirurgion would make an Anotomie, he should easily discerne <foreign corresp="#ch4transn14" xml:lang="la">Duos amplos &amp; candidos testes</foreign>,<note resp="#HH" subtype="translation" type="editorial" xml:id="ch4transn14">two well-sized white testes</note> two <app subtype="change" type="vocabulary">
+                    Chirurgion would make an Anotomie, he should easily discerne <foreign corresp="#ch4transn14" xml:lang="la">Duos amplos &amp; candidos testes</foreign>,<note resp="#HH" subtype="translation" type="editorial" xml:id="ch4transn14">Two well-sized white testes</note> two <app subtype="change" type="vocabulary">
                         <lem wit="#b1623">lawfull</lem>
                         <rdg wit="#b1609"><ptr target="1609.xml#ch4ancs21 1609.xml#ch4ance21"></ptr></rdg>
                     </app> witnesses of his Masculine Sex.</p>
@@ -5425,7 +5425,7 @@
                         Cephen.</foreign> But let no nimble tongued Sophisters gather a false
                     conclusion from these true premisses, that they, by the example of these, may
                     arrogat to themselves the like superioritie: for <foreign corresp="#ch4transn31" xml:lang="la">Ex
-                        particulare non est syllogizare,</foreign><note resp="#HH" subtype="translation" type="editorial" xml:id="ch4transn31">one should not argue by syllogism from the particular</note> and he that made these to command
+                        particulare non est syllogizare,</foreign><note resp="#HH" subtype="translation" type="editorial" xml:id="ch4transn31">One should not argue by syllogism from the particular</note> and he that made these to command
                     their males, commanded them to be commanded. But if they would so faine to have
                     it so, let them first imitate their singular virtues, their continuall industry
                     in gathering, their diligent watchfulnesse in keeping, <app subtype="add" type="minor">
@@ -6138,7 +6138,7 @@
                         <rdg wit="#b1609"><ptr target="1609.xml#ch5ancs27 1609.xml#ch5ance27"></ptr></rdg>
                     </app>. For the Bees, knowing by nature that the greatest companies doe prosper
                     best, untill they finde themselves so pestred with heat and throng of
-                    multitudes, that the Hive can scarce hold any more, will have <ref target="#ch5ednote34" type="attachment" xml:id="ch5ednatt34">no minde to</ref><note resp="#OS" source="context" subtype="gloss" type="editorial" xml:id="ch5ednote34">i.e. the hive of bees will have no wish or desire (mind, n.1, OED 11.a) to swarm. Sometimes, the bees are characterised as having a collective mind, as in this instance; at other times individual minds (<ref target="#ch5par19">as in section 20</ref>) <q rend="marks">their minds are so set</q>.</note>swarme: and
+                    multitudes, that the Hive can scarce hold any more, will have <ref target="#ch5ednote34" type="attachment" xml:id="ch5ednatt34">no minde to </ref><note resp="#OS" source="context" subtype="gloss" type="editorial" xml:id="ch5ednote34">i.e. the hive of bees will have no wish or desire (mind, n.1, OED 11.a) to swarm. Sometimes, the bees are characterised as having a collective mind, as in this instance; at other times individual minds (<ref target="#ch5par19">as in section 20</ref>) <q rend="marks">their minds are so set</q>.</note>swarme: and
                     when they have once taken to lie forth, the hive will alwaies seem empty, as
                     though they wanted company. </p>
                 <p xml:id="ch5par19"><app subtype="add" type="major">
@@ -6462,7 +6462,7 @@
                         queen that is still inside her cell. Quacking is composed of shorter
                         syllables (&lt; 200 ms each) and does not rise in frequency and amplitude
                         like tooting. The frequency is slightly lower ( 200 and 350) than tooting. (Kirchner 1993: 297-307; Michelsen et al 1986: 605-11.)
-                    </note><note resp="#JR" source="Topsell" subtype="gloss" type="editorial" xml:id="ch5ednote49v">Butler was not alone in hearing the piping in a hive at the point of swarming. His contemporary Edward Topsell also heard ‘a solitary, mournfull, and peculiar kinde of voyce’, but his conception of the hive as a patriarchal monarchy (or tyranny) shapes a different interpretation of what he thinks is happening. He likens the piping to a military trumpet, and imagines swarming as akin to a political revolution, when a decision is made to abandon a (male) tyrant (Topsell, <hi rend="italic"> Historie of Serpents</hi>, 1608, G5r).  For discussion of Butler’s bee music see Austern 1988; Richards 2023).</note> When the prime
+                    </note><note resp="#JR" source="Topsell" subtype="gloss" type="editorial" xml:id="ch5ednote49v">Butler was not alone in hearing the piping in a hive at the point of swarming. His contemporary Edward Topsell also heard ‘a solitary, mournfull, and peculiar kinde of voyce’, but his conception of the hive as a patriarchal monarchy (or tyranny) shapes a different interpretation of what he thinks is happening. He likens the piping to a military trumpet, and imagines swarming as akin to a political revolution, when a decision is made to abandon a (male) tyrant (Topsell, <hi rend="italic"> Historie of Serpents</hi>, 1608, G5r).  For discussion of Butler’s bee music see Austern 1988; Richards 2023.</note> When the prime
                     swarme is gone (if the stocke shall <app subtype="change" type="vocabulary">
                         <lem wit="#b1623">cast</lem>
                         <rdg wit="#b1609"><ptr target="1609.xml#ch5ancs46 1609.xml#ch5ance46"></ptr></rdg>
@@ -7270,7 +7270,7 @@
                     <quote><bibl><ptr target="#ch5bibln32X1"></ptr></bibl>
                         <foreign corresp="#ch5transn3" xml:lang="la"><hi rend="italic">Gaudere etiam plausu, &amp; sonitu apes videntur.
                             Quapropter tinnitu aeris aut Fictilis convocari eas in alveum aiunt.
-                        </hi></foreign><note resp="#HH" subtype="translation" type="editorial" xml:id="ch5transn3">Bees seem even to take pleasure in clapping and noise; consequently they say they can be summoned to their hive by the ringing of bronze/copper or earthenware. <hi rend="italic">HA</hi> IX.40 (627a)</note>
+                        </hi></foreign><note resp="#HH" subtype="translation" type="editorial" xml:id="ch5transn3">Bees seem even to take pleasure in clapping and noise; consequently they say they can be summoned to their hive by the ringing of bronze/copper or earthenware. <hi rend="italic">HA</hi> IX.40 (627a) (in Latin translation)</note>
                     </quote><app subtype="del" type="minor">
                         <lem wit="#b1623"></lem>
                         <rdg wit="#b1609"><ptr target="1609.xml#ch5ancs69 1609.xml#ch5ance69"></ptr></rdg>
@@ -8734,7 +8734,7 @@
                     <fw type="header"> Of the Bees Worke. </fw>
                     <app subtype="add" type="reference">
                         <lem wit="#b1623">nurses. <quote><foreign corresp="#ch6transn10" xml:lang="la">Dictaeo caeli regem
-                            pavêre sub antro.</foreign><note resp="#HH" subtype="translation" type="editorial" xml:id="ch6transn10">They fed the king of heaven  in a cave beneath Mount Dicte. Virgil,<hi rend="italic">Georgics</hi> IV.152</note>
+                            pavêre sub antro.</foreign><note resp="#HH" subtype="translation" type="editorial" xml:id="ch6transn10">They fed the king of heaven  in a cave beneath Mount Dicte. Virgil, <hi rend="italic">Georgics</hi> IV.152</note>
                             <bibl><hi rend="italic"> Virg.Geor.</hi>4.</bibl>
                             </quote> And afterward, when they would make him immortal; because of
                             the long-preserving vertue that hony hath, (<ref target="#ch10p3sumn1">v.c.10.par.3.n.1.</ref>) they fained it to be his immortall food. <quote>
@@ -8801,7 +8801,7 @@
                         </note>
                         <foreign corresp="#ch6transn13" xml:lang="la">Ceram apes perreptando flores capiunt priorum acumine
                             pedum: mox priores in medios abstergunt, &amp; medios in blaesa
-                            posteriorum.)</foreign><note resp="#HH" subtype="translation" type="editorial" xml:id="ch6transn13">The bees take wax on the tips of their front legs by crawling through flowers: after which they soon wipe their front legs clean on their middle legs, and the middle legs on the hollows of their back legs. <hi rend="italic">AH</hi> IX.40 (624a fin.–b init.)</note>
+                            posteriorum.)</foreign><note resp="#HH" subtype="translation" type="editorial" xml:id="ch6transn13">The bees take wax on the tips of their front legs by crawling through flowers: after which they soon wipe their front legs clean on their middle legs, and the middle legs on the hollows of their back legs. <hi rend="italic">HA</hi> IX.40 (624a fin.–b init.)</note>
                     </quote> But against (as I shall shew you) both sense and reason. </p>
                 <p xml:id="ch6par17"><note subtype="summary" type="authorial" xml:id="ch6sumn24">24.
                         Which error is disproved by sense.</note> If you put it to your tongue, it
@@ -8991,7 +8991,7 @@
                 </p>
                 <p xml:id="ch6par28"><note subtype="summary" type="authorial" xml:id="ch6sumn34">34.
                         Dandelion continueth longest.</note> The Dent-delion, or after the French
-                    pronounciation Dandelion, may well be called <foreign corresp="#ch6transn21" xml:lang="la">apiastrum</foreign> or <foreign xml:lang="la"> mellissophyllon</foreign>.<note resp="#HH" subtype="translation" type="editorial" xml:id="ch6transn21">a plant, known as mock parsley. [The derivation of <hi rend="italic">apiastrum</hi> from <hi rend="italic">apis</hi> (bee) is indirect, coming via <hi rend="italic">apium</hi>, parsley, another plant of which bees are fond.]</note>
+                    pronounciation Dandelion, may well be called <foreign corresp="#ch6transn21" xml:lang="la">apiastrum</foreign> or <foreign xml:lang="la"> mellissophyllon</foreign>.<note resp="#HH" subtype="translation" type="editorial" xml:id="ch6transn21">A plant, known as mock parsley. [The derivation of <hi rend="italic">apiastrum</hi> from <hi rend="italic">apis</hi> (bee) is indirect, coming via <hi rend="italic">apium</hi>, parsley, another plant of which bees are fond.]</note>
                     For the Bees gather upon it almost all the yeere. The Dazy and Yelowcrea are
                     next for continuance, but nothing so much regarded. </p>
                 <p xml:id="ch6par29"><note subtype="summary" type="authorial" xml:id="ch6sumn35">35.
@@ -9135,7 +9135,7 @@
                     doth it descend unto the earth in a dew or small drizling raine: that he might
                     well say, <quote>
                         <foreign corresp="#ch6transn32" xml:lang="la">Constat materiam, ex qua mel gignitur, rori esse
-                            congenerem.</foreign><note resp="#HH" subtype="translation" type="editorial" xml:id="ch6transn32">It is agreed that the matter out of which honey has its origin is related to dew. Galen, <hi rend="italic">De Alimentorum Facultatibus</hi> III.39 in Latin translation </note>
+                            congenerem.</foreign><note resp="#HH" subtype="translation" type="editorial" xml:id="ch6transn32">It is agreed that the matter out of which honey has its origin is related to dew. Galen, <hi rend="italic">De Alimentorum Facultatibus</hi> III.39 (in Latin translation) </note>
                         <note subtype="bibliographic" type="authorial" xml:id="ch6bibln37">
                             <bibl>Galen.de aliment. li.3</bibl>
                         </note>
@@ -9716,8 +9716,8 @@
                             <rdg wit="#b1609"></rdg>
                         </app></p>
                     <p xml:id="ch7par12">
-                        <foreign xml:lang="la"><app subtype="add" type="major">
-                                <lem corresp="#ch7transn1" wit="#b1623">Sed instar omnium erit hoc unum. R. Farinae 1.
+                        <app subtype="add" type="major">
+                            <lem wit="#b1623"><foreign corresp="#ch7transn1" xml:lang="la">Sed instar omnium erit hoc unum. R. Farinae 1.
                                     avenacae novae aridae dulcis Drachmas IV. tere: 2. Arsenicae
                                     albae 3. semi-drachmam, in pulverem quam queas 4. minimum per se
                                     pertere: 5. sacchari puri semi-drachmam cum arsenica contere:
@@ -9755,9 +9755,9 @@
                                         <item>7. Nam si alia suppetant cibaria, fucatas escas
                                             devitant: nec ubi fraus semel suboluerit, ullis postea
                                             decipulis facilè decipientur.</item>
-                                    </list></lem>
+                                    </list></foreign></lem>
                                 <rdg wit="#b1609"></rdg>
-                        </app></foreign><note resp="#HH" subtype="translation" type="editorial" xml:id="ch7transn1">But this one will be the pattern for all of them. R[eceipt]: Grind four drachms of fresh sweet dry oatmeal (1); of white arsenic (2) grind a half-drachm (3) by itself into as fine a powder as you can (4); grind a half-drachm of pure sugar (5) with the arsenic; mix the sugared arsenic well with the oatmeal. Once this powder is made (6) put it down placed upon small tiles next to mouseholes and in places which mice frequent (having removed other food sources (7)). But on the first night leave out plain flour: for which, after it has been eaten, you should substitute sugared flour on the second night; on the third this triple powder should follow, and now that they are sufficiently daring and suspect nothing, this will kill the mice and rats [<hi rend="italic">Sorex</hi>, in Classical Latin a shrew, in later Latin can refer to a variety of rodents. Rats seem most likely here] alike that are infesting your house all in one go. But if you want a more certain remedy against an infestation of rats, grind one drachm of sugar with one drachm of finely ground arsenic; mix the sugared arsenic well with one ounce of sweet ground brewing malt, and put it down in three or four places which they frequent; or in the same place raisins dotted inside with a small measure of pure ground arsenic. But take especial care that no dogs, chickens or other harmless animals taste them, which you may achieve if you only put it out at night and hide it away during the day.
+                        </app><note resp="#HH" subtype="translation" type="editorial" xml:id="ch7transn1">But this one will be the pattern for all of them. R[eceipt]: Grind four drachms of fresh sweet dry oatmeal (1); of white arsenic (2) grind a half-drachm (3) by itself into as fine a powder as you can (4); grind a half-drachm of pure sugar (5) with the arsenic; mix the sugared arsenic well with the oatmeal. Once this powder is made (6) put it down placed upon small tiles next to mouseholes and in places which mice frequent (having removed other food sources (7)). But on the first night leave out plain flour: for which, after it has been eaten, you should substitute sugared flour on the second night; on the third this triple powder should follow, and now that they are sufficiently daring and suspect nothing, this will kill the mice and rats [<hi rend="italic">Sorex</hi>, in Classical Latin a shrew, in later Latin can refer to a variety of rodents. Rats seem most likely here] alike that are infesting your house all in one go. But if you want a more certain remedy against an infestation of rats, grind one drachm of sugar with one drachm of finely ground arsenic; mix the sugared arsenic well with one ounce of sweet ground brewing malt, and put it down in three or four places which they frequent; or in the same place raisins dotted inside with a small measure of pure ground arsenic. But take especial care that no dogs, chickens or other harmless animals taste them, which you may achieve if you only put it out at night and hide it away during the day.
                             <list> <item>(1) or wheatmeal.</item> 
                                <item>(2) true arsenic.</item>
                                 <item> (3) so that the arsenic should make up only a tenth part, for if it is preponderant, mice – and more so rats – smell the poison and refuse the food which if it is correctly made up they will devour eagerly; a little amount is enough.</item> 
@@ -9864,7 +9864,7 @@
                             <bibl>Virg.</bibl>
                         </note>
                         <foreign corresp="#ch7transn7" xml:lang="la">Aut asper crabro imparibus se immiscuit
-                            armis.</foreign><note resp="#HH" subtype="translation" type="editorial" xml:id="ch7transn7">…or the fierce hornet has come in with weapons they cannot match.Virgil, <hi rend="italic">Georgics</hi> IV.245</note>
+                            armis.</foreign><note resp="#HH" subtype="translation" type="editorial" xml:id="ch7transn7">…or the fierce hornet has come in with weapons they cannot match. Virgil, <hi rend="italic">Georgics</hi> IV.245</note>
                     </quote></p>
                 <p xml:id="ch7par18">Hir manner is to fly about before the Hive, till she have spied
                     hir pray settled at the doore: and then suddenly she taketh it in hir feet, and
@@ -10084,7 +10084,7 @@
                         <foreign corresp="#ch7transn9" xml:lang="la"> Impugnantur <hi rend="opposite">(saith he)</hi> Apes
                             à vespis: quamobrem Apiarii eas venantur constitutâ ollâ, &amp; carne in
                             ea positâ. Ubi enim multae ad carnem accesserint, apposito operculo
-                            super ignem ollam ponunt.</foreign><note resp="#HH" subtype="translation" type="editorial" xml:id="ch7transn9">Bees are attacked by wasps; for this reason beekeepers trap them by setting out a pot with meat placed in it. For when many wasps have come to the meat, they cover the pot and put it over the fire. <hi rend="italic">HA</hi>(627b init.)</note>
+                            super ignem ollam ponunt.</foreign><note resp="#HH" subtype="translation" type="editorial" xml:id="ch7transn9">Bees are attacked by wasps; for this reason beekeepers trap them by setting out a pot with meat placed in it. For when many wasps have come to the meat, they cover the pot and put it over the fire. <hi rend="italic">HA</hi> (627b init.)</note>
                         <bibl><ptr target="#ch7biblnX12"></ptr></bibl></quote> You may also use other
                     meanes to kil them your selfe. How to helpe and defend your Bees against them,
                     see <ref target="#ch3sumn46"> c.3.n.46,</ref><ref target="#ch3sumn47">47,</ref><ref target="#ch3sumn54">54,</ref><ref target="#ch3sumn55">55.</ref></p>
@@ -10884,7 +10884,7 @@
                     </app><app subtype="add" type="major">
                         <lem wit="#b1623">some swarmes are sufficiently provided: which you may
                             reckon as Jewels, the verie <foreign corresp="#ch8transn1" xml:lang="la">Spes
-                                gregis</foreign>;<note resp="#HH" subtype="translation" type="editorial" xml:id="ch8transn1">hope of the flock [cf. Virgil, <hi rend="italic">Eclogues</hi> I.15]</note> whose increase the next yeere is certaine, if they be
+                                gregis</foreign>;<note resp="#HH" subtype="translation" type="editorial" xml:id="ch8transn1">Hope of the flock [cf. Virgil, <hi rend="italic">Eclogues</hi> I.15]</note> whose increase the next yeere is certaine, if they be
                             not over-hived. Some are not provided for halfe the time: and these, as
                             desperately poore, are not worth the <fw type="catch"> feeding.</fw>
                             <pb n="S2v"></pb>
@@ -11498,7 +11498,7 @@
                         And therefore, as in a wet hungry yeere you must keepe the best, so in a
                         drie yeere, rich and plentifull in Honie-dewes, the worst are like to prove
                         best for store. </p>
-                    <p xml:id="ch10p1par4">But generally take the best, and the worst. <foreign corresp="#ch9transn3" xml:lang="la">In medio virtus.</foreign><note resp="#HH" subtype="translation" type="editorial" xml:id="ch9transn3">virtue lies in moderation</note> And ever suspect those that rid
+                    <p xml:id="ch10p1par4">But generally take the best, and the worst. <foreign corresp="#ch9transn3" xml:lang="la">In medio virtus.</foreign><note resp="#HH" subtype="translation" type="editorial" xml:id="ch9transn3">Virtue lies in moderation</note> And ever suspect those that rid
                         not their Drones in time, <ref target="#ch10p1bibln5">v.</ref>
                         <note subtype="bibliographic" type="authorial" xml:id="ch10p1bibln5">
                             <ref target="#ch4sumn30"> V.c.4.n.30. </ref>
@@ -11877,7 +11877,7 @@
                         </note> in the top of the Combes, specially if there be any store, because
                         it will not runne, you must either wash into the warme Meth-liquor; or melt
                         it with the Cells on a soft fire, or in a hot oven, or in <foreign corresp="#ch10transn30" xml:lang="la"><term>Balneo
-                            Mariae</term></foreign>,<note resp="#HH" subtype="translation" type="editorial" xml:id="ch10transn30">in a bain-marie</note> <ref target="#ch10p2bibln6">v:</ref>
+                            Mariae</term></foreign>,<note resp="#HH" subtype="translation" type="editorial" xml:id="ch10transn30">a bain-marie</note> <ref target="#ch10p2bibln6">v:</ref>
                         <note subtype="bibliographic" type="authorial" xml:id="ch10p2bibln6">
                             <ref target="#ch3sumn7"> V.p.3.n.7. </ref>
                         </note> and so shall you have the Honie by it selfe, and the Wax swimming
@@ -12573,7 +12573,7 @@
                         and changing them when they are warme, will turne into a water of a red
                         colour like blood. When it is all distilled, keepe the Receiver close shut,
                         and let it stand till it be cleere, and of the colour of a Rubie. Then
-                        distill it in <foreign corresp="#ch10transn9" xml:lang="la"><term>Balneo Mariae</term></foreign><note resp="#HH" subtype="translation" type="editorial" xml:id="ch10transn9">in a bain-marie</note> seven times; and so it will lose
+                        distill it in <foreign corresp="#ch10transn9" xml:lang="la"><term>Balneo Mariae</term></foreign><note resp="#HH" subtype="translation" type="editorial" xml:id="ch10transn9">a bain-marie</note> seven times; and so it will lose
                         this reddish colour, and become yellow as Gold, having a great smell and
                         exceeding pleasant. </p>
                     <note place="inline" subtype="gloss" type="authorial" xml:id="ch10p3glon7">*The
