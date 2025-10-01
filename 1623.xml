@@ -5649,7 +5649,7 @@
                         and less by the workers</q>, who <q rend="marks">begin to show mild hostility . . . shaking,
                         pushing, and lightly biting her</q>. <q rend="marks">These bouts of rough handling force the
                         queen to keep walking about the nest</q>. Thus, the <q rend="marks">mother queen ... is put
-                        into flying</q>. Meanwhile the scout bees search for new “dwelling places.”
+                        into flying trim</q>. Meanwhile the scout bees search for new “dwelling places.”
                         When the weather is right, and <q rend="marks">the developing queens have reached the pupal
                         stage</q>, the scout bees prepare the worker bees for flight by pressing their
                         thorax against their bodies and activating the flight muscles; this produces
@@ -9716,8 +9716,8 @@
                             <rdg wit="#b1609"></rdg>
                         </app></p>
                     <p xml:id="ch7par12">
-                        <app subtype="add" type="major">
-                            <lem wit="#b1623"><foreign corresp="#ch7transn1" xml:lang="la">Sed instar omnium erit hoc unum. R. Farinae 1.
+                        <foreign xml:lang="la"><app subtype="add" type="major">
+                                <lem corresp="#ch7transn1" wit="#b1623">Sed instar omnium erit hoc unum. R. Farinae 1.
                                     avenacae novae aridae dulcis Drachmas IV. tere: 2. Arsenicae
                                     albae 3. semi-drachmam, in pulverem quam queas 4. minimum per se
                                     pertere: 5. sacchari puri semi-drachmam cum arsenica contere:
@@ -9755,9 +9755,9 @@
                                         <item>7. Nam si alia suppetant cibaria, fucatas escas
                                             devitant: nec ubi fraus semel suboluerit, ullis postea
                                             decipulis facilè decipientur.</item>
-                                    </list></foreign></lem>
+                                    </list></lem>
                                 <rdg wit="#b1609"></rdg>
-                        </app><note resp="#HH" subtype="translation" type="editorial" xml:id="ch7transn1">But this one will be the pattern for all of them. R[eceipt]: Grind four drachms of fresh sweet dry oatmeal (1); of white arsenic (2) grind a half-drachm (3) by itself into as fine a powder as you can (4); grind a half-drachm of pure sugar (5) with the arsenic; mix the sugared arsenic well with the oatmeal. Once this powder is made (6) put it down placed upon small tiles next to mouseholes and in places which mice frequent (having removed other food sources (7)). But on the first night leave out plain flour: for which, after it has been eaten, you should substitute sugared flour on the second night; on the third this triple powder should follow, and now that they are sufficiently daring and suspect nothing, this will kill the mice and rats [<hi rend="italic">Sorex</hi>, in Classical Latin a shrew, in later Latin can refer to a variety of rodents. Rats seem most likely here] alike that are infesting your house all in one go. But if you want a more certain remedy against an infestation of rats, grind one drachm of sugar with one drachm of finely ground arsenic; mix the sugared arsenic well with one ounce of sweet ground brewing malt, and put it down in three or four places which they frequent; or in the same place raisins dotted inside with a small measure of pure ground arsenic. But take especial care that no dogs, chickens or other harmless animals taste them, which you may achieve if you only put it out at night and hide it away during the day.
+                        </app></foreign><note resp="#HH" subtype="translation" type="editorial" xml:id="ch7transn1">But this one will be the pattern for all of them. R[eceipt]: Grind four drachms of fresh sweet dry oatmeal (1); of white arsenic (2) grind a half-drachm (3) by itself into as fine a powder as you can (4); grind a half-drachm of pure sugar (5) with the arsenic; mix the sugared arsenic well with the oatmeal. Once this powder is made (6) put it down placed upon small tiles next to mouseholes and in places which mice frequent (having removed other food sources (7)). But on the first night leave out plain flour: for which, after it has been eaten, you should substitute sugared flour on the second night; on the third this triple powder should follow, and now that they are sufficiently daring and suspect nothing, this will kill the mice and rats [<hi rend="italic">Sorex</hi>, in Classical Latin a shrew, in later Latin can refer to a variety of rodents. Rats seem most likely here] alike that are infesting your house all in one go. But if you want a more certain remedy against an infestation of rats, grind one drachm of sugar with one drachm of finely ground arsenic; mix the sugared arsenic well with one ounce of sweet ground brewing malt, and put it down in three or four places which they frequent; or in the same place raisins dotted inside with a small measure of pure ground arsenic. But take especial care that no dogs, chickens or other harmless animals taste them, which you may achieve if you only put it out at night and hide it away during the day.
                             <list> <item>(1) or wheatmeal.</item> 
                                <item>(2) true arsenic.</item>
                                 <item> (3) so that the arsenic should make up only a tenth part, for if it is preponderant, mice – and more so rats – smell the poison and refuse the food which if it is correctly made up they will devour eagerly; a little amount is enough.</item> 
