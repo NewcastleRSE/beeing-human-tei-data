@@ -4933,7 +4933,7 @@
                     </app>
                 </p>
                 <note place="inline" subtype="gloss" type="authorial" xml:id="ch4glon1"><app subtype="change" type="minor">
-                    <lem wit="#b1623">*<foreign corresp="#ch4transn9" xml:lang="la">Hic fucus, ὁ κηφήν: Ac haec apis,
+                    <lem wit="#b1623">*<foreign corresp="#ch4transn9" xml:lang="la">Hic fucus, ὁ κηφήν: At haec apis,
                         ἡ μέλισσα, דבורה, cum ה faeminino </foreign><note resp="#HH" subtype="translation" type="editorial" xml:id="ch4transn9">fucus, <hi rend="italic">kephēn</hi> – drone – is masculine in Latin and Greek, but apis, <hi rend="italic">melissa</hi> – bee – is feminine; and also in Hebrew: <hi rend="italic">dvora (Deborah)</hi>, with a feminine ‘a’ ending.</note></lem>
                     <rdg wit="#b1609"><ptr target="1609.xml#ch4ancs13 1609.xml#ch4ance13"></ptr></rdg>
                 </app>
