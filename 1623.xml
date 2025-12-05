@@ -1767,7 +1767,7 @@
                     <pb n="B3r"></pb>
                     <fw type="header"> and of their Queene. </fw> that it is more round than the
                     little Bees, by reason hir fangs be shorter: hir tongue not halfe so long as
-                    theirs: for whereas they gather with the one Nectar, with the other Ambrosia;
+                    <app type="minor" subtype="change"><lem wit="#b1623">theirs</lem><rdg wit="#b1609"><ptr target="1609.xml#ch1ancs8x 1609.xml#ch1ance8x"/></rdg></app>: for whereas they gather with the one Nectar, with the other Ambrosia;
                         <ref target="#ch1bibln15">v.</ref>
                     <note subtype="bibliographic" type="authorial" xml:id="ch1bibln15"><ref target="#ch6sumn17">V.c.6.n.17.</ref></note> shee hath no need to use
                     either, being to be maintained, as other Princes, by the labour of hir subjects:
